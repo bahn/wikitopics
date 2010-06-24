@@ -1,4 +1,5 @@
 // May 25th. Ignore the pages that has less than 1000 views.
+// Wednesday, May 26, 2010. Clean anchors and check if the page title is valid
 
 package wikitrends;
 
@@ -90,6 +91,59 @@ public class Trends {
 		}
 		return result;
 	}
+	
+	public static boolean isValidTitle(String pagetitle)
+	{
+		String[] namespace_titles = {"Media",
+				"Special",
+				"Talk",
+				"User",
+			    "Talk", "User", "User_talk", "Project", "Project_talk", "File",
+    		    "File_talk", "MediaWiki", "MediaWiki_talk", "Template",
+    		    "Template_talk", "Help", "Help_talk", "Category",
+    		    "Category_talk", "Portal", "Wikipedia", "Wikipedia_talk"};
+		
+		for (String title : namespace_titles) {
+			if (pagetitle.startsWith(title + ":")) {
+				return false;
+			}
+		}
+		
+		if (pagetitle.length() == 0) {
+			return false;
+		}
+		char first_letter = pagetitle.charAt(0);
+		if (first_letter >= 'a' && first_letter <= 'z') {
+			return false;
+		}
+		
+		String[] image_extensions = {"jpg", "gif", "png", "JPG", "PNG", "GIF", "txt", "ico"};
+		for (String extension : image_extensions) {
+			if (pagetitle.endsWith("." + extension)) {
+				return false;
+			}
+		}
+		
+		String[] blacklist = {"404_error", "Main_Page", "Hypertext_Transfer_Protocol", "Favicon.ico", "Search", "index.html", "Wiki"};
+		for (String culprit : blacklist) {
+			if (culprit.equals(pagetitle)) {
+				return false;
+			}
+		}
+		
+		return true;
+	}
+	
+	public static String cleanAnchors(String pagetitle)
+	{
+		if (pagetitle.contains("#")) {
+			int anchor_point = pagetitle.indexOf("#");
+			String newTitle = pagetitle.substring(0, anchor_point);
+			return newTitle;
+		}
+		return pagetitle;
+	}
+	
 	/**
 	 * @param args
 	 */
@@ -118,9 +172,12 @@ public class Trends {
 					if (fields[0].equals("en")) {
 						if (fields.length>=3) {
 							String pagetitle = fields[1];
-							int counts = Integer.parseInt(fields[2]);
-							if (counts >= 1000) {
-								todaysCounts.put(pagetitle, counts);
+							pagetitle = cleanAnchors(pagetitle);
+							if (isValidTitle(pagetitle)) {
+								int counts = Integer.parseInt(fields[2]);
+								if (counts >= 1000) {
+									todaysCounts.put(pagetitle, counts);
+								}
 							}
 						}
 					}
