@@ -1,5 +1,6 @@
-// May 25th. Ignore the pages that has less than 1000 views.
-// Wednesday, May 26, 2010. Clean anchors and check if the page title is valid
+// Change log.
+// Wednesday, May 26, 2010 -- Clean anchors and check if the page title is valid
+// May 25th -- Ignore the pages that has less than 1000 views.
 
 package wikitrends;
 
@@ -148,6 +149,10 @@ public class Trends {
 	 * @param args
 	 */
 	public static void main(String[] args) throws IOException {
+		if (args.length < 1) {
+			System.out.println("Usage: wikitrends pagecounts-path");
+		}
+		
 		String directoryName = args[0];
 		File dir = new File(directoryName);
 		Queue<HashMap<String, Integer>> current15days = new LinkedList<HashMap<String, Integer>>();
