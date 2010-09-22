@@ -34,9 +34,7 @@ def read_clusters(filename, bag):
 		numInstances = 0
 	else:
 	    topic = tokens[0].strip()
-	    if not topic in bag:
-		bag[topic] = set()
-	    bag[topic].add(numClusters)
+	    bag[topic] = numClusters
 	    numInstances += 1
     if numInstances:
 	numClusters += 1
@@ -45,9 +43,9 @@ def read_clusters(filename, bag):
     
 print "gold standard:", gold_file
 print "clustering:", clustering
-ret = read_clusters(gold_file, label)
+ret = read_clusters(gold_file, cluster)
 print "clusters of gold standard:", ret
-ret = read_clusters(clustering, cluster)
+ret = read_clusters(clustering, label)
 print "clusters of test set:", ret
 del ret
 
@@ -62,40 +60,37 @@ for key in cluster.keys():
 	print key, 'is missing in label'
 	sys.exit(0)
 
-precision = 0.0
-recall = 0.0
-noprecision = 0
-norecall = 0
-
-for i, e in enumerate(keys):
-    mulprec = 0.0
-    mulrec = 0.0
-    nomulprec = 0
-    nomulrec = 0
-    for i2, e2 in enumerate(keys):
-	if not i < i2:
+precnum = 0
+precden = 0
+for e in keys:
+    for e2 in keys:
+	if e == e2:
 	    continue
-	labelintersection = len(label[e] & label[e2])
-	clusterintersection = len(cluster[e] & cluster[e2])
-	less = min(labelintersection, clusterintersection)
-	if clusterintersection > 0:
-	    mulprec += float(less) / float(clusterintersection)
-	    nomulprec += 1
-	if labelintersection > 0:
-	    mulrec += float(less) / float(labelintersection)
-	    nomulrec += 1
-    if nomulprec > 0:
-	precision += mulprec / float(nomulprec)
-	noprecision += 1
-    if nomulrec > 0:
-	recall += mulrec / float(nomulrec)
-	norecall += 1
-if noprecision > 0:
-    precision /= float(noprecision)
-if norecall > 0:
-    recall /= float(norecall)
+	if label[e] != label[e2]:
+	    continue
+	precden += 1
+	if cluster[e] == cluster[e2]:
+	    precnum += 1
+precnum /= 2
+precden /= 2
 
+recnum = 0
+recden = 0
+for e in keys:
+    for e2 in keys:
+	if e == e2:
+	    continue
+	if cluster[e] != cluster[e2]:
+	    continue
+	recden += 1
+	if label[e] == label[e2]:
+	    recnum += 1
+recnum /= 2
+recden /= 2
+
+precision = float(precnum) / float(precden)
+recall = float(recnum) / float(recden)
 fscore = 2*precision*recall / (precision + recall)
-print "Multiplicity BCubed precision: %.4f" % (precision)
-print "Multiplicity BCubed recall:    %.4f" % (recall)
-print "Multiplicity BCubed F-score:   %.4f" % (fscore)
+print "BCubed precision: %.4f (%d/%d)" % (precision, precnum, precden)
+print "BCubed recall:    %.4f (%d/%d)" % (recall, recnum, recden)
+print "BCubed F-score:   %.4f" % (fscore)
