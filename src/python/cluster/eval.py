@@ -73,7 +73,7 @@ for i, e in enumerate(keys):
     nomulprec = 0
     nomulrec = 0
     for i2, e2 in enumerate(keys):
-	if not i < i2:
+	if i == i2:
 	    continue
 	labelintersection = len(label[e] & label[e2])
 	clusterintersection = len(cluster[e] & cluster[e2])
