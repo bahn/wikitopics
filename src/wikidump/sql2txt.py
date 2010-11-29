@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+#
+# sql2txt.py
+#
+# Input: page.sql and redirects.sql
+# Output: redirects.txt and non_redirects.txt
+
 import sys
 import simplejson
 

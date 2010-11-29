@@ -1,4 +1,10 @@
-f = open('enwiki-20100622-redirect.sql','r')
+#!/usr/bin/env python
+import gzip
+import sys
+
+if len(sys.argv) < 2:
+	sys.exit(1)
+f = gzip.open(sys.argv[1],'r')
 
 for line in f:
 	if len(line) > 100:
