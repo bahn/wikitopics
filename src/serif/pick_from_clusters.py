@@ -15,20 +15,6 @@ import serif
 import datetime
 
 
-def convert_to_date(str):
-	pattern = re.compile(r"(\d{4})-(\d{2})-(\d{2})")
-	if not pattern.match(str):
-		print "invalid format; need iso format:", str
-		sys.exit(1)
-	else:
-		m = pattern.match(str)
-		year = m.group(1)
-		month = m.group(2)
-		day = m.group(3)
-		date = datetime.date(int(year), int(month), int(day))
-		return date
-
-
 
 def read_clusters(file):
 	clusters = []
@@ -54,7 +40,7 @@ if __name__=='__main__':
 	if len(sys.argv) != 4:
 		print "Usage: pick_recent_date.py [YYYY-MM-DD] [/path/to/cluster/file] [/path/to/apf/directory/]"
 		sys.exit(1)
-	date = convert_to_date(sys.argv[1])
+	date = serif.convert_to_date(sys.argv[1])
 	clusters = read_clusters(open(sys.argv[2], 'r'))
 	path = sys.argv[3]
 	for cluster in clusters:

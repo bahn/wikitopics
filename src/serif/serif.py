@@ -41,7 +41,7 @@ class Text:
 
 
 class Analysis:
-	def __init__(self, file):
+	def __init__(self, text, file):
 		self.timexList = []
 		self.entityList = []
 		dom = parse(file)
@@ -58,7 +58,7 @@ class Analysis:
 									timex = Timex(val, start, end)
 									self.timexList.append(timex)
 				for entity_elem in document.getElementsByTagName('entity'):
-					entity = Entity(entity_elem.getAttribute('TYPE'), entity_elem.getAttribute('SUBTYPE'))
+					entity = Entity(text, entity_elem.getAttribute('TYPE'), entity_elem.getAttribute('SUBTYPE'))
 					self.entityList.append(entity)
 					for entity_mention in entity_elem.getElementsByTagName('entity_mention'):
 						start = 0
@@ -87,22 +87,36 @@ class Timex:
 
 
 class Entity:
-	def __init__(self, type, subtype):
+	def __init__(self, text, type, subtype):
 		self.type = type
 		self.subtype = subtype
-		self.name = None
+		self.name = ''
 		self.mentions = []
+		self.updated = False
+		self.text = text # for the time being, it assumed all mentions share a single text (source article).
 	def add_mention(self, mention):
 		if mention not in self.mentions:
 			self.mentions.append(mention)
+			self.updated = True
+	def update_name(self):
+		namecounts = {}
+		for mention in self.mentions:
 			if mention.type == 'NAM':
-				# set to self.name the longest name
-				if not self.name:
-					self.name = mention
-				elif self.name.end - self.name.start > mention.end - mention.start:
-					self.name = mention
+				name = self.text.substr(mention.start, mention.end)
+				if name in namecounts:
+					namecounts[name] += 1
+				else:
+					namecounts[name] = 1
+		maxcount = 0
+		for name in namecounts.keys():
+			if namecounts[name] > maxcount:
+				maxcount = namecounts[name]
+				self.name = name
 	def __str__(self):
-		return self.type + "-" + self.subtype
+		if self.updated:
+			self.update_name()
+			self.updated = False
+		return self.name + ' (' +  self.type + '-' + self.subtype + ')'
 
 
 class EntityMention:
@@ -115,7 +129,7 @@ class EntityMention:
 	def set_entity(self, entity):
 		entity.add_mention(self)
 	def __str__(self):
-		return '%s (%d,%d)' % (self.type, self.start, self.end)
+		return '%s' % (self.type)
 		
 
 
@@ -124,10 +138,24 @@ def read_sgm(filename):
 	return Text(file)
 
 
-def read_apf(filename):
+def read_apf(text, filename):
 	file = open(filename, 'r')
-	return Analysis(file)
+	return Analysis(text, file)
 
+
+
+def convert_to_date(str):
+	pattern = re.compile(r"(\d{4})-(\d{2})-(\d{2})")
+	if not pattern.match(str):
+		print "invalid format; need iso format:", str
+		sys.exit(1)
+	else:
+		m = pattern.match(str)
+		year = m.group(1)
+		month = m.group(2)
+		day = m.group(3)
+		date = datetime.date(int(year), int(month), int(day))
+		return date
 
 
 def delta_date_timex(date, timex):

@@ -14,11 +14,16 @@ import sys
 
 def check_apf(text, data):
     for entity in data.entityList:
-		print 'entity', entity
+		if entity.name:
+			print '#', text.substr(entity.name.start, entity.name.end).encode('utf8')
+		else:
+			print '#', unicode(str(entity), 'utf8')
+		
 		for mention in entity.mentions:
 			substr = text.substr(mention.start, mention.end)
-			line = text.expandstr(mention.start, mention.end)
-			print (substr + "\t" + line).encode('utf-8')
+			print substr.encode('utf8')
+#			line = text.expandstr(mention.start, mention.end)
+#			print (substr + " in " + line).encode('utf-8')
 
 
 if __name__ == '__main__':
@@ -26,5 +31,5 @@ if __name__ == '__main__':
 		print "Usage: extract_dates.py [sgm] [apf]"
 		sys.exit(1)
     text = serif.read_sgm(sys.argv[1])
-    data = serif.read_apf(sys.argv[2])
+    data = serif.read_apf(text, sys.argv[2])
     check_apf(text, data)
