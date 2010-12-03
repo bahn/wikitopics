@@ -17,6 +17,7 @@
 \usepackage{graphicx}
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
+\newcommand{\war}[1]{{\tt\small #1}}
 
 \title{What's up, Wikipedia? What is popular on Wikipedia and why.}
 
@@ -72,26 +73,26 @@ We compared our automatically collected clusters to the Wikipedia current events
 \centering
 \begin{tabular}{|c|}
 \hline
-Barack\_Obama \\
-Joe\_Biden \\
-White\_House \\
-Inauguration \\
+\war{Barack Obama} \\
+\war{Joe Biden} \\
+\war{White House} \\
+\war{Inauguration} \\
 \dots \\
-US\_Airways\_Flight\_1549 \\
-Chesley\_Sullenberger \\
-Hudson\_River \\
+\war{US Airways Flight 1549} \\
+\war{Chesley Sullenberger} \\
+\war{Hudson River} \\
 \dots \\
-Super\_Bowl \\
-Arizona\_Cardinals \\
+\war{Super Bowl} \\
+\war{Arizona Cardinals} \\
 \hline
 \end{tabular}
 \caption{The selected articles for January 27th, 2009. The underscores are used instead of spaces by Wikipedia.}
 \label{fig:topics-jan-27}
 \end{figure}
 
-For instance, we would attempt to cluster the articles in Figure~\ref{fig:topics-jan-27} into 3 clusters, \{ Barack Obama, Joe Biden, White House, Inauguration \} which corresponds to the inauguration of Barack Obama, \{ US Airways Flight 1549, Chesley Sullenburger, Hudson River \} which corresponds to the successful ditching of an airplane into the Hudson river without loss of life, and \{ Superbowl, Arizona Cardinals \} which describes the then upcoming Superbowl XLIII.
+For instance, we would attempt to cluster the articles in Figure~\ref{fig:topics-jan-27} into 3 clusters, \{ \war{Barack Obama}, \war{Joe Biden}, \war{White House}, \war{Inauguration} \} which corresponds to the inauguration of Barack Obama, \{ \war{US Airways Flight 1549}, \war{Chesley Sullenburger}, \war{Hudson River} \} which corresponds to the successful ditching of an airplane into the Hudson river without loss of life, and \{ \war{Superbowl}, \war{Arizona Cardinals} \} which describes the then upcoming Superbowl XLIII.
 
-We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett "Sully" Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with Arizona Cardinals.
+We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett "Sully" Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with \war{Arizona Cardinals}.
 
 To generate the clusters we can make use of the text of the articles on that date, versions of the articles from previous dates, the link structure and category info from Wikipedia, and potentially external info like newspaper articles published before the date.
 
