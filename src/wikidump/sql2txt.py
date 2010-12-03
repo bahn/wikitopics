@@ -7,6 +7,7 @@
 
 import sys
 import simplejson
+import gzip
 
 def read_tuples(line):
     i = 0
@@ -53,10 +54,13 @@ if len(sys.argv) < 3:
     sys.exit(0)
 
 page_filename = sys.argv[1]
-page_file = open(page_filename, 'r')
+if page_filename.endswith('.gz'):
+	page_file = gzip.open(page_filename, 'r')
+else:
+	page_file = open(page_filename, 'r')
 
 pages = {}
-redirects = {}
+redirect_pages = {}
 
 PAGE_STARTING = 'INSERT INTO `page` VALUES '
 for line in page_file:
@@ -67,18 +71,23 @@ for line in page_file:
 	    page_id = int(page[0])
 	    page_namespace = int(page[1])
 	    page_title = page[2]
-	    page_is_redirect = page[5]
+	    page_is_redirect = bool(int(page[5]))
 
 	    if page_namespace == 0:
 		if not page_is_redirect:
 		    pages[page_id] = page_title
 		else:
-		    redirects[page_id] = page_title
+		    redirect_pages[page_id] = page_title
 
 page_file.close()
 
 redirect_filename = sys.argv[2]
-redirect_file = open(redirect_filename, 'r')
+if redirect_filename.endswith('.gz'):
+	redirect_file = gzip.open(redirect_filename, 'r')
+else:
+	redirect_file = open(redirect_filename, 'r')
+
+redirects = {}
 
 REDIRECT_STARTING = 'INSERT INTO `redirect` VALUES '
 for line in redirect_file:
@@ -86,22 +95,24 @@ for line in redirect_file:
 	line = line[len(REDIRECT_STARTING):-2]
 	bucket = read_tuples(line)
 	for redirect in bucket:
-	    rd_from = redirect[0]
-	    rd_namespace = redirect[1]
+	    rd_from = int(redirect[0])
+	    rd_namespace = int(redirect[1])
 	    rd_title = redirect[2]
 	    if rd_namespace == 0:
-		if rd_from in redirects:
-		    page_title = redirects[rd_from]
-		    redirects[rd_from] = (page_title, rd_title)
+		if rd_from in redirect_pages:
+		    page_title = redirect_pages[rd_from]
+		    if page_title in redirects:
+			print page_title, 'is already in redirects'
+		    redirects[page_title] = (rd_title)
 
 redirect_file.close()
 
 non_redirects = open('non_redirects.txt','w')
-for page_title in sort(pages.values()):
+for page_title in sorted(pages.values()):
     non_redirects.write(page_title + '\n')
 non_redirects.close()
 
 redirects_file = open('redirects.txt','w')
-for redirect in redirects:
-    redirects_file.write(redirect[0] + ' ' + redirect[1] + '\n')
+for page_title in sorted(redirects.keys()):
+    redirects_file.write(page_title + ' ' + redirects[page_title] + '\n')
 redirects_file.close()
