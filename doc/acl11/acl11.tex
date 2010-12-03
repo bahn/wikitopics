@@ -44,13 +44,13 @@ The result shows promise for explaining what's currently popular on Wikipedia an
 \section{Introduction}
 
 Recently, social media such as Twitter and Facebook gained attention from researchers.
-By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics.
+By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics \cite{Petrovic:10}.
 
 %Wikipedia has some relative advantage over Twitter as a source of topics, in that (1) it has a full description about the topic, (2) it has inter-article links that imply the relations between articles, and (3) the page view statistics are open to the public.
 
 %The page view statistics are publicized in one of the wikipedians' website. Hour-by-hour statistics of size of 50-80Mbytes, each gzipped. The unzipeed file contains the project name, the article title, the page view counts, and the page size per line.
 
-\cite{LDC:04} describes the definition of topics and events used in the TDT dataset. 
+%\cite{LDC:04} describes the definition of topics and events used in the TDT dataset. 
 
 %* System overview describing each module, and including a diagram of how they connect (1.5 pages)
  %- include description of hour-by-hour wikipedia page view stats
@@ -60,17 +60,38 @@ By looking at the topics recently prevailing in a lot of Twitter data at the sam
 
 %There is an open-source software called Trending Topics (\url{http://www.trendingtopics.org/}) that shows the recent popular topics extracted from Wikipedia. We employed the same algorithm, which sorts the topics by the difference between the sum of the page counts of the recent 15 days and the sume of the page counts of the previous 15 days. Then, we picked the 100 topics of the highest differences.
 
-In this paper we analyze a novel data set: we have collected the hourly page view statistics for every Wikipedia page in every language for an X year period. We show how these page view statistics--along with a whole host of other features like inter-page links, edit histories, mentions in contemporaneous news stories--can be used to identify and explain popular trends, including political elections, natural disasters, sports championships, popular films and music, and other current events.
+In this paper we analyze a novel data set: we have collected the hourly page view statistics for every Wikipedia page in every language for a three year period. We show how these page view statistics--along with a whole host of other features like inter-page links, edit histories, mentions in contemporaneous news stories--can be used to identify and explain popular trends, including political elections, natural disasters, sports championships, popular films and music, and other current events.
 
-Our approach is to select a set of articles whose daily page views increase by XXX\% or more above their average from the previous two week period. Rather than simply selecting the most popular articles for a given day, this selects articles whose popularity is rapidly increasing. These popularity spikes are presumably due to some external current event in the real world. On any given day, there are many articles whose popularity is spiking.
+Our approach is to select a set of articles whose daily page views increase above their average from the previous two week period. Rather than simply selecting the most popular articles for a given day, this selects articles whose popularity is rapidly increasing. These popularity spikes are presumably due to some external current event in the real world. On any given day, there are many articles whose popularity is spiking.
 
-In this paper we attempt to cluster 100 such articles from each of 5 randomly selected days in 2009, such that the clusters coherently correspond to current eents.
+In this paper we attempt to cluster 100 such articles from each of 5 randomly selected days in 2009, such that the clusters coherently correspond to current events.
 
-Mention Wikipedia current events, and why we did not use them as our gold standard. They are boring events that do not generate much traffic, and that link to pages that are too general like ``United States'' or ``Israel''. We view this work as an automatic mechanism that could potentially supplant the hand-curated method of selecting current events that is currently done by Wikipedia editors.
+We compared our automatically collected clusters to the Wikipedia current events. Wikipedia editors compiles current events every day, which mainly consist of social and political events, traffic accidents and disasters. More often than not, they do not generate much traffic, and link to pages that are too general like ``United States'' or ``Israel''. We view this work as an automatic mechanism that could potentially supplant the hand-curated method of selecting current events that is currently done by Wikipedia editors.
 
-For instance, we would attempt to cluster the articles in Figure~\ref{fig:} into 3 clusters, \{ Barack Obama, Joe Biden, White House, Inauguration \} which corresponds to the inauguration of Barack Obama, \{ US Airways Flight 1549, Chesley Sullenburger, Hudson River \} which corresponds to the successful ditching of an airplane into the Hudson river without loss of life, and \{ Superbowl, Arizona Cardinals \} which describes the then upcoming Superbowl XLIII.
+\begin{figure}
+\centering
+\begin{tabular}{|c|}
+\hline
+Barack\_Obama \\
+Joe\_Biden \\
+White\_House \\
+Inauguration \\
+\dots \\
+US\_Airways\_Flight\_1549 \\
+Chesley\_Sullenberger \\
+Hudson\_River \\
+\dots \\
+Super\_Bowl \\
+Arizona\_Cardinals \\
+\hline
+\end{tabular}
+\caption{The selected articles for January 27th, 2009. The underscores are used instead of spaces by Wikipedia.}
+\label{fig:topics-jan-27}
+\end{figure}
 
-We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be "the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009". [take the first sentence from Chesley's article] [Superbowl XLIII] will feature the... (the second setence, which makes clear the relationship with Arizona Cardinals.
+For instance, we would attempt to cluster the articles in Figure~\ref{fig:topics-jan-27} into 3 clusters, \{ Barack Obama, Joe Biden, White House, Inauguration \} which corresponds to the inauguration of Barack Obama, \{ US Airways Flight 1549, Chesley Sullenburger, Hudson River \} which corresponds to the successful ditching of an airplane into the Hudson river without loss of life, and \{ Superbowl, Arizona Cardinals \} which describes the then upcoming Superbowl XLIII.
+
+We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett "Sully" Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with Arizona Cardinals.
 
 To generate the clusters we can make use of the text of the articles on that date, versions of the articles from previous dates, the link structure and category info from Wikipedia, and potentially external info like newspaper articles published before the date.
 
@@ -78,11 +99,35 @@ To select sentences we may want to make use of NLP technologies such as coref re
 
 \section{Motivation}
 
-What are interesting topics? This could be an aesthetic question, but, in Wikipedia, gaining popularity usually means a big inflow of users looking up an article of a specific topic. More often than not, a popular on-going event accompanies many topics, or Wikipedia articles, collecting sudden increases in page view counts (Figure~\ref{fig:topics-for-an-event}). The TrendingTopics\footnote{Should we put a space between Trending and Topics?} algorithm (\S\ref{sec:related-work}) finds a big increase in page view counts and make a list of the articles with the highest increase. 
+\begin{figure}
+\centering
+\includegraphics[width=0.5\textwidth]{figures/obama_sparkline.png}
+\caption{Page views for the articles related to the inauguration of Barack Obama. The articles are linked from an item in the Wikipedia current events. Interestingly, the list does not include the article ``Inauguration of Barack Obama'', the very page about the event that has a spiking page views.}
+\label{fig:obama-sparkline}
+\end{figure}
 
-The wikipedia has a section called current events, in which the recently occurred events are listed manually by Wikipedians\footnote{Should Wikipedians be capitalized or not?}. Some of the most charateristic instances from the topics and the events are shown in Table~\ref{tab:topics-events-comparison}. We evaluated the precision and recall score of the TrendingTopics topics against the Wikepedian Current Events (Table~\ref{tab:topics-events-evaluation}. Their precision and recall scores are extremely low. Probably, wikipedians are more interested in political and scientific topics, and the page view statistics tend to be more dramatic for the societal and cultural events--recent deaths of famous people, recent release of movies and music albums.
+What are interesting topics? In an online encyclopedia such as Wikipedia, the page view counts for each article reflects the popularity of the article. Each article has its own level of normal popularity: some has high page views, and others low. Sometimes, a newsworthy event such as a major political or sports events, or natural disasters, or pandemic, occurs and incur that many articles related to the specific event has a major increase in page views.
 
-Due to the discrepancy between the Wikipedian Current Events and the topics based on page views, it was not realistic to predict from the page view counts the topics that would overlap the Current Events. We set the topics extracted by the TrendingTopics algorithm as the baseline data.
+The wikipedia has a section called current events, in which the recently occurred events are listed manually by Wikipedia editors. Figure~\ref{fig:obama-sparkline} shows the page views of the articles related to the inauguration of Barack Obama. Each event may have a hierarchical structure--there may be a major event that related to minor events. Each event is described in a line of text with a possibly multiple links to the related Wikipedia articles. The figure shows the spikes in page views of the related articles around the date on which the event took place--January 20th, 2009.
+
+We have selected the articles that has a major increase in page views. The increase in page views are measured as follows. For each day, the total sum of the page views for the past 15 days and the total sum of the page views for the previous 15 days are summed, and the difference $\Delta$ between the two is calculated for each article. The articles are sorted in order of decreasing $\Delta$, and the top 100 articles are selected. The difference $\Delta$ is formularized as below:
+
+\begin{align*}
+\Delta = S_{15} - S_{30}, \mbox{ where } S_{15} & = \sum_{i=1}^{15} v_i \mbox{ and }\\
+S_{30} & = \sum_{i=16}^{30} v_i
+\end{align*}
+
+where $v_i$ is the page views of the article on the past $i$th day from the date on which the artciles are selected.
+
+We compared the automatically selected articles to the articles to which the Wikipedia current events link.
+%Some of the most charateristic instances from the topics and the events are shown in Table~\ref{tab:topics-events-comparison}. We evaluated the precision and recall score of the TrendingTopics topics against the Wikepedian Current Events (Table~\ref{tab:topics-events-evaluation}. Their precision and recall scores are extremely low. Probably, wikipedians are more interested in political and scientific topics, and the page view statistics tend to be more dramatic for the societal and cultural events--recent deaths of famous people, recent release of movies and music albums.
+
+
+%We have selected the articles with more page views above the previous two weeks.
+%\cite{Petrovic:10}
+%What are interesting topics? This could be an aesthetic question, but, in Wikipedia, gaining popularity usually means a big inflow of users looking up an article of a specific topic. More often than not, a popular on-going event accompanies many topics, or Wikipedia articles, collecting sudden increases in page view counts (Figure~\ref{fig:topics-for-an-event}). The TrendingTopics algorithm (\S\ref{sec:related-work}) finds a big increase in page view counts and make a list of the articles with the highest increase. 
+
+%Due to the discrepancy between the Wikipedian Current Events and the topics based on page views, it was not realistic to predict from the page view counts the topics that would overlap the Current Events. We set the topics extracted by the TrendingTopics algorithm as the baseline data.
 
 \begin{figure*}
 \centering
@@ -134,21 +179,6 @@ Our system is described as follows. First, the most popular pages, or topics, ar
 
 \section{Clustering}
 \label{ssec:clustering}
-
-\begin{table}
-\begin{tabular}{|c|}
-\hline
-Barack\_Obama \\
-Inaugural\dots \\
-\dots \\
-The names of past presidents...\\
-\dots \\
-Hudson\_River... \\
-\hline
-\end{tabular}
-\caption{Topics for January 27th, 2009.}
-\label{tab:topics-example}
-\end{table}
 
 Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \verb'Barack Obama' and \verb'Presidential Inauguration' are central topics, and the articles of past U.S. Presidents are peripheral topics.
 
@@ -215,8 +245,8 @@ Enrique Amig\'{o}, Julio Gonzalo, Javier Artiles, and Felisa Verdejo.
 \newblock {A comparison of Extrinsic Clustering Evaluation Metrics based on Formal Constraints}
 \newblock Where can I find cite information for this paper?
 
-\bibitem[\protect\citename{Petrovic \bgroup et al.\egroup}2010]{Petrovic:10}
-Sasa Petrovic, Miles Osborne, and Victor Lavrenko.
+\bibitem[\protect\citename{Petrovi\'{c} \bgroup et al.\egroup}2010]{Petrovic:10}
+Sa\v{s}a Petrovi\'{c}, Miles Osborne, and Victor Lavrenko.
 \newblock 2010.
 \newblock {Streaming First Story Dectection with application to Twitter}
 \newblock NAACL, Los Angeles, USA. June 2010.
