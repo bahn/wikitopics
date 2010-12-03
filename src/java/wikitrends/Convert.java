@@ -1,3 +1,38 @@
+// class Convert
+// =============
+// 
+// Reads in the events list and the directory in which the pagecounts data reside
+// and writes the pageview counts for the list of the events.
+// 
+// Usage
+// =====
+// java wikitrends.Convert events-link pagecounts-dir
+// 
+// events-link
+// 	the file that has the list of the links, each of which is a Wikipedia article.
+// 	One of the typical filename is events_links_2009.
+// 	The format of the file is as follows:
+// 
+// 20090101 0 BART_Police_shooting_of_Oscar_Grant
+// 20090101 0 California
+// 20090101 0 Bay_Area_Rapid_Transit
+// 20090101 0 Fruitvale_%28BART_station%29
+// 20090101 1 Israel
+// 20090101 1 Jabalia
+// 20090101 1 Gaza_Strip
+// 20090101 1 Hamas
+// 20090101 1 Nizar_Rayan
+// ...
+// 
+// 	The fields of each line are delimited by a space.
+// 	The first field contains the date on which the event has occurred, the second field contains the number of the event, and the third field the link that the event contains, one link every line. One event may have multiple links in it.
+// 	Only the third field matters for this script. The first and second field does not matter.
+// 
+// pagecounts-dir
+// 	the directory in which the pagecounts data are located. e.g. data/wikistats/aggregate/en_daily/.
+// 	The pagecounts files follow the following name convention: pagecounts-20090101.gz or pagecounts-20080131-180000.gz.
+// 
+//
 // Changelog.
 //
 // July 21, 2010 -- Do not print links that do not have statistics.
@@ -118,7 +153,7 @@ public class Convert {
 		}
 		String eventsName = args[0];
 		HashMap<String, HashMap<String, String>> links = new HashMap<String, HashMap<String, String>>();
-		{ // read events
+		{ // read the list of events
 			File eventsFile = new File(eventsName);
 			BufferedReader reader = getBufferedReader(eventsFile.getParent(), eventsFile.getName());
 			while (reader.ready()) {

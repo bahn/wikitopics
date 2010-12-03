@@ -1,3 +1,38 @@
+class Redirect
+==============
+
+reads in the redirect pages, non-redirect pages, and pagecounts data,
+adjust counts so that the page views for the redirected pages into the pages to which that the redirects link,
+and writes the counts in the pagecounts data format.
+
+Note that this script currently process only English data.
+
+Output is written into the standard output. Redirection may be used to make the output written in a plain text file.
+
+Usage
+=====
+java wikitrends.Redirect non_redirects.txt redirects.txt pagecounts.gz
+
+non_redirects.txt
+	the file that contains the list of non-redirect pages.
+	Each line contains the title of a non-redirect page.
+
+redirects.txt
+	the file that contains the list of redirect pages.
+	Each line contains a redirect page followed by the page to which it links, separated by a space.
+
+pagecounts.gz
+	the file that has the page views for each Wikipedia article.
+
+Output
+======
+The output is written into the standard output. No other files are written.
+
+The output is in the format of the pagecounts data except for that there are no files for bytes.
+The fields as follows are written in each line, separated by a space.
+
+projectname pagetitle pageview
+
 // Changelog.
 //
 // Jul 20, 2010 -- made this file.

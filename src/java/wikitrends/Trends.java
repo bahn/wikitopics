@@ -1,3 +1,11 @@
+// class Trends
+// ============
+// 
+// reads in page views, runs the Trending Topics algorithm on it,
+// and writes out the top 100 lists.
+// 
+// Note that it only works for the English Wikipedia (the projectname en).
+// 
 // Change log.
 // Wednesday, May 26, 2010 -- Clean anchors and check if the page title is valid
 // May 25th -- Ignore the pages that has less than 1000 views.
@@ -70,6 +78,10 @@ public class Trends {
 	
 	/**
 	 * Sorts a map in descending order by the counts (values)
+	 * Put the result in a map of the same entry type as the input maps,
+	 * and return it.
+	 * The result returned is of type LinkedHashMap,
+	 * so that the order is kept.
 	 * 
 	 * @param map
 	 * @return a sorted new map
