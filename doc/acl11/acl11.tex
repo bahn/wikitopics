@@ -45,13 +45,13 @@ The result shows promise for explaining what's currently popular on Wikipedia an
 \section{Introduction}
 
 Recently, social media such as Twitter and Facebook gained attention from researchers.
-By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics \cite{Petrovic:10}.
+By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics \cite{petrovic10}.
 
 %Wikipedia has some relative advantage over Twitter as a source of topics, in that (1) it has a full description about the topic, (2) it has inter-article links that imply the relations between articles, and (3) the page view statistics are open to the public.
 
 %The page view statistics are publicized in one of the wikipedians' website. Hour-by-hour statistics of size of 50-80Mbytes, each gzipped. The unzipeed file contains the project name, the article title, the page view counts, and the page size per line.
 
-%\cite{LDC:04} describes the definition of topics and events used in the TDT dataset. 
+%\cite{ldc04} describes the definition of topics and events used in the TDT dataset. 
 
 %* System overview describing each module, and including a diagram of how they connect (1.5 pages)
  %- include description of hour-by-hour wikipedia page view stats
@@ -125,7 +125,7 @@ We compared the automatically selected articles to the articles to which the Wik
 
 
 %We have selected the articles with more page views above the previous two weeks.
-%\cite{Petrovic:10}
+%\cite{petrovic10}
 %What are interesting topics? This could be an aesthetic question, but, in Wikipedia, gaining popularity usually means a big inflow of users looking up an article of a specific topic. More often than not, a popular on-going event accompanies many topics, or Wikipedia articles, collecting sudden increases in page view counts (Figure~\ref{fig:topics-for-an-event}). The TrendingTopics algorithm (\S\ref{sec:related-work}) finds a big increase in page view counts and make a list of the articles with the highest increase. 
 
 %Due to the discrepancy between the Wikipedian Current Events and the topics based on page views, it was not realistic to predict from the page view counts the topics that would overlap the Current Events. We set the topics extracted by the TrendingTopics algorithm as the baseline data.
@@ -181,13 +181,13 @@ Our system is described as follows. First, the most popular pages, or topics, ar
 \section{Clustering}
 \label{ssec:clustering}
 
-Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \verb'Barack Obama' and \verb'Presidential Inauguration' are central topics, and the articles of past U.S. Presidents are peripheral topics.
+Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \war{Barack Obama} and \war{Presidential Inauguration} are central topics, and the articles of past U.S. Presidents are peripheral topics.
 
 These topics are naturally subject to clustering. As a baseline, we ran K-means clustering on the articles extracted by the TrendingTopics algorithm, using the articles as bags of words, which were fetched on the date on which they emerged as the TT topics.
 
 Three annotators performed manual clustering on the topics for the five specified dates to get the gold standard clusters. The three clusters were evaluated against each other. The metric used for evaluation was B-cubed metric. This will be the oracle score for any clustering algorithm.
 
-The modified B-cubed metric \cite{Amigo:09} is used for evaluation of overlapped clusters. The B-cubed metric is one of the extrinsic clustering evaluation metrics, which need gold standard dataset to evaluate the clustering of interest against. The original B-cubed metric is for clustered 
+The modified B-cubed metric \cite{amigo09} is used for evaluation of overlapped clusters. The B-cubed metric is one of the extrinsic clustering evaluation metrics, which need gold standard dataset to evaluate the clustering of interest against. The original B-cubed metric is for clustered 
 
 \section{Textualization}
 
@@ -238,26 +238,6 @@ The first author was supported by Samsung Scholarship.
 
 Thank you to Wikipedians X and Y for making the page view statistics available.
 
-\begin{thebibliography}{}
-
-\bibitem[\protect\citename{Amig\'{o} \bgroup et al.\egroup}2009]{Amigo:09}
-Enrique Amig\'{o}, Julio Gonzalo, Javier Artiles, and Felisa Verdejo.
-\newblock 2009.
-\newblock {A comparison of Extrinsic Clustering Evaluation Metrics based on Formal Constraints}
-\newblock Where can I find cite information for this paper?
-
-\bibitem[\protect\citename{Petrovi\'{c} \bgroup et al.\egroup}2010]{Petrovic:10}
-Sa\v{s}a Petrovi\'{c}, Miles Osborne, and Victor Lavrenko.
-\newblock 2010.
-\newblock {Streaming First Story Dectection with application to Twitter}
-\newblock NAACL, Los Angeles, USA. June 2010.
-
-\bibitem[\protect\citename{Linguistic Data Consortium}2004]{LDC:04}
-{Linguistic Data Consortium}.
-\newblock 2004.
-\newblock {TDT 2004: Annotation Manual}
-\newblock Linguistic Data Consortium.
-
-\end{thebibliography}
-
+\bibliographystyle{acl}
+\bibliography{bahn}
 \end{document}
