@@ -1,0 +1,273 @@
+Overview
+========
+
+These are scripts to process the events data.
+
+Scripts
+=======
+
+append_dates.py
+---------------
+The script to change the format of the daily page views of the Wikipedia articles.
+
+Input:
+   events_date_2009
+	the file that has all the dates 2009. The format is compatible with JSON.
+	Examples:
+	["1/1/2009", "1/2/2009", ..., "12/31/2009"]
+
+   events_page_views_2009
+	this files has the daily page views for all articles in the current events.
+
+	The format of the file:
+	14th_Dalai_Lama: 125 112 97 111 ... 1219
+
+Output:
+   events_page_views_by_date_2009
+	this file has the same data as the input file, but in a different format:
+	["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+
+correct_dates.py
+----------------
+The script to change the date format of daily page views from 'YYYYMMDD' to 'MM/DD/YYYY'
+
+Input: the standard input
+	["14th_Dalai_Lama", [["20081201", 2112], ..., ["20091231", 1811]]]
+
+Output: the standard output
+	["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+
+evaluate.py
+-----------
+The script to evalute the automatically selected Wikipedia articles
+against the articles linked from the Wikipedia official current events.
+
+Usage:
+	evaluate.py events_link events_pageviews trends window_size
+	e.g. src/events/evaluate.py data/events/events_links_2009 data/events/events_page_views_by_date_2009 data/topics/topics_2009 15
+
+Input:
+	events_link
+		the links from the Wikipedia current events. e.g. data/events/events_links_2009
+		Each line contains the date and the index of the event (which is reset every day),
+		and the title of an article linked from the event.
+		e.g.
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+...
+
+	events_pageviews
+		the daily pageviews for Wikipedia articles. e.g. data/events/events_page_views_2009
+		The file format should be JSON compatible. The date format does not matter.
+		The example would be either:
+		["14th_Dalai_Lama", [["20081201", 2112], ..., ["20091231", 1811]]]
+		or:
+		["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+
+	trends
+		the file that has the list of the automatically selected Wikipedia articles.
+		e.g. data/topics/topics_2009
+		The name of each file of the daily page views are written in a line
+		followed by the selected articles, one in a line.
+		The format:
+pagecounts-20090101.gz	13226
+Boxing_Day	477075
+Eartha_Kitt	370776
+Hanukkah	350016
+Gaza_Strip	347104
+...
+
+	window_size
+		the window size with which the selected articles are evaluated
+		against the articles linked from the Wikipedia current events.
+
+Output:
+	The output is written to the standard output.
+	Note that the gold standard is the hand-curated Wikipedia current events and
+	the topics are the automatically selected articles.
+	True positive means the intersection of the two sets of events.
+
+	Also note that the current-events articles with 1000 or more page views
+	are marked as more popular articles to be compared to less popular articles.
+	The automatically selected articles are selected based on page views, and
+	so the less popular articles tend to be not selected.
+	Not surprisingly, the more popular articles have higher recall score.
+	The less popular articles are those that have maximum daily page views
+	less than 1000.
+
+	Also note that when the articles are manually listed as current events
+	compared to the articles get selected automatically.
+	Beforehands mean that an article was listed as current events before
+	the article was selected automatically. However, events may be
+	marked duplicately.
+
+	Also note that the articles are also checked by bullet-wise:
+	if at least one of the links in a bullet is found in the auto-selected
+	articles, then the bullet is checked.
+	The bullets are also divided into the more popular ones and
+	the less popular ones: the less popular ones are the ones with
+	the links all of which have under 1000 page views.
+
+	The example output follows.
+true_positives: 1753
+total_gold: 17253
+total_topics: 36400
+
+precision: 0.0481593406593
+recall: 0.101605517881
+recall over 1k: 0.159959850351
+under1k: 6294
+
+beforehands: 1234
+exactday: 404
+afterwards: 713
+
+checked_bullets: 537
+total_bullets: 4435
+under1k_bullets: 217
+bullets with at least one link under 1k: 2990
+
+recall per bullets: 0.121082299887
+recall per bullets (one over 1k): 0.127311522048
+recall per bullets (all over 1k): 0.371626297578
+
+extract_links.py
+----------------
+
+the script to convert the events file into the events links file.
+
+Usage:
+	extract_links.py events_json_path
+
+Input:
+	events_json_path
+		the directory that has the events files in JSON.
+		Each file in the directory has a name such as 'current_events_for_20090101'
+		and contains only one line in JSON that describes
+		the Wikipedia current events for that day.
+		e.g.
+[{"text": "*A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer.", "externallinks": {"(Mercury News)": "http://www.mercurynews.com/ci_11369592?source%253Dmost_emailed.26978592730A3B8C7F471EACE0DA4EF2.html"}, "links": {"California": "California", "A man is shot": "BART Police shooting of Oscar Grant", "Bay Area Rapid Transit": "Bay Area Rapid Transit", "Fruitvale BART station": "Fruitvale_(BART_station)"}, "revid": 340308501}, ...]
+
+Output: the standard output
+	Each line describes a Wikipedia article linked from an event and contains
+	the date and index of the event and the title of a Wikipedia article.
+	The format is as follows:
+
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+...
+
+extract_text.py
+---------------
+
+Extract the text describes the Wikipedia current events.
+
+Usage:
+	extract_text.py events_json_path
+
+Input:
+	events_json_path
+		the directory that has the events files in JSON.
+		Each file in the directory has a name such as 'current_events_for_20090101'
+		and contains only one line in JSON that describes the Wikipedia current events for that day.
+		e.g.
+[{"text": "*A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer.", "externallinks": {"(Mercury News)": "http://www.mercurynews.com/ci_11369592?source%253Dmost_emailed.26978592730A3B8C7F471EACE0DA4EF2.html"}, "links": {"California": "California", "A man is shot": "BART Police shooting of Oscar Grant", "Bay Area Rapid Transit": "Bay Area Rapid Transit", "Fruitvale BART station": "Fruitvale_(BART_station)"}, "revid": 340308501}, ...]
+
+Output: the standard output
+	Each line describes an Wikipedia current events and contains
+	the date and index of the event and the text that describes the events.
+	The format is as follows:
+
+20090101 0 *A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer.
+20090101 1 *An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family.
+20090101 2 *At least five people die and more than 50 are injured in serial bombings in Guwahati, India.
+20090101 3 *Russia's Gazprom halts deliveries of natural gas to Ukraine after negotiations over prices fail.
+...
+
+pickup.py
+---------
+
+Get ten randomly-selected examples of unmatched articles (two-way).
+This script is mainly based on the evaluate.py script.
+Later it was modified to select examples from the selcted five dates:
+Jan 27, Feb 10, Apr 19, May 12, and Oct 12.
+
+Usage:
+	pickup.py events_file trends_file window_size'
+	e.g. src/events/pickup.py data/events/events_links_2009 data/topics/topics_2009 15
+
+Input:
+	events_link
+		the links from the Wikipedia current events. e.g. data/events/events_links_2009
+		Each line contains the date and the index of the event (which is reset every day),
+		and the title of an article linked from the event.
+		e.g.
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+...
+
+	trends
+		the file that has the list of the automatically selected Wikipedia articles.
+		e.g. data/topics/topics_2009
+		The name of each file of the daily page views are written in a line
+		followed by the selected articles, one in a line.
+		The format:
+pagecounts-20090101.gz	13226
+Boxing_Day	477075
+Eartha_Kitt	370776
+Hanukkah	350016
+Gaza_Strip	347104
+...
+
+	window_size
+		the window size with which the selected articles are evaluated
+		against the articles linked from the Wikipedia current events.
+
+Output:
+	the standard output.
+
+true_positives: 1747
+total_gold: 17253
+total_topics: 36400
+
+beforehands: 1229
+exactday: 404
+afterwards: 708
+
+checked_bullets: 534
+total_bullets: 4435
+
+false_positives: 34653
+0 20091114 David_Haye
+1 20090924 Scribblenauts
+2 20091204 Scrubs_(TV_series)
+3 20090108 Palestinian_people
+4 20091202 SkiFree
+5 20091020 Matthew_Shepard
+6 20090112 Matt_Smith
+7 20090305 Randomness
+8 20091014 List_of_Nobel_Peace_Prize_laureates
+9 20090815 Sienna_Miller
+10 20090625 The_Hangover_(film)
+11 20090605 George_Strait
+
+false_negatives: 16465
+0 20090121 2008
+1 20091104 Jon_Corzine
+2 20090703 earthquake
+3 20090328 2010_FIFA_World_Cup
+4 20091115 Parliament_of_the_Islamic_Republic_of_Iran
+5 20090518 Proposals_for_a_Palestinian_state
+6 20090508 Malaysia
+7 20090703 Wintonotitan_wattsi
+8 20090321 emergency_landing
+9 20091205 London
+10 20090409 foreign_national
+11 20091018 Afghanistan
+
