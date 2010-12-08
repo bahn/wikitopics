@@ -1,0 +1,1 @@
+java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterRow
