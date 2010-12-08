@@ -1,0 +1,90 @@
+package wikitrends
+==================
+
+These are the Java files for processing the raw pagecounts data (wikistats data).
+
+There are currently three Java classes for different purposes.
+Convert: the script to collect page views for the list of Wikipedia events.
+Redirect: the script to adjust page views using the redirect pages.
+Trends: the script to run the Treding Topics algorithm and find the most viewed pages.
+
+
+class Convert
+=============
+
+Reads in the events list and the directory in which the pagecounts data reside
+and writes the pageview counts for the list of the events.
+
+Usage
+=====
+java wikitrends.Convert events-link pagecounts-dir
+
+events-link
+	the file that has the list of the links, each of which is a Wikipedia article.
+	One of the typical filename is events_links_2009.
+	The format of the file is as follows:
+
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+20090101 1 Israel
+20090101 1 Jabalia
+20090101 1 Gaza_Strip
+20090101 1 Hamas
+20090101 1 Nizar_Rayan
+...
+
+	The fields of each line are delimited by a space.
+	The first field contains the date on which the event has occurred, the second field contains the number of the event, and the third field the link that the event contains, one link every line. One event may have multiple links in it.
+	Only the third field matters for this script. The first and second field does not matter.
+
+pagecounts-dir
+	the directory in which the pagecounts data are located. e.g. data/wikistats/aggregate/en_daily/.
+	The pagecounts files follow the following name convention: pagecounts-20090101.gz or pagecounts-20080131-180000.gz.
+
+
+class Redirect
+==============
+
+reads in the redirect pages, non-redirect pages, and pagecounts data,
+adjust counts so that the page views for the redirected pages into the pages to which that the redirects link,
+and writes the counts in the pagecounts data format.
+
+Note that this script currently process only English data.
+
+Output is written into the standard output. Redirection may be used to make the output written in a plain text file.
+
+Usage
+=====
+java wikitrends.Redirect non_redirects.txt redirects.txt pagecounts.gz
+
+non_redirects.txt
+	the file that contains the list of non-redirect pages.
+	Each line contains the title of a non-redirect page.
+
+redirects.txt
+	the file that contains the list of redirect pages.
+	Each line contains a redirect page followed by the page to which it links, separated by a space.
+
+pagecounts.gz
+	the file that has the page views for each Wikipedia article.
+
+Output
+======
+The output is written into the standard output. No other files are written.
+
+The output is in the format of the pagecounts data except for that there are no files for bytes.
+The fields as follows are written in each line, separated by a space.
+
+projectname pagetitle pageview
+
+
+class Trends
+============
+
+reads in page views, runs the Trending Topics algorithm on it,
+and writes out the top 100 lists.
+
+Note that it only works for the English Wikipedia (the projectname en).
+
