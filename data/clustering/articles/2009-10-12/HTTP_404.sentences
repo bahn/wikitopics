@@ -1,0 +1,40 @@
+The 404 or Not Found error message is a HTTP standard response code indicating that the client was able to communicate with the server but the server could not find what was requested.
+404 errors should not be confused with "server not found" or similar errors, in which a connection to the destination server could not be made at all.
+Another similar error is "410: Gone", which indicates that the requested resource has been intentionally removed and will not be available again.
+A 404 error indicates that the requested resource may be available in the future.
+Overview
+When communicating via HTTP, a server is required to respond to a request, such as a web browser's request for an HTML document (web page), with a numeric response code and an optional, mandatory, or disallowed (based upon the status code) message.
+In the code 404, the first "4" indicates a client error, such as a mistyped URL.
+The following two digits indicate the specific error encountered.
+HTTP's use of three-digit codes is similar to the use of such codes in earlier protocols such as FTP and NNTP.
+At the HTTP level, a 404 response code is followed by a human-readable "reason phrase".
+The HTTP specification suggests the phrase "Not Found" and many web servers by default issue an HTML page that includes both the 404 code and the "Not Found" phrase.
+A 404 error is often returned when pages have been moved or deleted.
+In the first case, a better response is to return a 301 Moved Permanently response, which can be configured in most server configuration files, or through URL rewriting; in the second case, a 410 Gone should be returned.
+Because these two options require special server configuration, most websites do not make use of them.
+404 errors should not be confused with DNS errors, which appear when the given URL refers to a server name that does not exist.
+A 404 error indicates that the server itself was found, but that the server does not have the requested page.
+Custom error pages
+Webservers can typically be configured to display a customised error page, including more natural description, the parent site's branding or sometimes a search form, but the protocol level phrase, which is hidden from the user, is rarely customized.
+Internet Explorer (before Internet Explorer 7), however, will not display custom pages unless they are larger than 512 bytes, opting to instead display a "friendly" error page.
+This default behaviour can be changed under Tools | Internet Options by clicking on the Advanced tab and un-checking the "Show friendly HTTP error messages" check box.
+False 404 errors
+Some websites report a "not found" error by returning a standard web page with a "200 OK" response code; this is called a soft 404.
+Soft 404s are problematic for automated methods of discovering whether a link is broken.
+Soft 404s can occur as a result of configuration errors when using certain http server software, for example with the Apache software, when an Error Document 404 (specified in a .htaccess file) is specified as an absolute path (e.g.
+www.wikipedia.org/error.php) rather than a relative path (/error.php).
+Some proxy servers generate a 404 error when the remote host is not present, rather than returning the correct 500-range code when errors such as hostname resolution failures or refused TCP connections prevent the proxy server from satisfying the request.
+This can confuse programs that expect and act on specific responses, as they can no longer easily distinguish between an absent web server and a missing web page on a web server that is present.
+In July 2004, the UK telecom provider BT Group deployed the Cleanfeed content blocking system, which returns a 404 error to any request for content identified as potentially illegal by the Internet Watch Foundation.
+Other ISPs return a HTTP 403 "forbidden" error in the same circumstances.
+Some search engines, like Yahoo, use automated processes to detect soft 404 errors.
+Slang usage
+In 2008, a study found that "404" had become a slang synonym for "clueless" in the UK.
+Slang lexicographer Jonathon  Green said that "404" as a slang term had been driven by the "influence of technology" and young people, but at the current time, such usage was relatively confined to London and other urban areas.
+The study, carried out by the telecommunications arm of the Post Office, concluded that writing abbreviations such as "404" was expedient to the sender, while an Australian study found that such phrases impaired the intelligibility of the message.
+404 page widgets
+While many websites send additional information in a 404 error message—such as a link to the homepage of a website or a search box—there are also much more advanced extensions available as widgets that endeavor to find the correct web page the user wanted.
+References
+External links
+HTTP Error 404 - Microsoft Support
+ErrorDocument Directive - instructions on custom error pages for the Apache 2.0 web server
