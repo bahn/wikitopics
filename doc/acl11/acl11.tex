@@ -86,7 +86,7 @@ We compared our automatically collected clusters to the Wikipedia current events
 \war{Arizona Cardinals} \\
 \hline
 \end{tabular}
-\caption{The selected articles for January 27th, 2009. The underscores are used instead of spaces by Wikipedia.}
+\caption{The automatically selected articles for January 27th, 2009. The underscores are used in place of spaces by Wikipedia.}
 \label{fig:topics-jan-27}
 \end{figure}
 
@@ -118,24 +118,46 @@ We have selected the articles that has a major increase in page views. The incre
 S_{30} & = \sum_{i=16}^{30} v_i
 \end{align*}
 
-where $v_i$ is the page views of the article on the past $i$th day from the date on which the artciles are selected.
+where $v_i$ is the page views of the article on the past $i$th day from the date on which the articles are selected.
 
-We compared the automatically selected articles to the articles to which the Wikipedia current events link.
+We compared the automatically selected articles to the articles linked from the Wikpedia current events in some aspects. First of all, note that the hand-curated articles are less than half of the automatically selected articles: There are 17,253 hand-selected articles and 36,400\footnote{The year 2009 has 365 days and one day is missing from our daily statistics.} auto-selected articles. Only 28\% of those hand-selected articles are automatically selected. When analyzed, it was found that many of the hand-selected articles have very low page views: 6,294 (36.5\%) have maximum daily page views less than 1000 in 2009. Naturally, they are not chosen by automatic selection based on page views\footnote{The automatically selected articles has an increase in page views of at least 10,000.}.
+
+Figure~\ref{fig:comparison-articles} shows the comparison of the selected articles. Automatically selected articles include an newly created article about a politcal event (\war{Inauguration of Barack Obama}), a recently released film, a popular TV series and related articles and tend to be specific than hand-selected articles. The hand-selected articles include more generic articles related a specific event, most of which are personal, organizational or geopolitical names. The hand-generated event describes the relationships between related articles.
+
+At this point, we set the goal of our novel task: to summarize recent events related to popular articles just as the hand-curated Wikipedia current events, but with more popular articles with high page views. This work can be used to replace the hand-generated current events listing the events that many people are interested in.
+
+\begin{figure}
+\centering
+\begin{tabular}{|c|}
+\hline
+Automatically selected articles \\
+\hline
+\war{Inauguration of Barack Obama} \\
+\war{Joe Biden} \\
+\war{Notorious (2009 film)} \\
+\war{The Notorious B.I.G.} \\
+\war{Lost (TV series)} \\
+\hline
+Hand-selected articles \\
+\hline
+\war{Fraud} \\
+\war{Florida} \\
+\war{Hedge fund} \\
+\war{Arthur Nadel} \\
+\war{Federal Bureau of Investigation} \\
+\hline
+\end{tabular}
+\caption{ The example articles for January 27th. These are the articles that do not have a counterpart with a window size of 15 days. The hand-selected articles are linked from an event ``Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud.'' \\ }
+\label{fig:comparison-articles}
+\end{figure}
+
 %Some of the most charateristic instances from the topics and the events are shown in Table~\ref{tab:topics-events-comparison}. We evaluated the precision and recall score of the TrendingTopics topics against the Wikepedian Current Events (Table~\ref{tab:topics-events-evaluation}. Their precision and recall scores are extremely low. Probably, wikipedians are more interested in political and scientific topics, and the page view statistics tend to be more dramatic for the societal and cultural events--recent deaths of famous people, recent release of movies and music albums.
-
 
 %We have selected the articles with more page views above the previous two weeks.
 %\cite{petrovic10}
 %What are interesting topics? This could be an aesthetic question, but, in Wikipedia, gaining popularity usually means a big inflow of users looking up an article of a specific topic. More often than not, a popular on-going event accompanies many topics, or Wikipedia articles, collecting sudden increases in page view counts (Figure~\ref{fig:topics-for-an-event}). The TrendingTopics algorithm (\S\ref{sec:related-work}) finds a big increase in page view counts and make a list of the articles with the highest increase. 
 
 %Due to the discrepancy between the Wikipedian Current Events and the topics based on page views, it was not realistic to predict from the page view counts the topics that would overlap the Current Events. We set the topics extracted by the TrendingTopics algorithm as the baseline data.
-
-\begin{figure*}
-\centering
-\includegraphics[width=0.8\textwidth]{figures/acl11-process.pdf}
-\caption{Process diagram. (a) Topic selection. (b) Clustering. (c) Textualization.}
-\label{fig:process}
-\end{figure*}
 
 %Figure~\ref{fig:process} outlines the subprocesses discussed in this paper. The first phase, {\it topic selection} is the step that 
 
@@ -150,38 +172,28 @@ We compared the automatically selected articles to the articles to which the Wik
 %\end{figure}
 
 %\begin{table}
-%\begin{tabular}{|c|}
-%\hline
-%TrendingTopics algorithm \\
-%\hline
-%Recent deaths \\
-%Recent album releases \\
-%Recent movie releases \\
-%Recent news \\
-%\hline
-%Current Events\\
-%\hline
-%Political events \\
-%Social events \\
-%\hline
-%\end{tabular}
-%\caption{Examples of the topics collected by the TrendingTopics algorithm and the Current Events by Wikipedians.}
-%\label{tab:topics-events-comparison}
-%\end{table}
-
-%\begin{table}
 %\begin{picture}(200,100)
 %\end{picture}
 %\caption{Evaluation of the TrendingTopics topics against the Current Events}
 %\label{tab:topics-events-evaluation}
 %\end{table}
 
-Our system is described as follows. First, the most popular pages, or topics, are collected per each day. Second, clusters are identified by clustering related topics. Third, the main cluster of each cluster is identified. Lastly, the sentence that best describes the cluster are extracted for each cluster.
+Our system pipeline is explained as follows. First, the most popular pages, or topics, are collected per each day(\S2). Second, clusters are identified by clustering related topics and the main article of each cluster is identified(\S3). Lastly, the sentence that best describes the cluster are extracted for each cluster(\S4). See Figure~\ref{fig:process}.
+
+\begin{figure*}
+\centering
+\includegraphics[width=0.8\textwidth]{figures/acl11-process.pdf}
+\caption{Process diagram. (a) Topic selection. (b) Clustering. (c) Textualization.}
+\label{fig:process}
+\end{figure*}
 
 \section{Clustering}
 \label{ssec:clustering}
 
-Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \war{Barack Obama} and \war{Presidential Inauguration} are central topics, and the articles of past U.S. Presidents are peripheral topics.
+We cluster the automatically selected articles. In Figure~\ref{fig:topics-jan-27}, the articles may be divided into three articles. Among the articles, some seem to be more centric articles; For example, among the articles in Figure~\ref{fig:topics-jan-27}, \war{Inauguration}, \war{US Airways Flight 1549}, and \war{Super Bowl} seem to be centric articles that have close relationship with the rest of the articles. The other articles seem to be more local.
+
+We make use of various information about the articles.
+%Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \war{Barack Obama} and \war{Presidential Inauguration} are central topics, and the articles of past U.S. Presidents are peripheral topics.
 
 These topics are naturally subject to clustering. As a baseline, we ran K-means clustering on the articles extracted by the TrendingTopics algorithm, using the articles as bags of words, which were fetched on the date on which they emerged as the TT topics.
 
