@@ -1,0 +1,63 @@
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ccb/pick0127.clusters-ccb
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.1
+clusters of gold standard: 38
+clusters of test set: 3
+Multiplicity BCubed precision: 0.0562
+Multiplicity BCubed recall:    0.9996
+Multiplicity BCubed F-score:   0.1064
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ccb/pick0127.clusters-ccb
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.2
+clusters of gold standard: 38
+clusters of test set: 25
+Multiplicity BCubed precision: 0.2681
+Multiplicity BCubed recall:    0.9236
+Multiplicity BCubed F-score:   0.4156
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ccb/pick0127.clusters-ccb
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.3
+clusters of gold standard: 38
+clusters of test set: 45
+Multiplicity BCubed precision: 0.4555
+Multiplicity BCubed recall:    0.6598
+Multiplicity BCubed F-score:   0.5389
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ben/pick0127
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.1
+clusters of gold standard: 34
+clusters of test set: 3
+Multiplicity BCubed precision: 0.2352
+Multiplicity BCubed recall:    0.9997
+Multiplicity BCubed F-score:   0.3808
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ben/pick0127
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.2
+clusters of gold standard: 34
+clusters of test set: 25
+Multiplicity BCubed precision: 0.6367
+Multiplicity BCubed recall:    0.9242
+Multiplicity BCubed F-score:   0.7540
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-ben/pick0127
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.3
+clusters of gold standard: 34
+clusters of test set: 45
+Multiplicity BCubed precision: 0.9386
+Multiplicity BCubed recall:    0.6589
+Multiplicity BCubed F-score:   0.7742
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-bahn/cluster0127.txt
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.1
+clusters of gold standard: 43
+clusters of test set: 3
+Multiplicity BCubed precision: 0.0591
+Multiplicity BCubed recall:    1.0000
+Multiplicity BCubed F-score:   0.1116
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-bahn/cluster0127.txt
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.2
+clusters of gold standard: 43
+clusters of test set: 25
+Multiplicity BCubed precision: 0.2771
+Multiplicity BCubed recall:    1.0000
+Multiplicity BCubed F-score:   0.4340
+gold standard: /Users/bahn/work/wikitopics/data/clustering/clusters-bahn/cluster0127.txt
+clustering: /Users/bahn/work/wikitopics/data/clustering/clusters-mturk/pick0127.clusters-mturk.3
+clusters of gold standard: 43
+clusters of test set: 45
+Multiplicity BCubed precision: 0.4608
+Multiplicity BCubed recall:    0.7556
+Multiplicity BCubed F-score:   0.5725
