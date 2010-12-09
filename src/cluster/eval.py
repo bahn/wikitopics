@@ -1,8 +1,34 @@
 #!/usr/bin/env python
 # eval.py
 #
-# evaluate clustering against a gold standard clusters
-# extending to the extended BCubed metric
+# the clustering evaluation script that use multiplicity B-cubed for overlapping clusters.
+# 
+# Usage:
+# 	./eval.py gold_standard test_set
+# 		gold_standard and test_set are both cluster files.
+# 		The B-cubed scores are evaluated for test_set against gold_standard.
+# 		The scores are commutative, which means you will get the same scores
+# 		if you exchange the test set and the gold standard.
+# 
+# Input:
+# 	cluster files has the following format.
+# 
+# 	The title of an article is listed per line, and each cluster is divided by a blank line.
+# 	The first article of each cluster may be the centroid article of the cluster.
+# 	Comments followed by a hash (#) sign are allowed either at the beginning or end of a line.
+# 
+# 	An example cluster file follows:
+# 	# Excitement about the upcoming superbowl.  Played on February 1, 2009.
+# 	Super_Bowl_XLIII
+# 	Super_Bowl
+# 	Arizona_Cardinals
+# 	Kurt_Warner
+# 
+# 	# The US airways flight that ditched into the Hudson, with no casualties 
+# 	US_Airways_Flight_1549
+# 	Chesley_Sullenberger
+# 	Hudson_River
+# 	Airbus_A320_family
 
 import sys
 

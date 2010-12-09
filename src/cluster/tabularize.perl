@@ -1,7 +1,10 @@
 #!/usr/bin/env perl
+# tabularize.perl
 #
-# convert the output format of the evaluation scripts
-# into a tabularized form
+# the script to tabularize the results of the eval.py script.
+#
+# Usage:
+#	./eval.py gold_standard test_set | ./tabularize.perl
 
 while (<>) {
     chomp;
