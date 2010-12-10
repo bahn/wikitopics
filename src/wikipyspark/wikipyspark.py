@@ -1,4 +1,45 @@
 #!/usr/bin/env python
+#
+# wikipyspark.py
+#
+# Using the jQuery Sparklines, draw sparklines for all the current evenets.
+# 
+# Usage:
+# 	./wikipyspark.py [dates] [text] [links] [page_views]
+# 	e.g. ./wikipyspark.py data/events/events_date_2009 data/events/events_text_2009 data/events/events_links_2009 data/events/events_page_views_by_date_2009
+# 
+# Input:
+# 	dates
+# 		the file that has all the dates 2009. The format is compatible with JSON.
+# 		Examples:
+# 		["1/1/2009", "1/2/2009", ..., "12/31/2009"]
+# 
+# 	text
+# 		Each line describes an Wikipedia current events and contains
+# 		the date and index of the event and the text that describes the events.
+# 		The format is as follows:
+# 20090101 0 *A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer.
+# 20090101 1 *An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family.
+# 20090101 2 *At least five people die and more than 50 are injured in serial bombings in Guwahati, India.
+# 20090101 3 *Russia's Gazprom halts deliveries of natural gas to Ukraine after negotiations over prices fail.
+# ...
+# 
+# 	links
+# 		the links from the Wikipedia current events. e.g. data/events/events_links_2009
+# 		Each line contains the date and the index of the event (which is reset every day),
+# 		and the title of an article linked from the event.
+# 		e.g.)
+# 20090101 0 BART_Police_shooting_of_Oscar_Grant
+# 20090101 0 California
+# 20090101 0 Bay_Area_Rapid_Transit
+# 20090101 0 Fruitvale_%28BART_station%29
+# ...
+# 
+# 	page_views
+# 		this files has the daily page views for all articles in the current events.
+# 		e.g.)
+# 		["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+    
 import sys
 import simplejson
 import string
@@ -57,45 +98,6 @@ def read_pageviews(filename, dates):
         pageviews[page] = counts
     return pageviews
 
-def process_linkevents(bullets):
-    linkevents = {}
-
-if len(sys.argv) < 5:
-    sys.stderr.writelines(["usage: wikipyspark [dates] [text] [links] [page_views]\n", 
-                           "trying to load from default path... error might occur\n"])
-    
-    dates = read_dates("/Users/bahn/workspace/data/events_date_2009")
-    bullets = read_texts("/Users/bahn/workspace/data/events_text_2009", dates)
-    bullets = read_links("/Users/bahn/workspace/data/events_links_2009", bullets)
-    pageviews = read_pageviews("/Users/bahn/workspace/data/events_page_views_by_date_2009_new", dates)
-    linkevents = process_linkevents(bullets)
-else:
-    dates = read_dates(sys.argv[1])
-    bullets = read_texts(sys.argv[2], dates)
-    bullets = read_links(sys.argv[3], bullets)
-    pageviews = read_pageviews(sys.argv[4], dates)
-    linkevents = process_linkevents(bullets)
-
-date2idx = {}
-
-for i, date in enumerate(dates):
-    date2idx[date] = i
-
-link2idx = {}
-links = []
-link2dates = {}
-
-for date in dates:
-    for index in range(len(bullets[date])):
-        bullet = bullets[date][index]
-        for link in bullet.links:
-            if not link in link2idx:
-                link2idx[link] = len(links)
-                links.append(link)
-            if not link in link2dates:
-                link2dates[link] = []
-            link2dates[link].append((date, bullet.text))
-                
 def bulletidx(date, index):
     return "%d_%d" % (date2idx[date], index)
 
@@ -348,7 +350,49 @@ Warnings
     for warning in warnings:
         f.write(warning + "\n")
     f.write("-->\n")
+
+# the start of the main
+#
+# read in the data
+if len(sys.argv) < 5:
+    sys.stderr.writelines(["usage: wikipyspark [dates] [text] [links] [page_views]\n", 
+                           "trying to load from default path... error might occur\n"])
     
+    dates = read_dates("/Users/bahn/work/wikitopics/data/events_date_2009")
+    bullets = read_texts("/Users/bahn/work/wikitopics/data/events_text_2009", dates)
+    bullets = read_links("/Users/bahn/work/wikitopics/data/events_links_2009", bullets)
+    pageviews = read_pageviews("/Users/bahn/work/wikitopics/data/events_page_views_by_date_2009", dates)
+else:
+    dates = read_dates(sys.argv[1])
+    bullets = read_texts(sys.argv[2], dates)
+    bullets = read_links(sys.argv[3], bullets)
+    pageviews = read_pageviews(sys.argv[4], dates)
+
+# set the maps to facilitate the process.
+#
+# date2idx: convert date into a serial number
+# link2idx: convert each link to a serial number
+# links: the list of links, sorted by the link2idx
+# link2dates: the list of the dates on which each link appears in the current events
+
+date2idx = {}
+for i, date in enumerate(dates):
+    date2idx[date] = i
+link2idx = {}
+links = []
+link2dates = {}
+
+for date in dates:
+    for index in range(len(bullets[date])):
+        bullet = bullets[date][index]
+        for link in bullet.links:
+            if not link in link2idx:
+                link2idx[link] = len(links)
+                links.append(link)
+            if not link in link2dates:
+                link2dates[link] = []
+            link2dates[link].append((date, bullet.text))
+
 try:
     os.makedirs("wikispark")
 except:
@@ -359,3 +403,4 @@ for date in dates:
 for link in links:
     write_for_link(link)
 write_index()
+
