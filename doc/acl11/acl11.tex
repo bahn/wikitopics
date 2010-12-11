@@ -67,8 +67,6 @@ Our approach is to select a set of articles whose daily page views increase abov
 
 In this paper we attempt to cluster 100 such articles from each of 5 randomly selected days in 2009, such that the clusters coherently correspond to current events.
 
-Should we try to predict the current event descriptions that Wikipedia editors hand-curate? We say no for the following reasons. Therefore we recommend against this methodology for other researchers.
-
 We compared our automatically collected clusters to the Wikipedia current events. Wikipedia editors compiles current events every day, which mainly consist of social and political events, traffic accidents and disasters. More often than not, they do not generate much traffic, and link to pages that are too general like ``United States'' or ``Israel''. We view this work as an automatic mechanism that could potentially supplant the hand-curated method of selecting current events that is currently done by Wikipedia editors.
 
 \begin{figure}
@@ -94,7 +92,7 @@ We compared our automatically collected clusters to the Wikipedia current events
 
 For instance, we would attempt to cluster the articles in Figure~\ref{fig:topics-jan-27} into 3 clusters, \{ \war{Barack Obama}, \war{Joe Biden}, \war{White House}, \war{Inauguration} \} which corresponds to the inauguration of Barack Obama, \{ \war{US Airways Flight 1549}, \war{Chesley Sullenburger}, \war{Hudson River} \} which corresponds to the successful ditching of an airplane into the Hudson river without loss of life, and \{ \war{Superbowl}, \war{Arizona Cardinals} \} which describes the then upcoming Superbowl XLIII.
 
-We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett "Sully" Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with \war{Arizona Cardinals}.
+We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett ``Sully'' Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with \war{Arizona Cardinals}.
 
 To generate the clusters we can make use of the text of the articles on that date, versions of the articles from previous dates, the link structure and category info from Wikipedia, and potentially external info like newspaper articles published before the date.
 
@@ -126,7 +124,9 @@ We compared the automatically selected articles to the articles linked from the 
 
 Figure~\ref{fig:comparison-articles} shows the comparison of the selected articles. Automatically selected articles include an newly created article about a politcal event (\war{Inauguration of Barack Obama}), a recently released film, a popular TV series and related articles and tend to be specific than hand-selected articles. The hand-selected articles include more generic articles related a specific event, most of which are personal, organizational or geopolitical names. The hand-generated event describes the relationships between related articles.
 
-We set up a website that you can see the sparkline graphs of pageviews for each day, each link, or each event. You can see the clear correlation between the spikes of the page views of the articles and the date on which the articles appear as the current events.
+Should we try to predict the current event descriptions that Wikipedia editors hand-curate? We say no for the following reasons. Therefore we recommend against this methodology for other researchers.
+
+We set up a website\footnote{See http://ANONYMIZED} that you can see the sparkline graphs of pageviews for each day, each link, or each event in the form as Figure~\ref{fig:obama-sparkline}. You can see the clear correlation between the spikes of the page views of the articles and the date on which the articles appear as the current events.
 
 At this point, we set the goal of our novel task: to summarize recent events related to popular articles just as the hand-curated Wikipedia current events, but with more popular articles with high page views. This work can be used to replace the hand-generated current events listing the events that many people are interested in.
 
@@ -186,17 +186,26 @@ Our system pipeline is explained as follows. First, the most popular pages, or t
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.8\textwidth]{figures/acl11-process.pdf}
+\includegraphics[width=0.8\textwidth]{figures/WikiTopicsPipeline.pdf}
 \caption{Process diagram. (a) Topic selection. (b) Clustering. (c) Textualization.}
 \label{fig:process}
 \end{figure*}
 
 \section{Article selection}
-\paragraph{Dataset} The Wikipedia Traffic Statistics dataset is originally publicized and made available at http://dammit.lt/wikistats/ by a Wikipedian Domas Mituzas. This data is only kept up to a several months that the space allows. For the previous statistics, two sets of the statistics are published at Amazon Public Datasets (http://aws.amazon.com/datasets/, http://aws.amazon.com/datasets/2596, http://aws.amazon.com/datasets/4182). This dataset consists of the files that each has hourly page view statistics for every article in every language. Each line of the files contains the language or the project name, the title, the hourly page views, and the numbers of bytes of the text of an Wikipedia article. These statistics are collected from the Wikipedia cache server as requested by users, and it includes many wrongful or malicious requests. Many requested pages are also redirect pages that automatically refer the requester into another page. The redirect pages are usually the ones that are different names of an entity. To process these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump (http://download.wikipedia.org/) and from the database dump extracted the list of the titles of all articles and the redirect articles. Using these data, we filtered out the request for non-existing articles and merged the page views for the redirect pages into the main articles. Also the title of the Wikipedia articles has to be normalized according to a specific format, that is, the first letter of each title are capitalized and a space in it has to be replaced with an underscore, and so on.
+\paragraph{Dataset}
+The Wikipedia Traffic Statistics dataset is originally publicized and made available at http://dammit.lt/wikistats/ by a Wikipedian Domas Mituzas.
+This data is only kept up to a several months that the space allows.
+For the previous statistics, two sets of the statistics are published at Amazon Public Datasets (http://aws.amazon.com/datasets/, http://aws.amazon.com/datasets/2596, http://aws.amazon.com/datasets/4182).
+This dataset consists of the files that each has hourly page view statistics for every article in every language.
+Each line of the files contains the language or the project name, the title, the hourly page views, and the numbers of bytes of the text of an Wikipedia article.
 
-\paragraph{Algorithm} The Trending Topics algorithm.
-
-\paragraph{Preprocess} We limited the work only to English Wikipedia.
+We limited the work only to the English Wikipedia.
+These statistics are collected from the Wikipedia cache server as requested by users, and it includes many wrongful or malicious requests.
+Many requested pages are also redirect pages that automatically refer the requester into another page.
+The redirect pages are usually the ones that are different names of an entity.
+To process these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump (http://download.wikipedia.org/) and from the database dump extracted the list of the titles of all articles and the redirect articles.
+Using these data, we filtered out the request for non-existing articles and merged the page views for the redirect pages into the main articles.
+Also the title of the Wikipedia articles has to be normalized according to a specific format, that is, the first letter of each title are capitalized and a space in it has to be replaced with an underscore, and so on.
 
 \section{Clustering}
 \label{ssec:clustering}
@@ -232,7 +241,7 @@ The overall B-cubed scores are evaluated as follows:
 $$ \mbox{Prec} = \mbox{Average} _{e \neq e'} \mbox{Prec}(e,e') $$
 $$ \mbox{Recall} = \mbox{Average} _{e \neq e'} \mbox{Recall}(e,e') $$
 
-\paragraph{Discussion}
+\paragraph{Analysis}
 
 The bag of words model we used does not distinguish different meanings of words. This could result in wrong clustering. For example, the automatically selected articles include both \war{Piracy in Somalia} and \war{The Pirate Bay} as well as \war{Piracy}. Their resemblance in word spelling might result in confusion in clustering.
 In the real results, \war{The Pirate Bay} was correctly clustered with \war{The Pirate Bay Trial}, but \war{Piracy} was wrongly clustered with \war{USS Bainbridge (DDG-96)} and \war{MV Maersk Alabama}, both of which are the names of vessels. Instead of \war{Piracy}, \war{Moldova} wrongfully ended up in the same cluster as \war{Somalia} and \war{Piracy in Somalia}.
@@ -276,28 +285,19 @@ The coreferences are analyzed into a list of the entities in the article and all
 \centering
 \begin{tabular}{|c|c|}
 \hline
-February 12, 1809 \\
-1860 \\
-now \\
-the 17th century \\
-some time \\
-December 1808 \\
-34 years old \\
-The following winter \\
-The following year \\
-Later that year \\
-about 18 months of schooling \\
-November 19 \\
-that same month \\
-spring \\
-September \\
-April 1865 \\
-late 1863 \\
-later that year \\
+February 12, 1809 & Later that year \\
+1860 & about 18 months of schooling \\
+now & November 19 \\
+the 17th century & that same month \\
+some time & The following winter \\
+December 1808 & The following year \\
+34 years old & April 1865 \\
+spring & late 1863 \\
+September & later that year \\
 \hline
 \end{tabular}
 \label{fig:temporal-expressions-examples}
-\caption{The temporal expressions identified by the SERIF system in the preprocess step.}
+\caption{The temporal expressions identified by the SERIF system in the preprocess step. They are examples selected from 247 such date and time expressions extracted from the article about \war{Abraham Lincoln}}
 \end{figure}
 
 \paragraph {Design}
@@ -307,16 +307,75 @@ Among various date and time forms, the following policy was adapted to define th
 The most specific date with year, month, and day (``February 12, 1809'') has the most precedence over the other ones, and the next is a month with a year (``December 1808''), then a season with a year, and the date without a year.
 
 After selecting a sentence for each cluster, we used coreference resolution to replace the important pronoun in the sentence with its proper name.
-This step is important and necessary because the selected sentence often refers to its subject by a pronoun such as ``He'', ''She'', or ``It''.
+This step is important and necessary because the selected sentence often refers to its subject by a pronoun such as ``He'', ``She'', or ``It''.
 
 \paragraph {Evaluation}
-
 For ten articles on a specific day, an annotator selected sentences that best describes why the article is popular from all the sentences in each article.
 Each article has about 289 sentences on average.
 The annotator picked the best single sentence, and the second best sentences that could potentially be multiple.
 In the case there are no best sentence among them, he marked none as the best sentence, and listed all the partially explaning sentence as second best sentences.
 
 The results will be added soon.
+
+\paragraph {Analysis}
+
+We quantitatively analyzed the output of the system, and it suggested
+a couple of current problems and future work.
+
+\war{Serena Williams} is an example that the error in sentence splitting
+propagates to the sentential selection. The best sentence manually selected
+was the first sentence in the article ``Serena Jameka Williams \ldots
+, as of February 2, 2009, is ranked World No. 1 by the Women's Tennis
+Association \dots .'' The sentence was disastrously divided into two sentences
+right after ``No.'' by the NLTK splitter through our preprocess.
+It means no matter how well the sentential selection is done,
+it cannot choose the gold standard sentence. We ran the splitta
+\cite{dgillick09sbd} over the article text and found that it does not
+split the first sentence at the wrong position. The better the splitting is,
+The better the sentential selection works.
+
+Selection of the best sentence with dates seems to work well,
+with some problems.  \war{Farrah Fawcett} is a nice example of multiple sentences
+with dates, in a single section, that could potentially be spliced
+together into a timeline (the final event, that she was released from
+the hospital, makes more sense if we included why she was there).
+Furthermore, the sentence describing the most recent event contains
+a date without the year, which has less precedence over the other dates with the year
+even when it is closer to the date of interest than the others are.
+So having precedence over the date forms might not always work well.
+
+An improved baseline for sentence selection would include the opening
+sentence of the page from which the date-stamped sentence comes from.
+For example, in ``pick0419'' :
+
+\war{Grey Gardens} \# ``It is scheduled to air on HBO on April 18, 2009.''
+
+as compared to:
+
+\war{Grey Gardens} \# Grey Gardens is a 1975 documentary film by the
+direction/cinematography/editing team of Albert and David Maysles,
+Susan Froemke, Ellen Hovde, and Muffie Meyer. ...  It is scheduled to
+air on HBO on April 18, 2009.
+
+From there we'd want to compress the opening sentence, as in this case:
+
+ \war{Grey Gardens} \# Grey Gardens is a 1975 documentary film. ...  It is
+ scheduled to air on HBO on April 18, 2009.
+
+ Which then brings up the potential flaw:  it is an *adaptation* of
+ this film that is being released on April 18th, not the original.
+
+ Looking deeper, we see the earlier sentence: ``Grey Gardens, a film for
+ HBO, starring Jessica Lange and Drew Barrymore as the Edies, with
+ Jeanne Tripplehorn as Jacqueline Kennedy, and Daniel Baldwin as Julius
+ Krug.''.  This is hard: even if we run a co-ref system over the page to
+ resolve the ``It'' in ``It is scheduled to air'', then we'll know that
+ ``Grey Gardens'' is scheduled to to air.  But it isn't the same Grey
+ Gardens, it is the new adaptation, which we know only from the section
+ header.  Or we would have to have background knowledge that could
+ enable reasoning about movies not having two different lists of
+ starring actors, etc. (even harder!)
+
 
 \section{Related work}
 \label{sec:related-work}
@@ -329,7 +388,7 @@ There are still a lot of challanges that remain. For textualization, sentence fu
 
 \section*{Acknowledgments}
 
-The first author was supported by Samsung Scholarship.
+%The first author was supported by Samsung Scholarship.
 
 Thank you to Wikipedians X and Y for making the page view statistics available.
 
