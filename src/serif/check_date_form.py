@@ -78,6 +78,6 @@ if __name__=='__main__':
 		print "Usage: check_date_form.py [sgm] [apf]"
 		sys.exit(1)
 	text = serif.read_sgm(sys.argv[1])
-	data = serif.read_apf(sys.argv[2])
+	data = serif.read_apf(text, sys.argv[2])
 	check_date_form(text, data)
 

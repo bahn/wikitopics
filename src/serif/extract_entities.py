@@ -17,7 +17,7 @@ def check_apf(text, data):
 		if entity.name:
 			print '#', text.substr(entity.name.start, entity.name.end).encode('utf8')
 		else:
-			print '#', unicode(str(entity), 'utf8')
+			print '#', str(entity).encode('utf8')
 		
 		for mention in entity.mentions:
 			substr = text.substr(mention.start, mention.end)
