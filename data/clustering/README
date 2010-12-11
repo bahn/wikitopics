@@ -1,0 +1,40 @@
+This dataset are the input and output of the clustering experiments.
+
+articles/
+	The texts of Wikipedia articles.
+
+pick/
+	The automatically selected articles.
+
+list/
+	The HTML pages that link to the texts of Wikipedia articles on the date.
+
+clusters-bahn/
+clusters-ben/
+clusters-ccb/
+	The manual clusters by BG, Ben and Chris.
+
+clusters-kmeans/
+	The automatic K-means clusters by Mallet.
+
+clusters-kmeans-centroid/
+	Almost the same as the previous one except that
+	the centroid article for each cluster appears at the beginning of the cluster.
+
+clusters-mturk/
+	The automatic clusters generated from the Mechanical Turker's reponses.
+
+clusters-mturk-mallet/
+	The automatic clusters by running Mallet on the Machanical Turker's responses.
+
+apf-2009-01-27/
+	The SERIF output files.
+
+sentence-selection-manual/
+	The articles to manual select sentences. Ten articles for each day of the five dates.
+
+sentence-selection-ben/
+	Ben's manually selected sentences.
+
+sentence-selection-bahn/
+	My manually seleteced sentences. Not finished.
