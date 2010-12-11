@@ -17,9 +17,9 @@
 \usepackage{graphicx}
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
-\newcommand{\war}[1]{{\tt\small #1}}
+\newcommand{\war}[1]{{\sf\small #1}}
 
-\title{What's up, Wikipedia? What is popular on Wikipedia and why.}
+\title{WikiTopics: What is popular on Wikipedia and why.}
 
 \author{Byung Gyu Ahn, Chris Callison-Burch, Benjamin Van Durme \\
   Center for Language and Speech Processing \\
@@ -66,6 +66,8 @@ In this paper we analyze a novel data set: we have collected the hourly page vie
 Our approach is to select a set of articles whose daily page views increase above their average from the previous two week period. Rather than simply selecting the most popular articles for a given day, this selects articles whose popularity is rapidly increasing. These popularity spikes are presumably due to some external current event in the real world. On any given day, there are many articles whose popularity is spiking.
 
 In this paper we attempt to cluster 100 such articles from each of 5 randomly selected days in 2009, such that the clusters coherently correspond to current events.
+
+Should we try to predict the current event descriptions that Wikipedia editors hand-curate? We say no for the following reasons. Therefore we recommend against this methodology for other researchers.
 
 We compared our automatically collected clusters to the Wikipedia current events. Wikipedia editors compiles current events every day, which mainly consist of social and political events, traffic accidents and disasters. More often than not, they do not generate much traffic, and link to pages that are too general like ``United States'' or ``Israel''. We view this work as an automatic mechanism that could potentially supplant the hand-curated method of selecting current events that is currently done by Wikipedia editors.
 
@@ -124,13 +126,15 @@ We compared the automatically selected articles to the articles linked from the 
 
 Figure~\ref{fig:comparison-articles} shows the comparison of the selected articles. Automatically selected articles include an newly created article about a politcal event (\war{Inauguration of Barack Obama}), a recently released film, a popular TV series and related articles and tend to be specific than hand-selected articles. The hand-selected articles include more generic articles related a specific event, most of which are personal, organizational or geopolitical names. The hand-generated event describes the relationships between related articles.
 
+We set up a website that you can see the sparkline graphs of pageviews for each day, each link, or each event. You can see the clear correlation between the spikes of the page views of the articles and the date on which the articles appear as the current events.
+
 At this point, we set the goal of our novel task: to summarize recent events related to popular articles just as the hand-curated Wikipedia current events, but with more popular articles with high page views. This work can be used to replace the hand-generated current events listing the events that many people are interested in.
 
 \begin{figure}
 \centering
 \begin{tabular}{|c|}
 \hline
-Automatically selected articles \\
+WikiTopics \\
 \hline
 \war{Inauguration of Barack Obama} \\
 \war{Joe Biden} \\
@@ -138,7 +142,7 @@ Automatically selected articles \\
 \war{The Notorious B.I.G.} \\
 \war{Lost (TV series)} \\
 \hline
-Hand-selected articles \\
+Wikipedia current events \\
 \hline
 \war{Fraud} \\
 \war{Florida} \\
@@ -187,32 +191,53 @@ Our system pipeline is explained as follows. First, the most popular pages, or t
 \label{fig:process}
 \end{figure*}
 
+\section{Article selection}
+\paragraph{Dataset} The Wikipedia Traffic Statistics dataset is originally publicized and made available at http://dammit.lt/wikistats/ by a Wikipedian Domas Mituzas. This data is only kept up to a several months that the space allows. For the previous statistics, two sets of the statistics are published at Amazon Public Datasets (http://aws.amazon.com/datasets/, http://aws.amazon.com/datasets/2596, http://aws.amazon.com/datasets/4182). This dataset consists of the files that each has hourly page view statistics for every article in every language. Each line of the files contains the language or the project name, the title, the hourly page views, and the numbers of bytes of the text of an Wikipedia article. These statistics are collected from the Wikipedia cache server as requested by users, and it includes many wrongful or malicious requests. Many requested pages are also redirect pages that automatically refer the requester into another page. The redirect pages are usually the ones that are different names of an entity. To process these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump (http://download.wikipedia.org/) and from the database dump extracted the list of the titles of all articles and the redirect articles. Using these data, we filtered out the request for non-existing articles and merged the page views for the redirect pages into the main articles. Also the title of the Wikipedia articles has to be normalized according to a specific format, that is, the first letter of each title are capitalized and a space in it has to be replaced with an underscore, and so on.
+
+\paragraph{Algorithm} The Trending Topics algorithm.
+
+\paragraph{Preprocess} We limited the work only to English Wikipedia.
+
 \section{Clustering}
 \label{ssec:clustering}
 
-We cluster the automatically selected articles. In Figure~\ref{fig:topics-jan-27}, the articles may be divided into three articles. Among the articles, some seem to be more centric articles; For example, among the articles in Figure~\ref{fig:topics-jan-27}, \war{Inauguration}, \war{US Airways Flight 1549}, and \war{Super Bowl} seem to be centric articles that have close relationship with the rest of the articles. The other articles seem to be more local.
+More often than not, some of the popular articles are about a current event.
+For example, the hand-selected articles shown in Figure~\ref{fig:comparison-articles} are about a current event that ``Florida hedge fund manager Arthur Nadel is arrested \ldots and charged with Fraud.''
+Among the automatically selected articles, main events such as \war{Inauguration of Barack Obama} and release of the file \war{Notorious (2009 film)} involves making popular the incidental articles about the players of the events such as \war{Joe Biden} and \war{The Notorious B.I.G.} along with the articles about the main events themselves.
 
-We make use of various information about the articles.
-%Once extracted, the topics include individual articles that can be divided into some categories (see Table~\ref{tab:topics-example}). The categories, however, are somewhat random and highly related to on-going events. In many cases, there are ``central'' topics that are directly relevant to an on-going event, and there are ``peripheral'' topics that are weakly related to the same events. In Figure~\ref{tab:topics-example}, \war{Barack Obama} and \war{Presidential Inauguration} are central topics, and the articles of past U.S. Presidents are peripheral topics.
+We attempt to cluster the automatically selected articles into mutually related articles and find the article that describes the main event for each cluster. For clustering, we make use of the unigram bag-of-words model and the link structures of articles. To find the centroid articles that describes the main event, we used K-means model and the link structure of articles.
 
-These topics are naturally subject to clustering. As a baseline, we ran K-means clustering on the articles extracted by the TrendingTopics algorithm, using the articles as bags of words, which were fetched on the date on which they emerged as the TT topics.
+\paragraph{Dataset} For each day of the five selected dates in 2009, we downloaded the text of the 100 automatically selected articles from Wikipedia. The downloaded texts are the latest texts as of the date on which the article is selected. We use the Wikipydia module, which is a python module to make use of the Wikipedia API. As preprocessing, we stripped out all HTML tags from the article text, and replaced the Wikipedia-specific tags as the corresponding text using the mwlib library, and finally split sentences using the NLTK splitter.
 
-Three annotators performed manual clustering on the topics for the five specified dates to get the gold standard clusters. The three clusters were evaluated against each other. The metric used for evaluation was B-cubed metric. This will be the oracle score for any clustering algorithm.
+\paragraph{Design}
+As a baseline, K-means clustering was performed on the set of articles, treating the article texts as bag-of-words. There are 100 automatically selected articles on each of the five selected dates and we set 50 as the number of resulting clusters. We used the Mallet\footnote{Reference?} software to run K-means software. Normalization and tokenization are not performed before running K-means. The algorithm calculates the mean of each cluster in word-vector space, and we chose the centroid article that is closest to the center in the vector space.
 
-The modified B-cubed metric \cite{amigo09} is used for evaluation of overlapped clusters. The B-cubed metric is one of the extrinsic clustering evaluation metrics, which need gold standard dataset to evaluate the clustering of interest against. The original B-cubed metric is for clustered 
+We also used the link structures of the Wikipedia articles. The link structures are downloaded from the website of Henry Haselgrove (http://users.on.net/~henry/home/wikipedia.htm).
 
-\section{Textualization}
+\paragraph{Evaluation}
+Three annotators performed manual clustering on the topics for the five specified dates to get the gold standard clusters.
+The three manual clusters were evaluated against each other to measure the annotator agreement,
+using the multiplicity B-cubed metric\cite{amigo09} that can handle overlapping clusters.
 
-Textual description of the topics are intended to explain why the topics are popular. Specifically, the textual description for each cluster may consist of the sentences (1) that describe why the cluster is popular at the time and (2) that describe why each topic in the cluster is popular. The concepts of central and peripheral topics (\S\ref{ssec:clustering}) are important in that different types of topics contribute to the description in different ways. Often, the central topics are directly related to the event that caused the recent popularity and often includes a direct explanation of the recent event. 
+The B-cubed metric is one of the extrinsic clustering evaluation metrics, which need a gold standard set of clusters to evaluate the set of clusters of interest against.
+Each item $e$ has potentially multiple gold standard categories, and also potentially multiple clusters.
+Let $C(e)$ is the set of the clusters that $e$ belongs to, and $L(e)$ is the set of $e$'s categories.
+The multiplicity B-cubed scores for a pair of $e$ and $e'$ are evaluated as follows:
 
-\paragraph {Preprocess}
-We preprocess the Wikipedia articles through the Serif system\footnote{References?} for the temporal expression identification and the coreference resolution.
+$$ \mbox{Prec}(e,e') = { \min \left( |C(e) \cap C(e')| , |L(e) \cap L(e')| \right) \over |C(e) \cap C(e')| } $$
+$$ \mbox{Recall}(e,e') = { \min \left( |C(e) \cap C(e')| , |L(e) \cap L(e')| \right) \over |L(e) \cap L(e')| } $$
 
-\paragraph {Design}
-We simplified this task as selecting one sentence from the corresponding wikipedia article. Our baseline 
+The overall B-cubed scores are evaluated as follows:
 
-\paragraph {Evaluation}
-Three annotators picked the best sentence and next best sentence that describes why the topic recently got popular for ten chosen topics for the five dates. Qualitative examination was done.
+$$ \mbox{Prec} = \mbox{Average} _{e \neq e'} \mbox{Prec}(e,e') $$
+$$ \mbox{Recall} = \mbox{Average} _{e \neq e'} \mbox{Recall}(e,e') $$
+
+\paragraph{Discussion}
+
+The bag of words model we used does not distinguish different meanings of words. This could result in wrong clustering. For example, the automatically selected articles include both \war{Piracy in Somalia} and \war{The Pirate Bay} as well as \war{Piracy}. Their resemblance in word spelling might result in confusion in clustering.
+In the real results, \war{The Pirate Bay} was correctly clustered with \war{The Pirate Bay Trial}, but \war{Piracy} was wrongly clustered with \war{USS Bainbridge (DDG-96)} and \war{MV Maersk Alabama}, both of which are the names of vessels. Instead of \war{Piracy}, \war{Moldova} wrongfully ended up in the same cluster as \war{Somalia} and \war{Piracy in Somalia}.
+
+Trivial as it may sound, but it is not. In automatically selected articles for February 10, 2009, \war{Journey (band)} and \war{Bruce Springsteen} may seem to be relevant to \war{Grammy Awards}, but in fact they are relevant on this day because of the \war{Super Bowl}. The K-means clusters wrongfully clustered the articles relevant to \war{Grammy Awards} and \war{Super Bowl} altogether into one large cluster.
 
 \begin{table}
 % table from /Users/bahn/Dropbox/Documents/Research/Wikitopics/Clustering\ Accuracy.xlsx
@@ -231,9 +256,67 @@ Manual-2 & K-means & 0.53 $\pm$ {\small 0.050} \\
 Manual-3 & K-means & 0.49 $\pm$ {\small 0.035} \\
 \hline
 \end{tabular}
-\caption{Clustering evaluation. For B-Cubed metric, exchanging the gold standard and the evaluated dataset incurs the exchange of the precision and the recall score, thus leaving the F-score same.}
+\caption{Clustering evaluation. For the B-Cubed metric, exchanging the gold standard and the evaluated dataset incurs the exchange of the precision and the recall score, thus leaving the F-score same.}
 \label{tab:clustering}
 \end{table}
+
+\section{Textualization}
+
+Textual description of the topics are intended to explain why the topics are popular.
+Specifically, the textual description for each cluster may consist of the sentences (1) that describe why the cluster is popular at the time and (2) that describe why each topic in the cluster is popular.
+The concepts of central and peripheral topics (\S\ref{ssec:clustering}) are important in that different types of topics contribute to the description in different ways.
+Often, the central topics are directly related to the event that caused the recent popularity and often includes a direct explanation of the recent event. 
+
+\paragraph {Preprocess}
+We preprocess the Wikipedia articles through the SERIF system\footnote{References?} for the temporal expression identification and the coreference resolution.
+The identified temporal expressions are in various formats such as exact date (``February 12, 1809''), a season (``spring''), a month (``December 1808''), a date without a specific year (``November 19''), and even ralative time (``now'', ``later that year'', ``The following year''). Some examples are showed in Figure~\ref{fig:temporal-expressions-examples}.
+The coreferences are analyzed into a list of the entities in the article and all the mentions of each entity in the article are compiled as co-ref chains.
+
+\begin{figure}
+\centering
+\begin{tabular}{|c|c|}
+\hline
+February 12, 1809 \\
+1860 \\
+now \\
+the 17th century \\
+some time \\
+December 1808 \\
+34 years old \\
+The following winter \\
+The following year \\
+Later that year \\
+about 18 months of schooling \\
+November 19 \\
+that same month \\
+spring \\
+September \\
+April 1865 \\
+late 1863 \\
+later that year \\
+\hline
+\end{tabular}
+\label{fig:temporal-expressions-examples}
+\caption{The temporal expressions identified by the SERIF system in the preprocess step.}
+\end{figure}
+
+\paragraph {Design}
+As a baseline, we picked the first sentence for each article because the first sentence generally explains the article.
+As a second test set, we picked the sentence with a temporal expression that is most closest on which the article was selected.
+Among various date and time forms, the following policy was adapted to define the closeness:
+The most specific date with year, month, and day (``February 12, 1809'') has the most precedence over the other ones, and the next is a month with a year (``December 1808''), then a season with a year, and the date without a year.
+
+After selecting a sentence for each cluster, we used coreference resolution to replace the important pronoun in the sentence with its proper name.
+This step is important and necessary because the selected sentence often refers to its subject by a pronoun such as ``He'', ''She'', or ``It''.
+
+\paragraph {Evaluation}
+
+For ten articles on a specific day, an annotator selected sentences that best describes why the article is popular from all the sentences in each article.
+Each article has about 289 sentences on average.
+The annotator picked the best single sentence, and the second best sentences that could potentially be multiple.
+In the case there are no best sentence among them, he marked none as the best sentence, and listed all the partially explaning sentence as second best sentences.
+
+The results will be added soon.
 
 \section{Related work}
 \label{sec:related-work}
