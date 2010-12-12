@@ -1,21 +1,9 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 #
-# fetch_sentences.py
-#
-# Fetch wikipedia articles in plain text on a specified date.
-# It needs wiktrans to have been installed because it heavily uses
-# its sentence splitting module.
-#
-# After you activate the virtual environments for wikitrans (e.g. by workon wt.dev)
-# you need to set the environment variable PYTHONPATH to the root directory
-# of the wikitrans project.
-# For example, the command for my environment is as below.
-# export PYTHONPATH=/Users/bahn/Desktop/wikitrans-system/wikitrans/wt-app/
-#
-# The above path is for this module to import the manage module that resides
-# in the manage.py file under the specified directory.
-# The manage module in turn sets all necessary environment variables.
+# check_wikitext.py
+# -----------------
+# OBSOLETE
+# Retrieve a Wiki-markup text and check all kinds of tags that it provides.
 
 import manage
 import sys

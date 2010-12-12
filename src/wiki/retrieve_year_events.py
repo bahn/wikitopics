@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #
-# Retrieves all current events from the Wikipedia portal for a specific year.
+# retrieve_year_events.py
+# -----------------------
+# Retrieves all current events for a specific year.
 # The events are written into a file for each day of that year.
 #
 # You should manually edit the year into something.

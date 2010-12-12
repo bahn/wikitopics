@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+#
+# find_dates.py
+# -------------
+# OBSOLETE
+# A simple trial to look for temporal expressions in the Wikipedia articles.
+
 import os
 import re
 mypath = '/Users/bahn/Desktop/wikitopics/2009-01-27'

@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 #
+# retrieve_articles.py
+# --------------------
+# OBSOLETE
+# Replaced by the fetch_sentences.py script
+# 
+# OBSOLETE
+# Replaced by the fetch_
 # Retrieves all the wikipedia article for a given set of specific dates.
 # Currently the dates are, by default, Jan 27, Feb 10, Apr 19, May 12, and Oct 12.
 # Output are five folds:
@@ -7,8 +14,6 @@
 #   YYYY_MM_DD_revid_Title.html
 #   YYYY_MM_DD_revid_Title.categories
 #   YYYY_MM_DD_revid_Title.links
-#
-# Note that the 
 
 import os
 import wikipydia

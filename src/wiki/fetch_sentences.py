@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # fetch_sentences.py
-#
+# ------------------
 # Fetch wikipedia articles in plain text on a specified date.
 # It needs wiktrans to have been installed because it heavily uses
 # its sentence splitting module.

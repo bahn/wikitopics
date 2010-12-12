@@ -1,31 +1,72 @@
 batch_fetch_sentences.sh
+------------------------
+Call the fetch_sentences.py script repeatedly to retrieve all the 100 articles for all the five days.
 
 check_wikitext.py
+-----------------
+OBSOLETE
+Replaced by wpTextExtractor.
+Retrieve a Wiki-markup text and check all kinds of tags that it provides.
+Potential future use: to check Wikipedia markups.
 
 create_links_to_wikiarticles.py
+-------------------------------
+OBSOLETE
+Create a HTML file to the article revisions of a specified date.
+Do not need any arguments; the path from which the data will be read is hard-wired in the code.
 
 fetch_sentences.py
-
+------------------
 Fetch wikipedia articles in plain text on a specified date.
-It needs wiktrans to have been installed because it heavily uses
-its sentence splitting module.
+It needs the WikiTrans project installed for its sentence splitting module.
 
 After you activate the virtual environments for wikitrans (e.g. by workon wt.dev)
-you need to set the environment variable PYTHONPATH to the root directory
-of the wikitrans project.
-
+you need to set the environment variable PYTHONPATH to the root directory of the wikitrans project.
 For example, the command for my environment is as below.
 export PYTHONPATH=/Users/bahn/Desktop/wikitrans-system/wikitrans/wt-app/
-
-The above path is for this module to import the manage module that resides
-in the manage.py file under the specified directory.
+The above path is for this module to import the manage module that resides in the manage.py file under the specified directory.
 The manage module in turn sets all necessary environment variables.
 
+Usage: fetch_sentences list/of/articles path/to/store/sentences/files/
+	list of articles
+		The list of articles to fetch.
+		Each line has only 1 field containing the title of an article.
+
+	YYYY-MM-DD
+		The date of the revision of the article to fetch.
+	
+	/path/to/store/sentences/
+		The path in which to store the fetched articles.
+
+fetch_article.py
+----------------
+The script to get the sentences for an article.
+Note that the fetch_sentences.py script gets all the articles
+while this script get only one article.
+
 find_dates.py
+-------------
+OBSOLETE
+Replaced by the SERIF system. Too simple to use.
+A simple trial to look for temporal expressions in the Wikipedia articles.
 
 retrieve_articles.py
+--------------------
+OBSOLETE
+Replaced by the fetch_sentences.py script: Too time-consuming.
+
+Retrieves all the wikipedia article for a given set of specific dates.
+Currently the dates are, by default, Jan 27, Feb 10, Apr 19, May 12, and Oct 12.
+Output are five folds:
+  YYYY_MM_DD_revid_Title
+  YYYY_MM_DD_revid_Title.html
+  YYYY_MM_DD_revid_Title.categories
+  YYYY_MM_DD_revid_Title.links
 
 retrieve_year_events.py
+-----------------------
+Retrieves all current events for a specific year.
+The events are written into a file for each day of that year.
 
-splitta_test.py
-
+You should manually edit the year into something.
+Currently, the year is set to 2009 so that all the current events of year 2009 are retrieved by default.

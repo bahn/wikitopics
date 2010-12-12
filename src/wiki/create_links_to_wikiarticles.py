@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+#
+# create_links_to_wikiarticles.py
+# 
+# OBSOLETE
+# Create a HTML file to the article revisions of a specified date.
+# Do not need any arguments; the path from which the data will be read is hard-wired in the code.
 
 import os
 import wikipydia
