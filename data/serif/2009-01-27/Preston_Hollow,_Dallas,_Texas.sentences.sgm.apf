@@ -1,0 +1,3356 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Preston_Hollow,_Dallas,_Texas.sentences.sgm">
+  <document DOCID="Preston_Hollow,_Dallas,_Texas.sentences.sgm">
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="46" END="59">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="46" END="59">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="64" END="105">a neighborhood in north Dallas, Texas, USA</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="77">neighborhood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M111">
+          <extent>
+              <charseq START="256" END="269">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="269">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="368" END="381">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="368" END="381">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M302">
+          <extent>
+              <charseq START="530" END="543">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="543">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M301">
+          <extent>
+              <charseq START="530" END="553">Preston Hollow residents</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="553">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M405">
+          <extent>
+              <charseq START="762" END="775">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="775">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M404">
+          <extent>
+              <charseq START="717" END="736">only white residents</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="736">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M615">
+          <extent>
+              <charseq START="1002" END="1061">Preston Hollow, which is often now termed Old Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="1002" END="1015">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M618">
+          <extent>
+              <charseq START="1044" END="1061">Old Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="1048" END="1061">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M619">
+          <extent>
+              <charseq START="1044" END="1046">Old</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1046">Old</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M800">
+          <extent>
+              <charseq START="1384" END="1397">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="1384" END="1397">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1506" END="1523">Old Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="1506" END="1523">Old Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1309">
+          <extent>
+              <charseq START="2596" END="2609">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="2596" END="2609">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1502">
+          <extent>
+              <charseq START="2776" END="2789">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="2776" END="2789">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1704">
+          <extent>
+              <charseq START="3006" END="3019">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="3006" END="3019">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2003">
+          <extent>
+              <charseq START="3293" END="3306">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="3293" END="3306">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="3418" END="3443">Preston Hollow in the news</charseq>
+          </extent>
+          <head>
+              <charseq START="3418" END="3431">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2601">
+          <extent>
+              <charseq START="4856" END="4869">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="4856" END="4869">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2618">
+          <extent>
+              <charseq START="5057" END="5070">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="5057" END="5070">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2713">
+          <extent>
+              <charseq START="5231" END="5244">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="5231" END="5244">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M2714">
+          <extent>
+              <charseq START="5250" END="5270">a town outside Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5252" END="5255">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3000">
+          <extent>
+              <charseq START="5550" END="5563">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="5550" END="5563">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3106">
+          <extent>
+              <charseq START="5831" END="5844">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="5831" END="5844">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3105">
+          <extent>
+              <charseq START="5831" END="5854">Preston Hollow residents</charseq>
+          </extent>
+          <head>
+              <charseq START="5846" END="5854">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3201">
+          <extent>
+              <charseq START="6324" END="6337">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="6324" END="6337">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3200">
+          <extent>
+              <charseq START="6314" END="6347">2007 most Preston Hollow residents</charseq>
+          </extent>
+          <head>
+              <charseq START="6339" END="6347">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3501">
+          <extent>
+              <charseq START="6551" END="6564">Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="6551" END="6564">Preston Hollow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preston Hollow">
+              <charseq START="46" END="59">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="256" END="269">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="368" END="381">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="530" END="543">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="762" END="775">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="1002" END="1015">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="1048" END="1061">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="1384" END="1397">Preston Hollow</charseq>
+          </name>
+          <name NAME="Old Preston Hollow">
+              <charseq START="1506" END="1523">Old Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="2596" END="2609">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="2776" END="2789">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="3006" END="3019">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="3293" END="3306">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="3418" END="3431">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="4856" END="4869">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="5057" END="5070">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="5231" END="5244">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="5550" END="5563">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="5831" END="5844">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="6324" END="6337">Preston Hollow</charseq>
+          </name>
+          <name NAME="Preston Hollow">
+              <charseq START="6551" END="6564">Preston Hollow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M4" ROLE="LOC">
+          <extent>
+              <charseq START="82" END="93">north Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="88" END="93">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M103">
+          <extent>
+              <charseq START="143" END="164">a municipality in 1939</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="156">municipality</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M307" ROLE="LOC">
+          <extent>
+              <charseq START="629" END="634">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="629" END="634">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M303">
+          <extent>
+              <charseq START="574" END="591">the city of Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="581">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M306">
+          <extent>
+              <charseq START="597" END="612">the municipality</charseq>
+          </extent>
+          <head>
+              <charseq START="601" END="612">municipality</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M1117" ROLE="LOC">
+          <extent>
+              <charseq START="1758" END="1763">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="1758" END="1763">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M1805" ROLE="LOC">
+          <extent>
+              <charseq START="3190" END="3195">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="3190" END="3195">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M3014" ROLE="LOC">
+          <extent>
+              <charseq START="5739" END="5744">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5739" END="5744">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M3103" ROLE="LOC">
+          <extent>
+              <charseq START="5790" END="5801">North Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5790" END="5801">North Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas">
+              <charseq START="88" END="93">Dallas</charseq>
+          </name>
+          <name NAME="Dallas">
+              <charseq START="629" END="634">Dallas</charseq>
+          </name>
+          <name NAME="Dallas">
+              <charseq START="1758" END="1763">Dallas</charseq>
+          </name>
+          <name NAME="Dallas">
+              <charseq START="3190" END="3195">Dallas</charseq>
+          </name>
+          <name NAME="Dallas">
+              <charseq START="5739" END="5744">Dallas</charseq>
+          </name>
+          <name NAME="North Dallas">
+              <charseq START="5790" END="5801">North Dallas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M6" ROLE="LOC">
+          <extent>
+              <charseq START="96" END="100">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="96" END="100">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M906" ROLE="LOC">
+          <extent>
+              <charseq START="1492" END="1496">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1496">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M1006" ROLE="LOC">
+          <extent>
+              <charseq START="1574" END="1578">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1578">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M1010">
+          <extent>
+              <charseq START="1599" END="1607">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="1603" END="1607">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M1505" ROLE="LOC">
+          <extent>
+              <charseq START="2823" END="2831">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="2827" END="2831">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Texas">
+              <charseq START="96" END="100">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="1492" END="1496">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="1574" END="1578">Texas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E3-M7" ROLE="LOC">
+          <extent>
+              <charseq START="103" END="105">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="105">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="USA">
+              <charseq START="103" END="105">USA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E4-M106">
+          <extent>
+              <charseq START="185" END="228">the Preston Road Fresh Water Supply District</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="228">Preston Road Fresh Water Supply District</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E4-M118">
+          <extent>
+              <charseq START="354" END="365">Preston Road</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="365">Preston Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E4-M204">
+          <extent>
+              <charseq START="416" END="484">Preston Road, slightly north of Walnut Hill Lane, west of Midway Road</charseq>
+          </extent>
+          <head>
+              <charseq START="416" END="427">Preston Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E4-M612">
+          <extent>
+              <charseq START="945" END="956">Preston Road</charseq>
+          </extent>
+          <head>
+              <charseq START="945" END="956">Preston Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preston Road Fresh Water Supply District">
+              <charseq START="189" END="228">Preston Road Fresh Water Supply District</charseq>
+          </name>
+          <name NAME="Preston Road">
+              <charseq START="354" END="365">Preston Road</charseq>
+          </name>
+          <name NAME="Preston Road">
+              <charseq START="416" END="427">Preston Road</charseq>
+          </name>
+          <name NAME="Preston Road">
+              <charseq START="945" END="956">Preston Road</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M110" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="235" END="246">North Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="246">North Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M108">
+          <extent>
+              <charseq START="231" END="269">the North Dallas town of Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="251">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M305" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="586" END="591">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="591">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M805" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1442" END="1447">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="1442" END="1447">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M2716" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5265" END="5270">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5265" END="5270">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M2801" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5274" END="5279">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5274" END="5279">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3112">
+          <extent>
+              <charseq START="5944" END="6264">St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School
+Grades 1-12
+Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades 9-12 only
+Ursuline Academy of Dallas
+Jesuit College Preparatory School of Dallas
+Preston Hollow Early Childhood PTA</charseq>
+          </extent>
+          <head>
+              <charseq START="6160" END="6264">Ursuline Academy of Dallas
+Jesuit College Preparatory School of Dallas
+Preston Hollow Early Childhood PTA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3118">
+          <extent>
+              <charseq START="6269" END="6305">a private preschool group in the area</charseq>
+          </extent>
+          <head>
+              <charseq START="6289" END="6293">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3300">
+          <extent>
+              <charseq START="6388" END="6425">Public libraries
+Dallas Public Library</charseq>
+          </extent>
+          <head>
+              <charseq START="6405" END="6425">Dallas Public Library</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3400">
+          <extent>
+              <charseq START="6488" END="6516">Media
+The Dallas Morning News</charseq>
+          </extent>
+          <head>
+              <charseq START="6498" END="6516">Dallas Morning News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3402">
+          <extent>
+              <charseq START="6494" END="6496">The</charseq>
+          </extent>
+          <head>
+              <charseq START="6494" END="6496">The</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3404">
+          <extent>
+              <charseq START="6521" END="6548">the local citywide newspaper</charseq>
+          </extent>
+          <head>
+              <charseq START="6540" END="6548">newspaper</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ursuline Academy of Dallas
+Jesuit College Preparatory School of Dallas
+Preston Hollow Early Childhood PTA">
+              <charseq START="6160" END="6264">Ursuline Academy of Dallas
+Jesuit College Preparatory School of Dallas
+Preston Hollow Early Childhood PTA</charseq>
+          </name>
+          <name NAME="Dallas Public Library">
+              <charseq START="6405" END="6425">Dallas Public Library</charseq>
+          </name>
+          <name NAME="Dallas Morning News">
+              <charseq START="6498" END="6516">Dallas Morning News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E6-M112">
+          <extent>
+              <charseq START="285" END="365">the deep wooded area with creeks and hollows extending westward from Preston Road</charseq>
+          </extent>
+          <head>
+              <charseq START="301" END="304">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E6-M700">
+          <extent>
+              <charseq START="1073" END="1088">the neighborhood</charseq>
+          </extent>
+          <head>
+              <charseq START="1077" END="1088">neighborhood</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E7-M206">
+          <extent>
+              <charseq START="448" END="463">Walnut Hill Lane</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="463">Walnut Hill Lane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E7-M605">
+          <extent>
+              <charseq START="895" END="910">Walnut Hill Lane</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="910">Walnut Hill Lane</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walnut Hill Lane">
+              <charseq START="448" END="463">Walnut Hill Lane</charseq>
+          </name>
+          <name NAME="Walnut Hill Lane">
+              <charseq START="895" END="910">Walnut Hill Lane</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E8-M207">
+          <extent>
+              <charseq START="474" END="484">Midway Road</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="484">Midway Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E8-M609">
+          <extent>
+              <charseq START="921" END="931">Midway Road</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="931">Midway Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E8-M716">
+          <extent>
+              <charseq START="1243" END="1253">Midway Road</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1253">Midway Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Midway Road">
+              <charseq START="474" END="484">Midway Road</charseq>
+          </name>
+          <name NAME="Midway Road">
+              <charseq START="921" END="931">Midway Road</charseq>
+          </name>
+          <name NAME="Midway Road">
+              <charseq START="1243" END="1253">Midway Road</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9-M210">
+          <extent>
+              <charseq START="503" END="519">Northwest Highway</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="519">Northwest Highway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9-M604">
+          <extent>
+              <charseq START="867" END="883">Northwest Highway</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="883">Northwest Highway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9-M711">
+          <extent>
+              <charseq START="1185" END="1381">Northwest Highway (Loop 12), south of Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+          </extent>
+          <head>
+              <charseq START="1185" END="1201">Northwest Highway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9-M720">
+          <extent>
+              <charseq START="1301" END="1305">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1301" END="1305">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northwest Highway">
+              <charseq START="503" END="519">Northwest Highway</charseq>
+          </name>
+          <name NAME="Northwest Highway">
+              <charseq START="867" END="883">Northwest Highway</charseq>
+          </name>
+          <name NAME="Northwest Highway">
+              <charseq START="1185" END="1201">Northwest Highway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10-M714" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1223" END="1381">Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+          </extent>
+          <head>
+              <charseq START="1223" END="1232">Royal Lane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10-M3303" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="6436" END="6485">the nearby Preston Royal Branch at 5626 Royal Lane</charseq>
+          </extent>
+          <head>
+              <charseq START="6476" END="6485">Royal Lane</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E11-M717" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1267" END="1290">North Central Expressway</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1290">North Central Expressway</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E12-M718" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1293" END="1297">US 75</charseq>
+          </extent>
+          <head>
+              <charseq START="1293" END="1294">US</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M723">
+          <extent>
+              <charseq START="1334" END="1358">Preston Hollow Elementary</charseq>
+          </extent>
+          <head>
+              <charseq START="1334" END="1358">Preston Hollow Elementary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M2104">
+          <extent>
+              <charseq START="3454" END="3485">Preston Hollow Elementary School</charseq>
+          </extent>
+          <head>
+              <charseq START="3454" END="3485">Preston Hollow Elementary School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M2109">
+          <extent>
+              <charseq START="3531" END="3540">the school</charseq>
+          </extent>
+          <head>
+              <charseq START="3535" END="3540">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M2205">
+          <extent>
+              <charseq START="3681" END="3690">the school</charseq>
+          </extent>
+          <head>
+              <charseq START="3685" END="3690">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M2206">
+          <extent>
+              <charseq START="3727" END="3730">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3727" END="3730">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M2302">
+          <extent>
+              <charseq START="4024" END="4033">the school</charseq>
+          </extent>
+          <head>
+              <charseq START="4028" END="4033">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E13-M3602">
+          <extent>
+              <charseq START="6620" END="6658">Preston Hollow Housing Statistics
+Notes</charseq>
+          </extent>
+          <head>
+              <charseq START="6620" END="6658">Preston Hollow Housing Statistics
+Notes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preston Hollow Elementary">
+              <charseq START="1334" END="1358">Preston Hollow Elementary</charseq>
+          </name>
+          <name NAME="Preston Hollow Elementary School">
+              <charseq START="3454" END="3485">Preston Hollow Elementary School</charseq>
+          </name>
+          <name NAME="Preston Hollow Housing Statistics
+Notes">
+              <charseq START="6620" END="6658">Preston Hollow Housing Statistics
+Notes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E14-M701">
+          <extent>
+              <charseq START="1112" END="1381">real estate professionals for marketing purposes as land to the north of Northwest Highway (Loop 12), south of Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+          </extent>
+          <head>
+              <charseq START="1124" END="1136">professionals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E15-M721">
+          <extent>
+              <charseq START="1307" END="1311">areas</charseq>
+          </extent>
+          <head>
+              <charseq START="1307" END="1311">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E16-M803">
+          <extent>
+              <charseq START="1418" END="1447">the wealthiest areas of Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="1433" END="1437">areas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E16-M904">
+          <extent>
+              <charseq START="1468" END="1496">the wealthiest areas in Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1483" END="1487">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E19-M1004">
+          <extent>
+              <charseq START="1546" END="1578">the most expensive homes in Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1565" END="1569">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20-M1009">
+          <extent>
+              <charseq START="1599" END="1630">the state&apos;s wealthiest residents</charseq>
+          </extent>
+          <head>
+              <charseq START="1622" END="1630">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20-M1100">
+          <extent>
+              <charseq START="1633" END="1692">Residents
+Prominent longtime residents of Old Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1670">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20-M1200">
+          <extent>
+              <charseq START="2269" END="2312">Former noted residents of Old Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="2282" END="2290">residents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1109">
+          <extent>
+              <charseq START="1702" END="1755">Former President George W. Bush as of January 23, 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="1719" END="1732">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1112">
+          <extent>
+              <charseq START="1709" END="1717">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1709" END="1717">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1166">
+          <extent>
+              <charseq START="2216" END="2218">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2218">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1401">
+          <extent>
+              <charseq START="2638" END="2670">the then-President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="2657" END="2670">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1402">
+          <extent>
+              <charseq START="2647" END="2655">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2647" END="2655">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M2610">
+          <extent>
+              <charseq START="4979" END="5007">U.S. President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4994" END="5007">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M2612">
+          <extent>
+              <charseq START="4984" END="4992">President</charseq>
+          </extent>
+          <head>
+              <charseq START="4984" END="4992">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M2615">
+          <extent>
+              <charseq START="5013" END="5015">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5013" END="5015">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George W. Bush">
+              <charseq START="1719" END="1732">George W. Bush</charseq>
+          </name>
+          <name NAME="George W. Bush">
+              <charseq START="2657" END="2670">George W. Bush</charseq>
+          </name>
+          <name NAME="George W. Bush">
+              <charseq START="4994" END="5007">George W. Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E23-M1118">
+          <extent>
+              <charseq START="1771" END="1781">Tom Leppert</charseq>
+          </extent>
+          <head>
+              <charseq START="1771" END="1781">Tom Leppert</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom Leppert">
+              <charseq START="1771" END="1781">Tom Leppert</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E24-M1119">
+          <extent>
+              <charseq START="1784" END="1799">Dallas Mavericks</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1799">Dallas Mavericks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas Mavericks">
+              <charseq START="1784" END="1799">Dallas Mavericks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E25-M1121">
+          <extent>
+              <charseq START="1807" END="1810">Mark</charseq>
+          </extent>
+          <head>
+              <charseq START="1807" END="1810">Mark</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark">
+              <charseq START="1807" END="1810">Mark</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E26-M1122" ROLE="LOC">
+          <extent>
+              <charseq START="1812" END="1816">Cuban</charseq>
+          </extent>
+          <head>
+              <charseq START="1812" END="1816">Cuban</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cuban">
+              <charseq START="1812" END="1816">Cuban</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E27-M1123">
+          <extent>
+              <charseq START="1822" END="1849">its President Terdema Ussery</charseq>
+          </extent>
+          <head>
+              <charseq START="1836" END="1849">Terdema Ussery</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E27-M1125">
+          <extent>
+              <charseq START="1826" END="1834">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1826" END="1834">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Terdema Ussery">
+              <charseq START="1836" END="1849">Terdema Ussery</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E28-M1128">
+          <extent>
+              <charseq START="1859" END="1872">Dallas Cowboys</charseq>
+          </extent>
+          <head>
+              <charseq START="1859" END="1872">Dallas Cowboys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E28-M1302">
+          <extent>
+              <charseq START="2490" END="2503">Dallas Cowboys</charseq>
+          </extent>
+          <head>
+              <charseq START="2490" END="2503">Dallas Cowboys</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas Cowboys">
+              <charseq START="1859" END="1872">Dallas Cowboys</charseq>
+          </name>
+          <name NAME="Dallas Cowboys">
+              <charseq START="2490" END="2503">Dallas Cowboys</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E29-M1129">
+          <extent>
+              <charseq START="1874" END="1887">Roger Staubach</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1887">Roger Staubach</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Staubach">
+              <charseq START="1874" END="1887">Roger Staubach</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E30-M1130">
+          <extent>
+              <charseq START="1893" END="1904">Chuck Howley</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1904">Chuck Howley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chuck Howley">
+              <charseq START="1893" END="1904">Chuck Howley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E31-M1131">
+          <extent>
+              <charseq START="1907" END="1939">Stream Energy Chairman Rob Snyder</charseq>
+          </extent>
+          <head>
+              <charseq START="1930" END="1939">Rob Snyder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E31-M1133">
+          <extent>
+              <charseq START="1921" END="1928">Chairman</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1928">Chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rob Snyder">
+              <charseq START="1930" END="1939">Rob Snyder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E32-M1132">
+          <extent>
+              <charseq START="1907" END="1919">Stream Energy</charseq>
+          </extent>
+          <head>
+              <charseq START="1907" END="1919">Stream Energy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stream Energy">
+              <charseq START="1907" END="1919">Stream Energy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E33-M1139">
+          <extent>
+              <charseq START="1964" END="1977">Harold Simmons</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1977">Harold Simmons</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harold Simmons">
+              <charseq START="1964" END="1977">Harold Simmons</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E34-M1140">
+          <extent>
+              <charseq START="1983" END="1998">T. Boone Pickens</charseq>
+          </extent>
+          <head>
+              <charseq START="1983" END="1998">T. Boone Pickens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="T. Boone Pickens">
+              <charseq START="1983" END="1998">T. Boone Pickens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35-M1145">
+          <extent>
+              <charseq START="2020" END="2077">Dallas Stars, Texas Rangers and Liverpool F.C.
+) Tom Hicks</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2077">Tom Hicks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35-M1141">
+          <extent>
+              <charseq START="2001" END="2077">sports team owner (Dallas Stars, Texas Rangers and Liverpool F.C.
+) Tom Hicks</charseq>
+          </extent>
+          <head>
+              <charseq START="2013" END="2017">owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35-M1800">
+          <extent>
+              <charseq START="3096" END="3113">The original owner</charseq>
+          </extent>
+          <head>
+              <charseq START="3109" END="3113">owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35-M1900">
+          <extent>
+              <charseq START="3198" END="3206">The owner</charseq>
+          </extent>
+          <head>
+              <charseq START="3202" END="3206">owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom Hicks">
+              <charseq START="2069" END="2077">Tom Hicks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E36-M1147">
+          <extent>
+              <charseq START="2020" END="2031">Dallas Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="2020" END="2031">Dallas Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E36-M1306">
+          <extent>
+              <charseq START="2539" END="2550">Dallas Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="2539" END="2550">Dallas Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas Stars">
+              <charseq START="2020" END="2031">Dallas Stars</charseq>
+          </name>
+          <name NAME="Dallas Stars">
+              <charseq START="2539" END="2550">Dallas Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1148">
+          <extent>
+              <charseq START="2034" END="2046">Texas Rangers</charseq>
+          </extent>
+          <head>
+              <charseq START="2034" END="2046">Texas Rangers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1170" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2250" END="2254">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="2250" END="2254">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1144">
+          <extent>
+              <charseq START="2008" END="2011">team</charseq>
+          </extent>
+          <head>
+              <charseq START="2008" END="2011">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1124">
+          <extent>
+              <charseq START="1822" END="1824">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1822" END="1824">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Texas Rangers">
+              <charseq START="2034" END="2046">Texas Rangers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E38-M1149">
+          <extent>
+              <charseq START="2052" END="2060">Liverpool</charseq>
+          </extent>
+          <head>
+              <charseq START="2052" END="2060">Liverpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liverpool">
+              <charseq START="2052" END="2060">Liverpool</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E39-M1157">
+          <extent>
+              <charseq START="2100" END="2112">Larry Lacerte</charseq>
+          </extent>
+          <head>
+              <charseq START="2100" END="2112">Larry Lacerte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E39-M2007">
+          <extent>
+              <charseq START="3346" END="3383">software company founder Larry Lacerte</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3383">Larry Lacerte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E39-M2010">
+          <extent>
+              <charseq START="3363" END="3369">founder</charseq>
+          </extent>
+          <head>
+              <charseq START="3363" END="3369">founder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Larry Lacerte">
+              <charseq START="2100" END="2112">Larry Lacerte</charseq>
+          </name>
+          <name NAME="Larry Lacerte">
+              <charseq START="3371" END="3383">Larry Lacerte</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E40-M1159">
+          <extent>
+              <charseq START="2140" END="2155">Democratic party</charseq>
+          </extent>
+          <head>
+              <charseq START="2140" END="2155">Democratic party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democratic party">
+              <charseq START="2140" END="2155">Democratic party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E41-M1161">
+          <extent>
+              <charseq START="2168" END="2177">Fred Baron</charseq>
+          </extent>
+          <head>
+              <charseq START="2168" END="2177">Fred Baron</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fred Baron">
+              <charseq START="2168" END="2177">Fred Baron</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E42-M1163">
+          <extent>
+              <charseq START="2199" END="2210">Laura Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="2199" END="2210">Laura Miller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Laura Miller">
+              <charseq START="2199" END="2210">Laura Miller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1164">
+          <extent>
+              <charseq START="2216" END="2266">her husband Steve Wolens (retired Texas legislator)</charseq>
+          </extent>
+          <head>
+              <charseq START="2228" END="2239">Steve Wolens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1167">
+          <extent>
+              <charseq START="2220" END="2226">husband</charseq>
+          </extent>
+          <head>
+              <charseq START="2220" END="2226">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1169">
+          <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+          </extent>
+          <head>
+              <charseq START="2256" END="2265">legislator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steve Wolens">
+              <charseq START="2228" END="2239">Steve Wolens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E44-M1137">
+          <extent>
+              <charseq START="1954" END="1962">investors</charseq>
+          </extent>
+          <head>
+              <charseq START="1954" END="1962">investors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E45-M1152">
+          <extent>
+              <charseq START="2081" END="2210">software developer Larry Lacerte, noted trial attorney and Democratic party fundraiser Fred Baron and
+ex-Dallas Mayor Laura Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="2090" END="2098">developer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E46-M1162">
+          <extent>
+              <charseq START="2193" END="2197">Mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="2193" END="2197">Mayor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E47-M1206">
+          <extent>
+              <charseq START="2322" END="2347">the late Robert Dedman Jr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2347">Robert Dedman Jr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E47-M1208">
+          <extent>
+              <charseq START="2350" END="2395">former American Airlines chairman Bob Crandall</charseq>
+          </extent>
+          <head>
+              <charseq START="2375" END="2382">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Dedman Jr.">
+              <charseq START="2331" END="2347">Robert Dedman Jr.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E48-M1210">
+          <extent>
+              <charseq START="2357" END="2373">American Airlines</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2373">American Airlines</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Airlines">
+              <charseq START="2357" END="2373">American Airlines</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E49-M1211">
+          <extent>
+              <charseq START="2384" END="2395">Bob Crandall</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2395">Bob Crandall</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob Crandall">
+              <charseq START="2384" END="2395">Bob Crandall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E50-M1212">
+          <extent>
+              <charseq START="2402" END="2440">the late cosmetics magnate Mary Kay Ash</charseq>
+          </extent>
+          <head>
+              <charseq START="2429" END="2440">Mary Kay Ash</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E50-M1214">
+          <extent>
+              <charseq START="2421" END="2427">magnate</charseq>
+          </extent>
+          <head>
+              <charseq START="2421" END="2427">magnate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mary Kay Ash">
+              <charseq START="2429" END="2440">Mary Kay Ash</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1301">
+          <extent>
+              <charseq START="2478" END="2487">Ross Perot</charseq>
+          </extent>
+          <head>
+              <charseq START="2478" END="2487">Ross Perot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1304">
+          <extent>
+              <charseq START="2514" END="2518">coach</charseq>
+          </extent>
+          <head>
+              <charseq START="2514" END="2518">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1404">
+          <extent>
+              <charseq START="2688" END="2689">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2688" END="2689">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ross Perot">
+              <charseq START="2478" END="2487">Ross Perot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E52-M1305">
+          <extent>
+              <charseq START="2520" END="2532">Wade Phillips</charseq>
+          </extent>
+          <head>
+              <charseq START="2520" END="2532">Wade Phillips</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wade Phillips">
+              <charseq START="2520" END="2532">Wade Phillips</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E53-M1307">
+          <extent>
+              <charseq START="2559" END="2569">Mike Modano</charseq>
+          </extent>
+          <head>
+              <charseq START="2559" END="2569">Mike Modano</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Modano">
+              <charseq START="2559" END="2569">Mike Modano</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M1308">
+          <extent>
+              <charseq START="2584" END="2614">the greater Preston Hollow area</charseq>
+          </extent>
+          <head>
+              <charseq START="2611" END="2614">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M1406">
+          <extent>
+              <charseq START="2717" END="2724">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="2721" END="2724">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M1703">
+          <extent>
+              <charseq START="2994" END="3024">the greater Preston Hollow area</charseq>
+          </extent>
+          <head>
+              <charseq START="3021" END="3024">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M2002">
+          <extent>
+              <charseq START="3289" END="3311">the Preston Hollow area</charseq>
+          </extent>
+          <head>
+              <charseq START="3308" END="3311">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M3121">
+          <extent>
+              <charseq START="6298" END="6305">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="6302" END="6305">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E55" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E55-M1500">
+          <extent>
+              <charseq START="2767" END="2789">Homes in Preston Hollow</charseq>
+          </extent>
+          <head>
+              <charseq START="2767" END="2771">Homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E56" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E56-M1600">
+          <extent>
+              <charseq START="2900" END="2905">houses</charseq>
+          </extent>
+          <head>
+              <charseq START="2900" END="2905">houses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E57" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E57-M1604">
+          <extent>
+              <charseq START="2944" END="2962">$40,000,000 estates</charseq>
+          </extent>
+          <head>
+              <charseq START="2956" END="2962">estates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E58" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E58-M1705">
+          <extent>
+              <charseq START="3027" END="3049">a US$45 million mansion</charseq>
+          </extent>
+          <head>
+              <charseq START="3043" END="3049">mansion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E59" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E59-M1803">
+          <extent>
+              <charseq START="3169" END="3195">the biggest house in Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="3181" END="3185">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E60" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E60-M2006">
+          <extent>
+              <charseq START="3320" END="3328">Park Lane</charseq>
+          </extent>
+          <head>
+              <charseq START="3320" END="3328">Park Lane</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Park Lane">
+              <charseq START="3320" END="3328">Park Lane</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E61" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E61-M2000">
+          <extent>
+              <charseq START="3242" END="3311">The most expensive home currently available in the Preston Hollow area</charseq>
+          </extent>
+          <head>
+              <charseq START="3261" END="3264">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E62" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E62-M2113">
+          <extent>
+              <charseq START="3588" END="3628">Supreme Court Brown v. Board of Education</charseq>
+          </extent>
+          <head>
+              <charseq START="3588" END="3628">Supreme Court Brown v. Board of Education</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Supreme Court Brown v. Board of Education">
+              <charseq START="3588" END="3628">Supreme Court Brown v. Board of Education</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E63-M2200">
+          <extent>
+              <charseq START="3640" END="3656">Judge Sam Lindsay</charseq>
+          </extent>
+          <head>
+              <charseq START="3646" END="3656">Sam Lindsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E63-M2201">
+          <extent>
+              <charseq START="3640" END="3644">Judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3640" END="3644">Judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E63-M2405">
+          <extent>
+              <charseq START="4392" END="4406">the trial judge</charseq>
+          </extent>
+          <head>
+              <charseq START="4402" END="4406">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E63-M2502">
+          <extent>
+              <charseq START="4576" END="4584">the judge</charseq>
+          </extent>
+          <head>
+              <charseq START="4580" END="4584">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sam Lindsay">
+              <charseq START="3646" END="3656">Sam Lindsay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E64-M2208">
+          <extent>
+              <charseq START="3750" END="3763">white students</charseq>
+          </extent>
+          <head>
+              <charseq START="3756" END="3763">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E65-M2209">
+          <extent>
+              <charseq START="3782" END="3798">minority students</charseq>
+          </extent>
+          <head>
+              <charseq START="3791" END="3798">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E66" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E66-M2300">
+          <extent>
+              <charseq START="3954" END="3967">The defendants</charseq>
+          </extent>
+          <head>
+              <charseq START="3958" END="3967">defendants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E66-M2400">
+          <extent>
+              <charseq START="4290" END="4313">The district&apos;s attorneys</charseq>
+          </extent>
+          <head>
+              <charseq START="4305" END="4313">attorneys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67-M2306">
+          <extent>
+              <charseq START="4090" END="4117">Latino claimants in the suit</charseq>
+          </extent>
+          <head>
+              <charseq START="4097" END="4105">claimants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67-M2311">
+          <extent>
+              <charseq START="4131" END="4135">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4131" END="4135">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67-M2317">
+          <extent>
+              <charseq START="4243" END="4246">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4243" END="4246">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M2310">
+          <extent>
+              <charseq START="4131" END="4144">their children</charseq>
+          </extent>
+          <head>
+              <charseq START="4137" END="4144">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M2510">
+          <extent>
+              <charseq START="4750" END="4763">their children</charseq>
+          </extent>
+          <head>
+              <charseq START="4756" END="4763">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M2513">
+          <extent>
+              <charseq START="4812" END="4815">them</charseq>
+          </extent>
+          <head>
+              <charseq START="4812" END="4815">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M3202">
+          <extent>
+              <charseq START="6354" END="6367">their children</charseq>
+          </extent>
+          <head>
+              <charseq START="6360" END="6367">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69-M2413">
+          <extent>
+              <charseq START="4472" END="4475">DISD</charseq>
+          </extent>
+          <head>
+              <charseq START="4472" END="4475">DISD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69-M2900">
+          <extent>
+              <charseq START="5459" END="5517">Education
+Public schools
+Dallas Independent School District</charseq>
+          </extent>
+          <head>
+              <charseq START="5484" END="5517">Dallas Independent School District</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69-M2903">
+          <extent>
+              <charseq START="5476" END="5482">schools</charseq>
+          </extent>
+          <head>
+              <charseq START="5476" END="5482">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DISD">
+              <charseq START="4472" END="4475">DISD</charseq>
+          </name>
+          <name NAME="Dallas Independent School District">
+              <charseq START="5484" END="5517">Dallas Independent School District</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E70" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E70-M2401">
+          <extent>
+              <charseq START="4290" END="4301">The district</charseq>
+          </extent>
+          <head>
+              <charseq START="4294" END="4301">district</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E71-M2403">
+          <extent>
+              <charseq START="4359" END="4379">the minority students</charseq>
+          </extent>
+          <head>
+              <charseq START="4372" END="4379">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E72-M2407">
+          <extent>
+              <charseq START="4419" END="4427">The court</charseq>
+          </extent>
+          <head>
+              <charseq START="4423" END="4427">court</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E73-M2508">
+          <extent>
+              <charseq START="4684" END="4695">more parents</charseq>
+          </extent>
+          <head>
+              <charseq START="4689" END="4695">parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E73-M2511">
+          <extent>
+              <charseq START="4750" END="4754">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4750" END="4754">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E74" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E74-M2509">
+          <extent>
+              <charseq START="4702" END="4834">the surrounding, mostly white community to keep their children in the local public system rather than sending them to private schools</charseq>
+          </extent>
+          <head>
+              <charseq START="4732" END="4740">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E75" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E75-M2515">
+          <extent>
+              <charseq START="4820" END="4834">private schools</charseq>
+          </extent>
+          <head>
+              <charseq START="4828" END="4834">schools</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2603">
+          <extent>
+              <charseq START="4907" END="4948">New York Post gossip columnist Cindy Adams</charseq>
+          </extent>
+          <head>
+              <charseq START="4938" END="4948">Cindy Adams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2606">
+          <extent>
+              <charseq START="4928" END="4936">columnist</charseq>
+          </extent>
+          <head>
+              <charseq START="4928" END="4936">columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2702">
+          <extent>
+              <charseq START="5115" END="5119">Adams</charseq>
+          </extent>
+          <head>
+              <charseq START="5115" END="5119">Adams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2805">
+          <extent>
+              <charseq START="5359" END="5379">the real estate agent</charseq>
+          </extent>
+          <head>
+              <charseq START="5375" END="5379">agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2808">
+          <extent>
+              <charseq START="5418" END="5420">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5418" END="5420">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cindy Adams">
+              <charseq START="4938" END="4948">Cindy Adams</charseq>
+          </name>
+          <name NAME="Adams">
+              <charseq START="5115" END="5119">Adams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E77" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E77-M2604">
+          <extent>
+              <charseq START="4907" END="4919">New York Post</charseq>
+          </extent>
+          <head>
+              <charseq START="4907" END="4919">New York Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E77-M2810">
+          <extent>
+              <charseq START="5449" END="5456">the Post</charseq>
+          </extent>
+          <head>
+              <charseq START="5453" END="5456">Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Post">
+              <charseq START="4907" END="4919">New York Post</charseq>
+          </name>
+          <name NAME="Post">
+              <charseq START="5453" END="5456">Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E78" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E78-M2611" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4979" END="4982">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="4979" END="4982">U.S.</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E79-M2616">
+          <extent>
+              <charseq START="5022" END="5031">Laura Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="5022" END="5031">Laura Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Laura Bush">
+              <charseq START="5022" END="5031">Laura Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E80-M2614">
+          <extent>
+              <charseq START="5013" END="5020">his wife</charseq>
+          </extent>
+          <head>
+              <charseq START="5017" END="5020">wife</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81-M2617">
+          <extent>
+              <charseq START="5047" END="5052">a home</charseq>
+          </extent>
+          <head>
+              <charseq START="5049" END="5052">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81-M2700">
+          <extent>
+              <charseq START="5087" END="5097">a big house</charseq>
+          </extent>
+          <head>
+              <charseq START="5093" END="5097">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81-M2703">
+          <extent>
+              <charseq START="5139" END="5148">this house</charseq>
+          </extent>
+          <head>
+              <charseq START="5144" END="5148">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E82" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E82-M2705">
+          <extent>
+              <charseq START="5161" END="5174">&quot;horse stables</charseq>
+          </extent>
+          <head>
+              <charseq START="5168" END="5174">stables</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E83" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E83-M2800">
+          <extent>
+              <charseq START="5274" END="5285">Dallas media</charseq>
+          </extent>
+          <head>
+              <charseq START="5281" END="5285">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M2905">
+          <extent>
+              <charseq START="5528" END="5547">local public schools</charseq>
+          </extent>
+          <head>
+              <charseq START="5541" END="5547">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M3013">
+          <extent>
+              <charseq START="5706" END="5722">the zoned schools</charseq>
+          </extent>
+          <head>
+              <charseq START="5716" END="5722">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M3100">
+          <extent>
+              <charseq START="5747" END="5854">Private schools
+Private schools located in North Dallas which are very popular with Preston Hollow residents</charseq>
+          </extent>
+          <head>
+              <charseq START="5771" END="5777">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M3104">
+          <extent>
+              <charseq START="5803" END="5807">which</charseq>
+          </extent>
+          <head>
+              <charseq START="5803" END="5807">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M3203">
+          <extent>
+              <charseq START="6354" END="6358">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6354" END="6358">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E85" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E85-M3001">
+          <extent>
+              <charseq START="5578" END="5722">Grades K-6
+Preston Hollow Elementary School
+Grades 7-8
+Benjamin Franklin Middle School
+Grades 9-12
+Hillcrest High School
+All of the zoned schools</charseq>
+          </extent>
+          <head>
+              <charseq START="5699" END="5701">All</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E86" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E86-M3107">
+          <extent>
+              <charseq START="5865" END="6305">Grades 1-6
+Coram Deo Academy
+Preston Hollow Presbyterian School
+Grades Pre K-8
+St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School
+Grades 1-12
+Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades 9-12 only
+Ursuline Academy of Dallas
+Jesuit College Preparatory School of Dallas
+Preston Hollow Early Childhood PTA is a private preschool group in the area</charseq>
+          </extent>
+          <head>
+              <charseq START="5876" END="5940">Coram Deo Academy
+Preston Hollow Presbyterian School
+Grades Pre K</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Coram Deo Academy
+Preston Hollow Presbyterian School
+Grades Pre K">
+              <charseq START="5876" END="5940">Coram Deo Academy
+Preston Hollow Presbyterian School
+Grades Pre K</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87-M3113">
+          <extent>
+              <charseq START="5944" END="6071">St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School</charseq>
+          </extent>
+          <head>
+              <charseq START="5944" END="6071">St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87-M3116">
+          <extent>
+              <charseq START="6085" END="6148">Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades</charseq>
+          </extent>
+          <head>
+              <charseq START="6085" END="6148">Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87-M3204">
+          <extent>
+              <charseq START="6372" END="6385">private school</charseq>
+          </extent>
+          <head>
+              <charseq START="6380" END="6385">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School">
+              <charseq START="5944" END="6071">St. Alcuin Montessori School
+Grades Pre K-12
+Greenhill School
+Hockaday School
+Episcopal School of Dallas
+Parish Episcopal School</charseq>
+          </name>
+          <name NAME="Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades">
+              <charseq START="6085" END="6148">Covenant School
+St. Mark&apos;s School of Texas
+Winston School
+Grades</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E88" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E88-M3304">
+          <extent>
+              <charseq START="6447" END="6474">Preston Royal Branch at 5626</charseq>
+          </extent>
+          <head>
+              <charseq START="6447" END="6466">Preston Royal Branch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preston Royal Branch">
+              <charseq START="6447" END="6466">Preston Royal Branch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E89" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E89-M3500">
+          <extent>
+              <charseq START="6551" END="6571">Preston Hollow People</charseq>
+          </extent>
+          <head>
+              <charseq START="6566" END="6571">People</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E89-M3502">
+          <extent>
+              <charseq START="6576" END="6602">a local community newspaper</charseq>
+          </extent>
+          <head>
+              <charseq START="6594" END="6602">newspaper</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T0" VAL="1939">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="161" END="164">1939</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T1" VAL="1945">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="525" END="528">1945</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T2" VAL="1956">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="659" END="662">1956</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T3" VAL="2000">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="801" END="804">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1033" END="1035">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T5" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1702" END="1707">Former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T6" VAL="2009-01-23">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1740" END="1755">January 23, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1852" END="1857">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T8" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2269" END="2274">Former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T9" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2350" END="2355">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T10" VAL="2008-12-04">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="2620" END="2635">December 4, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T11" VAL="P1M">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2746" END="2764">the following month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T12" VAL="PXY" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2876" END="2887">recent years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V13" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V13-M1">
+            <extent>
+              <charseq START="2918" END="2925">$800,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V14" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V14-M1">
+            <extent>
+              <charseq START="2944" END="2954">$40,000,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V15" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V15-M1">
+            <extent>
+              <charseq START="3029" END="3041">US$45 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T16" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3266" END="3274">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V17" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V17-M1">
+            <extent>
+              <charseq START="3405" END="3415">$40 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T18" VAL="2006">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3448" END="3451">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T19" VAL="1954">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3583" END="3586">1954</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T20" VAL="XXXX-11">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3667" END="3674">November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T21">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="4448" END="4463">this day and age</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T22" VAL="2008-09">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="4840" END="4853">September 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T23" VAL="2007">
+        <timex2_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="6314" END="6317">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V24" TYPE="Job-Title">
+        <value_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V24-M1">
+            <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="96" END="100">Texas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="96" END="100">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E3-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="103" END="105">USA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R1-M700">
+          <extent>
+              <charseq START="1223" END="1381">Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10-M714" ROLE="Arg-1">
+            <extent>
+              <charseq START="1223" END="1381">Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E9-M711" ROLE="Arg-2">
+            <extent>
+              <charseq START="1185" END="1381">Northwest Highway (Loop 12), south of Royal Lane, east of Midway Road and west of North Central Expressway (US 75), which areas are grouped into the Preston Hollow Elementary school attendance zone</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R2-M900">
+          <extent>
+              <charseq START="1468" END="1496">the wealthiest areas in Texas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E16-M904" ROLE="Arg-1">
+            <extent>
+              <charseq START="1468" END="1496">the wealthiest areas in Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1492" END="1496">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R3-M1000">
+          <extent>
+              <charseq START="1546" END="1578">the most expensive homes in Texas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E19-M1004" ROLE="Arg-1">
+            <extent>
+              <charseq START="1546" END="1578">the most expensive homes in Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M1006" ROLE="Arg-2">
+            <extent>
+              <charseq START="1574" END="1578">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R4-M1001">
+          <extent>
+              <charseq START="1599" END="1630">the state&apos;s wealthiest residents</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E20-M1009" ROLE="Arg-1">
+            <extent>
+              <charseq START="1599" END="1630">the state&apos;s wealthiest residents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E2-M1010" ROLE="Arg-2">
+            <extent>
+              <charseq START="1599" END="1607">the state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E24" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R5-M1100">
+          <extent>
+              <charseq START="1771" END="1781">Tom Leppert</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E23-M1118" ROLE="Arg-1">
+            <extent>
+              <charseq START="1771" END="1781">Tom Leppert</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E24-M1119" ROLE="Arg-2">
+            <extent>
+              <charseq START="1784" END="1799">Dallas Mavericks</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R6-M1101">
+          <extent>
+              <charseq START="1826" END="1834">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E27-M1125" ROLE="Arg-1">
+            <extent>
+              <charseq START="1826" END="1834">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1124" ROLE="Arg-2">
+            <extent>
+              <charseq START="1822" END="1824">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R7-M1102">
+          <extent>
+              <charseq START="1921" END="1928">Chairman</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E31-M1133" ROLE="Arg-1">
+            <extent>
+              <charseq START="1921" END="1928">Chairman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E32-M1132" ROLE="Arg-2">
+            <extent>
+              <charseq START="1907" END="1919">Stream Energy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Ownership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R8-M1103">
+          <extent>
+              <charseq START="2001" END="2077">sports team owner (Dallas Stars, Texas Rangers and Liverpool F.C.
+) Tom Hicks</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E35-M1141" ROLE="Arg-1">
+            <extent>
+              <charseq START="2001" END="2077">sports team owner (Dallas Stars, Texas Rangers and Liverpool F.C.
+) Tom Hicks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1144" ROLE="Arg-2">
+            <extent>
+              <charseq START="2008" END="2011">team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R9" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R9-M1104">
+          <extent>
+              <charseq START="2216" END="2218">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M1166" ROLE="Arg-1">
+            <extent>
+              <charseq START="2216" END="2218">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1167" ROLE="Arg-2">
+            <extent>
+              <charseq START="2220" END="2226">husband</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R10-M1105">
+          <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1169" ROLE="Arg-1">
+            <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1170" ROLE="Arg-2">
+            <extent>
+              <charseq START="2250" END="2254">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E47" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E48" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R11-M1200">
+          <extent>
+              <charseq START="2350" END="2395">former American Airlines chairman Bob Crandall</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E47-M1208" ROLE="Arg-1">
+            <extent>
+              <charseq START="2350" END="2395">former American Airlines chairman Bob Crandall</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E48-M1210" ROLE="Arg-2">
+            <extent>
+              <charseq START="2357" END="2373">American Airlines</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R12-M1300">
+          <extent>
+              <charseq START="2478" END="2487">Ross Perot</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1301" ROLE="Arg-1">
+            <extent>
+              <charseq START="2478" END="2487">Ross Perot</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E28-M1302" ROLE="Arg-2">
+            <extent>
+              <charseq START="2490" END="2503">Dallas Cowboys</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E55" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R13-M1500">
+          <extent>
+              <charseq START="2776" END="2789">Preston Hollow</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M1502" ROLE="Arg-1">
+            <extent>
+              <charseq START="2776" END="2789">Preston Hollow</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E55-M1500" ROLE="Arg-2">
+            <extent>
+              <charseq START="2767" END="2789">Homes in Preston Hollow</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R14" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E59" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R14-M1800">
+          <extent>
+              <charseq START="3169" END="3195">the biggest house in Dallas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E59-M1803" ROLE="Arg-1">
+            <extent>
+              <charseq START="3169" END="3195">the biggest house in Dallas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M1805" ROLE="Arg-2">
+            <extent>
+              <charseq START="3190" END="3195">Dallas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R15" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R15-M2300">
+          <extent>
+              <charseq START="4131" END="4135">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67-M2311" ROLE="Arg-1">
+            <extent>
+              <charseq START="4131" END="4135">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M2310" ROLE="Arg-2">
+            <extent>
+              <charseq START="4131" END="4144">their children</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R16" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E66" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E70" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R16-M2400">
+          <extent>
+              <charseq START="4290" END="4313">The district&apos;s attorneys</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E66-M2400" ROLE="Arg-1">
+            <extent>
+              <charseq START="4290" END="4313">The district&apos;s attorneys</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E70-M2401" ROLE="Arg-2">
+            <extent>
+              <charseq START="4290" END="4301">The district</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R17" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E77" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R17-M2600">
+          <extent>
+              <charseq START="4928" END="4936">columnist</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E76-M2606" ROLE="Arg-1">
+            <extent>
+              <charseq START="4928" END="4936">columnist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E77-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="4907" END="4919">New York Post</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E78" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R18-M2601">
+          <extent>
+              <charseq START="4984" END="4992">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M2612" ROLE="Arg-1">
+            <extent>
+              <charseq START="4984" END="4992">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E78-M2611" ROLE="Arg-2">
+            <extent>
+              <charseq START="4979" END="4982">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R19" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E80" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R19-M2602">
+          <extent>
+              <charseq START="5013" END="5015">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E22-M2615" ROLE="Arg-1">
+            <extent>
+              <charseq START="5013" END="5015">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E80-M2614" ROLE="Arg-2">
+            <extent>
+              <charseq START="5013" END="5020">his wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R20" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E79" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R20-M2603">
+          <extent>
+              <charseq START="5022" END="5031">Laura Bush</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E79-M2616" ROLE="Arg-1">
+            <extent>
+              <charseq START="5022" END="5031">Laura Bush</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81-M2617" ROLE="Arg-2">
+            <extent>
+              <charseq START="5047" END="5052">a home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R21" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R21-M2900">
+          <extent>
+              <charseq START="5528" END="5547">local public schools</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M2905" ROLE="Arg-1">
+            <extent>
+              <charseq START="5528" END="5547">local public schools</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E69-M2900" ROLE="Arg-2">
+            <extent>
+              <charseq START="5459" END="5517">Education
+Public schools
+Dallas Independent School District</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R22" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R22-M3000">
+          <extent>
+              <charseq START="5578" END="5722">Grades K-6
+Preston Hollow Elementary School
+Grades 7-8
+Benjamin Franklin Middle School
+Grades 9-12
+Hillcrest High School
+All of the zoned schools</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E85-M3001" ROLE="Arg-1">
+            <extent>
+              <charseq START="5578" END="5722">Grades K-6
+Preston Hollow Elementary School
+Grades 7-8
+Benjamin Franklin Middle School
+Grades 9-12
+Hillcrest High School
+All of the zoned schools</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M3014" ROLE="Arg-2">
+            <extent>
+              <charseq START="5739" END="5744">Dallas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R23" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R23-M3100">
+          <extent>
+              <charseq START="5747" END="5854">Private schools
+Private schools located in North Dallas which are very popular with Preston Hollow residents</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E84-M3100" ROLE="Arg-1">
+            <extent>
+              <charseq START="5747" END="5854">Private schools
+Private schools located in North Dallas which are very popular with Preston Hollow residents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E1-M3103" ROLE="Arg-2">
+            <extent>
+              <charseq START="5790" END="5801">North Dallas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R24" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R24-M3101">
+          <extent>
+              <charseq START="6269" END="6305">a private preschool group in the area</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3118" ROLE="Arg-1">
+            <extent>
+              <charseq START="6269" END="6305">a private preschool group in the area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M3121" ROLE="Arg-2">
+            <extent>
+              <charseq START="6298" END="6305">the area</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R25" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-R25-M3300">
+          <extent>
+              <charseq START="6436" END="6485">the nearby Preston Royal Branch at 5626 Royal Lane</charseq>
+          </extent>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E10-M3303" ROLE="Arg-1">
+            <extent>
+              <charseq START="6436" END="6485">the nearby Preston Royal Branch at 5626 Royal Lane</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E5-M3300" ROLE="Arg-2">
+            <extent>
+              <charseq START="6388" END="6425">Public libraries
+Dallas Public Library</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV0" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV0-M1102">
+          <extent>
+              <charseq START="2121" END="2125">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2121" END="2125">trial</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37" ROLE="Entity"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43" ROLE="Person"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V24" ROLE="Position"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV1-M1103">
+          <extent>
+              <charseq START="2242" END="2248">retired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2242" END="2248">retired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E37-M1170" ROLE="Entity">
+          <extent>
+              <charseq START="2250" END="2254">Texas</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E43-M1169" ROLE="Person">
+          <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-V24-M1" ROLE="Position">
+            <extent>
+              <charseq START="2242" END="2265">retired Texas legislator</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51" ROLE="Artifact"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54" ROLE="Destination"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV2-M1400">
+          <extent>
+              <charseq START="2700" END="2705">moving</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2700" END="2705">moving</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1404" ROLE="Artifact">
+          <extent>
+              <charseq START="2688" END="2689">he</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E54-M1406" ROLE="Destination">
+          <extent>
+              <charseq START="2717" END="2724">the area</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV3" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51" ROLE="Person"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T11" ROLE="Time-Within"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV3-M1402">
+          <extent>
+              <charseq START="2731" END="2737">leaving</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2731" END="2737">leaving</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E51-M1404" ROLE="Person">
+          <extent>
+              <charseq START="2688" END="2689">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-T11-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2746" END="2764">the following month</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV4" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV4-M2100">
+          <extent>
+              <charseq START="3514" END="3520">lawsuit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3514" END="3520">lawsuit</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV5" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67" ROLE="Defendant"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV5-M2300">
+          <extent>
+              <charseq START="4114" END="4117">suit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4114" END="4117">suit</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E67-M2311" ROLE="Defendant">
+          <extent>
+              <charseq START="4131" END="4135">their</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV6" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV6-M2400">
+          <extent>
+              <charseq START="4396" END="4400">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4396" END="4400">trial</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV7" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81" ROLE="Artifact"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV7-M2600">
+          <extent>
+              <charseq START="5037" END="5045">purchased</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5037" END="5045">purchased</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E81-M2617" ROLE="Artifact">
+          <extent>
+              <charseq START="5047" END="5052">a home</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68" ROLE="Artifact"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87" ROLE="Destination"/>
+      <event_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0" ROLE="Agent"/>
+      <event_mention ID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-EV8-M3200">
+          <extent>
+              <charseq START="6349" END="6352">send</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6349" END="6352">send</charseq>
+          </anchor>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E68-M3202" ROLE="Artifact">
+          <extent>
+              <charseq START="6354" END="6367">their children</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E87-M3204" ROLE="Destination">
+          <extent>
+              <charseq START="6372" END="6385">private school</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Preston_Hollow,_Dallas,_Texas.sentences.sgm-E0-M3200" ROLE="Agent">
+          <extent>
+              <charseq START="6314" END="6347">2007 most Preston Hollow residents</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 #
 # extract_dates.py
-#
+# ----------------
 # Extracts the sentences that have temporal expressions
 # by looking at the corresponding APF file.
 #
-# extract_dates.py [sgm] [apf]
-
+# Usage: extract_dates.py [sgm] [apf]
 
 import serif
 import sys

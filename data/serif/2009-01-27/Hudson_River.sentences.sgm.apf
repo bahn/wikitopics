@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Hudson_River.sentences.sgm">
+  <document DOCID="Hudson_River.sentences.sgm">
+
+    <entity ID="Hudson_River.sentences.sgm-E0" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="75" END="90">the Hudson River</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="90">Hudson River</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hudson_River.sentences.sgm-E0-M104">
+          <extent>
+              <charseq START="126" END="135">this river</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="135">river</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E0-M307">
+          <extent>
+              <charseq START="309" END="324">the Hudson River</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="324">Hudson River</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hudson River">
+              <charseq START="79" END="90">Hudson River</charseq>
+          </name>
+          <name NAME="Hudson River">
+              <charseq START="313" END="324">Hudson River</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hudson_River.sentences.sgm-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E1-M105">
+          <extent>
+              <charseq START="140" END="179">Henry Hudson, which he became famous for</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="151">Henry Hudson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hudson_River.sentences.sgm-E1-M102">
+          <extent>
+              <charseq START="111" END="135">the founder of this river</charseq>
+          </extent>
+          <head>
+              <charseq START="115" END="121">founder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hudson_River.sentences.sgm-E1-M107">
+          <extent>
+              <charseq START="154" END="158">which</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="158">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Henry Hudson">
+              <charseq START="140" END="151">Henry Hudson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hudson_River.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E3-M203">
+          <extent>
+              <charseq START="201" END="219">Colby Thomas Hudson</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="219">Colby Thomas Hudson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hudson_River.sentences.sgm-E3-M204">
+          <extent>
+              <charseq START="221" END="223">who</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="223">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E3-M302">
+          <extent>
+              <charseq START="272" END="276">Colby</charseq>
+          </extent>
+          <head>
+              <charseq START="272" END="276">Colby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hudson_River.sentences.sgm-E3-M305">
+          <extent>
+              <charseq START="292" END="324">the new owner of the Hudson River</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="304">owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hudson_River.sentences.sgm-E3-M303">
+          <extent>
+              <charseq START="286" END="287">he</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="287">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colby Thomas Hudson">
+              <charseq START="201" END="219">Colby Thomas Hudson</charseq>
+          </name>
+          <name NAME="Colby">
+              <charseq START="272" END="276">Colby</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hudson_River.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E4-M205" ROLE="LOC">
+          <extent>
+              <charseq START="234" END="239">Ravena</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="239">Ravena</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ravena">
+              <charseq START="234" END="239">Ravena</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hudson_River.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hudson_River.sentences.sgm-E5-M206" ROLE="LOC">
+          <extent>
+              <charseq START="243" END="250">New york</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="250">New york</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New york">
+              <charseq START="243" END="250">New york</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <relation ID="Hudson_River.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hudson_River.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Hudson_River.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Hudson_River.sentences.sgm-R0-M200">
+          <extent>
+              <charseq START="221" END="223">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hudson_River.sentences.sgm-E3-M204" ROLE="Arg-1">
+            <extent>
+              <charseq START="221" END="223">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hudson_River.sentences.sgm-E4-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="234" END="239">Ravena</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hudson_River.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hudson_River.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Hudson_River.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Hudson_River.sentences.sgm-R1-M300">
+          <extent>
+              <charseq START="292" END="324">the new owner of the Hudson River</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hudson_River.sentences.sgm-E3-M305" ROLE="Arg-1">
+            <extent>
+              <charseq START="292" END="324">the new owner of the Hudson River</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hudson_River.sentences.sgm-E0-M307" ROLE="Arg-2">
+            <extent>
+              <charseq START="309" END="324">the Hudson River</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

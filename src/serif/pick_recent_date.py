@@ -2,24 +2,23 @@
 #
 # pick_recent_date.py
 #
-# Extract date values from a APF file and check its variable formats.
-# also needs the corresponding SGM file so it extracts the original string.
-#
-# pick_recent_date.py [date] [sgm] [apf]
-
 # For the given SERIF files, print the temporal expression that is closest to the given date.
 # Called by the batch_pick_recent_dates.sh script.
-
+# Print the line number of the selected sentence.
+# 
 # Usage: pick_recent_date.py [date] [sgm] [apf]
-
+# 
 # [date]
 # 	the date
-
+# 
 # [sgm]
 # 	the .sgm file
-
+# 
 # [apf]
 # 	the .apf file
+# 
+# Output: Written into the standard output.
+# 	The line number of the selected sentence and the sentence separated by a space.
 
 import sys
 import re

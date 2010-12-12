@@ -1,0 +1,39 @@
+Overview
+========
+
+This experiment is to evaluate the varioius sentence selection scheme.
+The gold standard is Ben's sentence selection.
+
+The kinds of selection scheme:
+
+First: Select the first sentence.
+Recent: Select the most recent sentence.
+
+Scripts
+=======
+
+There are three kinds of scripts: data generation, preprocess, and evaluation.
+
+Data Generation
+---------------
+These scripts generate test data according to the schemes.
+The generated data are located in the data/clustering/sent directory.
+
+First:
+src/serif/batch_pick_first.sh ../../data/clustering/sent/manual/2009-01-27/ ../../data/clustering/sent/auto-first/2009-01-27/
+
+Recent:
+src/serif/batch_pick_recent_dates.sh ../../data/clustering/serif/2009-01-27 2009-01-27 ../../data/clustering/sent/auto-recent/2009-01-27/
+
+Preprocess
+----------
+Print the line number of the selected sentences for evaluation.
+
+Ben:
+src/sent_eval/number_sents.py ../../data/clustering/sent/ben/2009-01-27 ../../data/clustering/sent/manual/2009-01-27/ ../../data/clustering/sent_eval/ben/
+
+First:
+src/sent_eval/number_sents.py ../../data/clustering/sent/auto-first/2009-01-27 ../../data/clustering/sent/manual/2009-01-27 ../../data/clustering/sent_eval/auto-first
+
+Recent:
+src/sent_eval/number_sents.py ../../data/clustering/sent/auto-recent/2009-01-27 ../../data/clustering/sent/manual/2009-01-27 ../../data/clustering/sent_eval/auto-recent

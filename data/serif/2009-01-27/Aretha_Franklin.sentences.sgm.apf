@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Aretha_Franklin.sentences.sgm">
+  <document DOCID="Aretha_Franklin.sentences.sgm">
+
+    <entity ID="Aretha_Franklin.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Aretha_Franklin.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="32" END="46">Aretha Franklin</charseq>
+          </extent>
+          <head>
+              <charseq START="32" END="46">Aretha Franklin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Aretha_Franklin.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="51" END="55">a bum</charseq>
+          </extent>
+          <head>
+              <charseq START="53" END="55">bum</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Aretha_Franklin.sentences.sgm-E0-M104">
+          <extent>
+              <charseq START="73" END="81">a butcher</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="81">butcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Aretha_Franklin.sentences.sgm-E0-M105">
+          <extent>
+              <charseq START="88" END="95">a singer</charseq>
+          </extent>
+          <head>
+              <charseq START="90" END="95">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Aretha_Franklin.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="58" END="60">She</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aretha Franklin">
+              <charseq START="32" END="46">Aretha Franklin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+  </document>
+</source_file>

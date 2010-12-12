@@ -1,0 +1,893 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Kelli_McCarty.sentences.sgm">
+  <document DOCID="Kelli_McCarty.sentences.sgm">
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="30" END="76">Kelli McCarty (born September 6 1969 in Liberal</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="42">Kelli McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M402">
+          <extent>
+              <charseq START="490" END="496">McCarty</charseq>
+          </extent>
+          <head>
+              <charseq START="490" END="496">McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M800">
+          <extent>
+              <charseq START="981" END="987">McCarty</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="987">McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M1100">
+          <extent>
+              <charseq START="1233" END="1239">McCarty</charseq>
+          </extent>
+          <head>
+              <charseq START="1233" END="1239">McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M1200">
+          <extent>
+              <charseq START="1303" END="1329">Personal life
+Kelli McCarty</charseq>
+          </extent>
+          <head>
+              <charseq START="1317" END="1329">Kelli McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E0-M1202">
+          <extent>
+              <charseq START="1312" END="1315">life</charseq>
+          </extent>
+          <head>
+              <charseq START="1312" END="1315">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E0-M1307">
+          <extent>
+              <charseq START="1449" END="1480">Kelli McCarty at SoapCentral.com</charseq>
+          </extent>
+          <head>
+              <charseq START="1449" END="1461">Kelli McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kelli McCarty">
+              <charseq START="30" END="42">Kelli McCarty</charseq>
+          </name>
+          <name NAME="McCarty">
+              <charseq START="490" END="496">McCarty</charseq>
+          </name>
+          <name NAME="McCarty">
+              <charseq START="981" END="987">McCarty</charseq>
+          </name>
+          <name NAME="McCarty">
+              <charseq START="1233" END="1239">McCarty</charseq>
+          </name>
+          <name NAME="Kelli McCarty">
+              <charseq START="1317" END="1329">Kelli McCarty</charseq>
+          </name>
+          <name NAME="Kelli McCarty">
+              <charseq START="1449" END="1461">Kelli McCarty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E1-M5" ROLE="LOC">
+          <extent>
+              <charseq START="70" END="76">Liberal</charseq>
+          </extent>
+          <head>
+              <charseq START="70" END="76">Liberal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liberal">
+              <charseq START="70" END="76">Liberal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E2-M6">
+          <extent>
+              <charseq START="79" END="84">Kansas</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="84">Kansas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E2-M215" ROLE="LOC">
+          <extent>
+              <charseq START="392" END="397">Kansas</charseq>
+          </extent>
+          <head>
+              <charseq START="392" END="397">Kansas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E2-M206" ROLE="LOC">
+          <extent>
+              <charseq START="321" END="334">her home state</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="334">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kansas">
+              <charseq START="79" END="84">Kansas</charseq>
+          </name>
+          <name NAME="Kansas">
+              <charseq START="392" END="397">Kansas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E3-M10" ROLE="GPE">
+          <extent>
+              <charseq START="93" END="100">American</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="100">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E3-M13">
+          <extent>
+              <charseq START="136" END="143">Miss USA</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="143">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E3-M14">
+          <extent>
+              <charseq START="136" END="139">Miss</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="139">Miss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E3-M104" ROLE="GPE">
+          <extent>
+              <charseq START="182" END="184">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="184">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="93" END="100">American</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="141" END="143">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="182" END="184">USA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E4-M11">
+          <extent>
+              <charseq START="112" END="118">actress</charseq>
+          </extent>
+          <head>
+              <charseq START="112" END="118">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M12">
+          <extent>
+              <charseq START="120" END="122">who</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="122">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M201">
+          <extent>
+              <charseq START="240" END="242">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="240" END="242">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M207">
+          <extent>
+              <charseq START="321" END="323">her</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="323">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M300">
+          <extent>
+              <charseq START="418" END="420">She</charseq>
+          </extent>
+          <head>
+              <charseq START="418" END="420">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E4-M507">
+          <extent>
+              <charseq START="620" END="632">her character</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="632">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M500">
+          <extent>
+              <charseq START="536" END="538">She</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="538">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M508">
+          <extent>
+              <charseq START="620" END="622">her</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="622">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M600">
+          <extent>
+              <charseq START="679" END="681">She</charseq>
+          </extent>
+          <head>
+              <charseq START="679" END="681">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M700">
+          <extent>
+              <charseq START="907" END="909">She</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="909">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M806">
+          <extent>
+              <charseq START="1046" END="1048">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1046" END="1048">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M901">
+          <extent>
+              <charseq START="1066" END="1068">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1066" END="1068">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kelli_McCarty.sentences.sgm-E4-M1002">
+          <extent>
+              <charseq START="1131" END="1133">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1133">Her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E5-M100">
+          <extent>
+              <charseq START="154" END="167">Career
+McCarty</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="167">Career
+McCarty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Career
+McCarty">
+              <charseq START="154" END="167">Career
+McCarty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E6-M107">
+          <extent>
+              <charseq START="223" END="237">Miss Kansas USA</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="237">Miss Kansas USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miss Kansas USA">
+              <charseq START="223" END="237">Miss Kansas USA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E7-M205" ROLE="LOC">
+          <extent>
+              <charseq START="310" END="316">Wichita</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="316">Wichita</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wichita">
+              <charseq START="310" END="316">Wichita</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E8-M213">
+          <extent>
+              <charseq START="374" END="397">a contestant from Kansas</charseq>
+          </extent>
+          <head>
+              <charseq START="376" END="385">contestant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E9-M302">
+          <extent>
+              <charseq START="432" END="470">a finalist in the Miss Universe pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="441">finalist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E10-M502">
+          <extent>
+              <charseq START="552" END="576">the maniacal Beth Wallace</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="576">Beth Wallace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beth Wallace">
+              <charseq START="565" END="576">Beth Wallace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E11-M505">
+          <extent>
+              <charseq START="581" END="591">NBC Daytime</charseq>
+          </extent>
+          <head>
+              <charseq START="581" END="591">NBC Daytime</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NBC Daytime">
+              <charseq START="581" END="591">NBC Daytime</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E12-M604">
+          <extent>
+              <charseq START="712" END="723">Ms. Lovelson</charseq>
+          </extent>
+          <head>
+              <charseq START="716" END="723">Lovelson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E12-M605">
+          <extent>
+              <charseq START="712" END="714">Ms.</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="714">Ms.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lovelson">
+              <charseq START="716" END="723">Lovelson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E13-M609">
+          <extent>
+              <charseq START="732" END="745">Disney Channel</charseq>
+          </extent>
+          <head>
+              <charseq START="732" END="745">Disney Channel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Disney Channel">
+              <charseq START="732" END="745">Disney Channel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E14-M611">
+          <extent>
+              <charseq START="768" END="774">Stevens</charseq>
+          </extent>
+          <head>
+              <charseq START="768" END="774">Stevens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stevens">
+              <charseq START="768" END="774">Stevens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E15-M615" ROLE="LOC">
+          <extent>
+              <charseq START="812" END="824">Beverly Hills</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="824">Beverly Hills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beverly Hills">
+              <charseq START="812" END="824">Beverly Hills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E16-M619">
+          <extent>
+              <charseq START="849" END="866">Phil of the Future</charseq>
+          </extent>
+          <head>
+              <charseq START="849" END="852">Phil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phil">
+              <charseq START="849" END="852">Phil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E17-M623">
+          <extent>
+              <charseq START="876" END="883">So Raven</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="883">Raven</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raven">
+              <charseq START="879" END="883">Raven</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E18-M903">
+          <extent>
+              <charseq START="1082" END="1128">adult entertainment company Vivid Entertainment</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1128">Vivid Entertainment</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E18-M906">
+          <extent>
+              <charseq START="1102" END="1108">company</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1108">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vivid Entertainment">
+              <charseq START="1110" END="1128">Vivid Entertainment</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E19-M1007">
+          <extent>
+              <charseq START="1187" END="1196">Porn Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="1187" END="1196">Porn Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E19-M1000">
+          <extent>
+              <charseq START="1131" END="1196">Her first hardcore film Faithless: From Beauty Queen to Porn Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="1155" END="1163">Faithless</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E19-M1005">
+          <extent>
+              <charseq START="1171" END="1182">Beauty Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="1178" END="1182">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Porn Queen">
+              <charseq START="1187" END="1196">Porn Queen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E20-M1204">
+          <extent>
+              <charseq START="1351" END="1383">television producer Matt Dearborn</charseq>
+          </extent>
+          <head>
+              <charseq START="1371" END="1383">Matt Dearborn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kelli_McCarty.sentences.sgm-E20-M1206">
+          <extent>
+              <charseq START="1362" END="1369">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="1362" END="1369">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Dearborn">
+              <charseq START="1371" END="1383">Matt Dearborn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kelli_McCarty.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kelli_McCarty.sentences.sgm-E21-M1309">
+          <extent>
+              <charseq START="1466" END="1480">SoapCentral.com</charseq>
+          </extent>
+          <head>
+              <charseq START="1466" END="1480">SoapCentral.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SoapCentral.com">
+              <charseq START="1466" END="1480">SoapCentral.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T0" VAL="1969-09-06">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="50" END="65">September 6 1969</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T1" VAL="1991">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="148" END="151">1991</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T2" VAL="1991">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="204" END="207">1991</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T3" VAL="1999">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="609" END="612">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T4" VAL="2006">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="673" END="676">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T5" VAL="2008">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1061" END="1064">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T6" VAL="2009-02">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1218" END="1230">February 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T7" VAL="2009-01-27">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1283" END="1300">January 27th, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kelli_McCarty.sentences.sgm-T8" VAL="2000">
+        <timex2_mention ID="Kelli_McCarty.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1391" END="1394">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Kelli_McCarty.sentences.sgm-V9" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Kelli_McCarty.sentences.sgm-V9-M1">
+            <extent>
+              <charseq START="1466" END="1480">SoapCentral.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Kelli_McCarty.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Kelli_McCarty.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="30" END="76">Kelli McCarty (born September 6 1969 in Liberal</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E0-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="30" END="76">Kelli McCarty (born September 6 1969 in Liberal</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E1-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="70" END="76">Liberal</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kelli_McCarty.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Kelli_McCarty.sentences.sgm-R1-M1">
+          <extent>
+              <charseq START="70" END="76">Liberal</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E1-M5" ROLE="Arg-1">
+            <extent>
+              <charseq START="70" END="76">Liberal</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E2-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="79" END="84">Kansas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kelli_McCarty.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Kelli_McCarty.sentences.sgm-R2-M200">
+          <extent>
+              <charseq START="321" END="323">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E4-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="321" END="323">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E2-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="321" END="334">her home state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kelli_McCarty.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Kelli_McCarty.sentences.sgm-R3-M201">
+          <extent>
+              <charseq START="374" END="397">a contestant from Kansas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E8-M213" ROLE="Arg-1">
+            <extent>
+              <charseq START="374" END="397">a contestant from Kansas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E2-M215" ROLE="Arg-2">
+            <extent>
+              <charseq START="392" END="397">Kansas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kelli_McCarty.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Kelli_McCarty.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Kelli_McCarty.sentences.sgm-R4-M900">
+          <extent>
+              <charseq START="1066" END="1068">she</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E4-M901" ROLE="Arg-1">
+            <extent>
+              <charseq START="1066" END="1068">she</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kelli_McCarty.sentences.sgm-E18-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="1082" END="1128">adult entertainment company Vivid Entertainment</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Kelli_McCarty.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E1" ROLE="Place"/>
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Kelli_McCarty.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="45" END="48">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="45" END="48">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="30" END="76">Kelli McCarty (born September 6 1969 in Liberal</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E1-M5" ROLE="Place">
+          <extent>
+              <charseq START="70" END="76">Liberal</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="50" END="65">September 6 1969</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kelli_McCarty.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-T4" ROLE="Time-Within"/>
+      <event_mention ID="Kelli_McCarty.sentences.sgm-EV1-M501">
+          <extent>
+              <charseq START="660" END="668">explosion</charseq>
+          </extent>
+          <anchor>
+              <charseq START="660" END="668">explosion</charseq>
+          </anchor>
+          <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-T4-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="673" END="676">2006</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kelli_McCarty.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E4" ROLE="Victim"/>
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-T4" ROLE="Time-Within"/>
+      <event_mention ID="Kelli_McCarty.sentences.sgm-EV2-M502">
+          <extent>
+              <charseq START="638" END="643">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="638" END="643">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E4-M507" ROLE="Victim">
+          <extent>
+              <charseq START="620" END="632">her character</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-T4-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="673" END="676">2006</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kelli_McCarty.sentences.sgm-EV3" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E19" ROLE="Person"/>
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-T6" ROLE="Time-Within"/>
+      <event_mention ID="Kelli_McCarty.sentences.sgm-EV3-M1001">
+          <extent>
+              <charseq START="1206" END="1213">released</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1206" END="1213">released</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E19-M1000" ROLE="Person">
+          <extent>
+              <charseq START="1131" END="1196">Her first hardcore film Faithless: From Beauty Queen to Porn Queen</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-T6-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1218" END="1230">February 2009</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kelli_McCarty.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E20" ROLE="Person"/>
+      <event_argument REFID="Kelli_McCarty.sentences.sgm-E0" ROLE="Person"/>
+      <event_mention ID="Kelli_McCarty.sentences.sgm-EV4-M1201">
+          <extent>
+              <charseq START="1340" END="1346">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1340" END="1346">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E20-M1204" ROLE="Person">
+          <extent>
+              <charseq START="1351" END="1383">television producer Matt Dearborn</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kelli_McCarty.sentences.sgm-E0-M1200" ROLE="Person">
+          <extent>
+              <charseq START="1303" END="1329">Personal life
+Kelli McCarty</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

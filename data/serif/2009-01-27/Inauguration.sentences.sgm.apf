@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Inauguration.sentences.sgm">
+  <document DOCID="Inauguration.sentences.sgm">
+
+    <entity ID="Inauguration.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="91" END="98">a leader</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="98">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E0-M509">
+          <extent>
+              <charseq START="643" END="650">a leader</charseq>
+          </extent>
+          <head>
+              <charseq START="645" END="650">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Inauguration.sentences.sgm-E0-M608">
+          <extent>
+              <charseq START="756" END="758">her</charseq>
+          </extent>
+          <head>
+              <charseq START="756" END="758">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Inauguration.sentences.sgm-E1-M106" ROLE="GPE">
+          <extent>
+              <charseq START="161" END="177">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="165" END="177">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E1-M314" ROLE="GPE">
+          <extent>
+              <charseq START="476" END="485">government</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="485">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Inauguration.sentences.sgm-E1-M915" ROLE="GPE">
+          <extent>
+              <charseq START="1182" END="1194">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1194">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Inauguration.sentences.sgm-E1-M1003" ROLE="GPE">
+          <extent>
+              <charseq START="1233" END="1245">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1233" END="1245">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="165" END="177">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1182" END="1194">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1233" END="1245">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E2-M104">
+          <extent>
+              <charseq START="144" END="177">the president of the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="156">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E2-M401">
+          <extent>
+              <charseq START="493" END="505">the
+President</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="505">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Inauguration.sentences.sgm-E2-M508">
+          <extent>
+              <charseq START="625" END="627">his</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="627">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E3-M200">
+          <extent>
+              <charseq START="216" END="312">The most common usage of the term is in the context of a formal investiture whereby an individual</charseq>
+          </extent>
+          <head>
+              <charseq START="303" END="312">individual</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E3-M306">
+          <extent>
+              <charseq START="408" END="419">a
+politician</charseq>
+          </extent>
+          <head>
+              <charseq START="410" END="419">politician</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E3-M312">
+          <extent>
+              <charseq START="468" END="485">head of government</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="471">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E3-M604">
+          <extent>
+              <charseq START="719" END="732">the
+politician</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="732">politician</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Inauguration.sentences.sgm-E3-M607">
+          <extent>
+              <charseq START="749" END="751">his</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="751">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E4-M209">
+          <extent>
+              <charseq START="322" END="330">an office</charseq>
+          </extent>
+          <head>
+              <charseq START="325" END="330">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E5-M506">
+          <extent>
+              <charseq START="611" END="620">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="615" END="620">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E6-M612">
+          <extent>
+              <charseq START="787" END="813">a large crowd of spectators</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="799">crowd</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E7-M614">
+          <extent>
+              <charseq START="804" END="813">spectators</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="813">spectators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Inauguration.sentences.sgm-E8-M913" ROLE="GPE">
+          <extent>
+              <charseq START="1175" END="1180">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1180">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="1175" END="1180">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E9-M907">
+          <extent>
+              <charseq START="1108" END="1121">an institution</charseq>
+          </extent>
+          <head>
+              <charseq START="1111" END="1121">institution</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E10" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E10-M912">
+          <extent>
+              <charseq START="1169" END="1210">a new Canada–United States border crossing</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1210">crossing</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Inauguration.sentences.sgm-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Inauguration.sentences.sgm-E11-M916">
+          <extent>
+              <charseq START="1196" END="1201">border</charseq>
+          </extent>
+          <head>
+              <charseq START="1196" END="1201">border</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <value ID="Inauguration.sentences.sgm-V0" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Inauguration.sentences.sgm-V0-M1">
+            <extent>
+              <charseq START="1314" END="1327">Apoliticus.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Inauguration.sentences.sgm-V1" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Inauguration.sentences.sgm-V1-M1">
+            <extent>
+              <charseq START="1331" END="1393">http://www.apoliticus.com/2009/01/top-5-inauguration-incidents/</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Inauguration.sentences.sgm-V2" TYPE="Job-Title">
+        <value_mention ID="Inauguration.sentences.sgm-V2-M1">
+            <extent>
+              <charseq START="493" END="505">the
+President</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Inauguration.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Inauguration.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Inauguration.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Inauguration.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="144" END="177">the president of the United States</charseq>
+          </extent>
+          <relation_mention_argument REFID="Inauguration.sentences.sgm-E2-M104" ROLE="Arg-1">
+            <extent>
+              <charseq START="144" END="177">the president of the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Inauguration.sentences.sgm-E1-M106" ROLE="Arg-2">
+            <extent>
+              <charseq START="161" END="177">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Inauguration.sentences.sgm-EV0" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Inauguration.sentences.sgm-E2" ROLE="Person"/>
+      <event_argument REFID="Inauguration.sentences.sgm-V2" ROLE="Position"/>
+      <event_mention ID="Inauguration.sentences.sgm-EV0-M400">
+          <extent>
+              <charseq START="509" END="520">inauguration</charseq>
+          </extent>
+          <anchor>
+              <charseq START="509" END="520">inauguration</charseq>
+          </anchor>
+        <event_mention_argument REFID="Inauguration.sentences.sgm-E2-M401" ROLE="Person">
+          <extent>
+              <charseq START="493" END="505">the
+President</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Inauguration.sentences.sgm-V2-M1" ROLE="Position">
+            <extent>
+              <charseq START="493" END="505">the
+President</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Inauguration.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Inauguration.sentences.sgm-E8" ROLE="Place"/>
+      <event_mention ID="Inauguration.sentences.sgm-EV1-M900">
+          <extent>
+              <charseq START="1153" END="1164">inauguration</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1153" END="1164">inauguration</charseq>
+          </anchor>
+        <event_mention_argument REFID="Inauguration.sentences.sgm-E8-M913" ROLE="Place">
+          <extent>
+              <charseq START="1175" END="1180">Canada</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Inauguration.sentences.sgm-EV1-M1000">
+          <extent>
+              <charseq START="1295" END="1306">Inauguration</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1295" END="1306">Inauguration</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

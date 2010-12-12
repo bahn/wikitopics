@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 #
 # extract_entities.py
-#
+# -------------------
 # Extracts the named entities and their mentions
 # by looking at the corresponding APF file.
 #
 # extract_entities.py [sgm] [apf]
-
 
 import serif
 import sys

@@ -247,18 +247,28 @@ def find_best_timex(date, text, data, btimex = None):
 				btdelta = tdelta
 	return btimex
 
-
-
+# Resolve coreference.
+# Replace pronouns in the text with its most frequent proper name.
 def resolveCoref(text, data, start, end):
+	# boundaries: Boundaries for the pronouns.
+	# The first, third, fifth, ..., intervals represent the remaining text,
+	# and the others the text to be replaced by proper names.
 	boundaries = [start, end+1]
+	# substs: The text to replace pronouns with.
+	# Each element in this list is a 3-tuple: (start, end, name)
+	# which means the text from start to end to be replaced with name.
 	substs = []
+	# loop through all entities in the given SERIF output.
 	for entity in data.entityList:
 		if entity.type != 'PER' or not entity.name:
 			continue
 		for mention in entity.mentions:
 			if mention.type == 'PRO':
+				# Find pronouns in the given text
 				if start <= mention.start and mention.end <= end:
 					substr = text.substr(mention.start, mention.end)
+					# Find the text to replace the pronoun with and
+					# append it to the substs list.
 					if substr == 'he' or substr == 'He' or substr == 'she' or substr == 'She':
 						name = text.substr(entity.name.start, entity.name.end)
 						boundaries.extend([mention.start, mention.end+1])
@@ -267,6 +277,7 @@ def resolveCoref(text, data, start, end):
 						name = text.substr(entity.name.start, entity.name.end)
 						boundaries.extend([mention.start, mention.end+1])
 						substs.append((mention.start, mention.end+1, name + "'s"))
+	# Substitute each pronoun by its proper name
 	boundaries.sort()
 	s = ''
 	for i in range(len(boundaries)-1):

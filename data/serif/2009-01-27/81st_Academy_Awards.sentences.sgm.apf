@@ -1,0 +1,1531 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="81st_Academy_Awards.sentences.sgm">
+  <document DOCID="81st_Academy_Awards.sentences.sgm">
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="40" END="58">81st Academy Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="40" END="58">81st Academy Awards</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E0-M704">
+          <extent>
+              <charseq START="809" END="831">the 81st Academy Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="831">81st Academy Awards</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E0-M724">
+          <extent>
+              <charseq START="1054" END="1064">the Academy</charseq>
+          </extent>
+          <head>
+              <charseq START="1058" END="1064">Academy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E0-M2302">
+          <extent>
+              <charseq START="3456" END="3466">the Academy</charseq>
+          </extent>
+          <head>
+              <charseq START="3460" END="3466">Academy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E0-M2530">
+          <extent>
+              <charseq START="4188" END="4276">the 81st Annual Academy Awards World Socialist Web Site Arts Review
+The Oscars at YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="4192" END="4276">81st Annual Academy Awards World Socialist Web Site Arts Review
+The Oscars at YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E0-M2523">
+          <extent>
+              <charseq START="4121" END="4127">Academy</charseq>
+          </extent>
+          <head>
+              <charseq START="4121" END="4127">Academy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="81st Academy Awards">
+              <charseq START="40" END="58">81st Academy Awards</charseq>
+          </name>
+          <name NAME="81st Academy Awards">
+              <charseq START="813" END="831">81st Academy Awards</charseq>
+          </name>
+          <name NAME="Academy">
+              <charseq START="1058" END="1064">Academy</charseq>
+          </name>
+          <name NAME="Academy">
+              <charseq START="3460" END="3466">Academy</charseq>
+          </name>
+          <name NAME="81st Annual Academy Awards World Socialist Web Site Arts Review
+The Oscars at YouTube">
+              <charseq START="4192" END="4276">81st Annual Academy Awards World Socialist Web Site Arts Review
+The Oscars at YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E1-M7">
+          <extent>
+              <charseq START="154" END="170">the Kodak Theatre</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="170">Kodak Theatre</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E1-M807">
+          <extent>
+              <charseq START="1204" END="1220">the Kodak Theatre</charseq>
+          </extent>
+          <head>
+              <charseq START="1208" END="1220">Kodak Theatre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kodak Theatre">
+              <charseq START="158" END="170">Kodak Theatre</charseq>
+          </name>
+          <name NAME="Kodak Theatre">
+              <charseq START="1208" END="1220">Kodak Theatre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E2-M9">
+          <extent>
+              <charseq START="175" END="183">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="175" END="183">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E2-M809">
+          <extent>
+              <charseq START="1225" END="1233">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1233">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="175" END="183">Hollywood</charseq>
+          </name>
+          <name NAME="Hollywood">
+              <charseq START="1225" END="1233">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E3-M10" ROLE="LOC">
+          <extent>
+              <charseq START="186" END="195">California</charseq>
+          </extent>
+          <head>
+              <charseq START="186" END="195">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E3-M810" ROLE="LOC">
+          <extent>
+              <charseq START="1236" END="1245">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1236" END="1245">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="186" END="195">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1236" END="1245">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E4-M102" ROLE="LOC">
+          <extent>
+              <charseq START="222" END="238">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="238">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E4-M1015" ROLE="GPE">
+          <extent>
+              <charseq START="1456" END="1459">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1459">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E4-M1508" ROLE="GPE">
+          <extent>
+              <charseq START="2238" END="2241">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2238" END="2241">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="226" END="238">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1456" END="1459">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="2238" END="2241">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E5-M104">
+          <extent>
+              <charseq START="243" END="245">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="245">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ABC">
+              <charseq START="243" END="245">ABC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E6-M200">
+          <extent>
+              <charseq START="248" END="280">Australian performer Hugh Jackman</charseq>
+          </extent>
+          <head>
+              <charseq START="269" END="280">Hugh Jackman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E6-M202">
+          <extent>
+              <charseq START="259" END="267">performer</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="267">performer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hugh Jackman">
+              <charseq START="269" END="280">Hugh Jackman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E7-M201" ROLE="GPE">
+          <extent>
+              <charseq START="248" END="257">Australian</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="257">Australian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australian">
+              <charseq START="248" END="257">Australian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E8-M300">
+          <extent>
+              <charseq START="330" END="375">Academy Award-nominated producer Laurence Mark</charseq>
+          </extent>
+          <head>
+              <charseq START="363" END="375">Laurence Mark</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E8-M303">
+          <extent>
+              <charseq START="354" END="361">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="361">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Laurence Mark">
+              <charseq START="363" END="375">Laurence Mark</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E9-M305">
+          <extent>
+              <charseq START="408" END="456">Academy Award-winning writer/director Bill Condon</charseq>
+          </extent>
+          <head>
+              <charseq START="446" END="456">Bill Condon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E9-M311">
+          <extent>
+              <charseq START="437" END="444">director</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="444">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bill Condon">
+              <charseq START="446" END="456">Bill Condon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E10-M403">
+          <extent>
+              <charseq START="500" END="514">Benjamin Button</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="514">Benjamin Button</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E10-M1203">
+          <extent>
+              <charseq START="1795" END="1809">Benjamin Button</charseq>
+          </extent>
+          <head>
+              <charseq START="1795" END="1809">Benjamin Button</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E10-M1615">
+          <extent>
+              <charseq START="2445" END="2466">Benjamin Button (21st)</charseq>
+          </extent>
+          <head>
+              <charseq START="2445" END="2459">Benjamin Button</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E10-M1803">
+          <extent>
+              <charseq START="2661" END="2675">Benjamin Button</charseq>
+          </extent>
+          <head>
+              <charseq START="2661" END="2675">Benjamin Button</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E10-M2006">
+          <extent>
+              <charseq START="2913" END="2927">Benjamin Button</charseq>
+          </extent>
+          <head>
+              <charseq START="2913" END="2927">Benjamin Button</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Benjamin Button">
+              <charseq START="500" END="514">Benjamin Button</charseq>
+          </name>
+          <name NAME="Benjamin Button">
+              <charseq START="1795" END="1809">Benjamin Button</charseq>
+          </name>
+          <name NAME="Benjamin Button">
+              <charseq START="2445" END="2459">Benjamin Button</charseq>
+          </name>
+          <name NAME="Benjamin Button">
+              <charseq START="2661" END="2675">Benjamin Button</charseq>
+          </name>
+          <name NAME="Benjamin Button">
+              <charseq START="2913" END="2927">Benjamin Button</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E11-M500">
+          <extent>
+              <charseq START="558" END="576">Slumdog Millionaire</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="576">Slumdog Millionaire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E11-M506">
+          <extent>
+              <charseq START="601" END="621">The Dark Knight eight</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="615">Knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E11-M1600">
+          <extent>
+              <charseq START="2327" END="2348">The Dark Knight (1st),</charseq>
+          </extent>
+          <head>
+              <charseq START="2336" END="2341">Knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E11-M2000">
+          <extent>
+              <charseq START="2844" END="2862">Slumdog Millionaire</charseq>
+          </extent>
+          <head>
+              <charseq START="2844" END="2862">Slumdog Millionaire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E11-M2307">
+          <extent>
+              <charseq START="3500" END="3514">The Dark Knight</charseq>
+          </extent>
+          <head>
+              <charseq START="3509" END="3514">Knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E11-M2311">
+          <extent>
+              <charseq START="3548" END="3559">The Wrestler</charseq>
+          </extent>
+          <head>
+              <charseq START="3552" END="3559">Wrestler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E11-M2419">
+          <extent>
+              <charseq START="3888" END="3938">The Wrestler which took the 2009 Golden Globe Award</charseq>
+          </extent>
+          <head>
+              <charseq START="3892" END="3899">Wrestler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Slumdog Millionaire">
+              <charseq START="558" END="576">Slumdog Millionaire</charseq>
+          </name>
+          <name NAME="Slumdog Millionaire">
+              <charseq START="2844" END="2862">Slumdog Millionaire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E12-M513">
+          <extent>
+              <charseq START="656" END="660">Nixon</charseq>
+          </extent>
+          <head>
+              <charseq START="656" END="660">Nixon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nixon">
+              <charseq START="656" END="660">Nixon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E13-M714">
+          <extent>
+              <charseq START="917" END="959">Academy of Motion Picture Arts and Sciences</charseq>
+          </extent>
+          <head>
+              <charseq START="917" END="959">Academy of Motion Picture Arts and Sciences</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E13-M2533">
+          <extent>
+              <charseq START="4286" END="4338">the Academy of Motion Picture Arts and Sciences)
+Vote</charseq>
+          </extent>
+          <head>
+              <charseq START="4290" END="4338">Academy of Motion Picture Arts and Sciences)
+Vote</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Academy of Motion Picture Arts and Sciences">
+              <charseq START="917" END="959">Academy of Motion Picture Arts and Sciences</charseq>
+          </name>
+          <name NAME="Academy of Motion Picture Arts and Sciences)
+Vote">
+              <charseq START="4290" END="4338">Academy of Motion Picture Arts and Sciences)
+Vote</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E14-M716">
+          <extent>
+              <charseq START="971" END="979">Sid Ganis</charseq>
+          </extent>
+          <head>
+              <charseq START="971" END="979">Sid Ganis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M702">
+          <extent>
+              <charseq START="792" END="831">The nominees for the 81st Academy Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="796" END="803">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M800">
+          <extent>
+              <charseq START="1096" END="1106">The winners</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1106">winners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1009">
+          <extent>
+              <charseq START="1394" END="1407">major nominees</charseq>
+          </extent>
+          <head>
+              <charseq START="1400" END="1407">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1021">
+          <extent>
+              <charseq START="1493" END="1521">the nominees for Best Picture</charseq>
+          </extent>
+          <head>
+              <charseq START="1497" END="1504">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1100">
+          <extent>
+              <charseq START="1593" END="1649">the top money earner in this year&apos;s field of Best Picture</charseq>
+          </extent>
+          <head>
+              <charseq START="1607" END="1612">earner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1204">
+          <extent>
+              <charseq START="1815" END="1832">the highest earner</charseq>
+          </extent>
+          <head>
+              <charseq START="1827" END="1832">earner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1205">
+          <extent>
+              <charseq START="1840" END="1985">the Best Picture nominees with $104.4 million in domestic box office receipts (compared to Juno which grossed $87 million prior to its nomination)</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1864">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1400">
+          <extent>
+              <charseq START="2121" END="2130">The Reader</charseq>
+          </extent>
+          <head>
+              <charseq START="2125" END="2130">Reader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M1401">
+          <extent>
+              <charseq START="2144" END="2168">the Best Picture nominees</charseq>
+          </extent>
+          <head>
+              <charseq START="2161" END="2168">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M2103">
+          <extent>
+              <charseq START="2983" END="3007">the Best Picture nominees</charseq>
+          </extent>
+          <head>
+              <charseq START="3000" END="3007">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M2528">
+          <extent>
+              <charseq START="4171" END="4276">the nominees for the 81st Annual Academy Awards World Socialist Web Site Arts Review
+The Oscars at YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="4175" END="4182">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E14-M2535">
+          <extent>
+              <charseq START="4344" END="4411">the Oscar nominees at AMCtv.com
+VanityFair.com&apos;s Oscar-obsessed blog</charseq>
+          </extent>
+          <head>
+              <charseq START="4354" END="4361">nominees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sid Ganis">
+              <charseq START="971" END="979">Sid Ganis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E15-M717">
+          <extent>
+              <charseq START="985" END="997">Oscar-winning</charseq>
+          </extent>
+          <head>
+              <charseq START="985" END="997">Oscar-winning</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E15-M718">
+          <extent>
+              <charseq START="999" END="1003">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="999" END="1003">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oscar-winning">
+              <charseq START="985" END="997">Oscar-winning</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E16-M719">
+          <extent>
+              <charseq START="1005" END="1019">Forest Whitaker</charseq>
+          </extent>
+          <head>
+              <charseq START="1005" END="1019">Forest Whitaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Forest Whitaker">
+              <charseq START="1005" END="1019">Forest Whitaker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E17-M720">
+          <extent>
+              <charseq START="1024" END="1093">the Samuel Goldwyn Theater in the Academy&apos;s Beverly Hills headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1049">Samuel Goldwyn Theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Samuel Goldwyn Theater">
+              <charseq START="1028" END="1049">Samuel Goldwyn Theater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E18-M726" ROLE="GPE">
+          <extent>
+              <charseq START="1068" END="1080">Beverly Hills</charseq>
+          </extent>
+          <head>
+              <charseq START="1068" END="1080">Beverly Hills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beverly Hills">
+              <charseq START="1068" END="1080">Beverly Hills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E19-M723">
+          <extent>
+              <charseq START="1054" END="1093">the Academy&apos;s Beverly Hills headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="1082" END="1093">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E20-M900">
+          <extent>
+              <charseq START="1248" END="1258">Jerry Lewis</charseq>
+          </extent>
+          <head>
+              <charseq START="1248" END="1258">Jerry Lewis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jerry Lewis">
+              <charseq START="1248" END="1258">Jerry Lewis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E21-M901">
+          <extent>
+              <charseq START="1281" END="1316">the Jean Hersholt Humanitarian Award</charseq>
+          </extent>
+          <head>
+              <charseq START="1285" END="1316">Jean Hersholt Humanitarian Award</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean Hersholt Humanitarian Award">
+              <charseq START="1285" END="1316">Jean Hersholt Humanitarian Award</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E22-M1013">
+          <extent>
+              <charseq START="1452" END="1581">the U.S. box office, with all but one of the nominees for Best Picture performing even more poorly than those of the previous year</charseq>
+          </extent>
+          <head>
+              <charseq START="1465" END="1470">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="81st_Academy_Awards.sentences.sgm-E23-M1025">
+          <extent>
+              <charseq START="1556" END="1581">those of the previous year</charseq>
+          </extent>
+          <head>
+              <charseq START="1556" END="1560">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E25-M1114">
+          <extent>
+              <charseq START="1750" END="1758">Best Film</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1758">Best Film</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Best Film">
+              <charseq START="1750" END="1758">Best Film</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E26-M1115" ROLE="LOC">
+          <extent>
+              <charseq START="1769" END="1772">Juno</charseq>
+          </extent>
+          <head>
+              <charseq START="1769" END="1772">Juno</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E26-M1213" ROLE="LOC">
+          <extent>
+              <charseq START="1931" END="1984">Juno which grossed $87 million prior to its nomination</charseq>
+          </extent>
+          <head>
+              <charseq START="1931" END="1934">Juno</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="81st_Academy_Awards.sentences.sgm-E26-M1215">
+          <extent>
+              <charseq START="1936" END="1940">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1940">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="81st_Academy_Awards.sentences.sgm-E26-M1218">
+          <extent>
+              <charseq START="1971" END="1973">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1973">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juno">
+              <charseq START="1769" END="1772">Juno</charseq>
+          </name>
+          <name NAME="Juno">
+              <charseq START="1931" END="1934">Juno</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E27-M1112">
+          <extent>
+              <charseq START="1721" END="1766">last year&apos;s highest grossing Best Film nominee</charseq>
+          </extent>
+          <head>
+              <charseq START="1760" END="1766">nominee</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E28-M1207">
+          <extent>
+              <charseq START="1844" END="1855">Best Picture</charseq>
+          </extent>
+          <head>
+              <charseq START="1844" END="1855">Best Picture</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Best Picture">
+              <charseq START="1844" END="1855">Best Picture</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E29-M1310">
+          <extent>
+              <charseq START="2090" END="2118">Frost/Nixon with $8.8 million</charseq>
+          </extent>
+          <head>
+              <charseq START="2090" END="2100">Frost/Nixon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frost/Nixon">
+              <charseq START="2090" END="2100">Frost/Nixon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E30-M1606">
+          <extent>
+              <charseq START="2364" END="2382">Kung Fu Panda (6th)</charseq>
+          </extent>
+          <head>
+              <charseq START="2364" END="2376">Kung Fu Panda</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kung Fu Panda">
+              <charseq START="2364" END="2376">Kung Fu Panda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E31-M1608">
+          <extent>
+              <charseq START="2385" END="2395">Bolt (19th)</charseq>
+          </extent>
+          <head>
+              <charseq START="2385" END="2388">Bolt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bolt">
+              <charseq START="2385" END="2388">Bolt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E32-M1610">
+          <extent>
+              <charseq START="2398" END="2418">Tropic Thunder (20th)</charseq>
+          </extent>
+          <head>
+              <charseq START="2398" END="2411">Tropic Thunder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tropic Thunder">
+              <charseq START="2398" END="2411">Tropic Thunder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E33-M1706">
+          <extent>
+              <charseq START="2606" END="2619">Iron Man (2nd)</charseq>
+          </extent>
+          <head>
+              <charseq START="2611" END="2613">Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E33-M1807">
+          <extent>
+              <charseq START="2695" END="2702">Iron Man</charseq>
+          </extent>
+          <head>
+              <charseq START="2695" END="2702">Iron Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E33-M1805">
+          <extent>
+              <charseq START="2678" END="2692">The Dark Knight</charseq>
+          </extent>
+          <head>
+              <charseq START="2687" END="2692">Knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iron Man">
+              <charseq START="2695" END="2702">Iron Man</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E34-M2109">
+          <extent>
+              <charseq START="3041" END="3058">accompanying adult</charseq>
+          </extent>
+          <head>
+              <charseq START="3054" END="3058">adult</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E36-M2309">
+          <extent>
+              <charseq START="3517" END="3534">Revolutionary Road</charseq>
+          </extent>
+          <head>
+              <charseq START="3517" END="3534">Revolutionary Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Revolutionary Road">
+              <charseq START="3517" END="3534">Revolutionary Road</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E37-M2315">
+          <extent>
+              <charseq START="3613" END="3622">contenders</charseq>
+          </extent>
+          <head>
+              <charseq START="3613" END="3622">contenders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E38-M2403">
+          <extent>
+              <charseq START="3702" END="3714">Sally Hawkins</charseq>
+          </extent>
+          <head>
+              <charseq START="3702" END="3714">Sally Hawkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sally Hawkins">
+              <charseq START="3702" END="3714">Sally Hawkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E39-M2406">
+          <extent>
+              <charseq START="3757" END="3784">Clint Eastwood&apos;s Gran Torino</charseq>
+          </extent>
+          <head>
+              <charseq START="3774" END="3784">Gran Torino</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gran Torino">
+              <charseq START="3774" END="3784">Gran Torino</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E40-M2407">
+          <extent>
+              <charseq START="3757" END="3770">Clint Eastwood</charseq>
+          </extent>
+          <head>
+              <charseq START="3757" END="3770">Clint Eastwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clint Eastwood">
+              <charseq START="3757" END="3770">Clint Eastwood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E41-M2411">
+          <extent>
+              <charseq START="3823" END="3839">Bruce Springsteen</charseq>
+          </extent>
+          <head>
+              <charseq START="3823" END="3839">Bruce Springsteen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="81st_Academy_Awards.sentences.sgm-E41-M2418">
+          <extent>
+              <charseq START="3874" END="3876">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3874" END="3876">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bruce Springsteen">
+              <charseq START="3823" END="3839">Bruce Springsteen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="81st_Academy_Awards.sentences.sgm-E42-M2404">
+          <extent>
+              <charseq START="3720" END="3731">Best Actress</charseq>
+          </extent>
+          <head>
+              <charseq START="3725" END="3731">Actress</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E43-M2539">
+          <extent>
+              <charseq START="4366" END="4389">AMCtv.com
+VanityFair.com</charseq>
+          </extent>
+          <head>
+              <charseq START="4366" END="4389">AMCtv.com
+VanityFair.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AMCtv.com
+VanityFair.com">
+              <charseq START="4366" END="4389">AMCtv.com
+VanityFair.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="81st_Academy_Awards.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="81st_Academy_Awards.sentences.sgm-E44-M2541">
+          <extent>
+              <charseq START="4414" END="4428">Little Gold Men</charseq>
+          </extent>
+          <head>
+              <charseq START="4414" END="4428">Little Gold Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Little Gold Men">
+              <charseq START="4414" END="4428">Little Gold Men</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T0" VAL="2008">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="98" END="101">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T1">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="124" END="129">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T2" VAL="2009-02-22">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="132" END="148">February 22, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T3">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="857" END="864">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T4" VAL="2009-01-22">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="867" END="882">January 22, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T5" VAL="T05:38">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="888" END="900">5:38 a.m. PST</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T6" VAL="T13:38">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="903" END="911">13:38 UTC</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T7" VAL="2009-02-22">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1182" END="1198">February 22, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T8" VAL="PXY" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1367" END="1378">recent years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T9" VAL="P1Y">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1565" END="1581">the previous year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T10">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1617" END="1625">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T11" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1721" END="1729">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V12-M1">
+            <extent>
+              <charseq START="1871" END="1884">$104.4 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V13" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V13-M1">
+            <extent>
+              <charseq START="1950" END="1960">$87 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V14" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V14-M1">
+            <extent>
+              <charseq START="2046" END="2058">$44.7 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V15" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V15-M1">
+            <extent>
+              <charseq START="2071" END="2083">$20.7 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V16" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V16-M1">
+            <extent>
+              <charseq START="2107" END="2118">$8.8 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V17" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V17-M1">
+            <extent>
+              <charseq START="2175" END="2186">$8.3 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T18" VAL="2008">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2230" END="2233">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T19" VAL="2004">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2790" END="2793">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T20" VAL="P1Y">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2946" END="2972">the fourth consecutive year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T21" VAL="P51Y">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3215" END="3233">50 one year earlier</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T22" VAL="P1Y">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3273" END="3289">the previous year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T23">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3326" END="3343">4 the year before)</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T24" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3392" END="3400">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T25" VAL="2009">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="3916" END="3919">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T26" VAL="2009-01-15">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="3956" END="3971">January 15, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="81st_Academy_Awards.sentences.sgm-T27" VAL="2008">
+        <timex2_mention ID="81st_Academy_Awards.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="3996" END="3999">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V28" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V28-M1">
+            <extent>
+              <charseq START="4366" END="4374">AMCtv.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="81st_Academy_Awards.sentences.sgm-V29" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="81st_Academy_Awards.sentences.sgm-V29-M1">
+            <extent>
+              <charseq START="4376" END="4389">VanityFair.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="154" END="170">the Kodak Theatre</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E1-M7" ROLE="Arg-1">
+            <extent>
+              <charseq START="154" END="170">the Kodak Theatre</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E2-M9" ROLE="Arg-2">
+            <extent>
+              <charseq START="175" END="183">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R0-M800">
+          <extent>
+              <charseq START="1204" END="1220">the Kodak Theatre</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E1-M807" ROLE="Arg-1">
+            <extent>
+              <charseq START="1204" END="1220">the Kodak Theatre</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E2-M809" ROLE="Arg-2">
+            <extent>
+              <charseq START="1225" END="1233">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R1-M1">
+          <extent>
+              <charseq START="154" END="170">the Kodak Theatre</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E1-M7" ROLE="Arg-1">
+            <extent>
+              <charseq START="154" END="170">the Kodak Theatre</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E3-M10" ROLE="Arg-2">
+            <extent>
+              <charseq START="186" END="195">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R1-M801">
+          <extent>
+              <charseq START="1204" END="1220">the Kodak Theatre</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E1-M807" ROLE="Arg-1">
+            <extent>
+              <charseq START="1204" END="1220">the Kodak Theatre</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E3-M810" ROLE="Arg-2">
+            <extent>
+              <charseq START="1236" END="1245">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R2-M2">
+          <extent>
+              <charseq START="175" END="183">Hollywood</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E2-M9" ROLE="Arg-1">
+            <extent>
+              <charseq START="175" END="183">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E3-M10" ROLE="Arg-2">
+            <extent>
+              <charseq START="186" END="195">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R2-M802">
+          <extent>
+              <charseq START="1225" END="1233">Hollywood</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E2-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1225" END="1233">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E3-M810" ROLE="Arg-2">
+            <extent>
+              <charseq START="1236" END="1245">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R3-M200">
+          <extent>
+              <charseq START="259" END="267">performer</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E6-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="259" END="267">performer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E7-M201" ROLE="Arg-2">
+            <extent>
+              <charseq START="248" END="257">Australian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R4-M700">
+          <extent>
+              <charseq START="1024" END="1093">the Samuel Goldwyn Theater in the Academy&apos;s Beverly Hills headquarters</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E17-M720" ROLE="Arg-1">
+            <extent>
+              <charseq START="1024" END="1093">the Samuel Goldwyn Theater in the Academy&apos;s Beverly Hills headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E19-M723" ROLE="Arg-2">
+            <extent>
+              <charseq START="1054" END="1093">the Academy&apos;s Beverly Hills headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R5-M701">
+          <extent>
+              <charseq START="1054" END="1064">the Academy</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E0-M724" ROLE="Arg-1">
+            <extent>
+              <charseq START="1054" END="1064">the Academy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E19-M723" ROLE="Arg-2">
+            <extent>
+              <charseq START="1054" END="1093">the Academy&apos;s Beverly Hills headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R6-M702">
+          <extent>
+              <charseq START="1054" END="1093">the Academy&apos;s Beverly Hills headquarters</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E19-M723" ROLE="Arg-1">
+            <extent>
+              <charseq START="1054" END="1093">the Academy&apos;s Beverly Hills headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E18-M726" ROLE="Arg-2">
+            <extent>
+              <charseq START="1068" END="1080">Beverly Hills</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R7-M1000">
+          <extent>
+              <charseq START="1452" END="1581">the U.S. box office, with all but one of the nominees for Best Picture performing even more poorly than those of the previous year</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E22-M1013" ROLE="Arg-1">
+            <extent>
+              <charseq START="1452" END="1581">the U.S. box office, with all but one of the nominees for Best Picture performing even more poorly than those of the previous year</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E4-M1015" ROLE="Arg-2">
+            <extent>
+              <charseq START="1456" END="1459">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="81st_Academy_Awards.sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="81st_Academy_Awards.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="81st_Academy_Awards.sentences.sgm-R8-M1600">
+          <extent>
+              <charseq START="2385" END="2395">Bolt (19th)</charseq>
+          </extent>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E31-M1608" ROLE="Arg-1">
+            <extent>
+              <charseq START="2385" END="2395">Bolt (19th)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="81st_Academy_Awards.sentences.sgm-E32-M1610" ROLE="Arg-2">
+            <extent>
+              <charseq START="2398" END="2418">Tropic Thunder (20th)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

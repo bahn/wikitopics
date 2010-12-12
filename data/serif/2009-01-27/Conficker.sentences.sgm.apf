@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Conficker.sentences.sgm">
+  <document DOCID="Conficker.sentences.sgm">
+
+    <entity ID="Conficker.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="26" END="46">Conficker (aka Downup</charseq>
+          </extent>
+          <head>
+              <charseq START="26" END="34">Conficker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M400">
+          <extent>
+              <charseq START="492" END="500">Conficker</charseq>
+          </extent>
+          <head>
+              <charseq START="492" END="500">Conficker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M801">
+          <extent>
+              <charseq START="992" END="1000">Conficker</charseq>
+          </extent>
+          <head>
+              <charseq START="992" END="1000">Conficker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M1905">
+          <extent>
+              <charseq START="2345" END="2353">Conficker</charseq>
+          </extent>
+          <head>
+              <charseq START="2345" END="2353">Conficker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M2003">
+          <extent>
+              <charseq START="2413" END="2420">Confiker</charseq>
+          </extent>
+          <head>
+              <charseq START="2413" END="2420">Confiker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="2532" END="2540">Conficker</charseq>
+          </extent>
+          <head>
+              <charseq START="2532" END="2540">Conficker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Conficker">
+              <charseq START="26" END="34">Conficker</charseq>
+          </name>
+          <name NAME="Conficker">
+              <charseq START="492" END="500">Conficker</charseq>
+          </name>
+          <name NAME="Conficker">
+              <charseq START="992" END="1000">Conficker</charseq>
+          </name>
+          <name NAME="Conficker">
+              <charseq START="2345" END="2353">Conficker</charseq>
+          </name>
+          <name NAME="Confiker">
+              <charseq START="2413" END="2420">Confiker</charseq>
+          </name>
+          <name NAME="Conficker">
+              <charseq START="2532" END="2540">Conficker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E1-M2">
+          <extent>
+              <charseq START="37" END="46">aka Downup</charseq>
+          </extent>
+          <head>
+              <charseq START="41" END="46">Downup</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E1-M3">
+          <extent>
+              <charseq START="37" END="39">aka</charseq>
+          </extent>
+          <head>
+              <charseq START="37" END="39">aka</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Downup">
+              <charseq START="41" END="46">Downup</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E2-M6">
+          <extent>
+              <charseq START="49" END="56">Downadup</charseq>
+          </extent>
+          <head>
+              <charseq START="49" END="56">Downadup</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Downadup">
+              <charseq START="49" END="56">Downadup</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M15">
+          <extent>
+              <charseq START="134" END="142">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="142">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M1201">
+          <extent>
+              <charseq START="1517" END="1525">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="1517" END="1525">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M2111">
+          <extent>
+              <charseq START="2651" END="2659">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="2651" END="2659">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M2504">
+          <extent>
+              <charseq START="3133" END="3141">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="3133" END="3141">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M2602">
+          <extent>
+              <charseq START="3219" END="3227">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="3219" END="3227">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E3-M2800">
+          <extent>
+              <charseq START="3432" END="3440">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="3432" END="3440">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Conficker.sentences.sgm-E3-M2810">
+          <extent>
+              <charseq START="3542" END="3543">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3542" END="3543">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="134" END="142">Microsoft</charseq>
+          </name>
+          <name NAME="Microsoft">
+              <charseq START="1517" END="1525">Microsoft</charseq>
+          </name>
+          <name NAME="Microsoft">
+              <charseq START="2651" END="2659">Microsoft</charseq>
+          </name>
+          <name NAME="Microsoft">
+              <charseq START="3133" END="3141">Microsoft</charseq>
+          </name>
+          <name NAME="Microsoft">
+              <charseq START="3219" END="3227">Microsoft</charseq>
+          </name>
+          <name NAME="Microsoft">
+              <charseq START="3432" END="3440">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E4-M205" ROLE="GPE">
+          <extent>
+              <charseq START="375" END="380">German</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="380">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E4-M508" ROLE="GPE">
+          <extent>
+              <charseq START="655" END="660">German</charseq>
+          </extent>
+          <head>
+              <charseq START="655" END="660">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E4-M513" ROLE="GPE">
+          <extent>
+              <charseq START="702" END="707">German</charseq>
+          </extent>
+          <head>
+              <charseq START="702" END="707">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="German">
+              <charseq START="375" END="380">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="655" END="660">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="702" END="707">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E5-M608">
+          <extent>
+              <charseq START="836" END="874">the Server Service on Windows computers</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="853">Server Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Server Service">
+              <charseq START="840" END="853">Server Service</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E6-M702">
+          <extent>
+              <charseq START="911" END="913">RPC</charseq>
+          </extent>
+          <head>
+              <charseq START="911" END="913">RPC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RPC">
+              <charseq START="911" END="913">RPC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E7-M810">
+          <extent>
+              <charseq START="1098" END="1113">Windows Defender</charseq>
+          </extent>
+          <head>
+              <charseq START="1106" END="1113">Defender</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E8-M912">
+          <extent>
+              <charseq START="1301" END="1310">the victim</charseq>
+          </extent>
+          <head>
+              <charseq START="1305" END="1310">victim</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E9-M1207">
+          <extent>
+              <charseq START="1571" END="1609">Background Intelligent Transfer Service</charseq>
+          </extent>
+          <head>
+              <charseq START="1571" END="1609">Background Intelligent Transfer Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E9-M1208">
+          <extent>
+              <charseq START="1612" END="1615">BITS</charseq>
+          </extent>
+          <head>
+              <charseq START="1612" END="1615">BITS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Background Intelligent Transfer Service">
+              <charseq START="1571" END="1609">Background Intelligent Transfer Service</charseq>
+          </name>
+          <name NAME="BITS">
+              <charseq START="1612" END="1615">BITS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E10-M1210">
+          <extent>
+              <charseq START="1640" END="1663">Error Reporting Services</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1663">Error Reporting Services</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Error Reporting Services">
+              <charseq START="1640" END="1663">Error Reporting Services</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E11-M1300">
+          <extent>
+              <charseq START="1693" END="1710">Domain controllers</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1710">controllers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E12-M1400">
+          <extent>
+              <charseq START="1747" END="1760">System network</charseq>
+          </extent>
+          <head>
+              <charseq START="1754" END="1760">network</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E13-M1505">
+          <extent>
+              <charseq START="1838" END="1857">Windows Task Manager</charseq>
+          </extent>
+          <head>
+              <charseq START="1851" END="1857">Manager</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E14-M1710">
+          <extent>
+              <charseq START="2069" END="2074">ADMIN$</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2074">ADMIN$</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ADMIN$">
+              <charseq START="2069" END="2074">ADMIN$</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E15-M1800">
+          <extent>
+              <charseq START="2131" END="2155">Impact
+The New York Times</charseq>
+          </extent>
+          <head>
+              <charseq START="2138" END="2155">The New York Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E15-M1801">
+          <extent>
+              <charseq START="2131" END="2136">Impact</charseq>
+          </extent>
+          <head>
+              <charseq START="2131" END="2136">Impact</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The New York Times">
+              <charseq START="2138" END="2155">The New York Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E16-M1808">
+          <extent>
+              <charseq START="2231" END="2238">Guardian</charseq>
+          </extent>
+          <head>
+              <charseq START="2231" END="2238">Guardian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guardian">
+              <charseq START="2231" END="2238">Guardian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E17-M1904">
+          <extent>
+              <charseq START="2322" END="2329">F-Secure</charseq>
+          </extent>
+          <head>
+              <charseq START="2322" END="2329">F-Secure</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="F-Secure">
+              <charseq START="2322" END="2329">F-Secure</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E18-M1901">
+          <extent>
+              <charseq START="2296" END="2320">antivirus software vendor</charseq>
+          </extent>
+          <head>
+              <charseq START="2315" END="2320">vendor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E19-M2200">
+          <extent>
+              <charseq START="2701" END="2728">The U.K. Ministry of Defence</charseq>
+          </extent>
+          <head>
+              <charseq START="2705" END="2728">U.K. Ministry of Defence</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Conficker.sentences.sgm-E19-M2206">
+          <extent>
+              <charseq START="2752" END="2754">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2752" END="2754">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.K. Ministry of Defence">
+              <charseq START="2705" END="2728">U.K. Ministry of Defence</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E20-M2302">
+          <extent>
+              <charseq START="2848" END="2855">NavyStar</charseq>
+          </extent>
+          <head>
+              <charseq START="2848" END="2855">NavyStar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NavyStar">
+              <charseq START="2848" END="2855">NavyStar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E21-M2305">
+          <extent>
+              <charseq START="2857" END="2858">N*</charseq>
+          </extent>
+          <head>
+              <charseq START="2857" END="2858">N*</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="N*">
+              <charseq START="2857" END="2858">N*</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E22-M2308">
+          <extent>
+              <charseq START="2884" END="2893">Royal Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="2884" END="2893">Royal Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E22-M2310">
+          <extent>
+              <charseq START="2908" END="2917">Royal Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="2908" END="2917">Royal Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Navy">
+              <charseq START="2884" END="2893">Royal Navy</charseq>
+          </name>
+          <name NAME="Royal Navy">
+              <charseq START="2908" END="2917">Royal Navy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E23-M2315" ROLE="GPE">
+          <extent>
+              <charseq START="2964" END="2972">Sheffield</charseq>
+          </extent>
+          <head>
+              <charseq START="2964" END="2972">Sheffield</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E23-M2313" ROLE="LOC">
+          <extent>
+              <charseq START="2952" END="2972">the city of Sheffield</charseq>
+          </extent>
+          <head>
+              <charseq START="2956" END="2959">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sheffield">
+              <charseq START="2964" END="2972">Sheffield</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E24-M2301">
+          <extent>
+              <charseq START="2824" END="2845">administrative offices</charseq>
+          </extent>
+          <head>
+              <charseq START="2839" END="2845">offices</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E25" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E25-M2307">
+          <extent>
+              <charseq START="2876" END="2902">various Royal Navy warships</charseq>
+          </extent>
+          <head>
+              <charseq START="2895" END="2902">warships</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E26" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E26-M2309">
+          <extent>
+              <charseq START="2908" END="2928">Royal Navy submarines</charseq>
+          </extent>
+          <head>
+              <charseq START="2919" END="2928">submarines</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E27-M2311">
+          <extent>
+              <charseq START="2935" END="2972">Hospitals across the city of Sheffield</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2943">Hospitals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E28-M2400">
+          <extent>
+              <charseq START="3016" END="3022">Experts</charseq>
+          </extent>
+          <head>
+              <charseq START="3016" END="3022">Experts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E29-M2603">
+          <extent>
+              <charseq START="3230" END="3237">Symantec</charseq>
+          </extent>
+          <head>
+              <charseq START="3230" END="3237">Symantec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Symantec">
+              <charseq START="3230" END="3237">Symantec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E30-M2604">
+          <extent>
+              <charseq START="3243" END="3255">Kaspersky Lab</charseq>
+          </extent>
+          <head>
+              <charseq START="3243" END="3255">Kaspersky Lab</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kaspersky Lab">
+              <charseq START="3243" END="3255">Kaspersky Lab</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E31-M2703">
+          <extent>
+              <charseq START="3289" END="3291">USB</charseq>
+          </extent>
+          <head>
+              <charseq START="3289" END="3291">USB</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="USB">
+              <charseq START="3289" END="3291">USB</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E32-M2705">
+          <extent>
+              <charseq START="3313" END="3319">AutoRun</charseq>
+          </extent>
+          <head>
+              <charseq START="3313" END="3319">AutoRun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E32-M2708">
+          <extent>
+              <charseq START="3336" END="3342">AutoRun</charseq>
+          </extent>
+          <head>
+              <charseq START="3336" END="3342">AutoRun</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AutoRun">
+              <charseq START="3313" END="3319">AutoRun</charseq>
+          </name>
+          <name NAME="AutoRun">
+              <charseq START="3336" END="3342">AutoRun</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E33-M2709">
+          <extent>
+              <charseq START="3356" END="3369">external media</charseq>
+          </extent>
+          <head>
+              <charseq START="3365" END="3369">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Conficker.sentences.sgm-E34-M2710">
+          <extent>
+              <charseq START="3389" END="3408">the Windows Registry</charseq>
+          </extent>
+          <head>
+              <charseq START="3401" END="3408">Registry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Conficker.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Conficker.sentences.sgm-E35-M2809">
+          <extent>
+              <charseq START="3535" END="3539">Vista</charseq>
+          </extent>
+          <head>
+              <charseq START="3535" END="3539">Vista</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vista">
+              <charseq START="3535" END="3539">Vista</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Conficker.sentences.sgm-T0" VAL="2008-10">
+        <timex2_mention ID="Conficker.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="104" END="115">October 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T1" VAL="2000">
+        <timex2_mention ID="Conficker.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="256" END="259">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T2" VAL="2003">
+        <timex2_mention ID="Conficker.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="304" END="307">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T3" VAL="2008">
+        <timex2_mention ID="Conficker.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="328" END="331">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T4" VAL="2009-01-22">
+        <timex2_mention ID="Conficker.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="2204" END="2218">22 January 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T5" VAL="2009-01-16">
+        <timex2_mention ID="Conficker.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="2279" END="2293">16 January 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T6" VAL="2009-01-26">
+        <timex2_mention ID="Conficker.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2396" END="2410">January 26 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Conficker.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2518" END="2529">recent times</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Conficker.sentences.sgm-V8" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Conficker.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="2603" END="2612">30 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Conficker.sentences.sgm-T9" VAL="2008-10">
+        <timex2_mention ID="Conficker.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2687" END="2698">October 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T10" VAL="2008-10-15">
+        <timex2_mention ID="Conficker.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3117" END="3131">15 October 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T11" VAL="2000">
+        <timex2_mention ID="Conficker.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3522" END="3525">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Conficker.sentences.sgm-T12" VAL="2000">
+        <timex2_mention ID="Conficker.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3641" END="3644">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Conficker.sentences.sgm-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Conficker.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Conficker.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Conficker.sentences.sgm-R0-M2300">
+          <extent>
+              <charseq START="2884" END="2893">Royal Navy</charseq>
+          </extent>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E22-M2308" ROLE="Arg-1">
+            <extent>
+              <charseq START="2884" END="2893">Royal Navy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E25-M2307" ROLE="Arg-2">
+            <extent>
+              <charseq START="2876" END="2902">various Royal Navy warships</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Conficker.sentences.sgm-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Conficker.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Conficker.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Conficker.sentences.sgm-R1-M2301">
+          <extent>
+              <charseq START="2908" END="2917">Royal Navy</charseq>
+          </extent>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E22-M2310" ROLE="Arg-1">
+            <extent>
+              <charseq START="2908" END="2917">Royal Navy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E26-M2309" ROLE="Arg-2">
+            <extent>
+              <charseq START="2908" END="2928">Royal Navy submarines</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Conficker.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Conficker.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Conficker.sentences.sgm-E23" ROLE="Arg-2"/>
+        <relation_mention ID="Conficker.sentences.sgm-R2-M2302">
+          <extent>
+              <charseq START="2935" END="2972">Hospitals across the city of Sheffield</charseq>
+          </extent>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E27-M2311" ROLE="Arg-1">
+            <extent>
+              <charseq START="2935" END="2972">Hospitals across the city of Sheffield</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Conficker.sentences.sgm-E23-M2313" ROLE="Arg-2">
+            <extent>
+              <charseq START="2952" END="2972">the city of Sheffield</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Conficker.sentences.sgm-EV0" TYPE="Justice" SUBTYPE="Execute" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Conficker.sentences.sgm-E0" ROLE="Person"/>
+      <event_mention ID="Conficker.sentences.sgm-EV0-M801">
+          <extent>
+              <charseq START="968" END="975">executed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="968" END="975">executed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Conficker.sentences.sgm-E0-M801" ROLE="Person">
+          <extent>
+              <charseq START="992" END="1000">Conficker</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Conficker.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Conficker.sentences.sgm-EV1-M1701">
+          <extent>
+              <charseq START="2004" END="2009">attack</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2004" END="2009">attack</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

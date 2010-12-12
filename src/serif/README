@@ -1,34 +1,38 @@
 Overview
-
+========
 Scripts for processing SERIF output files to describe events.
 
 serif.py
+--------
 	The main module for processing SERIF output files.
 	The other scripts import this module to do various process.
 
 batch_pick_recent_dates.sh
-
+--------------------------
 	Process through the given directory and print the temporal expression in each file that is closest to the given date.
 	Call the pick_recent_date.py script to process each file.
 
-    Usage: batch_pick_recent_dates.sh /path/to/directory/ YYYY-MM-DD
+    Usage: batch_pick_recent_dates.sh input_dir YYYY-MM-DD output_dir
 
-	/path/to/directory/
+	input_dir
 		The directory that contains the .sgm and .apf files. Both files should exist to be processed correctly.
 	
 	YYYY-MM-DD
 		The date on which the retrieved article are based on.
 		The temporal expressions in the articles that are closest to this date will be seleceted.
 	
+	output_dir
+		The directory that the best sentences are written as files.
+	
 	Output:
-	Each line contains 2 fields: the title of the article, and the sentence selected from the article, separated by the tab (\t) character.
-	The output is written in the standard output.
-4chan	Boxxy is the online name of a young woman who in January 2009 became the subject of debate on various websites, including 4chan, because of her YouTube videos.
-81st_Academy_Awards	The nominees for the 81st Academy Awards were announced  live on Thursday, January 22, 2009, at 5:38 a.m. PST (13:38 UTC) by Academy of Motion Picture Arts and Sciences president Sid Ganis and Oscar-winning actor Forest Whitaker at the Samuel Goldwyn Theater in the Academy's Beverly Hills headquarters.
-...
+
+	Into each file in output_dir, the best sentence for the file is written.
+	The output files have names of the title of the articles followed by .sentences. e.g.)
+		81st_Academy_Awards.sentences:
+		The nominees for the 81st Academy Awards were announced  live on Thursday, January 22, 2009, at 5:38 a.m. PST (13:38 UTC) by Academy of Motion Picture Arts and Sciences president Sid Ganis and Oscar-winning actor Forest Whitaker at the Samuel Goldwyn Theater in the Academy's Beverly Hills headquarters.
 	
 check_date_form.py
-
+------------------
 	Print all the date and time expressions in the given files.
 
 	Usage: check_date_form.py [sgm] [apf]
@@ -40,16 +44,21 @@ check_date_form.py
 		the .apf file
 
 extract_dates.py
-
-	Print 
+----------------
 	Extracts the sentences that have temporal expressions
 	by looking at the corresponding APF file.
 
-extract_entities.py
+	Usage: extract_dates.py [sgm] [apf]
 
+extract_entities.py
+-------------------
+	Extracts the named entities and their mentions
+	by looking at the corresponding APF file.
+
+	extract_entities.py [sgm] [apf]
 
 pick_from_clusters.py
-
+---------------------
 	Pick the best sentence that describes each cluster, and that contains the most recent dates.
 
 	Usage: pick_from_clusters.py [YYYY-MM-DD] [/path/to/cluster/file] [/path/to/apf/directory/]
@@ -66,9 +75,10 @@ pick_from_clusters.py
 		The path to the directory that contains the SERIF output files.
 
 pick_recent_date.py
-
+-------------------
 	For the given SERIF files, print the temporal expression that is closest to the given date.
 	Called by the batch_pick_recent_dates.sh script.
+	Print the line number of the selected sentence.
 
 	Usage: pick_recent_date.py [date] [sgm] [apf]
 
@@ -81,3 +91,5 @@ pick_recent_date.py
 	[apf]
 		the .apf file
 
+	Output: Written into the standard output.
+		The line number of the selected sentence and the sentence separated by a space.

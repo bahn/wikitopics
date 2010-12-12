@@ -1,0 +1,1194 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="List_of_Presidents_of_the_United_States_by_age.sentences.sgm">
+  <document DOCID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm">
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M5" ROLE="GPE">
+          <extent>
+              <charseq START="81" END="93">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="93">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M103" ROLE="GPE">
+          <extent>
+              <charseq START="150" END="162">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="150" END="162">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M1803" ROLE="GPE">
+          <extent>
+              <charseq START="2150" END="2173">United States of America</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2173">United States of America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M1812" ROLE="GPE">
+          <extent>
+              <charseq START="2278" END="2294">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2282" END="2294">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M2006" ROLE="GPE">
+          <extent>
+              <charseq START="2357" END="2373">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2361" END="2373">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M2201" ROLE="LOC">
+          <extent>
+              <charseq START="2402" END="2414">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2402" END="2414">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="81" END="93">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="150" END="162">United States</charseq>
+          </name>
+          <name NAME="United States of America">
+              <charseq START="2150" END="2173">United States of America</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="2282" END="2294">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="2361" END="2373">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="2402" END="2414">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M3">
+          <extent>
+              <charseq START="81" END="111">United States Presidents by age</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="104">Presidents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M102">
+          <extent>
+              <charseq START="150" END="173">United States Presidents</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="173">Presidents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M1802">
+          <extent>
+              <charseq START="2150" END="2184">United States of America Presidents</charseq>
+          </extent>
+          <head>
+              <charseq START="2175" END="2184">Presidents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M1810">
+          <extent>
+              <charseq START="2259" END="2295">&quot;The Presidents of the United States&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2264" END="2273">Presidents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M2004">
+          <extent>
+              <charseq START="2343" END="2374">Presidents of the United States&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2343" END="2352">Presidents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2-M205">
+          <extent>
+              <charseq START="317" END="327">a president</charseq>
+          </extent>
+          <head>
+              <charseq START="319" END="327">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2-M311">
+          <extent>
+              <charseq START="495" END="508">each President</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="508">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2-M424">
+          <extent>
+              <charseq START="718" END="730">the President</charseq>
+          </extent>
+          <head>
+              <charseq START="722" END="730">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2-M430">
+          <extent>
+              <charseq START="793" END="795">his</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="795">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E3-M508">
+          <extent>
+              <charseq START="887" END="900">George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="887" END="900">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E3-M1105">
+          <extent>
+              <charseq START="1410" END="1492">George H. W. Bush, who will surpass Reagan if he is still alive on October 11, 2017</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1426">George H. W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E3-M1107">
+          <extent>
+              <charseq START="1429" END="1431">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1429" END="1431">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E3-M1109">
+          <extent>
+              <charseq START="1456" END="1457">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1457">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George W. Bush">
+              <charseq START="887" END="900">George W. Bush</charseq>
+          </name>
+          <name NAME="George H. W. Bush">
+              <charseq START="1410" END="1426">George H. W. Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E4-M509">
+          <extent>
+              <charseq START="922" END="935">Herbert Hoover</charseq>
+          </extent>
+          <head>
+              <charseq START="922" END="935">Herbert Hoover</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Herbert Hoover">
+              <charseq START="922" END="935">Herbert Hoover</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M603">
+          <extent>
+              <charseq START="990" END="1004">John F. Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="1004">John F. Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M600">
+          <extent>
+              <charseq START="945" END="984">The youngest president elected to office</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="966">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1201">
+          <extent>
+              <charseq START="1528" END="1542">John F. Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1528" END="1542">John F. Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1200">
+          <extent>
+              <charseq START="1495" END="1522">The shortest-lived president</charseq>
+          </extent>
+          <head>
+              <charseq START="1514" END="1522">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1202">
+          <extent>
+              <charseq START="1545" END="1547">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1547">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1300">
+          <extent>
+              <charseq START="1591" END="1597">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1591" END="1597">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1404">
+          <extent>
+              <charseq START="1709" END="1735">Kennedy by another 177 days</charseq>
+          </extent>
+          <head>
+              <charseq START="1709" END="1715">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1702">
+          <extent>
+              <charseq START="1969" END="1983">John F. Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1969" END="1983">John F. Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John F. Kennedy">
+              <charseq START="990" END="1004">John F. Kennedy</charseq>
+          </name>
+          <name NAME="John F. Kennedy">
+              <charseq START="1528" END="1542">John F. Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="1591" END="1597">Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="1709" END="1715">Kennedy</charseq>
+          </name>
+          <name NAME="John F. Kennedy">
+              <charseq START="1969" END="1983">John F. Kennedy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6-M703">
+          <extent>
+              <charseq START="1054" END="1151">Theodore Roosevelt, who was elevated to the Oval Office following William McKinley&apos;s assassination</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1071">Theodore Roosevelt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6-M700">
+          <extent>
+              <charseq START="1007" END="1048">The youngest to assume office by any means</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1018">youngest</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6-M705">
+          <extent>
+              <charseq START="1074" END="1076">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1074" END="1076">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6-M1701">
+          <extent>
+              <charseq START="1949" END="1966">Theodore Roosevelt</charseq>
+          </extent>
+          <head>
+              <charseq START="1949" END="1966">Theodore Roosevelt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Theodore Roosevelt">
+              <charseq START="1054" END="1071">Theodore Roosevelt</charseq>
+          </name>
+          <name NAME="Theodore Roosevelt">
+              <charseq START="1949" END="1966">Theodore Roosevelt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E7" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E7-M706">
+          <extent>
+              <charseq START="1094" END="1108">the Oval Office</charseq>
+          </extent>
+          <head>
+              <charseq START="1098" END="1108">Oval Office</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oval Office">
+              <charseq START="1098" END="1108">Oval Office</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E8-M709">
+          <extent>
+              <charseq START="1120" END="1135">William McKinley</charseq>
+          </extent>
+          <head>
+              <charseq START="1120" END="1135">William McKinley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William McKinley">
+              <charseq START="1120" END="1135">William McKinley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9-M803">
+          <extent>
+              <charseq START="1196" END="1208">Ronald Reagan</charseq>
+          </extent>
+          <head>
+              <charseq START="1196" END="1208">Ronald Reagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9-M800">
+          <extent>
+              <charseq START="1154" END="1190">The oldest president to assume office</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1173">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9-M1000">
+          <extent>
+              <charseq START="1302" END="1314">Ronald Reagan</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1314">Ronald Reagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9-M1108">
+          <extent>
+              <charseq START="1446" END="1451">Reagan</charseq>
+          </extent>
+          <head>
+              <charseq START="1446" END="1451">Reagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ronald Reagan">
+              <charseq START="1196" END="1208">Ronald Reagan</charseq>
+          </name>
+          <name NAME="Ronald Reagan">
+              <charseq START="1302" END="1314">Ronald Reagan</charseq>
+          </name>
+          <name NAME="Reagan">
+              <charseq START="1446" END="1451">Reagan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M901">
+          <extent>
+              <charseq START="1243" END="1299">Gerald Ford, who died at the age of 93 years and 165 days</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1253">Gerald Ford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M900">
+          <extent>
+              <charseq START="1211" END="1237">The longest-lived president</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1237">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M903">
+          <extent>
+              <charseq START="1256" END="1258">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1256" END="1258">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1003">
+          <extent>
+              <charseq START="1368" END="1371">Ford</charseq>
+          </extent>
+          <head>
+              <charseq START="1368" END="1371">Ford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1303">
+          <extent>
+              <charseq START="1629" END="1639">Gerald Ford</charseq>
+          </extent>
+          <head>
+              <charseq START="1629" END="1639">Gerald Ford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1304">
+          <extent>
+              <charseq START="1642" END="1668">the longest-lived president</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1668">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1401">
+          <extent>
+              <charseq START="1671" END="1674">Ford</charseq>
+          </extent>
+          <head>
+              <charseq START="1671" END="1674">Ford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1501">
+          <extent>
+              <charseq START="1763" END="1791">president on November 4, 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="1763" END="1771">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1604">
+          <extent>
+              <charseq START="1827" END="1829">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1827" END="1829">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M1605">
+          <extent>
+              <charseq START="1845" END="1846">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1845" END="1846">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M2202">
+          <extent>
+              <charseq START="2417" END="2436">Presidents
+Longevity</charseq>
+          </extent>
+          <head>
+              <charseq START="2417" END="2436">Presidents
+Longevity</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gerald Ford">
+              <charseq START="1243" END="1253">Gerald Ford</charseq>
+          </name>
+          <name NAME="Ford">
+              <charseq START="1368" END="1371">Ford</charseq>
+          </name>
+          <name NAME="Gerald Ford">
+              <charseq START="1629" END="1639">Gerald Ford</charseq>
+          </name>
+          <name NAME="Ford">
+              <charseq START="1671" END="1674">Ford</charseq>
+          </name>
+          <name NAME="Presidents
+Longevity">
+              <charseq START="2417" END="2436">Presidents
+Longevity</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11-M1500">
+          <extent>
+              <charseq START="1738" END="1749">Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1738" END="1749">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11-M1607">
+          <extent>
+              <charseq START="1855" END="1907">the fifth-youngest person to ascend to the Presidency</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1879">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11-M1706">
+          <extent>
+              <charseq START="2054" END="2058">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2054" END="2058">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="1738" END="1749">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2054" END="2058">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E12-M1703">
+          <extent>
+              <charseq START="1986" END="1997">Bill Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1986" END="1997">Bill Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bill Clinton">
+              <charseq START="1986" END="1997">Bill Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E13-M1704">
+          <extent>
+              <charseq START="2003" END="2018">Ulysses S. Grant</charseq>
+          </extent>
+          <head>
+              <charseq START="2003" END="2018">Ulysses S. Grant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ulysses S. Grant">
+              <charseq START="2003" END="2018">Ulysses S. Grant</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E14-M1712">
+          <extent>
+              <charseq START="2095" END="2110">Grover Cleveland</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2110">Grover Cleveland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grover Cleveland">
+              <charseq START="2095" END="2110">Grover Cleveland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E15-M1808">
+          <extent>
+              <charseq START="2225" END="2237">Frank Freidel</charseq>
+          </extent>
+          <head>
+              <charseq START="2225" END="2237">Frank Freidel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frank Freidel">
+              <charseq START="2225" END="2237">Frank Freidel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E16-M1809">
+          <extent>
+              <charseq START="2243" END="2255">Hugh S. Sidey</charseq>
+          </extent>
+          <head>
+              <charseq START="2243" END="2255">Hugh S. Sidey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hugh S. Sidey">
+              <charseq START="2243" END="2255">Hugh S. Sidey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E17-M1900">
+          <extent>
+              <charseq START="2298" END="2312">The White House</charseq>
+          </extent>
+          <head>
+              <charseq START="2302" END="2312">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="2302" END="2312">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E18-M2001">
+          <extent>
+              <charseq START="2315" END="2331">Robert S. Summers</charseq>
+          </extent>
+          <head>
+              <charseq START="2315" END="2331">Robert S. Summers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert S. Summers">
+              <charseq START="2315" END="2331">Robert S. Summers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E19-M2100">
+          <extent>
+              <charseq START="2377" END="2399">Internet Public Library</charseq>
+          </extent>
+          <head>
+              <charseq START="2377" END="2399">Internet Public Library</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Internet Public Library">
+              <charseq START="2377" END="2399">Internet Public Library</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T0">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="309" END="315">the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T1">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="349" END="371">the day of the election</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T2" VAL="PXD">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="461" END="464">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T3" VAL="PXD">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="531" END="588">the number of days between date of birth and date of death</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T4" VAL="PXD">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="609" END="612">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T5" VAL="PXY">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="630" END="716">the same period given in years
+and days, with the years being the number of whole years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T6" VAL="PXD">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="743" END="809">the days being the remaining number of days after his last birthday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T7">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="903" END="915">22nd youngest</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T8" VAL="P93Y">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1268" END="1286">the age of 93 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T9" VAL="P165D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1292" END="1299">165 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T10" VAL="P45D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1351" END="1357">45 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T11" VAL="2017-10-11">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1477" END="1492">October 11, 2017</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T12" VAL="P46Y">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1557" END="1575">the age of 46 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T13" VAL="P177D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1581" END="1588">177 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T14" VAL="P1415D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1613" END="1639">1415 days after Gerald Ford</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T15" VAL="P177D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="1728" END="1735">177 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T16" VAL="2008-11-04">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="1776" END="1791">November 4, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T17" VAL="2009-01-20">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="1797" END="1812">January 20, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T18" VAL="P16D">
+        <timex2_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="1913" END="1946">47 years, 5 months and 16 days old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V19" TYPE="Job-Title">
+        <value_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V19-M1">
+            <extent>
+              <charseq START="317" END="327">a president</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V20" TYPE="Job-Title">
+        <value_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V20-M1">
+            <extent>
+              <charseq START="979" END="984">office</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V21" TYPE="Job-Title">
+        <value_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V21-M1">
+            <extent>
+              <charseq START="1154" END="1190">The oldest president to assume office</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="81" END="111">United States Presidents by age</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="81" END="111">United States Presidents by age</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="81" END="93">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="150" END="173">United States Presidents</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M102" ROLE="Arg-1">
+            <extent>
+              <charseq START="150" END="173">United States Presidents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M103" ROLE="Arg-2">
+            <extent>
+              <charseq START="150" END="162">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0-M1800">
+          <extent>
+              <charseq START="2150" END="2184">United States of America Presidents</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M1802" ROLE="Arg-1">
+            <extent>
+              <charseq START="2150" END="2184">United States of America Presidents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M1803" ROLE="Arg-2">
+            <extent>
+              <charseq START="2150" END="2173">United States of America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0-M1801">
+          <extent>
+              <charseq START="2259" END="2295">&quot;The Presidents of the United States&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M1810" ROLE="Arg-1">
+            <extent>
+              <charseq START="2259" END="2295">&quot;The Presidents of the United States&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M1812" ROLE="Arg-2">
+            <extent>
+              <charseq START="2278" END="2294">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-R0-M2000">
+          <extent>
+              <charseq START="2343" END="2374">Presidents of the United States&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E1-M2004" ROLE="Arg-1">
+            <extent>
+              <charseq START="2343" END="2374">Presidents of the United States&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E0-M2006" ROLE="Arg-2">
+            <extent>
+              <charseq START="2357" END="2373">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV0-M100">
+          <extent>
+              <charseq START="209" END="213">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="209" END="213">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV0-M400">
+          <extent>
+              <charseq START="566" END="570">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="566" END="570">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2" ROLE="Person"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V19" ROLE="Position"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV1-M200">
+          <extent>
+              <charseq START="329" END="335">assumed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="329" END="335">assumed</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E2-M205" ROLE="Person">
+          <extent>
+              <charseq START="317" END="327">a president</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V19-M1" ROLE="Position">
+            <extent>
+              <charseq START="317" END="327">a president</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV2-M202">
+          <extent>
+              <charseq START="364" END="371">election</charseq>
+          </extent>
+          <anchor>
+              <charseq START="364" END="371">election</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T4" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV3-M401">
+          <extent>
+              <charseq START="584" END="588">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="584" END="588">death</charseq>
+          </anchor>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T4-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="609" END="612">days</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV4" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5" ROLE="Person"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V20" ROLE="Position"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV4-M601">
+          <extent>
+              <charseq START="968" END="974">elected</charseq>
+          </extent>
+          <anchor>
+              <charseq START="968" END="974">elected</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M600" ROLE="Person">
+          <extent>
+              <charseq START="945" END="984">The youngest president elected to office</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V20-M1" ROLE="Position">
+            <extent>
+              <charseq START="979" END="984">office</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6" ROLE="Person"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV5-M700">
+          <extent>
+              <charseq START="1023" END="1028">assume</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1023" END="1028">assume</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E6-M700" ROLE="Person">
+          <extent>
+              <charseq START="1007" END="1048">The youngest to assume office by any means</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E8" ROLE="Victim"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E7" ROLE="Place"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV6-M702">
+          <extent>
+              <charseq START="1139" END="1151">assassination</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1139" END="1151">assassination</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E8-M709" ROLE="Victim">
+          <extent>
+              <charseq START="1120" END="1135">William McKinley</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E7-M706" ROLE="Place">
+          <extent>
+              <charseq START="1094" END="1108">the Oval Office</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV7" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9" ROLE="Person"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V21" ROLE="Position"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV7-M800">
+          <extent>
+              <charseq START="1178" END="1183">assume</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1178" END="1183">assume</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E9-M800" ROLE="Person">
+          <extent>
+              <charseq START="1154" END="1190">The oldest president to assume office</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-V21-M1" ROLE="Position">
+            <extent>
+              <charseq START="1154" END="1190">The oldest president to assume office</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10" ROLE="Victim"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T9" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV8-M901">
+          <extent>
+              <charseq START="1260" END="1263">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1260" END="1263">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E10-M903" ROLE="Victim">
+          <extent>
+              <charseq START="1256" END="1258">who</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T9-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1292" END="1299">165 days</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5" ROLE="Victim"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T13" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV9-M1201">
+          <extent>
+              <charseq START="1549" END="1552">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1549" END="1552">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1202" ROLE="Victim">
+          <extent>
+              <charseq START="1545" END="1547">who</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T13-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1581" END="1588">177 days</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV10" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5" ROLE="Person"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV10-M1301">
+          <extent>
+              <charseq START="1603" END="1606">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1603" END="1606">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E5-M1300" ROLE="Person">
+          <extent>
+              <charseq START="1591" END="1597">Kennedy</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV11" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11" ROLE="Person"/>
+      <event_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T16" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-EV11-M1501">
+          <extent>
+              <charseq START="1755" END="1761">elected</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1755" END="1761">elected</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-E11-M1500" ROLE="Person">
+          <extent>
+              <charseq START="1738" END="1749">Barack Obama</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Presidents_of_the_United_States_by_age.sentences.sgm-T16-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1776" END="1791">November 4, 2008</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

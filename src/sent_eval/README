@@ -1,0 +1,29 @@
+The scripts for processing sentences and evaluating sentences.
+
+number_sents.py
+---------------
+The script to number each sentence in the article.
+
+Usage: number_sents.py /path/to/articles/ /path/to/sents/ /output/path/
+	e.g. ./number_sents.py $WT_HOME/data/clustering/articles/2009-01-27 
+
+Input:
+	/path/to/articles/
+		the path to the original texts of the articles. e.g. $WT_HOME/data/clustering/articles/2009-01-27
+	/path/to/sents/
+		the path to the sentences file to number. e.g. $WT_HOME/data/clustering/sentence-selection-ben/2009-01-27
+	/output/path/
+		the path to the numbered sentences file to output. e.g. $WT_HOME/data/clustering/sent_eval/ben/2009-01-27
+
+Run:
+	* 2010-12-11
+	./number_sents.py /Users/bahn/work/wikitopics/data/clustering/sent/ben/2009-01-27/ /Users/bahn/work/wikitopics/data/clustering/articles/2009-01-27/ /Users/bahn/work/wikitopics/data/clustering/sent_eval/ben/
+
+	The /Users/bahn/work/wikitopics/data/clustering/sent_eval/ben/George_W._Bush.sentences file was manually modified
+	because the script could not find the line number of the first line.
+
+eval_sents.py
+-------------
+The script to evaluation sentence selection against gold standard.
+
+Usage: eval_sents.py test_dir gold_standard_dir

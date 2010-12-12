@@ -1,0 +1,1694 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Pseudomonas_aeruginosa.sentences.sgm">
+  <document DOCID="Pseudomonas_aeruginosa.sentences.sgm">
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E0" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E0-M8">
+          <extent>
+              <charseq START="131" END="136">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="136">humans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E1" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E1-M107">
+          <extent>
+              <charseq START="205" END="213">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="209" END="213">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E2-M312">
+          <extent>
+              <charseq START="482" END="487">people</charseq>
+          </extent>
+          <head>
+              <charseq START="482" END="487">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E3" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E3-M606">
+          <extent>
+              <charseq START="807" END="815">catheters</charseq>
+          </extent>
+          <head>
+              <charseq START="807" END="815">catheters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E4-M610">
+          <extent>
+              <charseq START="846" END="854">hospitals</charseq>
+          </extent>
+          <head>
+              <charseq START="846" END="854">hospitals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E5-M611">
+          <extent>
+              <charseq START="860" END="866">clinics</charseq>
+          </extent>
+          <head>
+              <charseq START="860" END="866">clinics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M902">
+          <extent>
+              <charseq START="1116" END="1128">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1116" END="1128">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1000">
+          <extent>
+              <charseq START="1175" END="1187">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1187">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1100">
+          <extent>
+              <charseq START="1249" END="1261">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1249" END="1261">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1300">
+          <extent>
+              <charseq START="1626" END="1638">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1638">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1403">
+          <extent>
+              <charseq START="1790" END="1791">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="1790" END="1791">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1500">
+          <extent>
+              <charseq START="1921" END="1933">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1933">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1701">
+          <extent>
+              <charseq START="2227" END="2239">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2239">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M1905">
+          <extent>
+              <charseq START="2653" END="2666">P. aeruginosa,</charseq>
+          </extent>
+          <head>
+              <charseq START="2653" END="2665">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M2404">
+          <extent>
+              <charseq START="3375" END="3491">P. aeruginosa, pyocyanin (blue) and pyoverdine (yellow), which impart the blue-green characteristic color of cultures</charseq>
+          </extent>
+          <head>
+              <charseq START="3375" END="3387">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M3004">
+          <extent>
+              <charseq START="4135" END="4136">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="4135" END="4136">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M3413">
+          <extent>
+              <charseq START="4973" END="4974">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="4973" END="4974">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M4606">
+          <extent>
+              <charseq START="7060" END="7061">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="7060" END="7061">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M5300">
+          <extent>
+              <charseq START="7876" END="7888">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="7876" END="7888">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M5700">
+          <extent>
+              <charseq START="8247" END="8259">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="8247" END="8259">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M6806">
+          <extent>
+              <charseq START="9575" END="9596">Pseudomonas aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="9575" END="9596">Pseudomonas aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M7200">
+          <extent>
+              <charseq START="9949" END="9970">Pseudomonas aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="9949" END="9970">Pseudomonas aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M7319">
+          <extent>
+              <charseq START="10328" END="10349">Pseudomonas aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="10328" END="10349">Pseudomonas aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M7300">
+          <extent>
+              <charseq START="10087" END="10097">Researchers</charseq>
+          </extent>
+          <head>
+              <charseq START="10087" END="10097">Researchers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M7902">
+          <extent>
+              <charseq START="11034" END="11046">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="11034" END="11046">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M8100">
+          <extent>
+              <charseq START="11211" END="11223">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="11211" END="11223">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M8800">
+          <extent>
+              <charseq START="12038" END="12050">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="12038" END="12050">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9106">
+          <extent>
+              <charseq START="12586" END="12587">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="12586" END="12587">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9209">
+          <extent>
+              <charseq START="13306" END="13307">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="13306" END="13307">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9413">
+          <extent>
+              <charseq START="13601" END="13644">Antibiotic resistance
+Pseudomonas aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="13623" END="13644">Pseudomonas aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9414">
+          <extent>
+              <charseq START="13612" END="13621">resistance</charseq>
+          </extent>
+          <head>
+              <charseq START="13612" END="13621">resistance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9504">
+          <extent>
+              <charseq START="13736" END="13748">P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="13736" END="13748">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9704">
+          <extent>
+              <charseq START="14035" END="14036">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="14035" END="14036">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M9805">
+          <extent>
+              <charseq START="14248" END="14249">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="14248" END="14249">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M10012">
+          <extent>
+              <charseq START="14877" END="14878">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="14877" END="14878">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M10117">
+          <extent>
+              <charseq START="15099" END="15120">possibly P. aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="15108" END="15120">P. aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E6-M10307">
+          <extent>
+              <charseq START="15417" END="15438">Pseudomonas aeruginosa</charseq>
+          </extent>
+          <head>
+              <charseq START="15417" END="15438">Pseudomonas aeruginosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="P. aeruginosa">
+              <charseq START="1116" END="1128">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="1175" END="1187">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="1249" END="1261">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="1626" END="1638">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="1790" END="1791">P.</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="1921" END="1933">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="2227" END="2239">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="2653" END="2665">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="3375" END="3387">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="4135" END="4136">P.</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="4973" END="4974">P.</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="7060" END="7061">P.</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="7876" END="7888">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="8247" END="8259">P. aeruginosa</charseq>
+          </name>
+          <name NAME="Pseudomonas aeruginosa">
+              <charseq START="9575" END="9596">Pseudomonas aeruginosa</charseq>
+          </name>
+          <name NAME="Pseudomonas aeruginosa">
+              <charseq START="9949" END="9970">Pseudomonas aeruginosa</charseq>
+          </name>
+          <name NAME="Pseudomonas aeruginosa">
+              <charseq START="10328" END="10349">Pseudomonas aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="11034" END="11046">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="11211" END="11223">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="12038" END="12050">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="12586" END="12587">P.</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="13306" END="13307">P.</charseq>
+          </name>
+          <name NAME="Pseudomonas aeruginosa">
+              <charseq START="13623" END="13644">Pseudomonas aeruginosa</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="13736" END="13748">P. aeruginosa</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="14035" END="14036">P.</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="14248" END="14249">P.</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="14877" END="14878">P.</charseq>
+          </name>
+          <name NAME="P. aeruginosa">
+              <charseq START="15108" END="15120">P. aeruginosa</charseq>
+          </name>
+          <name NAME="Pseudomonas aeruginosa">
+              <charseq START="15417" END="15438">Pseudomonas aeruginosa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E7" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E7-M905">
+          <extent>
+              <charseq START="1167" END="1172">plants</charseq>
+          </extent>
+          <head>
+              <charseq START="1167" END="1172">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E8-M1201">
+          <extent>
+              <charseq START="1428" END="1431">King</charseq>
+          </extent>
+          <head>
+              <charseq START="1428" END="1431">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="King">
+              <charseq START="1428" END="1431">King</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E9-M1202">
+          <extent>
+              <charseq START="1434" END="1437">Ward</charseq>
+          </extent>
+          <head>
+              <charseq START="1434" END="1437">Ward</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ward">
+              <charseq START="1434" END="1437">Ward</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E10-M1203">
+          <extent>
+              <charseq START="1444" END="1448">Raney</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1448">Raney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raney">
+              <charseq START="1444" END="1448">Raney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M1207">
+          <extent>
+              <charseq START="1460" END="1475">Pseudomonas Agar</charseq>
+          </extent>
+          <head>
+              <charseq START="1460" END="1475">Pseudomonas Agar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M1217">
+          <extent>
+              <charseq START="1550" END="1565">Pseudomonas Agar</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1565">Pseudomonas Agar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M2002">
+          <extent>
+              <charseq START="2855" END="2865">Pseudomonas</charseq>
+          </extent>
+          <head>
+              <charseq START="2855" END="2865">Pseudomonas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M2903">
+          <extent>
+              <charseq START="4021" END="4031">Pseudomonas</charseq>
+          </extent>
+          <head>
+              <charseq START="4021" END="4031">Pseudomonas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M5101">
+          <extent>
+              <charseq START="7776" END="7786">Pseudomonas</charseq>
+          </extent>
+          <head>
+              <charseq START="7776" END="7786">Pseudomonas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E11-M5500">
+          <extent>
+              <charseq START="8071" END="8081">Pseudomonas</charseq>
+          </extent>
+          <head>
+              <charseq START="8071" END="8081">Pseudomonas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pseudomonas Agar">
+              <charseq START="1460" END="1475">Pseudomonas Agar</charseq>
+          </name>
+          <name NAME="Pseudomonas Agar">
+              <charseq START="1550" END="1565">Pseudomonas Agar</charseq>
+          </name>
+          <name NAME="Pseudomonas">
+              <charseq START="2855" END="2865">Pseudomonas</charseq>
+          </name>
+          <name NAME="Pseudomonas">
+              <charseq START="4021" END="4031">Pseudomonas</charseq>
+          </name>
+          <name NAME="Pseudomonas">
+              <charseq START="7776" END="7786">Pseudomonas</charseq>
+          </name>
+          <name NAME="Pseudomonas">
+              <charseq START="8071" END="8081">Pseudomonas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E12-M1220">
+          <extent>
+              <charseq START="1579" END="1579">B</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1579">B</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="B">
+              <charseq START="1579" END="1579">B</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E13-M1218">
+          <extent>
+              <charseq START="1570" END="1585">aka King B media</charseq>
+          </extent>
+          <head>
+              <charseq START="1581" END="1585">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E14-M1702">
+          <extent>
+              <charseq START="2258" END="2287">many as a facultative anaerobe</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2261">many</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E15-M1804">
+          <extent>
+              <charseq START="2438" END="2465">a terminal electron acceptor</charseq>
+          </extent>
+          <head>
+              <charseq START="2458" END="2465">acceptor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E16-M1911">
+          <extent>
+              <charseq START="2706" END="2729">cystic fibrosis patients</charseq>
+          </extent>
+          <head>
+              <charseq START="2722" END="2729">patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E16-M2508">
+          <extent>
+              <charseq START="3612" END="3635">cystic fibrosis patients</charseq>
+          </extent>
+          <head>
+              <charseq START="3628" END="3635">patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E16-M5200">
+          <extent>
+              <charseq START="7789" END="7812">Cystic fibrosis patients</charseq>
+          </extent>
+          <head>
+              <charseq START="7805" END="7812">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E17-M2007" ROLE="GPE">
+          <extent>
+              <charseq START="2894" END="2898">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2898">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E17-M2012" ROLE="LOC">
+          <extent>
+              <charseq START="2949" END="2953">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="2949" END="2953">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E17-M2604" ROLE="GPE">
+          <extent>
+              <charseq START="3697" END="3701">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="3697" END="3701">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greek">
+              <charseq START="2894" END="2898">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="2949" END="2953">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="3697" END="3701">Greek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E18-M2003">
+          <extent>
+              <charseq START="2873" END="2883">false unit,</charseq>
+          </extent>
+          <head>
+              <charseq START="2879" END="2882">unit</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E19-M2008">
+          <extent>
+              <charseq START="2909" END="2913">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="2909" END="2913">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E19-M2705">
+          <extent>
+              <charseq START="3835" END="3843">the Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="3839" END="3843">Greek</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E20-M2014">
+          <extent>
+              <charseq START="2963" END="2976">a single unit)</charseq>
+          </extent>
+          <head>
+              <charseq START="2972" END="2975">unit</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E21-M2108" ROLE="LOC">
+          <extent>
+              <charseq START="3068" END="3081">Kingdom Monera</charseq>
+          </extent>
+          <head>
+              <charseq START="3068" END="3081">Kingdom Monera</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kingdom Monera">
+              <charseq START="3068" END="3081">Kingdom Monera</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E22-M2210">
+          <extent>
+              <charseq START="3192" END="3212">the Statue of Liberty</charseq>
+          </extent>
+          <head>
+              <charseq START="3196" END="3212">Statue of Liberty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Statue of Liberty">
+              <charseq START="3196" END="3212">Statue of Liberty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E23-M2800">
+          <extent>
+              <charseq START="3920" END="3957">Pyoverdine in the absence of pyocyanin</charseq>
+          </extent>
+          <head>
+              <charseq START="3920" END="3929">Pyoverdine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pyoverdine">
+              <charseq START="3920" END="3929">Pyoverdine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E24-M3018">
+          <extent>
+              <charseq START="4327" END="4330">pilA</charseq>
+          </extent>
+          <head>
+              <charseq START="4327" END="4330">pilA</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E25" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E25-M3206">
+          <extent>
+              <charseq START="4580" END="4638">genomic islands of the pKLC102 / PAGI-2 family into tRNALys</charseq>
+          </extent>
+          <head>
+              <charseq START="4588" END="4594">islands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E26-M3209">
+          <extent>
+              <charseq START="4617" END="4625">-2 family</charseq>
+          </extent>
+          <head>
+              <charseq START="4620" END="4625">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E26-M3303">
+          <extent>
+              <charseq START="4691" END="4695">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4691" END="4695">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E26-M3312">
+          <extent>
+              <charseq START="4775" END="4779">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4775" END="4779">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E27" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E27-M3300">
+          <extent>
+              <charseq START="4658" END="4679">The individual islands</charseq>
+          </extent>
+          <head>
+              <charseq START="4673" END="4679">islands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E28-M3500">
+          <extent>
+              <charseq START="4999" END="5026">The P. aeruginosa population</charseq>
+          </extent>
+          <head>
+              <charseq START="5017" END="5026">population</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E28-M3615">
+          <extent>
+              <charseq START="5261" END="5274">the population</charseq>
+          </extent>
+          <head>
+              <charseq START="5265" END="5274">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E29" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E29-M3505">
+          <extent>
+              <charseq START="5084" END="5117">disease and environmental habitats</charseq>
+          </extent>
+          <head>
+              <charseq START="5110" END="5117">habitats</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E30-M4000">
+          <extent>
+              <charseq START="5806" END="5823">Lipopolysaccharide</charseq>
+          </extent>
+          <head>
+              <charseq START="5806" END="5823">Lipopolysaccharide</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lipopolysaccharide">
+              <charseq START="5806" END="5823">Lipopolysaccharide</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E31-M4009">
+          <extent>
+              <charseq START="5964" END="6014">an important mediator of host-pathogen interactions</charseq>
+          </extent>
+          <head>
+              <charseq START="5977" END="5984">mediator</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E32-M4400">
+          <extent>
+              <charseq START="6606" END="6616">Rhamnolipid</charseq>
+          </extent>
+          <head>
+              <charseq START="6606" END="6616">Rhamnolipid</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E32-M4403">
+          <extent>
+              <charseq START="6637" END="6641">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="6637" END="6641">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rhamnolipid">
+              <charseq START="6606" END="6616">Rhamnolipid</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E33-M4508">
+          <extent>
+              <charseq START="6879" END="6892">several groups</charseq>
+          </extent>
+          <head>
+              <charseq START="6887" END="6892">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E34-M4604">
+          <extent>
+              <charseq START="7029" END="7057">immunocompromised individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="7047" END="7057">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E35-M4708">
+          <extent>
+              <charseq START="7275" END="7326">the most frequent colonizer of medical devices (e.g.</charseq>
+          </extent>
+          <head>
+              <charseq START="7293" END="7301">colonizer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E36-M4806">
+          <extent>
+              <charseq START="7476" END="7525">the most common agents isolated in several studies</charseq>
+          </extent>
+          <head>
+              <charseq START="7492" END="7497">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E38-M5505">
+          <extent>
+              <charseq START="8137" END="8170">radial keratotomy surgery patients</charseq>
+          </extent>
+          <head>
+              <charseq START="8163" END="8170">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E39-M5705">
+          <extent>
+              <charseq START="8301" END="8303">ADP</charseq>
+          </extent>
+          <head>
+              <charseq START="8301" END="8303">ADP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ADP">
+              <charseq START="8301" END="8303">ADP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E40-M5709">
+          <extent>
+              <charseq START="8350" END="8362">the host cell</charseq>
+          </extent>
+          <head>
+              <charseq START="8359" END="8362">cell</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E41" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E41-M5711">
+          <extent>
+              <charseq START="8373" END="8392">the diphtheria toxin</charseq>
+          </extent>
+          <head>
+              <charseq START="8388" END="8392">toxin</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E42-M5905">
+          <extent>
+              <charseq START="8559" END="8582">immunocompetent patients</charseq>
+          </extent>
+          <head>
+              <charseq START="8575" END="8582">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E43-M6010">
+          <extent>
+              <charseq START="8668" END="8672">Thale</charseq>
+          </extent>
+          <head>
+              <charseq START="8668" END="8672">Thale</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thale">
+              <charseq START="8668" END="8672">Thale</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E44-M6000" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="8590" END="8595">plants</charseq>
+          </extent>
+          <head>
+              <charseq START="8590" END="8595">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E45-M6104">
+          <extent>
+              <charseq START="8741" END="8751">Arabidopsis</charseq>
+          </extent>
+          <head>
+              <charseq START="8741" END="8751">Arabidopsis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E45-M6200">
+          <extent>
+              <charseq START="8836" END="8872">The associations of virulence factors</charseq>
+          </extent>
+          <head>
+              <charseq START="8840" END="8851">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arabidopsis">
+              <charseq START="8741" END="8751">Arabidopsis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E46-M6400">
+          <extent>
+              <charseq START="9091" END="9092">QS</charseq>
+          </extent>
+          <head>
+              <charseq START="9091" END="9092">QS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E46-M6703">
+          <extent>
+              <charseq START="9431" END="9432">QS</charseq>
+          </extent>
+          <head>
+              <charseq START="9431" END="9432">QS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="QS">
+              <charseq START="9091" END="9092">QS</charseq>
+          </name>
+          <name NAME="QS">
+              <charseq START="9431" END="9432">QS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E47-M6802">
+          <extent>
+              <charseq START="9529" END="9536">Biofilms</charseq>
+          </extent>
+          <head>
+              <charseq START="9529" END="9536">Biofilms</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E47-M6805">
+          <extent>
+              <charseq START="9563" END="9570">Biofilms</charseq>
+          </extent>
+          <head>
+              <charseq START="9563" END="9570">Biofilms</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E47-M7100">
+          <extent>
+              <charseq START="9873" END="9880">Biofilms</charseq>
+          </extent>
+          <head>
+              <charseq START="9873" END="9880">Biofilms</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Biofilms">
+              <charseq START="9529" END="9536">Biofilms</charseq>
+          </name>
+          <name NAME="Biofilms">
+              <charseq START="9563" END="9570">Biofilms</charseq>
+          </name>
+          <name NAME="Biofilms">
+              <charseq START="9873" END="9880">Biofilms</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E48-M6909">
+          <extent>
+              <charseq START="9751" END="9776">immunocompromised patients</charseq>
+          </extent>
+          <head>
+              <charseq START="9769" END="9776">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E49-M6910">
+          <extent>
+              <charseq START="9782" END="9792">the elderly</charseq>
+          </extent>
+          <head>
+              <charseq START="9786" END="9792">elderly</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E49-M7000">
+          <extent>
+              <charseq START="9795" END="9798">They</charseq>
+          </extent>
+          <head>
+              <charseq START="9795" END="9798">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E50-M7401">
+          <extent>
+              <charseq START="10378" END="10436">better clinical management of chronically infected patients</charseq>
+          </extent>
+          <head>
+              <charseq START="10394" END="10403">management</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E50-M7403">
+          <extent>
+              <charseq START="10408" END="10436">chronically infected patients</charseq>
+          </extent>
+          <head>
+              <charseq START="10429" END="10436">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E51" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E51-M7506">
+          <extent>
+              <charseq START="10585" END="10628">a bacteriology laboratory for identification</charseq>
+          </extent>
+          <head>
+              <charseq START="10600" END="10609">laboratory</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E52-M7601">
+          <extent>
+              <charseq START="10640" END="10643">Gram</charseq>
+          </extent>
+          <head>
+              <charseq START="10640" END="10643">Gram</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gram">
+              <charseq START="10640" END="10643">Gram</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E53" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E53-M7705">
+          <extent>
+              <charseq START="10820" END="10870">colorless colonies (as it does not ferment lactose)</charseq>
+          </extent>
+          <head>
+              <charseq START="10830" END="10837">colonies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E53-M7908">
+          <extent>
+              <charseq START="11120" END="11131">the colonies</charseq>
+          </extent>
+          <head>
+              <charseq START="11124" END="11131">colonies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E54-M8509">
+          <extent>
+              <charseq START="11760" END="11775">a microbiologist</charseq>
+          </extent>
+          <head>
+              <charseq START="11762" END="11775">microbiologist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E55-M8511">
+          <extent>
+              <charseq START="11800" END="11808">physician</charseq>
+          </extent>
+          <head>
+              <charseq START="11800" END="11808">physician</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E56-M9113">
+          <extent>
+              <charseq START="12661" END="12739">quinolones (ciprofloxacin and levofloxacin but not moxifloxacin)
+cephalosporins</charseq>
+          </extent>
+          <head>
+              <charseq START="12661" END="12670">quinolones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E57-M9137">
+          <extent>
+              <charseq START="13121" END="13136">fluoroquinolones</charseq>
+          </extent>
+          <head>
+              <charseq START="13121" END="13136">fluoroquinolones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E58" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E58-M9201">
+          <extent>
+              <charseq START="13189" END="13202">some hospitals</charseq>
+          </extent>
+          <head>
+              <charseq START="13194" END="13202">hospitals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E59-M9900">
+          <extent>
+              <charseq START="14417" END="14429">Hypermutation</charseq>
+          </extent>
+          <head>
+              <charseq START="14417" END="14429">Hypermutation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hypermutation">
+              <charseq START="14417" END="14429">Hypermutation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E60" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E60-M10106" ROLE="GPE">
+          <extent>
+              <charseq START="14957" END="14965">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="14957" END="14965">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazilian">
+              <charseq START="14957" END="14965">Brazilian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E61-M10109">
+          <extent>
+              <charseq START="14990" END="15011">Mariana Bridi da Costa</charseq>
+          </extent>
+          <head>
+              <charseq START="14990" END="15011">Mariana Bridi da Costa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mariana Bridi da Costa">
+              <charseq START="14990" END="15011">Mariana Bridi da Costa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E62-M10107">
+          <extent>
+              <charseq START="14977" END="14988">beauty queen</charseq>
+          </extent>
+          <head>
+              <charseq START="14984" END="14988">queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E62-M10123">
+          <extent>
+              <charseq START="15193" END="15195">her</charseq>
+          </extent>
+          <head>
+              <charseq START="15193" END="15195">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E62-M10203">
+          <extent>
+              <charseq START="15235" END="15237">her</charseq>
+          </extent>
+          <head>
+              <charseq START="15235" END="15237">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E62-M10204">
+          <extent>
+              <charseq START="15255" END="15257">she</charseq>
+          </extent>
+          <head>
+              <charseq START="15255" END="15257">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E62-M10210">
+          <extent>
+              <charseq START="15324" END="15326">her</charseq>
+          </extent>
+          <head>
+              <charseq START="15324" END="15326">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E63-M10500">
+          <extent>
+              <charseq START="15548" END="15584">Immunoprophylaxis against pseudomonas</charseq>
+          </extent>
+          <head>
+              <charseq START="15548" END="15564">Immunoprophylaxis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Immunoprophylaxis">
+              <charseq START="15548" END="15564">Immunoprophylaxis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E64-M10612">
+          <extent>
+              <charseq START="15739" END="15776">the Pseudomonas genome database
+Migula</charseq>
+          </extent>
+          <head>
+              <charseq START="15771" END="15776">Migula</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Migula">
+              <charseq START="15771" END="15776">Migula</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E65-M10624">
+          <extent>
+              <charseq START="15849" END="15859">Sanisys LLC</charseq>
+          </extent>
+          <head>
+              <charseq START="15849" END="15859">Sanisys LLC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sanisys LLC">
+              <charseq START="15849" END="15859">Sanisys LLC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E66-M10630">
+          <extent>
+              <charseq START="15893" END="16022">Biomist Inc. Producer of NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service Providers
+Miss World Finalist Who Loses Hands</charseq>
+          </extent>
+          <head>
+              <charseq START="15893" END="15904">Biomist Inc.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E66-M10626">
+          <extent>
+              <charseq START="15877" END="16036">CO2 accessories
+Biomist Inc. Producer of NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service Providers
+Miss World Finalist Who Loses Hands And Feet Dies</charseq>
+          </extent>
+          <head>
+              <charseq START="15893" END="15904">Biomist Inc.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Biomist Inc.">
+              <charseq START="15893" END="15904">Biomist Inc.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Pseudomonas_aeruginosa.sentences.sgm-E67-M10634">
+          <extent>
+              <charseq START="15918" END="16022">NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service Providers
+Miss World Finalist Who Loses Hands</charseq>
+          </extent>
+          <head>
+              <charseq START="15918" END="15976">NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service">
+              <charseq START="15918" END="15976">NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E68-M10621">
+          <extent>
+              <charseq START="15845" END="15875">CO2
+Sanisys LLC Producer of NAV</charseq>
+          </extent>
+          <head>
+              <charseq START="15861" END="15868">Producer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Pseudomonas_aeruginosa.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Pseudomonas_aeruginosa.sentences.sgm-E69-M10636">
+          <extent>
+              <charseq START="15978" END="16022">Providers
+Miss World Finalist Who Loses Hands</charseq>
+          </extent>
+          <head>
+              <charseq START="15999" END="16006">Finalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Pseudomonas_aeruginosa.sentences.sgm-E69-M10641">
+          <extent>
+              <charseq START="16008" END="16010">Who</charseq>
+          </extent>
+          <head>
+              <charseq START="16008" END="16010">Who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T0" VAL="1894">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1242" END="1245">1894</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1372" END="1374">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="4455" END="4465">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T3" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="6777" END="6783">present</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T4" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="6851" END="6856">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Pseudomonas_aeruginosa.sentences.sgm-V5" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Pseudomonas_aeruginosa.sentences.sgm-V5-M1">
+            <extent>
+              <charseq START="13587" END="13598">6% to 22-87%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="14711" END="14716">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Pseudomonas_aeruginosa.sentences.sgm-T7" VAL="2009-01-20">
+        <timex2_mention ID="Pseudomonas_aeruginosa.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="15018" END="15046">at age 20 on January 24, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Pseudomonas_aeruginosa.sentences.sgm-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Pseudomonas_aeruginosa.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="15718" END="15737">www.pseudomonas.com,</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Pseudomonas_aeruginosa.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E68" ROLE="Arg-1"/>
+      <relation_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E65" ROLE="Arg-2"/>
+        <relation_mention ID="Pseudomonas_aeruginosa.sentences.sgm-R0-M10600">
+          <extent>
+              <charseq START="15845" END="15875">CO2
+Sanisys LLC Producer of NAV</charseq>
+          </extent>
+          <relation_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E68-M10621" ROLE="Arg-1">
+            <extent>
+              <charseq START="15845" END="15875">CO2
+Sanisys LLC Producer of NAV</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E65-M10624" ROLE="Arg-2">
+            <extent>
+              <charseq START="15849" END="15859">Sanisys LLC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Pseudomonas_aeruginosa.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E67" ROLE="Arg-2"/>
+        <relation_mention ID="Pseudomonas_aeruginosa.sentences.sgm-R1-M10601">
+          <extent>
+              <charseq START="15978" END="16022">Providers
+Miss World Finalist Who Loses Hands</charseq>
+          </extent>
+          <relation_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E69-M10636" ROLE="Arg-1">
+            <extent>
+              <charseq START="15978" END="16022">Providers
+Miss World Finalist Who Loses Hands</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E67-M10634" ROLE="Arg-2">
+            <extent>
+              <charseq START="15918" END="16022">NAV-CO2 Systems
+Environmist Subcontacted Sanitizing Service Providers
+Miss World Finalist Who Loses Hands</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV0-M4500">
+          <extent>
+              <charseq START="6950" END="6957">invasion</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6950" END="6957">invasion</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV1-M4701">
+          <extent>
+              <charseq START="7233" END="7240">injuries</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7233" END="7240">injuries</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV2-M4900">
+          <extent>
+              <charseq START="7604" END="7608">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7604" END="7608">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E6" ROLE="Entity"/>
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV3-M8800">
+          <extent>
+              <charseq START="12115" END="12125">demonstrate</charseq>
+          </extent>
+          <anchor>
+              <charseq START="12115" END="12125">demonstrate</charseq>
+          </anchor>
+        <event_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E6-M8800" ROLE="Entity">
+          <extent>
+              <charseq START="12038" END="12050">P. aeruginosa</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E61" ROLE="Victim"/>
+      <event_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-T7" ROLE="Time-Within"/>
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV4-M10101">
+          <extent>
+              <charseq START="15013" END="15016">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="15013" END="15016">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-E61-M10109" ROLE="Victim">
+          <extent>
+              <charseq START="14990" END="15011">Mariana Bridi da Costa</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Pseudomonas_aeruginosa.sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="15018" END="15046">at age 20 on January 24, 2009</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV5-M10201">
+          <extent>
+              <charseq START="15259" END="15262">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="15259" END="15262">died</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Pseudomonas_aeruginosa.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Pseudomonas_aeruginosa.sentences.sgm-EV6-M10600">
+          <extent>
+              <charseq START="16033" END="16036">Dies</charseq>
+          </extent>
+          <anchor>
+              <charseq START="16033" END="16036">Dies</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>
