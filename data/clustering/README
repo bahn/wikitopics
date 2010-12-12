@@ -30,11 +30,18 @@ clusters-mturk-mallet/
 apf-2009-01-27/
 	The SERIF output files.
 
-sentence-selection-manual/
+sent/
+	The sentence selection data
+sent/manual/
 	The articles to manual select sentences. Ten articles for each day of the five dates.
 
-sentence-selection-ben/
-	Ben's manually selected sentences.
+sent/ben/
+	Ben's manually selected sentences. Only done for the ten articles of the first date.
 
 sentence-selection-bahn/
-	My manually seleteced sentences. Not finished.
+	My manually seleteced sentences. Only done for the ten articles of the first date.
+
+sent-eval/
+	The sentences files to evaluate
+sent-eval/ben/
+	The preprocessed file that Ben manually selected for selected ten articles.
