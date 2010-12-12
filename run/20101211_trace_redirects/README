@@ -1,0 +1,82 @@
+Beginning
+=========
+
+Found that the sentences of some files have only the text 'REDIRECT [redirected page title]'
+
+e.g.
+2009-04-19/Lawrence_Kutner.sentences
+REDIRECT Lawrence Kutner (House, M.D.
+character)
+
+e.g.
+2009-10-12/2004_Indian_Ocean_earthquake.sentences
+REDIRECT 2004 Indian Ocean earthquake and tsunami
+
+Development
+===========
+Looked up the redirect files. Found that the redirected pages are the end link in the redirect links.
+Then, why their text are redirecting to another page? Furthermore, the page to which they are redirected
+are one the redirect pages redirected to the end link.
+
+Look at the following examples:
+2004_Indian_Ocean_earthquake_and_tsunami 2004_Indian_Ocean_earthquake
+# Perfect example.
+
+Lawrence_Kutner_(House,_M.D._character) Lawrence_Kutner_(House)
+# This was wrong, and I missed it.
+
+e.g.
+$ grep Lawrence_Kutner redirects.txt
+Dr._Kutner Lawrence_Kutner
+Dr._Kuttner Lawrence_Kutner
+Dr._Lawrence_Kutner Lawrence_Kutner
+Dr._Lawrence_Kuttner Lawrence_Kutner
+Dr_Kutner_(House) Lawrence_Kutner_(House)
+Lawrence_Kutner_(House,_M.D._character) Lawrence_Kutner_(House)
+Lawrence_Kuttner Lawrence_Kutner
+
+$ grep -C 5 2004_Indian_Ocean_earthquake_and_tsunami redirects.txt
+2004_Indian_Ocean_earthquake,_Norway Effect_of_the_2004_Indian_Ocean_earthquake_on_Norway
+2004_Indian_Ocean_earthquake. 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_earthquake/Other_countries_affected Countries_affected_by_the_2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_earthquake_India Effect_of_the_2004_Indian_Ocean_earthquake_on_India
+2004_Indian_Ocean_earthquake_and_Tsunami 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_earthquake_and_tsunami 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_earthquake_in_India Effect_of_the_2004_Indian_Ocean_earthquake_on_India
+2004_Indian_Ocean_earthquakes 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_tsunami 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_tsunami_disaster 2004_Indian_Ocean_earthquake
+2004_Indian_Ocean_tsunami_time_line Timeline_of_the_2004_Indian_Ocean_earthquake
+
+Trial
+=====
+1. I thought that there might be a discrepancy of the database between 2010-06-22's and today's.
+-> Tried to run fetch_article.py (src/wiki/...)
+-> Failed: the Wikipedia API might have been changed.
+
+2. Looked into the history from the Wikipedia website:
+(e.g. http://en.wikipedia.org/w/index.php?title=Lawrence_Kutner&action=history)
+_> Found the items reading 'moved...'
+
+e.g.
+Lawrence_Kutner
+(cur | prev)  21:59, 19 November 2009 The Anome (talk | contribs) (53 bytes) (moved Lawrence Kutner to Lawrence Kutner (House, M.D. character))
+
+Lawrence_Kutner_(House)
+(cur | prev)  05:35, 22 November 2009 Dlohcierekim (talk | contribs) m (9,234 bytes) (moved Lawrence Kutner (House, M.D. character) to Lawrence Kutner (House): better name) (undo)
+(cur | prev)  21:59, 19 November 2009 The Anome (talk | contribs) m (9,234 bytes) (moved Lawrence Kutner to Lawrence Kutner (House, M.D. character)) (undo)
+
+Lawrence_Kutner_(House,_M.D._character)
+(cur | prev) 14:55, 22 November 2009 The Anome (talk | contribs) (37 bytes) (#redirect Lawrence Kutner (House))
+
+2004_Indian_Ocean_earthquake
+(cur | prev) 22:30, 5 July 2010 Ronhjones (talk | contribs) (54 bytes) (moved 2004 Indian Ocean earthquake to 2004 Indian Ocean earthquake and tsunami over redirect: WP:RM)
+
+2004_Indian_Ocean_earthquake_and_tsunami
+(cur | prev)  22:30, 5 July 2010 Ronhjones (talk | contribs) m (81,159 bytes) (moved 2004 Indian Ocean earthquake to 2004 Indian Ocean earthquake and tsunami over redirect: WP:RM)
+
+Conclusion
+==========
+The both articlecs exist as of the selected date for each, but their names were changed later.
+However, when trying to fetch those articles, the text are not fetched and instead the text 'REDIRECT [another page]' is fetched.
+But the redirect data in the database remains the same as before their names were changed.
