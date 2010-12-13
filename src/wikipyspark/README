@@ -45,7 +45,7 @@ Generate a plot for an event.
 
 Usage:
 	gen_plot_events.py bullet_date bullet_index date_from date_until dates links page_views
-	e.g. ./gen_plot_events.py 20090101 0 1/1/2009 12/31/2009 data/events/events_date_2009 events_links_2009 events_page_views_by_date_2009
+# 	e.g. ./gen_plot_events.py 20090120 5 12/1/2008 2/9/2009 data/events/events_date_2009 events_links_2009 events_page_views_by_date_2009
 
 Input:
 	bullet_date bullet_index
