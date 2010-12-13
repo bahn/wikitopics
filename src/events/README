@@ -135,6 +135,7 @@ recall per bullets (all over 1k): 0.371626297578
 
 extract_links.py
 ----------------
+WRONG It used urllib.quote_plus to quote the links. It should not have.
 
 the script to convert the events file into the events links file.
 
