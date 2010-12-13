@@ -309,6 +309,8 @@ The most specific date with year, month, and day (``February 12, 1809'') has the
 After selecting a sentence for each cluster, we used coreference resolution to replace the important pronoun in the sentence with its proper name.
 This step is important and necessary because the selected sentence often refers to its subject by a pronoun such as ``He'', ``She'', or ``It''.
 
+- Discussion of which proper name -- most frequent one? most recent one?
+
 \paragraph {Evaluation}
 For ten articles on a specific day, an annotator selected sentences that best describes why the article is popular from all the sentences in each article.
 Each article has about 289 sentences on average.
@@ -384,7 +386,27 @@ There should be lots of citation to related work here. Examples are NewsBlaster 
 
 \section{Future work}
 
-There are still a lot of challanges that remain. For textualization, sentence fusion is an option for summarizing the relevant topics as one event.
+Each step of the WikiTopics system can be developed further.
+
+First, article selection.
+Should we predict what the Wikipedia current events will be?
+No.
+But if we can predict which will come next before any newspaper or traditional media, it would be awesome.
+But should we be? The point is in automaticity anyway.
+We currently use the absolute difference in page views with the window of size 15-days.
+Using relative difference might be useful.
+
+Second, clustering.
+Hierarchical clustering... There a lot of clusters that have hierarchical structures. For example, on the day of the
+inauguration of Barack Obama, the automatically selected articles include
+the former presidents of the United States, family of Barack Obama,
+and the appointed staff in the new goverment.
+Using hierarchical clustering, the summary of each cluster will be better.
+
+Third, sentence selection. Sentence fusion could be useful. Most of the Wikipedia current events 
+contain more than two links to articles. We currently select one sentence per each article,
+but it might be true sometimes that fewer sentences can well explain the events.
+We can use hierarchical clustering to summarize the clusters with fewer sentences.
 
 \section*{Acknowledgments}
 
