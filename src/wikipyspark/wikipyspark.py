@@ -53,6 +53,11 @@ class Bullet():
     def append_link(self, link):
         self.links.append(link)
 
+# Return wiki-titled string.
+# Wiki-titling is to make the first letter uppercase.
+def wikititle(s):
+	return s[0].upper() + s[1:]
+
 warnings = []
 def add_warning(str):
     global warnings
@@ -85,7 +90,7 @@ def read_links(links_filename, bullets):
     for line in links_file:
         date, index, link = string.split(line, maxsplit=2)
         date = convert_date(date)
-        bullets[date][int(index)].append_link(link[:-1].capitalize()) # remove the trailing end of line
+        bullets[date][int(index)].append_link(wikititle(link[:-1])) # remove the trailing end of line
     return bullets
 
 def read_pageviews(filename, dates):
@@ -93,7 +98,7 @@ def read_pageviews(filename, dates):
     f = open(filename,'r')
     for line in f:
         json = simplejson.loads(line)
-        page = json[0].capitalize()
+        page = wikititle(json[0])
         counts = json[1]
         pageviews[page] = counts
     return pageviews
@@ -355,13 +360,8 @@ Warnings
 #
 # read in the data
 if len(sys.argv) < 5:
-    sys.stderr.writelines(["usage: wikipyspark [dates] [text] [links] [page_views]\n", 
-                           "trying to load from default path... error might occur\n"])
-    
-    dates = read_dates("/Users/bahn/work/wikitopics/data/events_date_2009")
-    bullets = read_texts("/Users/bahn/work/wikitopics/data/events_text_2009", dates)
-    bullets = read_links("/Users/bahn/work/wikitopics/data/events_links_2009", bullets)
-    pageviews = read_pageviews("/Users/bahn/work/wikitopics/data/events_page_views_by_date_2009", dates)
+	sys.stderr.writelines(["usage: wikipyspark [dates] [text] [links] [page_views]\n"])
+	sys.exit(1)
 else:
     dates = read_dates(sys.argv[1])
     bullets = read_texts(sys.argv[2], dates)
