@@ -2,6 +2,7 @@ Overview
 ========
 
 This experiment is to evaluate the varioius sentence selection scheme.
+The description about this experiment is in the readme.tex file.
 The gold standard is Ben's sentence selection.
 
 The kinds of selection scheme:
@@ -37,3 +38,52 @@ src/sent_eval/number_sents.py ../../data/clustering/sent/auto-first/2009-01-27 .
 
 Recent:
 src/sent_eval/number_sents.py ../../data/clustering/sent/auto-recent/2009-01-27 ../../data/clustering/sent/manual/2009-01-27 ../../data/clustering/sent_eval/auto-recent
+
+Evaluation
+----------
+First:
+src/sent_eval/eval_sents.py data/sent_eval/auto-first data/sent_eval/ben
+
+Recent:
+src/sent_eval/eval_sents.py data/sent_eval/auto-recent data/sent_eval/ben
+
+Result
+======
+First:
+item_counts: 10
+a best_correct: 1
+b best_guess: 10
+c best_answer: 5
+p = a/b = 0.1
+r = a/c = 0.2
+f = 2pr / (p+r) = 0.133333333333
+a second_correct: 5
+b second_guess: 10
+c second_answer: 24
+p = a/b = 0.5
+r = a/c = 0.208333333333
+f = 2pr / (p+r) = 0.294117647059
+
+Recent:
+item_counts: 10
+a best_correct: 2
+b best_guess: 10
+c best_answer: 5
+p = a/b = 0.2
+r = a/c = 0.4
+f = 2pr / (p+r) = 0.266666666667
+a second_correct: 2
+b second_guess: 10
+c second_answer: 24
+p = a/b = 0.2
+r = a/c = 0.0833333333333
+f = 2pr / (p+r) = 0.117647058824
+
+Future Work
+===========
+* Find Ben's other gold standard files
+* Add features and combinatinos of features:
+  - Edit history
+  - topic of the article
+  - link structure
+
