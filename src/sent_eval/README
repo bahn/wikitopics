@@ -25,8 +25,10 @@ Run:
 eval_sents.py
 -------------
 The script to evaluation sentence selection against gold standard.
+All subdirectories are recursively tested.
 
 Usage: eval_sents.py test_dir gold_standard_dir
+	e.g. ./eval_sents.py ../data/sent_eval/auto-first ../../data/sent_eval/ben
 
 Input:
 	each file in the test_dir directory only has one line:

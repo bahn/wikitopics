@@ -36,7 +36,7 @@ import sys
 
 if len(sys.argv) < 3:
 	print "Usage: eval_sents.py test_dir gold_standard_dir"
-	sys.exit(0)
+	sys.exit(1)
 
 test_dir = sys.argv[1]
 gold_standard_dir = sys.argv[2]
@@ -49,39 +49,54 @@ second_correct = 0
 second_guess = 0
 second_answer = 0
 
-for file in os.listdir(test_dir):
-	if not os.path.isfile(os.path.join(gold_standard_dir, file)):
-		continue
-	item_counts += 1
+for dirpath, dirnames, filenames in os.walk(test_dir):
+	rel_dir = dirpath[len(test_dir):]
+	if rel_dir.startswith('/'):
+		rel_dir = rel_dir[1:]
+	for file in filenames:
+		if not os.path.isfile(os.path.join(gold_standard_dir, rel_dir, file)):
+			continue
+		item_counts += 1
 
-	f = open(os.path.join(test_dir, file))
-	l = f.readline()
-	lineno = int(l.split(' ', 1)[0])
-	f.close()
+		f = open(os.path.join(test_dir, rel_dir, file))
+		l = f.readline()
+		lineno = l.split(' ', 1)[0]
+		if lineno:
+			lineno = int(lineno)
+		else:
+			lineno = -1
+		f.close()
 
-	if lineno != -1:
-		best_guess += 1
-		second_guess += 1
-	lineno_guess = lineno
-	
-	f = open(os.path.join(gold_standard_dir, file))
-	l = f.readline()
-	lineno = int(l.split(' ', 1)[0])
-	if lineno != -1:
-		best_answer += 1
-		second_answer += 1
-		if lineno_guess == lineno:
-			best_correct += 1
-			second_correct += 1
-
-	for l in f:
-		lineno = int(l.split(' ', 1)[0])
 		if lineno != -1:
+			best_guess += 1
+			second_guess += 1
+		lineno_guess = lineno
+		
+		f = open(os.path.join(gold_standard_dir, rel_dir, file))
+		l = f.readline()
+		lineno = l.split(' ', 1)[0]
+		if lineno:
+			lineno = int(lineno)
+		else:
+			lineno = -1
+		if lineno != -1:
+			best_answer += 1
 			second_answer += 1
 			if lineno_guess == lineno:
+				best_correct += 1
 				second_correct += 1
-	f.close()
 
+		for l in f:
+			lineno = int(l.split(' ', 1)[0])
+			if lineno != -1:
+				second_answer += 1
+				if lineno_guess == lineno:
+					second_correct += 1
+		f.close()
+
+if item_counts == 0:
+	print 'no item evaluated'
+	sys.exit(0)
 print 'item_counts:', item_counts
 print 'a best_correct:', best_correct
 print 'b best_guess:', best_guess
