@@ -32,20 +32,19 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-The popularity that social networks such as Twitter and Facebook have recently gained calls more research into the use of metadata that they generate. In this paper, we make use of the page view counts of Wikipedia articles to predict topics gaining in popularity and explain why these topics are gaining users' attention. Our proposed approach clusters related topics to distinguish the main topics of on-going events from secondary related topics and explains the relationship between them. We explain why this is an interesting problem and compare approaches using the link structure of Wikipedia articles and the bag of words model of them to process each step of the process. By combining each step that performs reasonably as well as human annotators, the methods put forth here make a nice summary of what people in the real world are really insterested in.
-
-For sets of articles that show a sharp increase in page view on the same date, we do the following:
-(1) cluster articles into subsets that correspond to the same current event, (2) select sentences from the articles that describe why the event is popular.
-We evaluate against manually clustered articles and hand selected sentences.
-We show the value of bag-of-words topic models, link structure, named entity and time expression recognition.
-The result shows promise for explaining what's currently popular on Wikipedia and for creating a timeline of past newsworthy events.
+We establish a new task and pipeline to find interesting topics from Wikipedia and summarize them and introduce a novel data set:
+with the hourly page view statistics of all Wikipedia articles for three years and evaluation data for the results.
+Our pipeline consists of three steps: to find the best articles, cluster them, and extract the best sentences.
+Our K-means clustering and clustering using the link structures performs as well as 75\% human annotators do.
+Our sentence selection make use of the link structure, named entity and time expression recognition and works as well as 75\% humans do.  
+The result shows promise for explaining what's currently popular on Wikipedia and for automatically creating a timeline of past newsworthy events.
 
 \end{abstract}
 
 \section{Introduction}
 
-Recently, social media such as Twitter and Facebook gained attention from researchers.
-By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics \cite{petrovic10}.
+%Recently, social media such as Twitter and Facebook gained attention from researchers.
+%By looking at the topics recently prevailing in a lot of Twitter data at the same time, one may know the recent popular topics \cite{petrovic10}.
 
 %Wikipedia has some relative advantage over Twitter as a source of topics, in that (1) it has a full description about the topic, (2) it has inter-article links that imply the relations between articles, and (3) the page view statistics are open to the public.
 
@@ -412,7 +411,9 @@ We can use hierarchical clustering to summarize the clusters with fewer sentence
 
 %The first author was supported by Samsung Scholarship.
 
-Thank you to Wikipedians X and Y for making the page view statistics available.
+We appreciate Wikipedians Domas Mituzas and Fr\'{e}d\'{e}ric Schu\"{u}tz
+for making the page views statistics avaialble and Peter Skomoroch for
+prividing Trending Topics and answering questions.
 
 \bibliographystyle{acl}
 \bibliography{bahn}
