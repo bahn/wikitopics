@@ -36,9 +36,9 @@ if __name__=='__main__':
 	date = serif.convert_to_date(sys.argv[1])
 	text = serif.read_sgm(sys.argv[2])
 	data = serif.read_apf(text, sys.argv[3])
+
 	btimex = serif.find_best_timex(date, text, data)
 	if btimex:
 		start, end = text.expand(btimex.start, btimex.end)
 		line = serif.resolveCoref(text, data, start, end)
 		print line.encode('utf-8')
-

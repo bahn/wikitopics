@@ -51,6 +51,11 @@ These are the list of what there were not.
 This file was not parsable with Python's xml.dom.minidom.parse module:
 data/serif/2009-04-19/Fast_&_Furious.sentences.sgm.apf
 
+For the data in data/sent/auto-recent, coreference resolution did not work. So I fixed the script and rerun again.
+cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent2/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent2/$DATE; done
+
+The following results are the difference between coreference resolution and one without it.
+
 Self:
 The script was to select the sentence with both the most recent date and a self reference.
 cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self/$DATE; done

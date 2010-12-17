@@ -19,7 +19,7 @@ class Text:
 		self.text = ''
 		self.offsets = [0]
 	def __init__(self, file):
-		self.text = file.read().decode('utf-8')
+		self.text = unicode(file.read(), 'utf-8')
 		self.text = re.sub("<[^>]*?>", '', self.text)
 		self.offsets = [0]
 		offset = 0
@@ -97,26 +97,31 @@ class Entity:
 	def add_mention(self, mention):
 		if mention not in self.mentions:
 			self.mentions.append(mention)
+			self.name = '<UPDATED>'
 			self.updated = True
 	def update_name(self):
+		if not self.updated:
+			return
 		namecounts = {}
 		for mention in self.mentions:
-			if mention.type == 'NAM':
-				name = self.text.substr(mention.start, mention.end)
-				if name in namecounts:
-					namecounts[name] += 1
-				else:
-					namecounts[name] = 1
+			#if mention.type == 'NAM':
+			name = self.text.substr(mention.start, mention.end)
+			if name in namecounts:
+				namecounts[name] += 1
+			else:
+				namecounts[name] = 1
 		maxcount = 0
 		for name in namecounts.keys():
 			if namecounts[name] > maxcount:
 				maxcount = namecounts[name]
 				self.name = name
+		self.updated = False
 	def __str__(self):
-		if self.updated:
-			self.update_name()
-			self.updated = False
-		return self.name + ' (' +  self.type + '-' + self.subtype + ')'
+		self.update_name()
+		if self.name:
+			return self.name.encode('utf8')
+		else:
+			return 'Anonymous entity (' +  self.type + '-' + self.subtype + ')'
 
 
 class EntityMention:
@@ -309,13 +314,13 @@ def resolveCoref(text, data, start, end):
 					# Find the text to replace the pronoun with and
 					# append it to the substs list.
 					if substr == 'he' or substr == 'He' or substr == 'she' or substr == 'She':
-						name = text.substr(entity.name.start, entity.name.end)
+						entity.update_name()
 						boundaries.extend([mention.start, mention.end+1])
-						substs.append((mention.start, mention.end+1, name))
+						substs.append((mention.start, mention.end+1, entity.name))
 					elif substr == 'his' or substr == 'His' or substr == 'her' or substr == 'Her':
-						name = text.substr(entity.name.start, entity.name.end)
+						entity.update_name()
 						boundaries.extend([mention.start, mention.end+1])
-						substs.append((mention.start, mention.end+1, name + "'s"))
+						substs.append((mention.start, mention.end+1, entity.name + "'s"))
 	# Substitute each pronoun by its proper name
 	boundaries.sort()
 	s = ''
