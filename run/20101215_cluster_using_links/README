@@ -13,6 +13,10 @@ Scripts
 =======
 	src/cluster/cluster_onehop.pl
 
+	src/cluster/cluster_onehop_greedy.pl
+		At each round, find the article that have the maximum links
+		that are not yet added to a cluster.
+
 Commands
 ========
 
@@ -21,6 +25,7 @@ To cluster:
 	$ mkdir -p ../../data/clusters/auto-onehop-min; for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_min.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-min/$DATE.clusters; done
 	$ mkdir -p ../../data/clusters/auto-onehop-max; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_max.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-max/$DATE.clusters; done
 	$ mkdir -p ../../data/clusters/auto-onehop-for-all; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_for_all.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-for-all/$DATE.clusters; done
+	$ mkdir -p ../../data/clusters/auto-onehop-greedy; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_greedy.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-greedy/$DATE.clusters; done
 
 To evaluate:
 	$ cd src/cluster
