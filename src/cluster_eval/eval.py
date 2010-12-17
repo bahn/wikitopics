@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # eval.py
-#
+# -------
 # the clustering evaluation script that use multiplicity B-cubed for overlapping clusters.
 # 
 # Usage:

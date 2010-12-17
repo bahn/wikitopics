@@ -1,0 +1,266 @@
+Cluster using links.
+
+To know which language among Python, Java, and Perl, will work fastest,
+I did a performance test for these langauges. To my surprise, the fastest
+was Perl.
+
+The link data was created on Janurary 28, 2010. So it might not have
+the title of a page that is included in the data we are trying to test.
+
+The Logs section has the full logs that I did.
+
+Scripts
+=======
+	src/cluster/cluster_onehop.pl
+
+Commands
+========
+
+To cluster:
+	$ mkdir -p ../../data/clusters/auto-onehop; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop/$DATE.clusters; done
+	$ mkdir -p ../../data/clusters/auto-onehop-min; for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_min.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-min/$DATE.clusters; done
+	$ mkdir -p ../../data/clusters/auto-onehop-max; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_max.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-max/$DATE.clusters; done
+	$ mkdir -p ../../data/clusters/auto-onehop-for-all; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop_for_all.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop-for-all/$DATE.clusters; done
+
+To evaluate:
+	$ cd src/cluster
+	$ ./eval_onehop.sh | ./tabularize.perl
+	$ ./eval_onehop.sh -for-all | ./tabularize.perl
+	$ ./eval_onehop.sh -min | ./tabularize.perl
+	$ ./eval_onehop.sh -max | ./tabularize.perl
+
+Results
+=======
+ONEHOP:
+ccb	auto-onehop	0127	0.0698	0.7475	0.1276
+ccb	auto-onehop	0210	0.2986	0.4585	0.3616
+ccb	auto-onehop	0419	0.4331	0.4466	0.4397
+ccb	auto-onehop	0512	0.2359	0.6554	0.3469
+ccb	auto-onehop	1012	0.1789	0.3425	0.2350
+ben	auto-onehop	0127	0.3002	0.7216	0.4240
+ben	auto-onehop	0210	0.2545	0.5371	0.3454
+ben	auto-onehop	0419	0.3955	0.4978	0.4408
+ben	auto-onehop	0512	0.3553	0.6937	0.4699
+ben	auto-onehop	1012	0.2534	0.3901	0.3072
+bahn	auto-onehop	0127	0.0717	0.7453	0.1309
+bahn	auto-onehop	0210	0.2764	0.6144	0.3812
+bahn	auto-onehop	0419	0.3493	0.5825	0.4367
+bahn	auto-onehop	0512	0.3397	0.7248	0.4626
+bahn	auto-onehop	1012	0.2236	0.4559	0.3000
+
+ALL:
+$ ./eval_onehop.sh -for-all | ./tabularize.perl
+ccb	auto-onehop-for-all	0127	0.0349	0.7228	0.0665
+ccb	auto-onehop-for-all	0210	0.2571	0.3720	0.3040
+ccb	auto-onehop-for-all	0419	0.2402	0.4466	0.3124
+ccb	auto-onehop-for-all	0512	0.0852	0.6391	0.1503
+ccb	auto-onehop-for-all	1012	0.1428	0.2860	0.1905
+ben	auto-onehop-for-all	0127	0.1389	0.6762	0.2304
+ben	auto-onehop-for-all	0210	0.2429	0.4211	0.3081
+ben	auto-onehop-for-all	0419	0.2216	0.4811	0.3034
+ben	auto-onehop-for-all	0512	0.1700	0.6859	0.2724
+ben	auto-onehop-for-all	1012	0.1586	0.3516	0.2186
+bahn	auto-onehop-for-all	0127	0.0349	0.7273	0.0667
+bahn	auto-onehop-for-all	0210	0.2400	0.4893	0.3220
+bahn	auto-onehop-for-all	0419	0.1922	0.5825	0.2890
+bahn	auto-onehop-for-all	0512	0.1562	0.6987	0.2554
+bahn	auto-onehop-for-all	1012	0.1738	0.3993	0.2422
+
+MIN:
+$ ./eval_onehop.sh -min | ./tabularize.perl 
+ccb	auto-onehop-min	0127	0.3912	0.5263	0.4488
+ccb	auto-onehop-min	0210	0.6242	0.3182	0.4216
+ccb	auto-onehop-min	0419	0.7887	0.4319	0.5581
+ccb	auto-onehop-min	0512	0.5077	0.4563	0.4806
+ccb	auto-onehop-min	1012	0.4098	0.2377	0.3009
+ben	auto-onehop-min	0127	0.6533	0.3518	0.4573
+ben	auto-onehop-min	0210	0.5728	0.3662	0.4468
+ben	auto-onehop-min	0419	0.6115	0.3922	0.4779
+ben	auto-onehop-min	0512	0.7905	0.4612	0.5825
+ben	auto-onehop-min	1012	0.4571	0.3516	0.3975
+bahn	auto-onehop-min	0127	0.3585	0.5534	0.4351
+bahn	auto-onehop-min	0210	0.5542	0.4161	0.4753
+bahn	auto-onehop-min	0419	0.6687	0.5649	0.6124
+bahn	auto-onehop-min	0512	0.7329	0.4681	0.5713
+bahn	auto-onehop-min	1012	0.5044	0.3818	0.4346
+
+MAX:
+$ ./eval_onehop.sh -max | ./tabularize.perl 
+ccb	auto-onehop-max	0127	0.1576	0.6467	0.2534
+ccb	auto-onehop-max	0210	0.5075	0.3190	0.3918
+ccb	auto-onehop-max	0419	0.6925	0.4319	0.5320
+ccb	auto-onehop-max	0512	0.5304	0.5976	0.5620
+ccb	auto-onehop-max	1012	0.3163	0.1895	0.2370
+ben	auto-onehop-max	0127	0.3799	0.5608	0.4529
+ben	auto-onehop-max	0210	0.4655	0.3710	0.4129
+ben	auto-onehop-max	0419	0.5638	0.4367	0.4921
+ben	auto-onehop-max	0512	0.8291	0.6205	0.7098
+ben	auto-onehop-max	1012	0.3880	0.2628	0.3134
+bahn	auto-onehop-max	0127	0.1592	0.6626	0.2567
+bahn	auto-onehop-max	0210	0.4571	0.4208	0.4382
+bahn	auto-onehop-max	0419	0.5858	0.5649	0.5752
+bahn	auto-onehop-max	0512	0.7697	0.6292	0.6924
+bahn	auto-onehop-max	1012	0.4126	0.3488	0.3780
+
+Logs
+====
+how many lines do these data files have?
+$ wc -l *.txt
+ 5706070 links-simple-sorted.txt
+ 5716808 titles-sorted.txt
+
+preliminary test to see how long it will take
+- to read the whole file using wc
+$ time wc -l titles-sorted.txt
+real	0m4.458s
+user	0m0.385s
+sys	0m0.230s
+
+$ time wc -l links-simple-sorted.txt
+real	0m48.679s
+user	0m3.587s
+sys	0m2.014s
+
+- to read the whole file using Python.
+I wrote a script as follows and run it on the data set:
+
+import sys
+f = open(sys.argv[1], 'r')
+for l in f:
+    pass
+
+$ time the_script.py titles-sorted.txt
+real	0m5.372s
+user	0m1.599s
+sys	0m0.233s
+
+I think there is not much difference.
+
+$ time the_script.py links-simple-sorted.txt
+
+real	0m58.432s
+user	0m6.429s
+sys	0m2.451s
+
+- to read the whole file using Perl.
+
+I wrote a Perl script like this:
+
+while (<>) {
+} 
+
+and named it cluster_using_file.pl.
+
+$ time ./cluster_using_links.pl titles-sorted.txt
+
+real	0m4.573s
+user	0m1.820s
+sys	0m0.215s
+
+$ time ./cluster_using_links.pl links-simple-sorted.txt
+
+real	0m50.072s
+user	0m6.202s
+sys	0m2.859s
+
+- to read the whole file using Java.
+
+I wrote a Java program like this:
+
+import java.io.*;
+
+public class ClusterUsingLinks {
+    public static void main(String[] args) throws java.io.FileNotFoundException, UnsupportedEncodingException, IOException {
+        InputStream inputStream = new FileInputStream(new File(args[0]));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, "utf-8"));
+        while (reader.ready()) {
+            reader.readLine();
+        }
+        reader.close();
+    } 
+}
+
+and ran the script:
+$ time java ClusterUsingLinks titles-sorted.txt
+
+real	0m8.291s
+user	0m2.945s
+sys	0m0.640s
+
+$ time java ClusterUsingLinks links-simple-sorted.txt 
+
+real	1m7.243s
+user	0m10.438s
+sys	0m4.432s
+
+Okay, At this point, I decided to use Perl.
+I wanted to know how long it would going to take for Perl to read the titles.
+so I wrote the following script.
+
+$title_file = 'titles-sorted.txt';
+$link_file = 'links-simple-sorted.txt';
+
+open TITLE, $link_file or die "failed to open title";
+
+%pagetitle = ();
+%pageno = ();
+while (<TITLE>) {
+	    $pagetitle{$.} = $_;
+		    $pageno{$_} = $.;
+}
+
+close(TITLE);
+
+and when I ran the script, it took too much time to run so I had to break!
+
+real	16m37.564s
+user	0m10.779s
+sys	0m12.810s
+
+So I decided to not import all lines to hash map.
+I will read the link and title files multiple times, to get only the data for
+newly read titles.
+
+To measure how long it will take, I wrote the script that read the article list
+and read the title file getting the article number of the titles in the list.
+
+real	0m5.142s
+user	0m2.621s
+sys	0m0.249s
+
+Good news. It works!
+
+Run the one-hop clustering. Took too much time. Broke it after 37 minutes.
+
+real	37m26.570s
+user	2m20.810s
+sys	1m24.259s
+
+Then I found what the problem was. I absent-mindedly put the new article number to which
+the old articles link onto the list of the articles to read, so it read the chain of the
+articles... probably most of the articles at the end of the phase.
+I fixed it, and it took only 48 seconds to do one-hop clustering.
+Actually, it allowed cluster the articles that are two hops away.
+
+Then I ran the following command to do clustering.
+$ mkdir -p ../../data/clusters/auto-onehop; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop/$DATE.clusters; done
+
+Then I tried to evaluate the clusters only to find they have duplicate articles and some articles are missing:
+$ ./eval_onehop.sh | ./tabularize.perl
+I talked to Ben, and decided to manually put the missing articles as their own clusters.
+
+How many articles are missing and how many articles are dups?
+There are 8 articles missing and 77 are dups:
+$ cd ../../data/clusters/auto-onehop
+$ cat 2009-01-27.clusters | sort | grep -v '^$' | uniq | wc -l
+      92
+$ cat 2009-01-27.clusters | sort | grep -v '^$' | wc -l
+     177
+
+Found an error and successfully generated the clusters, and found that it just merged up most of the articles in one big cluster.
+So made the scripts: cluster_onehop_for_all, cluster_onehop_min.pl, cluster_onehop_max.pl.
+Refer to README in the same directory as the scripts for explanation.
+
+The generated clusters sometimes have duplicate articles. I manually fixed them after find the dups using the following command:
+$ for FILE in ../../data/clusters/*/*.clusters; do echo $FILE; cat $FILE | uniq > TEMP; diff TEMP $FILE; echo; done | grep -B 2 -A 1 '^>'
+
