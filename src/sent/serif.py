@@ -106,13 +106,18 @@ class Entity:
 		if not self.updated:
 			return
 		namecounts = {}
+		# find the proper name for the entity
 		for mention in self.mentions:
-			#if mention.type == 'NAM':
-			name = self.text.substr(mention.start, mention.end)
-			if name in namecounts:
-				namecounts[name] += 1
-			else:
-				namecounts[name] = 1
+			if mention.type != 'PRO': # ignore pronouns
+				name = self.text.substr(mention.start, mention.end)
+				if name in namecounts:
+					if mention.type == 'NAM': # if there is a name, count the number
+						namecounts[name] += 1
+				else:
+					if mention.type == 'NAM':
+						namecounts[name] = 2
+					else:
+						namecounts[name] = 1 # if it is not a name, don't count the number, but leave it as candidiate.
 		maxcount = 0
 		for name in namecounts.keys():
 			if namecounts[name] > maxcount:
@@ -307,9 +312,18 @@ def resolveCoref(text, data, start, end):
 	substs = []
 	# loop through all entities in the given SERIF output.
 	for entity in data.entityList:
-		if entity.type != 'PER' or not entity.name:
+		# resolve coreference only for personal pronouns.
+		if entity.type != 'PER' or not str(entity):
 			continue
+		b = []
+		s = []
+		ignore = False
+
 		for mention in entity.mentions:
+			if mention.type == 'NAM':
+				if start <= mention.start and mention.end <= end:
+					ignore = True
+					break
 			if mention.type == 'PRO':
 				# Find pronouns in the given text
 				if start <= mention.start and mention.end <= end:
@@ -317,13 +331,16 @@ def resolveCoref(text, data, start, end):
 					# Find the text to replace the pronoun with and
 					# append it to the substs list.
 					if substr == 'he' or substr == 'He' or substr == 'she' or substr == 'She':
-						entity.update_name()
-						boundaries.extend([mention.start, mention.end+1])
-						substs.append((mention.start, mention.end+1, entity.name))
+						b.extend([mention.start, mention.end+1])
+						s.append((mention.start, mention.end+1, str(entity)))
+						break
 					elif substr == 'his' or substr == 'His' or substr == 'her' or substr == 'Her':
-						entity.update_name()
-						boundaries.extend([mention.start, mention.end+1])
-						substs.append((mention.start, mention.end+1, entity.name + "'s"))
+						b.extend([mention.start, mention.end+1])
+						s.append((mention.start, mention.end+1, str(entity) + "'s"))
+						break
+		if not ignore:
+			boundaries.extend(b)
+			substs.extend(s)
 	# Substitute each pronoun by its proper name
 	boundaries.sort()
 	s = ''

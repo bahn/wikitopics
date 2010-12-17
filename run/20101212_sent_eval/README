@@ -55,6 +55,18 @@ For the data in data/sent/auto-recent, coreference resolution did not work. So I
 cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent2/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent2/$DATE; done
 
 The following results are the difference between coreference resolution and one without it.
+$ cd data/sent/auto-recent; for DIR in *; do diff $DIR ../auto-recent2/$DIR; done | less
+
+I changed coreference resolution and the data are in data/sent/auto-recent3.
+
+Found that the following files are missing in data/sent/auto-recent and copied them from auto-recent3.
+Only in ../auto-recent3/2009-01-27: Bill_Clinton.sentences
+Only in ../auto-recent3/2009-01-27: Franklin_D._Roosevelt.sentences
+Only in ../auto-recent3/2009-01-27: Theodore_Roosevelt.sentences
+
+Later, delete auto-recent2 and renamed auto-recent3 to auto-recent2.
+$ rm -rf auto-recent2
+$ git mv auto-recent3 auto-recent2
 
 Self:
 The script was to select the sentence with both the most recent date and a self reference.
