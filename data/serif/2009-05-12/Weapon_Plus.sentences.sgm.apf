@@ -1,0 +1,4298 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Weapon_Plus.sentences.sgm">
+  <document DOCID="Weapon_Plus.sentences.sgm">
+
+    <entity ID="Weapon_Plus.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M7" ROLE="GPE">
+          <extent>
+              <charseq START="82" END="94">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="94">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E0-M5" ROLE="GPE">
+          <extent>
+              <charseq START="78" END="135">the United States government in the Marvel Comics universe</charseq>
+          </extent>
+          <head>
+              <charseq START="96" END="105">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M1716">
+          <extent>
+              <charseq START="2165" END="2172">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2165" END="2172">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M1810" ROLE="GPE">
+          <extent>
+              <charseq START="2344" END="2351">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2344" END="2351">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2404" ROLE="GPE">
+          <extent>
+              <charseq START="3355" END="3362">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3355" END="3362">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2605" ROLE="GPE">
+          <extent>
+              <charseq START="3724" END="3730">African</charseq>
+          </extent>
+          <head>
+              <charseq START="3724" END="3730">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2606" ROLE="GPE">
+          <extent>
+              <charseq START="3732" END="3739">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3732" END="3739">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2704">
+          <extent>
+              <charseq START="3805" END="3811">African</charseq>
+          </extent>
+          <head>
+              <charseq START="3805" END="3811">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2705">
+          <extent>
+              <charseq START="3813" END="3820">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3813" END="3820">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M2812" ROLE="GPE">
+          <extent>
+              <charseq START="4167" END="4168">US</charseq>
+          </extent>
+          <head>
+              <charseq START="4167" END="4168">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E0-M3033" ROLE="GPE">
+          <extent>
+              <charseq START="4694" END="4706">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4694" END="4706">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E0-M3032" ROLE="GPE">
+          <extent>
+              <charseq START="4690" END="4717">the United States government</charseq>
+          </extent>
+          <head>
+              <charseq START="4708" END="4717">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="82" END="94">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="2165" END="2172">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="2344" END="2351">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3355" END="3362">American</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="3724" END="3730">African</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3732" END="3739">American</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="3805" END="3811">African</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3813" END="3820">American</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="4167" END="4168">US</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="4694" END="4706">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E1-M9">
+          <extent>
+              <charseq START="114" END="126">Marvel Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="114" END="126">Marvel Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E1-M513">
+          <extent>
+              <charseq START="679" END="691">Marvel Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="679" END="691">Marvel Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel Comics">
+              <charseq START="114" END="126">Marvel Comics</charseq>
+          </name>
+          <name NAME="Marvel Comics">
+              <charseq START="679" END="691">Marvel Comics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M103">
+          <extent>
+              <charseq START="156" END="194">Grant Morrison during his run in New X-</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="169">Grant Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E2-M102">
+          <extent>
+              <charseq START="156" END="197">Grant Morrison during his run in New X-Men</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="197">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E2-M107">
+          <extent>
+              <charseq START="178" END="180">his</charseq>
+          </extent>
+          <head>
+              <charseq START="178" END="180">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M502">
+          <extent>
+              <charseq START="556" END="563">Morrison</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="563">Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M3400">
+          <extent>
+              <charseq START="5001" END="5014">Grant Morrison</charseq>
+          </extent>
+          <head>
+              <charseq START="5001" END="5014">Grant Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M3435">
+          <extent>
+              <charseq START="5331" END="5344">Grant Morrison</charseq>
+          </extent>
+          <head>
+              <charseq START="5331" END="5344">Grant Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E2-M3410">
+          <extent>
+              <charseq START="5107" END="5109">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="5107" END="5109">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E2-M3407">
+          <extent>
+              <charseq START="5087" END="5089">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5087" END="5089">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M7110">
+          <extent>
+              <charseq START="10296" END="10309">Grant Morrison</charseq>
+          </extent>
+          <head>
+              <charseq START="10296" END="10309">Grant Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E2-M7137">
+          <extent>
+              <charseq START="10591" END="10598">Morrison</charseq>
+          </extent>
+          <head>
+              <charseq START="10591" END="10598">Morrison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E2-M7103">
+          <extent>
+              <charseq START="10275" END="10277">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="10275" END="10277">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E2-M7113">
+          <extent>
+              <charseq START="10333" END="10335">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="10333" END="10335">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E2-M7140">
+          <extent>
+              <charseq START="10608" END="10610">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="10608" END="10610">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grant Morrison">
+              <charseq START="156" END="169">Grant Morrison</charseq>
+          </name>
+          <name NAME="Morrison">
+              <charseq START="556" END="563">Morrison</charseq>
+          </name>
+          <name NAME="Grant Morrison">
+              <charseq START="5001" END="5014">Grant Morrison</charseq>
+          </name>
+          <name NAME="Grant Morrison">
+              <charseq START="5331" END="5344">Grant Morrison</charseq>
+          </name>
+          <name NAME="Grant Morrison">
+              <charseq START="10296" END="10309">Grant Morrison</charseq>
+          </name>
+          <name NAME="Morrison">
+              <charseq START="10591" END="10598">Morrison</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E3-M511">
+          <extent>
+              <charseq START="653" END="667">Captain America</charseq>
+          </extent>
+          <head>
+              <charseq START="653" END="667">Captain America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E3-M1400">
+          <extent>
+              <charseq START="1815" END="1829">Captain America</charseq>
+          </extent>
+          <head>
+              <charseq START="1815" END="1829">Captain America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E3-M2213">
+          <extent>
+              <charseq START="3112" END="3141">Captain America (Steve Rogers)</charseq>
+          </extent>
+          <head>
+              <charseq START="3112" END="3126">Captain America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E3-M3025">
+          <extent>
+              <charseq START="4590" END="4604">Captain America</charseq>
+          </extent>
+          <head>
+              <charseq START="4590" END="4604">Captain America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Captain America">
+              <charseq START="653" END="667">Captain America</charseq>
+          </name>
+          <name NAME="Captain America">
+              <charseq START="1815" END="1829">Captain America</charseq>
+          </name>
+          <name NAME="Captain America">
+              <charseq START="3112" END="3126">Captain America</charseq>
+          </name>
+          <name NAME="Captain America">
+              <charseq START="4590" END="4604">Captain America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E4-M607">
+          <extent>
+              <charseq START="791" END="808">the general public</charseq>
+          </extent>
+          <head>
+              <charseq START="803" END="808">public</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E4-M6711">
+          <extent>
+              <charseq START="9998" END="10007">the public</charseq>
+          </extent>
+          <head>
+              <charseq START="10002" END="10007">public</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E5-M703">
+          <extent>
+              <charseq START="857" END="860">Homo</charseq>
+          </extent>
+          <head>
+              <charseq START="857" END="860">Homo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Homo">
+              <charseq START="857" END="860">Homo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E6-M712">
+          <extent>
+              <charseq START="966" END="970">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="966" END="970">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M917">
+          <extent>
+              <charseq START="1221" END="1230">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1230">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M1211">
+          <extent>
+              <charseq START="1649" END="1657">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="1653" END="1657">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M6218">
+          <extent>
+              <charseq START="9348" END="9356">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="9352" END="9356">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M6813">
+          <extent>
+              <charseq START="10110" END="10118">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="10114" END="10118">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M7400">
+          <extent>
+              <charseq START="10923" END="10941">The World
+The World</charseq>
+          </extent>
+          <head>
+              <charseq START="10937" END="10941">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M7419">
+          <extent>
+              <charseq START="11154" END="11162">the World</charseq>
+          </extent>
+          <head>
+              <charseq START="11158" END="11162">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M7819">
+          <extent>
+              <charseq START="11929" END="11942">the real world</charseq>
+          </extent>
+          <head>
+              <charseq START="11938" END="11942">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M8202">
+          <extent>
+              <charseq START="12421" END="12429">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="12425" END="12429">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M8301">
+          <extent>
+              <charseq START="12479" END="12487">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="12483" END="12487">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M8312">
+          <extent>
+              <charseq START="12604" END="12612">the World</charseq>
+          </extent>
+          <head>
+              <charseq START="12608" END="12612">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M8500">
+          <extent>
+              <charseq START="12826" END="12834">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="12830" END="12834">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E6-M8600">
+          <extent>
+              <charseq START="12926" END="12934">The World</charseq>
+          </extent>
+          <head>
+              <charseq START="12930" END="12934">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Earth">
+              <charseq START="966" END="970">Earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E7-M700">
+          <extent>
+              <charseq START="811" END="827">A few individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="817" END="827">individuals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E7-M706">
+          <extent>
+              <charseq START="889" END="892">they</charseq>
+          </extent>
+          <head>
+              <charseq START="889" END="892">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E8-M709">
+          <extent>
+              <charseq START="923" END="937">baseline humans</charseq>
+          </extent>
+          <head>
+              <charseq START="932" END="937">humans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E9-M907">
+          <extent>
+              <charseq START="1120" END="1132">John Sublime,</charseq>
+          </extent>
+          <head>
+              <charseq START="1120" END="1131">John Sublime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E9-M922">
+          <extent>
+              <charseq START="1286" END="1292">Sublime</charseq>
+          </extent>
+          <head>
+              <charseq START="1286" END="1292">Sublime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E9-M6704">
+          <extent>
+              <charseq START="9891" END="9903">John Sublime,</charseq>
+          </extent>
+          <head>
+              <charseq START="9891" END="9902">John Sublime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E9-M8803">
+          <extent>
+              <charseq START="13334" END="13340">Sublime</charseq>
+          </extent>
+          <head>
+              <charseq START="13334" END="13340">Sublime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E9-M8906">
+          <extent>
+              <charseq START="13413" END="13419">Sublime</charseq>
+          </extent>
+          <head>
+              <charseq START="13413" END="13419">Sublime</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Sublime">
+              <charseq START="1120" END="1131">John Sublime</charseq>
+          </name>
+          <name NAME="Sublime">
+              <charseq START="1286" END="1292">Sublime</charseq>
+          </name>
+          <name NAME="John Sublime">
+              <charseq START="9891" END="9902">John Sublime</charseq>
+          </name>
+          <name NAME="Sublime">
+              <charseq START="13334" END="13340">Sublime</charseq>
+          </name>
+          <name NAME="Sublime">
+              <charseq START="13413" END="13419">Sublime</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E10-M901">
+          <extent>
+              <charseq START="1063" END="1094">everyone involved in Weapon Plus</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1070">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E11-M905">
+          <extent>
+              <charseq START="1104" END="1117">its mastermind</charseq>
+          </extent>
+          <head>
+              <charseq START="1108" END="1117">mastermind</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E11-M920">
+          <extent>
+              <charseq START="1251" END="1253">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1251" END="1253">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E12-M1104">
+          <extent>
+              <charseq START="1405" END="1410">agents</charseq>
+          </extent>
+          <head>
+              <charseq START="1405" END="1410">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E14-M1213">
+          <extent>
+              <charseq START="1670" END="1682">Bolivar Trask</charseq>
+          </extent>
+          <head>
+              <charseq START="1670" END="1682">Bolivar Trask</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bolivar Trask">
+              <charseq START="1670" END="1682">Bolivar Trask</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E15-M1214">
+          <extent>
+              <charseq START="1686" END="1693">Sentinel</charseq>
+          </extent>
+          <head>
+              <charseq START="1686" END="1693">Sentinel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sentinel">
+              <charseq START="1686" END="1693">Sentinel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E16" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M1206">
+          <extent>
+              <charseq START="1582" END="1704">the last living weapons operating in the clandestine facilities of The World, employing Bolivar Trask&apos;s Sentinel technology</charseq>
+          </extent>
+          <head>
+              <charseq START="1598" END="1604">weapons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M1500">
+          <extent>
+              <charseq START="1866" END="1871">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="1866" END="1871">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M1906">
+          <extent>
+              <charseq START="2422" END="2429">Weapon 0</charseq>
+          </extent>
+          <head>
+              <charseq START="2422" END="2427">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M1909">
+          <extent>
+              <charseq START="2470" END="2587">an early and dismissed branch of a super-soldier program completely different to the Weapon Plus program of the comics</charseq>
+          </extent>
+          <head>
+              <charseq START="2493" END="2498">branch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M3303">
+          <extent>
+              <charseq START="4984" END="4998">a living weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="4993" END="4998">weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M3423">
+          <extent>
+              <charseq START="5271" END="5277">weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="5271" END="5277">weapons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M6302">
+          <extent>
+              <charseq START="9366" END="9455">the first living weapon created employing artificial evolution and nanosentinel technology</charseq>
+          </extent>
+          <head>
+              <charseq START="9383" END="9388">weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E16-M7100">
+          <extent>
+              <charseq START="10255" END="10260">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="10255" END="10260">Weapon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E17-M1209">
+          <extent>
+              <charseq START="1619" END="1657">the clandestine facilities of The World</charseq>
+          </extent>
+          <head>
+              <charseq START="1635" END="1644">facilities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E17-M6215">
+          <extent>
+              <charseq START="9316" END="9356">the England-based facilities of The World</charseq>
+          </extent>
+          <head>
+              <charseq START="9334" END="9343">facilities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E17-M8300">
+          <extent>
+              <charseq START="12479" END="12500">The World&apos;s facilities</charseq>
+          </extent>
+          <head>
+              <charseq START="12491" END="12500">facilities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E17-M8604">
+          <extent>
+              <charseq START="12988" END="13001">the facilities</charseq>
+          </extent>
+          <head>
+              <charseq START="12992" END="13001">facilities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E18-M1602">
+          <extent>
+              <charseq START="2034" END="2042">Sentinels</charseq>
+          </extent>
+          <head>
+              <charseq START="2034" END="2042">Sentinels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E18-M6606">
+          <extent>
+              <charseq START="9772" END="9780">Sentinels</charseq>
+          </extent>
+          <head>
+              <charseq START="9772" END="9780">Sentinels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E18-M6609">
+          <extent>
+              <charseq START="9808" END="9861">superheroes with a base in a Weapon Plus space station</charseq>
+          </extent>
+          <head>
+              <charseq START="9808" END="9818">superheroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E18-M7213">
+          <extent>
+              <charseq START="10745" END="10753">Sentinels</charseq>
+          </extent>
+          <head>
+              <charseq START="10745" END="10753">Sentinels</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sentinels">
+              <charseq START="2034" END="2042">Sentinels</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E19" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E19-M1601">
+          <extent>
+              <charseq START="1992" END="2013">mutant-hunting weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="2007" END="2013">weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E20-M1717">
+          <extent>
+              <charseq START="2175" END="2181">British</charseq>
+          </extent>
+          <head>
+              <charseq START="2175" END="2181">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E20-M4100">
+          <extent>
+              <charseq START="6153" END="6170">The United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="6157" END="6170">United Kingdom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="2175" END="2181">British</charseq>
+          </name>
+          <name NAME="United Kingdom">
+              <charseq START="6157" END="6170">United Kingdom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E21-M1718">
+          <extent>
+              <charseq START="2187" END="2192">German</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2192">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E21-M1714">
+          <extent>
+              <charseq START="2161" END="2238">the American, British and German eugenicists led by Doctors Reinstein and Koch</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2192">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E21-M1805" ROLE="GPE">
+          <extent>
+              <charseq START="2285" END="2290">German</charseq>
+          </extent>
+          <head>
+              <charseq START="2285" END="2290">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="German">
+              <charseq START="2187" END="2192">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="2285" END="2290">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E22-M1722">
+          <extent>
+              <charseq START="2213" END="2229">Doctors Reinstein</charseq>
+          </extent>
+          <head>
+              <charseq START="2213" END="2229">Doctors Reinstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Doctors Reinstein">
+              <charseq START="2213" END="2229">Doctors Reinstein</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E23-M1723">
+          <extent>
+              <charseq START="2235" END="2238">Koch</charseq>
+          </extent>
+          <head>
+              <charseq START="2235" END="2238">Koch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E23-M1803">
+          <extent>
+              <charseq START="2266" END="2269">Koch</charseq>
+          </extent>
+          <head>
+              <charseq START="2266" END="2269">Koch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Koch">
+              <charseq START="2235" END="2238">Koch</charseq>
+          </name>
+          <name NAME="Koch">
+              <charseq START="2266" END="2269">Koch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E24-M1806">
+          <extent>
+              <charseq START="2305" END="2329">Josef Reinstein (Erskine)</charseq>
+          </extent>
+          <head>
+              <charseq START="2305" END="2319">Josef Reinstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E24-M2210">
+          <extent>
+              <charseq START="3055" END="3063">Reinstein</charseq>
+          </extent>
+          <head>
+              <charseq START="3055" END="3063">Reinstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E24-M2402">
+          <extent>
+              <charseq START="3325" END="3339">Josef Reinstein</charseq>
+          </extent>
+          <head>
+              <charseq START="3325" END="3339">Josef Reinstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E24-M2601">
+          <extent>
+              <charseq START="3663" END="3671">Reinstein</charseq>
+          </extent>
+          <head>
+              <charseq START="3663" END="3671">Reinstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Josef Reinstein">
+              <charseq START="2305" END="2319">Josef Reinstein</charseq>
+          </name>
+          <name NAME="Reinstein">
+              <charseq START="3055" END="3063">Reinstein</charseq>
+          </name>
+          <name NAME="Josef Reinstein">
+              <charseq START="3325" END="3339">Josef Reinstein</charseq>
+          </name>
+          <name NAME="Reinstein">
+              <charseq START="3663" END="3671">Reinstein</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E25-M1808">
+          <extent>
+              <charseq START="2322" END="2328">Erskine</charseq>
+          </extent>
+          <head>
+              <charseq START="2322" END="2328">Erskine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E25-M2204">
+          <extent>
+              <charseq START="3022" END="3141">Professor Abraham Erskine (given Reinstein&apos;s name as a cover identity) managed to produce Captain America (Steve Rogers)</charseq>
+          </extent>
+          <head>
+              <charseq START="3032" END="3046">Abraham Erskine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E25-M2206">
+          <extent>
+              <charseq START="3022" END="3030">Professor</charseq>
+          </extent>
+          <head>
+              <charseq START="3022" END="3030">Professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E25-M2300">
+          <extent>
+              <charseq START="3153" END="3159">Erskine</charseq>
+          </extent>
+          <head>
+              <charseq START="3153" END="3159">Erskine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M2305">
+          <extent>
+              <charseq START="3239" END="3240">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3239" END="3240">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M2310">
+          <extent>
+              <charseq START="3297" END="3299">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3297" END="3299">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M2401">
+          <extent>
+              <charseq START="3313" END="3315">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3313" END="3315">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M4919">
+          <extent>
+              <charseq START="7692" END="7694">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7692" END="7694">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M4922">
+          <extent>
+              <charseq START="7713" END="7715">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7713" END="7715">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M5001">
+          <extent>
+              <charseq START="7738" END="7740">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7738" END="7740">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E25-M5003">
+          <extent>
+              <charseq START="7769" END="7771">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7769" END="7771">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Erskine">
+              <charseq START="2322" END="2328">Erskine</charseq>
+          </name>
+          <name NAME="Abraham Erskine">
+              <charseq START="3032" END="3046">Abraham Erskine</charseq>
+          </name>
+          <name NAME="Erskine">
+              <charseq START="3153" END="3159">Erskine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E26-M1917">
+          <extent>
+              <charseq START="2578" END="2587">the comics</charseq>
+          </extent>
+          <head>
+              <charseq START="2582" END="2587">comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E26-M6100">
+          <extent>
+              <charseq START="9086" END="9095">the comics</charseq>
+          </extent>
+          <head>
+              <charseq START="9090" END="9095">comics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E27-M2005">
+          <extent>
+              <charseq START="2662" END="2669">soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="2662" END="2669">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E27-M2706">
+          <extent>
+              <charseq START="3822" END="3829">soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="3822" END="3829">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E27-M3609">
+          <extent>
+              <charseq START="5595" END="5608">human soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="5601" END="5608">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E28" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E28-M2006">
+          <extent>
+              <charseq START="2676" END="2705">organic self-contained weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="2699" END="2705">weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M2107">
+          <extent>
+              <charseq START="2867" END="2875">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="2867" END="2875">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M4610">
+          <extent>
+              <charseq START="7123" END="7131">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7123" END="7131">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5112">
+          <extent>
+              <charseq START="7929" END="7937">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7929" END="7937">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5115">
+          <extent>
+              <charseq START="7997" END="8005">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7997" END="8005">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5122">
+          <extent>
+              <charseq START="8057" END="8065">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="8057" END="8065">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5133">
+          <extent>
+              <charseq START="8164" END="8172">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="8164" END="8172">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5200">
+          <extent>
+              <charseq START="8201" END="8245">the Wolverine: Marvel Spotlight Daniel states</charseq>
+          </extent>
+          <head>
+              <charseq START="8205" END="8213">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5507">
+          <extent>
+              <charseq START="8401" END="8410">Wolverine,</charseq>
+          </extent>
+          <head>
+              <charseq START="8401" END="8409">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M5613">
+          <extent>
+              <charseq START="8630" END="8638">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="8630" END="8638">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M7302">
+          <extent>
+              <charseq START="10787" END="10795">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="10787" END="10795">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E29-M7316">
+          <extent>
+              <charseq START="10912" END="10920">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="10912" END="10920">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolverine">
+              <charseq START="2867" END="2875">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7123" END="7131">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7929" END="7937">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7997" END="8005">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8057" END="8065">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8164" END="8172">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8205" END="8213">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8401" END="8409">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8630" END="8638">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="10787" END="10795">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="10912" END="10920">Wolverine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E30-M2215">
+          <extent>
+              <charseq START="3129" END="3140">Steve Rogers</charseq>
+          </extent>
+          <head>
+              <charseq START="3129" END="3140">Steve Rogers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E30-M2302">
+          <extent>
+              <charseq START="3188" END="3193">Rogers</charseq>
+          </extent>
+          <head>
+              <charseq START="3188" END="3193">Rogers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E30-M2519">
+          <extent>
+              <charseq START="3649" END="3660">Steve Rogers</charseq>
+          </extent>
+          <head>
+              <charseq START="3649" END="3660">Steve Rogers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E30-M3029">
+          <extent>
+              <charseq START="4661" END="4666">Rogers</charseq>
+          </extent>
+          <head>
+              <charseq START="4661" END="4666">Rogers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steve Rogers">
+              <charseq START="3129" END="3140">Steve Rogers</charseq>
+          </name>
+          <name NAME="Rogers">
+              <charseq START="3188" END="3193">Rogers</charseq>
+          </name>
+          <name NAME="Steve Rogers">
+              <charseq START="3649" END="3660">Steve Rogers</charseq>
+          </name>
+          <name NAME="Rogers">
+              <charseq START="4661" END="4666">Rogers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E32-M2504">
+          <extent>
+              <charseq START="3393" END="3408">Clinton McIntyre</charseq>
+          </extent>
+          <head>
+              <charseq START="3393" END="3408">Clinton McIntyre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clinton McIntyre">
+              <charseq START="3393" END="3408">Clinton McIntyre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E33-M2506">
+          <extent>
+              <charseq START="3418" END="3426">Protocide</charseq>
+          </extent>
+          <head>
+              <charseq START="3418" END="3426">Protocide</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E33-M2509">
+          <extent>
+              <charseq START="3449" END="3451">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3449" END="3451">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Protocide">
+              <charseq START="3418" END="3426">Protocide</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E34-M2512">
+          <extent>
+              <charseq START="3524" END="3526">AIM</charseq>
+          </extent>
+          <head>
+              <charseq START="3524" END="3526">AIM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E34-M7505">
+          <extent>
+              <charseq START="11310" END="11312">AIM</charseq>
+          </extent>
+          <head>
+              <charseq START="11310" END="11312">AIM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E34-M8603">
+          <extent>
+              <charseq START="12975" END="12977">AIM</charseq>
+          </extent>
+          <head>
+              <charseq START="12975" END="12977">AIM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AIM">
+              <charseq START="3524" END="3526">AIM</charseq>
+          </name>
+          <name NAME="AIM">
+              <charseq START="11310" END="11312">AIM</charseq>
+          </name>
+          <name NAME="AIM">
+              <charseq START="12975" END="12977">AIM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E35-M2515">
+          <extent>
+              <charseq START="3572" END="3576">Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="3572" END="3576">Queen</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E36-M2608">
+          <extent>
+              <charseq START="3757" END="3787">most prominently Isaiah Bradley</charseq>
+          </extent>
+          <head>
+              <charseq START="3774" END="3787">Isaiah Bradley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E36-M2900">
+          <extent>
+              <charseq START="4277" END="4290">Isaiah Bradley</charseq>
+          </extent>
+          <head>
+              <charseq START="4277" END="4290">Isaiah Bradley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E36-M3020">
+          <extent>
+              <charseq START="4537" END="4550">Isaiah Bradley</charseq>
+          </extent>
+          <head>
+              <charseq START="4537" END="4550">Isaiah Bradley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Isaiah Bradley">
+              <charseq START="3774" END="3787">Isaiah Bradley</charseq>
+          </name>
+          <name NAME="Isaiah Bradley">
+              <charseq START="4277" END="4290">Isaiah Bradley</charseq>
+          </name>
+          <name NAME="Isaiah Bradley">
+              <charseq START="4537" END="4550">Isaiah Bradley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E37-M2603">
+          <extent>
+              <charseq START="3724" END="3788">African American super soldiers (most prominently Isaiah Bradley)</charseq>
+          </extent>
+          <head>
+              <charseq START="3747" END="3754">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E38-M2707">
+          <extent>
+              <charseq START="3847" END="3859">Camp Cathcart</charseq>
+          </extent>
+          <head>
+              <charseq START="3847" END="3859">Camp Cathcart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E38-M2808">
+          <extent>
+              <charseq START="4111" END="4123">Camp Cathcart</charseq>
+          </extent>
+          <head>
+              <charseq START="4111" END="4123">Camp Cathcart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Camp Cathcart">
+              <charseq START="3847" END="3859">Camp Cathcart</charseq>
+          </name>
+          <name NAME="Camp Cathcart">
+              <charseq START="4111" END="4123">Camp Cathcart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E39" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E39-M2710">
+          <extent>
+              <charseq START="3911" END="3933">an undisclosed location</charseq>
+          </extent>
+          <head>
+              <charseq START="3926" END="3933">location</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E40-M2712">
+          <extent>
+              <charseq START="3959" END="4023">White &amp; Black in an attempt to recreate the Super Soldier formula</charseq>
+          </extent>
+          <head>
+              <charseq START="3959" END="3963">White</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E40-M2714">
+          <extent>
+              <charseq START="3959" END="3963">White</charseq>
+          </extent>
+          <head>
+              <charseq START="3959" END="3963">White</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E41-M2800">
+          <extent>
+              <charseq START="4026" END="4038">Only five men</charseq>
+          </extent>
+          <head>
+              <charseq START="4036" END="4038">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E42-M2809">
+          <extent>
+              <charseq START="4129" END="4148">the camp&apos;s commander</charseq>
+          </extent>
+          <head>
+              <charseq START="4140" END="4148">commander</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E43" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E43-M2810">
+          <extent>
+              <charseq START="4129" END="4136">the camp</charseq>
+          </extent>
+          <head>
+              <charseq START="4133" END="4136">camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E44-M2811">
+          <extent>
+              <charseq START="4167" END="4177">US soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="4170" END="4177">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E45-M2816">
+          <extent>
+              <charseq START="4203" END="4235">the families of the three hundred</charseq>
+          </extent>
+          <head>
+              <charseq START="4207" END="4214">families</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E45-M2818">
+          <extent>
+              <charseq START="4219" END="4235">the three hundred</charseq>
+          </extent>
+          <head>
+              <charseq START="4223" END="4227">three</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E45-M2819">
+          <extent>
+              <charseq START="4252" END="4255">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4252" END="4255">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E45-M6107">
+          <extent>
+              <charseq START="9184" END="9190">the two</charseq>
+          </extent>
+          <head>
+              <charseq START="9188" END="9190">two</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E46-M3022">
+          <extent>
+              <charseq START="4558" END="4563">Josiah</charseq>
+          </extent>
+          <head>
+              <charseq START="4558" END="4563">Josiah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Josiah">
+              <charseq START="4558" END="4563">Josiah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E47-M3018">
+          <extent>
+              <charseq START="4537" END="4636">Isaiah Bradley&apos;s son Josiah X.
+Weapon Plus considers Captain America as its most successful creation</charseq>
+          </extent>
+          <head>
+              <charseq START="4554" END="4556">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E47-M5120">
+          <extent>
+              <charseq START="8057" END="8077">Wolverine&apos;s son Daken</charseq>
+          </extent>
+          <head>
+              <charseq START="8069" END="8071">son</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E48-M3420">
+          <extent>
+              <charseq START="5206" END="5214">DC Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="5206" END="5214">DC Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DC Comics">
+              <charseq START="5206" END="5214">DC Comics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E49-M3431">
+          <extent>
+              <charseq START="5318" END="5378">fans of both Grant Morrison&apos;s work on the Weapon Plus program</charseq>
+          </extent>
+          <head>
+              <charseq START="5318" END="5321">fans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E49-M3441">
+          <extent>
+              <charseq START="5427" END="5444">the same publisher</charseq>
+          </extent>
+          <head>
+              <charseq START="5436" END="5444">publisher</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E50-M3506">
+          <extent>
+              <charseq START="5476" END="5477">VI</charseq>
+          </extent>
+          <head>
+              <charseq START="5476" END="5477">VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VI">
+              <charseq START="5476" END="5477">VI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E51-M3507">
+          <extent>
+              <charseq START="5488" END="5512">various ethnic minorities</charseq>
+          </extent>
+          <head>
+              <charseq START="5503" END="5512">minorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E52-M3610">
+          <extent>
+              <charseq START="5595" END="5599">human</charseq>
+          </extent>
+          <head>
+              <charseq START="5595" END="5599">human</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E53-M3709">
+          <extent>
+              <charseq START="5705" END="5721">Andrew Perlmutter</charseq>
+          </extent>
+          <head>
+              <charseq START="5705" END="5721">Andrew Perlmutter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E53-M3702">
+          <extent>
+              <charseq START="5642" END="5694">the known participants who died in Project: Homegrown</charseq>
+          </extent>
+          <head>
+              <charseq START="5652" END="5663">participants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E53-M3704">
+          <extent>
+              <charseq START="5665" END="5667">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5665" END="5667">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E53-M3810">
+          <extent>
+              <charseq START="5903" END="5905">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5903" END="5905">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E53-M5800">
+          <extent>
+              <charseq START="8811" END="8836">the ultimate mutant killer</charseq>
+          </extent>
+          <head>
+              <charseq START="8831" END="8836">killer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew Perlmutter">
+              <charseq START="5705" END="5721">Andrew Perlmutter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E54-M3710">
+          <extent>
+              <charseq START="5724" END="5737">Michael Labash</charseq>
+          </extent>
+          <head>
+              <charseq START="5724" END="5737">Michael Labash</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Labash">
+              <charseq START="5724" END="5737">Michael Labash</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E55-M3711">
+          <extent>
+              <charseq START="5740" END="5749">John Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="5740" END="5749">John Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Walsh">
+              <charseq START="5740" END="5749">John Walsh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E56-M3712">
+          <extent>
+              <charseq START="5752" END="5767">James MacPherson</charseq>
+          </extent>
+          <head>
+              <charseq START="5752" END="5767">James MacPherson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James MacPherson">
+              <charseq START="5752" END="5767">James MacPherson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E57-M3713">
+          <extent>
+              <charseq START="5773" END="5803">fourteen other unknown recruits</charseq>
+          </extent>
+          <head>
+              <charseq START="5796" END="5803">recruits</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E59" TYPE="WEA" SUBTYPE="Nuclear" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E59-M3805">
+          <extent>
+              <charseq START="5866" END="5953">Nuke, who had armored implants under his epidermis and was addicted to powerful steroids</charseq>
+          </extent>
+          <head>
+              <charseq START="5866" END="5869">Nuke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E59-M3807">
+          <extent>
+              <charseq START="5872" END="5874">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5872" END="5874">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E59-M3908">
+          <extent>
+              <charseq START="6025" END="6028">Nuke</charseq>
+          </extent>
+          <head>
+              <charseq START="6025" END="6028">Nuke</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E60-M3900">
+          <extent>
+              <charseq START="5956" END="6013">Logan, who would later become one of Weapon Plus&apos; victims,</charseq>
+          </extent>
+          <head>
+              <charseq START="5956" END="5960">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E60-M3902">
+          <extent>
+              <charseq START="5963" END="5965">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5963" END="5965">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E60-M3911">
+          <extent>
+              <charseq START="6054" END="6056">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6054" END="6056">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E60-M8401">
+          <extent>
+              <charseq START="12715" END="12719">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="12715" END="12719">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Logan">
+              <charseq START="5956" END="5960">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="12715" END="12719">Logan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E61-M3905">
+          <extent>
+              <charseq START="5993" END="6012">Weapon Plus&apos; victims</charseq>
+          </extent>
+          <head>
+              <charseq START="6006" END="6012">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E62-M3909">
+          <extent>
+              <charseq START="6033" END="6039">a child</charseq>
+          </extent>
+          <head>
+              <charseq START="6035" END="6039">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E64-M4108">
+          <extent>
+              <charseq START="6209" END="6239">Homegrown, aka the Black Budget</charseq>
+          </extent>
+          <head>
+              <charseq START="6228" END="6239">Black Budget</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E64-M4111">
+          <extent>
+              <charseq START="6266" END="6360">the team known as the Super Soldiers: Dauntless, Gog, Dreadnaught, Revenge, Victory, Invincible</charseq>
+          </extent>
+          <head>
+              <charseq START="6270" END="6273">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E64-M4105">
+          <extent>
+              <charseq START="6181" END="6183">its</charseq>
+          </extent>
+          <head>
+              <charseq START="6181" END="6183">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E64-M6701">
+          <extent>
+              <charseq START="9864" END="9872">This team</charseq>
+          </extent>
+          <head>
+              <charseq START="9869" END="9872">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Black Budget">
+              <charseq START="6228" END="6239">Black Budget</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E65-M4122">
+          <extent>
+              <charseq START="6363" END="6372">Challenger</charseq>
+          </extent>
+          <head>
+              <charseq START="6363" END="6372">Challenger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Challenger">
+              <charseq START="6363" END="6372">Challenger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E66" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E66-M4113">
+          <extent>
+              <charseq START="6284" END="6360">the Super Soldiers: Dauntless, Gog, Dreadnaught, Revenge, Victory, Invincible</charseq>
+          </extent>
+          <head>
+              <charseq START="6294" END="6301">Soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E67-M4201">
+          <extent>
+              <charseq START="6408" END="6428">The Mercy Corporation</charseq>
+          </extent>
+          <head>
+              <charseq START="6412" END="6428">Mercy Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E67-M4210">
+          <extent>
+              <charseq START="6525" END="6527">its</charseq>
+          </extent>
+          <head>
+              <charseq START="6525" END="6527">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mercy Corporation">
+              <charseq START="6412" END="6428">Mercy Corporation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E68-M4205">
+          <extent>
+              <charseq START="6447" END="6458">S.H.I.E.L.D.</charseq>
+          </extent>
+          <head>
+              <charseq START="6447" END="6458">S.H.I.E.L.D.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="S.H.I.E.L.D.">
+              <charseq START="6447" END="6458">S.H.I.E.L.D.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E69-M4226">
+          <extent>
+              <charseq START="6667" END="6675">Jack Reno</charseq>
+          </extent>
+          <head>
+              <charseq START="6667" END="6675">Jack Reno</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jack Reno">
+              <charseq START="6667" END="6675">Jack Reno</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E70-M4227">
+          <extent>
+              <charseq START="6678" END="6681">Keel</charseq>
+          </extent>
+          <head>
+              <charseq START="6678" END="6681">Keel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keel">
+              <charseq START="6678" END="6681">Keel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E71-M4228">
+          <extent>
+              <charseq START="6684" END="6687">Kyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6684" END="6687">Kyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kyle">
+              <charseq START="6684" END="6687">Kyle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E72-M4230">
+          <extent>
+              <charseq START="6696" END="6704">Villarosa</charseq>
+          </extent>
+          <head>
+              <charseq START="6696" END="6704">Villarosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Villarosa">
+              <charseq START="6696" END="6704">Villarosa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E73-M4231">
+          <extent>
+              <charseq START="6707" END="6717">Agent Davis</charseq>
+          </extent>
+          <head>
+              <charseq START="6713" END="6717">Davis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E73-M4232">
+          <extent>
+              <charseq START="6707" END="6711">Agent</charseq>
+          </extent>
+          <head>
+              <charseq START="6707" END="6711">Agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E73-M4229">
+          <extent>
+              <charseq START="6690" END="6694">Agent</charseq>
+          </extent>
+          <head>
+              <charseq START="6690" END="6694">Agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Davis">
+              <charseq START="6713" END="6717">Davis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E74-M4234">
+          <extent>
+              <charseq START="6723" END="6732">Agent Milo</charseq>
+          </extent>
+          <head>
+              <charseq START="6729" END="6732">Milo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E74-M4235">
+          <extent>
+              <charseq START="6723" END="6727">Agent</charseq>
+          </extent>
+          <head>
+              <charseq START="6723" END="6727">Agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Milo">
+              <charseq START="6729" END="6732">Milo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E75" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E75-M4222">
+          <extent>
+              <charseq START="6645" END="6656">Their agents</charseq>
+          </extent>
+          <head>
+              <charseq START="6651" END="6656">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E76-M4300">
+          <extent>
+              <charseq START="6735" END="6762">Weapon VIII &amp; IX
+Weapon VIII</charseq>
+          </extent>
+          <head>
+              <charseq START="6742" END="6762">VIII &amp; IX
+Weapon VIII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E76-M4301">
+          <extent>
+              <charseq START="6735" END="6740">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="6735" END="6740">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E76-M4502">
+          <extent>
+              <charseq START="6896" END="6906">Weapon VIII</charseq>
+          </extent>
+          <head>
+              <charseq START="6896" END="6906">Weapon VIII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E76-M4513">
+          <extent>
+              <charseq START="7024" END="7026">its</charseq>
+          </extent>
+          <head>
+              <charseq START="7024" END="7026">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VIII &amp; IX
+Weapon VIII">
+              <charseq START="6742" END="6762">VIII &amp; IX
+Weapon VIII</charseq>
+          </name>
+          <name NAME="Weapon VIII">
+              <charseq START="6896" END="6906">Weapon VIII</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E77" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E77-M4303">
+          <extent>
+              <charseq START="6784" END="6818">enhanced soldiers using power suits</charseq>
+          </extent>
+          <head>
+              <charseq START="6793" END="6800">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E78-M4400">
+          <extent>
+              <charseq START="6821" END="6847">Weapon Alpha (aka Guardian)</charseq>
+          </extent>
+          <head>
+              <charseq START="6821" END="6832">Weapon Alpha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Weapon Alpha">
+              <charseq START="6821" END="6832">Weapon Alpha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E79-M4402">
+          <extent>
+              <charseq START="6839" END="6846">Guardian</charseq>
+          </extent>
+          <head>
+              <charseq START="6839" END="6846">Guardian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guardian">
+              <charseq START="6839" END="6846">Guardian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E80-M4603">
+          <extent>
+              <charseq START="7064" END="7075">Paul Jenkins</charseq>
+          </extent>
+          <head>
+              <charseq START="7064" END="7075">Paul Jenkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paul Jenkins">
+              <charseq START="7064" END="7075">Paul Jenkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E81-M4611">
+          <extent>
+              <charseq START="7149" END="7194">John Howlett III (first introduced in Origin),</charseq>
+          </extent>
+          <head>
+              <charseq START="7149" END="7164">John Howlett III</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Howlett III">
+              <charseq START="7149" END="7164">John Howlett III</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E82" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E82-M4609">
+          <extent>
+              <charseq START="7123" END="7147">Wolverine&apos;s older brother</charseq>
+          </extent>
+          <head>
+              <charseq START="7141" END="7147">brother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E83" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E83-M4705" ROLE="GPE">
+          <extent>
+              <charseq START="7296" END="7301">Marvel</charseq>
+          </extent>
+          <head>
+              <charseq START="7296" END="7301">Marvel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel">
+              <charseq START="7296" END="7301">Marvel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E84-M4704">
+          <extent>
+              <charseq START="7296" END="7308">Marvel comics</charseq>
+          </extent>
+          <head>
+              <charseq START="7303" END="7308">comics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E85-M5108">
+          <extent>
+              <charseq START="7905" END="7913">Nick Fury</charseq>
+          </extent>
+          <head>
+              <charseq START="7905" END="7913">Nick Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nick Fury">
+              <charseq START="7905" END="7913">Nick Fury</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E86" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E86-M5110" ROLE="LOC">
+          <extent>
+              <charseq START="7920" END="7926">Romulus</charseq>
+          </extent>
+          <head>
+              <charseq START="7920" END="7926">Romulus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E86-M5119">
+          <extent>
+              <charseq START="8032" END="8038">Romulus</charseq>
+          </extent>
+          <head>
+              <charseq START="8032" END="8038">Romulus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Romulus">
+              <charseq START="7920" END="7926">Romulus</charseq>
+          </name>
+          <name NAME="Romulus">
+              <charseq START="8032" END="8038">Romulus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E87-M5123">
+          <extent>
+              <charseq START="8073" END="8077">Daken</charseq>
+          </extent>
+          <head>
+              <charseq START="8073" END="8077">Daken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E87-M5135">
+          <extent>
+              <charseq START="8180" END="8184">Daken</charseq>
+          </extent>
+          <head>
+              <charseq START="8180" END="8184">Daken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E87-M5206">
+          <extent>
+              <charseq START="8281" END="8314">Daken, who is allowed in the house</charseq>
+          </extent>
+          <head>
+              <charseq START="8281" END="8285">Daken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E87-M5208">
+          <extent>
+              <charseq START="8288" END="8290">who</charseq>
+          </extent>
+          <head>
+              <charseq START="8288" END="8290">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E87-M5300">
+          <extent>
+              <charseq START="8317" END="8318">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8317" END="8318">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E87-M5400">
+          <extent>
+              <charseq START="8348" END="8349">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8348" END="8349">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daken">
+              <charseq START="8073" END="8077">Daken</charseq>
+          </name>
+          <name NAME="Daken">
+              <charseq START="8180" END="8184">Daken</charseq>
+          </name>
+          <name NAME="Daken">
+              <charseq START="8281" END="8285">Daken</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E88" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E88-M5111">
+          <extent>
+              <charseq START="7929" END="7947">Wolverine&apos;s creator</charseq>
+          </extent>
+          <head>
+              <charseq START="7941" END="7947">creator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E88-M5116">
+          <extent>
+              <charseq START="8022" END="8023">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8022" END="8023">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E89" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E89-M5204">
+          <extent>
+              <charseq START="8216" END="8238">Marvel Spotlight Daniel</charseq>
+          </extent>
+          <head>
+              <charseq START="8216" END="8238">Marvel Spotlight Daniel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel Spotlight Daniel">
+              <charseq START="8216" END="8238">Marvel Spotlight Daniel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E90" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E90-M5203">
+          <extent>
+              <charseq START="8216" END="8245">Marvel Spotlight Daniel states</charseq>
+          </extent>
+          <head>
+              <charseq START="8240" END="8245">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E91" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E91-M5209">
+          <extent>
+              <charseq START="8306" END="8314">the house</charseq>
+          </extent>
+          <head>
+              <charseq START="8310" END="8314">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E92" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E92-M5510">
+          <extent>
+              <charseq START="8427" END="8438">Scott Adkins</charseq>
+          </extent>
+          <head>
+              <charseq START="8427" END="8438">Scott Adkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scott Adkins">
+              <charseq START="8427" END="8438">Scott Adkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E93" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E93-M5511">
+          <extent>
+              <charseq START="8444" END="8456">Ryan Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="8444" END="8456">Ryan Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan Reynolds">
+              <charseq START="8444" END="8456">Ryan Reynolds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E94" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E94-M5602">
+          <extent>
+              <charseq START="8493" END="8512">Col. William Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="8498" END="8512">William Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E94-M5603">
+          <extent>
+              <charseq START="8493" END="8496">Col.</charseq>
+          </extent>
+          <head>
+              <charseq START="8493" END="8496">Col.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E94-M5700">
+          <extent>
+              <charseq START="8717" END="8718">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8717" END="8718">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E94-M5705">
+          <extent>
+              <charseq START="8763" END="8765">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8763" END="8765">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E94-M8914">
+          <extent>
+              <charseq START="13516" END="13530">William Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="13516" END="13530">William Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William Stryker">
+              <charseq START="8498" END="8512">William Stryker</charseq>
+          </name>
+          <name NAME="William Stryker">
+              <charseq START="13516" END="13530">William Stryker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E95" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E95-M5615">
+          <extent>
+              <charseq START="8658" END="8664">Cyclops</charseq>
+          </extent>
+          <head>
+              <charseq START="8658" END="8664">Cyclops</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cyclops">
+              <charseq START="8658" END="8664">Cyclops</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E96" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E96-M5904">
+          <extent>
+              <charseq START="8873" END="8907">a modified Wade Wilson aka Deadpool</charseq>
+          </extent>
+          <head>
+              <charseq START="8900" END="8907">Deadpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E96-M6004">
+          <extent>
+              <charseq START="8950" END="8952">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8950" END="8952">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E96-M6006">
+          <extent>
+              <charseq START="8979" END="8981">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8979" END="8981">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E96-M6010">
+          <extent>
+              <charseq START="9028" END="9029">he</charseq>
+          </extent>
+          <head>
+              <charseq START="9028" END="9029">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Deadpool">
+              <charseq START="8900" END="8907">Deadpool</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E97" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E97-M5905">
+          <extent>
+              <charseq START="8884" END="8894">Wade Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="8884" END="8894">Wade Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wade Wilson">
+              <charseq START="8884" END="8894">Wade Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E98" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E98-M6012">
+          <extent>
+              <charseq START="9039" END="9050">the audience</charseq>
+          </extent>
+          <head>
+              <charseq START="9043" END="9050">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E99" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E99-M6105">
+          <extent>
+              <charseq START="9125" END="9159">two completely different characters</charseq>
+          </extent>
+          <head>
+              <charseq START="9150" END="9159">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E100" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E100-M6205">
+          <extent>
+              <charseq START="9261" END="9284">Weapon XII (aka Huntsman</charseq>
+          </extent>
+          <head>
+              <charseq START="9277" END="9284">Huntsman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E100-M6300">
+          <extent>
+              <charseq START="9359" END="9360">He</charseq>
+          </extent>
+          <head>
+              <charseq START="9359" END="9360">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E100-M6413">
+          <extent>
+              <charseq START="9596" END="9607">Multiple Man</charseq>
+          </extent>
+          <head>
+              <charseq START="9605" END="9607">Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E100-M6600">
+          <extent>
+              <charseq START="9727" END="9734">Huntsman</charseq>
+          </extent>
+          <head>
+              <charseq START="9727" END="9734">Huntsman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Huntsman">
+              <charseq START="9277" END="9284">Huntsman</charseq>
+          </name>
+          <name NAME="Huntsman">
+              <charseq START="9727" END="9734">Huntsman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E101" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E101-M6207">
+          <extent>
+              <charseq START="9268" END="9270">XII</charseq>
+          </extent>
+          <head>
+              <charseq START="9268" END="9270">XII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E101-M6400">
+          <extent>
+              <charseq START="9458" END="9467">Weapon XII</charseq>
+          </extent>
+          <head>
+              <charseq START="9465" END="9467">XII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E101-M6401">
+          <extent>
+              <charseq START="9458" END="9463">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="9458" END="9463">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E101-M6500">
+          <extent>
+              <charseq START="9610" END="9619">Weapon XII</charseq>
+          </extent>
+          <head>
+              <charseq START="9617" END="9619">XII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E101-M6501">
+          <extent>
+              <charseq START="9610" END="9615">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="9610" END="9615">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E101-M7002">
+          <extent>
+              <charseq START="10188" END="10197">Weapon XII</charseq>
+          </extent>
+          <head>
+              <charseq START="10188" END="10197">Weapon XII</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="XII">
+              <charseq START="9268" END="9270">XII</charseq>
+          </name>
+          <name NAME="XII">
+              <charseq START="9465" END="9467">XII</charseq>
+          </name>
+          <name NAME="XII">
+              <charseq START="9617" END="9619">XII</charseq>
+          </name>
+          <name NAME="Weapon XII">
+              <charseq START="10188" END="10197">Weapon XII</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E102" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E102-M6213">
+          <extent>
+              <charseq START="9297" END="9300">Zona</charseq>
+          </extent>
+          <head>
+              <charseq START="9297" END="9300">Zona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zona">
+              <charseq START="9297" END="9300">Zona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E103" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E103-M6217" ROLE="LOC">
+          <extent>
+              <charseq START="9320" END="9326">England</charseq>
+          </extent>
+          <head>
+              <charseq START="9320" END="9326">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="9320" END="9326">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E104" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E104-M6403">
+          <extent>
+              <charseq START="9501" END="9518">the Channel Tunnel</charseq>
+          </extent>
+          <head>
+              <charseq START="9505" END="9518">Channel Tunnel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Channel Tunnel">
+              <charseq START="9505" END="9518">Channel Tunnel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E105" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E105-M6407">
+          <extent>
+              <charseq START="9531" END="9543">X-Corporation</charseq>
+          </extent>
+          <head>
+              <charseq START="9531" END="9543">X-Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="X-Corporation">
+              <charseq START="9531" END="9543">X-Corporation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E106" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E106-M6410" ROLE="LOC">
+          <extent>
+              <charseq START="9568" END="9575">Darkstar</charseq>
+          </extent>
+          <head>
+              <charseq START="9568" END="9575">Darkstar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E106-M6513">
+          <extent>
+              <charseq START="9710" END="9717">Darkstar</charseq>
+          </extent>
+          <head>
+              <charseq START="9710" END="9717">Darkstar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Darkstar">
+              <charseq START="9568" END="9575">Darkstar</charseq>
+          </name>
+          <name NAME="Darkstar">
+              <charseq START="9710" END="9717">Darkstar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E107" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E107-M6411">
+          <extent>
+              <charseq START="9578" END="9583">Rictor</charseq>
+          </extent>
+          <head>
+              <charseq START="9578" END="9583">Rictor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rictor">
+              <charseq START="9578" END="9583">Rictor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E108" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E108-M6503">
+          <extent>
+              <charseq START="9639" END="9646">Fantomex</charseq>
+          </extent>
+          <head>
+              <charseq START="9639" END="9646">Fantomex</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E108-M6900">
+          <extent>
+              <charseq START="10130" END="10137">Fantomex</charseq>
+          </extent>
+          <head>
+              <charseq START="10130" END="10137">Fantomex</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E108-M6902">
+          <extent>
+              <charseq START="10156" END="10158">his</charseq>
+          </extent>
+          <head>
+              <charseq START="10156" END="10158">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E108-M7004">
+          <extent>
+              <charseq START="10200" END="10207">Fantomex</charseq>
+          </extent>
+          <head>
+              <charseq START="10200" END="10207">Fantomex</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E108-M7806">
+          <extent>
+              <charseq START="11787" END="11794">Fantomex</charseq>
+          </extent>
+          <head>
+              <charseq START="11787" END="11794">Fantomex</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fantomex">
+              <charseq START="9639" END="9646">Fantomex</charseq>
+          </name>
+          <name NAME="Fantomex">
+              <charseq START="10130" END="10137">Fantomex</charseq>
+          </name>
+          <name NAME="Fantomex">
+              <charseq START="10200" END="10207">Fantomex</charseq>
+          </name>
+          <name NAME="Fantomex">
+              <charseq START="11787" END="11794">Fantomex</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E109" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E109-M6507">
+          <extent>
+              <charseq START="9664" END="9672">Jean Grey</charseq>
+          </extent>
+          <head>
+              <charseq START="9664" END="9672">Jean Grey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean Grey">
+              <charseq START="9664" END="9672">Jean Grey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E110" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E110-M6613">
+          <extent>
+              <charseq START="9835" END="9861">a Weapon Plus space station</charseq>
+          </extent>
+          <head>
+              <charseq START="9855" END="9861">station</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E110-M7303">
+          <extent>
+              <charseq START="10806" END="10865">the Weapon Plus space station that was designed as the Super</charseq>
+          </extent>
+          <head>
+              <charseq START="10828" END="10834">station</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E110-M7308">
+          <extent>
+              <charseq START="10836" END="10839">that</charseq>
+          </extent>
+          <head>
+              <charseq START="10836" END="10839">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E110-M7404">
+          <extent>
+              <charseq START="10946" END="10957">a secret lab</charseq>
+          </extent>
+          <head>
+              <charseq START="10955" END="10957">lab</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E110-M8929">
+          <extent>
+              <charseq START="13698" END="13762">a cold storage lab where the containers are marked &quot;Weapons Plus&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="13713" END="13715">lab</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E110-M8932">
+          <extent>
+              <charseq START="13717" END="13721">where</charseq>
+          </extent>
+          <head>
+              <charseq START="13717" END="13721">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E112" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E112-M6804">
+          <extent>
+              <charseq START="10042" END="10100">Weapon XIII Fantomex, whose real name is Charlie Cluster 7,</charseq>
+          </extent>
+          <head>
+              <charseq START="10049" END="10061">XIII Fantomex</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E112-M6806">
+          <extent>
+              <charseq START="10042" END="10047">Weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="10042" END="10047">Weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E112-M6808">
+          <extent>
+              <charseq START="10064" END="10068">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="10064" END="10068">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="XIII Fantomex">
+              <charseq START="10049" END="10061">XIII Fantomex</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E113" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E113-M6811">
+          <extent>
+              <charseq START="10083" END="10097">Charlie Cluster</charseq>
+          </extent>
+          <head>
+              <charseq START="10083" END="10097">Charlie Cluster</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Cluster">
+              <charseq START="10083" END="10097">Charlie Cluster</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E114" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E114-M6901">
+          <extent>
+              <charseq START="10156" END="10167">his creators</charseq>
+          </extent>
+          <head>
+              <charseq START="10160" END="10167">creators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E115" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E115-M7116">
+          <extent>
+              <charseq START="10372" END="10391">the Stepford Cuckoos</charseq>
+          </extent>
+          <head>
+              <charseq START="10376" END="10391">Stepford Cuckoos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E115-M8907">
+          <extent>
+              <charseq START="13434" END="13453">the Stepford Cuckoos</charseq>
+          </extent>
+          <head>
+              <charseq START="13438" END="13453">Stepford Cuckoos</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stepford Cuckoos">
+              <charseq START="10376" END="10391">Stepford Cuckoos</charseq>
+          </name>
+          <name NAME="Stepford Cuckoos">
+              <charseq START="13438" END="13453">Stepford Cuckoos</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E116" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E116-M7128">
+          <extent>
+              <charseq START="10495" END="10505">the Phoenix</charseq>
+          </extent>
+          <head>
+              <charseq START="10499" END="10505">Phoenix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E116-M7141" ROLE="LOC">
+          <extent>
+              <charseq START="10616" END="10628">Pak&apos;s Phoenix</charseq>
+          </extent>
+          <head>
+              <charseq START="10622" END="10628">Phoenix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E116-M8903" ROLE="LOC">
+          <extent>
+              <charseq START="13386" END="13392">Phoenix</charseq>
+          </extent>
+          <head>
+              <charseq START="13386" END="13392">Phoenix</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phoenix">
+              <charseq START="10499" END="10505">Phoenix</charseq>
+          </name>
+          <name NAME="Phoenix">
+              <charseq START="10622" END="10628">Phoenix</charseq>
+          </name>
+          <name NAME="Phoenix">
+              <charseq START="13386" END="13392">Phoenix</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E117" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E117-M7131">
+          <extent>
+              <charseq START="10508" END="10514">Warsong</charseq>
+          </extent>
+          <head>
+              <charseq START="10508" END="10514">Warsong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E117-M8904">
+          <extent>
+              <charseq START="13395" END="13401">Warsong</charseq>
+          </extent>
+          <head>
+              <charseq START="13395" END="13401">Warsong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Warsong">
+              <charseq START="10508" END="10514">Warsong</charseq>
+          </name>
+          <name NAME="Warsong">
+              <charseq START="13395" END="13401">Warsong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E118" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E118-M7132">
+          <extent>
+              <charseq START="10539" END="10606">Greg Pak, which explores unresolved storylines from Morrison&apos;s New X</charseq>
+          </extent>
+          <head>
+              <charseq START="10539" END="10546">Greg Pak</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E118-M7142">
+          <extent>
+              <charseq START="10616" END="10618">Pak</charseq>
+          </extent>
+          <head>
+              <charseq START="10616" END="10618">Pak</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E118-M7114">
+          <extent>
+              <charseq START="10338" END="10391">the telepathic quintuplets called the Stepford Cuckoos</charseq>
+          </extent>
+          <head>
+              <charseq START="10353" END="10363">quintuplets</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E118-M7118">
+          <extent>
+              <charseq START="10412" END="10505">Weapon XIV.
+The Stepford Cuckoos link to Weapon Plus has finally been addressed in the Phoenix</charseq>
+          </extent>
+          <head>
+              <charseq START="10437" END="10443">Cuckoos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E118-M7134">
+          <extent>
+              <charseq START="10549" END="10553">which</charseq>
+          </extent>
+          <head>
+              <charseq START="10549" END="10553">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greg Pak">
+              <charseq START="10539" END="10546">Greg Pak</charseq>
+          </name>
+          <name NAME="Pak">
+              <charseq START="10616" END="10618">Pak</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E119" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E119-M7144">
+          <extent>
+              <charseq START="10631" END="10637">Endsong</charseq>
+          </extent>
+          <head>
+              <charseq START="10631" END="10637">Endsong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Endsong">
+              <charseq START="10631" END="10637">Endsong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E120" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E120-M7209">
+          <extent>
+              <charseq START="10709" END="10717">Ultimaton</charseq>
+          </extent>
+          <head>
+              <charseq START="10709" END="10717">Ultimaton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E120-M7300">
+          <extent>
+              <charseq START="10774" END="10775">He</charseq>
+          </extent>
+          <head>
+              <charseq START="10774" END="10775">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ultimaton">
+              <charseq START="10709" END="10717">Ultimaton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E121" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E121-M7212">
+          <extent>
+              <charseq START="10745" END="10771">Sentinels&apos; grand powerhouse</charseq>
+          </extent>
+          <head>
+              <charseq START="10762" END="10771">powerhouse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E122" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E122-M7313">
+          <extent>
+              <charseq START="10886" END="10889">X-23</charseq>
+          </extent>
+          <head>
+              <charseq START="10886" END="10889">X-23</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="X-23">
+              <charseq START="10886" END="10889">X-23</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E123" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E123-M7309">
+          <extent>
+              <charseq START="10857" END="10865">the Super</charseq>
+          </extent>
+          <head>
+              <charseq START="10861" END="10865">Super</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E124" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E124-M7409">
+          <extent>
+              <charseq START="11002" END="11023">the program scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="11014" END="11023">scientists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E124-M7424">
+          <extent>
+              <charseq START="11207" END="11228">the Program Scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="11219" END="11228">Scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E125" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E125-M7411">
+          <extent>
+              <charseq START="11042" END="11075">superior humans employing eugenics</charseq>
+          </extent>
+          <head>
+              <charseq START="11051" END="11056">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E125-M7710">
+          <extent>
+              <charseq START="11553" END="11597">humans in the traditional meaning of the word</charseq>
+          </extent>
+          <head>
+              <charseq START="11553" END="11558">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E125-M7715">
+          <extent>
+              <charseq START="11603" END="11606">they</charseq>
+          </extent>
+          <head>
+              <charseq START="11603" END="11606">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E125-M7800">
+          <extent>
+              <charseq START="11705" END="11718">the scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="11709" END="11718">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E126" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E126-M7605">
+          <extent>
+              <charseq START="11392" END="11405">the population</charseq>
+          </extent>
+          <head>
+              <charseq START="11396" END="11405">population</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E126-M8007">
+          <extent>
+              <charseq START="12221" END="12234">the population</charseq>
+          </extent>
+          <head>
+              <charseq START="12225" END="12234">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E127" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E127-M7703">
+          <extent>
+              <charseq START="11425" END="11481">the inhabitants&apos; ancestors in this artificial environment</charseq>
+          </extent>
+          <head>
+              <charseq START="11442" END="11450">ancestors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E127-M7705">
+          <extent>
+              <charseq START="11425" END="11439">the inhabitants</charseq>
+          </extent>
+          <head>
+              <charseq START="11429" END="11439">inhabitants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E127-M7708">
+          <extent>
+              <charseq START="11534" END="11537">they</charseq>
+          </extent>
+          <head>
+              <charseq START="11534" END="11537">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E128" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E128-M7719">
+          <extent>
+              <charseq START="11636" END="11694">mutated and naturally born cyborgs refined through eugenics</charseq>
+          </extent>
+          <head>
+              <charseq START="11663" END="11669">cyborgs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E129" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E129-M7823">
+          <extent>
+              <charseq START="11988" END="12032">the areas of eugenics and genetic engineering</charseq>
+          </extent>
+          <head>
+              <charseq START="11992" END="11996">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E130" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E130-M7900">
+          <extent>
+              <charseq START="12035" END="12083">The most promising individuals in each generation</charseq>
+          </extent>
+          <head>
+              <charseq START="12054" END="12064">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E131" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E131-M7903">
+          <extent>
+              <charseq START="12104" END="12113">the others</charseq>
+          </extent>
+          <head>
+              <charseq START="12108" END="12113">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E132" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E132-M8006">
+          <extent>
+              <charseq START="12185" END="12195">the fittest</charseq>
+          </extent>
+          <head>
+              <charseq START="12189" END="12195">fittest</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E133" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E133-M8103">
+          <extent>
+              <charseq START="12302" END="12312">superhumans</charseq>
+          </extent>
+          <head>
+              <charseq START="12302" END="12312">superhumans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E134" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E134-M8106">
+          <extent>
+              <charseq START="12361" END="12368">hundreds</charseq>
+          </extent>
+          <head>
+              <charseq START="12361" END="12368">hundreds</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E135" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E135-M8302">
+          <extent>
+              <charseq START="12511" END="12704">a population (with its own religion, history and culture) that is led to believe that beyond the World&apos;s limits there&apos;s nothing else than endless rock and that mutants are coming to destroy them</charseq>
+          </extent>
+          <head>
+              <charseq START="12513" END="12522">population</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E135-M8310">
+          <extent>
+              <charseq START="12569" END="12572">that</charseq>
+          </extent>
+          <head>
+              <charseq START="12569" END="12572">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E136" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E136-M8402">
+          <extent>
+              <charseq START="12728" END="12765">those who are selected for termination</charseq>
+          </extent>
+          <head>
+              <charseq START="12728" END="12732">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E136-M8404">
+          <extent>
+              <charseq START="12734" END="12736">who</charseq>
+          </extent>
+          <head>
+              <charseq START="12734" END="12736">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E137" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E137-M8504">
+          <extent>
+              <charseq START="12881" END="12890">prototypes</charseq>
+          </extent>
+          <head>
+              <charseq START="12881" END="12890">prototypes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E138" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E138-M8508">
+          <extent>
+              <charseq START="12916" END="12923">car-cops</charseq>
+          </extent>
+          <head>
+              <charseq START="12916" END="12923">car-cops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E139" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E139-M8601">
+          <extent>
+              <charseq START="12965" END="12977">agents of AIM</charseq>
+          </extent>
+          <head>
+              <charseq START="12965" END="12970">agents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E139-M8610">
+          <extent>
+              <charseq START="13061" END="13064">them</charseq>
+          </extent>
+          <head>
+              <charseq START="13061" END="13064">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Weapon_Plus.sentences.sgm-E139-M8700">
+          <extent>
+              <charseq START="13076" END="13079">they</charseq>
+          </extent>
+          <head>
+              <charseq START="13076" END="13079">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E140" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E140-M8921">
+          <extent>
+              <charseq START="13580" END="13593">Marvel Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="13580" END="13593">Marvel Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel Studios">
+              <charseq START="13580" END="13593">Marvel Studios</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E141" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E141-M8922">
+          <extent>
+              <charseq START="13600" END="13618">The Incredible Hulk</charseq>
+          </extent>
+          <head>
+              <charseq START="13604" END="13618">Incredible Hulk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Incredible Hulk">
+              <charseq START="13604" END="13618">Incredible Hulk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Weapon_Plus.sentences.sgm-E142" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Weapon_Plus.sentences.sgm-E142-M8924">
+          <extent>
+              <charseq START="13621" END="13632">General Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="13629" END="13632">Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Weapon_Plus.sentences.sgm-E142-M8925">
+          <extent>
+              <charseq START="13621" END="13627">General</charseq>
+          </extent>
+          <head>
+              <charseq START="13621" END="13627">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ross">
+              <charseq START="13629" END="13632">Ross</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T0" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="285" END="294">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T1" VAL="194">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="739" END="743">1940s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1586" END="1589">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T3" VAL="PXDE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1718" END="1728">the decades</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="3510" END="3519">modern era</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T5" VAL="2004-05">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="10285" END="10292">May 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="10313" END="10316">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="10662" END="10665">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Weapon_Plus.sentences.sgm-V8" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+        <value_mention ID="Weapon_Plus.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="10877" END="10886">HQ.
+X-23
+X</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T9" VAL="PXDE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="11860" END="11866">decades</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T10" VAL="PXCE">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="11872" END="11880">centuries</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T11" VAL="PXM">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="12336" END="12347">a few months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T12" VAL="PXY">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="12373" END="12390">thousands of years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T13" VAL="PXY">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="12408" END="12412">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Weapon_Plus.sentences.sgm-T14" VAL="P18M">
+        <timex2_mention ID="Weapon_Plus.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="12447" END="12461">eighteen months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R0-M2600">
+          <extent>
+              <charseq START="3724" END="3788">African American super soldiers (most prominently Isaiah Bradley)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E37-M2603" ROLE="Arg-1">
+            <extent>
+              <charseq START="3724" END="3788">African American super soldiers (most prominently Isaiah Bradley)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E0-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="3724" END="3730">African</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R0-M2601">
+          <extent>
+              <charseq START="3724" END="3788">African American super soldiers (most prominently Isaiah Bradley)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E37-M2603" ROLE="Arg-1">
+            <extent>
+              <charseq START="3724" END="3788">African American super soldiers (most prominently Isaiah Bradley)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E0-M2606" ROLE="Arg-2">
+            <extent>
+              <charseq START="3732" END="3739">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R1-M2800">
+          <extent>
+              <charseq START="4167" END="4177">US soldiers</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E44-M2811" ROLE="Arg-1">
+            <extent>
+              <charseq START="4167" END="4177">US soldiers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E0-M2812" ROLE="Arg-2">
+            <extent>
+              <charseq START="4167" END="4168">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E47" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R2-M3000">
+          <extent>
+              <charseq START="4537" END="4550">Isaiah Bradley</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E36-M3020" ROLE="Arg-1">
+            <extent>
+              <charseq START="4537" END="4550">Isaiah Bradley</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E47-M3018" ROLE="Arg-2">
+            <extent>
+              <charseq START="4537" END="4636">Isaiah Bradley&apos;s son Josiah X.
+Weapon Plus considers Captain America as its most successful creation</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E84" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E83" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R3-M4700">
+          <extent>
+              <charseq START="7296" END="7308">Marvel comics</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E84-M4704" ROLE="Arg-1">
+            <extent>
+              <charseq START="7296" END="7308">Marvel comics</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E83-M4705" ROLE="Arg-2">
+            <extent>
+              <charseq START="7296" END="7301">Marvel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E88" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R4-M5100">
+          <extent>
+              <charseq START="7929" END="7947">Wolverine&apos;s creator</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E88-M5111" ROLE="Arg-1">
+            <extent>
+              <charseq START="7929" END="7947">Wolverine&apos;s creator</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E29-M5112" ROLE="Arg-2">
+            <extent>
+              <charseq START="7929" END="7937">Wolverine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E47" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R5-M5101">
+          <extent>
+              <charseq START="8057" END="8077">Wolverine&apos;s son Daken</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E47-M5120" ROLE="Arg-1">
+            <extent>
+              <charseq START="8057" END="8077">Wolverine&apos;s son Daken</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E29-M5122" ROLE="Arg-2">
+            <extent>
+              <charseq START="8057" END="8065">Wolverine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E118" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E116" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R6-M7100">
+          <extent>
+              <charseq START="10616" END="10618">Pak</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E118-M7142" ROLE="Arg-1">
+            <extent>
+              <charseq START="10616" END="10618">Pak</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E116-M7141" ROLE="Arg-2">
+            <extent>
+              <charseq START="10616" END="10628">Pak&apos;s Phoenix</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E137" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R7-M8500">
+          <extent>
+              <charseq START="12881" END="12890">prototypes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E137-M8504" ROLE="Arg-1">
+            <extent>
+              <charseq START="12881" END="12890">prototypes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E6-M8500" ROLE="Arg-2">
+            <extent>
+              <charseq START="12826" END="12834">The World</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E139" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R8-M8600">
+          <extent>
+              <charseq START="12965" END="12977">agents of AIM</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E139-M8601" ROLE="Arg-1">
+            <extent>
+              <charseq START="12965" END="12977">agents of AIM</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E34-M8603" ROLE="Arg-2">
+            <extent>
+              <charseq START="12975" END="12977">AIM</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Weapon_Plus.sentences.sgm-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Weapon_Plus.sentences.sgm-E115" ROLE="Arg-2"/>
+        <relation_mention ID="Weapon_Plus.sentences.sgm-R9-M8900">
+          <extent>
+              <charseq START="13413" END="13419">Sublime</charseq>
+          </extent>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E9-M8906" ROLE="Arg-1">
+            <extent>
+              <charseq START="13413" END="13419">Sublime</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Weapon_Plus.sentences.sgm-E115-M8907" ROLE="Arg-2">
+            <extent>
+              <charseq START="13434" END="13453">the Stepford Cuckoos</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV0-M200">
+          <extent>
+              <charseq START="267" END="271">fight</charseq>
+          </extent>
+          <anchor>
+              <charseq START="267" END="271">fight</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV1-M201">
+          <extent>
+              <charseq START="277" END="280">wars</charseq>
+          </extent>
+          <anchor>
+              <charseq START="277" END="280">wars</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV2-M202">
+          <extent>
+              <charseq START="323" END="325">war</charseq>
+          </extent>
+          <anchor>
+              <charseq START="323" END="325">war</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E25" ROLE="Victim"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV3-M2302">
+          <extent>
+              <charseq START="3165" END="3172">murdered</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3165" END="3172">murdered</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E25-M2300" ROLE="Victim">
+          <extent>
+              <charseq START="3153" END="3159">Erskine</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV3-M2400">
+          <extent>
+              <charseq START="3317" END="3322">demise</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3317" END="3322">demise</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E25-M2401" ROLE="Victim">
+          <extent>
+              <charseq START="3313" END="3315">his</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E25" ROLE="Victim"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV4-M2303">
+          <extent>
+              <charseq START="3301" END="3305">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3301" END="3305">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E25-M2310" ROLE="Victim">
+          <extent>
+              <charseq START="3297" END="3299">his</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E27" ROLE="Artifact"/>
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E38" ROLE="Origin"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV5-M2700">
+          <extent>
+              <charseq START="3836" END="3840">taken</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3836" END="3840">taken</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E27-M2706" ROLE="Artifact">
+          <extent>
+              <charseq START="3822" END="3829">soldiers</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E38-M2707" ROLE="Origin">
+          <extent>
+              <charseq START="3847" END="3859">Camp Cathcart</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV6" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E41" ROLE="Defendant"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV6-M2802">
+          <extent>
+              <charseq START="4062" END="4067">trials</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4062" END="4067">trials</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E41-M2800" ROLE="Defendant">
+          <extent>
+              <charseq START="4026" END="4038">Only five men</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E45" ROLE="Agent"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV7-M2803">
+          <extent>
+              <charseq START="4261" END="4264">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4261" END="4264">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E45-M2819" ROLE="Agent">
+          <extent>
+              <charseq START="4252" END="4255">they</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV8-M2804">
+          <extent>
+              <charseq START="4269" END="4274">battle</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4269" END="4274">battle</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV9-M3600">
+          <extent>
+              <charseq START="5629" END="5631">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5629" END="5631">War</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E53" ROLE="Victim"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV10-M3701">
+          <extent>
+              <charseq START="5669" END="5672">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5669" END="5672">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E53-M3704" ROLE="Victim">
+          <extent>
+              <charseq START="5665" END="5667">who</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV11" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E64" ROLE="Org"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV11-M4100">
+          <extent>
+              <charseq START="6259" END="6264">create</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6259" END="6264">create</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E64-M4111" ROLE="Org">
+          <extent>
+              <charseq START="6266" END="6360">the team known as the Super Soldiers: Dauntless, Gog, Dreadnaught, Revenge, Victory, Invincible</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E81" ROLE="Agent"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV12-M4600">
+          <extent>
+              <charseq START="7209" END="7216">deceased</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7209" END="7216">deceased</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E81-M4611" ROLE="Agent">
+          <extent>
+              <charseq START="7149" END="7194">John Howlett III (first introduced in Origin),</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E29" ROLE="Agent"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV13-M5101">
+          <extent>
+              <charseq START="7989" END="7995">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7989" END="7995">killing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E29-M5115" ROLE="Agent">
+          <extent>
+              <charseq START="7997" END="8005">Wolverine</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV14" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV14-M5600">
+          <extent>
+              <charseq START="8583" END="8588">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8583" END="8588">killed</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E95" ROLE="Attacker"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV15-M5601">
+          <extent>
+              <charseq START="8673" END="8678">blasts</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8673" END="8678">blasts</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E95-M5615" ROLE="Attacker">
+          <extent>
+              <charseq START="8658" END="8664">Cyclops</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV16" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E101" ROLE="Target"/>
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E104" ROLE="Place"/>
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E105" ROLE="Attacker"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV16-M6400">
+          <extent>
+              <charseq START="9524" END="9529">fought</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9524" END="9529">fought</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E101-M6400" ROLE="Target">
+          <extent>
+              <charseq START="9458" END="9467">Weapon XII</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E104-M6403" ROLE="Place">
+          <extent>
+              <charseq START="9501" END="9518">the Channel Tunnel</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E105-M6407" ROLE="Attacker">
+          <extent>
+              <charseq START="9531" END="9543">X-Corporation</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E101" ROLE="Target"/>
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E108" ROLE="Attacker"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV17-M6501">
+          <extent>
+              <charseq START="9625" END="9634">eliminated</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9625" END="9634">eliminated</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E101-M6500" ROLE="Target">
+          <extent>
+              <charseq START="9610" END="9619">Weapon XII</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E108-M6503" ROLE="Attacker">
+          <extent>
+              <charseq START="9639" END="9646">Fantomex</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV18" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV18-M6700">
+          <extent>
+              <charseq START="9954" END="9961">genocide</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9954" END="9961">genocide</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV19" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E120" ROLE="Victim"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV19-M7301">
+          <extent>
+              <charseq START="10777" END="10780">dies</charseq>
+          </extent>
+          <anchor>
+              <charseq START="10777" END="10780">dies</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E120-M7300" ROLE="Victim">
+          <extent>
+              <charseq START="10774" END="10775">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV20" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV20-M7700">
+          <extent>
+              <charseq START="11658" END="11661">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="11658" END="11661">born</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E17" ROLE="Target"/>
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E34" ROLE="Attacker"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV21-M8600">
+          <extent>
+              <charseq START="12979" END="12986">attacked</charseq>
+          </extent>
+          <anchor>
+              <charseq START="12979" END="12986">attacked</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E17-M8604" ROLE="Target">
+          <extent>
+              <charseq START="12988" END="13001">the facilities</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E34-M8603" ROLE="Attacker">
+          <extent>
+              <charseq START="12975" END="12977">AIM</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV22" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Weapon_Plus.sentences.sgm-E139" ROLE="Victim"/>
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV22-M8701">
+          <extent>
+              <charseq START="13085" END="13090">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="13085" END="13090">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Weapon_Plus.sentences.sgm-E139-M8700" ROLE="Victim">
+          <extent>
+              <charseq START="13076" END="13079">they</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV23" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV23-M9000">
+          <extent>
+              <charseq START="13914" END="13921">fighting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="13914" END="13921">fighting</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Weapon_Plus.sentences.sgm-EV24" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Weapon_Plus.sentences.sgm-EV24-M9001">
+          <extent>
+              <charseq START="13970" END="13975">blasts</charseq>
+          </extent>
+          <anchor>
+              <charseq START="13970" END="13975">blasts</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

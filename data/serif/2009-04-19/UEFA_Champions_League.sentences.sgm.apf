@@ -1,0 +1,2841 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="UEFA_Champions_League.sentences.sgm">
+  <document DOCID="UEFA_Champions_League.sentences.sgm">
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="38" END="154">The UEFA Champions League (usually referred to as simply the Champions League or less frequently as the European Cup)</charseq>
+          </extent>
+          <head>
+              <charseq START="42" END="62">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="88" END="114">simply the Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="99" END="114">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M11">
+          <extent>
+              <charseq START="207" END="210">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="210">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M14">
+          <extent>
+              <charseq START="227" END="258">the top football clubs in Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="248">clubs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M600">
+          <extent>
+              <charseq START="801" END="825">The UEFA Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="825">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M1806">
+          <extent>
+              <charseq START="2521" END="2545">the UEFA Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="2525" END="2545">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M2006">
+          <extent>
+              <charseq START="2776" END="2779">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="2776" END="2779">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M2508">
+          <extent>
+              <charseq START="3551" END="3575">the UEFA Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="3555" END="3575">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M2609">
+          <extent>
+              <charseq START="3659" END="3662">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="3659" END="3662">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M2705">
+          <extent>
+              <charseq START="3937" END="3945">the clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="3941" END="3945">clubs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M3300">
+          <extent>
+              <charseq START="4713" END="4716">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="4713" END="4716">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M3401">
+          <extent>
+              <charseq START="4919" END="4922">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="4919" END="4922">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M3608">
+          <extent>
+              <charseq START="5247" END="5262">Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="5247" END="5262">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M4309">
+          <extent>
+              <charseq START="6155" END="6158">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="6155" END="6158">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M5107">
+          <extent>
+              <charseq START="7202" END="7227">the UEFA Champions League,</charseq>
+          </extent>
+          <head>
+              <charseq START="7206" END="7226">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M5301">
+          <extent>
+              <charseq START="7364" END="7367">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="7364" END="7367">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M5404">
+          <extent>
+              <charseq START="7544" END="7568">the UEFA Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="7548" END="7568">UEFA Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M5408">
+          <extent>
+              <charseq START="7597" END="7735">multinational corporations, in contrast to the single main sponsor of either the Barclays Premier League, the Ligue 1 Orange or Serie A TIM</charseq>
+          </extent>
+          <head>
+              <charseq START="7611" END="7622">corporations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M5412">
+          <extent>
+              <charseq START="7640" END="7735">the single main sponsor of either the Barclays Premier League, the Ligue 1 Orange or Serie A TIM</charseq>
+          </extent>
+          <head>
+              <charseq START="7656" END="7662">sponsor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M5500">
+          <extent>
+              <charseq START="7743" END="7762">the Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="7747" END="7762">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M5509">
+          <extent>
+              <charseq START="7879" END="7894">each corporation</charseq>
+          </extent>
+          <head>
+              <charseq START="7884" END="7894">corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M6138">
+          <extent>
+              <charseq START="9473" END="9476">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="9473" END="9476">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E0-M6130">
+          <extent>
+              <charseq START="9390" END="9408">a secondary sponsor</charseq>
+          </extent>
+          <head>
+              <charseq START="9402" END="9408">sponsor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M6206">
+          <extent>
+              <charseq START="9591" END="9606">Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="9591" END="9606">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M6622">
+          <extent>
+              <charseq START="10336" END="10368">Champions League
+Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="10336" END="10368">Champions League
+Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E0-M6623">
+          <extent>
+              <charseq START="10371" END="10374">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="10371" END="10374">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UEFA Champions League">
+              <charseq START="42" END="62">UEFA Champions League</charseq>
+          </name>
+          <name NAME="Champions League">
+              <charseq START="99" END="114">Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="207" END="210">UEFA</charseq>
+          </name>
+          <name NAME="UEFA Champions League">
+              <charseq START="805" END="825">UEFA Champions League</charseq>
+          </name>
+          <name NAME="UEFA Champions League">
+              <charseq START="2525" END="2545">UEFA Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="2776" END="2779">UEFA</charseq>
+          </name>
+          <name NAME="UEFA Champions League">
+              <charseq START="3555" END="3575">UEFA Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="3659" END="3662">UEFA</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="4713" END="4716">UEFA</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="4919" END="4922">UEFA</charseq>
+          </name>
+          <name NAME="Champions League">
+              <charseq START="5247" END="5262">Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="6155" END="6158">UEFA</charseq>
+          </name>
+          <name NAME="UEFA Champions League">
+              <charseq START="7206" END="7226">UEFA Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="7364" END="7367">UEFA</charseq>
+          </name>
+          <name NAME="UEFA Champions League">
+              <charseq START="7548" END="7568">UEFA Champions League</charseq>
+          </name>
+          <name NAME="Champions League">
+              <charseq START="7747" END="7762">Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="9473" END="9476">UEFA</charseq>
+          </name>
+          <name NAME="Champions League">
+              <charseq START="9591" END="9606">Champions League</charseq>
+          </name>
+          <name NAME="Champions League
+Champions League">
+              <charseq START="10336" END="10368">Champions League
+Champions League</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="10371" END="10374">UEFA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M6" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="142" END="149">European</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="149">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M106" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="303" END="310">European</charseq>
+          </extent>
+          <head>
+              <charseq START="303" END="310">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M207" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="448" END="455">European</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="455">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M209" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="464" END="471">European</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="471">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M501" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="710" END="715">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="710" END="715">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E1-M1002">
+          <extent>
+              <charseq START="1131" END="1135">group</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1135">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M1433" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1847" END="1854">European</charseq>
+          </extent>
+          <head>
+              <charseq START="1847" END="1854">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M1506" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1958" END="1965">European</charseq>
+          </extent>
+          <head>
+              <charseq START="1958" END="1965">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M1513" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2046" END="2053">European</charseq>
+          </extent>
+          <head>
+              <charseq START="2046" END="2053">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M1710" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2398" END="2405">European</charseq>
+          </extent>
+          <head>
+              <charseq START="2398" END="2405">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E1-M2107">
+          <extent>
+              <charseq START="2969" END="2977">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="2973" END="2977">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M3003" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4382" END="4389">European</charseq>
+          </extent>
+          <head>
+              <charseq START="4382" END="4389">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M3209" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4699" END="4706">European</charseq>
+          </extent>
+          <head>
+              <charseq START="4699" END="4706">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M3403" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4954" END="4961">European</charseq>
+          </extent>
+          <head>
+              <charseq START="4954" END="4961">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E1-M3413">
+          <extent>
+              <charseq START="5070" END="5105">the lowest placed team in its league</charseq>
+          </extent>
+          <head>
+              <charseq START="5088" END="5091">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E1-M3409">
+          <extent>
+              <charseq START="5000" END="5002">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5000" END="5002">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E1-M3410">
+          <extent>
+              <charseq START="5044" END="5045">it</charseq>
+          </extent>
+          <head>
+              <charseq START="5044" END="5045">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E1-M3416">
+          <extent>
+              <charseq START="5096" END="5098">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5096" END="5098">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E1-M3500">
+          <extent>
+              <charseq START="5108" END="5126">The superseded team</charseq>
+          </extent>
+          <head>
+              <charseq START="5123" END="5126">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M4110">
+          <extent>
+              <charseq START="5837" END="5841">Group</charseq>
+          </extent>
+          <head>
+              <charseq START="5837" END="5841">Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M5113">
+          <extent>
+              <charseq START="7272" END="7276">Group</charseq>
+          </extent>
+          <head>
+              <charseq START="7272" END="7276">Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E1-M5104">
+          <extent>
+              <charseq START="7173" END="7227">each team that qualifies for the UEFA Champions League,</charseq>
+          </extent>
+          <head>
+              <charseq START="7178" END="7181">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E1-M5106">
+          <extent>
+              <charseq START="7183" END="7186">that</charseq>
+          </extent>
+          <head>
+              <charseq START="7183" END="7186">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M5201">
+          <extent>
+              <charseq START="7287" END="7291">Group</charseq>
+          </extent>
+          <head>
+              <charseq START="7287" END="7291">Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M6610" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="10248" END="10255">European</charseq>
+          </extent>
+          <head>
+              <charseq START="10248" END="10255">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E1-M6613" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="10270" END="10277">European</charseq>
+          </extent>
+          <head>
+              <charseq START="10270" END="10277">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Group">
+              <charseq START="5837" END="5841">Group</charseq>
+          </name>
+          <name NAME="Group">
+              <charseq START="7272" END="7276">Group</charseq>
+          </name>
+          <name NAME="Group">
+              <charseq START="7287" END="7291">Group</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E2-M17" ROLE="LOC">
+          <extent>
+              <charseq START="253" END="258">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="258">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E2-M6305" ROLE="LOC">
+          <extent>
+              <charseq START="9700" END="9705">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="9700" END="9705">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Europe">
+              <charseq START="253" END="258">Europe</charseq>
+          </name>
+          <name NAME="Europe">
+              <charseq START="9700" END="9705">Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E3-M203">
+          <extent>
+              <charseq START="373" END="399">the European Champion Clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="377" END="399">European Champion Clubs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E3-M1510">
+          <extent>
+              <charseq START="1997" END="2023">the European Champion Clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="2001" END="2023">European Champion Clubs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Champion Clubs">
+              <charseq START="377" END="399">European Champion Clubs</charseq>
+          </name>
+          <name NAME="European Champion Clubs">
+              <charseq START="2001" END="2023">European Champion Clubs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E4-M303">
+          <extent>
+              <charseq START="565" END="597">the champion club of each country</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="581">club</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E5-M305">
+          <extent>
+              <charseq START="569" END="576">champion</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="576">champion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E6-M306" ROLE="GPE">
+          <extent>
+              <charseq START="586" END="597">each country</charseq>
+          </extent>
+          <head>
+              <charseq START="591" END="597">country</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E7-M406">
+          <extent>
+              <charseq START="698" END="707">more teams</charseq>
+          </extent>
+          <head>
+              <charseq START="703" END="707">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E7-M2500">
+          <extent>
+              <charseq START="3453" END="3519">Qualification
+Teams that finish 1st to 4th in the strongest leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="3467" END="3471">Teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E7-M2505">
+          <extent>
+              <charseq START="3499" END="3519">the strongest leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="3513" END="3519">leagues</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E7-M2503">
+          <extent>
+              <charseq START="3473" END="3476">that</charseq>
+          </extent>
+          <head>
+              <charseq START="3473" END="3476">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E7-M3606">
+          <extent>
+              <charseq START="5218" END="5232">the first teams</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5232">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E8-M500">
+          <extent>
+              <charseq START="710" END="744">Europe&apos;s strongest national leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="744">leagues</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M502">
+          <extent>
+              <charseq START="758" END="778">up to four teams each</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="773">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M900">
+          <extent>
+              <charseq START="994" END="1015">The 16 surviving teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1015">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M901">
+          <extent>
+              <charseq START="1022" END="1036">16 seeded teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1036">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M908">
+          <extent>
+              <charseq START="1104" END="1118">four teams each</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1113">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M1607">
+          <extent>
+              <charseq START="2135" END="2143">the teams</charseq>
+          </extent>
+          <head>
+              <charseq START="2139" END="2143">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M1615">
+          <extent>
+              <charseq START="2199" END="2286">the team with the highest overall score qualifying for the next round of the competition</charseq>
+          </extent>
+          <head>
+              <charseq START="2203" END="2206">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E9-M1702">
+          <extent>
+              <charseq START="2325" END="2416">the teams that won their national league championships, plus the current European Cup holder</charseq>
+          </extent>
+          <head>
+              <charseq START="2329" END="2333">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E9-M1704">
+          <extent>
+              <charseq START="2335" END="2338">that</charseq>
+          </extent>
+          <head>
+              <charseq START="2335" END="2338">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E9-M1707">
+          <extent>
+              <charseq START="2344" END="2348">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2344" END="2348">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E10-M906">
+          <extent>
+              <charseq START="1077" END="1118">eight groups consisting of four teams each</charseq>
+          </extent>
+          <head>
+              <charseq START="1083" END="1088">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M1001">
+          <extent>
+              <charseq START="1121" END="1143">The eight group winners</charseq>
+          </extent>
+          <head>
+              <charseq START="1137" END="1143">winners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M1003">
+          <extent>
+              <charseq START="1149" END="1164">eight runners-up</charseq>
+          </extent>
+          <head>
+              <charseq START="1155" END="1164">runners-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M2002">
+          <extent>
+              <charseq START="2728" END="2761">the runners-up from some countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2732" END="2741">runners-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M2108">
+          <extent>
+              <charseq START="2993" END="3031">runners-up from higher ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2993" END="3002">runners-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M2809">
+          <extent>
+              <charseq START="4075" END="4084">runners-up</charseq>
+          </extent>
+          <head>
+              <charseq START="4075" END="4084">runners-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E11-M5315">
+          <extent>
+              <charseq START="7494" END="7504">the winners</charseq>
+          </extent>
+          <head>
+              <charseq START="7498" END="7504">winners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E12-M1101">
+          <extent>
+              <charseq START="1264" END="1328">21 different clubs, 12 of which have won the title more than once</charseq>
+          </extent>
+          <head>
+              <charseq START="1277" END="1281">clubs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E12-M1103">
+          <extent>
+              <charseq START="1290" END="1294">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1290" END="1294">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E13-M1201" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1361" END="1463">Real Madrid, who have won the competition nine times, including the first five seasons it was contested</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1371">Madrid</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E13-M1200">
+          <extent>
+              <charseq START="1331" END="1356">The all-time record-holder</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1356">record-holder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E13-M1203">
+          <extent>
+              <charseq START="1361" END="1364">Real</charseq>
+          </extent>
+          <head>
+              <charseq START="1361" END="1364">Real</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E13-M1205">
+          <extent>
+              <charseq START="1374" END="1376">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1374" END="1376">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E14-M1300" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1472" END="1476">Milan</charseq>
+          </extent>
+          <head>
+              <charseq START="1472" END="1476">Milan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E15-M1303">
+          <extent>
+              <charseq START="1520" END="1526">no club</charseq>
+          </extent>
+          <head>
+              <charseq START="1523" END="1526">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E15-M3901">
+          <extent>
+              <charseq START="5545" END="5548">club</charseq>
+          </extent>
+          <head>
+              <charseq START="5545" END="5548">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E15-M6503">
+          <extent>
+              <charseq START="9978" END="9981">club</charseq>
+          </extent>
+          <head>
+              <charseq START="9978" END="9981">club</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E16-M1408" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1631" END="1636">French</charseq>
+          </extent>
+          <head>
+              <charseq START="1631" END="1636">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E16-M6007" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="9048" END="9053">France</charseq>
+          </extent>
+          <head>
+              <charseq START="9048" END="9053">France</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E17-M1412">
+          <extent>
+              <charseq START="1671" END="1693">L&apos;Équipe Gabriel Hanot,</charseq>
+          </extent>
+          <head>
+              <charseq START="1680" END="1692">Gabriel Hanot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E17-M1410">
+          <extent>
+              <charseq START="1660" END="1693">editor of  L&apos;Équipe Gabriel Hanot,</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1665">editor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gabriel Hanot">
+              <charseq START="1680" END="1692">Gabriel Hanot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E18-M1414">
+          <extent>
+              <charseq START="1671" END="1678">L&apos;Équipe</charseq>
+          </extent>
+          <head>
+              <charseq START="1671" END="1678">L&apos;Équipe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="L&apos;Équipe">
+              <charseq START="1671" END="1678">L&apos;Équipe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E19-M1422" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1741" END="1796">Wolverhampton Wanderers as being &quot;Champions of the World</charseq>
+          </extent>
+          <head>
+              <charseq START="1741" END="1763">Wolverhampton Wanderers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E20-M1428" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1806" END="1812">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1806" END="1812">British</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E21-M1407">
+          <extent>
+              <charseq START="1627" END="1654">the French sports journalist</charseq>
+          </extent>
+          <head>
+              <charseq START="1645" END="1654">journalist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E22-M1424">
+          <extent>
+              <charseq START="1775" END="1796">Champions of the World</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1783">Champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E22-M2102">
+          <extent>
+              <charseq START="2864" END="2909">national champions from lower ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2881">champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E22-M2808">
+          <extent>
+              <charseq START="4061" END="4069">champions</charseq>
+          </extent>
+          <head>
+              <charseq START="4061" END="4069">champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E22-M2823">
+          <extent>
+              <charseq START="4255" END="4269">their champions</charseq>
+          </extent>
+          <head>
+              <charseq START="4261" END="4269">champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E22-M4603">
+          <extent>
+              <charseq START="6443" END="6522">champions coming from associations ranked 13 to 53 access to the main tournament</charseq>
+          </extent>
+          <head>
+              <charseq START="6443" END="6451">champions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E23" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E23-M1426">
+          <extent>
+              <charseq START="1788" END="1796">the World</charseq>
+          </extent>
+          <head>
+              <charseq START="1792" END="1796">World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E23-M6306">
+          <extent>
+              <charseq START="9723" END="9731">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="9727" END="9731">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E24-M1427">
+          <extent>
+              <charseq START="1802" END="1818">the British press</charseq>
+          </extent>
+          <head>
+              <charseq START="1814" END="1818">press</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E26-M1503">
+          <extent>
+              <charseq START="1943" END="1991">winners of the European national football leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="1943" END="1949">winners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E26-M3402">
+          <extent>
+              <charseq START="4950" END="4973">the European Cup winners</charseq>
+          </extent>
+          <head>
+              <charseq START="4967" END="4973">winners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E27" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E27-M1505">
+          <extent>
+              <charseq START="1954" END="1991">the European national football leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="1985" END="1991">leagues</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E28-M1612">
+          <extent>
+              <charseq START="2176" END="2179">home</charseq>
+          </extent>
+          <head>
+              <charseq START="2176" END="2179">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E29-M2004" ROLE="LOC">
+          <extent>
+              <charseq START="2748" END="2761">some countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2753" END="2761">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E30-M2104" ROLE="LOC">
+          <extent>
+              <charseq START="2888" END="2909">lower ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2901" END="2909">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E30-M2202" ROLE="LOC">
+          <extent>
+              <charseq START="3078" END="3101">the top-ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="3093" END="3101">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E31-M2110" ROLE="LOC">
+          <extent>
+              <charseq START="3009" END="3031">higher ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="3023" END="3031">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E32-M2200">
+          <extent>
+              <charseq START="3056" END="3101">Up to four clubs from the top-ranked countries</charseq>
+          </extent>
+          <head>
+              <charseq START="3067" END="3071">clubs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E33-M2313" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="3299" END="3311">South America</charseq>
+          </extent>
+          <head>
+              <charseq START="3299" END="3311">South America</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E34-M2303">
+          <extent>
+              <charseq START="3172" END="3199">the winner of the tournament</charseq>
+          </extent>
+          <head>
+              <charseq START="3176" END="3181">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E34-M2308">
+          <extent>
+              <charseq START="3260" END="3311">the winner of the Copa Libertadores of South America</charseq>
+          </extent>
+          <head>
+              <charseq START="3264" END="3269">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E34-M2401">
+          <extent>
+              <charseq START="3326" END="3335">the winner</charseq>
+          </extent>
+          <head>
+              <charseq START="3330" END="3335">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E35-M2403">
+          <extent>
+              <charseq START="3369" END="3372">FIFA</charseq>
+          </extent>
+          <head>
+              <charseq START="3369" END="3372">FIFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FIFA">
+              <charseq START="3369" END="3372">FIFA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E36-M2406">
+          <extent>
+              <charseq START="3404" END="3450">other winners of continental club championships</charseq>
+          </extent>
+          <head>
+              <charseq START="3410" END="3416">winners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2611">
+          <extent>
+              <charseq START="3684" END="3709">associations ranked 1 to 3</charseq>
+          </extent>
+          <head>
+              <charseq START="3684" END="3695">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2616">
+          <extent>
+              <charseq START="3732" END="3757">associations ranked 4 to 6</charseq>
+          </extent>
+          <head>
+              <charseq START="3732" END="3743">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2621">
+          <extent>
+              <charseq START="3781" END="3807">associations ranked 7 to 15</charseq>
+          </extent>
+          <head>
+              <charseq START="3781" END="3792">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2626">
+          <extent>
+              <charseq START="3829" END="3859">associations ranked 16 or lower</charseq>
+          </extent>
+          <head>
+              <charseq START="3829" END="3840">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2801">
+          <extent>
+              <charseq START="3983" END="4019">the three highest-ranked associations</charseq>
+          </extent>
+          <head>
+              <charseq START="4008" END="4019">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2817">
+          <extent>
+              <charseq START="4170" END="4199">the lowest-ranked associations</charseq>
+          </extent>
+          <head>
+              <charseq START="4188" END="4199">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E37-M2824">
+          <extent>
+              <charseq START="4255" END="4259">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4255" END="4259">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M2900">
+          <extent>
+              <charseq START="4272" END="4303">Nine highest-ranked associations</charseq>
+          </extent>
+          <head>
+              <charseq START="4292" END="4303">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E37-M3200">
+          <extent>
+              <charseq START="4561" END="4584">The Football Association</charseq>
+          </extent>
+          <head>
+              <charseq START="4565" END="4584">Football Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M3303">
+          <extent>
+              <charseq START="4744" END="4765">both Merseyside rivals</charseq>
+          </extent>
+          <head>
+              <charseq START="4760" END="4765">rivals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M4605">
+          <extent>
+              <charseq START="6465" END="6492">associations ranked 13 to 53</charseq>
+          </extent>
+          <head>
+              <charseq START="6465" END="6476">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E37-M4616">
+          <extent>
+              <charseq START="6628" END="6654">associations ranked 1 to 12</charseq>
+          </extent>
+          <head>
+              <charseq START="6628" END="6639">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Football Association">
+              <charseq START="4565" END="4584">Football Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E38-M2814">
+          <extent>
+              <charseq START="4130" END="4158">third and fourth-placed teams</charseq>
+          </extent>
+          <head>
+              <charseq START="4154" END="4158">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E39-M3002">
+          <extent>
+              <charseq START="4378" END="4401">the European Cup holders</charseq>
+          </extent>
+          <head>
+              <charseq START="4395" END="4401">holders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E40-M3103">
+          <extent>
+              <charseq START="4460" END="4468">Liverpool</charseq>
+          </extent>
+          <head>
+              <charseq START="4460" END="4468">Liverpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E40-M3306">
+          <extent>
+              <charseq START="4814" END="4822">Liverpool</charseq>
+          </extent>
+          <head>
+              <charseq START="4814" END="4822">Liverpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E40-M3603">
+          <extent>
+              <charseq START="5165" END="5173">Liverpool</charseq>
+          </extent>
+          <head>
+              <charseq START="5165" END="5173">Liverpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liverpool">
+              <charseq START="4460" END="4468">Liverpool</charseq>
+          </name>
+          <name NAME="Liverpool">
+              <charseq START="4814" END="4822">Liverpool</charseq>
+          </name>
+          <name NAME="Liverpool">
+              <charseq START="5165" END="5173">Liverpool</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E41-M3108">
+          <extent>
+              <charseq START="4538" END="4558">the FA Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="4542" END="4558">FA Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E41-M3205">
+          <extent>
+              <charseq START="4629" END="4646">the Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="4633" END="4646">Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E41-M3408">
+          <extent>
+              <charseq START="5000" END="5018">its national league</charseq>
+          </extent>
+          <head>
+              <charseq START="5013" END="5018">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E41-M3415">
+          <extent>
+              <charseq START="5096" END="5105">its league</charseq>
+          </extent>
+          <head>
+              <charseq START="5100" END="5105">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E41-M3806">
+          <extent>
+              <charseq START="5502" END="5521">the Champions league</charseq>
+          </extent>
+          <head>
+              <charseq START="5516" END="5521">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E41-M5415">
+          <extent>
+              <charseq START="7674" END="7700">the Barclays Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="7678" END="7700">Barclays Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E41-M5712">
+          <extent>
+              <charseq START="8398" END="8415">the Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="8402" END="8415">Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FA Premier League">
+              <charseq START="4542" END="4558">FA Premier League</charseq>
+          </name>
+          <name NAME="Premier League">
+              <charseq START="4633" END="4646">Premier League</charseq>
+          </name>
+          <name NAME="Barclays Premier League">
+              <charseq START="7678" END="7700">Barclays Premier League</charseq>
+          </name>
+          <name NAME="Premier League">
+              <charseq START="8402" END="8415">Premier League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E42-M3202">
+          <extent>
+              <charseq START="4597" END="4647">Everton, who finished fourth in the Premier League,</charseq>
+          </extent>
+          <head>
+              <charseq START="4597" END="4603">Everton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E42-M3204">
+          <extent>
+              <charseq START="4606" END="4608">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4606" END="4608">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E42-M3310">
+          <extent>
+              <charseq START="4869" END="4875">Everton</charseq>
+          </extent>
+          <head>
+              <charseq START="4869" END="4875">Everton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Everton">
+              <charseq START="4597" END="4603">Everton</charseq>
+          </name>
+          <name NAME="Everton">
+              <charseq START="4869" END="4875">Everton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E43-M3604">
+          <extent>
+              <charseq START="5179" END="5197">Artmedia Bratislava</charseq>
+          </extent>
+          <head>
+              <charseq START="5179" END="5197">Artmedia Bratislava</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Artmedia Bratislava">
+              <charseq START="5179" END="5197">Artmedia Bratislava</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E44-M3605" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5202" END="5209">Slovakia</charseq>
+          </extent>
+          <head>
+              <charseq START="5202" END="5209">Slovakia</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E45-M3703">
+          <extent>
+              <charseq START="5348" END="5370">Anorthosis Famagusta FC</charseq>
+          </extent>
+          <head>
+              <charseq START="5348" END="5370">Anorthosis Famagusta FC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anorthosis Famagusta FC">
+              <charseq START="5348" END="5370">Anorthosis Famagusta FC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E46-M3803">
+          <extent>
+              <charseq START="5430" END="5437">any club</charseq>
+          </extent>
+          <head>
+              <charseq START="5434" END="5437">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E46-M3805">
+          <extent>
+              <charseq START="5459" END="5461">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5459" END="5461">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E47-M3807">
+          <extent>
+              <charseq START="5506" END="5514">Champions</charseq>
+          </extent>
+          <head>
+              <charseq START="5506" END="5514">Champions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E48-M4001">
+          <extent>
+              <charseq START="5618" END="5629">FC Barcelona</charseq>
+          </extent>
+          <head>
+              <charseq START="5618" END="5629">FC Barcelona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FC Barcelona">
+              <charseq START="5618" END="5629">FC Barcelona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E49" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E49-M4002">
+          <extent>
+              <charseq START="5632" END="5648">Manchester United</charseq>
+          </extent>
+          <head>
+              <charseq START="5632" END="5648">Manchester United</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E49-M4115">
+          <extent>
+              <charseq START="5880" END="5903">whilst Manchester United</charseq>
+          </extent>
+          <head>
+              <charseq START="5887" END="5903">Manchester United</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E49-M4116">
+          <extent>
+              <charseq START="5880" END="5885">whilst</charseq>
+          </extent>
+          <head>
+              <charseq START="5880" END="5885">whilst</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manchester United">
+              <charseq START="5632" END="5648">Manchester United</charseq>
+          </name>
+          <name NAME="Manchester United">
+              <charseq START="5887" END="5903">Manchester United</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E50-M4003">
+          <extent>
+              <charseq START="5655" END="5662">FC Porto</charseq>
+          </extent>
+          <head>
+              <charseq START="5655" END="5662">FC Porto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E50-M4101">
+          <extent>
+              <charseq START="5744" END="5751">FC Porto</charseq>
+          </extent>
+          <head>
+              <charseq START="5744" END="5751">FC Porto</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FC Porto">
+              <charseq START="5655" END="5662">FC Porto</charseq>
+          </name>
+          <name NAME="FC Porto">
+              <charseq START="5744" END="5751">FC Porto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E51-M4004">
+          <extent>
+              <charseq START="5668" END="5741">the teams that have appeared most often in the group stages: fourteen each</charseq>
+          </extent>
+          <head>
+              <charseq START="5672" END="5676">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E51-M4900">
+          <extent>
+              <charseq START="6823" END="6863">The additional 6 directly qualified teams</charseq>
+          </extent>
+          <head>
+              <charseq START="6859" END="6863">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E51-M4902">
+          <extent>
+              <charseq START="6869" END="6897">the champions of associations</charseq>
+          </extent>
+          <head>
+              <charseq START="6873" END="6881">champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E51-M4906">
+          <extent>
+              <charseq START="6920" END="6969">the 3rd placed teams in associations ranked 1 to 3</charseq>
+          </extent>
+          <head>
+              <charseq START="6935" END="6939">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E52" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E52-M4102" ROLE="LOC">
+          <extent>
+              <charseq START="5757" END="5765">Barcelona</charseq>
+          </extent>
+          <head>
+              <charseq START="5757" END="5765">Barcelona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barcelona">
+              <charseq START="5757" END="5765">Barcelona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E53-M4300">
+          <extent>
+              <charseq START="6057" END="6071">Different teams</charseq>
+          </extent>
+          <head>
+              <charseq START="6067" END="6071">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E53-M4312">
+          <extent>
+              <charseq START="6196" END="6266">the sixteen top ranked teams spread across the biggest domestic leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="6219" END="6223">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E53-M4305">
+          <extent>
+              <charseq START="6113" END="6117">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6113" END="6117">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E53-M4311">
+          <extent>
+              <charseq START="6176" END="6180">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6176" END="6180">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E54" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E54-M4306">
+          <extent>
+              <charseq START="6131" END="6145">domestic league</charseq>
+          </extent>
+          <head>
+              <charseq START="6140" END="6145">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E54-M4310">
+          <extent>
+              <charseq START="6176" END="6187">their league</charseq>
+          </extent>
+          <head>
+              <charseq START="6182" END="6187">league</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E55-M4314">
+          <extent>
+              <charseq START="6239" END="6266">the biggest domestic leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="6260" END="6266">leagues</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E56-M4700">
+          <extent>
+              <charseq START="6657" END="6666">Five teams</charseq>
+          </extent>
+          <head>
+              <charseq START="6662" END="6666">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E57-M4800">
+          <extent>
+              <charseq START="6721" END="6728">22 teams</charseq>
+          </extent>
+          <head>
+              <charseq START="6724" END="6728">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E57-M4804">
+          <extent>
+              <charseq START="6790" END="6820">only 16 teams in the old system</charseq>
+          </extent>
+          <head>
+              <charseq START="6798" END="6802">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E58" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E58-M5110">
+          <extent>
+              <charseq START="7234" END="7234">€</charseq>
+          </extent>
+          <head>
+              <charseq START="7234" END="7234">€</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="€">
+              <charseq START="7234" END="7234">€</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E59-M5309">
+          <extent>
+              <charseq START="7425" END="7442">each semi-finalist</charseq>
+          </extent>
+          <head>
+              <charseq START="7430" END="7442">semi-finalist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E61-M5505">
+          <extent>
+              <charseq START="7805" END="7832">a maximum of eight companies</charseq>
+          </extent>
+          <head>
+              <charseq START="7824" END="7832">companies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E62" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E62-M5603">
+          <extent>
+              <charseq START="8115" END="8133">tournament sponsors</charseq>
+          </extent>
+          <head>
+              <charseq START="8126" END="8133">sponsors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E62-M5611">
+          <extent>
+              <charseq START="8221" END="8250">the tournament&apos;s main sponsors</charseq>
+          </extent>
+          <head>
+              <charseq START="8243" END="8250">sponsors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E63-M5708">
+          <extent>
+              <charseq START="8367" END="8415">those in other leagues such as the Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="8367" END="8371">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E64-M5710">
+          <extent>
+              <charseq START="8376" END="8415">other leagues such as the Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="8382" END="8388">leagues</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E64-M5707">
+          <extent>
+              <charseq START="8337" END="8341">their</charseq>
+          </extent>
+          <head>
+              <charseq START="8337" END="8341">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E64-M5801">
+          <extent>
+              <charseq START="8418" END="8422">Their</charseq>
+          </extent>
+          <head>
+              <charseq START="8418" END="8422">Their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E65-M5806">
+          <extent>
+              <charseq START="8487" END="8493">Anfield</charseq>
+          </extent>
+          <head>
+              <charseq START="8487" END="8493">Anfield</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anfield">
+              <charseq START="8487" END="8493">Anfield</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E66" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E66-M5807">
+          <extent>
+              <charseq START="8500" END="8514">Stamford Bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="8500" END="8514">Stamford Bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stamford Bridge">
+              <charseq START="8500" END="8514">Stamford Bridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E67-M5818">
+          <extent>
+              <charseq START="8646" END="8671">some season ticket holders</charseq>
+          </extent>
+          <head>
+              <charseq START="8665" END="8671">holders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E67-M5827">
+          <extent>
+              <charseq START="8746" END="8750">their</charseq>
+          </extent>
+          <head>
+              <charseq START="8746" END="8750">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E68-M5826">
+          <extent>
+              <charseq START="8746" END="8761">their usual ones</charseq>
+          </extent>
+          <head>
+              <charseq START="8758" END="8761">ones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E68-M5813">
+          <extent>
+              <charseq START="8561" END="8565">their</charseq>
+          </extent>
+          <head>
+              <charseq START="8561" END="8565">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E69" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E69-M5900">
+          <extent>
+              <charseq START="8788" END="8798">some stadia</charseq>
+          </extent>
+          <head>
+              <charseq START="8793" END="8798">stadia</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E70" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E70-M5901">
+          <extent>
+              <charseq START="8804" END="8816">the flat area</charseq>
+          </extent>
+          <head>
+              <charseq START="8813" END="8816">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E71" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E71-M6002">
+          <extent>
+              <charseq START="9015" END="9105">Ford
+Heineken (excluding Norway, France and Russia, where alcohol sponsorship is restricted</charseq>
+          </extent>
+          <head>
+              <charseq START="9015" END="9027">Ford
+Heineken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E71-M6000">
+          <extent>
+              <charseq START="8971" END="9008">The tournament&apos;s current main sponsors</charseq>
+          </extent>
+          <head>
+              <charseq START="9001" END="9008">sponsors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E71-M6009">
+          <extent>
+              <charseq START="9067" END="9071">where</charseq>
+          </extent>
+          <head>
+              <charseq START="9067" END="9071">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E71-M6102">
+          <extent>
+              <charseq START="9122" END="9129">Heineken</charseq>
+          </extent>
+          <head>
+              <charseq START="9122" END="9129">Heineken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E71-M6110">
+          <extent>
+              <charseq START="9221" END="9228">Heineken</charseq>
+          </extent>
+          <head>
+              <charseq START="9221" END="9228">Heineken</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UEFA_Champions_League.sentences.sgm-E71-M6134">
+          <extent>
+              <charseq START="9451" END="9454">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9451" END="9454">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ford
+Heineken">
+              <charseq START="9015" END="9027">Ford
+Heineken</charseq>
+          </name>
+          <name NAME="Heineken">
+              <charseq START="9122" END="9129">Heineken</charseq>
+          </name>
+          <name NAME="Heineken">
+              <charseq START="9221" END="9228">Heineken</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E72-M6006" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="9040" END="9045">Norway</charseq>
+          </extent>
+          <head>
+              <charseq START="9040" END="9045">Norway</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E73" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E73-M6008">
+          <extent>
+              <charseq START="9059" END="9064">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="9059" END="9064">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E73-M6108" ROLE="LOC">
+          <extent>
+              <charseq START="9210" END="9215">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="9210" END="9215">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="9059" END="9064">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="9210" END="9215">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E74" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E74-M6004">
+          <extent>
+              <charseq START="9040" END="9105">Norway, France and Russia, where alcohol sponsorship is restricted</charseq>
+          </extent>
+          <head>
+              <charseq START="9059" END="9064">Russia</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E75" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E75-M6100" ROLE="LOC">
+          <extent>
+              <charseq START="9111" END="9116">France</charseq>
+          </extent>
+          <head>
+              <charseq START="9111" END="9116">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E75-M6512">
+          <extent>
+              <charseq START="10079" END="10084">nation</charseq>
+          </extent>
+          <head>
+              <charseq START="10079" END="10084">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="France">
+              <charseq START="9111" END="9116">France</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E76-M6116">
+          <extent>
+              <charseq START="9279" END="9293">MasterCard
+Sony</charseq>
+          </extent>
+          <head>
+              <charseq START="9290" END="9293">Sony</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E76-M6127">
+          <extent>
+              <charseq START="9357" END="9360">Sony</charseq>
+          </extent>
+          <head>
+              <charseq START="9357" END="9360">Sony</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E76-M6117">
+          <extent>
+              <charseq START="9279" END="9288">MasterCard</charseq>
+          </extent>
+          <head>
+              <charseq START="9279" END="9288">MasterCard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sony">
+              <charseq START="9290" END="9293">Sony</charseq>
+          </name>
+          <name NAME="Sony">
+              <charseq START="9357" END="9360">Sony</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E77" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E77-M6120">
+          <extent>
+              <charseq START="9299" END="9309">PlayStation</charseq>
+          </extent>
+          <head>
+              <charseq START="9299" END="9309">PlayStation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PlayStation">
+              <charseq START="9299" END="9309">PlayStation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E78" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E78-M6128">
+          <extent>
+              <charseq START="9371" END="9385">Vodafone
+Adidas</charseq>
+          </extent>
+          <head>
+              <charseq START="9371" END="9385">Vodafone
+Adidas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vodafone
+Adidas">
+              <charseq START="9371" END="9385">Vodafone
+Adidas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E79-M6200">
+          <extent>
+              <charseq START="9517" END="9545">Konami&apos;s Pro Evolution Soccer</charseq>
+          </extent>
+          <head>
+              <charseq START="9526" END="9545">Pro Evolution Soccer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E79-M6203">
+          <extent>
+              <charseq START="9555" END="9617">a secondary sponsor as the official Champions League video game</charseq>
+          </extent>
+          <head>
+              <charseq START="9567" END="9573">sponsor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pro Evolution Soccer">
+              <charseq START="9526" END="9545">Pro Evolution Soccer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E80" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UEFA_Champions_League.sentences.sgm-E80-M6201">
+          <extent>
+              <charseq START="9517" END="9522">Konami</charseq>
+          </extent>
+          <head>
+              <charseq START="9517" END="9522">Konami</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Konami">
+              <charseq START="9517" END="9522">Konami</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E81-M6303">
+          <extent>
+              <charseq START="9660" END="9685">a huge television audience</charseq>
+          </extent>
+          <head>
+              <charseq START="9678" END="9685">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E82" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E82-M6401" ROLE="LOC">
+          <extent>
+              <charseq START="9763" END="9805">over 70 countries in more than 40 languages</charseq>
+          </extent>
+          <head>
+              <charseq START="9771" END="9779">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E83-M6406">
+          <extent>
+              <charseq START="9857" END="9949">over 200 million TV audience, often considered as one of the most watched sports events on TV</charseq>
+          </extent>
+          <head>
+              <charseq START="9877" END="9884">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E84" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E84-M6511">
+          <extent>
+              <charseq START="10053" END="10061">each team</charseq>
+          </extent>
+          <head>
+              <charseq START="10058" END="10061">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UEFA_Champions_League.sentences.sgm-E85" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UEFA_Champions_League.sentences.sgm-E85-M6516">
+          <extent>
+              <charseq START="10138" END="10152">Players in bold</charseq>
+          </extent>
+          <head>
+              <charseq START="10138" END="10144">Players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T0">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="162" END="167">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T1" VAL="1955">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="218" END="221">1955</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T2" VAL="1992">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="331" END="334">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T3" VAL="199">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="607" END="615">the 1990s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="746" END="748">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T5" VAL="XXXX-07" MOD="MID">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="946" END="953">mid-July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T6" VAL="XXXX-05">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1233" END="1235">May</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1325" END="1328">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T8" VAL="1990">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1514" END="1517">1990</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T9" VAL="1955">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1600" END="1603">1955</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T10" VAL="195">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1870" END="1878">the 1950s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T11" VAL="1992">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2295" END="2298">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T12" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2390" END="2396">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T13" VAL="1992">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2422" END="2439">the 1992–93 season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T14" VAL="1997">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2683" END="2689">1997–98</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T15" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="3107" END="3115">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T16" VAL="1960">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3157" END="3160">1960</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T17" VAL="2004">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="3166" END="3169">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T18" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3219" END="3221">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T19" VAL="2004">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="4493" END="4499">2004–05</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T20" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="4926" END="4932">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T21" VAL="2005">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="5156" END="5162">2005-06</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T22" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="5796" END="5799">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T23" VAL="2004">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="5851" END="5854">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T24" VAL="2006">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="5860" END="5863">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T25" VAL="1999">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="5927" END="5930">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T26" VAL="2008">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="5936" END="5939">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T27" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="6290" END="6296">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T28" VAL="2003">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="6320" END="6323">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T29" VAL="TEV">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="7026" END="7045">the Saturday evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T30" VAL="P1W">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="7050" END="7065">calendar week 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T31" VAL="T20:45">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="7068" END="7072">20:45</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T32" VAL="TEV">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="7116" END="7132">Wednesday evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T33" VAL="1992">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="7779" END="7782">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T34" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="8988" END="8994">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T35" SET="YES">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="9807" END="9815">each year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UEFA_Champions_League.sentences.sgm-T36" VAL="PXY">
+        <timex2_mention ID="UEFA_Champions_League.sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="9999" END="10003">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="UEFA_Champions_League.sentences.sgm-V37" TYPE="Sentence">
+        <value_mention ID="UEFA_Champions_League.sentences.sgm-V37-M1">
+            <extent>
+              <charseq START="9172" END="9201">the sentence: &quot;Great Together&quot;</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="227" END="258">the top football clubs in Europe</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E0-M14" ROLE="Arg-1">
+            <extent>
+              <charseq START="227" END="258">the top football clubs in Europe</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E2-M17" ROLE="Arg-2">
+            <extent>
+              <charseq START="253" END="258">Europe</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R1-M1400">
+          <extent>
+              <charseq START="1627" END="1654">the French sports journalist</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E21-M1407" ROLE="Arg-1">
+            <extent>
+              <charseq START="1627" END="1654">the French sports journalist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E16-M1408" ROLE="Arg-2">
+            <extent>
+              <charseq START="1631" END="1636">French</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R2-M1401">
+          <extent>
+              <charseq START="1660" END="1693">editor of  L&apos;Équipe Gabriel Hanot,</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E17-M1410" ROLE="Arg-1">
+            <extent>
+              <charseq START="1660" END="1693">editor of  L&apos;Équipe Gabriel Hanot,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E18-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="1671" END="1678">L&apos;Équipe</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R3-M1500">
+          <extent>
+              <charseq START="1943" END="1991">winners of the European national football leagues</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E26-M1503" ROLE="Arg-1">
+            <extent>
+              <charseq START="1943" END="1991">winners of the European national football leagues</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E27-M1505" ROLE="Arg-2">
+            <extent>
+              <charseq START="1954" END="1991">the European national football leagues</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R4-M2000">
+          <extent>
+              <charseq START="2728" END="2761">the runners-up from some countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E11-M2002" ROLE="Arg-1">
+            <extent>
+              <charseq START="2728" END="2761">the runners-up from some countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E29-M2004" ROLE="Arg-2">
+            <extent>
+              <charseq START="2748" END="2761">some countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R5-M3400">
+          <extent>
+              <charseq START="5000" END="5018">its national league</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E41-M3408" ROLE="Arg-1">
+            <extent>
+              <charseq START="5000" END="5018">its national league</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E1-M3409" ROLE="Arg-2">
+            <extent>
+              <charseq START="5000" END="5002">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R5-M3402">
+          <extent>
+              <charseq START="5096" END="5105">its league</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E41-M3415" ROLE="Arg-1">
+            <extent>
+              <charseq START="5096" END="5105">its league</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E1-M3416" ROLE="Arg-2">
+            <extent>
+              <charseq START="5096" END="5098">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R6-M3401">
+          <extent>
+              <charseq START="5070" END="5105">the lowest placed team in its league</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E1-M3413" ROLE="Arg-1">
+            <extent>
+              <charseq START="5070" END="5105">the lowest placed team in its league</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E41-M3415" ROLE="Arg-2">
+            <extent>
+              <charseq START="5096" END="5105">its league</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E63" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E64" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R7-M5700">
+          <extent>
+              <charseq START="8367" END="8415">those in other leagues such as the Premier League</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E63-M5708" ROLE="Arg-1">
+            <extent>
+              <charseq START="8367" END="8415">those in other leagues such as the Premier League</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E64-M5710" ROLE="Arg-2">
+            <extent>
+              <charseq START="8376" END="8415">other leagues such as the Premier League</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E67" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R8-M5800">
+          <extent>
+              <charseq START="8746" END="8750">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E67-M5827" ROLE="Arg-1">
+            <extent>
+              <charseq START="8746" END="8750">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E68-M5826" ROLE="Arg-2">
+            <extent>
+              <charseq START="8746" END="8761">their usual ones</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E79" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E80" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R9-M6200">
+          <extent>
+              <charseq START="9517" END="9545">Konami&apos;s Pro Evolution Soccer</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E79-M6200" ROLE="Arg-1">
+            <extent>
+              <charseq START="9517" END="9545">Konami&apos;s Pro Evolution Soccer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E80-M6201" ROLE="Arg-2">
+            <extent>
+              <charseq START="9517" END="9522">Konami</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UEFA_Champions_League.sentences.sgm-R10" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E81" ROLE="Arg-1"/>
+      <relation_argument REFID="UEFA_Champions_League.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="UEFA_Champions_League.sentences.sgm-R10-M6300">
+          <extent>
+              <charseq START="9660" END="9685">a huge television audience</charseq>
+          </extent>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E81-M6303" ROLE="Arg-1">
+            <extent>
+              <charseq START="9660" END="9685">a huge television audience</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E2-M6305" ROLE="Arg-2">
+            <extent>
+              <charseq START="9700" END="9705">Europe</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="UEFA_Champions_League.sentences.sgm-EV0" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="UEFA_Champions_League.sentences.sgm-E15" ROLE="Entity"/>
+      <event_mention ID="UEFA_Champions_League.sentences.sgm-EV0-M3900">
+          <extent>
+              <charseq START="5555" END="5558">meet</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5555" END="5558">meet</charseq>
+          </anchor>
+        <event_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E15-M3901" ROLE="Entity">
+          <extent>
+              <charseq START="5545" END="5548">club</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="UEFA_Champions_League.sentences.sgm-EV1" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="UEFA_Champions_League.sentences.sgm-E73" ROLE="Place"/>
+      <event_argument REFID="UEFA_Champions_League.sentences.sgm-V37" ROLE="Sentence"/>
+      <event_mention ID="UEFA_Champions_League.sentences.sgm-EV1-M6100">
+          <extent>
+              <charseq START="9176" END="9183">sentence</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9176" END="9183">sentence</charseq>
+          </anchor>
+        <event_mention_argument REFID="UEFA_Champions_League.sentences.sgm-E73-M6108" ROLE="Place">
+          <extent>
+              <charseq START="9210" END="9215">Russia</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="UEFA_Champions_League.sentences.sgm-V37-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="9172" END="9201">the sentence: &quot;Great Together&quot;</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

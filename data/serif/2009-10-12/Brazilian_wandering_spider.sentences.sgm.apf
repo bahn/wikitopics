@@ -1,0 +1,2907 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Brazilian_wandering_spider.sentences.sgm">
+  <document DOCID="Brazilian_wandering_spider.sentences.sgm">
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="47" END="55">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="47" END="55">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="545" END="553">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="553">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M501" ROLE="GPE">
+          <extent>
+              <charseq START="860" END="868">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="860" END="868">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M1419">
+          <extent>
+              <charseq START="2255" END="2260">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2255" END="2260">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M1605">
+          <extent>
+              <charseq START="2521" END="2526">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2521" END="2526">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M1700">
+          <extent>
+              <charseq START="2586" END="2591">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2591">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M1912" ROLE="GPE">
+          <extent>
+              <charseq START="2840" END="2845">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2840" END="2845">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2106">
+          <extent>
+              <charseq START="2978" END="2983">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2978" END="2983">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2209">
+          <extent>
+              <charseq START="3031" END="3036">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="3031" END="3036">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2311" ROLE="GPE">
+          <extent>
+              <charseq START="3136" END="3141">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="3136" END="3141">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2406" ROLE="GPE">
+          <extent>
+              <charseq START="3188" END="3193">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="3188" END="3193">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2512" ROLE="GPE">
+          <extent>
+              <charseq START="3314" END="3319">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="3314" END="3319">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M2612" ROLE="GPE">
+          <extent>
+              <charseq START="3391" END="3396">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="3391" END="3396">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M4406" ROLE="LOC">
+          <extent>
+              <charseq START="5768" END="5773">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="5768" END="5773">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M4411" ROLE="GPE">
+          <extent>
+              <charseq START="5833" END="5852">south-eastern Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="5847" END="5852">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M4509" ROLE="LOC">
+          <extent>
+              <charseq START="6025" END="6030">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="6025" END="6030">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M5708" ROLE="GPE">
+          <extent>
+              <charseq START="8161" END="8169">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="8161" END="8169">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E0-M5956" ROLE="GPE">
+          <extent>
+              <charseq START="8973" END="8981">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="8973" END="8981">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazilian">
+              <charseq START="47" END="55">Brazilian</charseq>
+          </name>
+          <name NAME="Brazilian">
+              <charseq START="545" END="553">Brazilian</charseq>
+          </name>
+          <name NAME="Brazilian">
+              <charseq START="860" END="868">Brazilian</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="2255" END="2260">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="2521" END="2526">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="2586" END="2591">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="2840" END="2845">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="2978" END="2983">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="3031" END="3036">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="3136" END="3141">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="3188" END="3193">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="3314" END="3319">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="3391" END="3396">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="5768" END="5773">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="5847" END="5852">Brazil</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="6025" END="6030">Brazil</charseq>
+          </name>
+          <name NAME="Brazilian">
+              <charseq START="8161" END="8169">Brazilian</charseq>
+          </name>
+          <name NAME="Brazilian">
+              <charseq START="8973" END="8981">Brazilian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E1-M7" ROLE="GPE">
+          <extent>
+              <charseq START="116" END="125">Australian</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="125">Australian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australian">
+              <charseq START="116" END="125">Australian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E2-M111">
+          <extent>
+              <charseq START="352" END="368">the genus Nephila</charseq>
+          </extent>
+          <head>
+              <charseq START="362" END="368">Nephila</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E2-M112">
+          <extent>
+              <charseq START="356" END="360">genus</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="360">genus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nephila">
+              <charseq START="362" END="368">Nephila</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E3" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E3-M118">
+          <extent>
+              <charseq START="443" END="447">South</charseq>
+          </extent>
+          <head>
+              <charseq START="443" END="447">South</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South">
+              <charseq START="443" END="447">South</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E4" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E4-M119">
+          <extent>
+              <charseq START="453" END="467">Central America</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="467">Central America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E4-M1506">
+          <extent>
+              <charseq START="2334" END="2357">southern Central America</charseq>
+          </extent>
+          <head>
+              <charseq START="2343" END="2357">Central America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E4-M2009">
+          <extent>
+              <charseq START="2905" END="2911">Central</charseq>
+          </extent>
+          <head>
+              <charseq START="2905" END="2911">Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Central America">
+              <charseq START="453" END="467">Central America</charseq>
+          </name>
+          <name NAME="Central America">
+              <charseq START="2343" END="2357">Central America</charseq>
+          </name>
+          <name NAME="Central">
+              <charseq START="2905" END="2911">Central</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E5-M106">
+          <extent>
+              <charseq START="261" END="270">Portuguese</charseq>
+          </extent>
+          <head>
+              <charseq START="261" END="270">Portuguese</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E6-M205">
+          <extent>
+              <charseq START="503" END="510">Ctenidae</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="510">Ctenidae</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E6-M5717">
+          <extent>
+              <charseq START="8235" END="8242">Ctenidae</charseq>
+          </extent>
+          <head>
+              <charseq START="8235" END="8242">Ctenidae</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ctenidae">
+              <charseq START="503" END="510">Ctenidae</charseq>
+          </name>
+          <name NAME="Ctenidae">
+              <charseq START="8235" END="8242">Ctenidae</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E7-M201">
+          <extent>
+              <charseq START="488" END="538">members of the Ctenidae family of wandering spiders</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="494">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E8-M203">
+          <extent>
+              <charseq START="499" END="538">the Ctenidae family of wandering spiders</charseq>
+          </extent>
+          <head>
+              <charseq START="512" END="517">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E9-M302">
+          <extent>
+              <charseq START="583" END="609">Guinness World Records 2007</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="604">Guinness World Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guinness World Records">
+              <charseq START="583" END="604">Guinness World Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E10-M306">
+          <extent>
+              <charseq START="614" END="622">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="618" END="622">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E10-M4924">
+          <extent>
+              <charseq START="6787" END="6795">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="6791" END="6795">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M402">
+          <extent>
+              <charseq START="762" END="805">The genus Phoneutria (Greek for &quot;Murderess&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="772" END="781">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M407">
+          <extent>
+              <charseq START="795" END="803">Murderess</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="803">Murderess</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M800">
+          <extent>
+              <charseq START="1161" END="1170">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="1161" END="1170">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M1701">
+          <extent>
+              <charseq START="2594" END="2603">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="2594" END="2603">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M1800">
+          <extent>
+              <charseq START="2673" END="2682">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="2673" END="2682">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M3602">
+          <extent>
+              <charseq START="4738" END="4747">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="4738" END="4747">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M3700">
+          <extent>
+              <charseq START="4795" END="4821">Danger to humans
+Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="4812" END="4821">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M4103">
+          <extent>
+              <charseq START="5358" END="5367">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="5358" END="5367">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Brazilian_wandering_spider.sentences.sgm-E11-M4109">
+          <extent>
+              <charseq START="5412" END="5416">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5412" END="5416">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M4701">
+          <extent>
+              <charseq START="6182" END="6191">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="6182" END="6191">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M5000">
+          <extent>
+              <charseq START="7102" END="7112">Phoneutrias</charseq>
+          </extent>
+          <head>
+              <charseq START="7102" END="7112">Phoneutrias</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M5203">
+          <extent>
+              <charseq START="7541" END="7550">Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="7541" END="7550">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E11-M5602">
+          <extent>
+              <charseq START="8027" END="8038">a Phoneutria</charseq>
+          </extent>
+          <head>
+              <charseq START="8029" END="8038">Phoneutria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phoneutria">
+              <charseq START="772" END="781">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="1161" END="1170">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="2594" END="2603">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="2673" END="2682">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="4738" END="4747">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="4812" END="4821">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="5358" END="5367">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="6182" END="6191">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutrias">
+              <charseq START="7102" END="7112">Phoneutrias</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="7541" END="7550">Phoneutria</charseq>
+          </name>
+          <name NAME="Phoneutria">
+              <charseq START="8029" END="8038">Phoneutria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E12-M405">
+          <extent>
+              <charseq START="784" END="803">Greek for &quot;Murderess</charseq>
+          </extent>
+          <head>
+              <charseq START="784" END="788">Greek</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E13-M703">
+          <extent>
+              <charseq START="1061" END="1066">Ctenus</charseq>
+          </extent>
+          <head>
+              <charseq START="1061" END="1066">Ctenus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ctenus">
+              <charseq START="1061" END="1066">Ctenus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E14-M801">
+          <extent>
+              <charseq START="1208" END="1217">Cupiennius</charseq>
+          </extent>
+          <head>
+              <charseq START="1208" END="1217">Cupiennius</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cupiennius">
+              <charseq START="1208" END="1217">Cupiennius</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E15-M805">
+          <extent>
+              <charseq START="1251" END="1288">the recently described C. chiapanensis</charseq>
+          </extent>
+          <head>
+              <charseq START="1274" END="1288">C. chiapanensis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="C. chiapanensis">
+              <charseq START="1274" END="1288">C. chiapanensis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E16" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E16-M1010">
+          <extent>
+              <charseq START="1550" END="1562">banana plants</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1562">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M1100">
+          <extent>
+              <charseq START="1580" END="1593">P. nigriventer</charseq>
+          </extent>
+          <head>
+              <charseq START="1580" END="1593">P. nigriventer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M1201">
+          <extent>
+              <charseq START="1665" END="1666">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="1665" END="1666">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M1503">
+          <extent>
+              <charseq START="2289" END="2297">P. reidyi</charseq>
+          </extent>
+          <head>
+              <charseq START="2289" END="2297">P. reidyi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M1505">
+          <extent>
+              <charseq START="2303" END="2304">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="2303" END="2304">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M4302">
+          <extent>
+              <charseq START="5599" END="5612">P. nigriventer</charseq>
+          </extent>
+          <head>
+              <charseq START="5599" END="5612">P. nigriventer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M4400">
+          <extent>
+              <charseq START="5686" END="5699">P. nigriventer</charseq>
+          </extent>
+          <head>
+              <charseq START="5686" END="5699">P. nigriventer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E17-M4911">
+          <extent>
+              <charseq START="6637" END="6638">P.</charseq>
+          </extent>
+          <head>
+              <charseq START="6637" END="6638">P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="P. nigriventer">
+              <charseq START="1580" END="1593">P. nigriventer</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="1665" END="1666">P.</charseq>
+          </name>
+          <name NAME="P. reidyi">
+              <charseq START="2289" END="2297">P. reidyi</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="2303" END="2304">P.</charseq>
+          </name>
+          <name NAME="P. nigriventer">
+              <charseq START="5599" END="5612">P. nigriventer</charseq>
+          </name>
+          <name NAME="P. nigriventer">
+              <charseq START="5686" END="5699">P. nigriventer</charseq>
+          </name>
+          <name NAME="P.">
+              <charseq START="6637" END="6638">P.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E18-M1104">
+          <extent>
+              <charseq START="1648" END="1662">human dwellings</charseq>
+          </extent>
+          <head>
+              <charseq START="1654" END="1662">dwellings</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E19-M1105">
+          <extent>
+              <charseq START="1648" END="1652">human</charseq>
+          </extent>
+          <head>
+              <charseq START="1648" END="1652">human</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E19-M3712">
+          <extent>
+              <charseq START="4907" END="4911">human</charseq>
+          </extent>
+          <head>
+              <charseq START="4907" END="4911">human</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E20-M1404" ROLE="LOC">
+          <extent>
+              <charseq START="2108" END="2117">Costa Rica</charseq>
+          </extent>
+          <head>
+              <charseq START="2108" END="2117">Costa Rica</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E20-M2614" ROLE="GPE">
+          <extent>
+              <charseq START="3407" END="3416">Costa Rica</charseq>
+          </extent>
+          <head>
+              <charseq START="3407" END="3416">Costa Rica</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Costa Rica">
+              <charseq START="2108" END="2117">Costa Rica</charseq>
+          </name>
+          <name NAME="Costa Rica">
+              <charseq START="3407" END="3416">Costa Rica</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E21-M1405" ROLE="LOC">
+          <extent>
+              <charseq START="2130" END="2142">South America</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2142">South America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E21-M2010" ROLE="LOC">
+          <extent>
+              <charseq START="2914" END="2926">South America</charseq>
+          </extent>
+          <head>
+              <charseq START="2914" END="2926">South America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E21-M4504" ROLE="GPE">
+          <extent>
+              <charseq START="5994" END="6006">South America</charseq>
+          </extent>
+          <head>
+              <charseq START="5994" END="6006">South America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E21-M5905" ROLE="GPE">
+          <extent>
+              <charseq START="8428" END="8441">South American</charseq>
+          </extent>
+          <head>
+              <charseq START="8428" END="8441">South American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South America">
+              <charseq START="2130" END="2142">South America</charseq>
+          </name>
+          <name NAME="South America">
+              <charseq START="2914" END="2926">South America</charseq>
+          </name>
+          <name NAME="South America">
+              <charseq START="5994" END="6006">South America</charseq>
+          </name>
+          <name NAME="South American">
+              <charseq START="8428" END="8441">South American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E22-M1406" ROLE="GPE">
+          <extent>
+              <charseq START="2152" END="2160">the Andes</charseq>
+          </extent>
+          <head>
+              <charseq START="2156" END="2160">Andes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andes">
+              <charseq START="2156" END="2160">Andes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E23-M1408" ROLE="LOC">
+          <extent>
+              <charseq START="2167" END="2184">northern Argentina</charseq>
+          </extent>
+          <head>
+              <charseq START="2176" END="2184">Argentina</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E23-M1603">
+          <extent>
+              <charseq START="2497" END="2505">Argentina</charseq>
+          </extent>
+          <head>
+              <charseq START="2497" END="2505">Argentina</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E23-M2407" ROLE="GPE">
+          <extent>
+              <charseq START="3196" END="3213">northern Argentina</charseq>
+          </extent>
+          <head>
+              <charseq START="3205" END="3213">Argentina</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Argentina">
+              <charseq START="2176" END="2184">Argentina</charseq>
+          </name>
+          <name NAME="Argentina">
+              <charseq START="2497" END="2505">Argentina</charseq>
+          </name>
+          <name NAME="Argentina">
+              <charseq START="3205" END="3213">Argentina</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E24-M1411">
+          <extent>
+              <charseq START="2197" END="2204">Colombia</charseq>
+          </extent>
+          <head>
+              <charseq START="2197" END="2204">Colombia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colombia">
+              <charseq START="2197" END="2204">Colombia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E25-M1412">
+          <extent>
+              <charseq START="2207" END="2215">Venezuela</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2215">Venezuela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E25-M2610" ROLE="GPE">
+          <extent>
+              <charseq START="3374" END="3382">Venezuela</charseq>
+          </extent>
+          <head>
+              <charseq START="3374" END="3382">Venezuela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E25-M4510" ROLE="LOC">
+          <extent>
+              <charseq START="6033" END="6041">Venezuela</charseq>
+          </extent>
+          <head>
+              <charseq START="6033" END="6041">Venezuela</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Venezuela">
+              <charseq START="2207" END="2215">Venezuela</charseq>
+          </name>
+          <name NAME="Venezuela">
+              <charseq START="3374" END="3382">Venezuela</charseq>
+          </name>
+          <name NAME="Venezuela">
+              <charseq START="6033" END="6041">Venezuela</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E26-M1415">
+          <extent>
+              <charseq START="2222" END="2228">Guianas</charseq>
+          </extent>
+          <head>
+              <charseq START="2222" END="2228">Guianas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guianas">
+              <charseq START="2222" END="2228">Guianas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E27-M1416">
+          <extent>
+              <charseq START="2231" END="2237">Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="2231" END="2237">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E27-M2206">
+          <extent>
+              <charseq START="3016" END="3028">Ecuador, Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="3016" END="3022">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E27-M4511" ROLE="LOC">
+          <extent>
+              <charseq START="6044" END="6050">Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="6044" END="6050">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ecuador">
+              <charseq START="2231" END="2237">Ecuador</charseq>
+          </name>
+          <name NAME="Ecuador">
+              <charseq START="3016" END="3022">Ecuador</charseq>
+          </name>
+          <name NAME="Ecuador">
+              <charseq START="6044" END="6050">Ecuador</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E28-M1417">
+          <extent>
+              <charseq START="2240" END="2243">Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="2240" END="2243">Peru</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E28-M2208" ROLE="LOC">
+          <extent>
+              <charseq START="3025" END="3028">Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="3025" END="3028">Peru</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E28-M2611" ROLE="GPE">
+          <extent>
+              <charseq START="3385" END="3388">Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="3385" END="3388">Peru</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E28-M4512" ROLE="LOC">
+          <extent>
+              <charseq START="6053" END="6056">Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="6053" END="6056">Peru</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peru">
+              <charseq START="2240" END="2243">Peru</charseq>
+          </name>
+          <name NAME="Peru">
+              <charseq START="3025" END="3028">Peru</charseq>
+          </name>
+          <name NAME="Peru">
+              <charseq START="3385" END="3388">Peru</charseq>
+          </name>
+          <name NAME="Peru">
+              <charseq START="6053" END="6056">Peru</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E29-M1418">
+          <extent>
+              <charseq START="2246" END="2252">Bolivia</charseq>
+          </extent>
+          <head>
+              <charseq START="2246" END="2252">Bolivia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bolivia">
+              <charseq START="2246" END="2252">Bolivia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E30-M1420">
+          <extent>
+              <charseq START="2266" END="2273">Paraguay</charseq>
+          </extent>
+          <head>
+              <charseq START="2266" END="2273">Paraguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E30-M1604">
+          <extent>
+              <charseq START="2508" END="2515">Paraguay</charseq>
+          </extent>
+          <head>
+              <charseq START="2508" END="2515">Paraguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paraguay">
+              <charseq START="2266" END="2273">Paraguay</charseq>
+          </name>
+          <name NAME="Paraguay">
+              <charseq START="2508" END="2515">Paraguay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E31" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E31-M1402">
+          <extent>
+              <charseq START="2095" END="2160">forests from Costa Rica throughout South America east of the Andes</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2101">forests</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E32" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M1509">
+          <extent>
+              <charseq START="2366" END="2371">Amazon</charseq>
+          </extent>
+          <head>
+              <charseq START="2366" END="2371">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M1513">
+          <extent>
+              <charseq START="2426" END="2435">the Amazon</charseq>
+          </extent>
+          <head>
+              <charseq START="2430" END="2435">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M1508">
+          <extent>
+              <charseq START="2362" END="2378">the Amazon region</charseq>
+          </extent>
+          <head>
+              <charseq START="2373" END="2378">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M1704">
+          <extent>
+              <charseq START="2623" END="2645">the northeastern region</charseq>
+          </extent>
+          <head>
+              <charseq START="2640" END="2645">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M4202">
+          <extent>
+              <charseq START="5492" END="5500">this area</charseq>
+          </extent>
+          <head>
+              <charseq START="5497" END="5500">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E32-M4505">
+          <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+          </extent>
+          <head>
+              <charseq START="6015" END="6020">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amazon">
+              <charseq START="2366" END="2371">Amazon</charseq>
+          </name>
+          <name NAME="Amazon">
+              <charseq START="2430" END="2435">Amazon</charseq>
+          </name>
+          <name NAME="Amazon">
+              <charseq START="6015" END="6020">Amazon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E33-M1512">
+          <extent>
+              <charseq START="2400" END="2406">P. fera</charseq>
+          </extent>
+          <head>
+              <charseq START="2400" END="2406">P. fera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E33-M4303">
+          <extent>
+              <charseq START="5618" END="5624">P. fera</charseq>
+          </extent>
+          <head>
+              <charseq START="5618" END="5624">P. fera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E33-M4500">
+          <extent>
+              <charseq START="5937" END="5955">The species P. fera</charseq>
+          </extent>
+          <head>
+              <charseq START="5949" END="5955">P. fera</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="P. fera">
+              <charseq START="2400" END="2406">P. fera</charseq>
+          </name>
+          <name NAME="P. fera">
+              <charseq START="5618" END="5624">P. fera</charseq>
+          </name>
+          <name NAME="P. fera">
+              <charseq START="5949" END="5955">P. fera</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E34" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E34-M1601">
+          <extent>
+              <charseq START="2478" END="2492">Atlantic Forest</charseq>
+          </extent>
+          <head>
+              <charseq START="2478" END="2492">Atlantic Forest</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E34-M1911">
+          <extent>
+              <charseq START="2817" END="2824">Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="2817" END="2824">Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E34-M2310">
+          <extent>
+              <charseq START="3113" END="3120">Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="3113" END="3120">Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E34-M2511">
+          <extent>
+              <charseq START="3291" END="3298">Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="3291" END="3298">Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atlantic Forest">
+              <charseq START="2478" END="2492">Atlantic Forest</charseq>
+          </name>
+          <name NAME="Atlantic">
+              <charseq START="2817" END="2824">Atlantic</charseq>
+          </name>
+          <name NAME="Atlantic">
+              <charseq START="3113" END="3120">Atlantic</charseq>
+          </name>
+          <name NAME="Atlantic">
+              <charseq START="3291" END="3298">Atlantic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E35" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E35-M1609">
+          <extent>
+              <charseq START="2559" END="2580">the Cerrado (savannah)</charseq>
+          </extent>
+          <head>
+              <charseq START="2563" END="2569">Cerrado</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E36-M1705" ROLE="GPE">
+          <extent>
+              <charseq START="2656" END="2670">Salvador, Bahia</charseq>
+          </extent>
+          <head>
+              <charseq START="2656" END="2663">Salvador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salvador">
+              <charseq START="2656" END="2663">Salvador</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E37-M1707" ROLE="LOC">
+          <extent>
+              <charseq START="2666" END="2670">Bahia</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2670">Bahia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bahia">
+              <charseq START="2666" END="2670">Bahia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E38-M1802" ROLE="LOC">
+          <extent>
+              <charseq START="2707" END="2711">Chile</charseq>
+          </extent>
+          <head>
+              <charseq START="2707" END="2711">Chile</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chile">
+              <charseq START="2707" END="2711">Chile</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E39-M1803" ROLE="LOC">
+          <extent>
+              <charseq START="2717" END="2723">Uruguay</charseq>
+          </extent>
+          <head>
+              <charseq START="2717" END="2723">Uruguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E39-M2409" ROLE="LOC">
+          <extent>
+              <charseq START="3230" END="3236">Uruguay</charseq>
+          </extent>
+          <head>
+              <charseq START="3230" END="3236">Uruguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uruguay">
+              <charseq START="2717" END="2723">Uruguay</charseq>
+          </name>
+          <name NAME="Uruguay">
+              <charseq START="3230" END="3236">Uruguay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E40-M1904">
+          <extent>
+              <charseq START="2771" END="2807">Phoneutria bahiensis Simó &amp; Brescovit</charseq>
+          </extent>
+          <head>
+              <charseq START="2792" END="2807">Simó &amp; Brescovit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E40-M1906">
+          <extent>
+              <charseq START="2782" END="2790">bahiensis</charseq>
+          </extent>
+          <head>
+              <charseq START="2782" END="2790">bahiensis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Simó &amp; Brescovit">
+              <charseq START="2792" END="2807">Simó &amp; Brescovit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E41-M2006">
+          <extent>
+              <charseq START="2872" END="2884">F. O. Pickard</charseq>
+          </extent>
+          <head>
+              <charseq START="2872" END="2884">F. O. Pickard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E41-M2306">
+          <extent>
+              <charseq START="3080" END="3092">F. O. Pickard</charseq>
+          </extent>
+          <head>
+              <charseq START="3080" END="3092">F. O. Pickard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E41-M2507">
+          <extent>
+              <charseq START="3258" END="3270">F. O. Pickard</charseq>
+          </extent>
+          <head>
+              <charseq START="3258" END="3270">F. O. Pickard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E41-M2607">
+          <extent>
+              <charseq START="3341" END="3353">F. O. Pickard</charseq>
+          </extent>
+          <head>
+              <charseq START="3341" END="3353">F. O. Pickard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="F. O. Pickard">
+              <charseq START="2872" END="2884">F. O. Pickard</charseq>
+          </name>
+          <name NAME="F. O. Pickard">
+              <charseq START="3080" END="3092">F. O. Pickard</charseq>
+          </name>
+          <name NAME="F. O. Pickard">
+              <charseq START="3258" END="3270">F. O. Pickard</charseq>
+          </name>
+          <name NAME="F. O. Pickard">
+              <charseq START="3341" END="3353">F. O. Pickard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E42-M2007" ROLE="LOC">
+          <extent>
+              <charseq START="2886" END="2894">Cambridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2886" END="2894">Cambridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E42-M2307" ROLE="LOC">
+          <extent>
+              <charseq START="3094" END="3102">Cambridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3094" END="3102">Cambridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E42-M2508" ROLE="LOC">
+          <extent>
+              <charseq START="3272" END="3280">Cambridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3272" END="3280">Cambridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E42-M2608" ROLE="LOC">
+          <extent>
+              <charseq START="3355" END="3363">Cambridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3355" END="3363">Cambridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cambridge">
+              <charseq START="2886" END="2894">Cambridge</charseq>
+          </name>
+          <name NAME="Cambridge">
+              <charseq START="3094" END="3102">Cambridge</charseq>
+          </name>
+          <name NAME="Cambridge">
+              <charseq START="3272" END="3280">Cambridge</charseq>
+          </name>
+          <name NAME="Cambridge">
+              <charseq START="3355" END="3363">Cambridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E43-M2102">
+          <extent>
+              <charseq START="2929" END="2968">Phoneutria eickstedtae Martins &amp; Bertani</charseq>
+          </extent>
+          <head>
+              <charseq START="2952" END="2968">Martins &amp; Bertani</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martins &amp; Bertani">
+              <charseq START="2952" END="2968">Martins &amp; Bertani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E44-M2210">
+          <extent>
+              <charseq START="3039" END="3045">Surinam</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3045">Surinam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Surinam">
+              <charseq START="3039" END="3045">Surinam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E45-M2211">
+          <extent>
+              <charseq START="3048" END="3053">Guyana</charseq>
+          </extent>
+          <head>
+              <charseq START="3048" END="3053">Guyana</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E45-M2613" ROLE="GPE">
+          <extent>
+              <charseq START="3399" END="3404">Guyana</charseq>
+          </extent>
+          <head>
+              <charseq START="3399" END="3404">Guyana</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guyana">
+              <charseq START="3048" END="3053">Guyana</charseq>
+          </name>
+          <name NAME="Guyana">
+              <charseq START="3399" END="3404">Guyana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E46-M2404">
+          <extent>
+              <charseq START="3168" END="3177">Keyserling</charseq>
+          </extent>
+          <head>
+              <charseq START="3168" END="3177">Keyserling</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keyserling">
+              <charseq START="3168" END="3177">Keyserling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M3105">
+          <extent>
+              <charseq START="4171" END="4176">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="4171" END="4176">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M3416">
+          <extent>
+              <charseq START="4594" END="4604">Black Widow</charseq>
+          </extent>
+          <head>
+              <charseq START="4600" END="4604">Widow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M3701">
+          <extent>
+              <charseq START="4805" END="4810">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="4805" END="4810">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M3711">
+          <extent>
+              <charseq START="4907" END="4918">human beings</charseq>
+          </extent>
+          <head>
+              <charseq START="4913" END="4918">beings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M3802">
+          <extent>
+              <charseq START="4931" END="4936">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="4931" END="4936">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E47-M4005">
+          <extent>
+              <charseq START="5321" END="5326">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="5321" END="5326">humans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E48-M3417">
+          <extent>
+              <charseq START="4594" END="4598">Black</charseq>
+          </extent>
+          <head>
+              <charseq START="4594" END="4598">Black</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E49" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E49-M3508">
+          <extent>
+              <charseq START="4716" END="4724">the toxin</charseq>
+          </extent>
+          <head>
+              <charseq START="4720" END="4724">toxin</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E50" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E50-M4416" ROLE="LOC">
+          <extent>
+              <charseq START="5877" END="5885">São Paulo</charseq>
+          </extent>
+          <head>
+              <charseq START="5877" END="5885">São Paulo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="São Paulo">
+              <charseq START="5877" END="5885">São Paulo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E51" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E51-M4417" ROLE="LOC">
+          <extent>
+              <charseq START="5888" END="5899">Minas Gerais</charseq>
+          </extent>
+          <head>
+              <charseq START="5888" END="5899">Minas Gerais</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Minas Gerais">
+              <charseq START="5888" END="5899">Minas Gerais</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E52" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E52-M4418" ROLE="LOC">
+          <extent>
+              <charseq START="5902" END="5915">Rio de Janeiro</charseq>
+          </extent>
+          <head>
+              <charseq START="5902" END="5915">Rio de Janeiro</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rio de Janeiro">
+              <charseq START="5902" END="5915">Rio de Janeiro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E53-M4419">
+          <extent>
+              <charseq START="5921" END="5934">Espírito Santo</charseq>
+          </extent>
+          <head>
+              <charseq START="5921" END="5934">Espírito Santo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Espírito Santo">
+              <charseq START="5921" END="5934">Espírito Santo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E54" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E54-M4409">
+          <extent>
+              <charseq START="5807" END="5852">highly populated areas of south-eastern Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="5824" END="5828">areas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E54-M4700">
+          <extent>
+              <charseq START="6157" END="6179">densely populated areas</charseq>
+          </extent>
+          <head>
+              <charseq START="6175" END="6179">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E55" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E55-M4413">
+          <extent>
+              <charseq START="5863" END="5934">the states of São Paulo, Minas Gerais, Rio de Janeiro and Espírito Santo</charseq>
+          </extent>
+          <head>
+              <charseq START="5867" END="5872">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E56-M4513">
+          <extent>
+              <charseq START="6062" END="6072">the Guyanas</charseq>
+          </extent>
+          <head>
+              <charseq START="6066" END="6072">Guyanas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guyanas">
+              <charseq START="6066" END="6072">Guyanas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E57" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Brazilian_wandering_spider.sentences.sgm-E57-M4502">
+          <extent>
+              <charseq START="5970" END="6006">the northern portion of South America</charseq>
+          </extent>
+          <head>
+              <charseq START="5983" END="5989">portion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E58-M4716">
+          <extent>
+              <charseq START="6374" END="6379">people</charseq>
+          </extent>
+          <head>
+              <charseq START="6374" END="6379">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E59-M4807">
+          <extent>
+              <charseq START="6481" END="6520">a &apos;stowaway&apos; within shipments of bananas</charseq>
+          </extent>
+          <head>
+              <charseq START="6484" END="6491">stowaway</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E60" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E60-M4905" ROLE="LOC">
+          <extent>
+              <charseq START="6589" END="6643">Bridgwater, England, when a man was bitten by a P. fera</charseq>
+          </extent>
+          <head>
+              <charseq START="6589" END="6598">Bridgwater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bridgwater">
+              <charseq START="6589" END="6598">Bridgwater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E61" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E61-M4908">
+          <extent>
+              <charseq START="6601" END="6607">England</charseq>
+          </extent>
+          <head>
+              <charseq START="6601" END="6607">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="6601" END="6607">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E62-M4909">
+          <extent>
+              <charseq START="6615" END="6619">a man</charseq>
+          </extent>
+          <head>
+              <charseq START="6617" END="6619">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Brazilian_wandering_spider.sentences.sgm-E62-M4914">
+          <extent>
+              <charseq START="6680" END="6681">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6680" END="6681">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E62-M5931">
+          <extent>
+              <charseq START="8706" END="8708">man</charseq>
+          </extent>
+          <head>
+              <charseq START="8706" END="8708">man</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E63-M4937">
+          <extent>
+              <charseq START="7016" END="7027">most victims</charseq>
+          </extent>
+          <head>
+              <charseq START="7021" END="7027">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E64-M5004">
+          <extent>
+              <charseq START="7163" END="7175">the Lycosides</charseq>
+          </extent>
+          <head>
+              <charseq START="7167" END="7175">Lycosides</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lycosides">
+              <charseq START="7167" END="7175">Lycosides</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E65-M5111">
+          <extent>
+              <charseq START="7363" END="7379">Wolfgang Bucheral</charseq>
+          </extent>
+          <head>
+              <charseq START="7363" END="7379">Wolfgang Bucheral</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E65-M5503">
+          <extent>
+              <charseq START="7883" END="7901">Wolfgang Bucheral..</charseq>
+          </extent>
+          <head>
+              <charseq START="7883" END="7901">Wolfgang Bucheral..</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolfgang Bucheral">
+              <charseq START="7363" END="7379">Wolfgang Bucheral</charseq>
+          </name>
+          <name NAME="Wolfgang Bucheral..">
+              <charseq START="7883" END="7901">Wolfgang Bucheral..</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E66-M5117">
+          <extent>
+              <charseq START="7471" END="7481">Latrodectus</charseq>
+          </extent>
+          <head>
+              <charseq START="7471" END="7481">Latrodectus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Latrodectus">
+              <charseq START="7471" END="7481">Latrodectus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E67-M5118">
+          <extent>
+              <charseq START="7487" END="7491">Atrax</charseq>
+          </extent>
+          <head>
+              <charseq START="7487" END="7491">Atrax</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E67-M5209">
+          <extent>
+              <charseq START="7661" END="7665">Atrax</charseq>
+          </extent>
+          <head>
+              <charseq START="7661" END="7665">Atrax</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atrax">
+              <charseq START="7487" END="7491">Atrax</charseq>
+          </name>
+          <name NAME="Atrax">
+              <charseq START="7661" END="7665">Atrax</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E68-M5106">
+          <extent>
+              <charseq START="7270" END="7277">children</charseq>
+          </extent>
+          <head>
+              <charseq START="7270" END="7277">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E68-M5402">
+          <extent>
+              <charseq START="7796" END="7807">two children</charseq>
+          </extent>
+          <head>
+              <charseq START="7800" END="7807">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E69" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E69-M5200">
+          <extent>
+              <charseq START="7494" END="7505">Many experts</charseq>
+          </extent>
+          <head>
+              <charseq START="7499" END="7505">experts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Brazilian_wandering_spider.sentences.sgm-E69-M5206">
+          <extent>
+              <charseq START="7606" END="7610">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7606" END="7610">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E70" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E70-M5403" ROLE="LOC">
+          <extent>
+              <charseq START="7812" END="7824">São Sebastião</charseq>
+          </extent>
+          <head>
+              <charseq START="7812" END="7824">São Sebastião</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="São Sebastião">
+              <charseq START="7812" END="7824">São Sebastião</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E71" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E71-M5604">
+          <extent>
+              <charseq START="8044" END="8054">any Ctenid,</charseq>
+          </extent>
+          <head>
+              <charseq START="8048" END="8053">Ctenid</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ctenid">
+              <charseq START="8048" END="8053">Ctenid</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E72" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E72-M5601">
+          <extent>
+              <charseq START="8010" END="8015">people</charseq>
+          </extent>
+          <head>
+              <charseq START="8010" END="8015">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E73-M5710">
+          <extent>
+              <charseq START="8192" END="8217">the genus Phoneutria Perty</charseq>
+          </extent>
+          <head>
+              <charseq START="8202" END="8217">Phoneutria Perty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E73-M5711">
+          <extent>
+              <charseq START="8196" END="8200">genus</charseq>
+          </extent>
+          <head>
+              <charseq START="8196" END="8200">genus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phoneutria Perty">
+              <charseq START="8202" END="8217">Phoneutria Perty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E74-M5715">
+          <extent>
+              <charseq START="8226" END="8242">Araneae: Ctenidae</charseq>
+          </extent>
+          <head>
+              <charseq START="8226" END="8232">Araneae</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Araneae">
+              <charseq START="8226" END="8232">Araneae</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E75" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E75-M5908" ROLE="GPE">
+          <extent>
+              <charseq START="8459" END="8466">Manitoba</charseq>
+          </extent>
+          <head>
+              <charseq START="8459" END="8466">Manitoba</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manitoba">
+              <charseq START="8459" END="8466">Manitoba</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E76-M5910">
+          <extent>
+              <charseq START="8482" END="8496">CBC News
+Spider</charseq>
+          </extent>
+          <head>
+              <charseq START="8482" END="8496">CBC News
+Spider</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CBC News
+Spider">
+              <charseq START="8482" END="8496">CBC News
+Spider</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E77" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5914">
+          <extent>
+              <charseq START="8522" END="8536">BBC News Online</charseq>
+          </extent>
+          <head>
+              <charseq START="8522" END="8536">BBC News Online</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5918">
+          <extent>
+              <charseq START="8572" END="8593">BBC News Online
+Spider</charseq>
+          </extent>
+          <head>
+              <charseq START="8572" END="8593">BBC News Online
+Spider</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5928">
+          <extent>
+              <charseq START="8671" END="8685">BBC News Online</charseq>
+          </extent>
+          <head>
+              <charseq START="8671" END="8685">BBC News Online</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5932">
+          <extent>
+              <charseq START="8715" END="8942">deadly spider
+Web used to trace deadly spider BBC News Online
+An illustrative set of pictures of Ctenidae
+Picture of P. nigriventer
+Potential drug for erectile dysfunction
+Spider Venom Could Boost Sex Life BBC News Online
+Spider</charseq>
+          </extent>
+          <head>
+              <charseq START="8921" END="8942">BBC News Online
+Spider</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5934">
+          <extent>
+              <charseq START="8747" END="8775">deadly spider BBC News Online</charseq>
+          </extent>
+          <head>
+              <charseq START="8761" END="8775">BBC News Online</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5935">
+          <extent>
+              <charseq START="8754" END="8759">spider</charseq>
+          </extent>
+          <head>
+              <charseq START="8754" END="8759">spider</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E77-M5950">
+          <extent>
+              <charseq START="8916" END="8919">Life</charseq>
+          </extent>
+          <head>
+              <charseq START="8916" END="8919">Life</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BBC News Online">
+              <charseq START="8522" END="8536">BBC News Online</charseq>
+          </name>
+          <name NAME="BBC News Online
+Spider">
+              <charseq START="8572" END="8593">BBC News Online
+Spider</charseq>
+          </name>
+          <name NAME="BBC News Online">
+              <charseq START="8671" END="8685">BBC News Online</charseq>
+          </name>
+          <name NAME="BBC News Online
+Spider">
+              <charseq START="8921" END="8942">BBC News Online
+Spider</charseq>
+          </name>
+          <name NAME="BBC News Online">
+              <charseq START="8761" END="8775">BBC News Online</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E78" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E78-M5922" ROLE="GPE">
+          <extent>
+              <charseq START="8620" END="8624">Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="8620" END="8624">Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E78-M5960" ROLE="GPE">
+          <extent>
+              <charseq START="9010" END="9014">Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="9010" END="9014">Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dutch">
+              <charseq START="8620" END="8624">Dutch</charseq>
+          </name>
+          <name NAME="Dutch">
+              <charseq START="9010" END="9014">Dutch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E79-M5942">
+          <extent>
+              <charseq START="8812" END="8833">Ctenidae
+Picture of P.</charseq>
+          </extent>
+          <head>
+              <charseq START="8812" END="8833">Ctenidae
+Picture of P.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ctenidae
+Picture of P.">
+              <charseq START="8812" END="8833">Ctenidae
+Picture of P.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E80" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E80-M5954" ROLE="GPE">
+          <extent>
+              <charseq START="8954" END="8959">danish</charseq>
+          </extent>
+          <head>
+              <charseq START="8954" END="8959">danish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="danish">
+              <charseq START="8954" END="8959">danish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E81" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E81-M5969">
+          <extent>
+              <charseq START="9109" END="9119">Whole Foods</charseq>
+          </extent>
+          <head>
+              <charseq START="9109" END="9119">Whole Foods</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whole Foods">
+              <charseq START="9109" END="9119">Whole Foods</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E82" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E82-M5906">
+          <extent>
+              <charseq START="8459" END="8652">Manitoba grocery store CBC News
+Spider gives pupils the creeps BBC News Online
+Deadly spider found in banana box BBC News Online
+Spider found between bananas in Dutch supermarket
+Pub chef bitten</charseq>
+          </extent>
+          <head>
+              <charseq START="8476" END="8480">store</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E83-M5911">
+          <extent>
+              <charseq START="8504" END="8509">pupils</charseq>
+          </extent>
+          <head>
+              <charseq START="8504" END="8509">pupils</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E84" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E84-M5962">
+          <extent>
+              <charseq START="9051" END="9071">Co-op bananas England</charseq>
+          </extent>
+          <head>
+              <charseq START="9065" END="9071">England</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E85" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E85-M6004" ROLE="LOC">
+          <extent>
+              <charseq START="9172" END="9186">Tulsa, Oklahoma</charseq>
+          </extent>
+          <head>
+              <charseq START="9172" END="9176">Tulsa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E85-M6200">
+          <extent>
+              <charseq START="9204" END="9215">Chance Tulsa</charseq>
+          </extent>
+          <head>
+              <charseq START="9211" END="9215">Tulsa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Brazilian_wandering_spider.sentences.sgm-E85-M6201">
+          <extent>
+              <charseq START="9204" END="9209">Chance</charseq>
+          </extent>
+          <head>
+              <charseq START="9204" END="9209">Chance</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tulsa">
+              <charseq START="9172" END="9176">Tulsa</charseq>
+          </name>
+          <name NAME="Tulsa">
+              <charseq START="9211" END="9215">Tulsa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Brazilian_wandering_spider.sentences.sgm-E86" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Brazilian_wandering_spider.sentences.sgm-E86-M6006" ROLE="LOC">
+          <extent>
+              <charseq START="9179" END="9186">Oklahoma</charseq>
+          </extent>
+          <head>
+              <charseq START="9179" END="9186">Oklahoma</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oklahoma">
+              <charseq START="9179" END="9186">Oklahoma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T0" VAL="2007">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="606" END="609">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1255" END="1262">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T2" VAL="TNI">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1406" END="1410">night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T3">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1473" END="1479">the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T4" VAL="XXXX-06">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1693" END="1725">the dry season from April to June</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T5">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1787" END="1795">this time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T6" VAL="2001">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2810" END="2813">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T7" VAL="1897">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2897" END="2900">1897</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T8" VAL="2007">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2971" END="2974">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T9" VAL="1833">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="3009" END="3012">1833</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T10" VAL="1897">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3105" END="3108">1897</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T11" VAL="1891">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3180" END="3183">1891</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T12" VAL="1897">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3283" END="3286">1897</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T13" VAL="1897">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="3366" END="3369">1897</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T14" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4236" END="4239">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T15" VAL="PTXH">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="4245" END="4254">many hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T16" VAL="P1W" MOD="LESS_THAN">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="6700" END="6712">nearly a week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Brazilian_wandering_spider.sentences.sgm-V17" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Brazilian_wandering_spider.sentences.sgm-V17-M1">
+            <extent>
+              <charseq START="7239" END="7248">only 2.3 %</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T18" VAL="2007">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="8121" END="8124">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Brazilian_wandering_spider.sentences.sgm-T19" VAL="1833">
+        <timex2_mention ID="Brazilian_wandering_spider.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="8220" END="8223">1833</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Brazilian_wandering_spider.sentences.sgm-V20" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Brazilian_wandering_spider.sentences.sgm-V20-M1">
+            <extent>
+              <charseq START="8341" END="8402">http://www.animalcorner.co.uk/venanimals/ven_spidbrazwand.html</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R0-M1400">
+          <extent>
+              <charseq START="2095" END="2160">forests from Costa Rica throughout South America east of the Andes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E31-M1402" ROLE="Arg-1">
+            <extent>
+              <charseq START="2095" END="2160">forests from Costa Rica throughout South America east of the Andes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E20-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="2108" END="2117">Costa Rica</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R1-M1700">
+          <extent>
+              <charseq START="2656" END="2670">Salvador, Bahia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E36-M1705" ROLE="Arg-1">
+            <extent>
+              <charseq START="2656" END="2670">Salvador, Bahia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E37-M1707" ROLE="Arg-2">
+            <extent>
+              <charseq START="2666" END="2670">Bahia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R2-M2200">
+          <extent>
+              <charseq START="3016" END="3028">Ecuador, Peru</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E27-M2206" ROLE="Arg-1">
+            <extent>
+              <charseq START="3016" END="3028">Ecuador, Peru</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E28-M2208" ROLE="Arg-2">
+            <extent>
+              <charseq START="3025" END="3028">Peru</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E54" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R3-M4400">
+          <extent>
+              <charseq START="5807" END="5852">highly populated areas of south-eastern Brazil</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E54-M4409" ROLE="Arg-1">
+            <extent>
+              <charseq START="5807" END="5852">highly populated areas of south-eastern Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E0-M4411" ROLE="Arg-2">
+            <extent>
+              <charseq START="5833" END="5852">south-eastern Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R4-M4500">
+          <extent>
+              <charseq START="5937" END="5955">The species P. fera</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E33-M4500" ROLE="Arg-1">
+            <extent>
+              <charseq START="5937" END="5955">The species P. fera</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32-M4505" ROLE="Arg-2">
+            <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E57" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R5-M4501">
+          <extent>
+              <charseq START="5970" END="6006">the northern portion of South America</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E57-M4502" ROLE="Arg-1">
+            <extent>
+              <charseq START="5970" END="6006">the northern portion of South America</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E21-M4504" ROLE="Arg-2">
+            <extent>
+              <charseq START="5994" END="6006">South America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R6-M4502">
+          <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32-M4505" ROLE="Arg-1">
+            <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E0-M4509" ROLE="Arg-2">
+            <extent>
+              <charseq START="6025" END="6030">Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R7-M4503">
+          <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32-M4505" ROLE="Arg-1">
+            <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E25-M4510" ROLE="Arg-2">
+            <extent>
+              <charseq START="6033" END="6041">Venezuela</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R8-M4504">
+          <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32-M4505" ROLE="Arg-1">
+            <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E27-M4511" ROLE="Arg-2">
+            <extent>
+              <charseq START="6044" END="6050">Ecuador</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R9-M4505">
+          <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E32-M4505" ROLE="Arg-1">
+            <extent>
+              <charseq START="6011" END="6072">the Amazon of Brazil, Venezuela, Ecuador, Peru and the Guyanas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E28-M4512" ROLE="Arg-2">
+            <extent>
+              <charseq START="6053" END="6056">Peru</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E61" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R10-M4900">
+          <extent>
+              <charseq START="6589" END="6643">Bridgwater, England, when a man was bitten by a P. fera</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E60-M4905" ROLE="Arg-1">
+            <extent>
+              <charseq START="6589" END="6643">Bridgwater, England, when a man was bitten by a P. fera</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E61-M4908" ROLE="Arg-2">
+            <extent>
+              <charseq START="6601" END="6607">England</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R11" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E68" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E70" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R11-M5400">
+          <extent>
+              <charseq START="7796" END="7807">two children</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E68-M5402" ROLE="Arg-1">
+            <extent>
+              <charseq START="7796" END="7807">two children</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E70-M5403" ROLE="Arg-2">
+            <extent>
+              <charseq START="7812" END="7824">São Sebastião</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E75" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E82" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R12-M5900">
+          <extent>
+              <charseq START="8459" END="8466">Manitoba</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E75-M5908" ROLE="Arg-1">
+            <extent>
+              <charseq START="8459" END="8466">Manitoba</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E82-M5906" ROLE="Arg-2">
+            <extent>
+              <charseq START="8459" END="8652">Manitoba grocery store CBC News
+Spider gives pupils the creeps BBC News Online
+Deadly spider found in banana box BBC News Online
+Spider found between bananas in Dutch supermarket
+Pub chef bitten</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Brazilian_wandering_spider.sentences.sgm-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="Brazilian_wandering_spider.sentences.sgm-E86" ROLE="Arg-2"/>
+        <relation_mention ID="Brazilian_wandering_spider.sentences.sgm-R13-M6000">
+          <extent>
+              <charseq START="9172" END="9186">Tulsa, Oklahoma</charseq>
+          </extent>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E85-M6004" ROLE="Arg-1">
+            <extent>
+              <charseq START="9172" END="9186">Tulsa, Oklahoma</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E86-M6006" ROLE="Arg-2">
+            <extent>
+              <charseq START="9179" END="9186">Oklahoma</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV0-M300">
+          <extent>
+              <charseq START="704" END="709">deaths</charseq>
+          </extent>
+          <anchor>
+              <charseq START="704" END="709">deaths</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV1-M1000">
+          <extent>
+              <charseq START="1520" END="1525">fallen</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1520" END="1525">fallen</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV2-M2901">
+          <extent>
+              <charseq START="3863" END="3868">attack</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3863" END="3868">attack</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV3-M3901">
+          <extent>
+              <charseq START="5154" END="5158">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5154" END="5158">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV4-M3902">
+          <extent>
+              <charseq START="5171" END="5176">injury</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5171" END="5176">injury</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV5-M4000">
+          <extent>
+              <charseq START="5289" END="5297">attacking</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5289" END="5297">attacking</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Brazilian_wandering_spider.sentences.sgm-E61" ROLE="Destination"/>
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV6-M4900">
+          <extent>
+              <charseq START="6577" END="6584">arriving</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6577" END="6584">arriving</charseq>
+          </anchor>
+        <event_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E61-M4908" ROLE="Destination">
+          <extent>
+              <charseq START="6601" END="6607">England</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV7-M4901">
+          <extent>
+              <charseq START="6889" END="6893">fatal</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6889" END="6893">fatal</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV8-M4902">
+          <extent>
+              <charseq START="7084" END="7092">attacking</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7084" END="7092">attacking</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV9-M5300">
+          <extent>
+              <charseq START="7753" END="7757">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7753" END="7757">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Brazilian_wandering_spider.sentences.sgm-E68" ROLE="Victim"/>
+      <event_argument REFID="Brazilian_wandering_spider.sentences.sgm-E70" ROLE="Place"/>
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV10-M5401">
+          <extent>
+              <charseq START="7789" END="7794">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7789" END="7794">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E68-M5402" ROLE="Victim">
+          <extent>
+              <charseq START="7796" END="7807">two children</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E70-M5403" ROLE="Place">
+          <extent>
+              <charseq START="7812" END="7824">São Sebastião</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Brazilian_wandering_spider.sentences.sgm-E80" ROLE="Place"/>
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV11-M5902">
+          <extent>
+              <charseq START="8944" END="8949">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8944" END="8949">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E80-M5954" ROLE="Place">
+          <extent>
+              <charseq START="8954" END="8959">danish</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Brazilian_wandering_spider.sentences.sgm-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Brazilian_wandering_spider.sentences.sgm-E78" ROLE="Place"/>
+      <event_mention ID="Brazilian_wandering_spider.sentences.sgm-EV12-M5903">
+          <extent>
+              <charseq START="9000" END="9005">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9000" END="9005">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Brazilian_wandering_spider.sentences.sgm-E78-M5960" ROLE="Place">
+          <extent>
+              <charseq START="9010" END="9014">Dutch</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

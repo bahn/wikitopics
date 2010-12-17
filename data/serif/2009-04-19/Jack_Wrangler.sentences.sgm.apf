@@ -1,0 +1,4152 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Jack_Wrangler.sentences.sgm">
+  <document DOCID="Jack_Wrangler.sentences.sgm">
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="30" END="42">Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="42">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="30" END="68">Jack Wrangler (July 11, 1946 – April 7,</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="42">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M108">
+          <extent>
+              <charseq START="238" END="245">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="245">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="177" END="179">his</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="179">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M107">
+          <extent>
+              <charseq START="226" END="228">his</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="228">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M1308">
+          <extent>
+              <charseq START="1727" END="1749">the name &quot;Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="1742" END="1749">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M1500">
+          <extent>
+              <charseq START="1827" END="1834">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="1827" END="1834">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1518">
+          <extent>
+              <charseq START="2029" END="2031">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2029" END="2031">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1601">
+          <extent>
+              <charseq START="2044" END="2046">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2044" END="2046">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M1700">
+          <extent>
+              <charseq START="2237" END="2244">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="2237" END="2244">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="2309" END="2310">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2309" END="2310">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1909">
+          <extent>
+              <charseq START="2887" END="2888">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2887" END="2888">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1912">
+          <extent>
+              <charseq START="2913" END="2915">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2913" END="2915">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M1915">
+          <extent>
+              <charseq START="2956" END="2958">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2956" END="2958">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2002">
+          <extent>
+              <charseq START="2996" END="3003">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="2996" END="3003">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2001">
+          <extent>
+              <charseq START="2973" END="2975">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2973" END="2975">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2101">
+          <extent>
+              <charseq START="3033" END="3035">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3033" END="3035">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2201">
+          <extent>
+              <charseq START="3151" END="3158">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="3151" END="3158">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2206">
+          <extent>
+              <charseq START="3209" END="3211">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3209" END="3211">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2212">
+          <extent>
+              <charseq START="3251" END="3253">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3251" END="3253">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2309">
+          <extent>
+              <charseq START="3392" END="3395">Jack</charseq>
+          </extent>
+          <head>
+              <charseq START="3392" END="3395">Jack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2300">
+          <extent>
+              <charseq START="3309" END="3310">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3309" END="3310">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2400">
+          <extent>
+              <charseq START="3449" END="3450">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3449" END="3450">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2507">
+          <extent>
+              <charseq START="3696" END="3703">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="3696" END="3703">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M2510">
+          <extent>
+              <charseq START="3723" END="3732">the viewer</charseq>
+          </extent>
+          <head>
+              <charseq START="3727" END="3732">viewer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2600">
+          <extent>
+              <charseq START="3795" END="3807">Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="3795" END="3807">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2601">
+          <extent>
+              <charseq START="3810" END="3811">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3810" END="3811">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M2704">
+          <extent>
+              <charseq START="3913" END="3925">Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="3913" END="3925">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M2703">
+          <extent>
+              <charseq START="3878" END="3892">a gay-porn star</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3892">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2702">
+          <extent>
+              <charseq START="3860" END="3862">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3860" END="3862">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="4025" END="4032">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="4025" END="4032">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2806">
+          <extent>
+              <charseq START="4096" END="4098">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4096" END="4098">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M2902">
+          <extent>
+              <charseq START="4130" END="4131">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4130" END="4131">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M3001">
+          <extent>
+              <charseq START="4271" END="4278">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="4271" END="4278">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M3102">
+          <extent>
+              <charseq START="4382" END="4383">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4382" END="4383">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M3202">
+          <extent>
+              <charseq START="4499" END="4506">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="4499" END="4506">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M3514">
+          <extent>
+              <charseq START="4820" END="4853">Rising Star (Caballero Home Video)</charseq>
+          </extent>
+          <head>
+              <charseq START="4827" END="4830">Star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M3600">
+          <extent>
+              <charseq START="4856" END="4863">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="4856" END="4863">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M3602">
+          <extent>
+              <charseq START="4872" END="4874">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4872" END="4874">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M3700">
+          <extent>
+              <charseq START="4919" END="4920">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4919" END="4920">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M3800">
+          <extent>
+              <charseq START="5042" END="5043">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5042" END="5043">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M3901">
+          <extent>
+              <charseq START="5323" END="5324">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5323" END="5324">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4000">
+          <extent>
+              <charseq START="5428" END="5435">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="5428" END="5435">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4100">
+          <extent>
+              <charseq START="5576" END="5583">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="5576" END="5583">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4101">
+          <extent>
+              <charseq START="5594" END="5637">a promoter of the cabaret singer Carol Woods</charseq>
+          </extent>
+          <head>
+              <charseq START="5596" END="5603">promoter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4200">
+          <extent>
+              <charseq START="5707" END="5714">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="5707" END="5714">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4300">
+          <extent>
+              <charseq START="5892" END="5899">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="5892" END="5899">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4308">
+          <extent>
+              <charseq START="5943" END="5950">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="5943" END="5950">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M4402">
+          <extent>
+              <charseq START="6066" END="6073">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="6066" END="6073">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4503">
+          <extent>
+              <charseq START="6141" END="6148">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="6141" END="6148">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M4506">
+          <extent>
+              <charseq START="6178" END="6187">my manager</charseq>
+          </extent>
+          <head>
+              <charseq START="6181" END="6187">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M5102">
+          <extent>
+              <charseq START="6502" END="6509">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="6502" END="6509">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M5200">
+          <extent>
+              <charseq START="6597" END="6604">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="6597" END="6604">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M5203">
+          <extent>
+              <charseq START="6632" END="6643">a homosexual</charseq>
+          </extent>
+          <head>
+              <charseq START="6634" END="6643">homosexual</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M5304">
+          <extent>
+              <charseq START="6687" END="6694">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="6687" END="6694">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M5502">
+          <extent>
+              <charseq START="6808" END="6812">a guy</charseq>
+          </extent>
+          <head>
+              <charseq START="6810" END="6812">guy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M5505">
+          <extent>
+              <charseq START="6852" END="6854">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6852" END="6854">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M5708">
+          <extent>
+              <charseq START="7148" END="7155">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7148" END="7155">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M5705">
+          <extent>
+              <charseq START="7112" END="7119">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7112" END="7119">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M5802">
+          <extent>
+              <charseq START="7206" END="7213">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7206" END="7213">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M5804">
+          <extent>
+              <charseq START="7251" END="7252">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7251" END="7252">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6005">
+          <extent>
+              <charseq START="7380" END="7390">his manager</charseq>
+          </extent>
+          <head>
+              <charseq START="7384" END="7390">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M6001">
+          <extent>
+              <charseq START="7350" END="7351">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7350" END="7351">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M6004">
+          <extent>
+              <charseq START="7354" END="7356">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7354" END="7356">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M6006">
+          <extent>
+              <charseq START="7380" END="7382">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7380" END="7382">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M6012">
+          <extent>
+              <charseq START="7454" END="7456">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7454" END="7456">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6202">
+          <extent>
+              <charseq START="7580" END="7587">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7580" END="7587">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6405">
+          <extent>
+              <charseq START="7868" END="7875">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7868" END="7875">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6406">
+          <extent>
+              <charseq START="7878" END="7885">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7878" END="7885">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6600">
+          <extent>
+              <charseq START="7991" END="7998">Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="7991" END="7998">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E0-M6745">
+          <extent>
+              <charseq START="8389" END="8391">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8389" END="8391">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M6910">
+          <extent>
+              <charseq START="8663" END="8702">Jack Wrangler&apos; Remembering Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="8690" END="8702">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E0-M6911">
+          <extent>
+              <charseq START="8663" END="8675">Jack Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="8663" END="8675">Jack Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6912">
+          <extent>
+              <charseq START="8678" END="8688">Remembering</charseq>
+          </extent>
+          <head>
+              <charseq START="8678" END="8688">Remembering</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E0-M6914">
+          <extent>
+              <charseq START="8705" END="8715">a porn Icon</charseq>
+          </extent>
+          <head>
+              <charseq START="8712" END="8715">Icon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jack Wrangler">
+              <charseq START="30" END="42">Jack Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="238" END="245">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="2996" END="3003">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="3151" END="3158">Wrangler</charseq>
+          </name>
+          <name NAME="Jack">
+              <charseq START="3392" END="3395">Jack</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="3696" END="3703">Wrangler</charseq>
+          </name>
+          <name NAME="Jack Wrangler">
+              <charseq START="3795" END="3807">Jack Wrangler</charseq>
+          </name>
+          <name NAME="Jack Wrangler">
+              <charseq START="3913" END="3925">Jack Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="4271" END="4278">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="6066" END="6073">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="6502" END="6509">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="6597" END="6604">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="6687" END="6694">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="7148" END="7155">Wrangler</charseq>
+          </name>
+          <name NAME="Wrangler">
+              <charseq START="7206" END="7213">Wrangler</charseq>
+          </name>
+          <name NAME="Jack Wrangler">
+              <charseq START="8690" END="8702">Jack Wrangler</charseq>
+          </name>
+          <name NAME="Jack Wrangler">
+              <charseq START="8663" END="8675">Jack Wrangler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E1-M10" ROLE="GPE">
+          <extent>
+              <charseq START="84" END="91">American</charseq>
+          </extent>
+          <head>
+              <charseq START="84" END="91">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E1-M1621" ROLE="LOC">
+          <extent>
+              <charseq START="2218" END="2234">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2222" END="2234">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="84" END="91">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="2222" END="2234">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E2-M8">
+          <extent>
+              <charseq START="81" END="104">an American actor of gay</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="97">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E2-M16">
+          <extent>
+              <charseq START="156" END="163">director</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="163">director</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E3-M15">
+          <extent>
+              <charseq START="131" END="149">theatrical producer</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="149">producer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E4-M109">
+          <extent>
+              <charseq START="262" END="299">an icon of the gay-liberation movement</charseq>
+          </extent>
+          <head>
+              <charseq START="265" END="268">icon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E4-M2603">
+          <extent>
+              <charseq START="3820" END="3857">an icon of the gay-liberation movement</charseq>
+          </extent>
+          <head>
+              <charseq START="3823" END="3826">icon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E5-M111">
+          <extent>
+              <charseq START="273" END="299">the gay-liberation movement</charseq>
+          </extent>
+          <head>
+              <charseq START="292" END="299">movement</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E5-M2605">
+          <extent>
+              <charseq START="3831" END="3857">the gay-liberation movement</charseq>
+          </extent>
+          <head>
+              <charseq START="3850" END="3857">movement</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E6-M204">
+          <extent>
+              <charseq START="342" END="361">John Robert Stillman</charseq>
+          </extent>
+          <head>
+              <charseq START="342" END="361">John Robert Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E6-M306">
+          <extent>
+              <charseq START="427" END="532">television producer Robert Stillman, who directed such films as Champion, Boots and Saddles, Second Chorus</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="461">Robert Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E6-M309">
+          <extent>
+              <charseq START="438" END="445">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="445">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E6-M300">
+          <extent>
+              <charseq START="393" END="402">His father</charseq>
+          </extent>
+          <head>
+              <charseq START="397" END="402">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M311">
+          <extent>
+              <charseq START="464" END="466">who</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="466">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M401">
+          <extent>
+              <charseq START="605" END="607">His</charseq>
+          </extent>
+          <head>
+              <charseq START="605" END="607">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E6-M500">
+          <extent>
+              <charseq START="686" END="693">Stillman</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="693">Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M502">
+          <extent>
+              <charseq START="701" END="703">his</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="703">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M700">
+          <extent>
+              <charseq START="916" END="917">He</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="917">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M703">
+          <extent>
+              <charseq START="935" END="937">his</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="937">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M704">
+          <extent>
+              <charseq START="958" END="959">he</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="959">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E6-M800">
+          <extent>
+              <charseq START="979" END="986">Stillman</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="986">Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E6-M907">
+          <extent>
+              <charseq START="1133" END="1140">Stillman</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1140">Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M905">
+          <extent>
+              <charseq START="1099" END="1101">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1101">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1003">
+          <extent>
+              <charseq START="1276" END="1278">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1276" END="1278">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1100">
+          <extent>
+              <charseq START="1444" END="1445">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1445">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1200">
+          <extent>
+              <charseq START="1577" END="1578">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1578">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1301">
+          <extent>
+              <charseq START="1670" END="1671">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1670" END="1671">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1305">
+          <extent>
+              <charseq START="1678" END="1680">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1680">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M1403">
+          <extent>
+              <charseq START="1809" END="1811">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1809" END="1811">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E6-M3109">
+          <extent>
+              <charseq START="4436" END="4473">a gay man whose lover has died of AIDS</charseq>
+          </extent>
+          <head>
+              <charseq START="4442" END="4444">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3112">
+          <extent>
+              <charseq START="4446" END="4450">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="4446" END="4450">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E6-M3309">
+          <extent>
+              <charseq START="4613" END="4622">a Nice Boy</charseq>
+          </extent>
+          <head>
+              <charseq START="4620" END="4622">Boy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3300">
+          <extent>
+              <charseq START="4546" END="4547">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4546" END="4547">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3305">
+          <extent>
+              <charseq START="4559" END="4561">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4559" END="4561">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3401">
+          <extent>
+              <charseq START="4676" END="4677">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4676" END="4677">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3405">
+          <extent>
+              <charseq START="4687" END="4689">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4687" END="4689">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3505">
+          <extent>
+              <charseq START="4752" END="4753">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4752" END="4753">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E6-M3509">
+          <extent>
+              <charseq START="4767" END="4769">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4767" END="4769">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Robert Stillman">
+              <charseq START="342" END="361">John Robert Stillman</charseq>
+          </name>
+          <name NAME="Robert Stillman">
+              <charseq START="447" END="461">Robert Stillman</charseq>
+          </name>
+          <name NAME="Stillman">
+              <charseq START="686" END="693">Stillman</charseq>
+          </name>
+          <name NAME="Stillman">
+              <charseq START="979" END="986">Stillman</charseq>
+          </name>
+          <name NAME="Stillman">
+              <charseq START="1133" END="1140">Stillman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E7-M205" ROLE="LOC">
+          <extent>
+              <charseq START="366" END="390">Beverly Hills, California</charseq>
+          </extent>
+          <head>
+              <charseq START="366" END="378">Beverly Hills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beverly Hills">
+              <charseq START="366" END="378">Beverly Hills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E8" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E8-M207" ROLE="LOC">
+          <extent>
+              <charseq START="381" END="390">California</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="390">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E8-M913" ROLE="LOC">
+          <extent>
+              <charseq START="1188" END="1197">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1188" END="1197">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E8-M1017" ROLE="LOC">
+          <extent>
+              <charseq START="1432" END="1441">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1441">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E8-M1108" ROLE="LOC">
+          <extent>
+              <charseq START="1522" END="1531">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1522" END="1531">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E8-M6015" ROLE="LOC">
+          <extent>
+              <charseq START="7494" END="7503">California</charseq>
+          </extent>
+          <head>
+              <charseq START="7494" END="7503">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="381" END="390">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1188" END="1197">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1432" END="1441">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1522" END="1531">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="7494" END="7503">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E9-M200">
+          <extent>
+              <charseq START="302" END="331">Biography
+Early years
+Wrangler</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="331">Wrangler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E9-M301">
+          <extent>
+              <charseq START="393" END="395">His</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="395">His</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E10-M304" ROLE="GPE">
+          <extent>
+              <charseq START="408" END="416">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="416">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="408" END="416">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E11-M316">
+          <extent>
+              <charseq START="491" END="498">Champion</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="498">Champion</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Champion">
+              <charseq START="491" END="498">Champion</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E12-M317">
+          <extent>
+              <charseq START="501" END="505">Boots</charseq>
+          </extent>
+          <head>
+              <charseq START="501" END="505">Boots</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boots">
+              <charseq START="501" END="505">Boots</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E13-M327">
+          <extent>
+              <charseq START="596" END="602">Bonanza</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="602">Bonanza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bonanza">
+              <charseq START="596" END="602">Bonanza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E14-M321">
+          <extent>
+              <charseq START="539" END="555">Home of the Brave</charseq>
+          </extent>
+          <head>
+              <charseq START="539" END="542">Home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E14-M2106">
+          <extent>
+              <charseq START="3091" END="3099">Hot House</charseq>
+          </extent>
+          <head>
+              <charseq START="3095" END="3099">House</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E15-M402">
+          <extent>
+              <charseq START="617" END="636">Ruth Clark Stillman,</charseq>
+          </extent>
+          <head>
+              <charseq START="617" END="635">Ruth Clark Stillman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E15-M404">
+          <extent>
+              <charseq START="642" END="683">a former dancer in Busby Berkeley musicals</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="656">dancer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E15-M400">
+          <extent>
+              <charseq START="605" END="614">His mother</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="614">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E15-M919">
+          <extent>
+              <charseq START="1261" END="1266">dancer</charseq>
+          </extent>
+          <head>
+              <charseq START="1261" END="1266">dancer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E15-M1106">
+          <extent>
+              <charseq START="1500" END="1531">a bad go-go dancer in California</charseq>
+          </extent>
+          <head>
+              <charseq START="1512" END="1517">dancer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E15-M1207">
+          <extent>
+              <charseq START="1647" END="1658">go-go dancer</charseq>
+          </extent>
+          <head>
+              <charseq START="1653" END="1658">dancer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ruth Clark Stillman">
+              <charseq START="617" END="635">Ruth Clark Stillman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E16-M407">
+          <extent>
+              <charseq START="661" END="665">Busby</charseq>
+          </extent>
+          <head>
+              <charseq START="661" END="665">Busby</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Busby">
+              <charseq START="661" END="665">Busby</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E17-M408" ROLE="GPE">
+          <extent>
+              <charseq START="667" END="674">Berkeley</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="674">Berkeley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berkeley">
+              <charseq START="667" END="674">Berkeley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E18-M511">
+          <extent>
+              <charseq START="776" END="799">Our Children (1953-1955)</charseq>
+          </extent>
+          <head>
+              <charseq START="780" END="787">Children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E20-M603">
+          <extent>
+              <charseq START="828" END="842">Eleanor Powell,</charseq>
+          </extent>
+          <head>
+              <charseq START="828" END="841">Eleanor Powell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E20-M3702">
+          <extent>
+              <charseq START="4929" END="4974">a board member of the Johnny Mercer Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="4937" END="4942">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eleanor Powell">
+              <charseq START="828" END="841">Eleanor Powell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E21-M804" ROLE="LOC">
+          <extent>
+              <charseq START="1028" END="1070">Northwestern University, Evanston, Illinois</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1070">Illinois</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Illinois">
+              <charseq START="1063" END="1070">Illinois</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E22-M806">
+          <extent>
+              <charseq START="1028" END="1050">Northwestern University</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1050">Northwestern University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northwestern University">
+              <charseq START="1028" END="1050">Northwestern University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E23-M807" ROLE="LOC">
+          <extent>
+              <charseq START="1053" END="1060">Evanston</charseq>
+          </extent>
+          <head>
+              <charseq START="1053" END="1060">Evanston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Evanston">
+              <charseq START="1053" END="1060">Evanston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E24-M803">
+          <extent>
+              <charseq START="1015" END="1021">theater</charseq>
+          </extent>
+          <head>
+              <charseq START="1015" END="1021">theater</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E25-M912" ROLE="LOC">
+          <extent>
+              <charseq START="1175" END="1185">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1185">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="1175" END="1185">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M914" ROLE="LOC">
+          <extent>
+              <charseq START="1204" END="1216">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1204" END="1216">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M915" ROLE="LOC">
+          <extent>
+              <charseq START="1219" END="1226">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1226">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M1202" ROLE="LOC">
+          <extent>
+              <charseq START="1599" END="1611">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1599" END="1611">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M2915" ROLE="LOC">
+          <extent>
+              <charseq START="4247" END="4259">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="4247" END="4259">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M4703">
+          <extent>
+              <charseq START="6353" END="6360">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="6353" END="6360">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E26-M6205">
+          <extent>
+              <charseq START="7638" END="7650">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="7638" END="7650">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York City">
+              <charseq START="1204" END="1216">New York City</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="1219" END="1226">New York</charseq>
+          </name>
+          <name NAME="New York City">
+              <charseq START="1599" END="1611">New York City</charseq>
+          </name>
+          <name NAME="New York City">
+              <charseq START="4247" END="4259">New York City</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="6353" END="6360">New York</charseq>
+          </name>
+          <name NAME="New York City">
+              <charseq START="7638" END="7650">New York City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E27-M1006">
+          <extent>
+              <charseq START="1299" END="1318">Douglas Dean Goodman</charseq>
+          </extent>
+          <head>
+              <charseq START="1299" END="1318">Douglas Dean Goodman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E27-M1102">
+          <extent>
+              <charseq START="1454" END="1531">a former prostitute from Arkansas who becomes a bad go-go dancer in California</charseq>
+          </extent>
+          <head>
+              <charseq START="1463" END="1472">prostitute</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E27-M1105">
+          <extent>
+              <charseq START="1488" END="1490">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1490">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Douglas Dean Goodman">
+              <charseq START="1299" END="1318">Douglas Dean Goodman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E28-M1016" ROLE="LOC">
+          <extent>
+              <charseq START="1417" END="1429">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1417" END="1429">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="1417" END="1429">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E29-M1005">
+          <extent>
+              <charseq START="1299" END="1341">Douglas Dean Goodman&apos;s play Special Friends</charseq>
+          </extent>
+          <head>
+              <charseq START="1335" END="1341">Friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E30-M1013">
+          <extent>
+              <charseq START="1381" END="1429">a gay playwright to be performed in San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1387" END="1396">playwright</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E31-M1015">
+          <extent>
+              <charseq START="1383" END="1385">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="1383" END="1385">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E31-M3111">
+          <extent>
+              <charseq START="4438" END="4440">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="4438" END="4440">gay</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E32" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E32-M1104" ROLE="LOC">
+          <extent>
+              <charseq START="1479" END="1486">Arkansas</charseq>
+          </extent>
+          <head>
+              <charseq START="1479" END="1486">Arkansas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arkansas">
+              <charseq START="1479" END="1486">Arkansas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E33-M1206">
+          <extent>
+              <charseq START="1631" END="1641">a bartender</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1641">bartender</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E34-M1504">
+          <extent>
+              <charseq START="1890" END="1903">Magnum Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="1890" END="1903">Magnum Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E34-M1614">
+          <extent>
+              <charseq START="2127" END="2141">Magnum Studios)</charseq>
+          </extent>
+          <head>
+              <charseq START="2127" END="2140">Magnum Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Magnum Studios">
+              <charseq START="1890" END="1903">Magnum Studios</charseq>
+          </name>
+          <name NAME="Magnum Studios">
+              <charseq START="2127" END="2140">Magnum Studios</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E35-M1506">
+          <extent>
+              <charseq START="1906" END="1941">the pioneering gay adult film studio</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1941">studio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E35-M1513">
+          <extent>
+              <charseq START="1973" END="1978">studio</charseq>
+          </extent>
+          <head>
+              <charseq START="1973" END="1978">studio</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E36-M1510">
+          <extent>
+              <charseq START="1947" END="1964">magazine publisher</charseq>
+          </extent>
+          <head>
+              <charseq START="1956" END="1964">publisher</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E37-M1512">
+          <extent>
+              <charseq START="1973" END="1984">studio heads</charseq>
+          </extent>
+          <head>
+              <charseq START="1980" END="1984">heads</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E38-M1516">
+          <extent>
+              <charseq START="2003" END="2017">Special Friends</charseq>
+          </extent>
+          <head>
+              <charseq START="2011" END="2017">Friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E39-M1612">
+          <extent>
+              <charseq START="2111" END="2124">a Gay Stranger</charseq>
+          </extent>
+          <head>
+              <charseq START="2113" END="2124">Gay Stranger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gay Stranger">
+              <charseq START="2113" END="2124">Gay Stranger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E40-M1811">
+          <extent>
+              <charseq START="2441" END="2451">individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="2441" END="2451">individuals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E40-M1817">
+          <extent>
+              <charseq START="2500" END="2502">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2500" END="2502">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E41-M1842">
+          <extent>
+              <charseq START="2697" END="2739">other people who like the same things as me</charseq>
+          </extent>
+          <head>
+              <charseq START="2703" END="2708">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E41-M1844">
+          <extent>
+              <charseq START="2710" END="2712">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2710" END="2712">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E42-M1907">
+          <extent>
+              <charseq START="2842" END="2846">naked</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2846">naked</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E43-M2105">
+          <extent>
+              <charseq START="3065" END="3088">Kansas City Trucking Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="3065" END="3088">Kansas City Trucking Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E43-M6704">
+          <extent>
+              <charseq START="8087" END="8110">Kansas City Trucking Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="8087" END="8110">Kansas City Trucking Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kansas City Trucking Co.">
+              <charseq START="3065" END="3088">Kansas City Trucking Co.</charseq>
+          </name>
+          <name NAME="Kansas City Trucking Co.">
+              <charseq START="8087" END="8110">Kansas City Trucking Co.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E44-M2112">
+          <extent>
+              <charseq START="3130" END="3139">The Adonis</charseq>
+          </extent>
+          <head>
+              <charseq START="3134" END="3139">Adonis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E44-M6719">
+          <extent>
+              <charseq START="8186" END="8191">Adonis</charseq>
+          </extent>
+          <head>
+              <charseq START="8186" END="8191">Adonis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adonis">
+              <charseq START="3134" END="3139">Adonis</charseq>
+          </name>
+          <name NAME="Adonis">
+              <charseq START="8186" END="8191">Adonis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E45-M2208" ROLE="GPE">
+          <extent>
+              <charseq START="3222" END="3226">China</charseq>
+          </extent>
+          <head>
+              <charseq START="3222" END="3226">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="3222" END="3226">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E46-M2207">
+          <extent>
+              <charseq START="3222" END="3234">China Sisters</charseq>
+          </extent>
+          <head>
+              <charseq START="3228" END="3234">Sisters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E47-M2213">
+          <extent>
+              <charseq START="3292" END="3306">a woman on film</charseq>
+          </extent>
+          <head>
+              <charseq START="3294" END="3298">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E47-M5600">
+          <extent>
+              <charseq START="6921" END="6927">a woman</charseq>
+          </extent>
+          <head>
+              <charseq START="6923" END="6927">woman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E48-M2310">
+          <extent>
+              <charseq START="3401" END="3404">Jill</charseq>
+          </extent>
+          <head>
+              <charseq START="3401" END="3404">Jill</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E48-M6714">
+          <extent>
+              <charseq START="8159" END="8162">Jill</charseq>
+          </extent>
+          <head>
+              <charseq START="8159" END="8162">Jill</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jill">
+              <charseq START="3401" END="3404">Jill</charseq>
+          </name>
+          <name NAME="Jill">
+              <charseq START="8159" END="8162">Jill</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E49-M2311">
+          <extent>
+              <charseq START="3407" END="3415">Roommates</charseq>
+          </extent>
+          <head>
+              <charseq START="3407" END="3415">Roommates</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roommates">
+              <charseq START="3407" END="3415">Roommates</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E50" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E50-M2312" ROLE="LOC">
+          <extent>
+              <charseq START="3422" END="3446">The Devil in Miss Jones 2</charseq>
+          </extent>
+          <head>
+              <charseq START="3426" END="3430">Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E50-M6722" ROLE="LOC">
+          <extent>
+              <charseq START="8217" END="8530">The Devil in Miss Jones 2 (1982)
+In Love (1983)
+See also
+List of male performers in gay porn films
+References
+External links
+Backstage interview with Rick X in 1989 during his performance in Soul Survivor
+Interview with Margaret Whiting and Jack Wrangler Interview as part of the Johnny Mercer Oral History Project</charseq>
+          </extent>
+          <head>
+              <charseq START="8221" END="8225">Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Devil">
+              <charseq START="3426" END="3430">Devil</charseq>
+          </name>
+          <name NAME="Devil">
+              <charseq START="8221" END="8225">Devil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E51-M2316">
+          <extent>
+              <charseq START="3435" END="3444">Miss Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="3435" END="3444">Miss Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E51-M6727">
+          <extent>
+              <charseq START="8230" END="8239">Miss Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="8230" END="8239">Miss Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miss Jones">
+              <charseq START="3435" END="3444">Miss Jones</charseq>
+          </name>
+          <name NAME="Miss Jones">
+              <charseq START="8230" END="8239">Miss Jones</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E52-M2405">
+          <extent>
+              <charseq START="3470" END="3491">director Chuck Vincent</charseq>
+          </extent>
+          <head>
+              <charseq START="3479" END="3491">Chuck Vincent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E52-M2406">
+          <extent>
+              <charseq START="3470" END="3477">director</charseq>
+          </extent>
+          <head>
+              <charseq START="3470" END="3477">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E52-M2409">
+          <extent>
+              <charseq START="3520" END="3601">openly gay director of some of the top straight-adult films of the 1970s and 1980s</charseq>
+          </extent>
+          <head>
+              <charseq START="3531" END="3538">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E52-M2501">
+          <extent>
+              <charseq START="3604" END="3612">Vincent&apos;s</charseq>
+          </extent>
+          <head>
+              <charseq START="3604" END="3612">Vincent&apos;s</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chuck Vincent">
+              <charseq START="3479" END="3491">Chuck Vincent</charseq>
+          </name>
+          <name NAME="Vincent&apos;s">
+              <charseq START="3604" END="3612">Vincent&apos;s</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E53-M2706">
+          <extent>
+              <charseq START="3957" END="3979">playwright Doric Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="3968" END="3979">Doric Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E53-M2707">
+          <extent>
+              <charseq START="3957" END="3966">playwright</charseq>
+          </extent>
+          <head>
+              <charseq START="3957" END="3966">playwright</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E53-M2901">
+          <extent>
+              <charseq START="4130" END="4163">He co-starred alongside playwright</charseq>
+          </extent>
+          <head>
+              <charseq START="4154" END="4163">playwright</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Doric Wilson">
+              <charseq START="3968" END="3979">Doric Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E54-M2804">
+          <extent>
+              <charseq START="4063" END="4093">the first iconic gay-porn stars</charseq>
+          </extent>
+          <head>
+              <charseq START="4089" END="4093">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E56-M2905">
+          <extent>
+              <charseq START="4175" END="4211">Robert Patrick in Patrick&apos;s 1979 play</charseq>
+          </extent>
+          <head>
+              <charseq START="4175" END="4188">Robert Patrick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E56-M2908">
+          <extent>
+              <charseq START="4193" END="4199">Patrick</charseq>
+          </extent>
+          <head>
+              <charseq START="4193" END="4199">Patrick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E56-M2904">
+          <extent>
+              <charseq START="4169" END="4173">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="4169" END="4173">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Patrick">
+              <charseq START="4175" END="4188">Robert Patrick</charseq>
+          </name>
+          <name NAME="Patrick">
+              <charseq START="4193" END="4199">Patrick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E57" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E57-M2914">
+          <extent>
+              <charseq START="4229" END="4234">Glines</charseq>
+          </extent>
+          <head>
+              <charseq START="4229" END="4234">Glines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E57-M2913">
+          <extent>
+              <charseq START="4225" END="4242">The Glines theater</charseq>
+          </extent>
+          <head>
+              <charseq START="4236" END="4242">theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glines">
+              <charseq START="4229" END="4234">Glines</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E58-M3007">
+          <extent>
+              <charseq START="4323" END="4337">Jimmy Valentine</charseq>
+          </extent>
+          <head>
+              <charseq START="4323" END="4337">Jimmy Valentine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E58-M3006">
+          <extent>
+              <charseq START="4318" END="4320">You</charseq>
+          </extent>
+          <head>
+              <charseq START="4318" END="4320">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jimmy Valentine">
+              <charseq START="4323" END="4337">Jimmy Valentine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M3009">
+          <extent>
+              <charseq START="4355" END="4361">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="4355" END="4361">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M3400">
+          <extent>
+              <charseq START="4654" END="4660">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="4654" END="4660">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M3605">
+          <extent>
+              <charseq START="4889" END="4895">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="4889" END="4895">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M3806">
+          <extent>
+              <charseq START="5088" END="5094">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="5088" END="5094">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M3909">
+          <extent>
+              <charseq START="5387" END="5393">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="5387" END="5393">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M4403">
+          <extent>
+              <charseq START="6079" END="6109">cabaret singer Margaret Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="6094" END="6109">Margaret Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E59-M4404">
+          <extent>
+              <charseq START="6087" END="6092">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="6087" END="6092">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M4510">
+          <extent>
+              <charseq START="6211" END="6262">Margaret, who was surrounded by five guys in a booth</charseq>
+          </extent>
+          <head>
+              <charseq START="6211" END="6218">Margaret</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E59-M4512">
+          <extent>
+              <charseq START="6221" END="6223">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6221" END="6223">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E59-M4601">
+          <extent>
+              <charseq START="6271" END="6273">she</charseq>
+          </extent>
+          <head>
+              <charseq START="6271" END="6273">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E59-M4902">
+          <extent>
+              <charseq START="6395" END="6397">her</charseq>
+          </extent>
+          <head>
+              <charseq START="6395" END="6397">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M5706">
+          <extent>
+              <charseq START="7125" END="7131">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="7125" END="7131">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M5806">
+          <extent>
+              <charseq START="7263" END="7269">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="7263" END="7269">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M6203">
+          <extent>
+              <charseq START="7593" END="7599">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="7593" END="7599">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M6206">
+          <extent>
+              <charseq START="7657" END="7663">Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="7657" END="7663">Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E59-M6209">
+          <extent>
+              <charseq START="7701" END="7703">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7701" END="7703">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E59-M6308">
+          <extent>
+              <charseq START="7757" END="7759">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7757" END="7759">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E59-M6750">
+          <extent>
+              <charseq START="8437" END="8452">Margaret Whiting</charseq>
+          </extent>
+          <head>
+              <charseq START="8437" END="8452">Margaret Whiting</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whiting">
+              <charseq START="4355" END="4361">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="4654" END="4660">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="4889" END="4895">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="5088" END="5094">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="5387" END="5393">Whiting</charseq>
+          </name>
+          <name NAME="Margaret Whiting">
+              <charseq START="6094" END="6109">Margaret Whiting</charseq>
+          </name>
+          <name NAME="Margaret">
+              <charseq START="6211" END="6218">Margaret</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="7125" END="7131">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="7263" END="7269">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="7593" END="7599">Whiting</charseq>
+          </name>
+          <name NAME="Whiting">
+              <charseq START="7657" END="7663">Whiting</charseq>
+          </name>
+          <name NAME="Margaret Whiting">
+              <charseq START="8437" END="8452">Margaret Whiting</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E60-M3106">
+          <extent>
+              <charseq START="4406" END="4418">Soul Survivor</charseq>
+          </extent>
+          <head>
+              <charseq START="4406" END="4418">Soul Survivor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Soul Survivor">
+              <charseq START="4406" END="4418">Soul Survivor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E61-M3306">
+          <extent>
+              <charseq START="4578" END="4600">The Jack Wrangler Story</charseq>
+          </extent>
+          <head>
+              <charseq START="4582" END="4600">Jack Wrangler Story</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E61-M6708">
+          <extent>
+              <charseq START="8136" END="8153">Gemini (1979)
+Jack</charseq>
+          </extent>
+          <head>
+              <charseq START="8150" END="8153">Jack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E61-M6751">
+          <extent>
+              <charseq START="8458" END="8480">Jack Wrangler Interview</charseq>
+          </extent>
+          <head>
+              <charseq START="8458" END="8480">Jack Wrangler Interview</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jack Wrangler Story">
+              <charseq START="4582" END="4600">Jack Wrangler Story</charseq>
+          </name>
+          <name NAME="Jack">
+              <charseq START="8150" END="8153">Jack</charseq>
+          </name>
+          <name NAME="Jack Wrangler Interview">
+              <charseq START="8458" END="8480">Jack Wrangler Interview</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E63" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E63-M3517">
+          <extent>
+              <charseq START="4833" END="4852">Caballero Home Video</charseq>
+          </extent>
+          <head>
+              <charseq START="4833" END="4852">Caballero Home Video</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Caballero Home Video">
+              <charseq START="4833" END="4852">Caballero Home Video</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M3705">
+          <extent>
+              <charseq START="4947" END="4974">the Johnny Mercer Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="4951" END="4974">Johnny Mercer Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M3712">
+          <extent>
+              <charseq START="5026" END="5031">Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5026" END="5031">Mercer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E64-M3709">
+          <extent>
+              <charseq START="4982" END="4984">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4982" END="4984">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M3810">
+          <extent>
+              <charseq START="5111" END="5116">Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5111" END="5116">Mercer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M3824">
+          <extent>
+              <charseq START="5232" END="5241">the Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5236" END="5241">Mercer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M3911">
+          <extent>
+              <charseq START="5414" END="5419">Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5414" END="5419">Mercer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M4006">
+          <extent>
+              <charseq START="5477" END="5482">Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5477" END="5482">Mercer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M6754">
+          <extent>
+              <charseq START="8493" END="8530">the Johnny Mercer Oral History Project</charseq>
+          </extent>
+          <head>
+              <charseq START="8504" END="8530">Mercer Oral History Project</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E64-M6755">
+          <extent>
+              <charseq START="8497" END="8502">Johnny</charseq>
+          </extent>
+          <head>
+              <charseq START="8497" END="8502">Johnny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E64-M6900">
+          <extent>
+              <charseq START="8564" END="8587">Johnny Mercer Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="8564" END="8587">Johnny Mercer Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johnny Mercer Foundation">
+              <charseq START="4951" END="4974">Johnny Mercer Foundation</charseq>
+          </name>
+          <name NAME="Mercer">
+              <charseq START="5026" END="5031">Mercer</charseq>
+          </name>
+          <name NAME="Mercer">
+              <charseq START="5111" END="5116">Mercer</charseq>
+          </name>
+          <name NAME="Mercer">
+              <charseq START="5236" END="5241">Mercer</charseq>
+          </name>
+          <name NAME="Mercer">
+              <charseq START="5414" END="5419">Mercer</charseq>
+          </name>
+          <name NAME="Mercer">
+              <charseq START="5477" END="5482">Mercer</charseq>
+          </name>
+          <name NAME="Mercer Oral History Project">
+              <charseq START="8504" END="8530">Mercer Oral History Project</charseq>
+          </name>
+          <name NAME="Johnny Mercer Foundation">
+              <charseq START="8564" END="8587">Johnny Mercer Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E65-M3704">
+          <extent>
+              <charseq START="4931" END="4935">board</charseq>
+          </extent>
+          <head>
+              <charseq START="4931" END="4935">board</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E66" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E66-M3816">
+          <extent>
+              <charseq START="5177" END="5241">Garden of Good and Evil: The Jazz Concert (inspired by the Mercer</charseq>
+          </extent>
+          <head>
+              <charseq START="5177" END="5182">Garden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E66-M3830">
+          <extent>
+              <charseq START="5279" END="5306">the Garden of Good and Evil)</charseq>
+          </extent>
+          <head>
+              <charseq START="5283" END="5288">Garden</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E67-M3903">
+          <extent>
+              <charseq START="5342" END="5425">the 1997 Broadway revue Dream, which starred Whiting and contained many Mercer songs</charseq>
+          </extent>
+          <head>
+              <charseq START="5366" END="5370">Dream</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E67-M3908">
+          <extent>
+              <charseq START="5373" END="5377">which</charseq>
+          </extent>
+          <head>
+              <charseq START="5373" END="5377">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dream">
+              <charseq START="5366" END="5370">Dream</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E68" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E68-M3906">
+          <extent>
+              <charseq START="5351" END="5358">Broadway</charseq>
+          </extent>
+          <head>
+              <charseq START="5351" END="5358">Broadway</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Broadway">
+              <charseq START="5351" END="5358">Broadway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E69-M4005">
+          <extent>
+              <charseq START="5477" END="5513">Mercer&apos;s 1946 musical St. Louis Woman</charseq>
+          </extent>
+          <head>
+              <charseq START="5499" END="5513">St. Louis Woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Louis Woman">
+              <charseq START="5499" END="5513">St. Louis Woman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E70" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E70-M4010">
+          <extent>
+              <charseq START="5539" END="5565">the Dance Theater of Harlem</charseq>
+          </extent>
+          <head>
+              <charseq START="5543" END="5565">Dance Theater of Harlem</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dance Theater of Harlem">
+              <charseq START="5543" END="5565">Dance Theater of Harlem</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E71-M4103">
+          <extent>
+              <charseq START="5608" END="5637">the cabaret singer Carol Woods</charseq>
+          </extent>
+          <head>
+              <charseq START="5627" END="5637">Carol Woods</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E71-M4104">
+          <extent>
+              <charseq START="5620" END="5625">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="5620" END="5625">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E71-M4107">
+          <extent>
+              <charseq START="5680" END="5682">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5680" END="5682">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carol Woods">
+              <charseq START="5627" END="5637">Carol Woods</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E72-M4209">
+          <extent>
+              <charseq START="5806" END="5824">The Valentine Touch</charseq>
+          </extent>
+          <head>
+              <charseq START="5810" END="5824">Valentine Touch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Valentine Touch">
+              <charseq START="5810" END="5824">Valentine Touch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E73" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E73-M4215">
+          <extent>
+              <charseq START="5863" END="5871">Our Times</charseq>
+          </extent>
+          <head>
+              <charseq START="5863" END="5871">Our Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Our Times">
+              <charseq START="5863" END="5871">Our Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E74-M4216">
+          <extent>
+              <charseq START="5878" END="5890">Irina Abroad!</charseq>
+          </extent>
+          <head>
+              <charseq START="5878" END="5890">Irina Abroad!</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Irina Abroad!">
+              <charseq START="5878" END="5890">Irina Abroad!</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E75-M4211">
+          <extent>
+              <charseq START="5827" END="5840">The First Lady</charseq>
+          </extent>
+          <head>
+              <charseq START="5837" END="5840">Lady</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E76-M4312">
+          <extent>
+              <charseq START="6021" END="6032">Au Contraire</charseq>
+          </extent>
+          <head>
+              <charseq START="6021" END="6032">Au Contraire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E76-M4311">
+          <extent>
+              <charseq START="5998" END="6019">gay-lifestyle magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="6012" END="6019">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Au Contraire">
+              <charseq START="6021" END="6032">Au Contraire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E77" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E77-M4502">
+          <extent>
+              <charseq START="6124" END="6134">a nightclub</charseq>
+          </extent>
+          <head>
+              <charseq START="6126" END="6134">nightclub</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E78" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E78-M4513">
+          <extent>
+              <charseq START="6243" END="6262">five guys in a booth</charseq>
+          </extent>
+          <head>
+              <charseq START="6248" END="6251">guys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E78-M4500">
+          <extent>
+              <charseq START="6112" END="6115">They</charseq>
+          </extent>
+          <head>
+              <charseq START="6112" END="6115">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E79" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E79-M4515">
+          <extent>
+              <charseq START="6256" END="6262">a booth</charseq>
+          </extent>
+          <head>
+              <charseq START="6258" END="6262">booth</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E80-M5100">
+          <extent>
+              <charseq START="6440" END="6449">The couple</charseq>
+          </extent>
+          <head>
+              <charseq START="6444" END="6449">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E80-M5900">
+          <extent>
+              <charseq START="7313" END="7322">The couple</charseq>
+          </extent>
+          <head>
+              <charseq START="7317" END="7322">couple</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E81" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E81-M5803">
+          <extent>
+              <charseq START="7226" END="7244">a packed restaurant</charseq>
+          </extent>
+          <head>
+              <charseq START="7235" END="7244">restaurant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E82" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E82-M5807">
+          <extent>
+              <charseq START="7295" END="7310">the edges, dear&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="7306" END="7309">dear</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E83" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E83-M6013" ROLE="LOC">
+          <extent>
+              <charseq START="7485" END="7503">Bel Air, California</charseq>
+          </extent>
+          <head>
+              <charseq START="7485" END="7491">Bel Air</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bel Air">
+              <charseq START="7485" END="7491">Bel Air</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E84-M6007">
+          <extent>
+              <charseq START="7438" END="7503">six burglars at his step-grandmother&apos;s home in Bel Air, California</charseq>
+          </extent>
+          <head>
+              <charseq START="7442" END="7449">burglars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E85" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E85-M6009">
+          <extent>
+              <charseq START="7454" END="7503">his step-grandmother&apos;s home in Bel Air, California</charseq>
+          </extent>
+          <head>
+              <charseq START="7477" END="7480">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E86" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E86-M6100">
+          <extent>
+              <charseq START="7506" END="7516">The thieves</charseq>
+          </extent>
+          <head>
+              <charseq START="7510" END="7516">thieves</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E87-M6502">
+          <extent>
+              <charseq START="7954" END="7988">Jeffrey Schwarz of Automat Pictures</charseq>
+          </extent>
+          <head>
+              <charseq START="7954" END="7968">Jeffrey Schwarz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jeffrey Schwarz">
+              <charseq START="7954" END="7968">Jeffrey Schwarz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E88" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E88-M6504">
+          <extent>
+              <charseq START="7973" END="7988">Automat Pictures</charseq>
+          </extent>
+          <head>
+              <charseq START="7973" END="7988">Automat Pictures</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Automat Pictures">
+              <charseq START="7973" END="7988">Automat Pictures</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E89" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E89-M6701">
+          <extent>
+              <charseq START="8075" END="8153">Filmography
+Kansas City Trucking Co. (1976)
+Hot House (1988)
+Gemini (1979)
+Jack</charseq>
+          </extent>
+          <head>
+              <charseq START="8119" END="8127">Hot House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hot House">
+              <charseq START="8119" END="8127">Hot House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E90-M6741">
+          <extent>
+              <charseq START="8367" END="8372">Rick X</charseq>
+          </extent>
+          <head>
+              <charseq START="8367" END="8372">Rick X</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rick X">
+              <charseq START="8367" END="8372">Rick X</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E91" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E91-M6717">
+          <extent>
+              <charseq START="8182" END="8215">The Adonis (1980)
+Roommates (1981)</charseq>
+          </extent>
+          <head>
+              <charseq START="8200" END="8208">Roommates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E92" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Jack_Wrangler.sentences.sgm-E92-M6734">
+          <extent>
+              <charseq START="8282" END="8314">male performers in gay porn films</charseq>
+          </extent>
+          <head>
+              <charseq START="8287" END="8296">performers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E93" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Jack_Wrangler.sentences.sgm-E93-M6752">
+          <extent>
+              <charseq START="8485" END="8530">part of the Johnny Mercer Oral History Project</charseq>
+          </extent>
+          <head>
+              <charseq START="8485" END="8488">part</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Jack_Wrangler.sentences.sgm-E94" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Jack_Wrangler.sentences.sgm-E94-M6800">
+          <extent>
+              <charseq START="8533" END="8562">Georgia State University 1995.</charseq>
+          </extent>
+          <head>
+              <charseq START="8533" END="8556">Georgia State University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia State University">
+              <charseq START="8533" END="8556">Georgia State University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T0" VAL="1946-07-11">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="45" END="57">July 11, 1946</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T1" VAL="2009-04-07">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="61" END="73">April 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T2" VAL="PXY" MOD="START">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="312" END="322">Early years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="644" END="649">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T4" VAL="P10Y">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="965" END="976">10 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T5" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1456" END="1461">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T6" VAL="1970">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1664" END="1667">1970</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1771" END="1774">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T8" VAL="1970">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2072" END="2075">1970</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T9" VAL="1978">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="3145" END="3148">1978</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T10" VAL="198">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3583" END="3601">the 1970s and 1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T11" VAL="1984">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3983" END="3986">1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T12" VAL="1979">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4203" END="4206">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T13" VAL="1985">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="4265" END="4268">1985</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T14" VAL="198" MOD="MID">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4367" END="4379">the mid-1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T15" VAL="1984">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="4644" END="4647">1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T16" VAL="1986">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4729" END="4732">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T17" VAL="1982">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="4998" END="5001">1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T18" VAL="1985">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="5066" END="5069">1985</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T19" VAL="1996">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="5134" END="5137">1996</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T20" VAL="P1Y">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="5309" END="5320">A year later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T21" VAL="1997">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="5346" END="5349">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T22" VAL="1946">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="5486" END="5489">1946</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T23" VAL="2003">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="5570" END="5573">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T24" VAL="1984">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="5692" END="5695">1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T25" VAL="2001">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="5701" END="5704">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T26" VAL="1979">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="6037" END="6040">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T27" VAL="1976">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="6060" END="6063">1976</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T28" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="6342" END="6344">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T29" VAL="PXW">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="6421" END="6437">a few weeks later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T30" VAL="PXY" MOD="START">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="7055" END="7069">the early years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T31" VAL="1994">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="7335" END="7338">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T32" VAL="1980">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="7344" END="7347">1980</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T33" VAL="1998">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="7574" END="7577">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Jack_Wrangler.sentences.sgm-V34" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Jack_Wrangler.sentences.sgm-V34-M1">
+            <extent>
+              <charseq START="7609" END="7620">US$3 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Jack_Wrangler.sentences.sgm-V35" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Jack_Wrangler.sentences.sgm-V35-M1">
+            <extent>
+              <charseq START="7729" END="7740">US$2 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Jack_Wrangler.sentences.sgm-V36" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Jack_Wrangler.sentences.sgm-V36-M1">
+            <extent>
+              <charseq START="7774" END="7785">US$1 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T37" VAL="2008">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="7822" END="7825">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T38" VAL="2009-04-07">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T38-M1">
+            <extent>
+              <charseq START="8008" END="8020">April 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T39" VAL="1976">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T39-M1">
+            <extent>
+              <charseq START="8113" END="8116">1976</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T40" VAL="1988">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T40-M1">
+            <extent>
+              <charseq START="8130" END="8133">1988</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T41" VAL="1979">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T41-M1">
+            <extent>
+              <charseq START="8144" END="8147">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T42" VAL="1979">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T42-M1">
+            <extent>
+              <charseq START="8165" END="8168">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T43" VAL="1980">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T43-M1">
+            <extent>
+              <charseq START="8194" END="8197">1980</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T44" VAL="1981">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T44-M1">
+            <extent>
+              <charseq START="8211" END="8214">1981</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T45" VAL="1982">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T45-M1">
+            <extent>
+              <charseq START="8244" END="8247">1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T46" VAL="1983">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T46-M1">
+            <extent>
+              <charseq START="8259" END="8262">1983</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T47" VAL="1989">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T47-M1">
+            <extent>
+              <charseq START="8377" END="8380">1989</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Jack_Wrangler.sentences.sgm-T48" VAL="1995">
+        <timex2_mention ID="Jack_Wrangler.sentences.sgm-T48-M1">
+            <extent>
+              <charseq START="8558" END="8561">1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="81" END="104">an American actor of gay</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E2-M8" ROLE="Arg-1">
+            <extent>
+              <charseq START="81" END="104">an American actor of gay</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E1-M10" ROLE="Arg-2">
+            <extent>
+              <charseq START="84" END="91">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="262" END="299">an icon of the gay-liberation movement</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E4-M109" ROLE="Arg-1">
+            <extent>
+              <charseq START="262" END="299">an icon of the gay-liberation movement</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E5-M111" ROLE="Arg-2">
+            <extent>
+              <charseq START="273" END="299">the gay-liberation movement</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R1-M2600">
+          <extent>
+              <charseq START="3820" END="3857">an icon of the gay-liberation movement</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E4-M2603" ROLE="Arg-1">
+            <extent>
+              <charseq START="3820" END="3857">an icon of the gay-liberation movement</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E5-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="3831" END="3857">the gay-liberation movement</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R2-M200">
+          <extent>
+              <charseq START="302" END="331">Biography
+Early years
+Wrangler</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E9-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="302" END="331">Biography
+Early years
+Wrangler</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E7-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="366" END="390">Beverly Hills, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R3-M201">
+          <extent>
+              <charseq START="366" END="390">Beverly Hills, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E7-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="366" END="390">Beverly Hills, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E8-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="381" END="390">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R4-M300">
+          <extent>
+              <charseq START="393" END="395">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E9-M301" ROLE="Arg-1">
+            <extent>
+              <charseq START="393" END="395">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E6-M300" ROLE="Arg-2">
+            <extent>
+              <charseq START="393" END="402">His father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R5-M400">
+          <extent>
+              <charseq START="605" END="607">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E6-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="605" END="607">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E15-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="605" END="614">His mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E23" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R6-M800">
+          <extent>
+              <charseq START="1028" END="1070">Northwestern University, Evanston, Illinois</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E21-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="1028" END="1070">Northwestern University, Evanston, Illinois</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E23-M807" ROLE="Arg-2">
+            <extent>
+              <charseq START="1053" END="1060">Evanston</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R7-M900">
+          <extent>
+              <charseq START="1175" END="1185">Los Angeles</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E25-M912" ROLE="Arg-1">
+            <extent>
+              <charseq START="1175" END="1185">Los Angeles</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E8-M913" ROLE="Arg-2">
+            <extent>
+              <charseq START="1188" END="1197">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R8-M1000">
+          <extent>
+              <charseq START="1299" END="1318">Douglas Dean Goodman</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E27-M1006" ROLE="Arg-1">
+            <extent>
+              <charseq START="1299" END="1318">Douglas Dean Goodman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E29-M1005" ROLE="Arg-2">
+            <extent>
+              <charseq START="1299" END="1341">Douglas Dean Goodman&apos;s play Special Friends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R9-M1100">
+          <extent>
+              <charseq START="1454" END="1531">a former prostitute from Arkansas who becomes a bad go-go dancer in California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E27-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1454" END="1531">a former prostitute from Arkansas who becomes a bad go-go dancer in California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E32-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1479" END="1486">Arkansas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R10" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R10-M1101">
+          <extent>
+              <charseq START="1500" END="1531">a bad go-go dancer in California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E15-M1106" ROLE="Arg-1">
+            <extent>
+              <charseq START="1500" END="1531">a bad go-go dancer in California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E8-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1522" END="1531">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R11-M1500">
+          <extent>
+              <charseq START="1973" END="1984">studio heads</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E37-M1512" ROLE="Arg-1">
+            <extent>
+              <charseq START="1973" END="1984">studio heads</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E35-M1513" ROLE="Arg-2">
+            <extent>
+              <charseq START="1973" END="1978">studio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R12" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R12-M2200">
+          <extent>
+              <charseq START="3222" END="3234">China Sisters</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E46-M2207" ROLE="Arg-1">
+            <extent>
+              <charseq START="3222" END="3234">China Sisters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E45-M2208" ROLE="Arg-2">
+            <extent>
+              <charseq START="3222" END="3226">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E57" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R13-M2900">
+          <extent>
+              <charseq START="4225" END="4242">The Glines theater</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E57-M2913" ROLE="Arg-1">
+            <extent>
+              <charseq START="4225" END="4242">The Glines theater</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E26-M2915" ROLE="Arg-2">
+            <extent>
+              <charseq START="4247" END="4259">New York City</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E64" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R14-M3700">
+          <extent>
+              <charseq START="4929" END="4974">a board member of the Johnny Mercer Foundation</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E20-M3702" ROLE="Arg-1">
+            <extent>
+              <charseq START="4929" END="4974">a board member of the Johnny Mercer Foundation</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E64-M3705" ROLE="Arg-2">
+            <extent>
+              <charseq START="4947" END="4974">the Johnny Mercer Foundation</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R15" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E64" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R15-M4000">
+          <extent>
+              <charseq START="5477" END="5513">Mercer&apos;s 1946 musical St. Louis Woman</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E69-M4005" ROLE="Arg-1">
+            <extent>
+              <charseq START="5477" END="5513">Mercer&apos;s 1946 musical St. Louis Woman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E64-M4006" ROLE="Arg-2">
+            <extent>
+              <charseq START="5477" END="5482">Mercer</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R16" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E78" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E77" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R16-M4500">
+          <extent>
+              <charseq START="6112" END="6115">They</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E78-M4500" ROLE="Arg-1">
+            <extent>
+              <charseq START="6112" END="6115">They</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E77-M4502" ROLE="Arg-2">
+            <extent>
+              <charseq START="6124" END="6134">a nightclub</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R18" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E78" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R18-M4502">
+          <extent>
+              <charseq START="6221" END="6223">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M4512" ROLE="Arg-1">
+            <extent>
+              <charseq START="6221" END="6223">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E78-M4513" ROLE="Arg-2">
+            <extent>
+              <charseq START="6243" END="6262">five guys in a booth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R19" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E78" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E79" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R19-M4503">
+          <extent>
+              <charseq START="6243" END="6262">five guys in a booth</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E78-M4513" ROLE="Arg-1">
+            <extent>
+              <charseq START="6243" END="6262">five guys in a booth</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E79-M4515" ROLE="Arg-2">
+            <extent>
+              <charseq START="6256" END="6262">a booth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R20" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E81" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R20-M5800">
+          <extent>
+              <charseq START="7206" END="7213">Wrangler</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M5802" ROLE="Arg-1">
+            <extent>
+              <charseq START="7206" END="7213">Wrangler</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E81-M5803" ROLE="Arg-2">
+            <extent>
+              <charseq START="7226" END="7244">a packed restaurant</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R21" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E84" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E85" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R21-M6001">
+          <extent>
+              <charseq START="7438" END="7503">six burglars at his step-grandmother&apos;s home in Bel Air, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E84-M6007" ROLE="Arg-1">
+            <extent>
+              <charseq START="7438" END="7503">six burglars at his step-grandmother&apos;s home in Bel Air, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E85-M6009" ROLE="Arg-2">
+            <extent>
+              <charseq START="7454" END="7503">his step-grandmother&apos;s home in Bel Air, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R22" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E83" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R22-M6002">
+          <extent>
+              <charseq START="7454" END="7503">his step-grandmother&apos;s home in Bel Air, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E85-M6009" ROLE="Arg-1">
+            <extent>
+              <charseq START="7454" END="7503">his step-grandmother&apos;s home in Bel Air, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E83-M6013" ROLE="Arg-2">
+            <extent>
+              <charseq START="7485" END="7503">Bel Air, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R23" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E83" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R23-M6003">
+          <extent>
+              <charseq START="7485" END="7503">Bel Air, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E83-M6013" ROLE="Arg-1">
+            <extent>
+              <charseq START="7485" END="7503">Bel Air, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E8-M6015" ROLE="Arg-2">
+            <extent>
+              <charseq START="7494" END="7503">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R24" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E87" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E88" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R24-M6500">
+          <extent>
+              <charseq START="7954" END="7988">Jeffrey Schwarz of Automat Pictures</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E87-M6502" ROLE="Arg-1">
+            <extent>
+              <charseq START="7954" END="7988">Jeffrey Schwarz of Automat Pictures</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E88-M6504" ROLE="Arg-2">
+            <extent>
+              <charseq START="7973" END="7988">Automat Pictures</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Jack_Wrangler.sentences.sgm-R25" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E93" ROLE="Arg-1"/>
+      <relation_argument REFID="Jack_Wrangler.sentences.sgm-E64" ROLE="Arg-2"/>
+        <relation_mention ID="Jack_Wrangler.sentences.sgm-R25-M6700">
+          <extent>
+              <charseq START="8485" END="8530">part of the Johnny Mercer Oral History Project</charseq>
+          </extent>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E93-M6752" ROLE="Arg-1">
+            <extent>
+              <charseq START="8485" END="8530">part of the Johnny Mercer Oral History Project</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Jack_Wrangler.sentences.sgm-E64-M6754" ROLE="Arg-2">
+            <extent>
+              <charseq START="8493" END="8530">the Johnny Mercer Oral History Project</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E9" ROLE="Person"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E7" ROLE="Place"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV0-M201">
+          <extent>
+              <charseq START="337" END="340">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="337" END="340">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E9-M200" ROLE="Person">
+          <extent>
+              <charseq START="302" END="331">Biography
+Early years
+Wrangler</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E7-M205" ROLE="Place">
+          <extent>
+              <charseq START="366" END="390">Beverly Hills, California</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E6" ROLE="Artifact"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E26" ROLE="Destination"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV1-M1200">
+          <extent>
+              <charseq START="1588" END="1594">settled</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1588" END="1594">settled</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E6-M1200" ROLE="Artifact">
+          <extent>
+              <charseq START="1577" END="1578">He</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E26-M1202" ROLE="Destination">
+          <extent>
+              <charseq START="1599" END="1611">New York City</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E6" ROLE="Victim"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV2-M3101">
+          <extent>
+              <charseq START="4462" END="4465">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4462" END="4465">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E6-M3109" ROLE="Victim">
+          <extent>
+              <charseq START="4436" END="4473">a gay man whose lover has died of AIDS</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E64" ROLE="Entity"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV3-M3700">
+          <extent>
+              <charseq START="4922" END="4927">became</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4922" END="4927">became</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M3700" ROLE="Person">
+          <extent>
+              <charseq START="4919" END="4920">He</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E64-M3705" ROLE="Entity">
+          <extent>
+              <charseq START="4947" END="4974">the Johnny Mercer Foundation</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV4" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Entity"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Entity"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-T27" ROLE="Time-Within"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV4-M4401">
+          <extent>
+              <charseq START="6075" END="6077">met</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6075" END="6077">met</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M4403" ROLE="Entity">
+          <extent>
+              <charseq START="6079" END="6109">cabaret singer Margaret Whiting</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M4402" ROLE="Entity">
+          <extent>
+              <charseq START="6066" END="6073">Wrangler</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-T27-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="6060" END="6063">1976</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E78" ROLE="Entity"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E77" ROLE="Place"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV5-M4501">
+          <extent>
+              <charseq START="6117" END="6119">met</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6117" END="6119">met</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E78-M4500" ROLE="Entity">
+          <extent>
+              <charseq START="6112" END="6115">They</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E77-M4502" ROLE="Place">
+          <extent>
+              <charseq START="6124" END="6134">a nightclub</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV6" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Entity"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV6-M4901">
+          <extent>
+              <charseq START="6390" END="6393">meet</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6390" END="6393">meet</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M4902" ROLE="Entity">
+          <extent>
+              <charseq START="6395" END="6397">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E80" ROLE="Person"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-T31" ROLE="Time-Within"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV7-M5901">
+          <extent>
+              <charseq START="7324" END="7330">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7324" END="7330">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E80-M5900" ROLE="Person">
+          <extent>
+              <charseq START="7313" END="7322">The couple</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-T31-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="7335" END="7338">1994</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Target"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV8-M6000">
+          <extent>
+              <charseq START="7397" END="7404">attacked</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7397" END="7404">attacked</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M6005" ROLE="Target">
+          <extent>
+              <charseq START="7380" END="7390">his manager</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV9" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Plaintiff"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Plaintiff"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-T33" ROLE="Time-Within"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E26" ROLE="Defendant"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV9-M6200">
+          <extent>
+              <charseq START="7601" END="7605">filed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7601" END="7605">filed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M6202" ROLE="Plaintiff">
+          <extent>
+              <charseq START="7580" END="7587">Wrangler</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M6203" ROLE="Plaintiff">
+          <extent>
+              <charseq START="7593" END="7599">Whiting</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-T33-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="7574" END="7577">1998</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV9-M6202">
+          <extent>
+              <charseq START="7622" END="7628">lawsuit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7622" END="7628">lawsuit</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E26-M6205" ROLE="Defendant">
+          <extent>
+              <charseq START="7638" END="7650">New York City</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M6202" ROLE="Plaintiff">
+          <extent>
+              <charseq START="7580" END="7587">Wrangler</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M6203" ROLE="Plaintiff">
+          <extent>
+              <charseq START="7593" END="7599">Whiting</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV10" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Victim"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV10-M6201">
+          <extent>
+              <charseq START="7695" END="7699">broke</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7695" END="7699">broke</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M6209" ROLE="Victim">
+          <extent>
+              <charseq START="7701" END="7703">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV11" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV11-M6301">
+          <extent>
+              <charseq START="7716" END="7719">suit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7716" END="7719">suit</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV12" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E59" ROLE="Victim"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV12-M6302">
+          <extent>
+              <charseq START="7761" END="7768">injuries</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7761" END="7768">injuries</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E59-M6308" ROLE="Victim">
+          <extent>
+              <charseq START="7757" END="7759">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Jack_Wrangler.sentences.sgm-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-E0" ROLE="Victim"/>
+      <event_argument REFID="Jack_Wrangler.sentences.sgm-T38" ROLE="Time-Within"/>
+      <event_mention ID="Jack_Wrangler.sentences.sgm-EV13-M6601">
+          <extent>
+              <charseq START="8000" END="8003">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8000" END="8003">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-E0-M6600" ROLE="Victim">
+          <extent>
+              <charseq START="7991" END="7998">Wrangler</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Jack_Wrangler.sentences.sgm-T38-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="8008" END="8020">April 7, 2009</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

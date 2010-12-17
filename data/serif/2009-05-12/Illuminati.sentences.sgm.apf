@@ -1,0 +1,2362 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Illuminati.sentences.sgm">
+  <document DOCID="Illuminati.sentences.sgm">
+
+    <entity ID="Illuminati.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="27" END="36">Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="36">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M301">
+          <extent>
+              <charseq START="621" END="630">Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="630">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M402">
+          <extent>
+              <charseq START="721" END="734">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="734">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E0-M404">
+          <extent>
+              <charseq START="740" END="830">the masterminds behind events that will lead to the establishment of such a New World Order</charseq>
+          </extent>
+          <head>
+              <charseq START="744" END="754">masterminds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E0-M408">
+          <extent>
+              <charseq START="770" END="773">that</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="773">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M508">
+          <extent>
+              <charseq START="949" END="958">Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="949" END="958">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E0-M510">
+          <extent>
+              <charseq START="964" END="968">their</charseq>
+          </extent>
+          <head>
+              <charseq START="964" END="968">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M806">
+          <extent>
+              <charseq START="1474" END="1487">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="1478" END="1487">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M822">
+          <extent>
+              <charseq START="1644" END="1685">the Illuminati on the Revolution of France</charseq>
+          </extent>
+          <head>
+              <charseq START="1648" END="1657">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M1002">
+          <extent>
+              <charseq START="1826" END="1845">the Illuminati Order</charseq>
+          </extent>
+          <head>
+              <charseq START="1830" END="1845">Illuminati Order</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M1210">
+          <extent>
+              <charseq START="2114" END="2127">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="2118" END="2127">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M1401">
+          <extent>
+              <charseq START="2477" END="2490">The Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="2481" END="2490">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E0-M1503">
+          <extent>
+              <charseq START="2623" END="2625">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2623" END="2625">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M1810">
+          <extent>
+              <charseq START="3163" END="3185">the Bavarian Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="3176" END="3185">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M1909">
+          <extent>
+              <charseq START="3340" END="3353">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="3344" END="3353">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2004">
+          <extent>
+              <charseq START="3427" END="3440">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="3431" END="3440">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2109">
+          <extent>
+              <charseq START="3648" END="3667">the name &quot;Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="3658" END="3667">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2202">
+          <extent>
+              <charseq START="3713" END="3741">the Illuminates of Thanateros</charseq>
+          </extent>
+          <head>
+              <charseq START="3717" END="3741">Illuminates of Thanateros</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2301">
+          <extent>
+              <charseq START="4130" END="4143">The Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="4134" END="4143">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E0-M2400">
+          <extent>
+              <charseq START="4184" END="4187">They</charseq>
+          </extent>
+          <head>
+              <charseq START="4184" END="4187">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2510">
+          <extent>
+              <charseq START="4472" END="4485">the Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="4476" END="4485">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M2708">
+          <extent>
+              <charseq START="4698" END="4707">Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="4698" END="4707">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M3528">
+          <extent>
+              <charseq START="5272" END="5281">Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="5272" END="5281">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E0-M3529">
+          <extent>
+              <charseq START="5294" END="5336">the historical Illuminati of Adam Weishaupt</charseq>
+          </extent>
+          <head>
+              <charseq START="5309" END="5318">Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E0-M3535">
+          <extent>
+              <charseq START="5342" END="5346">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5342" END="5346">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Illuminati">
+              <charseq START="27" END="36">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="621" END="630">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="725" END="734">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="949" END="958">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="1478" END="1487">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="1648" END="1657">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati Order">
+              <charseq START="1830" END="1845">Illuminati Order</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="2118" END="2127">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="2481" END="2490">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="3176" END="3185">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="3344" END="3353">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="3431" END="3440">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="3658" END="3667">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminates of Thanateros">
+              <charseq START="3717" END="3741">Illuminates of Thanateros</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="4134" END="4143">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="4476" END="4485">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="4698" END="4707">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="5272" END="5281">Illuminati</charseq>
+          </name>
+          <name NAME="Illuminati">
+              <charseq START="5309" END="5318">Illuminati</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="49" END="66">Latin illuminatus,</charseq>
+          </extent>
+          <head>
+              <charseq START="49" END="65">Latin illuminatus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Latin illuminatus">
+              <charseq START="49" END="65">Latin illuminatus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E2-M8">
+          <extent>
+              <charseq START="108" END="179">several groups, both historical and modern, and both real and fictitious</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="121">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E3-M103">
+          <extent>
+              <charseq START="222" END="244">the Bavarian Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="244">Bavarian Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M105">
+          <extent>
+              <charseq START="247" END="304">an Enlightenment-era secret society founded on May 1, 1776</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="281">society</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E3-M219">
+          <extent>
+              <charseq START="579" END="601">the Bavarian Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="601">Bavarian Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M203">
+          <extent>
+              <charseq START="351" END="413">a purported conspiratorial organization which acts as a shadowy</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="389">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E3-M201">
+          <extent>
+              <charseq START="323" END="324">it</charseq>
+          </extent>
+          <head>
+              <charseq START="323" END="324">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E3-M205">
+          <extent>
+              <charseq START="391" END="395">which</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="395">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M901">
+          <extent>
+              <charseq START="1688" END="1696">The group</charseq>
+          </extent>
+          <head>
+              <charseq START="1692" END="1696">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E3-M904">
+          <extent>
+              <charseq START="1753" END="1756">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1753" END="1756">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E3-M1004">
+          <extent>
+              <charseq START="1851" END="1873">the Bavarian Illuminati</charseq>
+          </extent>
+          <head>
+              <charseq START="1855" END="1873">Bavarian Illuminati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M1000">
+          <extent>
+              <charseq START="1795" END="1803">The group</charseq>
+          </extent>
+          <head>
+              <charseq START="1799" END="1803">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M1325">
+          <extent>
+              <charseq START="2423" END="2431">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2431">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M2105">
+          <extent>
+              <charseq START="3546" END="3564">secret organization</charseq>
+          </extent>
+          <head>
+              <charseq START="3553" END="3564">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M2213">
+          <extent>
+              <charseq START="3843" END="3860">their organization</charseq>
+          </extent>
+          <head>
+              <charseq START="3849" END="3860">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E3-M2234">
+          <extent>
+              <charseq START="4091" END="4108">their organization</charseq>
+          </extent>
+          <head>
+              <charseq START="4097" END="4108">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E3-M2214">
+          <extent>
+              <charseq START="3843" END="3847">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3843" END="3847">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E3-M2235">
+          <extent>
+              <charseq START="4091" END="4095">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4091" END="4095">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bavarian Illuminati">
+              <charseq START="226" END="244">Bavarian Illuminati</charseq>
+          </name>
+          <name NAME="Bavarian Illuminati">
+              <charseq START="583" END="601">Bavarian Illuminati</charseq>
+          </name>
+          <name NAME="Bavarian Illuminati">
+              <charseq START="1855" END="1873">Bavarian Illuminati</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E4-M213" ROLE="LOC">
+          <extent>
+              <charseq START="486" END="508">present day governments</charseq>
+          </extent>
+          <head>
+              <charseq START="498" END="508">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E4-M714" ROLE="ORG">
+          <extent>
+              <charseq START="1361" END="1375">the governments</charseq>
+          </extent>
+          <head>
+              <charseq START="1365" END="1375">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E4-M1206" ROLE="ORG">
+          <extent>
+              <charseq START="2060" END="2073">his government</charseq>
+          </extent>
+          <head>
+              <charseq START="2064" END="2073">government</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E5-M215">
+          <extent>
+              <charseq START="514" END="525">corporations</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="525">corporations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E6-M400">
+          <extent>
+              <charseq START="687" END="711">Many conspiracy theorists</charseq>
+          </extent>
+          <head>
+              <charseq START="703" END="711">theorists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E6-M2000">
+          <extent>
+              <charseq START="3356" END="3364">Theorists</charseq>
+          </extent>
+          <head>
+              <charseq START="3356" END="3364">Theorists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E6-M2002">
+          <extent>
+              <charseq START="3416" END="3512">members of the Illuminati, including Winston Churchill, David Rockefeller and Zbigniew Brzezinski</charseq>
+          </extent>
+          <head>
+              <charseq START="3416" END="3422">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E7-M503">
+          <extent>
+              <charseq START="893" END="974">several modern fraternal groups which include the word &quot;Illuminati&quot; in their names</charseq>
+          </extent>
+          <head>
+              <charseq START="918" END="923">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E7-M505">
+          <extent>
+              <charseq START="925" END="929">which</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="929">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E8-M602" ROLE="LOC">
+          <extent>
+              <charseq START="1030" END="1056">Ingolstadt (Upper Bavaria),</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1039">Ingolstadt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ingolstadt">
+              <charseq START="1030" END="1039">Ingolstadt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E9-M604">
+          <extent>
+              <charseq START="1042" END="1054">Upper Bavaria</charseq>
+          </extent>
+          <head>
+              <charseq START="1042" END="1054">Upper Bavaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E9-M1104">
+          <extent>
+              <charseq START="1993" END="1999">Bavaria</charseq>
+          </extent>
+          <head>
+              <charseq START="1993" END="1999">Bavaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Upper Bavaria">
+              <charseq START="1042" END="1054">Upper Bavaria</charseq>
+          </name>
+          <name NAME="Bavaria">
+              <charseq START="1993" END="1999">Bavaria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E10-M605">
+          <extent>
+              <charseq START="1061" END="1176">Jesuit-taught Adam Weishaupt (d. 1830), who was the first lay professor of canon law at the University of Ingolstadt</charseq>
+          </extent>
+          <head>
+              <charseq START="1075" END="1088">Adam Weishaupt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E10-M614">
+          <extent>
+              <charseq START="1123" END="1176">professor of canon law at the University of Ingolstadt</charseq>
+          </extent>
+          <head>
+              <charseq START="1123" END="1131">professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E10-M611">
+          <extent>
+              <charseq START="1101" END="1103">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1101" END="1103">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E10-M3532">
+          <extent>
+              <charseq START="5323" END="5336">Adam Weishaupt</charseq>
+          </extent>
+          <head>
+              <charseq START="5323" END="5336">Adam Weishaupt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam Weishaupt">
+              <charseq START="1075" END="1088">Adam Weishaupt</charseq>
+          </name>
+          <name NAME="Adam Weishaupt">
+              <charseq START="5323" END="5336">Adam Weishaupt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E11-M607">
+          <extent>
+              <charseq START="1061" END="1066">Jesuit</charseq>
+          </extent>
+          <head>
+              <charseq START="1061" END="1066">Jesuit</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jesuit">
+              <charseq START="1061" END="1066">Jesuit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E12-M618">
+          <extent>
+              <charseq START="1149" END="1176">the University of Ingolstadt</charseq>
+          </extent>
+          <head>
+              <charseq START="1153" END="1176">University of Ingolstadt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Ingolstadt">
+              <charseq START="1153" END="1176">University of Ingolstadt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E13-M705">
+          <extent>
+              <charseq START="1239" END="1399">the Enlightenment, which some contemporary writers like Seth Payson believed was a conspiracy to infiltrate and overthrow the governments of many European states</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1255">Enlightenment</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E13-M703">
+          <extent>
+              <charseq START="1224" END="1399">an offshoot of the Enlightenment, which some contemporary writers like Seth Payson believed was a conspiracy to infiltrate and overthrow the governments of many European states</charseq>
+          </extent>
+          <head>
+              <charseq START="1227" END="1234">offshoot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E13-M708">
+          <extent>
+              <charseq START="1258" END="1262">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1258" END="1262">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E13-M1204">
+          <extent>
+              <charseq START="2024" END="2044">Enlightened Despotism</charseq>
+          </extent>
+          <head>
+              <charseq START="2024" END="2044">Enlightened Despotism</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Enlightenment">
+              <charseq START="1243" END="1255">Enlightenment</charseq>
+          </name>
+          <name NAME="Enlightened Despotism">
+              <charseq START="2024" END="2044">Enlightened Despotism</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E14-M711">
+          <extent>
+              <charseq START="1295" END="1305">Seth Payson</charseq>
+          </extent>
+          <head>
+              <charseq START="1295" END="1305">Seth Payson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Seth Payson">
+              <charseq START="1295" END="1305">Seth Payson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E15-M716" ROLE="GPE">
+          <extent>
+              <charseq START="1385" END="1392">European</charseq>
+          </extent>
+          <head>
+              <charseq START="1385" END="1392">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E15-M1507" ROLE="GPE">
+          <extent>
+              <charseq START="2661" END="2668">European</charseq>
+          </extent>
+          <head>
+              <charseq START="2661" END="2668">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E15-M1506" ROLE="GPE">
+          <extent>
+              <charseq START="2657" END="2678">the European continent</charseq>
+          </extent>
+          <head>
+              <charseq START="2670" END="2678">continent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="1385" END="1392">European</charseq>
+          </name>
+          <name NAME="European">
+              <charseq START="2661" END="2668">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E16-M701">
+          <extent>
+              <charseq START="1207" END="1399">freethinkers, as an offshoot of the Enlightenment, which some contemporary writers like Seth Payson believed was a conspiracy to infiltrate and overthrow the governments of many European states</charseq>
+          </extent>
+          <head>
+              <charseq START="1207" END="1218">freethinkers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E17-M709">
+          <extent>
+              <charseq START="1264" END="1305">some contemporary writers like Seth Payson</charseq>
+          </extent>
+          <head>
+              <charseq START="1282" END="1288">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E18-M715" ROLE="GPE">
+          <extent>
+              <charseq START="1380" END="1399">many European states</charseq>
+          </extent>
+          <head>
+              <charseq START="1394" END="1399">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E19-M804">
+          <extent>
+              <charseq START="1421" END="1436">Augustin Barruel</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1436">Augustin Barruel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Augustin Barruel">
+              <charseq START="1421" END="1436">Augustin Barruel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E20-M805">
+          <extent>
+              <charseq START="1442" END="1453">John Robison</charseq>
+          </extent>
+          <head>
+              <charseq START="1442" END="1453">John Robison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E20-M3509">
+          <extent>
+              <charseq START="5101" END="5119">John Robison (1797)</charseq>
+          </extent>
+          <head>
+              <charseq START="5101" END="5112">John Robison</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Robison">
+              <charseq START="1442" END="1453">John Robison</charseq>
+          </name>
+          <name NAME="John Robison">
+              <charseq START="5101" END="5112">John Robison</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E21-M810" ROLE="GPE">
+          <extent>
+              <charseq START="1505" END="1510">French</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1510">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E21-M827" ROLE="GPE">
+          <extent>
+              <charseq START="1680" END="1685">France</charseq>
+          </extent>
+          <head>
+              <charseq START="1680" END="1685">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="1505" END="1510">French</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="1680" END="1685">France</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E22-M812">
+          <extent>
+              <charseq START="1537" END="1555">Jean-Joseph Mounier</charseq>
+          </extent>
+          <head>
+              <charseq START="1537" END="1555">Jean-Joseph Mounier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E22-M815">
+          <extent>
+              <charseq START="1570" END="1572">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1570" END="1572">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean-Joseph Mounier">
+              <charseq START="1537" END="1555">Jean-Joseph Mounier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E23-M800">
+          <extent>
+              <charseq START="1402" END="1454">Some writers, like Augustin Barruel and John Robison,</charseq>
+          </extent>
+          <head>
+              <charseq START="1407" END="1413">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E24-M819">
+          <extent>
+              <charseq START="1610" END="1621">Philosophers</charseq>
+          </extent>
+          <head>
+              <charseq START="1610" END="1621">Philosophers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E24-M900">
+          <extent>
+              <charseq START="1688" END="1708">The group&apos;s adherents</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1708">adherents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E25-M1010">
+          <extent>
+              <charseq START="1924" END="1952">Illuminism (after illuminism)</charseq>
+          </extent>
+          <head>
+              <charseq START="1924" END="1933">Illuminism</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Illuminism">
+              <charseq START="1924" END="1933">Illuminism</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E26-M1101">
+          <extent>
+              <charseq START="1964" END="1975">Karl Theodor</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1975">Karl Theodor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E26-M1102">
+          <extent>
+              <charseq START="1984" END="1999">ruler of Bavaria</charseq>
+          </extent>
+          <head>
+              <charseq START="1984" END="1988">ruler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E26-M1200">
+          <extent>
+              <charseq START="2002" END="2003">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2002" END="2003">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E26-M1207">
+          <extent>
+              <charseq START="2060" END="2062">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2062">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Karl Theodor">
+              <charseq START="1964" END="1975">Karl Theodor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E27-M1202">
+          <extent>
+              <charseq START="2009" END="2044">a proponent of Enlightened Despotism</charseq>
+          </extent>
+          <head>
+              <charseq START="2011" END="2019">proponent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E28-M1311">
+          <extent>
+              <charseq START="2288" END="2309">Ferdinand of Brunswick</charseq>
+          </extent>
+          <head>
+              <charseq START="2288" END="2296">Ferdinand</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ferdinand">
+              <charseq START="2288" END="2296">Ferdinand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E29-M1313">
+          <extent>
+              <charseq START="2301" END="2309">Brunswick</charseq>
+          </extent>
+          <head>
+              <charseq START="2301" END="2309">Brunswick</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brunswick">
+              <charseq START="2301" END="2309">Brunswick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E30-M1315">
+          <extent>
+              <charseq START="2328" END="2474">Xavier von Zwack, who was also the number two man in the operation and was caught with much of the group&apos;s documentation when his home was searched</charseq>
+          </extent>
+          <head>
+              <charseq START="2328" END="2343">Xavier von Zwack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E30-M1318">
+          <extent>
+              <charseq START="2359" END="2393">the number two man in the operation</charseq>
+          </extent>
+          <head>
+              <charseq START="2374" END="2376">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E30-M1314">
+          <extent>
+              <charseq START="2315" END="2326">the diplomat</charseq>
+          </extent>
+          <head>
+              <charseq START="2319" END="2326">diplomat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E30-M1317">
+          <extent>
+              <charseq START="2346" END="2348">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2346" END="2348">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E30-M1328">
+          <extent>
+              <charseq START="2454" END="2456">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2454" END="2456">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xavier von Zwack">
+              <charseq START="2328" END="2343">Xavier von Zwack</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E31-M1305">
+          <extent>
+              <charseq START="2188" END="2217">many influential intellectuals</charseq>
+          </extent>
+          <head>
+              <charseq START="2205" END="2217">intellectuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E32-M1306">
+          <extent>
+              <charseq START="2223" END="2245">progressive politicians</charseq>
+          </extent>
+          <head>
+              <charseq START="2235" END="2245">politicians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E33-M1309">
+          <extent>
+              <charseq START="2269" END="2309">members, including Ferdinand of Brunswick</charseq>
+          </extent>
+          <head>
+              <charseq START="2269" END="2275">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E33-M1400">
+          <extent>
+              <charseq START="2477" END="2500">The Illuminati&apos;s members</charseq>
+          </extent>
+          <head>
+              <charseq START="2494" END="2500">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E33-M1405">
+          <extent>
+              <charseq START="2523" END="2537">their superiors</charseq>
+          </extent>
+          <head>
+              <charseq START="2529" END="2537">superiors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E33-M1406">
+          <extent>
+              <charseq START="2523" END="2527">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2523" END="2527">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E34-M1326">
+          <extent>
+              <charseq START="2454" END="2465">his home was</charseq>
+          </extent>
+          <head>
+              <charseq START="2458" END="2461">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E35-M1501">
+          <extent>
+              <charseq START="2623" END="2678">its branches in most countries of the European continent</charseq>
+          </extent>
+          <head>
+              <charseq START="2627" END="2634">branches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E36-M1504" ROLE="LOC">
+          <extent>
+              <charseq START="2639" END="2678">most countries of the European continent</charseq>
+          </extent>
+          <head>
+              <charseq START="2644" END="2652">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E37-M1510">
+          <extent>
+              <charseq START="2699" END="2744">around 2,000 members over the span of 10 years</charseq>
+          </extent>
+          <head>
+              <charseq START="2712" END="2718">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E38-M1607">
+          <extent>
+              <charseq START="2803" END="2828">Johann Wolfgang von Goethe</charseq>
+          </extent>
+          <head>
+              <charseq START="2803" END="2828">Johann Wolfgang von Goethe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johann Wolfgang von Goethe">
+              <charseq START="2803" END="2828">Johann Wolfgang von Goethe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E39-M1608">
+          <extent>
+              <charseq START="2834" END="2856">Johann Gottfried Herder</charseq>
+          </extent>
+          <head>
+              <charseq START="2834" END="2856">Johann Gottfried Herder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E39-M1605">
+          <extent>
+              <charseq START="2803" END="2857">Johann Wolfgang von Goethe and Johann Gottfried Herder,</charseq>
+          </extent>
+          <head>
+              <charseq START="2834" END="2856">Johann Gottfried Herder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johann Gottfried Herder">
+              <charseq START="2834" END="2856">Johann Gottfried Herder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E40-M1612">
+          <extent>
+              <charseq START="2894" END="2898">Gotha</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2898">Gotha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gotha">
+              <charseq START="2894" END="2898">Gotha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E41-M1613">
+          <extent>
+              <charseq START="2904" END="2909">Weimar</charseq>
+          </extent>
+          <head>
+              <charseq START="2904" END="2909">Weimar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Weimar">
+              <charseq START="2904" END="2909">Weimar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E42-M1604">
+          <extent>
+              <charseq START="2781" END="2792">literary men</charseq>
+          </extent>
+          <head>
+              <charseq START="2790" END="2792">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E43-M1713" ROLE="GPE">
+          <extent>
+              <charseq START="3030" END="3037">Bavarian</charseq>
+          </extent>
+          <head>
+              <charseq START="3030" END="3037">Bavarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E43-M1712" ROLE="ORG">
+          <extent>
+              <charseq START="3026" END="3048">the Bavarian government</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3048">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E43-M1811">
+          <extent>
+              <charseq START="3167" END="3174">Bavarian</charseq>
+          </extent>
+          <head>
+              <charseq START="3167" END="3174">Bavarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bavarian">
+              <charseq START="3030" END="3037">Bavarian</charseq>
+          </name>
+          <name NAME="Bavarian">
+              <charseq START="3167" END="3174">Bavarian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E44-M1806">
+          <extent>
+              <charseq START="3093" END="3102">David Icke</charseq>
+          </extent>
+          <head>
+              <charseq START="3093" END="3102">David Icke</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Icke">
+              <charseq START="3093" END="3102">David Icke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E45-M1807">
+          <extent>
+              <charseq START="3105" END="3114">Ryan Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="3105" END="3114">Ryan Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan Burke">
+              <charseq START="3105" END="3114">Ryan Burke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E46-M1808">
+          <extent>
+              <charseq START="3117" END="3125">Jüri Lina</charseq>
+          </extent>
+          <head>
+              <charseq START="3117" END="3125">Jüri Lina</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jüri Lina">
+              <charseq START="3117" END="3125">Jüri Lina</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E47-M1809">
+          <extent>
+              <charseq START="3131" END="3143">Morgan Gricar</charseq>
+          </extent>
+          <head>
+              <charseq START="3131" END="3143">Morgan Gricar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Morgan Gricar">
+              <charseq START="3131" END="3143">Morgan Gricar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E48-M1800">
+          <extent>
+              <charseq START="3059" END="3144">Modern Illuminati
+Writers such as David Icke, Ryan Burke, Jüri Lina and Morgan Gricar,</charseq>
+          </extent>
+          <head>
+              <charseq START="3077" END="3083">Writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E49-M2007">
+          <extent>
+              <charseq START="3453" END="3469">Winston Churchill</charseq>
+          </extent>
+          <head>
+              <charseq START="3453" END="3469">Winston Churchill</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Winston Churchill">
+              <charseq START="3453" END="3469">Winston Churchill</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E50-M2008">
+          <extent>
+              <charseq START="3472" END="3488">David Rockefeller</charseq>
+          </extent>
+          <head>
+              <charseq START="3472" END="3488">David Rockefeller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Rockefeller">
+              <charseq START="3472" END="3488">David Rockefeller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E51-M2009">
+          <extent>
+              <charseq START="3494" END="3512">Zbigniew Brzezinski</charseq>
+          </extent>
+          <head>
+              <charseq START="3494" END="3512">Zbigniew Brzezinski</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zbigniew Brzezinski">
+              <charseq START="3494" END="3512">Zbigniew Brzezinski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E52-M2001">
+          <extent>
+              <charseq START="3384" END="3402">many notable people</charseq>
+          </extent>
+          <head>
+              <charseq START="3397" END="3402">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E53-M2108">
+          <extent>
+              <charseq START="3599" END="3629">several modern fraternal groups</charseq>
+          </extent>
+          <head>
+              <charseq START="3624" END="3629">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E53-M2113">
+          <extent>
+              <charseq START="3682" END="3686">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3682" END="3686">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E54-M2218">
+          <extent>
+              <charseq START="3885" END="3914">the Ordo Templi Orientis (OTO)</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3908">Ordo Templi Orientis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E54-M2221">
+          <extent>
+              <charseq START="3911" END="3913">OTO</charseq>
+          </extent>
+          <head>
+              <charseq START="3911" END="3913">OTO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ordo Templi Orientis">
+              <charseq START="3889" END="3908">Ordo Templi Orientis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E55-M2222">
+          <extent>
+              <charseq START="3928" END="3941">Theodor Reuss,</charseq>
+          </extent>
+          <head>
+              <charseq START="3928" END="3940">Theodor Reuss</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Theodor Reuss">
+              <charseq START="3928" END="3940">Theodor Reuss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E56-M2224">
+          <extent>
+              <charseq START="3969" END="3984">Aleister Crowley</charseq>
+          </extent>
+          <head>
+              <charseq START="3969" END="3984">Aleister Crowley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aleister Crowley">
+              <charseq START="3969" END="3984">Aleister Crowley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E57" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E57-M2225">
+          <extent>
+              <charseq START="3992" END="4044">the Grand Lodge Rockefeller founded by David Goldman,</charseq>
+          </extent>
+          <head>
+              <charseq START="3996" END="4018">Grand Lodge Rockefeller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grand Lodge Rockefeller">
+              <charseq START="3996" END="4018">Grand Lodge Rockefeller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E58-M2228">
+          <extent>
+              <charseq START="4031" END="4043">David Goldman</charseq>
+          </extent>
+          <head>
+              <charseq START="4031" END="4043">David Goldman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Goldman">
+              <charseq START="4031" END="4043">David Goldman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E59" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E59-M2204">
+          <extent>
+              <charseq START="3747" END="3781">multiple groups that call themseves</charseq>
+          </extent>
+          <head>
+              <charseq START="3756" END="3761">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E59-M2206">
+          <extent>
+              <charseq START="3763" END="3766">that</charseq>
+          </extent>
+          <head>
+              <charseq START="3763" END="3766">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Illuminati.sentences.sgm-E60-M2215">
+          <extent>
+              <charseq START="3869" END="4044">others, such as the Ordo Templi Orientis (OTO) (founded by Theodor Reuss, and later restructured by Aleister Crowley), and the Grand Lodge Rockefeller founded by David Goldman,</charseq>
+          </extent>
+          <head>
+              <charseq START="3869" END="3874">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E61-M2501">
+          <extent>
+              <charseq START="4386" END="4403">the New York Times</charseq>
+          </extent>
+          <head>
+              <charseq START="4390" END="4403">New York Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Times">
+              <charseq START="4390" END="4403">New York Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E62-M2506">
+          <extent>
+              <charseq START="4428" END="4435">Da Vinci</charseq>
+          </extent>
+          <head>
+              <charseq START="4428" END="4435">Da Vinci</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E62-M2601">
+          <extent>
+              <charseq START="4504" END="4511">Da Vinci</charseq>
+          </extent>
+          <head>
+              <charseq START="4504" END="4511">Da Vinci</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Da Vinci">
+              <charseq START="4428" END="4435">Da Vinci</charseq>
+          </name>
+          <name NAME="Da Vinci">
+              <charseq START="4504" END="4511">Da Vinci</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E63" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E63-M2509">
+          <extent>
+              <charseq START="4457" END="4462">Demons</charseq>
+          </extent>
+          <head>
+              <charseq START="4457" END="4462">Demons</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Demons">
+              <charseq START="4457" END="4462">Demons</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E64-M2608">
+          <extent>
+              <charseq START="4591" END="4596">Demons</charseq>
+          </extent>
+          <head>
+              <charseq START="4591" END="4596">Demons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E65-M2707">
+          <extent>
+              <charseq START="4698" END="4748">Illuminati&quot;
+Die Korrespondenz des Illuminatenordens</charseq>
+          </extent>
+          <head>
+              <charseq START="4710" END="4748">Die Korrespondenz des Illuminatenordens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Die Korrespondenz des Illuminatenordens">
+              <charseq START="4710" END="4748">Die Korrespondenz des Illuminatenordens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E66-M3000">
+          <extent>
+              <charseq START="4767" END="4769">Ed.</charseq>
+          </extent>
+          <head>
+              <charseq START="4767" END="4768">Ed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ed">
+              <charseq START="4767" END="4768">Ed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E67-M3101">
+          <extent>
+              <charseq START="4774" END="4789">Reinhard Markner</charseq>
+          </extent>
+          <head>
+              <charseq START="4774" END="4789">Reinhard Markner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reinhard Markner">
+              <charseq START="4774" END="4789">Reinhard Markner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E68-M3102">
+          <extent>
+              <charseq START="4792" END="4813">Monika Neugebauer-Wölk</charseq>
+          </extent>
+          <head>
+              <charseq START="4792" END="4813">Monika Neugebauer-Wölk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Monika Neugebauer-Wölk">
+              <charseq START="4792" END="4813">Monika Neugebauer-Wölk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E69-M3103">
+          <extent>
+              <charseq START="4819" END="4835">Hermann Schüttler</charseq>
+          </extent>
+          <head>
+              <charseq START="4819" END="4835">Hermann Schüttler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hermann Schüttler">
+              <charseq START="4819" END="4835">Hermann Schüttler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E70" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E70-M3201" ROLE="LOC">
+          <extent>
+              <charseq START="4840" END="4847">Tübingen</charseq>
+          </extent>
+          <head>
+              <charseq START="4840" END="4847">Tübingen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tübingen">
+              <charseq START="4840" END="4847">Tübingen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E71-M3202">
+          <extent>
+              <charseq START="4850" END="4861">Max Niemeyer</charseq>
+          </extent>
+          <head>
+              <charseq START="4850" END="4861">Max Niemeyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Max Niemeyer">
+              <charseq START="4850" END="4861">Max Niemeyer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E72" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E72-M3306" ROLE="GPE">
+          <extent>
+              <charseq START="4943" END="4951">Modernity</charseq>
+          </extent>
+          <head>
+              <charseq START="4943" END="4951">Modernity</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Modernity">
+              <charseq START="4943" END="4951">Modernity</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E73" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E73-M3401" ROLE="LOC">
+          <extent>
+              <charseq START="4964" END="4969">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="4964" END="4969">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Israel">
+              <charseq START="4964" END="4969">Israel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E74-M3403">
+          <extent>
+              <charseq START="4972" END="4982">Jonathan I.</charseq>
+          </extent>
+          <head>
+              <charseq START="4972" END="4982">Jonathan I.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jonathan I.">
+              <charseq START="4972" END="4982">Jonathan I.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E75" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E75-M3404">
+          <extent>
+              <charseq START="4985" END="5007">Oxford University Press</charseq>
+          </extent>
+          <head>
+              <charseq START="4985" END="5007">Oxford University Press</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oxford University Press">
+              <charseq START="4985" END="5007">Oxford University Press</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E76" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E76-M3405">
+          <extent>
+              <charseq START="5010" END="5012">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="5010" END="5012">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="USA">
+              <charseq START="5010" END="5012">USA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E77" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E77-M3407">
+          <extent>
+              <charseq START="5015" END="5020">New Ed</charseq>
+          </extent>
+          <head>
+              <charseq START="5015" END="5020">New Ed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Ed">
+              <charseq START="5015" END="5020">New Ed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E78-M3525">
+          <extent>
+              <charseq START="5221" END="5234">Terry Melanson</charseq>
+          </extent>
+          <head>
+              <charseq START="5221" END="5234">Terry Melanson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Terry Melanson">
+              <charseq START="5221" END="5234">Terry Melanson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Illuminati.sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Illuminati.sentences.sgm-E79-M3538">
+          <extent>
+              <charseq START="5384" END="5407">Angels &amp; Demons (german)</charseq>
+          </extent>
+          <head>
+              <charseq START="5384" END="5398">Angels &amp; Demons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Illuminati.sentences.sgm-E79-M3540">
+          <extent>
+              <charseq START="5401" END="5406">german</charseq>
+          </extent>
+          <head>
+              <charseq START="5401" END="5406">german</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Angels &amp; Demons">
+              <charseq START="5384" END="5398">Angels &amp; Demons</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Illuminati.sentences.sgm-T0" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="144" END="149">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T1" VAL="1776-05-01">
+        <timex2_mention ID="Illuminati.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="294" END="304">May 1, 1776</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="310" END="315">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T3" VAL="P1D">
+        <timex2_mention ID="Illuminati.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="486" END="496">present day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="541" END="546">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T5" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="901" END="906">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T6" VAL="1776-05-01">
+        <timex2_mention ID="Illuminati.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1014" END="1024">May 1, 1776</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T7" VAL="1830">
+        <timex2_mention ID="Illuminati.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1094" END="1097">1830</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T8" VAL="1784">
+        <timex2_mention ID="Illuminati.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2054" END="2057">1784</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T9" VAL="P10Y">
+        <timex2_mention ID="Illuminati.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2737" END="2744">10 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T10" VAL="1785">
+        <timex2_mention ID="Illuminati.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3053" END="3056">1785</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T11">
+        <timex2_mention ID="Illuminati.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3209" END="3216">this day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T12" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3607" END="3612">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T13" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Illuminati.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="4560" END="4568">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T14" VAL="2009-05">
+        <timex2_mention ID="Illuminati.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4618" END="4625">May 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T15" VAL="1911">
+        <timex2_mention ID="Illuminati.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="4667" END="4670">1911</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T16" VAL="2005">
+        <timex2_mention ID="Illuminati.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4864" END="4867">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T17" VAL="2002">
+        <timex2_mention ID="Illuminati.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="5031" END="5034">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Illuminati.sentences.sgm-T18" VAL="1797">
+        <timex2_mention ID="Illuminati.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="5115" END="5118">1797</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Illuminati.sentences.sgm-V19" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Illuminati.sentences.sgm-V19-M1">
+            <extent>
+              <charseq START="5124" END="5139">sacred-texts.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Illuminati.sentences.sgm-T20" VAL="1917">
+        <timex2_mention ID="Illuminati.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="5236" END="5239">1917</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Illuminati.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R0-M600">
+          <extent>
+              <charseq START="1123" END="1176">professor of canon law at the University of Ingolstadt</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E10-M614" ROLE="Arg-1">
+            <extent>
+              <charseq START="1123" END="1176">professor of canon law at the University of Ingolstadt</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E12-M618" ROLE="Arg-2">
+            <extent>
+              <charseq START="1149" END="1176">the University of Ingolstadt</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R1-M701">
+          <extent>
+              <charseq START="1380" END="1399">many European states</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E18-M715" ROLE="Arg-1">
+            <extent>
+              <charseq START="1380" END="1399">many European states</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E15-M716" ROLE="Arg-2">
+            <extent>
+              <charseq START="1385" END="1392">European</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R2-M1100">
+          <extent>
+              <charseq START="1984" END="1999">ruler of Bavaria</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E26-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1984" END="1999">ruler of Bavaria</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E9-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1993" END="1999">Bavaria</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R3-M1200">
+          <extent>
+              <charseq START="2009" END="2044">a proponent of Enlightened Despotism</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E27-M1202" ROLE="Arg-1">
+            <extent>
+              <charseq START="2009" END="2044">a proponent of Enlightened Despotism</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E13-M1204" ROLE="Arg-2">
+            <extent>
+              <charseq START="2024" END="2044">Enlightened Despotism</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R4-M1201">
+          <extent>
+              <charseq START="2060" END="2062">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E26-M1207" ROLE="Arg-1">
+            <extent>
+              <charseq START="2060" END="2062">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E4-M1206" ROLE="Arg-2">
+            <extent>
+              <charseq START="2060" END="2073">his government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R5-M1300">
+          <extent>
+              <charseq START="2288" END="2309">Ferdinand of Brunswick</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E28-M1311" ROLE="Arg-1">
+            <extent>
+              <charseq START="2288" END="2309">Ferdinand of Brunswick</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E29-M1313" ROLE="Arg-2">
+            <extent>
+              <charseq START="2301" END="2309">Brunswick</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R6-M1301">
+          <extent>
+              <charseq START="2454" END="2456">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E30-M1328" ROLE="Arg-1">
+            <extent>
+              <charseq START="2454" END="2456">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E34-M1326" ROLE="Arg-2">
+            <extent>
+              <charseq START="2454" END="2465">his home was</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R7-M1400">
+          <extent>
+              <charseq START="2477" END="2500">The Illuminati&apos;s members</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E33-M1400" ROLE="Arg-1">
+            <extent>
+              <charseq START="2477" END="2500">The Illuminati&apos;s members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E0-M1401" ROLE="Arg-2">
+            <extent>
+              <charseq START="2477" END="2490">The Illuminati</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R8-M1500">
+          <extent>
+              <charseq START="2623" END="2678">its branches in most countries of the European continent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E35-M1501" ROLE="Arg-1">
+            <extent>
+              <charseq START="2623" END="2678">its branches in most countries of the European continent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E0-M1503" ROLE="Arg-2">
+            <extent>
+              <charseq START="2623" END="2625">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E36" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R9-M1501">
+          <extent>
+              <charseq START="2623" END="2678">its branches in most countries of the European continent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E35-M1501" ROLE="Arg-1">
+            <extent>
+              <charseq START="2623" END="2678">its branches in most countries of the European continent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E36-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="2639" END="2678">most countries of the European continent</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Illuminati.sentences.sgm-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Illuminati.sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Illuminati.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Illuminati.sentences.sgm-R10-M1502">
+          <extent>
+              <charseq START="2639" END="2678">most countries of the European continent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E36-M1504" ROLE="Arg-1">
+            <extent>
+              <charseq START="2639" END="2678">most countries of the European continent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Illuminati.sentences.sgm-E15-M1506" ROLE="Arg-2">
+            <extent>
+              <charseq START="2657" END="2678">the European continent</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Illuminati.sentences.sgm-EV0" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-E3" ROLE="Org"/>
+      <event_argument REFID="Illuminati.sentences.sgm-T1" ROLE="Time-Within"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV0-M101">
+          <extent>
+              <charseq START="283" END="289">founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="283" END="289">founded</charseq>
+          </anchor>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E3-M105" ROLE="Org">
+          <extent>
+              <charseq START="247" END="304">an Enlightenment-era secret society founded on May 1, 1776</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Illuminati.sentences.sgm-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="294" END="304">May 1, 1776</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Illuminati.sentences.sgm-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-E10" ROLE="Agent"/>
+      <event_argument REFID="Illuminati.sentences.sgm-E8" ROLE="Place"/>
+      <event_argument REFID="Illuminati.sentences.sgm-T6" ROLE="Time-Within"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV1-M600">
+          <extent>
+              <charseq START="1003" END="1009">founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1003" END="1009">founded</charseq>
+          </anchor>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E10-M605" ROLE="Agent">
+          <extent>
+              <charseq START="1061" END="1176">Jesuit-taught Adam Weishaupt (d. 1830), who was the first lay professor of canon law at the University of Ingolstadt</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E8-M602" ROLE="Place">
+          <extent>
+              <charseq START="1030" END="1056">Ingolstadt (Upper Bavaria),</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Illuminati.sentences.sgm-T6-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1014" END="1024">May 1, 1776</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Illuminati.sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-E10" ROLE="Person"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV2-M601">
+          <extent>
+              <charseq START="1119" END="1121">lay</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1119" END="1121">lay</charseq>
+          </anchor>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E10-M614" ROLE="Person">
+          <extent>
+              <charseq START="1123" END="1176">professor of canon law at the University of Ingolstadt</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Illuminati.sentences.sgm-EV3" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-E55" ROLE="Agent"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV3-M2200">
+          <extent>
+              <charseq START="3917" END="3923">founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3917" END="3923">founded</charseq>
+          </anchor>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E55-M2222" ROLE="Agent">
+          <extent>
+              <charseq START="3928" END="3941">Theodor Reuss,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Illuminati.sentences.sgm-EV4" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-E58" ROLE="Agent"/>
+      <event_argument REFID="Illuminati.sentences.sgm-E57" ROLE="Place"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV4-M2201">
+          <extent>
+              <charseq START="4020" END="4026">founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4020" END="4026">founded</charseq>
+          </anchor>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E58-M2228" ROLE="Agent">
+          <extent>
+              <charseq START="4031" END="4043">David Goldman</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Illuminati.sentences.sgm-E57-M2225" ROLE="Place">
+          <extent>
+              <charseq START="3992" END="4044">the Grand Lodge Rockefeller founded by David Goldman,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Illuminati.sentences.sgm-EV5" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Illuminati.sentences.sgm-T14" ROLE="Time-Within"/>
+      <event_mention ID="Illuminati.sentences.sgm-EV5-M2600">
+          <extent>
+              <charseq START="4606" END="4613">released</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4606" END="4613">released</charseq>
+          </anchor>
+          <event_mention_argument REFID="Illuminati.sentences.sgm-T14-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4618" END="4625">May 2009</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

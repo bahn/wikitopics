@@ -1,0 +1,1344 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Placenta.sentences.sgm">
+  <document DOCID="Placenta.sentences.sgm">
+
+    <entity ID="Placenta.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E0-M106" ROLE="GPE">
+          <extent>
+              <charseq START="148" END="152">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="152">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Placenta.sentences.sgm-E0-M111">
+          <extent>
+              <charseq START="221" END="223">its</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="223">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greek">
+              <charseq START="148" END="152">Greek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M112">
+          <extent>
+              <charseq START="239" END="244">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="244">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M300">
+          <extent>
+              <charseq START="613" END="618">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="613" END="618">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M1200">
+          <extent>
+              <charseq START="1020" END="1025">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="1020" END="1025">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M4300">
+          <extent>
+              <charseq START="4984" END="4989">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="4984" END="4989">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M5506">
+          <extent>
+              <charseq START="7431" END="7436">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="7431" END="7436">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M5516">
+          <extent>
+              <charseq START="7568" END="7581">the cord dries</charseq>
+          </extent>
+          <head>
+              <charseq START="7577" END="7581">dries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Placenta.sentences.sgm-E1-M5513">
+          <extent>
+              <charseq START="7499" END="7503">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7499" END="7503">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6110">
+          <extent>
+              <charseq START="8157" END="8162">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="8157" END="8162">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6206">
+          <extent>
+              <charseq START="8282" END="8289">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="8286" END="8289">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6309">
+          <extent>
+              <charseq START="8409" END="8416">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="8413" END="8416">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6412">
+          <extent>
+              <charseq START="8577" END="8584">her baby</charseq>
+          </extent>
+          <head>
+              <charseq START="8581" END="8584">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6507">
+          <extent>
+              <charseq START="8671" END="8678">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="8675" END="8678">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M6707">
+          <extent>
+              <charseq START="8971" END="8993">the child later in life</charseq>
+          </extent>
+          <head>
+              <charseq START="8975" END="8979">child</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7204">
+          <extent>
+              <charseq START="9404" END="9411">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9408" END="9411">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7304">
+          <extent>
+              <charseq START="9460" END="9467">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9464" END="9467">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7311">
+          <extent>
+              <charseq START="9506" END="9513">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9510" END="9513">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7407">
+          <extent>
+              <charseq START="9594" END="9601">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9598" END="9601">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7506">
+          <extent>
+              <charseq START="9699" END="9706">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9703" END="9706">baby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E1-M7512">
+          <extent>
+              <charseq START="9778" END="9786">the child</charseq>
+          </extent>
+          <head>
+              <charseq START="9782" END="9786">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E2-M204">
+          <extent>
+              <charseq START="341" END="350">marsupials</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="350">marsupials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E3-M1100">
+          <extent>
+              <charseq START="993" END="1005">pooooooooooop</charseq>
+          </extent>
+          <head>
+              <charseq START="993" END="1005">pooooooooooop</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="pooooooooooop">
+              <charseq START="993" END="1005">pooooooooooop</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E4-M2900">
+          <extent>
+              <charseq START="2838" END="2880">the junction of umbilical cord and placenta</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2849">junction</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M3212">
+          <extent>
+              <charseq START="3373" END="3382">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="3377" END="3382">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M3223">
+          <extent>
+              <charseq START="3474" END="3483">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="3478" END="3483">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M4008">
+          <extent>
+              <charseq START="4604" END="4613">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="4608" END="4613">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M4107">
+          <extent>
+              <charseq START="4802" END="4811">their host</charseq>
+          </extent>
+          <head>
+              <charseq START="4808" END="4811">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M5301">
+          <extent>
+              <charseq START="7198" END="7207">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="7202" END="7207">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M6310">
+          <extent>
+              <charseq START="8422" END="8431">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="8426" END="8431">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M6400">
+          <extent>
+              <charseq START="8437" END="8444">a mother</charseq>
+          </extent>
+          <head>
+              <charseq START="8439" END="8444">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E5-M6410">
+          <extent>
+              <charseq START="8532" END="8541">the mother</charseq>
+          </extent>
+          <head>
+              <charseq START="8536" END="8541">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Placenta.sentences.sgm-E5-M6413">
+          <extent>
+              <charseq START="8577" END="8579">her</charseq>
+          </extent>
+          <head>
+              <charseq START="8577" END="8579">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E6-M4002">
+          <extent>
+              <charseq START="4567" END="4572">mother</charseq>
+          </extent>
+          <head>
+              <charseq START="4567" END="4572">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E7-M4312">
+          <extent>
+              <charseq START="5153" END="5292">&apos;active management of third stage&apos; which has been called into question by advocates of natural birth and &apos;passive management of third stage&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="5161" END="5170">management</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E8-M4317">
+          <extent>
+              <charseq START="5227" END="5292">advocates of natural birth and &apos;passive management of third stage&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="5227" END="5235">advocates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E9-M4507">
+          <extent>
+              <charseq START="5574" END="5592">a major contributor</charseq>
+          </extent>
+          <head>
+              <charseq START="5582" END="5592">contributor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E10-M4605">
+          <extent>
+              <charseq START="5640" END="5641">IM</charseq>
+          </extent>
+          <head>
+              <charseq START="5640" END="5641">IM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IM">
+              <charseq START="5640" END="5641">IM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E11-M4800">
+          <extent>
+              <charseq START="5845" END="5973">The BMJ summarized the Cochrane group metanalysis (2000) of the benefits of active third stage as follows:
+&quot;One systematic review</charseq>
+          </extent>
+          <head>
+              <charseq START="5849" END="5851">BMJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BMJ">
+              <charseq START="5849" END="5851">BMJ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E12-M4805">
+          <extent>
+              <charseq START="5868" END="5875">Cochrane</charseq>
+          </extent>
+          <head>
+              <charseq START="5868" END="5875">Cochrane</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cochrane">
+              <charseq START="5868" END="5875">Cochrane</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E13-M4826">
+          <extent>
+              <charseq START="6113" END="6141">a prophylactic oxytocic agent</charseq>
+          </extent>
+          <head>
+              <charseq START="6137" END="6141">agent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E14-M4838">
+          <extent>
+              <charseq START="6288" END="6293">9 g/dL</charseq>
+          </extent>
+          <head>
+              <charseq START="6292" END="6293">dL</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E15-M4906">
+          <extent>
+              <charseq START="6528" END="6532">women</charseq>
+          </extent>
+          <head>
+              <charseq START="6528" END="6532">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Placenta.sentences.sgm-E15-M4909">
+          <extent>
+              <charseq START="6575" END="6579">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6575" END="6579">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E16-M5201">
+          <extent>
+              <charseq START="7001" END="7013">birth centers</charseq>
+          </extent>
+          <head>
+              <charseq START="7007" END="7013">centers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E17-M5208">
+          <extent>
+              <charseq START="7070" END="7092">licensed care providers</charseq>
+          </extent>
+          <head>
+              <charseq START="7084" END="7092">providers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E18-M5900">
+          <extent>
+              <charseq START="7929" END="7945">the Western world</charseq>
+          </extent>
+          <head>
+              <charseq START="7941" END="7945">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E19-M6100">
+          <extent>
+              <charseq START="8041" END="8064">The Māori of New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="8045" END="8049">Māori</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Māori">
+              <charseq START="8045" END="8049">Māori</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E20-M6103">
+          <extent>
+              <charseq START="8054" END="8064">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="8054" END="8064">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Zealand">
+              <charseq START="8054" END="8064">New Zealand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E21" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E21-M6111">
+          <extent>
+              <charseq START="8168" END="8176">the earth</charseq>
+          </extent>
+          <head>
+              <charseq START="8172" END="8176">earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="earth">
+              <charseq START="8172" END="8176">earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E22-M6106">
+          <extent>
+              <charseq START="8103" END="8117">a newborn child</charseq>
+          </extent>
+          <head>
+              <charseq START="8113" END="8117">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E23-M6200">
+          <extent>
+              <charseq START="8190" END="8199">the Navajo</charseq>
+          </extent>
+          <head>
+              <charseq START="8194" END="8199">Navajo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Navajo">
+              <charseq START="8194" END="8199">Navajo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E24-M6205">
+          <extent>
+              <charseq START="8241" END="8263">a specially-chosen site</charseq>
+          </extent>
+          <head>
+              <charseq START="8260" END="8263">site</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E25-M6301" ROLE="LOC">
+          <extent>
+              <charseq START="8313" END="8320">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="8313" END="8320">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cambodia">
+              <charseq START="8313" END="8320">Cambodia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E26-M6302" ROLE="LOC">
+          <extent>
+              <charseq START="8326" END="8335">Costa Rica</charseq>
+          </extent>
+          <head>
+              <charseq START="8326" END="8335">Costa Rica</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Costa Rica">
+              <charseq START="8326" END="8335">Costa Rica</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E27-M6402">
+          <extent>
+              <charseq START="8466" END="8486">the Aymara of Bolivia</charseq>
+          </extent>
+          <head>
+              <charseq START="8470" END="8475">Aymara</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aymara">
+              <charseq START="8470" END="8475">Aymara</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E28-M6405">
+          <extent>
+              <charseq START="8480" END="8486">Bolivia</charseq>
+          </extent>
+          <head>
+              <charseq START="8480" END="8486">Bolivia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bolivia">
+              <charseq START="8480" END="8486">Bolivia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E29-M6501">
+          <extent>
+              <charseq START="8622" END="8637">some communities</charseq>
+          </extent>
+          <head>
+              <charseq START="8627" END="8637">communities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E30-M6508">
+          <extent>
+              <charseq START="8683" END="8693">its parents</charseq>
+          </extent>
+          <head>
+              <charseq START="8687" END="8693">parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E30-M6808">
+          <extent>
+              <charseq START="9094" END="9104">the parents</charseq>
+          </extent>
+          <head>
+              <charseq START="9098" END="9104">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E31-M6600">
+          <extent>
+              <charseq START="8696" END="8727">The Kwakiutl of British Columbia</charseq>
+          </extent>
+          <head>
+              <charseq START="8700" END="8707">Kwakiutl</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kwakiutl">
+              <charseq START="8700" END="8707">Kwakiutl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E32" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E32-M6603">
+          <extent>
+              <charseq START="8712" END="8727">British Columbia</charseq>
+          </extent>
+          <head>
+              <charseq START="8712" END="8727">British Columbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Columbia">
+              <charseq START="8712" END="8727">British Columbia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E33-M6605">
+          <extent>
+              <charseq START="8734" END="8738">girls</charseq>
+          </extent>
+          <head>
+              <charseq START="8734" END="8738">girls</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E34-M6611">
+          <extent>
+              <charseq START="8803" END="8806">boys</charseq>
+          </extent>
+          <head>
+              <charseq START="8803" END="8806">boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E34-M6900">
+          <extent>
+              <charseq START="9125" END="9145">The ancient Egyptians</charseq>
+          </extent>
+          <head>
+              <charseq START="9137" END="9145">Egyptians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E34-M7003">
+          <extent>
+              <charseq START="9231" END="9241">the pharaoh</charseq>
+          </extent>
+          <head>
+              <charseq START="9235" END="9241">pharaoh</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E35-M6700" ROLE="LOC">
+          <extent>
+              <charseq START="8871" END="8876">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="8871" END="8876">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkey">
+              <charseq START="8871" END="8876">Turkey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E36-M6801" ROLE="LOC">
+          <extent>
+              <charseq START="8999" END="9005">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="8999" END="9005">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ukraine">
+              <charseq START="8999" END="9005">Ukraine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E37-M6802" ROLE="LOC">
+          <extent>
+              <charseq START="9008" END="9019">Transylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="9008" END="9019">Transylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Transylvania">
+              <charseq START="9008" END="9019">Transylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E38-M6803" ROLE="LOC">
+          <extent>
+              <charseq START="9026" END="9030">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="9026" END="9030">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japan">
+              <charseq START="9026" END="9030">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E39-M7202">
+          <extent>
+              <charseq START="9384" END="9411">often a relative of the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9392" END="9399">relative</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E40-M7300">
+          <extent>
+              <charseq START="9414" END="9421">Nepalese</charseq>
+          </extent>
+          <head>
+              <charseq START="9414" END="9421">Nepalese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nepalese">
+              <charseq START="9414" END="9421">Nepalese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E41-M7305">
+          <extent>
+              <charseq START="9472" END="9491">Malaysian Orang Asli</charseq>
+          </extent>
+          <head>
+              <charseq START="9482" END="9491">Orang Asli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Orang Asli">
+              <charseq START="9482" END="9491">Orang Asli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E42-M7306">
+          <extent>
+              <charseq START="9472" END="9480">Malaysian</charseq>
+          </extent>
+          <head>
+              <charseq START="9472" END="9480">Malaysian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malaysian">
+              <charseq START="9472" END="9480">Malaysian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E43-M7302">
+          <extent>
+              <charseq START="9448" END="9469">a friend of the baby&apos;s</charseq>
+          </extent>
+          <head>
+              <charseq START="9450" END="9455">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E43-M7405">
+          <extent>
+              <charseq START="9573" END="9601">the deceased twin of the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="9586" END="9589">twin</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E44-M7310">
+          <extent>
+              <charseq START="9506" END="9529">the baby&apos;s older sibling</charseq>
+          </extent>
+          <head>
+              <charseq START="9523" END="9529">sibling</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E45-M7400">
+          <extent>
+              <charseq START="9532" END="9549">The Ibo of Nigeria</charseq>
+          </extent>
+          <head>
+              <charseq START="9536" END="9538">Ibo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ibo">
+              <charseq START="9536" END="9538">Ibo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E46-M7403">
+          <extent>
+              <charseq START="9543" END="9549">Nigeria</charseq>
+          </extent>
+          <head>
+              <charseq START="9543" END="9549">Nigeria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nigeria">
+              <charseq START="9543" END="9549">Nigeria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E47-M7500">
+          <extent>
+              <charseq START="9643" END="9658">Native Hawaiians</charseq>
+          </extent>
+          <head>
+              <charseq START="9650" END="9658">Hawaiians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Placenta.sentences.sgm-E47-M7501">
+          <extent>
+              <charseq START="9643" END="9648">Native</charseq>
+          </extent>
+          <head>
+              <charseq START="9643" END="9648">Native</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E49-M7702">
+          <extent>
+              <charseq START="9899" END="9903">China</charseq>
+          </extent>
+          <head>
+              <charseq START="9899" END="9903">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="9899" END="9903">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E50" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E50-M7703">
+          <extent>
+              <charseq START="9909" END="9917">Hong Kong</charseq>
+          </extent>
+          <head>
+              <charseq START="9909" END="9917">Hong Kong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hong Kong">
+              <charseq START="9909" END="9917">Hong Kong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Placenta.sentences.sgm-E51" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Placenta.sentences.sgm-E51-M7809">
+          <extent>
+              <charseq START="10126" END="10146">KnowYourSTO.com
+Fetus</charseq>
+          </extent>
+          <head>
+              <charseq START="10126" END="10146">KnowYourSTO.com
+Fetus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KnowYourSTO.com
+Fetus">
+              <charseq START="10126" END="10146">KnowYourSTO.com
+Fetus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Placenta.sentences.sgm-T0" VAL="XXXX-12-13">
+        <timex2_mention ID="Placenta.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="2023" END="2047">approximately 12-13 weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T1" VAL="P2M" MOD="APPROX">
+        <timex2_mention ID="Placenta.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="4296" END="4309">about 2 months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T2" VAL="PTXM">
+        <timex2_mention ID="Placenta.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="5089" END="5122">within seconds or minutes of birth</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Placenta.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="5310" END="5315">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T4" VAL="2000">
+        <timex2_mention ID="Placenta.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="5896" END="5899">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T5" VAL="PT30M">
+        <timex2_mention ID="Placenta.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="6723" END="6732">30 minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T6" VAL="PT2H">
+        <timex2_mention ID="Placenta.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="7133" END="7139">2 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Placenta.sentences.sgm-V7" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Placenta.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="7444" END="7446">99%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Placenta.sentences.sgm-T8" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Placenta.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="7596" END="7607">the next day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T9" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Placenta.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="8842" END="8847">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Placenta.sentences.sgm-T10" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Placenta.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="9107" END="9112">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Placenta.sentences.sgm-V11" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Placenta.sentences.sgm-V11-M1">
+            <extent>
+              <charseq START="10093" END="10104">Bartleby.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Placenta.sentences.sgm-V12" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Placenta.sentences.sgm-V12-M1">
+            <extent>
+              <charseq START="10126" END="10140">KnowYourSTO.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Placenta.sentences.sgm-V13" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Placenta.sentences.sgm-V13-M1">
+            <extent>
+              <charseq START="10151" END="10161">humpath.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Placenta.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Placenta.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Placenta.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Placenta.sentences.sgm-R0-M6100">
+          <extent>
+              <charseq START="8041" END="8064">The Māori of New Zealand</charseq>
+          </extent>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E19-M6100" ROLE="Arg-1">
+            <extent>
+              <charseq START="8041" END="8064">The Māori of New Zealand</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E20-M6103" ROLE="Arg-2">
+            <extent>
+              <charseq START="8054" END="8064">New Zealand</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Placenta.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Placenta.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Placenta.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Placenta.sentences.sgm-R1-M6101">
+          <extent>
+              <charseq START="8157" END="8162">humans</charseq>
+          </extent>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E1-M6110" ROLE="Arg-1">
+            <extent>
+              <charseq START="8157" END="8162">humans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E21-M6111" ROLE="Arg-2">
+            <extent>
+              <charseq START="8168" END="8176">the earth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Placenta.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Placenta.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Placenta.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Placenta.sentences.sgm-R2-M6400">
+          <extent>
+              <charseq START="8577" END="8579">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E5-M6413" ROLE="Arg-1">
+            <extent>
+              <charseq START="8577" END="8579">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E1-M6412" ROLE="Arg-2">
+            <extent>
+              <charseq START="8577" END="8584">her baby</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Placenta.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Placenta.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Placenta.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Placenta.sentences.sgm-R3-M6600">
+          <extent>
+              <charseq START="8696" END="8727">The Kwakiutl of British Columbia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E31-M6600" ROLE="Arg-1">
+            <extent>
+              <charseq START="8696" END="8727">The Kwakiutl of British Columbia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E32-M6603" ROLE="Arg-2">
+            <extent>
+              <charseq START="8712" END="8727">British Columbia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Placenta.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Placenta.sentences.sgm-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="Placenta.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Placenta.sentences.sgm-R4-M7300">
+          <extent>
+              <charseq START="9448" END="9469">a friend of the baby&apos;s</charseq>
+          </extent>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E43-M7302" ROLE="Arg-1">
+            <extent>
+              <charseq START="9448" END="9469">a friend of the baby&apos;s</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Placenta.sentences.sgm-E1-M7304" ROLE="Arg-2">
+            <extent>
+              <charseq START="9460" END="9467">the baby</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Placenta.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Placenta.sentences.sgm-E5" ROLE="Attacker"/>
+      <event_mention ID="Placenta.sentences.sgm-EV0-M4001">
+          <extent>
+              <charseq START="4594" END="4599">attack</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4594" END="4599">attack</charseq>
+          </anchor>
+        <event_mention_argument REFID="Placenta.sentences.sgm-E5-M4008" ROLE="Attacker">
+          <extent>
+              <charseq START="4604" END="4613">the mother</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Placenta.sentences.sgm-EV1-M4300">
+          <extent>
+              <charseq START="5118" END="5122">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5118" END="5122">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M4301">
+          <extent>
+              <charseq START="5248" END="5252">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5248" END="5252">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M5200">
+          <extent>
+              <charseq START="7001" END="7005">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7001" END="7005">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M5201">
+          <extent>
+              <charseq START="7033" END="7037">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7033" END="7037">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M5202">
+          <extent>
+              <charseq START="7121" END="7125">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7121" END="7125">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M5300">
+          <extent>
+              <charseq START="7322" END="7326">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7322" END="7326">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Placenta.sentences.sgm-EV1-M6201">
+          <extent>
+              <charseq START="8303" END="8307">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8303" END="8307">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Placenta.sentences.sgm-EV2-M4400">
+          <extent>
+              <charseq START="5485" END="5489">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5485" END="5489">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Placenta.sentences.sgm-EV3-M5900">
+          <extent>
+              <charseq START="7975" END="7985">incinerated</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7975" END="7985">incinerated</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Placenta.sentences.sgm-E1" ROLE="Victim"/>
+      <event_mention ID="Placenta.sentences.sgm-EV4-M6200">
+          <extent>
+              <charseq START="8291" END="8294">dies</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8291" END="8294">dies</charseq>
+          </anchor>
+        <event_mention_argument REFID="Placenta.sentences.sgm-E1-M6206" ROLE="Victim">
+          <extent>
+              <charseq START="8282" END="8289">the baby</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Placenta.sentences.sgm-E5" ROLE="Victim"/>
+      <event_mention ID="Placenta.sentences.sgm-EV5-M6400">
+          <extent>
+              <charseq START="8446" END="8449">dies</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8446" END="8449">dies</charseq>
+          </anchor>
+        <event_mention_argument REFID="Placenta.sentences.sgm-E5-M6400" ROLE="Victim">
+          <extent>
+              <charseq START="8437" END="8444">a mother</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Placenta.sentences.sgm-EV6-M7000">
+          <extent>
+              <charseq START="9281" END="9286">battle</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9281" END="9286">battle</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Placenta.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Placenta.sentences.sgm-E43" ROLE="Victim"/>
+      <event_mention ID="Placenta.sentences.sgm-EV7-M7400">
+          <extent>
+              <charseq START="9577" END="9584">deceased</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9577" END="9584">deceased</charseq>
+          </anchor>
+        <event_mention_argument REFID="Placenta.sentences.sgm-E43-M7405" ROLE="Victim">
+          <extent>
+              <charseq START="9573" END="9601">the deceased twin of the baby</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

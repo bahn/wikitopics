@@ -1,0 +1,2098 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="USS_Bainbridge_(DDG-96).sentences.sgm">
+  <document DOCID="USS_Bainbridge_(DDG-96).sentences.sgm">
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="40" END="62">USS Bainbridge (DDG-96)</charseq>
+          </extent>
+          <head>
+              <charseq START="40" END="53">USS Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="56" END="61">DDG-96</charseq>
+          </extent>
+          <head>
+              <charseq START="56" END="58">DDG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="67" END="139">an Arleigh Burke-class guided missile destroyer in the United States Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="105" END="113">destroyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M103">
+          <extent>
+              <charseq START="149" END="162">the fifth ship</charseq>
+          </extent>
+          <head>
+              <charseq START="159" END="162">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M105">
+          <extent>
+              <charseq START="188" END="232">the 46th destroyer of a planned 62-ship class</charseq>
+          </extent>
+          <head>
+              <charseq START="197" END="205">destroyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="235" END="244">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="244">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="507" END="516">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="516">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M302">
+          <extent>
+              <charseq START="480" END="482">her</charseq>
+          </extent>
+          <head>
+              <charseq START="480" END="482">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M404">
+          <extent>
+              <charseq START="867" END="874">the ship</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="874">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M407">
+          <extent>
+              <charseq START="907" END="914">the ship</charseq>
+          </extent>
+          <head>
+              <charseq START="911" END="914">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="949" END="958">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="949" END="958">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M613">
+          <extent>
+              <charseq START="1248" END="1268">the Bainbridge to the</charseq>
+          </extent>
+          <head>
+              <charseq START="1252" END="1261">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M701">
+          <extent>
+              <charseq START="1304" END="1335">the Bainbridge during the attack</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1317">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M801">
+          <extent>
+              <charseq START="1351" END="1360">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="1351" END="1360">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M904">
+          <extent>
+              <charseq START="1655" END="1664">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="1655" END="1664">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1010">
+          <extent>
+              <charseq START="1849" END="1861">the destroyer</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1861">destroyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1200">
+          <extent>
+              <charseq START="2099" END="2108">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2099" END="2108">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1501">
+          <extent>
+              <charseq START="2563" END="2572">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2563" END="2572">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1502">
+          <extent>
+              <charseq START="2582" END="2634">flag ship for Standing NATO Maritime Group 1 (SNMG-1)</charseq>
+          </extent>
+          <head>
+              <charseq START="2587" END="2590">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1510">
+          <extent>
+              <charseq START="2688" END="2696">flag ship</charseq>
+          </extent>
+          <head>
+              <charseq START="2693" END="2696">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M1701">
+          <extent>
+              <charseq START="2953" END="2962">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2953" END="2962">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M2009">
+          <extent>
+              <charseq START="3422" END="3431">Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3422" END="3431">Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M2000">
+          <extent>
+              <charseq START="3309" END="3321">The destroyer</charseq>
+          </extent>
+          <head>
+              <charseq START="3313" END="3321">destroyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M2209">
+          <extent>
+              <charseq START="3683" END="3700">the USS Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3687" END="3700">USS Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E0-M2304">
+          <extent>
+              <charseq START="3759" END="3771">Official ship</charseq>
+          </extent>
+          <head>
+              <charseq START="3768" END="3771">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="USS Bainbridge">
+              <charseq START="40" END="53">USS Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="235" END="244">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="507" END="516">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="949" END="958">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="1252" END="1261">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="1308" END="1317">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="1351" END="1360">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="1655" END="1664">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="2099" END="2108">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="2563" END="2572">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="2953" END="2962">Bainbridge</charseq>
+          </name>
+          <name NAME="Bainbridge">
+              <charseq START="3422" END="3431">Bainbridge</charseq>
+          </name>
+          <name NAME="USS Bainbridge">
+              <charseq START="3687" END="3700">USS Bainbridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M5">
+          <extent>
+              <charseq START="70" END="82">Arleigh Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="70" END="82">Arleigh Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M100">
+          <extent>
+              <charseq START="142" END="144">She</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="144">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M311">
+          <extent>
+              <charseq START="586" END="588">she</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="588">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M806">
+          <extent>
+              <charseq START="1386" END="1398">Arleigh Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="1386" END="1398">Arleigh Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M828">
+          <extent>
+              <charseq START="1598" END="1610">Arleigh Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="1598" END="1610">Arleigh Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M903">
+          <extent>
+              <charseq START="1645" END="1647">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1645" END="1647">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M1001">
+          <extent>
+              <charseq START="1750" END="1752">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1752">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M1100">
+          <extent>
+              <charseq START="1905" END="1907">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1907">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M1300">
+          <extent>
+              <charseq START="2302" END="2304">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2302" END="2304">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M1400">
+          <extent>
+              <charseq START="2396" END="2398">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2396" END="2398">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arleigh Burke">
+              <charseq START="70" END="82">Arleigh Burke</charseq>
+          </name>
+          <name NAME="Arleigh Burke">
+              <charseq START="1386" END="1398">Arleigh Burke</charseq>
+          </name>
+          <name NAME="Arleigh Burke">
+              <charseq START="1598" END="1610">Arleigh Burke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E2-M7">
+          <extent>
+              <charseq START="118" END="139">the United States Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="139">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E2-M2107">
+          <extent>
+              <charseq START="3582" END="3585">Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="3582" END="3585">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E2-M2207">
+          <extent>
+              <charseq START="3652" END="3655">Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="3652" END="3655">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Navy">
+              <charseq START="136" END="139">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="3582" END="3585">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="3652" END="3655">Navy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M8">
+          <extent>
+              <charseq START="122" END="134">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="122" END="134">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M332" ROLE="GPE">
+          <extent>
+              <charseq START="761" END="768">American</charseq>
+          </extent>
+          <head>
+              <charseq START="761" END="768">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M1712">
+          <extent>
+              <charseq START="3063" END="3070">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3063" END="3070">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M2106" ROLE="GPE">
+          <extent>
+              <charseq START="3579" END="3580">US</charseq>
+          </extent>
+          <head>
+              <charseq START="3579" END="3580">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M2206" ROLE="GPE">
+          <extent>
+              <charseq START="3649" END="3650">US</charseq>
+          </extent>
+          <head>
+              <charseq START="3649" END="3650">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="122" END="134">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="761" END="768">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3063" END="3070">American</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="3579" END="3580">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="3649" END="3650">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E4" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E4-M6">
+          <extent>
+              <charseq START="97" END="103">missile</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="103">missile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E4-M807">
+          <extent>
+              <charseq START="1413" END="1419">missile</charseq>
+          </extent>
+          <head>
+              <charseq START="1413" END="1419">missile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E4-M905">
+          <extent>
+              <charseq START="1674" END="1747">over 100 missiles of various types aboard two separate Mk 41 VLS magazines</charseq>
+          </extent>
+          <head>
+              <charseq START="1683" END="1690">missiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M204">
+          <extent>
+              <charseq START="267" END="294">Commodore William Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="294">William Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M205">
+          <extent>
+              <charseq START="267" END="275">Commodore</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="275">Commodore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M207">
+          <extent>
+              <charseq START="297" END="299">who</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="299">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M216">
+          <extent>
+              <charseq START="392" END="393">he</charseq>
+          </extent>
+          <head>
+              <charseq START="392" END="393">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M219">
+          <extent>
+              <charseq START="399" END="401">his</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="401">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M1209">
+          <extent>
+              <charseq START="2238" END="2265">Commodore William Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2248" END="2265">William Bainbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M1210">
+          <extent>
+              <charseq START="2238" END="2246">Commodore</charseq>
+          </extent>
+          <head>
+              <charseq START="2238" END="2246">Commodore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M1411">
+          <extent>
+              <charseq START="2484" END="2492">Executive</charseq>
+          </extent>
+          <head>
+              <charseq START="2484" END="2492">Executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William Bainbridge">
+              <charseq START="277" END="294">William Bainbridge</charseq>
+          </name>
+          <name NAME="William Bainbridge">
+              <charseq START="2248" END="2265">William Bainbridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E6" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E6-M220">
+          <extent>
+              <charseq START="417" END="424">HMS Java</charseq>
+          </extent>
+          <head>
+              <charseq START="417" END="424">HMS Java</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HMS Java">
+              <charseq START="417" END="424">HMS Java</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E7-M224">
+          <extent>
+              <charseq START="458" END="471">the Royal Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="462" END="471">Royal Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Navy">
+              <charseq START="462" END="471">Royal Navy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M218">
+          <extent>
+              <charseq START="399" END="406">his crew</charseq>
+          </extent>
+          <head>
+              <charseq START="403" END="406">crew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M1800">
+          <extent>
+              <charseq START="3114" END="3136">The crew of the Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="3118" END="3121">crew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M1813">
+          <extent>
+              <charseq START="3259" END="3266">his crew</charseq>
+          </extent>
+          <head>
+              <charseq START="3263" END="3266">crew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M1806">
+          <extent>
+              <charseq START="3172" END="3176">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3172" END="3176">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E9" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E9-M221">
+          <extent>
+              <charseq START="427" END="471">a 38-gun fifth rate frigate of the Royal Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="453">frigate</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E10" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E10-M305">
+          <extent>
+              <charseq START="537" END="557">the Mediterranean Sea</charseq>
+          </extent>
+          <head>
+              <charseq START="541" END="557">Mediterranean Sea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E10-M1607">
+          <extent>
+              <charseq START="2804" END="2820">the Mediterranean</charseq>
+          </extent>
+          <head>
+              <charseq START="2808" END="2820">Mediterranean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mediterranean Sea">
+              <charseq START="541" END="557">Mediterranean Sea</charseq>
+          </name>
+          <name NAME="Mediterranean">
+              <charseq START="2808" END="2820">Mediterranean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M318">
+          <extent>
+              <charseq START="659" END="689">the freighter MV Maersk Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="676" END="689">Maersk Alabama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M320">
+          <extent>
+              <charseq START="673" END="674">MV</charseq>
+          </extent>
+          <head>
+              <charseq START="673" END="674">MV</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M402">
+          <extent>
+              <charseq START="823" END="847">the captured cargo vessel</charseq>
+          </extent>
+          <head>
+              <charseq START="842" END="847">vessel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M1714">
+          <extent>
+              <charseq START="3094" END="3111">the Maersk Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="3098" END="3111">Maersk Alabama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M1802">
+          <extent>
+              <charseq START="3126" END="3136">the Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="3130" END="3136">Alabama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maersk Alabama">
+              <charseq START="676" END="689">Maersk Alabama</charseq>
+          </name>
+          <name NAME="Maersk Alabama">
+              <charseq START="3098" END="3111">Maersk Alabama</charseq>
+          </name>
+          <name NAME="Alabama">
+              <charseq START="3130" END="3136">Alabama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M324" ROLE="GPE">
+          <extent>
+              <charseq START="694" END="699">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="694" END="699">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M609" ROLE="GPE">
+          <extent>
+              <charseq START="1172" END="1177">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="1172" END="1177">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M1708" ROLE="GPE">
+          <extent>
+              <charseq START="3023" END="3028">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="3023" END="3028">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M2002" ROLE="GPE">
+          <extent>
+              <charseq START="3356" END="3361">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="3356" END="3361">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M2203" ROLE="GPE">
+          <extent>
+              <charseq START="3619" END="3624">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="3619" END="3624">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Somali">
+              <charseq START="694" END="699">Somali</charseq>
+          </name>
+          <name NAME="Somali">
+              <charseq START="1172" END="1177">Somali</charseq>
+          </name>
+          <name NAME="Somali">
+              <charseq START="3023" END="3028">Somali</charseq>
+          </name>
+          <name NAME="Somali">
+              <charseq START="3356" END="3361">Somali</charseq>
+          </name>
+          <name NAME="Somali">
+              <charseq START="3619" END="3624">Somali</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M331">
+          <extent>
+              <charseq START="757" END="785">the American captain Phillips</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="785">Phillips</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M333">
+          <extent>
+              <charseq START="770" END="776">captain</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="776">captain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M509">
+          <extent>
+              <charseq START="1058" END="1076">the captive captain</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1076">captain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M601">
+          <extent>
+              <charseq START="1092" END="1112">2009 Captain Phillips</charseq>
+          </extent>
+          <head>
+              <charseq START="1097" END="1112">Captain Phillips</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M2013">
+          <extent>
+              <charseq START="3475" END="3493">the captive captain</charseq>
+          </extent>
+          <head>
+              <charseq START="3487" END="3493">captain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M2101">
+          <extent>
+              <charseq START="3509" END="3529">2009 Captain Phillips</charseq>
+          </extent>
+          <head>
+              <charseq START="3514" END="3529">Captain Phillips</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phillips">
+              <charseq START="778" END="785">Phillips</charseq>
+          </name>
+          <name NAME="Captain Phillips">
+              <charseq START="1097" END="1112">Captain Phillips</charseq>
+          </name>
+          <name NAME="Captain Phillips">
+              <charseq START="3514" END="3529">Captain Phillips</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M323">
+          <extent>
+              <charseq START="694" END="707">Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="707">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M405">
+          <extent>
+              <charseq START="877" END="887">the pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="887">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M406">
+          <extent>
+              <charseq START="907" END="932">the ship&apos;s captain hostage</charseq>
+          </extent>
+          <head>
+              <charseq START="926" END="932">hostage</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M501">
+          <extent>
+              <charseq START="975" END="985">the pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="985">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M608">
+          <extent>
+              <charseq START="1168" END="1185">the Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1185">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M1707">
+          <extent>
+              <charseq START="3023" END="3036">Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="3030" END="3036">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M1807">
+          <extent>
+              <charseq START="3217" END="3266">the pirates in exchange for the safety of his crew</charseq>
+          </extent>
+          <head>
+              <charseq START="3221" END="3227">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M2001">
+          <extent>
+              <charseq START="3352" END="3369">the Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="3363" END="3369">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M2008">
+          <extent>
+              <charseq START="3410" END="3416">pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="3410" END="3416">pirates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M2202">
+          <extent>
+              <charseq START="3615" END="3632">the Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="3626" END="3632">pirates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E15-M400">
+          <extent>
+              <charseq START="812" END="847">crewmen of the captured cargo vessel</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="818">crewmen</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E16-M504">
+          <extent>
+              <charseq START="997" END="999">FBI</charseq>
+          </extent>
+          <head>
+              <charseq START="997" END="999">FBI</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FBI">
+              <charseq START="997" END="999">FBI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E17-M611">
+          <extent>
+              <charseq START="1202" END="1210">U.S. Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="1202" END="1210">U.S. Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S. Navy">
+              <charseq START="1202" END="1210">U.S. Navy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E18-M610">
+          <extent>
+              <charseq START="1202" END="1223">U.S. Navy SEAL snipers</charseq>
+          </extent>
+          <head>
+              <charseq START="1217" END="1223">snipers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E19-M606">
+          <extent>
+              <charseq START="1159" END="1185">three of the Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1163">three</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E20" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E20-M805">
+          <extent>
+              <charseq START="1372" END="1430">62 authorized Arleigh Burke-class guided missile destroyers</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1430">destroyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E21-M810">
+          <extent>
+              <charseq START="1444" END="1627">32 members of the Flight IIA-class that incorporate the 5&quot;/62 caliber gun mount, an improvement over the previous 5&quot;/54 caliber gun mounts on the earlier Arleigh Burke-class destroyers</charseq>
+          </extent>
+          <head>
+              <charseq START="1447" END="1453">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E21-M816">
+          <extent>
+              <charseq START="1479" END="1482">that</charseq>
+          </extent>
+          <head>
+              <charseq START="1479" END="1482">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E22" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E22-M817">
+          <extent>
+              <charseq START="1496" END="1516">the 5&quot;/62 caliber gun</charseq>
+          </extent>
+          <head>
+              <charseq START="1514" END="1516">gun</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E23" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E23-M827">
+          <extent>
+              <charseq START="1586" END="1627">the earlier Arleigh Burke-class destroyers</charseq>
+          </extent>
+          <head>
+              <charseq START="1618" END="1627">destroyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E26-M910">
+          <extent>
+              <charseq START="1729" END="1730">Mk</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1730">Mk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mk">
+              <charseq START="1729" END="1730">Mk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E27-M911">
+          <extent>
+              <charseq START="1735" END="1737">VLS</charseq>
+          </extent>
+          <head>
+              <charseq START="1735" END="1737">VLS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VLS">
+              <charseq START="1735" END="1737">VLS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E28" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E28-M902">
+          <extent>
+              <charseq START="1645" END="1652">her guns</charseq>
+          </extent>
+          <head>
+              <charseq START="1649" END="1652">guns</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E29-M1007">
+          <extent>
+              <charseq START="1815" END="1819">Aegis</charseq>
+          </extent>
+          <head>
+              <charseq START="1815" END="1819">Aegis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aegis">
+              <charseq START="1815" END="1819">Aegis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E30" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E30-M1110">
+          <extent>
+              <charseq START="1984" END="2014">the Remote Mine-hunting Vehicle</charseq>
+          </extent>
+          <head>
+              <charseq START="2008" END="2014">Vehicle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E30-M1115">
+          <extent>
+              <charseq START="2023" END="2096">an unmanned craft that detects, classifies, and localizes underwater mines</charseq>
+          </extent>
+          <head>
+              <charseq START="2035" END="2039">craft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E30-M1117">
+          <extent>
+              <charseq START="2041" END="2044">that</charseq>
+          </extent>
+          <head>
+              <charseq START="2041" END="2044">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E31-M1113">
+          <extent>
+              <charseq START="1999" END="2006">-hunting</charseq>
+          </extent>
+          <head>
+              <charseq START="1999" END="2006">-hunting</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E32" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E32-M1118">
+          <extent>
+              <charseq START="2081" END="2096">underwater mines</charseq>
+          </extent>
+          <head>
+              <charseq START="2092" END="2096">mines</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E33-M1204">
+          <extent>
+              <charseq START="2173" END="2187">Bath Iron Works</charseq>
+          </extent>
+          <head>
+              <charseq START="2173" END="2187">Bath Iron Works</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bath Iron Works">
+              <charseq START="2173" END="2187">Bath Iron Works</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E34-M1205" ROLE="LOC">
+          <extent>
+              <charseq START="2190" END="2193">Bath</charseq>
+          </extent>
+          <head>
+              <charseq START="2190" END="2193">Bath</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bath">
+              <charseq START="2190" END="2193">Bath</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E35" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E35-M1206" ROLE="LOC">
+          <extent>
+              <charseq START="2196" END="2200">Maine</charseq>
+          </extent>
+          <head>
+              <charseq START="2196" END="2200">Maine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maine">
+              <charseq START="2196" END="2200">Maine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E36-M1207">
+          <extent>
+              <charseq START="2216" END="2235">Susan Bainbridge Hay</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2235">Susan Bainbridge Hay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Susan Bainbridge Hay">
+              <charseq START="2216" END="2235">Susan Bainbridge Hay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E37-M1303">
+          <extent>
+              <charseq START="2349" END="2371">Commander John M. Dorey</charseq>
+          </extent>
+          <head>
+              <charseq START="2359" END="2371">John M. Dorey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E37-M1304">
+          <extent>
+              <charseq START="2349" END="2357">Commander</charseq>
+          </extent>
+          <head>
+              <charseq START="2349" END="2357">Commander</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John M. Dorey">
+              <charseq START="2359" END="2371">John M. Dorey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E38-M1402">
+          <extent>
+              <charseq START="2416" END="2441">CDR Francis X. Castellano,</charseq>
+          </extent>
+          <head>
+              <charseq START="2420" END="2440">Francis X. Castellano</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E38-M1410">
+          <extent>
+              <charseq START="2480" END="2500">the Executive Officer</charseq>
+          </extent>
+          <head>
+              <charseq START="2494" END="2500">Officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Francis X. Castellano">
+              <charseq START="2420" END="2440">Francis X. Castellano</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E39-M1404">
+          <extent>
+              <charseq START="2416" END="2418">CDR</charseq>
+          </extent>
+          <head>
+              <charseq START="2416" END="2418">CDR</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CDR">
+              <charseq START="2416" END="2418">CDR</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E40-M1406">
+          <extent>
+              <charseq START="2448" END="2467">LCDR David E. Fowler</charseq>
+          </extent>
+          <head>
+              <charseq START="2453" END="2467">David E. Fowler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E40-M1407">
+          <extent>
+              <charseq START="2448" END="2451">LCDR</charseq>
+          </extent>
+          <head>
+              <charseq START="2448" END="2451">LCDR</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David E. Fowler">
+              <charseq START="2453" END="2467">David E. Fowler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E41-M1412">
+          <extent>
+              <charseq START="2506" END="2520">Steve R. Rafter</charseq>
+          </extent>
+          <head>
+              <charseq START="2506" END="2520">Steve R. Rafter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steve R. Rafter">
+              <charseq START="2506" END="2520">Steve R. Rafter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E42-M1413">
+          <extent>
+              <charseq START="2533" END="2552">Command Master Chief</charseq>
+          </extent>
+          <head>
+              <charseq START="2548" END="2552">Chief</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E43" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E43-M1505">
+          <extent>
+              <charseq START="2596" END="2634">Standing NATO Maritime Group 1 (SNMG-1)</charseq>
+          </extent>
+          <head>
+              <charseq START="2596" END="2625">Standing NATO Maritime Group 1</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Standing NATO Maritime Group 1">
+              <charseq START="2596" END="2625">Standing NATO Maritime Group 1</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E44-M1507">
+          <extent>
+              <charseq START="2628" END="2633">SNMG-1</charseq>
+          </extent>
+          <head>
+              <charseq START="2628" END="2633">SNMG-1</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E44-M1602">
+          <extent>
+              <charseq START="2762" END="2767">SNMG-1</charseq>
+          </extent>
+          <head>
+              <charseq START="2762" END="2767">SNMG-1</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E44-M1603">
+          <extent>
+              <charseq START="2770" END="2773">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2770" END="2773">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SNMG-1">
+              <charseq START="2628" END="2633">SNMG-1</charseq>
+          </name>
+          <name NAME="SNMG-1">
+              <charseq START="2762" END="2767">SNMG-1</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E45-M1611">
+          <extent>
+              <charseq START="2839" END="2843">Malta</charseq>
+          </extent>
+          <head>
+              <charseq START="2839" END="2843">Malta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malta">
+              <charseq START="2839" END="2843">Malta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E46" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E46-M1613">
+          <extent>
+              <charseq START="2848" END="2853">Coruña</charseq>
+          </extent>
+          <head>
+              <charseq START="2848" END="2853">Coruña</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Coruña">
+              <charseq START="2848" END="2853">Coruña</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E47-M1614" ROLE="LOC">
+          <extent>
+              <charseq START="2856" END="2860">Spain</charseq>
+          </extent>
+          <head>
+              <charseq START="2856" END="2860">Spain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spain">
+              <charseq START="2856" END="2860">Spain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E48-M1615" ROLE="LOC">
+          <extent>
+              <charseq START="2863" END="2870">Istanbul</charseq>
+          </extent>
+          <head>
+              <charseq START="2863" END="2870">Istanbul</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Istanbul">
+              <charseq START="2863" END="2870">Istanbul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E49-M1616" ROLE="LOC">
+          <extent>
+              <charseq START="2873" END="2878">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2878">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkey">
+              <charseq START="2873" END="2878">Turkey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E50" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E50-M1617" ROLE="LOC">
+          <extent>
+              <charseq START="2881" END="2885">Crete</charseq>
+          </extent>
+          <head>
+              <charseq START="2881" END="2885">Crete</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Crete">
+              <charseq START="2881" END="2885">Crete</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E51-M1618">
+          <extent>
+              <charseq START="2888" END="2893">Athens</charseq>
+          </extent>
+          <head>
+              <charseq START="2888" END="2893">Athens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Athens">
+              <charseq START="2888" END="2893">Athens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E52-M1619">
+          <extent>
+              <charseq START="2896" END="2901">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="2896" END="2901">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greece">
+              <charseq START="2896" END="2901">Greece</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E53" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E53-M1620">
+          <extent>
+              <charseq START="2908" END="2920">Port Victoria</charseq>
+          </extent>
+          <head>
+              <charseq START="2908" END="2920">Port Victoria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Port Victoria">
+              <charseq START="2908" END="2920">Port Victoria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E54-M1621">
+          <extent>
+              <charseq START="2923" END="2932">Seychelles</charseq>
+          </extent>
+          <head>
+              <charseq START="2923" END="2932">Seychelles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Seychelles">
+              <charseq START="2923" END="2932">Seychelles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E55" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E55-M1605">
+          <extent>
+              <charseq START="2783" END="2932">various ports across the Mediterranean such as Valetta, Malta, A Coruña, Spain, Istanbul, Turkey, Crete, Athens, Greece, and Port Victoria, Seychelles</charseq>
+          </extent>
+          <head>
+              <charseq START="2791" END="2795">ports</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E56" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E56-M1711">
+          <extent>
+              <charseq START="3060" END="3091">an American-flagged cargo vessel</charseq>
+          </extent>
+          <head>
+              <charseq START="3086" END="3091">vessel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E57-M1805">
+          <extent>
+              <charseq START="3172" END="3184">their captain</charseq>
+          </extent>
+          <head>
+              <charseq START="3178" END="3184">captain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E57-M1814">
+          <extent>
+              <charseq START="3259" END="3261">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3259" END="3261">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E57-M1900">
+          <extent>
+              <charseq START="3269" END="3270">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3269" END="3270">He</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E58-M2204">
+          <extent>
+              <charseq START="3649" END="3700">US Navy SEAL sharpshooters aboard the USS Bainbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="3662" END="3674">sharpshooters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="USS_Bainbridge_(DDG-96).sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="USS_Bainbridge_(DDG-96).sentences.sgm-E59-M2200">
+          <extent>
+              <charseq START="3606" END="3632">Three of the Somali pirates</charseq>
+          </extent>
+          <head>
+              <charseq START="3606" END="3610">Three</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T0" VAL="1812">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="382" END="385">1812</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T1" VAL="2005">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="501" END="504">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T2" VAL="2009-04">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="712" END="722">April, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T3" VAL="2009-04-12">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="790" END="803">April 12, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T4" VAL="2009-04-12">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1082" END="1095">April 12, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T5" VAL="2004-11-13">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="2153" END="2168">13 November 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T6" VAL="2005-11-12">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2326" END="2341">12 November 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T7" VAL="2007-08">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2651" END="2672">April 2007–August 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T8" VAL="2007-08">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2703" END="2713">August 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T9" VAL="2008-02">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2721" END="2733">February 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T10" VAL="2009-04-08">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="2938" END="2950">April 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="USS_Bainbridge_(DDG-96).sentences.sgm-T11" VAL="2009-04-12">
+        <timex2_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3499" END="3512">April 12, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="118" END="139">the United States Navy</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E2-M7" ROLE="Arg-1">
+            <extent>
+              <charseq START="118" END="139">the United States Navy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M8" ROLE="Arg-2">
+            <extent>
+              <charseq START="122" END="134">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R1" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="399" END="401">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E5-M219" ROLE="Arg-1">
+            <extent>
+              <charseq START="399" END="401">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M218" ROLE="Arg-2">
+            <extent>
+              <charseq START="399" END="406">his crew</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2-M300">
+          <extent>
+              <charseq START="694" END="707">Somali pirates</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M323" ROLE="Arg-1">
+            <extent>
+              <charseq START="694" END="707">Somali pirates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M324" ROLE="Arg-2">
+            <extent>
+              <charseq START="694" END="699">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2-M600">
+          <extent>
+              <charseq START="1168" END="1185">the Somali pirates</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M608" ROLE="Arg-1">
+            <extent>
+              <charseq START="1168" END="1185">the Somali pirates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M609" ROLE="Arg-2">
+            <extent>
+              <charseq START="1172" END="1177">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2-M1700">
+          <extent>
+              <charseq START="3023" END="3036">Somali pirates</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M1707" ROLE="Arg-1">
+            <extent>
+              <charseq START="3023" END="3036">Somali pirates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M1708" ROLE="Arg-2">
+            <extent>
+              <charseq START="3023" END="3028">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2-M2000">
+          <extent>
+              <charseq START="3352" END="3369">the Somali pirates</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M2001" ROLE="Arg-1">
+            <extent>
+              <charseq START="3352" END="3369">the Somali pirates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M2002" ROLE="Arg-2">
+            <extent>
+              <charseq START="3356" END="3361">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R2-M2200">
+          <extent>
+              <charseq START="3615" END="3632">the Somali pirates</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E14-M2202" ROLE="Arg-1">
+            <extent>
+              <charseq START="3615" END="3632">the Somali pirates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E12-M2203" ROLE="Arg-2">
+            <extent>
+              <charseq START="3619" END="3624">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R3-M301">
+          <extent>
+              <charseq START="770" END="776">captain</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M333" ROLE="Arg-1">
+            <extent>
+              <charseq START="770" END="776">captain</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M332" ROLE="Arg-2">
+            <extent>
+              <charseq START="761" END="768">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R4-M601">
+          <extent>
+              <charseq START="1202" END="1223">U.S. Navy SEAL snipers</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E18-M610" ROLE="Arg-1">
+            <extent>
+              <charseq START="1202" END="1223">U.S. Navy SEAL snipers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E17-M611" ROLE="Arg-2">
+            <extent>
+              <charseq START="1202" END="1210">U.S. Navy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R5-M900">
+          <extent>
+              <charseq START="1645" END="1647">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E1-M903" ROLE="Arg-1">
+            <extent>
+              <charseq START="1645" END="1647">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E28-M902" ROLE="Arg-2">
+            <extent>
+              <charseq START="1645" END="1652">her guns</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R6-M1100">
+          <extent>
+              <charseq START="1999" END="2006">-hunting</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E31-M1113" ROLE="Arg-1">
+            <extent>
+              <charseq START="1999" END="2006">-hunting</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E30-M1110" ROLE="Arg-2">
+            <extent>
+              <charseq START="1984" END="2014">the Remote Mine-hunting Vehicle</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E51" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E52" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R7-M1600">
+          <extent>
+              <charseq START="2888" END="2893">Athens</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E51-M1618" ROLE="Arg-1">
+            <extent>
+              <charseq START="2888" END="2893">Athens</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E52-M1619" ROLE="Arg-2">
+            <extent>
+              <charseq START="2896" END="2901">Greece</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R8-M1800">
+          <extent>
+              <charseq START="3114" END="3136">The crew of the Alabama</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E8-M1800" ROLE="Arg-1">
+            <extent>
+              <charseq START="3114" END="3136">The crew of the Alabama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E11-M1802" ROLE="Arg-2">
+            <extent>
+              <charseq START="3126" END="3136">the Alabama</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="USS_Bainbridge_(DDG-96).sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E58" ROLE="Arg-1"/>
+      <relation_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-R9-M2201">
+          <extent>
+              <charseq START="3649" END="3700">US Navy SEAL sharpshooters aboard the USS Bainbridge</charseq>
+          </extent>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E58-M2204" ROLE="Arg-1">
+            <extent>
+              <charseq START="3649" END="3700">US Navy SEAL sharpshooters aboard the USS Bainbridge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M2206" ROLE="Arg-2">
+            <extent>
+              <charseq START="3649" END="3650">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV0-M200">
+          <extent>
+              <charseq START="375" END="377">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="375" END="377">War</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV1-M301">
+          <extent>
+              <charseq START="638" END="646">hijacking</charseq>
+          </extent>
+          <anchor>
+              <charseq START="638" END="646">hijacking</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV2" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13" ROLE="Person"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV2-M302">
+          <extent>
+              <charseq START="746" END="752">release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="746" END="752">release</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M331" ROLE="Person">
+          <extent>
+              <charseq START="757" END="785">the American captain Phillips</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E19" ROLE="Victim"/>
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E18" ROLE="Agent"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV3-M601">
+          <extent>
+              <charseq START="1192" END="1197">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1192" END="1197">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E19-M606" ROLE="Victim">
+          <extent>
+              <charseq START="1159" END="1185">three of the Somali pirates</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E18-M610" ROLE="Agent">
+          <extent>
+              <charseq START="1202" END="1223">U.S. Navy SEAL snipers</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV4-M701">
+          <extent>
+              <charseq START="1330" END="1335">attack</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1330" END="1335">attack</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E55" ROLE="Destination"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV5-M1600">
+          <extent>
+              <charseq START="2775" END="2781">visited</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2775" END="2781">visited</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E55-M1605" ROLE="Destination">
+          <extent>
+              <charseq START="2783" END="2932">various ports across the Mediterranean such as Valetta, Malta, A Coruña, Spain, Istanbul, Turkey, Crete, Athens, Greece, and Port Victoria, Seychelles</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV6" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13" ROLE="Person"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV6-M2001">
+          <extent>
+              <charseq START="3464" END="3470">release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3464" END="3470">release</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E13-M2013" ROLE="Person">
+          <extent>
+              <charseq START="3475" END="3493">the captive captain</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3" ROLE="Attacker"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV7-M2101">
+          <extent>
+              <charseq START="3597" END="3603">assault</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3597" END="3603">assault</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E3-M2106" ROLE="Attacker">
+          <extent>
+              <charseq START="3579" END="3580">US</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E59" ROLE="Victim"/>
+      <event_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E58" ROLE="Agent"/>
+      <event_mention ID="USS_Bainbridge_(DDG-96).sentences.sgm-EV8-M2201">
+          <extent>
+              <charseq START="3639" END="3644">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3639" END="3644">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E59-M2200" ROLE="Victim">
+          <extent>
+              <charseq START="3606" END="3632">Three of the Somali pirates</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="USS_Bainbridge_(DDG-96).sentences.sgm-E58-M2204" ROLE="Agent">
+          <extent>
+              <charseq START="3649" END="3700">US Navy SEAL sharpshooters aboard the USS Bainbridge</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

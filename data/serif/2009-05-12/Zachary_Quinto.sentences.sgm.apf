@@ -1,0 +1,1981 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Zachary_Quinto.sentences.sgm">
+  <document DOCID="Zachary_Quinto.sentences.sgm">
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="31" END="63">Zachary John Quinto (born June 2,</charseq>
+          </extent>
+          <head>
+              <charseq START="31" END="49">Zachary John Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="74" END="187">an American television actor known for his roles as Adam Kaufman on 24, Sasan on So NoTORIous, and Sylar on Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="101">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M8">
+          <extent>
+              <charseq START="113" END="115">his</charseq>
+          </extent>
+          <head>
+              <charseq START="113" END="115">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M101">
+          <extent>
+              <charseq START="190" END="192">His</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="192">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="259" END="333">Biography
+Early life
+Quinto, who is of half-Italian and half-Irish descent,</charseq>
+          </extent>
+          <head>
+              <charseq START="280" END="285">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M204">
+          <extent>
+              <charseq START="275" END="278">life</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="278">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M206">
+          <extent>
+              <charseq START="288" END="290">who</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="290">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M217">
+          <extent>
+              <charseq START="411" END="413">his</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="413">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M303">
+          <extent>
+              <charseq START="458" END="461">John</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="461">John</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M308">
+          <extent>
+              <charseq START="502" END="507">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="502" END="507">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M301">
+          <extent>
+              <charseq START="446" END="455">His father</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="455">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M305">
+          <extent>
+              <charseq START="472" END="480">a barber,</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="479">barber</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M302">
+          <extent>
+              <charseq START="446" END="448">His</charseq>
+          </extent>
+          <head>
+              <charseq START="446" END="448">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="464" END="466">who</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="466">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M400">
+          <extent>
+              <charseq START="526" END="527">He</charseq>
+          </extent>
+          <head>
+              <charseq START="526" END="527">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M410">
+          <extent>
+              <charseq START="656" END="657">he</charseq>
+          </extent>
+          <head>
+              <charseq START="656" END="657">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="678" END="690">Career
+Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="685" END="690">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M501">
+          <extent>
+              <charseq START="678" END="683">Career</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="683">Career</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M508">
+          <extent>
+              <charseq START="786" END="900">a guest star on shows including CSI, Touched By An Angel, Charmed, Six Feet Under, Lizzie McGuire, and L.A.
+Dragnet</charseq>
+          </extent>
+          <head>
+              <charseq START="794" END="797">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M601">
+          <extent>
+              <charseq START="912" END="913">he</charseq>
+          </extent>
+          <head>
+              <charseq START="912" END="913">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="994" END="999">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="999">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M801">
+          <extent>
+              <charseq START="1070" END="1075">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1075">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M809">
+          <extent>
+              <charseq START="1133" END="1160">best friend of Tori Spelling</charseq>
+          </extent>
+          <head>
+              <charseq START="1138" END="1143">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M908">
+          <extent>
+              <charseq START="1300" END="1318">serial killer Syler</charseq>
+          </extent>
+          <head>
+              <charseq START="1307" END="1312">killer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M901">
+          <extent>
+              <charseq START="1212" END="1213">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1213">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1321" END="1326">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="1321" END="1326">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1007">
+          <extent>
+              <charseq START="1398" END="1399">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1398" END="1399">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1010">
+          <extent>
+              <charseq START="1407" END="1409">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1407" END="1409">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M1201">
+          <extent>
+              <charseq START="1510" END="1515">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="1510" END="1515">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M1409">
+          <extent>
+              <charseq START="1730" END="1735">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="1730" END="1735">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M1421">
+          <extent>
+              <charseq START="1903" END="1908">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="1903" END="1908">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1412">
+          <extent>
+              <charseq START="1794" END="1796">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1794" END="1796">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1502">
+          <extent>
+              <charseq START="1924" END="1925">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1924" END="1925">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1522">
+          <extent>
+              <charseq START="2045" END="2047">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2045" END="2047">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M1609">
+          <extent>
+              <charseq START="2130" END="2135">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2135">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1710">
+          <extent>
+              <charseq START="2432" END="2433">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2432" END="2433">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="2453" END="2454">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2453" END="2454">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1812">
+          <extent>
+              <charseq START="2550" END="2552">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2550" END="2552">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M1902">
+          <extent>
+              <charseq START="2583" END="2584">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2583" END="2584">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E0-M2102">
+          <extent>
+              <charseq START="2829" END="2872">this very brief but extreme, funny character</charseq>
+          </extent>
+          <head>
+              <charseq START="2864" END="2872">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E0-M2300">
+          <extent>
+              <charseq START="2940" END="2945">Quinto</charseq>
+          </extent>
+          <head>
+              <charseq START="2940" END="2945">Quinto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E0-M2400">
+          <extent>
+              <charseq START="3047" END="3048">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3047" END="3048">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zachary John Quinto">
+              <charseq START="31" END="49">Zachary John Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="280" END="285">Quinto</charseq>
+          </name>
+          <name NAME="John">
+              <charseq START="458" END="461">John</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="502" END="507">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="685" END="690">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="994" END="999">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="1070" END="1075">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="1321" END="1326">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="1510" END="1515">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="1730" END="1735">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="1903" END="1908">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="2130" END="2135">Quinto</charseq>
+          </name>
+          <name NAME="Quinto">
+              <charseq START="2940" END="2945">Quinto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E1-M5" ROLE="GPE">
+          <extent>
+              <charseq START="77" END="84">American</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="84">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E1-M808">
+          <extent>
+              <charseq START="1124" END="1131">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1124" END="1131">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="77" END="84">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1124" END="1131">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E2-M9">
+          <extent>
+              <charseq START="126" END="137">Adam Kaufman</charseq>
+          </extent>
+          <head>
+              <charseq START="126" END="137">Adam Kaufman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E2-M609">
+          <extent>
+              <charseq START="964" END="991">computer expert Adam Kaufman</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="991">Adam Kaufman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E2-M611">
+          <extent>
+              <charseq START="973" END="978">expert</charseq>
+          </extent>
+          <head>
+              <charseq START="973" END="978">expert</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam Kaufman">
+              <charseq START="126" END="137">Adam Kaufman</charseq>
+          </name>
+          <name NAME="Adam Kaufman">
+              <charseq START="980" END="991">Adam Kaufman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E3-M13">
+          <extent>
+              <charseq START="146" END="166">Sasan on So NoTORIous</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="150">Sasan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E3-M805">
+          <extent>
+              <charseq START="1096" END="1100">Sasan</charseq>
+          </extent>
+          <head>
+              <charseq START="1096" END="1100">Sasan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sasan">
+              <charseq START="146" END="150">Sasan</charseq>
+          </name>
+          <name NAME="Sasan">
+              <charseq START="1096" END="1100">Sasan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E4-M15">
+          <extent>
+              <charseq START="155" END="166">So NoTORIous</charseq>
+          </extent>
+          <head>
+              <charseq START="155" END="166">So NoTORIous</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="So NoTORIous">
+              <charseq START="155" END="166">So NoTORIous</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E5-M18">
+          <extent>
+              <charseq START="182" END="187">Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="187">Heroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E5-M905">
+          <extent>
+              <charseq START="1234" END="1245">NBC&apos;s Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1245">Heroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E5-M2565">
+          <extent>
+              <charseq START="3550" END="3555">Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="3550" END="3555">Heroes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M104">
+          <extent>
+              <charseq START="225" END="229">Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="229">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1003">
+          <extent>
+              <charseq START="1365" END="1369">Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="1365" END="1369">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1203">
+          <extent>
+              <charseq START="1542" END="1546">Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="1542" END="1546">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1415">
+          <extent>
+              <charseq START="1821" END="1835">the young Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1835">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1509">
+          <extent>
+              <charseq START="1971" END="1981">young Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="1977" END="1981">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E6-M1506">
+          <extent>
+              <charseq START="1945" END="1981">the actor that would play young Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="1949" END="1953">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E6-M1508">
+          <extent>
+              <charseq START="1955" END="1958">that</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1958">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1610">
+          <extent>
+              <charseq START="2154" END="2158">Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="2154" END="2158">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E6-M1620">
+          <extent>
+              <charseq START="2263" END="2267">Spock</charseq>
+          </extent>
+          <head>
+              <charseq START="2263" END="2267">Spock</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spock">
+              <charseq START="225" END="229">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="1365" END="1369">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="1542" END="1546">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="1831" END="1835">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="1977" END="1981">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="2154" END="2158">Spock</charseq>
+          </name>
+          <name NAME="Spock">
+              <charseq START="2263" END="2267">Spock</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E7-M209" ROLE="GPE">
+          <extent>
+              <charseq START="320" END="324">Irish</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="324">Irish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Irish">
+              <charseq START="320" END="324">Irish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E8-M210" ROLE="LOC">
+          <extent>
+              <charseq START="347" END="356">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="356">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pittsburgh">
+              <charseq START="347" END="356">Pittsburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E9-M214">
+          <extent>
+              <charseq START="392" END="403">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="392" END="403">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania">
+              <charseq START="392" END="403">Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E10-M218">
+          <extent>
+              <charseq START="422" END="426">Margo</charseq>
+          </extent>
+          <head>
+              <charseq START="422" END="426">Margo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Margo">
+              <charseq START="422" END="426">Margo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E11-M219">
+          <extent>
+              <charseq START="433" END="443">brother Joe</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="443">Joe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E11-M220">
+          <extent>
+              <charseq START="433" END="439">brother</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="439">brother</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joe">
+              <charseq START="441" END="443">Joe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E12-M208">
+          <extent>
+              <charseq START="303" END="309">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="303" END="309">Italian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E13-M216">
+          <extent>
+              <charseq START="411" END="420">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="420">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E14-M402">
+          <extent>
+              <charseq START="544" END="579">Central Catholic High School in 1995</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="571">Central Catholic High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Central Catholic High School">
+              <charseq START="544" END="571">Central Catholic High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E15-M405">
+          <extent>
+              <charseq START="599" END="675">Carnegie Mellon University&apos;s School of Drama, from which he graduated in 1999</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="642">School of Drama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E15-M409">
+          <extent>
+              <charseq START="650" END="654">which</charseq>
+          </extent>
+          <head>
+              <charseq START="650" END="654">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="School of Drama">
+              <charseq START="628" END="642">School of Drama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E16-M407">
+          <extent>
+              <charseq START="599" END="624">Carnegie Mellon University</charseq>
+          </extent>
+          <head>
+              <charseq START="599" END="624">Carnegie Mellon University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carnegie Mellon University">
+              <charseq START="599" END="624">Carnegie Mellon University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E17-M518">
+          <extent>
+              <charseq START="869" END="882">Lizzie McGuire</charseq>
+          </extent>
+          <head>
+              <charseq START="869" END="882">Lizzie McGuire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E17-M2516">
+          <extent>
+              <charseq START="3230" END="3363">2002
+Lizzie McGuire in episode #49, &apos;Party Over Here&apos; , 2002
+Haunted, 2002
+The Agency, 2002
+Six Feet Under, 2003
+Charmed (&quot;Cat House&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="3235" END="3248">Lizzie McGuire</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lizzie McGuire">
+              <charseq START="869" END="882">Lizzie McGuire</charseq>
+          </name>
+          <name NAME="Lizzie McGuire">
+              <charseq START="3235" END="3248">Lizzie McGuire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E18-M519">
+          <extent>
+              <charseq START="889" END="900">L.A.
+Dragnet</charseq>
+          </extent>
+          <head>
+              <charseq START="889" END="900">L.A.
+Dragnet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="L.A.
+Dragnet">
+              <charseq START="889" END="900">L.A.
+Dragnet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E19-M507">
+          <extent>
+              <charseq START="758" END="767">The Others</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="767">Others</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E19-M2504">
+          <extent>
+              <charseq START="3138" END="3147">The Others</charseq>
+          </extent>
+          <head>
+              <charseq START="3142" END="3147">Others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E20-M607">
+          <extent>
+              <charseq START="946" END="948">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="946" END="948">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox">
+              <charseq START="946" END="948">Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E21-M807">
+          <extent>
+              <charseq START="1116" END="1123">Persian-</charseq>
+          </extent>
+          <head>
+              <charseq START="1116" END="1123">Persian-</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Persian-">
+              <charseq START="1116" END="1123">Persian-</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E22-M811">
+          <extent>
+              <charseq START="1148" END="1160">Tori Spelling</charseq>
+          </extent>
+          <head>
+              <charseq START="1148" END="1160">Tori Spelling</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E22-M814">
+          <extent>
+              <charseq START="1165" END="1167">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1167">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tori Spelling">
+              <charseq START="1148" END="1160">Tori Spelling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E23-M906">
+          <extent>
+              <charseq START="1234" END="1236">NBC</charseq>
+          </extent>
+          <head>
+              <charseq START="1234" END="1236">NBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NBC">
+              <charseq START="1234" END="1236">NBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E24-M910">
+          <extent>
+              <charseq START="1314" END="1318">Syler</charseq>
+          </extent>
+          <head>
+              <charseq START="1314" END="1318">Syler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Syler">
+              <charseq START="1314" END="1318">Syler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E25-M903">
+          <extent>
+              <charseq START="1222" END="1245">the cast of NBC&apos;s Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="1226" END="1229">cast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E26-M907">
+          <extent>
+              <charseq START="1250" END="1268">the quiet, insecure</charseq>
+          </extent>
+          <head>
+              <charseq START="1261" END="1268">insecure</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E27-M1011">
+          <extent>
+              <charseq START="1426" END="1438">Leonard Nimoy</charseq>
+          </extent>
+          <head>
+              <charseq START="1426" END="1438">Leonard Nimoy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E27-M1400">
+          <extent>
+              <charseq START="1649" END="1671">alongside Leonard Nimoy</charseq>
+          </extent>
+          <head>
+              <charseq START="1659" END="1671">Leonard Nimoy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E27-M1410">
+          <extent>
+              <charseq START="1751" END="1755">Nimoy</charseq>
+          </extent>
+          <head>
+              <charseq START="1751" END="1755">Nimoy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E27-M1420">
+          <extent>
+              <charseq START="1845" END="1851">Leonard</charseq>
+          </extent>
+          <head>
+              <charseq START="1845" END="1851">Leonard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E27-M1401">
+          <extent>
+              <charseq START="1649" END="1657">alongside</charseq>
+          </extent>
+          <head>
+              <charseq START="1649" END="1657">alongside</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E27-M2406">
+          <extent>
+              <charseq START="3103" END="3115">Leonard Nimoy</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3115">Leonard Nimoy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leonard Nimoy">
+              <charseq START="1426" END="1438">Leonard Nimoy</charseq>
+          </name>
+          <name NAME="Leonard Nimoy">
+              <charseq START="1659" END="1671">Leonard Nimoy</charseq>
+          </name>
+          <name NAME="Nimoy">
+              <charseq START="1751" END="1755">Nimoy</charseq>
+          </name>
+          <name NAME="Leonard">
+              <charseq START="1845" END="1851">Leonard</charseq>
+          </name>
+          <name NAME="Leonard Nimoy">
+              <charseq START="3103" END="3115">Leonard Nimoy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E28-M1200">
+          <extent>
+              <charseq START="1489" END="1494">Online</charseq>
+          </extent>
+          <head>
+              <charseq START="1489" END="1494">Online</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Online">
+              <charseq START="1489" END="1494">Online</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E30-M1602">
+          <extent>
+              <charseq START="2091" END="2120">Star Trek director J.J. Abrams</charseq>
+          </extent>
+          <head>
+              <charseq START="2110" END="2120">J.J. Abrams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E30-M1605">
+          <extent>
+              <charseq START="2101" END="2108">director</charseq>
+          </extent>
+          <head>
+              <charseq START="2101" END="2108">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="J.J. Abrams">
+              <charseq START="2110" END="2120">J.J. Abrams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E31-M1611">
+          <extent>
+              <charseq START="2162" END="2168">Zachary</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2168">Zachary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zachary">
+              <charseq START="2162" END="2168">Zachary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E32-M1918">
+          <extent>
+              <charseq START="2723" END="2740">actress Coley Sohn</charseq>
+          </extent>
+          <head>
+              <charseq START="2731" END="2740">Coley Sohn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E32-M1917">
+          <extent>
+              <charseq START="2715" END="2720">friend</charseq>
+          </extent>
+          <head>
+              <charseq START="2715" END="2720">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E32-M1913">
+          <extent>
+              <charseq START="2692" END="2741">my former landlady and friend [actress Coley Sohn]</charseq>
+          </extent>
+          <head>
+              <charseq START="2702" END="2709">landlady</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E32-M1915">
+          <extent>
+              <charseq START="2692" END="2709">my former landlady</charseq>
+          </extent>
+          <head>
+              <charseq START="2702" END="2709">landlady</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E32-M2000">
+          <extent>
+              <charseq START="2744" END="2746">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2744" END="2746">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Coley Sohn">
+              <charseq START="2731" END="2740">Coley Sohn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E34-M2309">
+          <extent>
+              <charseq START="3028" END="3044">Justin Timberlake</charseq>
+          </extent>
+          <head>
+              <charseq START="3028" END="3044">Justin Timberlake</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Justin Timberlake">
+              <charseq START="3028" END="3044">Justin Timberlake</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E35-M2405">
+          <extent>
+              <charseq START="3088" END="3097">Chris Pine</charseq>
+          </extent>
+          <head>
+              <charseq START="3088" END="3097">Chris Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Pine">
+              <charseq START="3088" END="3097">Chris Pine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E36-M2529">
+          <extent>
+              <charseq START="3305" END="3314">The Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="3309" END="3314">Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E36-M2522">
+          <extent>
+              <charseq START="3266" END="3281">&apos;Party Over Here</charseq>
+          </extent>
+          <head>
+              <charseq START="3267" END="3271">Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Agency">
+              <charseq START="3309" END="3314">Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E37-M2538" ROLE="LOC">
+          <extent>
+              <charseq START="3366" END="3378">2003
+Miracles</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3378">Miracles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miracles">
+              <charseq START="3371" END="3378">Miracles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E38" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E38-M2543" ROLE="LOC">
+          <extent>
+              <charseq START="3404" END="3433">2003-2004 (23 episodes)
+Hawaii</charseq>
+          </extent>
+          <head>
+              <charseq START="3428" END="3433">Hawaii</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hawaii">
+              <charseq START="3428" END="3433">Hawaii</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E39-M2547">
+          <extent>
+              <charseq START="3436" END="3455">2004
+Joan of Arcadia</charseq>
+          </extent>
+          <head>
+              <charseq START="3441" END="3444">Joan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joan">
+              <charseq START="3441" END="3444">Joan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E40-M2551">
+          <extent>
+              <charseq START="3449" END="3455">Arcadia</charseq>
+          </extent>
+          <head>
+              <charseq START="3449" END="3455">Arcadia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Zachary_Quinto.sentences.sgm-E40-M2524">
+          <extent>
+              <charseq START="3278" END="3281">Here</charseq>
+          </extent>
+          <head>
+              <charseq START="3278" END="3281">Here</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arcadia">
+              <charseq START="3449" END="3455">Arcadia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E41" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E41-M2555" ROLE="LOC">
+          <extent>
+              <charseq START="3478" END="3497">2005
+Crossing Jordan</charseq>
+          </extent>
+          <head>
+              <charseq START="3492" END="3497">Jordan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E41-M2557">
+          <extent>
+              <charseq START="3483" END="3490">Crossing</charseq>
+          </extent>
+          <head>
+              <charseq START="3483" END="3490">Crossing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jordan">
+              <charseq START="3492" END="3497">Jordan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E42-M2559">
+          <extent>
+              <charseq START="3500" END="3509">2006
+Twins</charseq>
+          </extent>
+          <head>
+              <charseq START="3505" END="3509">Twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twins">
+              <charseq START="3505" END="3509">Twins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E43-M2566">
+          <extent>
+              <charseq START="3558" END="3583">2006–present
+Robot Chicken</charseq>
+          </extent>
+          <head>
+              <charseq START="3571" END="3583">Robot Chicken</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robot Chicken">
+              <charseq START="3571" END="3583">Robot Chicken</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E44-M2571">
+          <extent>
+              <charseq START="3602" END="3617">2009
+Boutonniere</charseq>
+          </extent>
+          <head>
+              <charseq START="3607" END="3617">Boutonniere</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boutonniere">
+              <charseq START="3607" END="3617">Boutonniere</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E45-M2580">
+          <extent>
+              <charseq START="3666" END="3677">TheStarScoop</charseq>
+          </extent>
+          <head>
+              <charseq START="3666" END="3677">TheStarScoop</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TheStarScoop">
+              <charseq START="3666" END="3677">TheStarScoop</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Zachary_Quinto.sentences.sgm-E46-M2581">
+          <extent>
+              <charseq START="3680" END="3720">January 2007
+Zachary Quinto Official Site</charseq>
+          </extent>
+          <head>
+              <charseq START="3693" END="3720">Zachary Quinto Official Site</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zachary Quinto Official Site">
+              <charseq START="3693" END="3720">Zachary Quinto Official Site</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E47" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E47-M2513">
+          <extent>
+              <charseq START="3213" END="3227">2002
+Off Centre</charseq>
+          </extent>
+          <head>
+              <charseq START="3222" END="3227">Centre</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Zachary_Quinto.sentences.sgm-E48" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Zachary_Quinto.sentences.sgm-E48-M2535">
+          <extent>
+              <charseq START="3353" END="3361">Cat House</charseq>
+          </extent>
+          <head>
+              <charseq START="3357" END="3361">House</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T0" VAL="1977-06-02">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="57" END="68">June 2, 1977</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T1" VAL="2009">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="238" END="241">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T2" VAL="P7Y">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="513" END="523">7 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T3" VAL="1995">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="576" END="579">1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T4" VAL="1999">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="672" END="675">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T5" VAL="2003">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="906" END="909">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T6">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1028" END="1058">the third season episodes of 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T7" VAL="2006">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1064" END="1067">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T8" VAL="P1Y">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1195" END="1209">Later that year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T9" VAL="2006">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1376" END="1379">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T10" VAL="2007-07-23">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1444" END="1456">July 23, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T11" VAL="2007-07-26">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1602" END="1614">July 26, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T12" VAL="2007">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1624" END="1627">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T13" VAL="2008-09">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2065" END="2078">September 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T14" VAL="2009">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2630" END="2633">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T15" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2695" END="2700">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T16" VAL="TNI">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2969" END="2982">Saturday Night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T17" VAL="2009-05-09">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2996" END="3006">May 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T18" VAL="2000">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3150" END="3153">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T19" VAL="2001">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3176" END="3179">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T20" VAL="2002">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3213" END="3216">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T21" VAL="2002">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3230" END="3233">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T22" VAL="2002">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3286" END="3289">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T23" VAL="2002">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3300" END="3303">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T24" VAL="2002">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3317" END="3320">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T25" VAL="2003">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="3338" END="3341">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T26" VAL="2003">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="3366" END="3369">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T27" VAL="2003T20:04">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="3381" END="3401">2003
+Dragnet, 2004
+24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T28" VAL="2004">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="3436" END="3439">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T29" VAL="2004">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="3458" END="3461">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T30" VAL="2005">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="3478" END="3481">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T31" VAL="2006">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="3500" END="3503">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T32" VAL="2006">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="3512" END="3515">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T33" VAL="2006">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="3531" END="3534">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T34" VAL="2008">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="3586" END="3589">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T35" VAL="2009">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="3602" END="3605">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T36" VAL="2009">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="3620" END="3623">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Zachary_Quinto.sentences.sgm-T37" VAL="2007-01">
+        <timex2_mention ID="Zachary_Quinto.sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="3680" END="3691">January 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="74" END="187">an American television actor known for his roles as Adam Kaufman on 24, Sasan on So NoTORIous, and Sylar on Heroes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="74" END="187">an American television actor known for his roles as Adam Kaufman on 24, Sasan on So NoTORIous, and Sylar on Heroes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E1-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="77" END="84">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R0-M800">
+          <extent>
+              <charseq START="1133" END="1160">best friend of Tori Spelling</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1133" END="1160">best friend of Tori Spelling</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E1-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="1124" END="1131">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="259" END="333">Biography
+Early life
+Quinto, who is of half-Italian and half-Irish descent,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="259" END="333">Biography
+Early life
+Quinto, who is of half-Italian and half-Irish descent,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E8-M210" ROLE="Arg-2">
+            <extent>
+              <charseq START="347" END="356">Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R2-M201">
+          <extent>
+              <charseq START="411" END="413">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M217" ROLE="Arg-1">
+            <extent>
+              <charseq START="411" END="413">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E13-M216" ROLE="Arg-2">
+            <extent>
+              <charseq START="411" END="420">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R3-M400">
+          <extent>
+              <charseq START="526" END="527">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="526" END="527">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E14-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="544" END="579">Central Catholic High School in 1995</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R4-M401">
+          <extent>
+              <charseq START="599" END="675">Carnegie Mellon University&apos;s School of Drama, from which he graduated in 1999</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E15-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="599" END="675">Carnegie Mellon University&apos;s School of Drama, from which he graduated in 1999</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E16-M407" ROLE="Arg-2">
+            <extent>
+              <charseq START="599" END="624">Carnegie Mellon University</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E22" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R5-M801">
+          <extent>
+              <charseq START="1133" END="1160">best friend of Tori Spelling</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1133" END="1160">best friend of Tori Spelling</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E22-M811" ROLE="Arg-2">
+            <extent>
+              <charseq START="1148" END="1160">Tori Spelling</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E23" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R6-M900">
+          <extent>
+              <charseq START="1234" END="1245">NBC&apos;s Heroes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E5-M905" ROLE="Arg-1">
+            <extent>
+              <charseq START="1234" END="1245">NBC&apos;s Heroes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E23-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1234" END="1236">NBC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E36" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R8-M2500">
+          <extent>
+              <charseq START="3230" END="3363">2002
+Lizzie McGuire in episode #49, &apos;Party Over Here&apos; , 2002
+Haunted, 2002
+The Agency, 2002
+Six Feet Under, 2003
+Charmed (&quot;Cat House&quot;)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E17-M2516" ROLE="Arg-1">
+            <extent>
+              <charseq START="3230" END="3363">2002
+Lizzie McGuire in episode #49, &apos;Party Over Here&apos; , 2002
+Haunted, 2002
+The Agency, 2002
+Six Feet Under, 2003
+Charmed (&quot;Cat House&quot;)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E36-M2522" ROLE="Arg-2">
+            <extent>
+              <charseq START="3266" END="3281">&apos;Party Over Here</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Zachary_Quinto.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Zachary_Quinto.sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Zachary_Quinto.sentences.sgm-R9-M2501">
+          <extent>
+              <charseq START="3436" END="3455">2004
+Joan of Arcadia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E39-M2547" ROLE="Arg-1">
+            <extent>
+              <charseq START="3436" END="3455">2004
+Joan of Arcadia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Zachary_Quinto.sentences.sgm-E40-M2551" ROLE="Arg-2">
+            <extent>
+              <charseq START="3449" END="3455">Arcadia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Zachary_Quinto.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Zachary_Quinto.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_argument REFID="Zachary_Quinto.sentences.sgm-E8" ROLE="Place"/>
+      <event_mention ID="Zachary_Quinto.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="52" END="55">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="52" END="55">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="31" END="63">Zachary John Quinto (born June 2,</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Zachary_Quinto.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="57" END="68">June 2, 1977</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Zachary_Quinto.sentences.sgm-EV0-M201">
+          <extent>
+              <charseq START="339" END="342">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="339" END="342">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Zachary_Quinto.sentences.sgm-E8-M210" ROLE="Place">
+          <extent>
+              <charseq START="347" END="356">Pittsburgh</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M200" ROLE="Person">
+          <extent>
+              <charseq START="259" END="333">Biography
+Early life
+Quinto, who is of half-Italian and half-Irish descent,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Zachary_Quinto.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Zachary_Quinto.sentences.sgm-E0" ROLE="Victim"/>
+      <event_mention ID="Zachary_Quinto.sentences.sgm-EV1-M301">
+          <extent>
+              <charseq START="482" END="485">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="482" END="485">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Zachary_Quinto.sentences.sgm-E0-M303" ROLE="Victim">
+          <extent>
+              <charseq START="458" END="461">John</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

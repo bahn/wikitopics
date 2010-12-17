@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Thanksgiving.sentences.sgm">
+  <document DOCID="Thanksgiving.sentences.sgm">
+
+    <entity ID="Thanksgiving.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E0-M205" ROLE="LOC">
+          <extent>
+              <charseq START="202" END="207">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="202" END="207">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E0-M510" ROLE="LOC">
+          <extent>
+              <charseq START="688" END="693">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="688" END="693">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E0-M701">
+          <extent>
+              <charseq START="791" END="796">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="791" END="796">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E0-M805" ROLE="LOC">
+          <extent>
+              <charseq START="925" END="930">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="930">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="202" END="207">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="688" END="693">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="791" END="796">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="925" END="930">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E1-M206" ROLE="LOC">
+          <extent>
+              <charseq START="213" END="229">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="217" END="229">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E1-M505" ROLE="LOC">
+          <extent>
+              <charseq START="631" END="647">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="647">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E1-M702">
+          <extent>
+              <charseq START="798" END="810">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="810">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E1-M806" ROLE="LOC">
+          <extent>
+              <charseq START="936" END="952">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="952">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E1-M906">
+          <extent>
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="217" END="229">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="635" END="647">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="798" END="810">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="940" END="952">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E2-M406">
+          <extent>
+              <charseq START="419" END="442">Saint Augustine, Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="419" END="433">Saint Augustine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saint Augustine">
+              <charseq START="419" END="433">Saint Augustine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E3-M408" ROLE="LOC">
+          <extent>
+              <charseq START="436" END="442">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="442">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="436" END="442">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E4-M412">
+          <extent>
+              <charseq START="529" END="547">Plymouth Plantation</charseq>
+          </extent>
+          <head>
+              <charseq START="529" END="547">Plymouth Plantation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Plymouth Plantation">
+              <charseq START="529" END="547">Plymouth Plantation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E5-M605">
+          <extent>
+              <charseq START="763" END="776">family members</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="776">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E6-M606">
+          <extent>
+              <charseq START="763" END="768">family</charseq>
+          </extent>
+          <head>
+              <charseq START="763" END="768">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E7-M607">
+          <extent>
+              <charseq START="782" END="788">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="782" END="788">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E8-M700">
+          <extent>
+              <charseq START="791" END="818">Canada
+United States
+Grenada</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="818">Grenada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E8-M704">
+          <extent>
+              <charseq START="823" END="829">Grenada</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="829">Grenada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E8-M917" ROLE="GPE">
+          <extent>
+              <charseq START="1141" END="1148">Grenadan</charseq>
+          </extent>
+          <head>
+              <charseq START="1141" END="1148">Grenadan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E8-M907" ROLE="GPE">
+          <extent>
+              <charseq START="1075" END="1092">the island in 1983</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1084">island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grenada">
+              <charseq START="812" END="818">Grenada</charseq>
+          </name>
+          <name NAME="Grenada">
+              <charseq START="823" END="829">Grenada</charseq>
+          </name>
+          <name NAME="Grenadan">
+              <charseq START="1141" END="1148">Grenadan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E9-M916">
+          <extent>
+              <charseq START="1141" END="1178">Grenadan Prime Minister Maurice Bishop</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1178">Maurice Bishop</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E9-M919">
+          <extent>
+              <charseq START="1156" END="1163">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1156" END="1163">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maurice Bishop">
+              <charseq START="1165" END="1178">Maurice Bishop</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E10-M1005">
+          <extent>
+              <charseq START="1231" END="1236">Leiden</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1236">Leiden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E10-M1102" ROLE="LOC">
+          <extent>
+              <charseq START="1292" END="1297">Leiden</charseq>
+          </extent>
+          <head>
+              <charseq START="1292" END="1297">Leiden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leiden">
+              <charseq START="1231" END="1236">Leiden</charseq>
+          </name>
+          <name NAME="Leiden">
+              <charseq START="1292" END="1297">Leiden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E11-M1004">
+          <extent>
+              <charseq START="1231" END="1265">Leiden’s 15th century Gothic church</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1265">church</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E12-M1100">
+          <extent>
+              <charseq START="1268" END="1279">The Pilgrims</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1279">Pilgrims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving.sentences.sgm-E12-M1105">
+          <extent>
+              <charseq START="1302" END="1306">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1306">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pilgrims">
+              <charseq START="1272" END="1279">Pilgrims</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E13-M1106" ROLE="LOC">
+          <extent>
+              <charseq START="1315" END="1326">the Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="1319" END="1326">Americas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Americas">
+              <charseq START="1319" END="1326">Americas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving.sentences.sgm-E14-M1200">
+          <extent>
+              <charseq START="1329" END="1333">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1329" END="1333">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="India">
+              <charseq START="1329" END="1333">India</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E15-M1205">
+          <extent>
+              <charseq START="1391" END="1395">india</charseq>
+          </extent>
+          <head>
+              <charseq START="1391" END="1395">india</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E16-M1206">
+          <extent>
+              <charseq START="1400" END="1414">Dhanyavad divas</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1414">divas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E16-M1305">
+          <extent>
+              <charseq START="1494" END="1532">all those important individuals in his/</charseq>
+          </extent>
+          <head>
+              <charseq START="1514" END="1524">individuals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving.sentences.sgm-E16-M1308">
+          <extent>
+              <charseq START="1529" END="1531">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1529" END="1531">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving.sentences.sgm-E16-M1310">
+          <extent>
+              <charseq START="1533" END="1535">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1533" END="1535">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving.sentences.sgm-E16-M1312">
+          <extent>
+              <charseq START="1547" END="1548">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1547" END="1548">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving.sentences.sgm-E16-M1314">
+          <extent>
+              <charseq START="1550" END="1552">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1552">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving.sentences.sgm-E16-M1406">
+          <extent>
+              <charseq START="1666" END="1677">word &apos;divas&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="1672" END="1676">divas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T0" VAL="P1D">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="29" END="44">Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T1" VAL="XXXX-09-08">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="386" END="396">September 8</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="415" END="417">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T3" VAL="1621">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="553" END="556">1621</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T4">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="559" END="563">Today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T5">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="566" END="577">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T6">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="607" END="626">Thursday of November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T7" VAL="XXXX-XX-02">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="656" END="683">the second Monday of October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T8">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="696" END="707">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T9">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="727" END="734">this day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T10" VAL="P1D">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="862" END="877">Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T11" VAL="XXXX-10-25">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="882" END="891">25 October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T12" VAL="1983">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1089" END="1092">1983</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T13" VAL="P1D">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1193" END="1210">A Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T14" VAL="14">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1231" END="1251">Leiden’s 15th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T15" VAL="XXXX-09-19">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="1437" END="1460">19th September each year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T16">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="1466" END="1473">this day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T17">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="1602" END="1606">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T18" VAL="P1D">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="1685" END="1689">&apos;day&apos;</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving.sentences.sgm-T19" VAL="P1D">
+        <timex2_mention ID="Thanksgiving.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="1718" END="1733">Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Thanksgiving.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving.sentences.sgm-R0-M400">
+          <extent>
+              <charseq START="419" END="442">Saint Augustine, Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving.sentences.sgm-E2-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="419" END="442">Saint Augustine, Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving.sentences.sgm-E3-M408" ROLE="Arg-2">
+            <extent>
+              <charseq START="436" END="442">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving.sentences.sgm-R1-M900">
+          <extent>
+              <charseq START="1156" END="1163">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving.sentences.sgm-E9-M919" ROLE="Arg-1">
+            <extent>
+              <charseq START="1156" END="1163">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving.sentences.sgm-E8-M917" ROLE="Arg-2">
+            <extent>
+              <charseq START="1141" END="1148">Grenadan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Thanksgiving.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving.sentences.sgm-E1" ROLE="Attacker"/>
+      <event_argument REFID="Thanksgiving.sentences.sgm-T12" ROLE="Time-Within"/>
+      <event_mention ID="Thanksgiving.sentences.sgm-EV0-M900">
+          <extent>
+              <charseq START="1063" END="1070">invasion</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1063" END="1070">invasion</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving.sentences.sgm-E1-M906" ROLE="Attacker">
+          <extent>
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Thanksgiving.sentences.sgm-T12-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1089" END="1092">1983</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving.sentences.sgm-EV1" TYPE="Justice" SUBTYPE="Execute" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving.sentences.sgm-E9" ROLE="Person"/>
+      <event_mention ID="Thanksgiving.sentences.sgm-EV1-M901">
+          <extent>
+              <charseq START="1128" END="1136">execution</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1128" END="1136">execution</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving.sentences.sgm-E9-M916" ROLE="Person">
+          <extent>
+              <charseq START="1141" END="1178">Grenadan Prime Minister Maurice Bishop</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

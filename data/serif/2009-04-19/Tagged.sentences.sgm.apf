@@ -1,0 +1,1147 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Tagged.sentences.sgm">
+  <document DOCID="Tagged.sentences.sgm">
+
+    <entity ID="Tagged.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="23" END="32">Tagged.com</charseq>
+          </extent>
+          <head>
+              <charseq START="23" END="32">Tagged.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="158" END="167">Tagged.com</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="167">Tagged.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E0-M1801">
+          <extent>
+              <charseq START="2120" END="2129">Tagged.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2120" END="2129">Tagged.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E0-M1811">
+          <extent>
+              <charseq START="2239" END="2248">Tagged.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2239" END="2248">Tagged.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tagged.com">
+              <charseq START="23" END="32">Tagged.com</charseq>
+          </name>
+          <name NAME="Tagged.com">
+              <charseq START="158" END="167">Tagged.com</charseq>
+          </name>
+          <name NAME="Tagged.com">
+              <charseq START="2120" END="2129">Tagged.com</charseq>
+          </name>
+          <name NAME="Tagged.com">
+              <charseq START="2239" END="2248">Tagged.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E1-M104">
+          <extent>
+              <charseq START="84" END="90">Harvard</charseq>
+          </extent>
+          <head>
+              <charseq START="84" END="90">Harvard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E1-M403">
+          <extent>
+              <charseq START="375" END="380">school</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="380">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harvard">
+              <charseq START="84" END="90">Harvard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E2-M106">
+          <extent>
+              <charseq START="120" END="129">Greg Tseng</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="129">Greg Tseng</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E2-M103">
+          <extent>
+              <charseq START="84" END="100">Harvard graduates</charseq>
+          </extent>
+          <head>
+              <charseq START="92" END="100">graduates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E2-M1601">
+          <extent>
+              <charseq START="1859" END="1868">Greg Tseng</charseq>
+          </extent>
+          <head>
+              <charseq START="1859" END="1868">Greg Tseng</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E2-M1605">
+          <extent>
+              <charseq START="1889" END="1891">CEO</charseq>
+          </extent>
+          <head>
+              <charseq START="1889" END="1891">CEO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greg Tseng">
+              <charseq START="120" END="129">Greg Tseng</charseq>
+          </name>
+          <name NAME="Greg Tseng">
+              <charseq START="1859" END="1868">Greg Tseng</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E3-M107">
+          <extent>
+              <charseq START="135" END="155">Johann Schleier-Smith</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="155">Johann Schleier-Smith</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johann Schleier-Smith">
+              <charseq START="135" END="155">Johann Schleier-Smith</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M202">
+          <extent>
+              <charseq START="201" END="211">Tagged Inc.</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="211">Tagged Inc.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M300">
+          <extent>
+              <charseq START="237" END="247">Tagged Inc.</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="247">Tagged Inc.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E4-M500">
+          <extent>
+              <charseq START="453" END="463">The company</charseq>
+          </extent>
+          <head>
+              <charseq START="457" END="463">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E4-M602">
+          <extent>
+              <charseq START="518" END="520">its</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="520">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1002">
+          <extent>
+              <charseq START="990" END="995">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="995">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1200">
+          <extent>
+              <charseq START="1222" END="1239">Controversy
+Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1234" END="1239">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1221">
+          <extent>
+              <charseq START="1437" END="1442">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1437" END="1442">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E4-M1201">
+          <extent>
+              <charseq START="1222" END="1232">Controversy</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1232">Controversy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E4-M1207">
+          <extent>
+              <charseq START="1297" END="1298">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1297" END="1298">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E4-M1214">
+          <extent>
+              <charseq START="1344" END="1345">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1345">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E4-M1217">
+          <extent>
+              <charseq START="1363" END="1367">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1363" END="1367">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1306">
+          <extent>
+              <charseq START="1509" END="1514">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1514">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1310">
+          <extent>
+              <charseq START="1583" END="1588">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1583" END="1588">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E4-M1300">
+          <extent>
+              <charseq START="1445" END="1448">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1445" END="1448">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1507">
+          <extent>
+              <charseq START="1769" END="1774">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1769" END="1774">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E4-M1600">
+          <extent>
+              <charseq START="1851" END="1856">Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1851" END="1856">Tagged</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tagged Inc.">
+              <charseq START="201" END="211">Tagged Inc.</charseq>
+          </name>
+          <name NAME="Tagged Inc.">
+              <charseq START="237" END="247">Tagged Inc.</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="990" END="995">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1234" END="1239">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1437" END="1442">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1509" END="1514">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1583" END="1588">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1769" END="1774">Tagged</charseq>
+          </name>
+          <name NAME="Tagged">
+              <charseq START="1851" END="1856">Tagged</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E5-M304">
+          <extent>
+              <charseq START="288" END="336">Silicon Valley venture capital firm Mayfield Fund</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="336">Mayfield Fund</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E5-M308">
+          <extent>
+              <charseq START="319" END="322">firm</charseq>
+          </extent>
+          <head>
+              <charseq START="319" END="322">firm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mayfield Fund">
+              <charseq START="324" END="336">Mayfield Fund</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E6-M305">
+          <extent>
+              <charseq START="288" END="301">Silicon Valley</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="301">Silicon Valley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silicon Valley">
+              <charseq START="288" END="301">Silicon Valley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E7-M402" ROLE="GPE">
+          <extent>
+              <charseq START="367" END="368">US</charseq>
+          </extent>
+          <head>
+              <charseq START="367" END="368">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="367" END="368">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E8-M401">
+          <extent>
+              <charseq START="367" END="389">US high school students</charseq>
+          </extent>
+          <head>
+              <charseq START="382" END="389">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E9-M404">
+          <extent>
+              <charseq START="415" END="450">all users worldwide age 13 and older</charseq>
+          </extent>
+          <head>
+              <charseq START="419" END="423">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E9-M601">
+          <extent>
+              <charseq START="518" END="526">its users</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="526">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E10-M612">
+          <extent>
+              <charseq START="704" END="710">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="710">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E10-M1304">
+          <extent>
+              <charseq START="1490" END="1514">friends already on Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1496">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E10-M1307">
+          <extent>
+              <charseq START="1556" END="1588">friends who are not yet on Tagged</charseq>
+          </extent>
+          <head>
+              <charseq START="1556" END="1562">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E10-M1309">
+          <extent>
+              <charseq START="1564" END="1566">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1566">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E11-M705">
+          <extent>
+              <charseq START="774" END="780">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="774" END="780">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YouTube">
+              <charseq START="774" END="780">YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E12-M805">
+          <extent>
+              <charseq START="870" END="880">PhotoBucket</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="880">PhotoBucket</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PhotoBucket">
+              <charseq START="870" END="880">PhotoBucket</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E13-M806">
+          <extent>
+              <charseq START="883" END="887">Meebo</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="887">Meebo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Meebo">
+              <charseq START="883" END="887">Meebo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E14-M807">
+          <extent>
+              <charseq START="890" END="893">Razz</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="893">Razz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Razz">
+              <charseq START="890" END="893">Razz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E15-M808">
+          <extent>
+              <charseq START="899" END="903">Jangl</charseq>
+          </extent>
+          <head>
+              <charseq START="899" END="903">Jangl</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jangl">
+              <charseq START="899" END="903">Jangl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E16-M800">
+          <extent>
+              <charseq START="827" END="844">Other partnerships</charseq>
+          </extent>
+          <head>
+              <charseq START="833" END="844">partnerships</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E17-M902">
+          <extent>
+              <charseq START="947" END="973">70 million registered users</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="973">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E17-M1205">
+          <extent>
+              <charseq START="1260" END="1272">whereby users</charseq>
+          </extent>
+          <head>
+              <charseq START="1268" END="1272">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E17-M1211">
+          <extent>
+              <charseq START="1305" END="1309">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1305" END="1309">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Tagged.sentences.sgm-E17-M1220">
+          <extent>
+              <charseq START="1399" END="1403">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1399" END="1403">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E18-M1005">
+          <extent>
+              <charseq START="1033" END="1078">Horizon Technology Finance and Leader Ventures</charseq>
+          </extent>
+          <head>
+              <charseq START="1033" END="1078">Horizon Technology Finance and Leader Ventures</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Horizon Technology Finance and Leader Ventures">
+              <charseq START="1033" END="1078">Horizon Technology Finance and Leader Ventures</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E19-M1101">
+          <extent>
+              <charseq START="1099" END="1121">Social Networking Watch</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1121">Social Networking Watch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Social Networking Watch">
+              <charseq START="1099" END="1121">Social Networking Watch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E20-M1106">
+          <extent>
+              <charseq START="1186" END="1192">Neilsen</charseq>
+          </extent>
+          <head>
+              <charseq START="1186" END="1192">Neilsen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Neilsen">
+              <charseq START="1186" END="1192">Neilsen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E21-M1107">
+          <extent>
+              <charseq START="1199" END="1206">Comscore</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1206">Comscore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Comscore">
+              <charseq START="1199" END="1206">Comscore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E22-M1219">
+          <extent>
+              <charseq START="1399" END="1420">their existing friends</charseq>
+          </extent>
+          <head>
+              <charseq START="1414" END="1420">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E23-M1405">
+          <extent>
+              <charseq START="1660" END="1669">some users</charseq>
+          </extent>
+          <head>
+              <charseq START="1665" END="1669">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E24-M1501">
+          <extent>
+              <charseq START="1695" END="1703">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="1695" END="1703">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="1695" END="1703">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E25-M1508">
+          <extent>
+              <charseq START="1777" END="1784">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1777" END="1784">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Facebook">
+              <charseq START="1777" END="1784">Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E26-M1509">
+          <extent>
+              <charseq START="1787" END="1794">LinkedIn</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1794">LinkedIn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LinkedIn">
+              <charseq START="1787" END="1794">LinkedIn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E27-M1510">
+          <extent>
+              <charseq START="1797" END="1800">Bebo</charseq>
+          </extent>
+          <head>
+              <charseq START="1797" END="1800">Bebo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bebo">
+              <charseq START="1797" END="1800">Bebo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E28-M1606">
+          <extent>
+              <charseq START="1896" END="1936">Internet incubator Jumpstart Technologies</charseq>
+          </extent>
+          <head>
+              <charseq START="1915" END="1936">Jumpstart Technologies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E28-M1608">
+          <extent>
+              <charseq START="1905" END="1913">incubator</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1913">incubator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E28-M1703">
+          <extent>
+              <charseq START="1954" END="1975">Jumpstart Technologies</charseq>
+          </extent>
+          <head>
+              <charseq START="1954" END="1975">Jumpstart Technologies</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jumpstart Technologies">
+              <charseq START="1915" END="1936">Jumpstart Technologies</charseq>
+          </name>
+          <name NAME="Jumpstart Technologies">
+              <charseq START="1954" END="1975">Jumpstart Technologies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E29-M1602">
+          <extent>
+              <charseq START="1874" END="1936">Co-Founder and CEO of Internet incubator Jumpstart Technologies</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1883">Co-Founder</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E30-M1704">
+          <extent>
+              <charseq START="1990" END="1996">the FTC</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="1996">FTC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FTC">
+              <charseq START="1994" END="1996">FTC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E31" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E31-M1802" ROLE="LOC">
+          <extent>
+              <charseq START="2151" END="2168">the State of Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="2155" END="2168">State of Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E31-M1816" ROLE="LOC">
+          <extent>
+              <charseq START="2289" END="2306">the State of Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="2293" END="2306">State of Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State of Qatar">
+              <charseq START="2155" END="2168">State of Qatar</charseq>
+          </name>
+          <name NAME="State of Qatar">
+              <charseq START="2293" END="2306">State of Qatar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Tagged.sentences.sgm-E32-M1804">
+          <extent>
+              <charseq START="2173" END="2189">the only ISP Qtel</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2189">ISP Qtel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ISP Qtel">
+              <charseq START="2182" END="2189">ISP Qtel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Tagged.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Tagged.sentences.sgm-E33-M1810">
+          <extent>
+              <charseq START="2226" END="2235">the public</charseq>
+          </extent>
+          <head>
+              <charseq START="2230" END="2235">public</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <value ID="Tagged.sentences.sgm-V0" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Tagged.sentences.sgm-V0-M1">
+            <extent>
+              <charseq START="23" END="32">Tagged.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Tagged.sentences.sgm-V1" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Tagged.sentences.sgm-V1-M1">
+            <extent>
+              <charseq START="158" END="167">Tagged.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Tagged.sentences.sgm-T2" VAL="2004-10">
+        <timex2_mention ID="Tagged.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="185" END="196">October 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Tagged.sentences.sgm-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Tagged.sentences.sgm-V3-M1">
+            <extent>
+              <charseq START="260" END="269">$7 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Tagged.sentences.sgm-T4" VAL="2007" MOD="START">
+        <timex2_mention ID="Tagged.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="490" END="499">early 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Tagged.sentences.sgm-T5" VAL="2008-07">
+        <timex2_mention ID="Tagged.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="912" END="920">July 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Tagged.sentences.sgm-T6" VAL="2008" MOD="END">
+        <timex2_mention ID="Tagged.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="979" END="987">late 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Tagged.sentences.sgm-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Tagged.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="1004" END="1013">$5 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Tagged.sentences.sgm-T8" VAL="2008-12">
+        <timex2_mention ID="Tagged.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1084" END="1096">December 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Tagged.sentences.sgm-V9" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Tagged.sentences.sgm-V9-M1">
+            <extent>
+              <charseq START="1137" END="1146">Tagged.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Tagged.sentences.sgm-T10" VAL="2008-03">
+        <timex2_mention ID="Tagged.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1684" END="1693">March 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Tagged.sentences.sgm-T11" VAL="2006-03">
+        <timex2_mention ID="Tagged.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1942" END="1951">March 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Tagged.sentences.sgm-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Tagged.sentences.sgm-V12-M1">
+            <extent>
+              <charseq START="2058" END="2065">$900,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Tagged.sentences.sgm-T13" VAL="2009-02">
+        <timex2_mention ID="Tagged.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2105" END="2117">February 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Tagged.sentences.sgm-V14" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Tagged.sentences.sgm-V14-M1">
+            <extent>
+              <charseq START="2120" END="2129">Tagged.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Tagged.sentences.sgm-V15" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Tagged.sentences.sgm-V15-M1">
+            <extent>
+              <charseq START="2239" END="2248">Tagged.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Tagged.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="84" END="100">Harvard graduates</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E2-M103" ROLE="Arg-1">
+            <extent>
+              <charseq START="84" END="100">Harvard graduates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E1-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="84" END="90">Harvard</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R1-M400">
+          <extent>
+              <charseq START="367" END="389">US high school students</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E8-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="367" END="389">US high school students</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E7-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="367" END="368">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R2-M401">
+          <extent>
+              <charseq START="367" END="389">US high school students</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E8-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="367" END="389">US high school students</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E1-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="375" END="380">school</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R3-M402">
+          <extent>
+              <charseq START="375" END="380">school</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E1-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="375" END="380">school</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E7-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="367" END="368">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E22" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R4-M1200">
+          <extent>
+              <charseq START="1399" END="1403">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E17-M1220" ROLE="Arg-1">
+            <extent>
+              <charseq START="1399" END="1403">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E22-M1219" ROLE="Arg-2">
+            <extent>
+              <charseq START="1399" END="1420">their existing friends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R5-M1201">
+          <extent>
+              <charseq START="1399" END="1420">their existing friends</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E22-M1219" ROLE="Arg-1">
+            <extent>
+              <charseq START="1399" END="1420">their existing friends</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E4-M1221" ROLE="Arg-2">
+            <extent>
+              <charseq START="1437" END="1442">Tagged</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R6-M1300">
+          <extent>
+              <charseq START="1564" END="1566">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E10-M1309" ROLE="Arg-1">
+            <extent>
+              <charseq START="1564" END="1566">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E4-M1310" ROLE="Arg-2">
+            <extent>
+              <charseq START="1583" END="1588">Tagged</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Tagged.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Tagged.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Tagged.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Tagged.sentences.sgm-R7-M1601">
+          <extent>
+              <charseq START="1889" END="1891">CEO</charseq>
+          </extent>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E2-M1605" ROLE="Arg-1">
+            <extent>
+              <charseq START="1889" END="1891">CEO</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Tagged.sentences.sgm-E28-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="1896" END="1936">Internet incubator Jumpstart Technologies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Tagged.sentences.sgm-EV0" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Tagged.sentences.sgm-E5" ROLE="Giver"/>
+      <event_argument REFID="Tagged.sentences.sgm-E4" ROLE="Beneficiary"/>
+      <event_argument REFID="Tagged.sentences.sgm-V3" ROLE="Money"/>
+      <event_mention ID="Tagged.sentences.sgm-EV0-M300">
+          <extent>
+              <charseq START="253" END="258">raised</charseq>
+          </extent>
+          <anchor>
+              <charseq START="253" END="258">raised</charseq>
+          </anchor>
+        <event_mention_argument REFID="Tagged.sentences.sgm-E5-M304" ROLE="Giver">
+          <extent>
+              <charseq START="288" END="336">Silicon Valley venture capital firm Mayfield Fund</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Tagged.sentences.sgm-E4-M300" ROLE="Beneficiary">
+          <extent>
+              <charseq START="237" END="247">Tagged Inc.</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Tagged.sentences.sgm-V3-M1" ROLE="Money">
+            <extent>
+              <charseq START="260" END="269">$7 million</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Tagged.sentences.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Tagged.sentences.sgm-E31" ROLE="Destination"/>
+      <event_mention ID="Tagged.sentences.sgm-EV1-M1800">
+          <extent>
+              <charseq START="2272" END="2278">visited</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2272" END="2278">visited</charseq>
+          </anchor>
+        <event_mention_argument REFID="Tagged.sentences.sgm-E31-M1816" ROLE="Destination">
+          <extent>
+              <charseq START="2289" END="2306">the State of Qatar</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

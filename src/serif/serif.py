@@ -247,6 +247,45 @@ def find_best_timex(date, text, data, btimex = None):
 				btdelta = tdelta
 	return btimex
 
+# The function to pick the sentence with the most recent date
+# and a self reference.
+# Originally copied from find_best_timex().
+def pick_self(date, text, data, btimex = None):
+	# make a map to store if the line has a self reference.
+	if not data.entityList:
+		return btimex
+
+	line_self = {}
+	self_entity = data.entityList[0]
+	for mention in self_entity.mentions:
+		line = text.find(mention.start)
+		line_self[line] = True
+
+	# the best one
+	if not btimex:
+		btdelta = None
+	else:
+		btdelta = delta_date_timex(date, btimex)
+	
+	for timex in data.timexList:
+		# ignore if the date is from a line without a self reference.
+		line = text.find(timex.start)
+		if not line in line_self:
+			continue
+
+		#print timex.val
+		tdelta = delta_date_timex(date, timex)
+		# tdelta could be zero, which means the best date possible
+		if tdelta != None:
+			#print timex.val, 'accepted'
+			if not btimex:
+				btimex = timex
+				btdelta = tdelta
+			elif tdelta < btdelta:
+				btimex = timex
+				btdelta = tdelta
+	return btimex
+
 # Resolve coreference.
 # Replace pronouns in the text with its most frequent proper name.
 def resolveCoref(text, data, start, end):

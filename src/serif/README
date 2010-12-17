@@ -31,6 +31,30 @@ batch_pick_recent_dates.sh
 		81st_Academy_Awards.sentences:
 		The nominees for the 81st Academy Awards were announced  live on Thursday, January 22, 2009, at 5:38 a.m. PST (13:38 UTC) by Academy of Motion Picture Arts and Sciences president Sid Ganis and Oscar-winning actor Forest Whitaker at the Samuel Goldwyn Theater in the Academy's Beverly Hills headquarters.
 	
+batch_pick_self.sh
+------------------
+	Run the script that picks the best sentence with the self reference
+	for all the file in the given directory.
+	
+	Usage: batch_pick_self.sh input_dir YYYY-MM-DD output_dir
+
+	input_dir
+		The directory that contains the .sgm and .apf files. Both files should exist to be processed correctly.
+	
+	YYYY-MM-DD
+		The date on which the retrieved article are based on.
+		The temporal expressions in the articles that are closest to this date will be seleceted.
+	
+	output_dir
+		The directory that the best sentences are written as files.
+	
+	Output:
+
+	Into each file in output_dir, the best sentence for the file is written.
+	The output files have names of the title of the articles followed by .sentences. e.g.)
+		81st_Academy_Awards.sentences:
+		The nominees for the 81st Academy Awards were announced  live on Thursday, January 22, 2009, at 5:38 a.m. PST (13:38 UTC) by Academy of Motion Picture Arts and Sciences president Sid Ganis and Oscar-winning actor Forest Whitaker at the Samuel Goldwyn Theater in the Academy's Beverly Hills headquarters.
+
 check_date_form.py
 ------------------
 	Print all the date and time expressions in the given files.
@@ -90,6 +114,26 @@ pick_recent_date.py
 
 	[apf]
 		the .apf file
+
+	Output: Written into the standard output.
+		The line number of the selected sentence and the sentence separated by a space.
+
+pick_self.py
+------------
+	Pick the best sentence with the self reference in the given file.
+	If there is no such sentence, it just picks the sentence with the most recent date.
+	Called by batch_pick_self.sh.
+
+	Usage: pick_self.py date sgm apf
+
+	date
+		the date
+
+	sgm
+		the sgm file
+	
+	apf
+		the apf file
 
 	Output: Written into the standard output.
 		The line number of the selected sentence and the sentence separated by a space.

@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Ana_Carolina_Reston.sentences.sgm">
+  <document DOCID="Ana_Carolina_Reston.sentences.sgm">
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="36" END="60">Ana Carolina Reston Macan</charseq>
+          </extent>
+          <head>
+              <charseq START="36" END="60">Ana Carolina Reston Macan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M203">
+          <extent>
+              <charseq START="237" END="239">she</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="239">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M206">
+          <extent>
+              <charseq START="247" END="249">her</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="249">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M212">
+          <extent>
+              <charseq START="307" END="309">her</charseq>
+          </extent>
+          <head>
+              <charseq START="307" END="309">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="321" END="323">She</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="323">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M404">
+          <extent>
+              <charseq START="546" END="548">her</charseq>
+          </extent>
+          <head>
+              <charseq START="546" END="548">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M502">
+          <extent>
+              <charseq START="635" END="637">she</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="637">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M504">
+          <extent>
+              <charseq START="668" END="670">she</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="670">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M511">
+          <extent>
+              <charseq START="730" END="732">her</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="732">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M603">
+          <extent>
+              <charseq START="780" END="782">her</charseq>
+          </extent>
+          <head>
+              <charseq START="780" END="782">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="1032" END="1034">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1034">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M801">
+          <extent>
+              <charseq START="1171" END="1173">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1171" END="1173">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ana_Carolina_Reston.sentences.sgm-E0-M806">
+          <extent>
+              <charseq START="1261" END="1263">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1261" END="1263">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ana Carolina Reston Macan">
+              <charseq START="36" END="60">Ana Carolina Reston Macan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E1-M6" ROLE="GPE">
+          <extent>
+              <charseq START="103" END="111">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="111">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E1-M109" ROLE="LOC">
+          <extent>
+              <charseq START="212" END="217">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="212" END="217">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E1-M1109" ROLE="GPE">
+          <extent>
+              <charseq START="1594" END="1602">Brazilian</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1602">Brazilian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazilian">
+              <charseq START="103" END="111">Brazilian</charseq>
+          </name>
+          <name NAME="Brazil">
+              <charseq START="212" END="217">Brazil</charseq>
+          </name>
+          <name NAME="Brazilian">
+              <charseq START="1594" END="1602">Brazilian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E2-M100">
+          <extent>
+              <charseq START="128" END="133">Reston</charseq>
+          </extent>
+          <head>
+              <charseq START="128" END="133">Reston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E2-M401">
+          <extent>
+              <charseq START="534" END="539">Reston</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="539">Reston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E2-M604">
+          <extent>
+              <charseq START="790" END="795">Reston</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="795">Reston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E2-M900">
+          <extent>
+              <charseq START="1289" END="1294">Reston</charseq>
+          </extent>
+          <head>
+              <charseq START="1289" END="1294">Reston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reston">
+              <charseq START="128" END="133">Reston</charseq>
+          </name>
+          <name NAME="Reston">
+              <charseq START="534" END="539">Reston</charseq>
+          </name>
+          <name NAME="Reston">
+              <charseq START="790" END="795">Reston</charseq>
+          </name>
+          <name NAME="Reston">
+              <charseq START="1289" END="1294">Reston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E3-M104" ROLE="LOC">
+          <extent>
+              <charseq START="172" END="178">Jundiaí</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="178">Jundiaí</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E3-M211" ROLE="LOC">
+          <extent>
+              <charseq START="307" END="318">her hometown</charseq>
+          </extent>
+          <head>
+              <charseq START="311" END="318">hometown</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jundiaí">
+              <charseq START="172" END="178">Jundiaí</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E4-M107" ROLE="GPE">
+          <extent>
+              <charseq START="201" END="217">São Paulo, Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="209">São Paulo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="São Paulo">
+              <charseq START="201" END="209">São Paulo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E5-M101">
+          <extent>
+              <charseq START="147" END="178">a middle-class family in Jundiaí</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="167">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E6-M105">
+          <extent>
+              <charseq START="184" END="217">the outskirts of São Paulo, Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="196">outskirts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E7-M306">
+          <extent>
+              <charseq START="379" END="382">Ford</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="382">Ford</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ford">
+              <charseq START="379" END="382">Ford</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E8-M310">
+          <extent>
+              <charseq START="395" END="402">L&apos;Équipe</charseq>
+          </extent>
+          <head>
+              <charseq START="395" END="402">L&apos;Équipe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="L&apos;Équipe">
+              <charseq START="395" END="402">L&apos;Équipe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E9-M314">
+          <extent>
+              <charseq START="425" END="429">China</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="429">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E9-M408" ROLE="GPE">
+          <extent>
+              <charseq START="585" END="589">China</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="589">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="425" END="429">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="585" END="589">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E10-M315">
+          <extent>
+              <charseq START="432" END="437">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="437">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkey">
+              <charseq START="432" END="437">Turkey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E11-M316">
+          <extent>
+              <charseq START="440" END="445">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="440" END="445">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mexico">
+              <charseq START="440" END="445">Mexico</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E12-M317">
+          <extent>
+              <charseq START="452" END="456">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="452" END="456">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japan">
+              <charseq START="452" END="456">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E13-M321">
+          <extent>
+              <charseq START="502" END="515">Giorgio Armani</charseq>
+          </extent>
+          <head>
+              <charseq START="502" END="515">Giorgio Armani</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Giorgio Armani">
+              <charseq START="502" END="515">Giorgio Armani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E14-M302">
+          <extent>
+              <charseq START="344" END="515">renowned modeling agencies such as Ford, Elite and L&apos;Équipe in countries such as China, Turkey, Mexico, and Japan, including prestigious ad campaigns such as Giorgio Armani</charseq>
+          </extent>
+          <head>
+              <charseq START="362" END="369">agencies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E15-M309">
+          <extent>
+              <charseq START="385" END="389">Elite</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="389">Elite</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E16-M311" ROLE="LOC">
+          <extent>
+              <charseq START="407" END="515">countries such as China, Turkey, Mexico, and Japan, including prestigious ad campaigns such as Giorgio Armani</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="415">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E17-M406" ROLE="LOC">
+          <extent>
+              <charseq START="573" END="581">Guangzhou</charseq>
+          </extent>
+          <head>
+              <charseq START="573" END="581">Guangzhou</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E17-M407">
+          <extent>
+              <charseq START="585" END="594">China city</charseq>
+          </extent>
+          <head>
+              <charseq START="591" END="594">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guangzhou">
+              <charseq START="573" END="581">Guangzhou</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E18-M714">
+          <extent>
+              <charseq START="1113" END="1141">the World Health Organization</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1141">World Health Organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Health Organization">
+              <charseq START="1117" END="1141">World Health Organization</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E19-M1002">
+          <extent>
+              <charseq START="1378" END="1389">Luisel Ramos</charseq>
+          </extent>
+          <head>
+              <charseq START="1378" END="1389">Luisel Ramos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ana_Carolina_Reston.sentences.sgm-E19-M1003">
+          <extent>
+              <charseq START="1392" END="1486">a 22-year-old Uruguayan model, suffered a heart attack in August after living on lettuce leaves</charseq>
+          </extent>
+          <head>
+              <charseq START="1416" END="1420">model</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luisel Ramos">
+              <charseq START="1378" END="1389">Luisel Ramos</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E20-M1005" ROLE="GPE">
+          <extent>
+              <charseq START="1406" END="1414">Uruguayan</charseq>
+          </extent>
+          <head>
+              <charseq START="1406" END="1414">Uruguayan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uruguayan">
+              <charseq START="1406" END="1414">Uruguayan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ana_Carolina_Reston.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ana_Carolina_Reston.sentences.sgm-E21-M1012">
+          <extent>
+              <charseq START="1492" END="1517">Diet Coke for three months</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1500">Diet Coke</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Diet Coke">
+              <charseq START="1492" END="1500">Diet Coke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T0" VAL="XXXX-06">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="63" END="66">June</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T1" VAL="1985">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="71" END="74">1985</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T2" VAL="2006-11-15">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="78" END="94">November 15, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T3">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="223" END="235">the age of 13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T4" VAL="2004-01">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="521" END="532">January 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T5">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="768" END="788">the time of her death</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T6" VAL="XXXX-10-25">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="899" END="908">October 25</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T7" VAL="2006">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1372" END="1375">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T8" VAL="P22Y">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1394" END="1404">22-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T9" VAL="XXXX-08">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1450" END="1455">August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ana_Carolina_Reston.sentences.sgm-T10" VAL="P3M">
+        <timex2_mention ID="Ana_Carolina_Reston.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1506" END="1517">three months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="147" END="178">a middle-class family in Jundiaí</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E5-M101" ROLE="Arg-1">
+            <extent>
+              <charseq START="147" END="178">a middle-class family in Jundiaí</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E3-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="172" END="178">Jundiaí</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R1-M101">
+          <extent>
+              <charseq START="184" END="217">the outskirts of São Paulo, Brazil</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E6-M105" ROLE="Arg-1">
+            <extent>
+              <charseq START="184" END="217">the outskirts of São Paulo, Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E4-M107" ROLE="Arg-2">
+            <extent>
+              <charseq START="201" END="217">São Paulo, Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R2-M102">
+          <extent>
+              <charseq START="201" END="217">São Paulo, Brazil</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E4-M107" ROLE="Arg-1">
+            <extent>
+              <charseq START="201" END="217">São Paulo, Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E1-M109" ROLE="Arg-2">
+            <extent>
+              <charseq START="212" END="217">Brazil</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R3-M200">
+          <extent>
+              <charseq START="307" END="309">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0-M212" ROLE="Arg-1">
+            <extent>
+              <charseq START="307" END="309">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E3-M211" ROLE="Arg-2">
+            <extent>
+              <charseq START="307" END="318">her hometown</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R4-M300">
+          <extent>
+              <charseq START="385" END="389">Elite</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E15-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="385" END="389">Elite</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E16-M311" ROLE="Arg-2">
+            <extent>
+              <charseq START="407" END="515">countries such as China, Turkey, Mexico, and Japan, including prestigious ad campaigns such as Giorgio Armani</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R5-M301">
+          <extent>
+              <charseq START="395" END="402">L&apos;Équipe</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E8-M310" ROLE="Arg-1">
+            <extent>
+              <charseq START="395" END="402">L&apos;Équipe</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E16-M311" ROLE="Arg-2">
+            <extent>
+              <charseq START="407" END="515">countries such as China, Turkey, Mexico, and Japan, including prestigious ad campaigns such as Giorgio Armani</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R6-M400">
+          <extent>
+              <charseq START="546" END="548">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="546" END="548">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="573" END="581">Guangzhou</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R7-M401">
+          <extent>
+              <charseq START="573" END="581">Guangzhou</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="573" END="581">Guangzhou</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E9-M408" ROLE="Arg-2">
+            <extent>
+              <charseq START="585" END="589">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R7-M402">
+          <extent>
+              <charseq START="585" END="594">China city</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17-M407" ROLE="Arg-1">
+            <extent>
+              <charseq START="585" END="594">China city</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E9-M408" ROLE="Arg-2">
+            <extent>
+              <charseq START="585" END="589">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ana_Carolina_Reston.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Ana_Carolina_Reston.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Ana_Carolina_Reston.sentences.sgm-R8-M1000">
+          <extent>
+              <charseq START="1392" END="1486">a 22-year-old Uruguayan model, suffered a heart attack in August after living on lettuce leaves</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E19-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1392" END="1486">a 22-year-old Uruguayan model, suffered a heart attack in August after living on lettuce leaves</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E20-M1005" ROLE="Arg-2">
+            <extent>
+              <charseq START="1406" END="1414">Uruguayan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV0-M100">
+          <extent>
+              <charseq START="139" END="142">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="139" END="142">born</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17" ROLE="Destination"/>
+      <event_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_argument REFID="Ana_Carolina_Reston.sentences.sgm-T4" ROLE="Time-Within"/>
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV1-M400">
+          <extent>
+              <charseq START="565" END="568">trip</charseq>
+          </extent>
+          <anchor>
+              <charseq START="565" END="568">trip</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E17-M406" ROLE="Destination">
+          <extent>
+              <charseq START="573" END="581">Guangzhou</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0-M404" ROLE="Artifact">
+          <extent>
+              <charseq START="546" END="548">her</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-T4-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="521" END="532">January 2004</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0" ROLE="Victim"/>
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV2-M601">
+          <extent>
+              <charseq START="784" END="788">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="784" END="788">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0-M603" ROLE="Victim">
+          <extent>
+              <charseq START="780" END="782">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV2-M801">
+          <extent>
+              <charseq START="1265" END="1269">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1265" END="1269">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-E0-M806" ROLE="Victim">
+          <extent>
+              <charseq START="1261" END="1263">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV3-M900">
+          <extent>
+              <charseq START="1329" END="1331">die</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1329" END="1331">die</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ana_Carolina_Reston.sentences.sgm-T9" ROLE="Time-Within"/>
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV4-M1000">
+          <extent>
+              <charseq START="1440" END="1445">attack</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1440" END="1445">attack</charseq>
+          </anchor>
+          <event_mention_argument REFID="Ana_Carolina_Reston.sentences.sgm-T9-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1450" END="1455">August</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ana_Carolina_Reston.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Ana_Carolina_Reston.sentences.sgm-EV5-M1102">
+          <extent>
+              <charseq START="1579" END="1583">kills</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1579" END="1583">kills</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

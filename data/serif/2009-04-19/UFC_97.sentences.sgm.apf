@@ -1,0 +1,838 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="UFC_97.sentences.sgm">
+  <document DOCID="UFC_97.sentences.sgm">
+
+    <entity ID="UFC_97.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="67" END="72">UFC 17</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="69">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E0-M112">
+          <extent>
+              <charseq START="177" END="179">UFC</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="179">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E0-M504">
+          <extent>
+              <charseq START="1644" END="1646">UFC</charseq>
+          </extent>
+          <head>
+              <charseq START="1644" END="1646">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E0-M601">
+          <extent>
+              <charseq START="1754" END="1760">the UFC</charseq>
+          </extent>
+          <head>
+              <charseq START="1758" END="1760">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="1826" END="1831">UFC 97</charseq>
+          </extent>
+          <head>
+              <charseq START="1826" END="1828">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UFC">
+              <charseq START="67" END="69">UFC</charseq>
+          </name>
+          <name NAME="UFC">
+              <charseq START="177" END="179">UFC</charseq>
+          </name>
+          <name NAME="UFC">
+              <charseq START="1644" END="1646">UFC</charseq>
+          </name>
+          <name NAME="UFC">
+              <charseq START="1758" END="1760">UFC</charseq>
+          </name>
+          <name NAME="UFC">
+              <charseq START="1826" END="1828">UFC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E1-M116" ROLE="LOC">
+          <extent>
+              <charseq START="203" END="210">Montreal</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="210">Montreal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E1-M702" ROLE="LOC">
+          <extent>
+              <charseq START="1848" END="1855">Montreal</charseq>
+          </extent>
+          <head>
+              <charseq START="1848" END="1855">Montreal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Montreal">
+              <charseq START="203" END="210">Montreal</charseq>
+          </name>
+          <name NAME="Montreal">
+              <charseq START="1848" END="1855">Montreal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E2-M117" ROLE="LOC">
+          <extent>
+              <charseq START="213" END="226">Quebec, Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="218">Quebec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Quebec">
+              <charseq START="213" END="218">Quebec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E3-M119" ROLE="LOC">
+          <extent>
+              <charseq START="221" END="226">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="226">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="221" END="226">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E4-M211">
+          <extent>
+              <charseq START="292" END="305">Anderson Silva</charseq>
+          </extent>
+          <head>
+              <charseq START="292" END="305">Anderson Silva</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anderson Silva">
+              <charseq START="292" END="305">Anderson Silva</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E5-M212">
+          <extent>
+              <charseq START="313" END="343">Thales Leites
+Light Heavyweight</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="343">Thales Leites
+Light Heavyweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thales Leites
+Light Heavyweight">
+              <charseq START="313" END="343">Thales Leites
+Light Heavyweight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E6-M214">
+          <extent>
+              <charseq START="353" END="365">Chuck Liddell</charseq>
+          </extent>
+          <head>
+              <charseq START="353" END="365">Chuck Liddell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chuck Liddell">
+              <charseq START="353" END="365">Chuck Liddell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E7-M215">
+          <extent>
+              <charseq START="373" END="384">Mauricio Rua</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="384">Mauricio Rua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mauricio Rua">
+              <charseq START="373" END="384">Mauricio Rua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E8-M217">
+          <extent>
+              <charseq START="406" END="461">Cheick Kongo vs.   Antoni Hardonk
+Light Heavyweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="417">Cheick Kongo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cheick Kongo">
+              <charseq START="406" END="417">Cheick Kongo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E9-M220">
+          <extent>
+              <charseq START="425" END="456">Antoni Hardonk
+Light Heavyweight</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="456">Antoni Hardonk
+Light Heavyweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antoni Hardonk
+Light Heavyweight">
+              <charseq START="425" END="456">Antoni Hardonk
+Light Heavyweight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E10-M221">
+          <extent>
+              <charseq START="466" END="526">Steve  Cantwell vs.   Luiz Arthur Cane
+Light Heavyweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="480">Steve  Cantwell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steve  Cantwell">
+              <charseq START="466" END="480">Steve  Cantwell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E11-M224">
+          <extent>
+              <charseq START="488" END="509">Luiz Arthur Cane
+Light</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="509">Luiz Arthur Cane
+Light</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luiz Arthur Cane
+Light">
+              <charseq START="488" END="509">Luiz Arthur Cane
+Light</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E12-M226">
+          <extent>
+              <charseq START="531" END="601">Krzysztof Soszynski vs.   Brian Stann
+Preliminary Card
+Lightweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="549">Krzysztof Soszynski</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Krzysztof Soszynski">
+              <charseq START="531" END="549">Krzysztof Soszynski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E13-M229">
+          <extent>
+              <charseq START="557" END="561">Brian</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="561">Brian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian">
+              <charseq START="557" END="561">Brian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E14-M234">
+          <extent>
+              <charseq START="606" END="649">Sam Stout vs.   Matt Wiman
+Middleweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="606" END="614">Sam Stout</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sam Stout">
+              <charseq START="606" END="614">Sam Stout</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E15-M237">
+          <extent>
+              <charseq START="622" END="631">Matt Wiman</charseq>
+          </extent>
+          <head>
+              <charseq START="622" END="631">Matt Wiman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Wiman">
+              <charseq START="622" END="631">Matt Wiman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E16-M238">
+          <extent>
+              <charseq START="633" END="644">Middleweight</charseq>
+          </extent>
+          <head>
+              <charseq START="633" END="644">Middleweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E16-M243">
+          <extent>
+              <charseq START="690" END="701">Middleweight</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="701">Middleweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E16-M248">
+          <extent>
+              <charseq START="745" END="756">Middleweight</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="756">Middleweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Middleweight">
+              <charseq START="633" END="644">Middleweight</charseq>
+          </name>
+          <name NAME="Middleweight">
+              <charseq START="690" END="701">Middleweight</charseq>
+          </name>
+          <name NAME="Middleweight">
+              <charseq START="745" END="756">Middleweight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E17-M239">
+          <extent>
+              <charseq START="654" END="706">Denis Kang vs.   Xavier Foupa-Pokam
+Middleweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="663">Denis Kang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Denis Kang">
+              <charseq START="654" END="663">Denis Kang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E18-M242">
+          <extent>
+              <charseq START="671" END="688">Xavier Foupa-Pokam</charseq>
+          </extent>
+          <head>
+              <charseq START="671" END="688">Xavier Foupa-Pokam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xavier Foupa-Pokam">
+              <charseq START="671" END="688">Xavier Foupa-Pokam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E19-M244">
+          <extent>
+              <charseq START="711" END="761">Jason MacDonald vs.   Nate Quarry
+Middleweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="711" END="725">Jason MacDonald</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jason MacDonald">
+              <charseq START="711" END="725">Jason MacDonald</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E20-M247">
+          <extent>
+              <charseq START="733" END="743">Nate Quarry</charseq>
+          </extent>
+          <head>
+              <charseq START="733" END="743">Nate Quarry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nate Quarry">
+              <charseq START="733" END="743">Nate Quarry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E21-M249">
+          <extent>
+              <charseq START="766" END="811">David Loiseau vs.   Ed Herman
+Lightweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="778">David Loiseau</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Loiseau">
+              <charseq START="766" END="778">David Loiseau</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E22-M252">
+          <extent>
+              <charseq START="786" END="806">Ed Herman
+Lightweight</charseq>
+          </extent>
+          <head>
+              <charseq START="786" END="806">Ed Herman
+Lightweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ed Herman
+Lightweight">
+              <charseq START="786" END="806">Ed Herman
+Lightweight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E23-M253">
+          <extent>
+              <charseq START="816" END="866">Mark Bocek vs.   David Bielkheden
+Welterweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="816" END="825">Mark Bocek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Bocek">
+              <charseq START="816" END="825">Mark Bocek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E24-M256">
+          <extent>
+              <charseq START="833" END="848">David Bielkheden</charseq>
+          </extent>
+          <head>
+              <charseq START="833" END="848">David Bielkheden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Bielkheden">
+              <charseq START="833" END="848">David Bielkheden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E25-M257">
+          <extent>
+              <charseq START="850" END="861">Welterweight</charseq>
+          </extent>
+          <head>
+              <charseq START="850" END="861">Welterweight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Welterweight">
+              <charseq START="850" END="861">Welterweight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E26-M258">
+          <extent>
+              <charseq START="871" END="918">Ryo Chonan vs.   TJ Grant
+Light Heavyweight bout</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="880">Ryo Chonan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryo Chonan">
+              <charseq START="871" END="880">Ryo Chonan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E27-M265">
+          <extent>
+              <charseq START="923" END="1306">Eliot Marshall vs.   Vinicius Magalhães
+Marshall defeated Magalhães via unanimous decision (30-27, 30-27, 29-28)
+Sanctioning and rules controversy
+On February 12, 2009, reports surfaced that province regulators (&quot;Régie des alcools, des courses et des jeux&quot;, or RACJ) requested a set of rule changes that differ from the Unified Rules of MMA has put the event at risk from taking place</charseq>
+          </extent>
+          <head>
+              <charseq START="944" END="970">Vinicius Magalhães
+Marshall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E27-M269">
+          <extent>
+              <charseq START="981" END="1306">Magalhães via unanimous decision (30-27, 30-27, 29-28)
+Sanctioning and rules controversy
+On February 12, 2009, reports surfaced that province regulators (&quot;Régie des alcools, des courses et des jeux&quot;, or RACJ) requested a set of rule changes that differ from the Unified Rules of MMA has put the event at risk from taking place</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="989">Magalhães</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UFC_97.sentences.sgm-E27-M291">
+          <extent>
+              <charseq START="1222" END="1225">that</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1225">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vinicius Magalhães
+Marshall">
+              <charseq START="944" END="970">Vinicius Magalhães
+Marshall</charseq>
+          </name>
+          <name NAME="Magalhães">
+              <charseq START="981" END="989">Magalhães</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E28-M267">
+          <extent>
+              <charseq START="923" END="936">Eliot Marshall</charseq>
+          </extent>
+          <head>
+              <charseq START="923" END="936">Eliot Marshall</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eliot Marshall">
+              <charseq START="923" END="936">Eliot Marshall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E29-M274">
+          <extent>
+              <charseq START="1036" END="1046">Sanctioning</charseq>
+          </extent>
+          <head>
+              <charseq START="1036" END="1046">Sanctioning</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sanctioning">
+              <charseq START="1036" END="1046">Sanctioning</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E30-M285">
+          <extent>
+              <charseq START="1184" END="1187">RACJ</charseq>
+          </extent>
+          <head>
+              <charseq START="1184" END="1187">RACJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E30-M400">
+          <extent>
+              <charseq START="1456" END="1463">the RACJ</charseq>
+          </extent>
+          <head>
+              <charseq START="1460" END="1463">RACJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RACJ">
+              <charseq START="1184" END="1187">RACJ</charseq>
+          </name>
+          <name NAME="RACJ">
+              <charseq START="1460" END="1463">RACJ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="UFC_97.sentences.sgm-E31-M294">
+          <extent>
+              <charseq START="1260" END="1262">MMA</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1262">MMA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MMA">
+              <charseq START="1260" END="1262">MMA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E32-M278">
+          <extent>
+              <charseq START="1114" END="1132">province regulators</charseq>
+          </extent>
+          <head>
+              <charseq START="1123" END="1132">regulators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E32-M309">
+          <extent>
+              <charseq START="1419" END="1427">a fighter</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1427">fighter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E33" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E33-M406">
+          <extent>
+              <charseq START="1519" END="1530">city, state,</charseq>
+          </extent>
+          <head>
+              <charseq START="1525" END="1529">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E33-M407">
+          <extent>
+              <charseq START="1535" END="1542">province</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1542">province</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E34-M408">
+          <extent>
+              <charseq START="1545" END="1556">a commission</charseq>
+          </extent>
+          <head>
+              <charseq START="1547" END="1556">commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UFC_97.sentences.sgm-E34-M412">
+          <extent>
+              <charseq START="1585" END="1587">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1587">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="UFC_97.sentences.sgm-E34-M507">
+          <extent>
+              <charseq START="1700" END="1702">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1702">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="UFC_97.sentences.sgm-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="UFC_97.sentences.sgm-E35-M503">
+          <extent>
+              <charseq START="1644" END="1656">UFC officials</charseq>
+          </extent>
+          <head>
+              <charseq START="1648" END="1656">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="UFC_97.sentences.sgm-T0" VAL="1997">
+        <timex2_mention ID="UFC_97.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="27" END="28">97</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UFC_97.sentences.sgm-T1" VAL="2009-04-18">
+        <timex2_mention ID="UFC_97.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="185" END="198">April 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UFC_97.sentences.sgm-T2" VAL="2009-02-12">
+        <timex2_mention ID="UFC_97.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1073" END="1089">February 12, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UFC_97.sentences.sgm-T3" VAL="2009-02-18">
+        <timex2_mention ID="UFC_97.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1603" END="1619">February 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="UFC_97.sentences.sgm-T4" VAL="2009-04-18">
+        <timex2_mention ID="UFC_97.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1860" END="1873">April 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="UFC_97.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UFC_97.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="UFC_97.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="UFC_97.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="213" END="226">Quebec, Canada</charseq>
+          </extent>
+          <relation_mention_argument REFID="UFC_97.sentences.sgm-E2-M117" ROLE="Arg-1">
+            <extent>
+              <charseq START="213" END="226">Quebec, Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UFC_97.sentences.sgm-E3-M119" ROLE="Arg-2">
+            <extent>
+              <charseq START="221" END="226">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="UFC_97.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="UFC_97.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="UFC_97.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="UFC_97.sentences.sgm-R1-M500">
+          <extent>
+              <charseq START="1644" END="1656">UFC officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="UFC_97.sentences.sgm-E35-M503" ROLE="Arg-1">
+            <extent>
+              <charseq START="1644" END="1656">UFC officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="UFC_97.sentences.sgm-E0-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="1644" END="1646">UFC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="UFC_97.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="UFC_97.sentences.sgm-EV0-M100">
+          <extent>
+              <charseq START="154" END="161">Fighting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="154" END="161">Fighting</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="UFC_97.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="UFC_97.sentences.sgm-EV1-M301">
+          <extent>
+              <charseq START="1357" END="1363">strikes</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1357" END="1363">strikes</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

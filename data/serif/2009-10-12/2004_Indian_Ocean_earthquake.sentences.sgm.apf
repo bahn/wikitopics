@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="2004_Indian_Ocean_earthquake.sentences.sgm">
+  <document DOCID="2004_Indian_Ocean_earthquake.sentences.sgm">
+
+    <entity ID="2004_Indian_Ocean_earthquake.sentences.sgm-E0" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="2004_Indian_Ocean_earthquake.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="59" END="70">Indian Ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="59" END="70">Indian Ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indian Ocean">
+              <charseq START="59" END="70">Indian Ocean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="2004_Indian_Ocean_earthquake.sentences.sgm-T0" VAL="2004">
+        <timex2_mention ID="2004_Indian_Ocean_earthquake.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="54" END="57">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+  </document>
+</source_file>

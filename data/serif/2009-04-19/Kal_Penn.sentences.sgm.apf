@@ -1,0 +1,2750 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Kal_Penn.sentences.sgm">
+  <document DOCID="Kal_Penn.sentences.sgm">
+
+    <entity ID="Kal_Penn.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="25" END="58">Kalpen Suresh Modi (born April 23,</charseq>
+          </extent>
+          <head>
+              <charseq START="25" END="42">Kalpen Suresh Modi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E0-M15">
+          <extent>
+              <charseq START="182" END="291">the incoming Associate Director of the White House Office of Public Liaison in the Barack Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="205" END="212">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="76" END="78">his</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="78">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E0-M109">
+          <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="387">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M104">
+          <extent>
+              <charseq START="331" END="332">he</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="332">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M202">
+          <extent>
+              <charseq START="457" END="459">his</charseq>
+          </extent>
+          <head>
+              <charseq START="457" END="459">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E0-M402">
+          <extent>
+              <charseq START="588" END="631">Kalpen Suresh Modi in Montclair, New Jersey,</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="605">Kalpen Suresh Modi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="801" END="802">He</charseq>
+          </extent>
+          <head>
+              <charseq START="801" END="802">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M505">
+          <extent>
+              <charseq START="831" END="833">his</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="833">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M513">
+          <extent>
+              <charseq START="926" END="928">his</charseq>
+          </extent>
+          <head>
+              <charseq START="926" END="928">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M601">
+          <extent>
+              <charseq START="962" END="963">He</charseq>
+          </extent>
+          <head>
+              <charseq START="962" END="963">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E0-M1408">
+          <extent>
+              <charseq START="2071" END="2088">Kalpen Suresh Modi</charseq>
+          </extent>
+          <head>
+              <charseq START="2071" END="2088">Kalpen Suresh Modi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E0-M3105">
+          <extent>
+              <charseq START="4069" END="4158">Associate Director of the White House Office of Public Liaison in the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4086">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E0-M3114">
+          <extent>
+              <charseq START="4167" END="4168">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4167" END="4168">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kalpen Suresh Modi">
+              <charseq START="25" END="42">Kalpen Suresh Modi</charseq>
+          </name>
+          <name NAME="Kalpen Suresh Modi">
+              <charseq START="588" END="605">Kalpen Suresh Modi</charseq>
+          </name>
+          <name NAME="Kalpen Suresh Modi">
+              <charseq START="2071" END="2088">Kalpen Suresh Modi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M7">
+          <extent>
+              <charseq START="91" END="98">Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="98">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M101">
+          <extent>
+              <charseq START="306" END="314">2009 Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="311" END="314">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M401">
+          <extent>
+              <charseq START="571" END="574">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="571" END="574">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M408">
+          <extent>
+              <charseq START="636" END="669">a father who worked as an engineer</charseq>
+          </extent>
+          <head>
+              <charseq START="638" END="643">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M411">
+          <extent>
+              <charseq START="659" END="669">an engineer</charseq>
+          </extent>
+          <head>
+              <charseq START="662" END="669">engineer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M410">
+          <extent>
+              <charseq START="645" END="647">who</charseq>
+          </extent>
+          <head>
+              <charseq START="645" END="647">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M423">
+          <extent>
+              <charseq START="751" END="753">his</charseq>
+          </extent>
+          <head>
+              <charseq START="751" END="753">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M700">
+          <extent>
+              <charseq START="1064" END="1067">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1067">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M712">
+          <extent>
+              <charseq START="1199" END="1200">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1200">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M800">
+          <extent>
+              <charseq START="1333" END="1334">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1333" END="1334">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M900">
+          <extent>
+              <charseq START="1384" END="1385">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1384" END="1385">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M905">
+          <extent>
+              <charseq START="1408" END="1409">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1408" END="1409">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1002">
+          <extent>
+              <charseq START="1463" END="1466">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="1463" END="1466">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1100">
+          <extent>
+              <charseq START="1530" END="1531">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1530" END="1531">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1300">
+          <extent>
+              <charseq START="1891" END="1894">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="1891" END="1894">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1310">
+          <extent>
+              <charseq START="1991" END="1993">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1991" END="1993">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1400">
+          <extent>
+              <charseq START="2017" END="2020">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2017" END="2020">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1403">
+          <extent>
+              <charseq START="2041" END="2089">the stage name Kal Penn (from Kalpen Suresh Modi)</charseq>
+          </extent>
+          <head>
+              <charseq START="2056" END="2063">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1424">
+          <extent>
+              <charseq START="2278" END="2285">Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2278" END="2285">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M1406">
+          <extent>
+              <charseq START="2051" END="2054">name</charseq>
+          </extent>
+          <head>
+              <charseq START="2051" END="2054">name</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1401">
+          <extent>
+              <charseq START="2032" END="2033">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2032" END="2033">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1501">
+          <extent>
+              <charseq START="2314" END="2316">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2314" END="2316">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1600">
+          <extent>
+              <charseq START="2357" END="2360">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2360">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1606">
+          <extent>
+              <charseq START="2414" END="2421">Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2414" END="2421">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1601">
+          <extent>
+              <charseq START="2378" END="2379">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2378" END="2379">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1604">
+          <extent>
+              <charseq START="2389" END="2391">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2389" END="2391">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1701">
+          <extent>
+              <charseq START="2473" END="2476">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2473" END="2476">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M1800">
+          <extent>
+              <charseq START="2576" END="2579">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="2576" END="2579">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M1801">
+          <extent>
+              <charseq START="2586" END="2587">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2587">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M2200">
+          <extent>
+              <charseq START="2867" END="2874">an actor</charseq>
+          </extent>
+          <head>
+              <charseq START="2870" END="2874">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M2401">
+          <extent>
+              <charseq START="3055" END="3056">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3055" END="3056">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M2501">
+          <extent>
+              <charseq START="3177" END="3180">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="3177" END="3180">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M2509">
+          <extent>
+              <charseq START="3244" END="3246">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3244" END="3246">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M2601">
+          <extent>
+              <charseq START="3291" END="3294">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="3291" END="3294">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M2701">
+          <extent>
+              <charseq START="3409" END="3412">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="3409" END="3412">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M2800">
+          <extent>
+              <charseq START="3555" END="3558">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="3555" END="3558">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3102">
+          <extent>
+              <charseq START="4036" END="4039">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4036" END="4039">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M3202">
+          <extent>
+              <charseq START="4198" END="4200">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4198" END="4200">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3305">
+          <extent>
+              <charseq START="4317" END="4320">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4317" END="4320">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M3302">
+          <extent>
+              <charseq START="4273" END="4275">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4273" END="4275">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3500">
+          <extent>
+              <charseq START="4462" END="4479">Personal life
+Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4476" END="4479">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M3502">
+          <extent>
+              <charseq START="4471" END="4474">life</charseq>
+          </extent>
+          <head>
+              <charseq START="4471" END="4474">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E1-M3504">
+          <extent>
+              <charseq START="4484" END="4496">a vegetarian,</charseq>
+          </extent>
+          <head>
+              <charseq START="4486" END="4495">vegetarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3601">
+          <extent>
+              <charseq START="4613" END="4616">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4613" END="4616">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3711">
+          <extent>
+              <charseq START="4777" END="4780">Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4777" END="4780">Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E1-M3700">
+          <extent>
+              <charseq START="4709" END="4710">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4709" END="4710">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E1-M3807">
+          <extent>
+              <charseq START="4956" END="4963">Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="4956" END="4963">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kal Penn">
+              <charseq START="91" END="98">Kal Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="311" END="314">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="571" END="574">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="1064" END="1067">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="1463" END="1466">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="1891" END="1894">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="2017" END="2020">Penn</charseq>
+          </name>
+          <name NAME="Kal Penn">
+              <charseq START="2056" END="2063">Kal Penn</charseq>
+          </name>
+          <name NAME="Kal Penn">
+              <charseq START="2278" END="2285">Kal Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="2357" END="2360">Penn</charseq>
+          </name>
+          <name NAME="Kal Penn">
+              <charseq START="2414" END="2421">Kal Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="2473" END="2476">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="2576" END="2579">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="3177" END="3180">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="3291" END="3294">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="3409" END="3412">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="3555" END="3558">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="4036" END="4039">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="4317" END="4320">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="4476" END="4479">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="4613" END="4616">Penn</charseq>
+          </name>
+          <name NAME="Penn">
+              <charseq START="4777" END="4780">Penn</charseq>
+          </name>
+          <name NAME="Kal Penn">
+              <charseq START="4956" END="4963">Kal Penn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E2-M11" ROLE="GPE">
+          <extent>
+              <charseq START="107" END="127">United StatesAmerican</charseq>
+          </extent>
+          <head>
+              <charseq START="107" END="127">United StatesAmerican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United StatesAmerican">
+              <charseq START="107" END="127">United StatesAmerican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M18">
+          <extent>
+              <charseq START="217" END="291">the White House Office of Public Liaison in the Barack Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="256">White House Office of Public Liaison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M106">
+          <extent>
+              <charseq START="345" END="365">the Obama White House</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="365">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M112">
+          <extent>
+              <charseq START="392" END="431">the White House Office of Public Liaison</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="431">White House Office of Public Liaison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M208">
+          <extent>
+              <charseq START="520" END="524">House</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="524">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M2607">
+          <extent>
+              <charseq START="3337" END="3341">House</charseq>
+          </extent>
+          <head>
+              <charseq START="3337" END="3341">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M3108">
+          <extent>
+              <charseq START="4091" END="4158">the White House Office of Public Liaison in the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="4095" END="4130">White House Office of Public Liaison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E3-M3205">
+          <extent>
+              <charseq START="4249" END="4267">the TV series House</charseq>
+          </extent>
+          <head>
+              <charseq START="4263" END="4267">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E3-M3207">
+          <extent>
+              <charseq START="4256" END="4261">series</charseq>
+          </extent>
+          <head>
+              <charseq START="4256" END="4261">series</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House Office of Public Liaison">
+              <charseq START="221" END="256">White House Office of Public Liaison</charseq>
+          </name>
+          <name NAME="White House">
+              <charseq START="355" END="365">White House</charseq>
+          </name>
+          <name NAME="White House Office of Public Liaison">
+              <charseq START="396" END="431">White House Office of Public Liaison</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="520" END="524">House</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="3337" END="3341">House</charseq>
+          </name>
+          <name NAME="White House Office of Public Liaison">
+              <charseq START="4095" END="4130">White House Office of Public Liaison</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="4263" END="4267">House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M22">
+          <extent>
+              <charseq START="265" END="276">Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="265" END="276">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M107">
+          <extent>
+              <charseq START="349" END="353">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="353">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M2910">
+          <extent>
+              <charseq START="3710" END="3721">Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3710" END="3721">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M2915">
+          <extent>
+              <charseq START="3771" END="3775">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3771" END="3775">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E4-M2912">
+          <extent>
+              <charseq START="3759" END="3808">a member of Obama&apos;s National Arts Policy Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="3761" END="3766">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M3003">
+          <extent>
+              <charseq START="3829" END="3840">Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3829" END="3840">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E4-M3000">
+          <extent>
+              <charseq START="3811" END="3812">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3811" END="3812">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M3112">
+          <extent>
+              <charseq START="4139" END="4143">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="4139" END="4143">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E4-M3304">
+          <extent>
+              <charseq START="4295" END="4299">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="4295" END="4299">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="265" END="276">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="349" END="353">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="3710" END="3721">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="3771" END="3775">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="3829" END="3840">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="4139" END="4143">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="4295" END="4299">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E5-M12">
+          <extent>
+              <charseq START="138" END="153">television actor</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="153">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E5-M14">
+          <extent>
+              <charseq START="156" END="158">who</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="158">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E6-M21">
+          <extent>
+              <charseq START="261" END="291">the Barack Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="291">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E6-M3111">
+          <extent>
+              <charseq START="4135" END="4158">the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="4145" END="4158">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E6-M3303">
+          <extent>
+              <charseq START="4291" END="4314">the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="4301" END="4314">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E7-M201">
+          <extent>
+              <charseq START="457" END="485">his character Lawrence Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="485">Lawrence Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E7-M203">
+          <extent>
+              <charseq START="461" END="469">character</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="469">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E7-M300">
+          <extent>
+              <charseq START="527" END="539">His character</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="539">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E7-M301">
+          <extent>
+              <charseq START="527" END="529">His</charseq>
+          </extent>
+          <head>
+              <charseq START="527" END="529">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E7-M3201">
+          <extent>
+              <charseq START="4198" END="4226">his character Lawrence Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="4212" END="4226">Lawrence Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E7-M3203">
+          <extent>
+              <charseq START="4202" END="4210">character</charseq>
+          </extent>
+          <head>
+              <charseq START="4202" END="4210">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lawrence Kutner">
+              <charseq START="471" END="485">Lawrence Kutner</charseq>
+          </name>
+          <name NAME="Lawrence Kutner">
+              <charseq START="4212" END="4226">Lawrence Kutner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E8-M404" ROLE="LOC">
+          <extent>
+              <charseq START="610" END="631">Montclair, New Jersey,</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="618">Montclair</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Montclair">
+              <charseq START="610" END="618">Montclair</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E9-M406" ROLE="LOC">
+          <extent>
+              <charseq START="621" END="630">New Jersey</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="630">New Jersey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Jersey">
+              <charseq START="621" END="630">New Jersey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E10-M425">
+          <extent>
+              <charseq START="767" END="780">Hindu Gujarati</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="780">Hindu Gujarati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E10-M412">
+          <extent>
+              <charseq START="675" END="740">a mother who worked as a fragrance evaluator for a perfume company</charseq>
+          </extent>
+          <head>
+              <charseq START="677" END="682">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E10-M415">
+          <extent>
+              <charseq START="698" END="740">a fragrance evaluator for a perfume company</charseq>
+          </extent>
+          <head>
+              <charseq START="710" END="718">evaluator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E10-M414">
+          <extent>
+              <charseq START="684" END="686">who</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="686">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hindu Gujarati">
+              <charseq START="767" END="780">Hindu Gujarati</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E11-M426" ROLE="LOC">
+          <extent>
+              <charseq START="783" END="787">India</charseq>
+          </extent>
+          <head>
+              <charseq START="783" END="787">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E11-M508" ROLE="GPE">
+          <extent>
+              <charseq START="874" END="879">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="874" END="879">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="India">
+              <charseq START="783" END="787">India</charseq>
+          </name>
+          <name NAME="Indian">
+              <charseq START="874" END="879">Indian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E12-M418">
+          <extent>
+              <charseq START="724" END="740">a perfume company</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="740">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E12-M606">
+          <extent>
+              <charseq START="1043" END="1061">the jazz band there</charseq>
+          </extent>
+          <head>
+              <charseq START="1052" END="1055">band</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E13-M422">
+          <extent>
+              <charseq START="751" END="761">his parents</charseq>
+          </extent>
+          <head>
+              <charseq START="755" END="761">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E14-M506">
+          <extent>
+              <charseq START="863" END="868">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="863" END="868">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gandhi">
+              <charseq START="863" END="868">Gandhi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E15-M504">
+          <extent>
+              <charseq START="831" END="846">his grandparents</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="846">grandparents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E16-M604">
+          <extent>
+              <charseq START="991" END="1012">Marlboro Middle School</charseq>
+          </extent>
+          <head>
+              <charseq START="991" END="1012">Marlboro Middle School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E16-M603">
+          <extent>
+              <charseq START="974" END="986">middle school</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="986">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E16-M609">
+          <extent>
+              <charseq START="1057" END="1061">there</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1061">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marlboro Middle School">
+              <charseq START="991" END="1012">Marlboro Middle School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E17-M704">
+          <extent>
+              <charseq START="1091" END="1113">Performing Arts Academy</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1113">Performing Arts Academy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E17-M701">
+          <extent>
+              <charseq START="1078" END="1132">The Fine and Performing Arts Academy (a magnet program)</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1113">Performing Arts Academy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Performing Arts Academy">
+              <charseq START="1091" END="1113">Performing Arts Academy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E18-M706">
+          <extent>
+              <charseq START="1137" END="1196">Howell High School for freshman, sophomore, and junior years</charseq>
+          </extent>
+          <head>
+              <charseq START="1137" END="1154">Howell High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E18-M720">
+          <extent>
+              <charseq START="1264" END="1275">both schools</charseq>
+          </extent>
+          <head>
+              <charseq START="1269" END="1275">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E18-M721">
+          <extent>
+              <charseq START="1281" END="1330">part of the Freehold Regional High School District</charseq>
+          </extent>
+          <head>
+              <charseq START="1281" END="1284">part</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E18-M803">
+          <extent>
+              <charseq START="1350" END="1360">the schools</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1360">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Howell High School">
+              <charseq START="1137" END="1154">Howell High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E19-M723">
+          <extent>
+              <charseq START="1289" END="1330">the Freehold Regional High School District</charseq>
+          </extent>
+          <head>
+              <charseq START="1293" END="1330">Freehold Regional High School District</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Freehold Regional High School District">
+              <charseq START="1293" END="1330">Freehold Regional High School District</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E20-M709">
+          <extent>
+              <charseq START="1160" END="1179">freshman, sophomore,</charseq>
+          </extent>
+          <head>
+              <charseq START="1160" END="1167">freshman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E21-M902">
+          <extent>
+              <charseq START="1396" END="1446">UCLA, where he double majored in film and sociology</charseq>
+          </extent>
+          <head>
+              <charseq START="1396" END="1399">UCLA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kal_Penn.sentences.sgm-E21-M904">
+          <extent>
+              <charseq START="1402" END="1406">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1402" END="1406">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UCLA">
+              <charseq START="1396" END="1399">UCLA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E22-M1103">
+          <extent>
+              <charseq START="1555" END="1567">American Desi</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1567">Desi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Desi">
+              <charseq START="1564" END="1567">Desi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E23-M1104">
+          <extent>
+              <charseq START="1555" END="1562">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1555" END="1562">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E23-M3311" ROLE="LOC">
+          <extent>
+              <charseq START="4361" END="4368">American</charseq>
+          </extent>
+          <head>
+              <charseq START="4361" END="4368">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="1555" END="1562">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="4361" END="4368">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E24-M1106">
+          <extent>
+              <charseq START="1570" END="1598">National Lampoon&apos;s Van Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="1589" END="1598">Van Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E24-M1206">
+          <extent>
+              <charseq START="1746" END="1774">National Lampoon&apos;s Van Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="1765" END="1774">Van Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Van Wilder">
+              <charseq START="1589" END="1598">Van Wilder</charseq>
+          </name>
+          <name NAME="Van Wilder">
+              <charseq START="1765" END="1774">Van Wilder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E25-M1107">
+          <extent>
+              <charseq START="1570" END="1585">National Lampoon</charseq>
+          </extent>
+          <head>
+              <charseq START="1570" END="1585">National Lampoon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E25-M1122">
+          <extent>
+              <charseq START="1691" END="1699">the Party</charseq>
+          </extent>
+          <head>
+              <charseq START="1695" END="1699">Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E25-M1207">
+          <extent>
+              <charseq START="1746" END="1761">National Lampoon</charseq>
+          </extent>
+          <head>
+              <charseq START="1746" END="1761">National Lampoon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Lampoon">
+              <charseq START="1570" END="1585">National Lampoon</charseq>
+          </name>
+          <name NAME="National Lampoon">
+              <charseq START="1746" END="1761">National Lampoon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E26-M1110">
+          <extent>
+              <charseq START="1601" END="1606">Malibu</charseq>
+          </extent>
+          <head>
+              <charseq START="1601" END="1606">Malibu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malibu">
+              <charseq START="1601" END="1606">Malibu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E27-M1116">
+          <extent>
+              <charseq START="1640" END="1645">Harold</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1645">Harold</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harold">
+              <charseq START="1640" END="1645">Harold</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E28-M1117">
+          <extent>
+              <charseq START="1651" END="1658">Kumar Go</charseq>
+          </extent>
+          <head>
+              <charseq START="1651" END="1658">Kumar Go</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E28-M3512">
+          <extent>
+              <charseq START="4562" END="4578">Harold &amp; Kumar Go</charseq>
+          </extent>
+          <head>
+              <charseq START="4562" END="4578">Harold &amp; Kumar Go</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kumar Go">
+              <charseq START="1651" END="1658">Kumar Go</charseq>
+          </name>
+          <name NAME="Harold &amp; Kumar Go">
+              <charseq START="4562" END="4578">Harold &amp; Kumar Go</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E29-M1119">
+          <extent>
+              <charseq START="1663" END="1674">White Castle</charseq>
+          </extent>
+          <head>
+              <charseq START="1663" END="1674">White Castle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E29-M3513">
+          <extent>
+              <charseq START="4583" END="4594">White Castle</charseq>
+          </extent>
+          <head>
+              <charseq START="4583" END="4594">White Castle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White Castle">
+              <charseq START="1663" END="1674">White Castle</charseq>
+          </name>
+          <name NAME="White Castle">
+              <charseq START="4583" END="4594">White Castle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E30-M1215">
+          <extent>
+              <charseq START="1824" END="1837">Harold &amp; Kumar</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1837">Harold &amp; Kumar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harold &amp; Kumar">
+              <charseq START="1824" END="1837">Harold &amp; Kumar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E31-M1213">
+          <extent>
+              <charseq START="1806" END="1817">The Namesake</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1817">Namesake</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E31-M2510">
+          <extent>
+              <charseq START="3263" END="3274">The Namesake</charseq>
+          </extent>
+          <head>
+              <charseq START="3267" END="3274">Namesake</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E32-M1219">
+          <extent>
+              <charseq START="1880" END="1888">the Halls</charseq>
+          </extent>
+          <head>
+              <charseq START="1884" END="1888">Halls</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E33-M1303">
+          <extent>
+              <charseq START="1916" END="1932">The Lonely Island</charseq>
+          </extent>
+          <head>
+              <charseq START="1920" END="1932">Lonely Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lonely Island">
+              <charseq START="1920" END="1932">Lonely Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E34-M1305">
+          <extent>
+              <charseq START="1945" END="1947">MTV</charseq>
+          </extent>
+          <head>
+              <charseq START="1945" END="1947">MTV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV">
+              <charseq START="1945" END="1947">MTV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E35-M1309">
+          <extent>
+              <charseq START="1991" END="2014">his friend Brandon Routh</charseq>
+          </extent>
+          <head>
+              <charseq START="2002" END="2014">Brandon Routh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E35-M1311">
+          <extent>
+              <charseq START="1995" END="2000">friend</charseq>
+          </extent>
+          <head>
+              <charseq START="1995" END="2000">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brandon Routh">
+              <charseq START="2002" END="2014">Brandon Routh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E36-M1413">
+          <extent>
+              <charseq START="2129" END="2135">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="2129" END="2135">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E37-M1421">
+          <extent>
+              <charseq START="2242" END="2267">a white-dominated industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2260" END="2267">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E39-M1708">
+          <extent>
+              <charseq START="2543" END="2552">Ahmed Amar</charseq>
+          </extent>
+          <head>
+              <charseq START="2543" END="2552">Ahmed Amar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ahmed Amar">
+              <charseq START="2543" END="2552">Ahmed Amar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E40-M2108">
+          <extent>
+              <charseq START="2846" END="2861">a family hostage</charseq>
+          </extent>
+          <head>
+              <charseq START="2855" END="2861">hostage</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E41-M2109">
+          <extent>
+              <charseq START="2848" END="2853">family</charseq>
+          </extent>
+          <head>
+              <charseq START="2848" END="2853">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E42-M2310">
+          <extent>
+              <charseq START="3003" END="3008">people</charseq>
+          </extent>
+          <head>
+              <charseq START="3003" END="3008">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E43-M2415">
+          <extent>
+              <charseq START="3142" END="3161">Special Victims Unit</charseq>
+          </extent>
+          <head>
+              <charseq START="3158" END="3161">Unit</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E44-M2417">
+          <extent>
+              <charseq START="3150" END="3156">Victims</charseq>
+          </extent>
+          <head>
+              <charseq START="3150" END="3156">Victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E45-M2503" ROLE="GPE">
+          <extent>
+              <charseq START="3195" END="3199">Asian</charseq>
+          </extent>
+          <head>
+              <charseq START="3195" END="3199">Asian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E45-M3309" ROLE="LOC">
+          <extent>
+              <charseq START="4355" END="4359">Asian</charseq>
+          </extent>
+          <head>
+              <charseq START="4355" END="4359">Asian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E45-M3708" ROLE="GPE">
+          <extent>
+              <charseq START="4746" END="4750">Asian</charseq>
+          </extent>
+          <head>
+              <charseq START="4746" END="4750">Asian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Asian">
+              <charseq START="3195" END="3199">Asian</charseq>
+          </name>
+          <name NAME="Asian">
+              <charseq START="4355" END="4359">Asian</charseq>
+          </name>
+          <name NAME="Asian">
+              <charseq START="4746" END="4750">Asian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E46-M2505">
+          <extent>
+              <charseq START="3222" END="3238">Outstanding Actor</charseq>
+          </extent>
+          <head>
+              <charseq START="3234" END="3238">Actor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E47-M2606">
+          <extent>
+              <charseq START="3319" END="3321">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="3319" END="3321">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox">
+              <charseq START="3319" END="3321">Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E48-M2611">
+          <extent>
+              <charseq START="3353" END="3361">Dr. House</charseq>
+          </extent>
+          <head>
+              <charseq START="3353" END="3361">Dr. House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dr. House">
+              <charseq START="3353" END="3361">Dr. House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E49-M2602">
+          <extent>
+              <charseq START="3303" END="3341">the cast of the Fox medical drama House</charseq>
+          </extent>
+          <head>
+              <charseq START="3307" END="3310">cast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E50-M2610">
+          <extent>
+              <charseq START="3353" END="3389">Dr. House&apos;s new fellowship applicants</charseq>
+          </extent>
+          <head>
+              <charseq START="3380" END="3389">applicants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E52-M2707">
+          <extent>
+              <charseq START="3464" END="3475">Olivia Wilde</charseq>
+          </extent>
+          <head>
+              <charseq START="3464" END="3475">Olivia Wilde</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Olivia Wilde">
+              <charseq START="3464" END="3475">Olivia Wilde</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E53-M2708">
+          <extent>
+              <charseq START="3481" END="3494">Peter Jacobson</charseq>
+          </extent>
+          <head>
+              <charseq START="3481" END="3494">Peter Jacobson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peter Jacobson">
+              <charseq START="3481" END="3494">Peter Jacobson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E54" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E54-M2914">
+          <extent>
+              <charseq START="3771" END="3808">Obama&apos;s National Arts Policy Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="3779" END="3808">National Arts Policy Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Arts Policy Committee">
+              <charseq START="3779" END="3808">National Arts Policy Committee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E55-M2906">
+          <extent>
+              <charseq START="3694" END="3753">an advocate for Barack Obama&apos;s presidential campaign in 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="3697" END="3704">advocate</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E56-M3002">
+          <extent>
+              <charseq START="3825" END="3868">the Barack Obama video &quot;Sí Se Puede Cambiar&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3849" END="3867">Sí Se Puede Cambiar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sí Se Puede Cambiar">
+              <charseq START="3849" END="3867">Sí Se Puede Cambiar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E57-M3007">
+          <extent>
+              <charseq START="3873" END="3885">Andres Useche</charseq>
+          </extent>
+          <head>
+              <charseq START="3873" END="3885">Andres Useche</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andres Useche">
+              <charseq START="3873" END="3885">Andres Useche</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E58-M3009">
+          <extent>
+              <charseq START="3905" END="3939">comedian George Lopez on January 18</charseq>
+          </extent>
+          <head>
+              <charseq START="3914" END="3925">George Lopez</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E58-M3011">
+          <extent>
+              <charseq START="3905" END="3912">comedian</charseq>
+          </extent>
+          <head>
+              <charseq START="3905" END="3912">comedian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Lopez">
+              <charseq START="3914" END="3925">George Lopez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E59" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E59-M3023">
+          <extent>
+              <charseq START="3998" END="4018">the Lincoln Memorial&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="4002" END="4017">Lincoln Memorial</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lincoln Memorial">
+              <charseq START="4002" END="4017">Lincoln Memorial</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E60" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E60-M3312">
+          <extent>
+              <charseq START="4374" END="4389">Pacific Islander</charseq>
+          </extent>
+          <head>
+              <charseq START="4374" END="4389">Pacific Islander</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pacific Islander">
+              <charseq START="4374" END="4389">Pacific Islander</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E61-M3603">
+          <extent>
+              <charseq START="4651" END="4672">Asian American Studies</charseq>
+          </extent>
+          <head>
+              <charseq START="4651" END="4672">Asian American Studies</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Asian American Studies">
+              <charseq START="4651" END="4672">Asian American Studies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E62" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E62-M3604">
+          <extent>
+              <charseq START="4677" END="4706">the University of Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="4681" END="4706">University of Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Pennsylvania">
+              <charseq START="4681" END="4706">University of Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E63-M3602">
+          <extent>
+              <charseq START="4628" END="4646">a visiting lecturer</charseq>
+          </extent>
+          <head>
+              <charseq START="4639" END="4646">lecturer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E64-M3715">
+          <extent>
+              <charseq START="4860" END="4878">Stanford University</charseq>
+          </extent>
+          <head>
+              <charseq START="4860" END="4878">Stanford University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stanford University">
+              <charseq START="4860" END="4878">Stanford University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E65-M3706">
+          <extent>
+              <charseq START="4746" END="4773">Asian Americans in the Media</charseq>
+          </extent>
+          <head>
+              <charseq START="4752" END="4760">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kal_Penn.sentences.sgm-E66-M3710">
+          <extent>
+              <charseq START="4765" END="4773">the Media</charseq>
+          </extent>
+          <head>
+              <charseq START="4769" END="4773">Media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E67-M3801">
+          <extent>
+              <charseq START="4881" END="4908">Filmography
+Films
+Television</charseq>
+          </extent>
+          <head>
+              <charseq START="4881" END="4908">Filmography
+Films
+Television</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Filmography
+Films
+Television">
+              <charseq START="4881" END="4908">Filmography
+Films
+Television</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E68-M3808">
+          <extent>
+              <charseq START="4966" END="4980">Nirali Magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="4966" END="4980">Nirali Magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E68-M3814">
+          <extent>
+              <charseq START="5025" END="5039">Nirali Magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="5025" END="5039">Nirali Magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nirali Magazine">
+              <charseq START="4966" END="4980">Nirali Magazine</charseq>
+          </name>
+          <name NAME="Nirali Magazine">
+              <charseq START="5025" END="5039">Nirali Magazine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E69-M3809">
+          <extent>
+              <charseq START="4983" END="5022">December 2006
+Kal Penn Goes to Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="4997" END="5009">Kal Penn Goes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kal Penn Goes">
+              <charseq START="4997" END="5009">Kal Penn Goes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kal_Penn.sentences.sgm-E70" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kal_Penn.sentences.sgm-E70-M3813" ROLE="LOC">
+          <extent>
+              <charseq START="5014" END="5022">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="5014" END="5022">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="5014" END="5022">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T0" VAL="1977-04-23">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="50" END="63">April 23, 1977</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T1" VAL="2009-04-08">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="297" END="309">April 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T2" VAL="PXY">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1185" END="1196">junior years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T3" VAL="P1Y">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1251" END="1261">senior year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T4" VAL="1998">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1497" END="1500">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Kal_Penn.sentences.sgm-V5" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Kal_Penn.sentences.sgm-V5-M1">
+            <extent>
+              <charseq START="2345" END="2354">50 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T6" VAL="2007-01">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2459" END="2470">January 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T7">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2517" END="2538">the sixth season of 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T8" VAL="2007-01">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="3041" END="3052">January 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T9" VAL="2007-05">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="3167" END="3174">May 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T10" VAL="2007">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3285" END="3288">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T11" VAL="2009-04-06">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3643" END="3655">April 6, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T12" VAL="2008">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3750" END="3753">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T13" VAL="2009-01-18">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="3930" END="3945">January 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T14" VAL="2009" MOD="START">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4024" END="4033">early 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Kal_Penn.sentences.sgm-V15" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Kal_Penn.sentences.sgm-V15-M1">
+            <extent>
+              <charseq START="4433" END="4459">between $41,000 and $91,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T16" VAL="2008-SP">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4600" END="4610">spring 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T17" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="4785" END="4793">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T18" VAL="2006-12">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="4983" END="4995">December 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kal_Penn.sentences.sgm-T19" VAL="2004-09">
+        <timex2_mention ID="Kal_Penn.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="5042" END="5055">September 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Kal_Penn.sentences.sgm-V20" TYPE="Job-Title">
+        <value_mention ID="Kal_Penn.sentences.sgm-V20-M1">
+            <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Kal_Penn.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="182" END="291">the incoming Associate Director of the White House Office of Public Liaison in the Barack Obama administration</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M15" ROLE="Arg-1">
+            <extent>
+              <charseq START="182" END="291">the incoming Associate Director of the White House Office of Public Liaison in the Barack Obama administration</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M18" ROLE="Arg-2">
+            <extent>
+              <charseq START="217" END="291">the White House Office of Public Liaison in the Barack Obama administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R0-M101">
+          <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M109" ROLE="Arg-1">
+            <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M106" ROLE="Arg-2">
+            <extent>
+              <charseq START="345" END="365">the Obama White House</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R0-M102">
+          <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M109" ROLE="Arg-1">
+            <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M112" ROLE="Arg-2">
+            <extent>
+              <charseq START="392" END="431">the White House Office of Public Liaison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R0-M3100">
+          <extent>
+              <charseq START="4069" END="4158">Associate Director of the White House Office of Public Liaison in the Obama administration</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M3105" ROLE="Arg-1">
+            <extent>
+              <charseq START="4069" END="4158">Associate Director of the White House Office of Public Liaison in the Obama administration</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M3108" ROLE="Arg-2">
+            <extent>
+              <charseq START="4091" END="4158">the White House Office of Public Liaison in the Obama administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="349" END="353">Obama</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E4-M107" ROLE="Arg-1">
+            <extent>
+              <charseq START="349" END="353">Obama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M106" ROLE="Arg-2">
+            <extent>
+              <charseq START="345" END="365">the Obama White House</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R2-M400">
+          <extent>
+              <charseq START="588" END="631">Kalpen Suresh Modi in Montclair, New Jersey,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="588" END="631">Kalpen Suresh Modi in Montclair, New Jersey,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E8-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="610" END="631">Montclair, New Jersey,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R3-M401">
+          <extent>
+              <charseq START="610" END="631">Montclair, New Jersey,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E8-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="610" END="631">Montclair, New Jersey,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E9-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="621" END="630">New Jersey</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R4-M402">
+          <extent>
+              <charseq START="698" END="740">a fragrance evaluator for a perfume company</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E10-M415" ROLE="Arg-1">
+            <extent>
+              <charseq START="698" END="740">a fragrance evaluator for a perfume company</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E12-M418" ROLE="Arg-2">
+            <extent>
+              <charseq START="724" END="740">a perfume company</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R5-M403">
+          <extent>
+              <charseq START="751" END="753">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M423" ROLE="Arg-1">
+            <extent>
+              <charseq START="751" END="753">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E13-M422" ROLE="Arg-2">
+            <extent>
+              <charseq START="751" END="761">his parents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R6-M500">
+          <extent>
+              <charseq START="831" END="833">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="831" END="833">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E15-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="831" END="846">his grandparents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R7-M700">
+          <extent>
+              <charseq START="1160" END="1179">freshman, sophomore,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E20-M709" ROLE="Arg-1">
+            <extent>
+              <charseq START="1160" END="1179">freshman, sophomore,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E18-M706" ROLE="Arg-2">
+            <extent>
+              <charseq START="1137" END="1196">Howell High School for freshman, sophomore, and junior years</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R8-M701">
+          <extent>
+              <charseq START="1281" END="1330">part of the Freehold Regional High School District</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E18-M721" ROLE="Arg-1">
+            <extent>
+              <charseq START="1281" END="1330">part of the Freehold Regional High School District</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E19-M723" ROLE="Arg-2">
+            <extent>
+              <charseq START="1289" END="1330">the Freehold Regional High School District</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E23" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R9-M1100">
+          <extent>
+              <charseq START="1555" END="1567">American Desi</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E22-M1103" ROLE="Arg-1">
+            <extent>
+              <charseq START="1555" END="1567">American Desi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E23-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1555" END="1562">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R10-M1101">
+          <extent>
+              <charseq START="1570" END="1598">National Lampoon&apos;s Van Wilder</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E24-M1106" ROLE="Arg-1">
+            <extent>
+              <charseq START="1570" END="1598">National Lampoon&apos;s Van Wilder</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E25-M1107" ROLE="Arg-2">
+            <extent>
+              <charseq START="1570" END="1585">National Lampoon</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R10-M1200">
+          <extent>
+              <charseq START="1746" END="1774">National Lampoon&apos;s Van Wilder</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E24-M1206" ROLE="Arg-1">
+            <extent>
+              <charseq START="1746" END="1774">National Lampoon&apos;s Van Wilder</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E25-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="1746" END="1761">National Lampoon</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R11-M1300">
+          <extent>
+              <charseq START="1991" END="1993">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M1310" ROLE="Arg-1">
+            <extent>
+              <charseq START="1991" END="1993">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E35-M1311" ROLE="Arg-2">
+            <extent>
+              <charseq START="1995" END="2000">friend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E54" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R12-M2900">
+          <extent>
+              <charseq START="3759" END="3808">a member of Obama&apos;s National Arts Policy Committee</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E4-M2912" ROLE="Arg-1">
+            <extent>
+              <charseq START="3759" END="3808">a member of Obama&apos;s National Arts Policy Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E54-M2914" ROLE="Arg-2">
+            <extent>
+              <charseq START="3771" END="3808">Obama&apos;s National Arts Policy Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R12-M2901">
+          <extent>
+              <charseq START="3771" END="3775">Obama</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E4-M2915" ROLE="Arg-1">
+            <extent>
+              <charseq START="3771" END="3775">Obama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E54-M2914" ROLE="Arg-2">
+            <extent>
+              <charseq START="3771" END="3808">Obama&apos;s National Arts Policy Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R13" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E61" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R13-M3600">
+          <extent>
+              <charseq START="4613" END="4616">Penn</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M3601" ROLE="Arg-1">
+            <extent>
+              <charseq START="4613" END="4616">Penn</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E61-M3603" ROLE="Arg-2">
+            <extent>
+              <charseq START="4651" END="4672">Asian American Studies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E62" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R14-M3601">
+          <extent>
+              <charseq START="4613" END="4616">Penn</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M3601" ROLE="Arg-1">
+            <extent>
+              <charseq START="4613" END="4616">Penn</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E62-M3604" ROLE="Arg-2">
+            <extent>
+              <charseq START="4677" END="4706">the University of Pennsylvania</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R15" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E63" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E61" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R15-M3602">
+          <extent>
+              <charseq START="4628" END="4646">a visiting lecturer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E63-M3602" ROLE="Arg-1">
+            <extent>
+              <charseq START="4628" END="4646">a visiting lecturer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E61-M3603" ROLE="Arg-2">
+            <extent>
+              <charseq START="4651" END="4672">Asian American Studies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E65" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R16-M3700">
+          <extent>
+              <charseq START="4746" END="4773">Asian Americans in the Media</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E65-M3706" ROLE="Arg-1">
+            <extent>
+              <charseq START="4746" END="4773">Asian Americans in the Media</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E45-M3708" ROLE="Arg-2">
+            <extent>
+              <charseq START="4746" END="4750">Asian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R17" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E65" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E66" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R17-M3701">
+          <extent>
+              <charseq START="4746" END="4773">Asian Americans in the Media</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E65-M3706" ROLE="Arg-1">
+            <extent>
+              <charseq START="4746" END="4773">Asian Americans in the Media</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E66-M3710" ROLE="Arg-2">
+            <extent>
+              <charseq START="4765" END="4773">the Media</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R18-M3800">
+          <extent>
+              <charseq START="4956" END="4963">Kal Penn</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M3807" ROLE="Arg-1">
+            <extent>
+              <charseq START="4956" END="4963">Kal Penn</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E68-M3808" ROLE="Arg-2">
+            <extent>
+              <charseq START="4966" END="4980">Nirali Magazine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kal_Penn.sentences.sgm-R19" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Kal_Penn.sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="Kal_Penn.sentences.sgm-R19-M3801">
+          <extent>
+              <charseq START="4983" END="5022">December 2006
+Kal Penn Goes to Hollywood</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E69-M3809" ROLE="Arg-1">
+            <extent>
+              <charseq START="4983" END="5022">December 2006
+Kal Penn Goes to Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kal_Penn.sentences.sgm-E68-M3814" ROLE="Arg-2">
+            <extent>
+              <charseq START="5025" END="5039">Nirali Magazine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Kal_Penn.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kal_Penn.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Kal_Penn.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Kal_Penn.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="45" END="48">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="45" END="48">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="25" END="58">Kalpen Suresh Modi (born April 23,</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kal_Penn.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="50" END="63">April 23, 1977</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kal_Penn.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kal_Penn.sentences.sgm-E3" ROLE="Entity"/>
+      <event_argument REFID="Kal_Penn.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Kal_Penn.sentences.sgm-V20" ROLE="Position"/>
+      <event_mention ID="Kal_Penn.sentences.sgm-EV1-M100">
+          <extent>
+              <charseq START="340" END="343">join</charseq>
+          </extent>
+          <anchor>
+              <charseq START="340" END="343">join</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kal_Penn.sentences.sgm-E3-M106" ROLE="Entity">
+          <extent>
+              <charseq START="345" END="365">the Obama White House</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kal_Penn.sentences.sgm-E0-M104" ROLE="Person">
+          <extent>
+              <charseq START="331" END="332">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kal_Penn.sentences.sgm-V20-M1" ROLE="Position">
+            <extent>
+              <charseq START="370" END="431">Associate Director of the White House Office of Public Liaison</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kal_Penn.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kal_Penn.sentences.sgm-E7" ROLE="Victim"/>
+      <event_mention ID="Kal_Penn.sentences.sgm-EV2-M301">
+          <extent>
+              <charseq START="551" END="557">suicide</charseq>
+          </extent>
+          <anchor>
+              <charseq START="551" END="557">suicide</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kal_Penn.sentences.sgm-E7-M300" ROLE="Victim">
+          <extent>
+              <charseq START="527" END="539">His character</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kal_Penn.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kal_Penn.sentences.sgm-E1" ROLE="Person"/>
+      <event_mention ID="Kal_Penn.sentences.sgm-EV3-M401">
+          <extent>
+              <charseq START="580" END="583">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="580" END="583">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kal_Penn.sentences.sgm-E1-M401" ROLE="Person">
+          <extent>
+              <charseq START="571" END="574">Penn</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kal_Penn.sentences.sgm-EV4" TYPE="Justice" SUBTYPE="Appeal" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kal_Penn.sentences.sgm-EV4-M1400">
+          <extent>
+              <charseq START="2227" END="2232">appeal</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2227" END="2232">appeal</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kal_Penn.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kal_Penn.sentences.sgm-EV5-M1600">
+          <extent>
+              <charseq START="2393" END="2397">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2393" END="2397">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

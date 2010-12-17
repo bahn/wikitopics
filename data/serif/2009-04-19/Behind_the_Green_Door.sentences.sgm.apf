@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Behind_the_Green_Door.sentences.sgm">
+  <document DOCID="Behind_the_Green_Door.sentences.sgm">
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="45" END="65">the Green Door (1972)</charseq>
+          </extent>
+          <head>
+              <charseq START="49" END="58">Green Door</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Green Door">
+              <charseq START="49" END="58">Green Door</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E1-M6" ROLE="LOC">
+          <extent>
+              <charseq START="128" END="144">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="144">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="132" END="144">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E2-M101">
+          <extent>
+              <charseq START="163" END="170">Mitchell</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="170">Mitchell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E2-M201">
+          <extent>
+              <charseq START="396" END="403">Mitchell</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="403">Mitchell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E2-M820">
+          <extent>
+              <charseq START="1454" END="1467">Artie Mitchell</charseq>
+          </extent>
+          <head>
+              <charseq START="1454" END="1467">Artie Mitchell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitchell">
+              <charseq START="163" END="170">Mitchell</charseq>
+          </name>
+          <name NAME="Mitchell">
+              <charseq START="396" END="403">Mitchell</charseq>
+          </name>
+          <name NAME="Artie Mitchell">
+              <charseq START="1454" END="1467">Artie Mitchell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E3-M102">
+          <extent>
+              <charseq START="194" END="209">Marilyn Chambers</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="209">Marilyn Chambers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E3-M304">
+          <extent>
+              <charseq START="514" END="521">Chambers</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="521">Chambers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E3-M403">
+          <extent>
+              <charseq START="633" END="648">Marilyn Chambers</charseq>
+          </extent>
+          <head>
+              <charseq START="633" END="648">Marilyn Chambers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marilyn Chambers">
+              <charseq START="194" END="209">Marilyn Chambers</charseq>
+          </name>
+          <name NAME="Chambers">
+              <charseq START="514" END="521">Chambers</charseq>
+          </name>
+          <name NAME="Marilyn Chambers">
+              <charseq START="633" END="648">Marilyn Chambers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E4-M103">
+          <extent>
+              <charseq START="214" END="228">Gloria Saunders</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="228">Gloria Saunders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E4-M100">
+          <extent>
+              <charseq START="159" END="179">the Mitchell brothers</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="179">brothers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E4-M106">
+          <extent>
+              <charseq START="249" END="251">her</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="251">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E4-M111">
+          <extent>
+              <charseq START="287" END="289">she</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="289">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E4-M200">
+          <extent>
+              <charseq START="392" END="412">The Mitchell brothers</charseq>
+          </extent>
+          <head>
+              <charseq START="405" END="412">brothers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E4-M204">
+          <extent>
+              <charseq START="436" END="438">her</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="438">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gloria Saunders">
+              <charseq START="214" END="228">Gloria Saunders</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E5-M107">
+          <extent>
+              <charseq START="266" END="389">a sex theater, where she is forced to perform various sexual acts with multiple partners in front of masked audience members</charseq>
+          </extent>
+          <head>
+              <charseq START="272" END="278">theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E5-M110">
+          <extent>
+              <charseq START="281" END="285">where</charseq>
+          </extent>
+          <head>
+              <charseq START="281" END="285">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E6-M115">
+          <extent>
+              <charseq START="337" END="389">multiple partners in front of masked audience members</charseq>
+          </extent>
+          <head>
+              <charseq START="346" END="353">partners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E7-M119">
+          <extent>
+              <charseq START="367" END="389">masked audience members</charseq>
+          </extent>
+          <head>
+              <charseq START="383" END="389">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E8-M120">
+          <extent>
+              <charseq START="374" END="381">audience</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="381">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E9-M203">
+          <extent>
+              <charseq START="436" END="449">her kidnappers</charseq>
+          </extent>
+          <head>
+              <charseq START="440" END="449">kidnappers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E10-M406">
+          <extent>
+              <charseq START="666" END="681">Procter &amp; Gamble</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="681">Procter &amp; Gamble</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E10-M503">
+          <extent>
+              <charseq START="782" END="797">Procter &amp; Gamble</charseq>
+          </extent>
+          <head>
+              <charseq START="782" END="797">Procter &amp; Gamble</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Procter &amp; Gamble">
+              <charseq START="666" END="681">Procter &amp; Gamble</charseq>
+          </name>
+          <name NAME="Procter &amp; Gamble">
+              <charseq START="782" END="797">Procter &amp; Gamble</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E11-M407" ROLE="LOC">
+          <extent>
+              <charseq START="687" END="696">Ivory Snow</charseq>
+          </extent>
+          <head>
+              <charseq START="687" END="696">Ivory Snow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ivory Snow">
+              <charseq START="687" END="696">Ivory Snow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E12" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E12-M711">
+          <extent>
+              <charseq START="1212" END="1276">the Mitchells out of their headquarters in the O&apos;Farrell Theatre)</charseq>
+          </extent>
+          <head>
+              <charseq START="1216" END="1224">Mitchells</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E12-M802">
+          <extent>
+              <charseq START="1298" END="1310">the Mitchells</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1310">Mitchells</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitchells">
+              <charseq START="1216" END="1224">Mitchells</charseq>
+          </name>
+          <name NAME="Mitchells">
+              <charseq START="1302" END="1310">Mitchells</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E13-M717">
+          <extent>
+              <charseq START="1255" END="1276">the O&apos;Farrell Theatre)</charseq>
+          </extent>
+          <head>
+              <charseq START="1259" END="1275">O&apos;Farrell Theatre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="O&apos;Farrell Theatre">
+              <charseq START="1259" END="1275">O&apos;Farrell Theatre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E14-M714">
+          <extent>
+              <charseq START="1233" END="1276">their headquarters in the O&apos;Farrell Theatre)</charseq>
+          </extent>
+          <head>
+              <charseq START="1239" END="1250">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E15-M811">
+          <extent>
+              <charseq START="1387" END="1407">singer Sharon McNight</charseq>
+          </extent>
+          <head>
+              <charseq START="1394" END="1407">Sharon McNight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E15-M812">
+          <extent>
+              <charseq START="1387" END="1392">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="1387" END="1392">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sharon McNight">
+              <charseq START="1394" END="1407">Sharon McNight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E16-M816">
+          <extent>
+              <charseq START="1439" END="1538">Missy (who was Artie Mitchell&apos;s girlfriend at the time and reportedly demanded to be given the role)</charseq>
+          </extent>
+          <head>
+              <charseq START="1439" END="1443">Missy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E16-M910">
+          <extent>
+              <charseq START="1692" END="1704">the Mitchells</charseq>
+          </extent>
+          <head>
+              <charseq START="1696" END="1704">Mitchells</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Missy">
+              <charseq START="1439" END="1443">Missy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E17-M814">
+          <extent>
+              <charseq START="1422" END="1538">a newcomer named Missy (who was Artie Mitchell&apos;s girlfriend at the time and reportedly demanded to be given the role)</charseq>
+          </extent>
+          <head>
+              <charseq START="1424" END="1431">newcomer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E17-M818">
+          <extent>
+              <charseq START="1446" END="1448">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1446" END="1448">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E18-M819">
+          <extent>
+              <charseq START="1454" END="1480">Artie Mitchell&apos;s girlfriend</charseq>
+          </extent>
+          <head>
+              <charseq START="1471" END="1480">girlfriend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E19-M903">
+          <extent>
+              <charseq START="1560" END="1577">all sex performers</charseq>
+          </extent>
+          <head>
+              <charseq START="1568" END="1577">performers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E20-M1001">
+          <extent>
+              <charseq START="1740" END="1778">The Mitchell Brothers O&apos;Farrell Theatre</charseq>
+          </extent>
+          <head>
+              <charseq START="1744" END="1778">Mitchell Brothers O&apos;Farrell Theatre</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E20-M1003">
+          <extent>
+              <charseq START="1781" END="1809">a strip club in San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1792">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitchell Brothers O&apos;Farrell Theatre">
+              <charseq START="1744" END="1778">Mitchell Brothers O&apos;Farrell Theatre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E21-M1006" ROLE="LOC">
+          <extent>
+              <charseq START="1797" END="1809">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1797" END="1809">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="1797" END="1809">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E22" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E22-M1007">
+          <extent>
+              <charseq START="1821" END="1903">a &quot;Green Door room&quot; which is named for the two movies and was the set of the sequel</charseq>
+          </extent>
+          <head>
+              <charseq START="1835" END="1838">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E22-M1011">
+          <extent>
+              <charseq START="1841" END="1845">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1841" END="1845">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E23-M1102">
+          <extent>
+              <charseq START="1950" END="1970">the XRCO Hall of Fame</charseq>
+          </extent>
+          <head>
+              <charseq START="1954" END="1970">XRCO Hall of Fame</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="XRCO Hall of Fame">
+              <charseq START="1954" END="1970">XRCO Hall of Fame</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E24-M1409">
+          <extent>
+              <charseq START="2284" END="2294">Jackie Chan</charseq>
+          </extent>
+          <head>
+              <charseq START="2284" END="2294">Jackie Chan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Behind_the_Green_Door.sentences.sgm-E24-M1413">
+          <extent>
+              <charseq START="2322" END="2324">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2322" END="2324">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jackie Chan">
+              <charseq START="2284" END="2294">Jackie Chan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E25" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Behind_the_Green_Door.sentences.sgm-E25-M1412">
+          <extent>
+              <charseq START="2322" END="2338">his high-tech car</charseq>
+          </extent>
+          <head>
+              <charseq START="2336" END="2338">car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E26-M1507">
+          <extent>
+              <charseq START="2457" END="2469">Charlie Sheen</charseq>
+          </extent>
+          <head>
+              <charseq START="2457" END="2469">Charlie Sheen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Sheen">
+              <charseq START="2457" END="2469">Charlie Sheen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E27-M1508">
+          <extent>
+              <charseq START="2475" END="2488">Emilio Estevez</charseq>
+          </extent>
+          <head>
+              <charseq START="2475" END="2488">Emilio Estevez</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Emilio Estevez">
+              <charseq START="2475" END="2488">Emilio Estevez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E28-M1510">
+          <extent>
+              <charseq START="2493" END="2497">Artie</charseq>
+          </extent>
+          <head>
+              <charseq START="2493" END="2497">Artie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Artie">
+              <charseq START="2493" END="2497">Artie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Behind_the_Green_Door.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Behind_the_Green_Door.sentences.sgm-E29-M1511">
+          <extent>
+              <charseq START="2503" END="2505">Jim</charseq>
+          </extent>
+          <head>
+              <charseq START="2503" END="2505">Jim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jim">
+              <charseq START="2503" END="2505">Jim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T0" VAL="1972">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="61" END="64">1972</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T1" VAL="PT7M">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="576" END="588">seven minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T2" VAL="1999">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="732" END="733">99</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T3" VAL="P1Y">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="939" END="960">later in the same year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1024" END="1026">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Behind_the_Green_Door.sentences.sgm-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Behind_the_Green_Door.sentences.sgm-V5-M1">
+            <extent>
+              <charseq START="1091" END="1097">$60,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Behind_the_Green_Door.sentences.sgm-V6" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Behind_the_Green_Door.sentences.sgm-V6-M1">
+            <extent>
+              <charseq START="1134" END="1144">$25 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T7" VAL="1986">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1292" END="1295">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Behind_the_Green_Door.sentences.sgm-V8" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Behind_the_Green_Door.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="1718" END="1737">thousands of dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Behind_the_Green_Door.sentences.sgm-T9" VAL="1956">
+        <timex2_mention ID="Behind_the_Green_Door.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2169" END="2172">1956</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Behind_the_Green_Door.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Behind_the_Green_Door.sentences.sgm-R0-M700">
+          <extent>
+              <charseq START="1233" END="1276">their headquarters in the O&apos;Farrell Theatre)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E14-M714" ROLE="Arg-1">
+            <extent>
+              <charseq START="1233" END="1276">their headquarters in the O&apos;Farrell Theatre)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E13-M717" ROLE="Arg-2">
+            <extent>
+              <charseq START="1255" END="1276">the O&apos;Farrell Theatre)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Behind_the_Green_Door.sentences.sgm-R1" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Behind_the_Green_Door.sentences.sgm-R1-M800">
+          <extent>
+              <charseq START="1454" END="1467">Artie Mitchell</charseq>
+          </extent>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E2-M820" ROLE="Arg-1">
+            <extent>
+              <charseq START="1454" END="1467">Artie Mitchell</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E18-M819" ROLE="Arg-2">
+            <extent>
+              <charseq START="1454" END="1480">Artie Mitchell&apos;s girlfriend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Behind_the_Green_Door.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Behind_the_Green_Door.sentences.sgm-R2-M1000">
+          <extent>
+              <charseq START="1781" END="1809">a strip club in San Francisco</charseq>
+          </extent>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E20-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1781" END="1809">a strip club in San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E21-M1006" ROLE="Arg-2">
+            <extent>
+              <charseq START="1797" END="1809">San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Behind_the_Green_Door.sentences.sgm-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="Behind_the_Green_Door.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Behind_the_Green_Door.sentences.sgm-R3-M1400">
+          <extent>
+              <charseq START="2322" END="2324">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E24-M1413" ROLE="Arg-1">
+            <extent>
+              <charseq START="2322" END="2324">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E25-M1412" ROLE="Arg-2">
+            <extent>
+              <charseq START="2322" END="2338">his high-tech car</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Behind_the_Green_Door.sentences.sgm-EV0" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Behind_the_Green_Door.sentences.sgm-E10" ROLE="Artifact"/>
+      <event_mention ID="Behind_the_Green_Door.sentences.sgm-EV0-M400">
+          <extent>
+              <charseq START="709" END="712">sold</charseq>
+          </extent>
+          <anchor>
+              <charseq START="709" END="712">sold</charseq>
+          </anchor>
+        <event_mention_argument REFID="Behind_the_Green_Door.sentences.sgm-E10-M406" ROLE="Artifact">
+          <extent>
+              <charseq START="666" END="681">Procter &amp; Gamble</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Behind_the_Green_Door.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Behind_the_Green_Door.sentences.sgm-EV1-M900">
+          <extent>
+              <charseq START="1593" END="1597">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1593" END="1597">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

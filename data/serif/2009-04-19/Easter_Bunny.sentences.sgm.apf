@@ -1,0 +1,1444 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Easter_Bunny.sentences.sgm">
+  <document DOCID="Easter_Bunny.sentences.sgm">
+
+    <entity ID="Easter_Bunny.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E0-M4">
+          <extent>
+              <charseq START="66" END="123">a mythical character depicted as an anthropomorphic rabbit</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="85">character</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E1-M110">
+          <extent>
+              <charseq START="209" END="242">the homes of children on the night</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="217">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M112">
+          <extent>
+              <charseq START="222" END="242">children on the night</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="229">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M207">
+          <extent>
+              <charseq START="366" END="377">the children</charseq>
+          </extent>
+          <head>
+              <charseq START="370" END="377">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M208">
+          <extent>
+              <charseq START="392" END="395">they</charseq>
+          </extent>
+          <head>
+              <charseq START="392" END="395">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M314">
+          <extent>
+              <charseq START="552" END="577">good children on the night</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="564">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M318">
+          <extent>
+              <charseq START="586" END="590">their</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="590">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M500">
+          <extent>
+              <charseq START="884" END="914">The first edible Easter Bunnies</charseq>
+          </extent>
+          <head>
+              <charseq START="908" END="914">Bunnies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M801">
+          <extent>
+              <charseq START="1412" END="1419">children</charseq>
+          </extent>
+          <head>
+              <charseq START="1412" END="1419">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M809">
+          <extent>
+              <charseq START="1509" END="1513">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1513">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M903">
+          <extent>
+              <charseq START="1552" END="1563">the children</charseq>
+          </extent>
+          <head>
+              <charseq START="1556" END="1563">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M1102">
+          <extent>
+              <charseq START="1806" END="1836">young children around the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1812" END="1819">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M1106">
+          <extent>
+              <charseq START="1843" END="1850">children</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1850">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M1201">
+          <extent>
+              <charseq START="1951" END="1962">the children</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1962">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M1300">
+          <extent>
+              <charseq START="2038" END="2049">the children</charseq>
+          </extent>
+          <head>
+              <charseq START="2042" END="2049">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M1301">
+          <extent>
+              <charseq START="2059" END="2062">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2059" END="2062">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M1304">
+          <extent>
+              <charseq START="2082" END="2086">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2082" END="2086">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M3008">
+          <extent>
+              <charseq START="4042" END="4055">their children</charseq>
+          </extent>
+          <head>
+              <charseq START="4048" END="4055">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M3009">
+          <extent>
+              <charseq START="4042" END="4046">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4042" END="4046">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M3305">
+          <extent>
+              <charseq START="4344" END="4357">their children</charseq>
+          </extent>
+          <head>
+              <charseq START="4350" END="4357">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E2-M3501">
+          <extent>
+              <charseq START="4559" END="4576">only good children</charseq>
+          </extent>
+          <head>
+              <charseq START="4569" END="4576">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M3506">
+          <extent>
+              <charseq START="4627" END="4630">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4627" END="4630">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E2-M3510">
+          <extent>
+              <charseq START="4640" END="4644">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4640" END="4644">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E3-M206">
+          <extent>
+              <charseq START="352" END="360">the house</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="360">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E4-M308" ROLE="LOC">
+          <extent>
+              <charseq START="501" END="512">Santa Claus,</charseq>
+          </extent>
+          <head>
+              <charseq START="501" END="511">Santa Claus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Santa Claus">
+              <charseq START="501" END="511">Santa Claus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E5-M304">
+          <extent>
+              <charseq START="466" END="498">its Christmas holiday counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="498">counterpart</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M409" ROLE="GPE">
+          <extent>
+              <charseq START="681" END="686">German</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="686">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M423">
+          <extent>
+              <charseq START="813" END="819">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="819">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M428" ROLE="GPE">
+          <extent>
+              <charseq START="854" END="859">German</charseq>
+          </extent>
+          <head>
+              <charseq START="854" END="859">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M503" ROLE="LOC">
+          <extent>
+              <charseq START="929" END="935">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="935">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M605" ROLE="GPE">
+          <extent>
+              <charseq START="1045" END="1050">German</charseq>
+          </extent>
+          <head>
+              <charseq START="1045" END="1050">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M710" ROLE="GPE">
+          <extent>
+              <charseq START="1222" END="1227">German</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1227">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M719" ROLE="LOC">
+          <extent>
+              <charseq START="1342" END="1363">the German Christkindl</charseq>
+          </extent>
+          <head>
+              <charseq START="1346" END="1363">German Christkindl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M3001">
+          <extent>
+              <charseq START="3921" END="3926">German</charseq>
+          </extent>
+          <head>
+              <charseq START="3921" END="3926">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M3302" ROLE="GPE">
+          <extent>
+              <charseq START="4290" END="4295">German</charseq>
+          </extent>
+          <head>
+              <charseq START="4290" END="4295">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M3603" ROLE="LOC">
+          <extent>
+              <charseq START="4739" END="4752">Germany itself</charseq>
+          </extent>
+          <head>
+              <charseq START="4739" END="4745">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E6-M3801" ROLE="LOC">
+          <extent>
+              <charseq START="4861" END="4866">German</charseq>
+          </extent>
+          <head>
+              <charseq START="4861" END="4866">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="German">
+              <charseq START="681" END="686">German</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="813" END="819">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="854" END="859">German</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="929" END="935">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="1045" END="1050">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="1222" END="1227">German</charseq>
+          </name>
+          <name NAME="German Christkindl">
+              <charseq START="1346" END="1363">German Christkindl</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="3921" END="3926">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="4290" END="4295">German</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="4739" END="4745">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="4861" END="4866">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E7-M421">
+          <extent>
+              <charseq START="789" END="794">Alsace</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="794">Alsace</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E7-M424">
+          <extent>
+              <charseq START="822" END="826">where</charseq>
+          </extent>
+          <head>
+              <charseq START="822" END="826">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alsace">
+              <charseq START="789" END="794">Alsace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E8-M602" ROLE="LOC">
+          <extent>
+              <charseq START="1030" END="1036">America</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1036">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E8-M3203" ROLE="LOC">
+          <extent>
+              <charseq START="4251" END="4267">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4255" END="4267">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="America">
+              <charseq START="1030" END="1036">America</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="4255" END="4267">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E9-M608" ROLE="GPE">
+          <extent>
+              <charseq START="1080" END="1091">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="1080" END="1091">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania">
+              <charseq START="1080" END="1091">Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E10-M609" ROLE="GPE">
+          <extent>
+              <charseq START="1093" END="1097">Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="1093" END="1097">Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E10-M607" ROLE="LOC">
+          <extent>
+              <charseq START="1076" END="1105">the Pennsylvania Dutch country</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1105">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dutch">
+              <charseq START="1093" END="1097">Dutch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E11-M603">
+          <extent>
+              <charseq START="1041" END="1122">the German settlers who arrived in the Pennsylvania Dutch country during the 1700s</charseq>
+          </extent>
+          <head>
+              <charseq START="1052" END="1059">settlers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E11-M606">
+          <extent>
+              <charseq START="1061" END="1063">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1061" END="1063">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E12-M717">
+          <extent>
+              <charseq START="1322" END="1364">Kriist Kindle (from the German Christkindl)</charseq>
+          </extent>
+          <head>
+              <charseq START="1322" END="1334">Kriist Kindle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kriist Kindle">
+              <charseq START="1322" END="1334">Kriist Kindle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E13-M806">
+          <extent>
+              <charseq START="1491" END="1519">secluded areas of their homes</charseq>
+          </extent>
+          <head>
+              <charseq START="1500" END="1504">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E14-M808">
+          <extent>
+              <charseq START="1509" END="1519">their homes</charseq>
+          </extent>
+          <head>
+              <charseq START="1515" END="1519">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E15-M1008">
+          <extent>
+              <charseq START="1735" END="1749">a secluded area</charseq>
+          </extent>
+          <head>
+              <charseq START="1746" END="1749">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E15-M3303">
+          <extent>
+              <charseq START="4311" END="4337">the Pennsylvania Dutch area</charseq>
+          </extent>
+          <head>
+              <charseq START="4334" END="4337">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E16-M1100">
+          <extent>
+              <charseq START="1795" END="1836">Parents of young children around the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1795" END="1801">Parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E16-M1200">
+          <extent>
+              <charseq START="1927" END="1933">Parents</charseq>
+          </extent>
+          <head>
+              <charseq START="1927" END="1933">Parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E17-M1104">
+          <extent>
+              <charseq START="1828" END="1836">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1832" END="1836">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E18-M1516">
+          <extent>
+              <charseq START="2350" END="2367">the Vernal Equinox</charseq>
+          </extent>
+          <head>
+              <charseq START="2354" END="2367">Vernal Equinox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vernal Equinox">
+              <charseq START="2354" END="2367">Vernal Equinox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M1611">
+          <extent>
+              <charseq START="2465" END="2495">the females in the early spring</charseq>
+          </extent>
+          <head>
+              <charseq START="2469" END="2475">females</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M1700">
+          <extent>
+              <charseq START="2536" END="2546">the females</charseq>
+          </extent>
+          <head>
+              <charseq START="2540" END="2546">females</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M1703">
+          <extent>
+              <charseq START="2561" END="2569">the males</charseq>
+          </extent>
+          <head>
+              <charseq START="2565" END="2569">males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M1707">
+          <extent>
+              <charseq START="2677" END="2691">early observers</charseq>
+          </extent>
+          <head>
+              <charseq START="2683" END="2691">observers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M2000">
+          <extent>
+              <charseq START="2929" END="2939">The females</charseq>
+          </extent>
+          <head>
+              <charseq START="2933" END="2939">females</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M3300">
+          <extent>
+              <charseq START="4290" END="4337">German immigrants in the Pennsylvania Dutch area</charseq>
+          </extent>
+          <head>
+              <charseq START="4297" END="4306">immigrants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E19-M3306">
+          <extent>
+              <charseq START="4344" END="4348">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4344" END="4348">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E19-M3826">
+          <extent>
+              <charseq START="5120" END="5128">predators</charseq>
+          </extent>
+          <head>
+              <charseq START="5120" END="5128">predators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E20-M1903">
+          <extent>
+              <charseq START="2905" END="2926">both prolific breeders</charseq>
+          </extent>
+          <head>
+              <charseq START="2919" END="2926">breeders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E21-M2307">
+          <extent>
+              <charseq START="3223" END="3229">bunnies</charseq>
+          </extent>
+          <head>
+              <charseq START="3223" END="3229">bunnies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E22-M2820">
+          <extent>
+              <charseq START="3793" END="3813">the sacrificed Christ</charseq>
+          </extent>
+          <head>
+              <charseq START="3808" END="3813">Christ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christ">
+              <charseq START="3808" END="3813">Christ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E23-M2800">
+          <extent>
+              <charseq START="3622" END="3656">Many eastern Christians to this day</charseq>
+          </extent>
+          <head>
+              <charseq START="3635" END="3644">Christians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Easter_Bunny.sentences.sgm-E23-M2805">
+          <extent>
+              <charseq START="3672" END="3676">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3672" END="3676">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E24-M3000">
+          <extent>
+              <charseq START="3921" END="3938">German Protestants</charseq>
+          </extent>
+          <head>
+              <charseq START="3928" END="3938">Protestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Protestants">
+              <charseq START="3928" END="3938">Protestants</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E25-M3005">
+          <extent>
+              <charseq START="3961" END="3968">Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="3961" END="3968">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E25-M3012">
+          <extent>
+              <charseq START="4064" END="4071">Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="4064" END="4071">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E25-M3101">
+          <extent>
+              <charseq START="4113" END="4121">Catholics</charseq>
+          </extent>
+          <head>
+              <charseq START="4113" END="4121">Catholics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Catholic">
+              <charseq START="3961" END="3968">Catholic</charseq>
+          </name>
+          <name NAME="Catholic">
+              <charseq START="4064" END="4071">Catholic</charseq>
+          </name>
+          <name NAME="Catholics">
+              <charseq START="4113" END="4121">Catholics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E26-M3304" ROLE="GPE">
+          <extent>
+              <charseq START="4315" END="4332">Pennsylvania Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="4315" END="4332">Pennsylvania Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania Dutch">
+              <charseq START="4315" END="4332">Pennsylvania Dutch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E27-M3400">
+          <extent>
+              <charseq START="4416" END="4419">Hase</charseq>
+          </extent>
+          <head>
+              <charseq START="4416" END="4419">Hase</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hase">
+              <charseq START="4416" END="4419">Hase</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E28-M3403" ROLE="GPE">
+          <extent>
+              <charseq START="4455" END="4472">Northwest European</charseq>
+          </extent>
+          <head>
+              <charseq START="4455" END="4472">Northwest European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northwest European">
+              <charseq START="4455" END="4472">Northwest European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E29-M3601">
+          <extent>
+              <charseq START="4687" END="4697">Jakob Grimm</charseq>
+          </extent>
+          <head>
+              <charseq START="4687" END="4697">Jakob Grimm</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E29-M3703">
+          <extent>
+              <charseq START="4798" END="4802">Grimm</charseq>
+          </extent>
+          <head>
+              <charseq START="4798" END="4802">Grimm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jakob Grimm">
+              <charseq START="4687" END="4697">Jakob Grimm</charseq>
+          </name>
+          <name NAME="Grimm">
+              <charseq START="4798" END="4802">Grimm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E30-M3707">
+          <extent>
+              <charseq START="4849" END="4854">Ostara</charseq>
+          </extent>
+          <head>
+              <charseq START="4849" END="4854">Ostara</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ostara">
+              <charseq START="4849" END="4854">Ostara</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E31-M3701">
+          <extent>
+              <charseq START="4762" END="4783">many related landmarks</charseq>
+          </extent>
+          <head>
+              <charseq START="4775" END="4783">landmarks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E32-M3803">
+          <extent>
+              <charseq START="4872" END="4876">Amish</charseq>
+          </extent>
+          <head>
+              <charseq START="4872" END="4876">Amish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amish">
+              <charseq START="4872" END="4876">Amish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E33" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E33-M3807" ROLE="GPE">
+          <extent>
+              <charseq START="4913" END="4920">European</charseq>
+          </extent>
+          <head>
+              <charseq START="4913" END="4920">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="4913" END="4920">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Easter_Bunny.sentences.sgm-E34-M4216">
+          <extent>
+              <charseq START="5542" END="5557">the Easter Bunny</charseq>
+          </extent>
+          <head>
+              <charseq START="5546" END="5557">Easter Bunny</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Easter Bunny">
+              <charseq START="5546" END="5557">Easter Bunny</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Easter_Bunny.sentences.sgm-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Easter_Bunny.sentences.sgm-E35-M4200">
+          <extent>
+              <charseq START="5412" END="5557">Gallery
+See also
+Easter Bilby
+Santa Claus
+References
+Further reading
+Ostara&apos;s Hare: The Pagan Origin of Easter
+Easter Origins and the Easter Bunny</charseq>
+          </extent>
+          <head>
+              <charseq START="5412" END="5418">Gallery</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T0" VAL="TNI" MOD="BEFORE">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="234" END="256">the night before Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T1" VAL="TMO">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="408" END="418">the morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T2" VAL="XXXX-12-25">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="470" END="486">Christmas holiday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T3" VAL="TNI" MOD="BEFORE">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="569" END="609">the night before their respective holiday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T4" VAL="16">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="873" END="881">the 1600s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T5" VAL="18" MOD="START">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="944" END="958">the early 1800s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T6" VAL="17">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1114" END="1122">the 1700s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T7" VAL="XXXX-12-25">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1369" END="1381">Christmas Eve</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T8" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1682" END="1687">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T9">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1854" END="1859">Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T10" VAL="XXXX-SP" MOD="START">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="2271" END="2286">the early spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T11" VAL="XXXX-03">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2391" END="2395">March</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T12" VAL="XXXX-SP" MOD="START">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2480" END="2495">the early spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T13" VAL="XXXX-SP">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2723" END="2728">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T14" VAL="XXXX-SP">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2871" END="2880">the spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T15">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="3130" END="3141">an early age</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T16" VAL="P1Y">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3181" END="3186">a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T17">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="3405" END="3410">Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T18">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3649" END="3656">this day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T19" VAL="XXXX-WI">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3891" END="3918">the long dead time of winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T20">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="4004" END="4009">Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T21">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="4198" END="4208">Easter time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T22" VAL="17">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="4272" END="4287">the 18th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T23">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4670" END="4675">Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T24" VAL="1835">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4681" END="4684">1835</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T25" VAL="XXXX-SP">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="5400" END="5409">the spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Easter_Bunny.sentences.sgm-T26">
+        <timex2_mention ID="Easter_Bunny.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="5523" END="5528">Easter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="222" END="242">children on the night</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E2-M112" ROLE="Arg-1">
+            <extent>
+              <charseq START="222" END="242">children on the night</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E1-M110" ROLE="Arg-2">
+            <extent>
+              <charseq START="209" END="242">the homes of children on the night</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R1-M600">
+          <extent>
+              <charseq START="1041" END="1122">the German settlers who arrived in the Pennsylvania Dutch country during the 1700s</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E11-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="1041" END="1122">the German settlers who arrived in the Pennsylvania Dutch country during the 1700s</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E6-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="1045" END="1050">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R2-M601">
+          <extent>
+              <charseq START="1061" END="1063">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E11-M606" ROLE="Arg-1">
+            <extent>
+              <charseq START="1061" END="1063">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E10-M607" ROLE="Arg-2">
+            <extent>
+              <charseq START="1076" END="1105">the Pennsylvania Dutch country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R3-M602">
+          <extent>
+              <charseq START="1076" END="1105">the Pennsylvania Dutch country</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E10-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="1076" END="1105">the Pennsylvania Dutch country</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E9-M608" ROLE="Arg-2">
+            <extent>
+              <charseq START="1080" END="1091">Pennsylvania</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R4-M800">
+          <extent>
+              <charseq START="1412" END="1419">children</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E2-M801" ROLE="Arg-1">
+            <extent>
+              <charseq START="1412" END="1419">children</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E13-M806" ROLE="Arg-2">
+            <extent>
+              <charseq START="1491" END="1519">secluded areas of their homes</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R5-M801">
+          <extent>
+              <charseq START="1509" END="1513">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E2-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1509" END="1513">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E14-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="1509" END="1519">their homes</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R6-M1100">
+          <extent>
+              <charseq START="1795" END="1836">Parents of young children around the world</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E16-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1795" END="1836">Parents of young children around the world</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E2-M1102" ROLE="Arg-2">
+            <extent>
+              <charseq START="1806" END="1836">young children around the world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R7-M3000">
+          <extent>
+              <charseq START="3921" END="3938">German Protestants</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E24-M3000" ROLE="Arg-1">
+            <extent>
+              <charseq START="3921" END="3938">German Protestants</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E6-M3001" ROLE="Arg-2">
+            <extent>
+              <charseq START="3921" END="3926">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R8-M3300">
+          <extent>
+              <charseq START="4290" END="4337">German immigrants in the Pennsylvania Dutch area</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E19-M3300" ROLE="Arg-1">
+            <extent>
+              <charseq START="4290" END="4337">German immigrants in the Pennsylvania Dutch area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E6-M3302" ROLE="Arg-2">
+            <extent>
+              <charseq START="4290" END="4295">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R9-M3301">
+          <extent>
+              <charseq START="4290" END="4337">German immigrants in the Pennsylvania Dutch area</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E19-M3300" ROLE="Arg-1">
+            <extent>
+              <charseq START="4290" END="4337">German immigrants in the Pennsylvania Dutch area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E15-M3303" ROLE="Arg-2">
+            <extent>
+              <charseq START="4311" END="4337">the Pennsylvania Dutch area</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R10-M3302">
+          <extent>
+              <charseq START="4311" END="4337">the Pennsylvania Dutch area</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E15-M3303" ROLE="Arg-1">
+            <extent>
+              <charseq START="4311" END="4337">the Pennsylvania Dutch area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E26-M3304" ROLE="Arg-2">
+            <extent>
+              <charseq START="4315" END="4332">Pennsylvania Dutch</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Easter_Bunny.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Easter_Bunny.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Easter_Bunny.sentences.sgm-R11-M3303">
+          <extent>
+              <charseq START="4344" END="4348">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E19-M3306" ROLE="Arg-1">
+            <extent>
+              <charseq START="4344" END="4348">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Easter_Bunny.sentences.sgm-E2-M3305" ROLE="Arg-2">
+            <extent>
+              <charseq START="4344" END="4357">their children</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Easter_Bunny.sentences.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Easter_Bunny.sentences.sgm-E10" ROLE="Destination"/>
+      <event_argument REFID="Easter_Bunny.sentences.sgm-E11" ROLE="Artifact"/>
+      <event_mention ID="Easter_Bunny.sentences.sgm-EV0-M601">
+          <extent>
+              <charseq START="1065" END="1071">arrived</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1065" END="1071">arrived</charseq>
+          </anchor>
+        <event_mention_argument REFID="Easter_Bunny.sentences.sgm-E10-M607" ROLE="Destination">
+          <extent>
+              <charseq START="1076" END="1105">the Pennsylvania Dutch country</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Easter_Bunny.sentences.sgm-E11-M606" ROLE="Artifact">
+          <extent>
+              <charseq START="1061" END="1063">who</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Easter_Bunny.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Easter_Bunny.sentences.sgm-T10" ROLE="Time-Within"/>
+      <event_argument REFID="Easter_Bunny.sentences.sgm-T16" ROLE="Time-Within"/>
+      <event_mention ID="Easter_Bunny.sentences.sgm-EV1-M1500">
+          <extent>
+              <charseq START="2245" END="2249">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2245" END="2249">birth</charseq>
+          </anchor>
+          <event_mention_argument REFID="Easter_Bunny.sentences.sgm-T10-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2271" END="2286">the early spring</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Easter_Bunny.sentences.sgm-EV1-M2300">
+          <extent>
+              <charseq START="3156" END="3160">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3156" END="3160">birth</charseq>
+          </anchor>
+          <event_mention_argument REFID="Easter_Bunny.sentences.sgm-T16-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3181" END="3186">a year</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Easter_Bunny.sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Easter_Bunny.sentences.sgm-EV2-M1800">
+          <extent>
+              <charseq START="2807" END="2814">retiring</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2807" END="2814">retiring</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

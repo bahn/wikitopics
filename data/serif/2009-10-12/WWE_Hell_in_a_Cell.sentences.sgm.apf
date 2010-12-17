@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="WWE_Hell_in_a_Cell.sentences.sgm">
+  <document DOCID="WWE_Hell_in_a_Cell.sentences.sgm">
+
+    <entity ID="WWE_Hell_in_a_Cell.sentences.sgm-E0" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WWE_Hell_in_a_Cell.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="52" END="57">a Cell</charseq>
+          </extent>
+          <head>
+              <charseq START="54" END="57">Cell</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="WWE_Hell_in_a_Cell.sentences.sgm-T0" VAL="2009">
+        <timex2_mention ID="WWE_Hell_in_a_Cell.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="60" END="63">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+  </document>
+</source_file>

@@ -1,0 +1,3145 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="The_X_Factor_(UK_series_6).sentences.sgm">
+  <document DOCID="The_X_Factor_(UK_series_6).sentences.sgm">
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M3" ROLE="GPE">
+          <extent>
+              <charseq START="63" END="69">British</charseq>
+          </extent>
+          <head>
+              <charseq START="63" END="69">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M207" ROLE="LOC">
+          <extent>
+              <charseq START="289" END="306">the United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="293" END="306">United Kingdom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M1116" ROLE="LOC">
+          <extent>
+              <charseq START="1600" END="1606">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="1600" END="1606">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M1413">
+          <extent>
+              <charseq START="2126" END="2132">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="2126" END="2132">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M5117">
+          <extent>
+              <charseq START="7437" END="7443">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="7437" END="7443">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="63" END="69">British</charseq>
+          </name>
+          <name NAME="United Kingdom">
+              <charseq START="293" END="306">United Kingdom</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="1600" END="1606">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="2126" END="2132">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="7437" END="7443">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E1-M8">
+          <extent>
+              <charseq START="129" END="131">ITV</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="131">ITV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ITV">
+              <charseq START="129" END="131">ITV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E2-M102">
+          <extent>
+              <charseq START="171" END="184">Dermot O&apos;Leary</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="184">Dermot O&apos;Leary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E2-M1000">
+          <extent>
+              <charseq START="1221" END="1234">Dermot O&apos;Leary</charseq>
+          </extent>
+          <head>
+              <charseq START="1221" END="1234">Dermot O&apos;Leary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E2-M1013">
+          <extent>
+              <charseq START="1402" END="1416">her first child</charseq>
+          </extent>
+          <head>
+              <charseq START="1412" END="1416">child</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dermot O&apos;Leary">
+              <charseq START="171" END="184">Dermot O&apos;Leary</charseq>
+          </name>
+          <name NAME="Dermot O&apos;Leary">
+              <charseq START="1221" END="1234">Dermot O&apos;Leary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E3-M202">
+          <extent>
+              <charseq START="216" END="226">pop singers</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="226">singers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E4-M205" ROLE="LOC">
+          <extent>
+              <charseq START="264" END="306">five major cities across the United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="280">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M301">
+          <extent>
+              <charseq START="309" END="320">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="309" END="320">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M305">
+          <extent>
+              <charseq START="386" END="400">the contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="400">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M408">
+          <extent>
+              <charseq START="574" END="584">contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="584">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M500">
+          <extent>
+              <charseq START="611" END="628">The 24 contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="618" END="628">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M906">
+          <extent>
+              <charseq START="1130" END="1141">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="1130" END="1141">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M2105">
+          <extent>
+              <charseq START="2762" END="2772">contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="2762" END="2772">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M2300">
+          <extent>
+              <charseq START="2995" END="3009">The contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="2999" END="3009">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M2408">
+          <extent>
+              <charseq START="3229" END="3234">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="3229" END="3234">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M2623">
+          <extent>
+              <charseq START="3571" END="3576">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="3571" END="3576">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M3604">
+          <extent>
+              <charseq START="4811" END="4829">summary
+Contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="4819" END="4829">Contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M4005">
+          <extent>
+              <charseq START="5501" END="5512">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="5501" END="5512">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M4101">
+          <extent>
+              <charseq START="5585" END="5590">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="5585" END="5590">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M4202">
+          <extent>
+              <charseq START="5648" END="5653">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="5648" END="5653">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M4805">
+          <extent>
+              <charseq START="6697" END="6707">contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="6697" END="6707">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M5100">
+          <extent>
+              <charseq START="7205" END="7285">Contestants
+The show was criticised in September 2009 for &quot;recycling&quot; contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="7205" END="7215">Contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E5-M5104">
+          <extent>
+              <charseq START="7263" END="7285">&quot;recycling&quot; contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="7275" END="7285">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Simon Cowell">
+              <charseq START="309" END="320">Simon Cowell</charseq>
+          </name>
+          <name NAME="Simon Cowell">
+              <charseq START="1130" END="1141">Simon Cowell</charseq>
+          </name>
+          <name NAME="Cowell">
+              <charseq START="3229" END="3234">Cowell</charseq>
+          </name>
+          <name NAME="Cowell">
+              <charseq START="3571" END="3576">Cowell</charseq>
+          </name>
+          <name NAME="Simon Cowell">
+              <charseq START="5501" END="5512">Simon Cowell</charseq>
+          </name>
+          <name NAME="Cowell">
+              <charseq START="5585" END="5590">Cowell</charseq>
+          </name>
+          <name NAME="Cowell">
+              <charseq START="5648" END="5653">Cowell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M302">
+          <extent>
+              <charseq START="323" END="336">Dannii Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="323" END="336">Dannii Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M907">
+          <extent>
+              <charseq START="1144" END="1157">Dannii Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="1144" END="1157">Dannii Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M902">
+          <extent>
+              <charseq START="1092" END="1101">presenters</charseq>
+          </extent>
+          <head>
+              <charseq START="1092" END="1101">presenters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M2404">
+          <extent>
+              <charseq START="3198" END="3204">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="3198" END="3204">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M2605">
+          <extent>
+              <charseq START="3423" END="3429">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="3423" END="3429">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M4201">
+          <extent>
+              <charseq START="5639" END="5645">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="5639" END="5645">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M4307">
+          <extent>
+              <charseq START="5761" END="5776">absentia
+Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="5770" END="5776">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M4308">
+          <extent>
+              <charseq START="5761" END="5768">absentia</charseq>
+          </extent>
+          <head>
+              <charseq START="5761" END="5768">absentia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5205">
+          <extent>
+              <charseq START="7531" END="7550">judge Dannii Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="7537" END="7550">Dannii Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5206">
+          <extent>
+              <charseq START="7531" END="7535">judge</charseq>
+          </extent>
+          <head>
+              <charseq START="7531" END="7535">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5301">
+          <extent>
+              <charseq START="7645" END="7651">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="7645" END="7651">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5305">
+          <extent>
+              <charseq START="7706" END="7712">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="7706" END="7712">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5407">
+          <extent>
+              <charseq START="7932" END="7934">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7932" END="7934">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5505">
+          <extent>
+              <charseq START="7994" END="7995">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7994" END="7995">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M5510">
+          <extent>
+              <charseq START="8033" END="8035">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8033" END="8035">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E6-M6000">
+          <extent>
+              <charseq START="8448" END="8454">Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="8448" END="8454">Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dannii Minogue">
+              <charseq START="323" END="336">Dannii Minogue</charseq>
+          </name>
+          <name NAME="Dannii Minogue">
+              <charseq START="1144" END="1157">Dannii Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="3198" END="3204">Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="3423" END="3429">Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="5639" END="5645">Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="5770" END="5776">Minogue</charseq>
+          </name>
+          <name NAME="Dannii Minogue">
+              <charseq START="7537" END="7550">Dannii Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="7645" END="7651">Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="7706" END="7712">Minogue</charseq>
+          </name>
+          <name NAME="Minogue">
+              <charseq START="8448" END="8454">Minogue</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M303">
+          <extent>
+              <charseq START="339" END="349">Louis Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="349">Louis Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M908">
+          <extent>
+              <charseq START="1160" END="1170">Louis Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="1160" END="1170">Louis Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M2410">
+          <extent>
+              <charseq START="3267" END="3271">Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="3267" END="3271">Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M2620">
+          <extent>
+              <charseq START="3536" END="3540">Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="3536" END="3540">Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M3609">
+          <extent>
+              <charseq START="4849" END="4853">Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="4849" END="4853">Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M3613">
+          <extent>
+              <charseq START="4885" END="4887">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4885" END="4887">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M3615">
+          <extent>
+              <charseq START="4912" END="4913">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4912" END="4913">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M3701">
+          <extent>
+              <charseq START="4949" END="4953">Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="4949" END="4953">Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M3704">
+          <extent>
+              <charseq START="4974" END="4976">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4974" END="4976">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M4303">
+          <extent>
+              <charseq START="5736" END="5740">Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="5736" END="5740">Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louis Walsh">
+              <charseq START="339" END="349">Louis Walsh</charseq>
+          </name>
+          <name NAME="Louis Walsh">
+              <charseq START="1160" END="1170">Louis Walsh</charseq>
+          </name>
+          <name NAME="Walsh">
+              <charseq START="3267" END="3271">Walsh</charseq>
+          </name>
+          <name NAME="Walsh">
+              <charseq START="3536" END="3540">Walsh</charseq>
+          </name>
+          <name NAME="Walsh">
+              <charseq START="4849" END="4853">Walsh</charseq>
+          </name>
+          <name NAME="Walsh">
+              <charseq START="4949" END="4953">Walsh</charseq>
+          </name>
+          <name NAME="Walsh">
+              <charseq START="5736" END="5740">Walsh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M304">
+          <extent>
+              <charseq START="356" END="366">Cheryl Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="366">Cheryl Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M909">
+          <extent>
+              <charseq START="1176" END="1186">Cheryl Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="1176" END="1186">Cheryl Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M2403">
+          <extent>
+              <charseq START="3192" END="3195">Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="3192" END="3195">Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M2601">
+          <extent>
+              <charseq START="3395" END="3398">Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="3395" END="3398">Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M2610">
+          <extent>
+              <charseq START="3445" END="3447">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3445" END="3447">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M3206">
+          <extent>
+              <charseq START="4586" END="4602">judge Cheryl Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="4592" END="4602">Cheryl Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M3207">
+          <extent>
+              <charseq START="4586" END="4590">judge</charseq>
+          </extent>
+          <head>
+              <charseq START="4586" END="4590">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M4203">
+          <extent>
+              <charseq START="5659" END="5662">Cole</charseq>
+          </extent>
+          <head>
+              <charseq START="5659" END="5662">Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M4331">
+          <extent>
+              <charseq START="5936" END="5970">Cheryl Cole (&quot;Fight for This Love&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="5936" END="5946">Cheryl Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cheryl Cole">
+              <charseq START="356" END="366">Cheryl Cole</charseq>
+          </name>
+          <name NAME="Cheryl Cole">
+              <charseq START="1176" END="1186">Cheryl Cole</charseq>
+          </name>
+          <name NAME="Cole">
+              <charseq START="3192" END="3195">Cole</charseq>
+          </name>
+          <name NAME="Cole">
+              <charseq START="3395" END="3398">Cole</charseq>
+          </name>
+          <name NAME="Cheryl Cole">
+              <charseq START="4592" END="4602">Cheryl Cole</charseq>
+          </name>
+          <name NAME="Cole">
+              <charseq START="5659" END="5662">Cole</charseq>
+          </name>
+          <name NAME="Cheryl Cole">
+              <charseq START="5936" END="5946">Cheryl Cole</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E9-M310">
+          <extent>
+              <charseq START="441" END="455">a live audience</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="455">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M505">
+          <extent>
+              <charseq START="664" END="667">Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="664" END="667">Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M515">
+          <extent>
+              <charseq START="733" END="743">the &quot;Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="743">Judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M506">
+          <extent>
+              <charseq START="670" END="674">Girls</charseq>
+          </extent>
+          <head>
+              <charseq START="670" END="674">Girls</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M512">
+          <extent>
+              <charseq START="725" END="728">them</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="728">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M602">
+          <extent>
+              <charseq START="795" END="800">Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="800">Judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M901">
+          <extent>
+              <charseq START="1081" END="1086">Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="1081" END="1086">Judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M903">
+          <extent>
+              <charseq START="1103" END="1126">All four series 5 judges</charseq>
+          </extent>
+          <head>
+              <charseq START="1121" END="1126">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M1905">
+          <extent>
+              <charseq START="2541" END="2546">judges</charseq>
+          </extent>
+          <head>
+              <charseq START="2541" END="2546">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2000">
+          <extent>
+              <charseq START="2664" END="2673">The judges</charseq>
+          </extent>
+          <head>
+              <charseq START="2668" END="2673">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2203">
+          <extent>
+              <charseq START="2841" END="2867">the judges for the final 24</charseq>
+          </extent>
+          <head>
+              <charseq START="2845" END="2850">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2303">
+          <extent>
+              <charseq START="3065" END="3150">the judges discovered which category they would mentor for the rest of the competition</charseq>
+          </extent>
+          <head>
+              <charseq START="3069" END="3074">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2307">
+          <extent>
+              <charseq START="3102" END="3105">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3102" END="3105">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2400">
+          <extent>
+              <charseq START="3153" END="3168">The Boys (16–24)</charseq>
+          </extent>
+          <head>
+              <charseq START="3157" END="3160">Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2405">
+          <extent>
+              <charseq START="3210" END="3226">the Girls (16–24)</charseq>
+          </extent>
+          <head>
+              <charseq START="3214" END="3218">Girls</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2506">
+          <extent>
+              <charseq START="3347" END="3357">the &quot;Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="3352" END="3357">Judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2701">
+          <extent>
+              <charseq START="3619" END="3624">Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="3619" END="3624">Judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2704">
+          <extent>
+              <charseq START="3653" END="3657">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3653" END="3657">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2708">
+          <extent>
+              <charseq START="3696" END="3700">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3696" END="3700">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2802">
+          <extent>
+              <charseq START="3803" END="3806">Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="3803" END="3806">Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2907">
+          <extent>
+              <charseq START="4299" END="4302">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4299" END="4302">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M3907">
+          <extent>
+              <charseq START="5422" END="5431">the judges</charseq>
+          </extent>
+          <head>
+              <charseq START="5426" END="5431">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M4002">
+          <extent>
+              <charseq START="5467" END="5476">the judges</charseq>
+          </extent>
+          <head>
+              <charseq START="5471" END="5476">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M4004">
+          <extent>
+              <charseq START="5485" END="5489">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5485" END="5489">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M4204">
+          <extent>
+              <charseq START="5676" END="5706">judges on the Sunday night show</charseq>
+          </extent>
+          <head>
+              <charseq START="5676" END="5681">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M4302">
+          <extent>
+              <charseq START="5709" END="5714">Judges</charseq>
+          </extent>
+          <head>
+              <charseq START="5709" END="5714">Judges</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E12-M509">
+          <extent>
+              <charseq START="690" END="695">Groups</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="695">Groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E12-M503">
+          <extent>
+              <charseq START="646" END="650">their</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="650">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E13-M510">
+          <extent>
+              <charseq START="707" END="758">a judge to mentor them at the &quot;Judges&apos; Houses&quot; stage</charseq>
+          </extent>
+          <head>
+              <charseq START="709" END="713">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E13-M611">
+          <extent>
+              <charseq START="942" END="949">a winner</charseq>
+          </extent>
+          <head>
+              <charseq START="944" END="949">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E14-M600">
+          <extent>
+              <charseq START="794" END="809">&quot;Judges&apos; Houses&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="803" END="808">Houses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E14-M2700">
+          <extent>
+              <charseq START="3619" END="3632">Judges&apos; Houses</charseq>
+          </extent>
+          <head>
+              <charseq START="3627" END="3632">Houses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E15-M1004">
+          <extent>
+              <charseq START="1280" END="1295">Holly Willoughby</charseq>
+          </extent>
+          <head>
+              <charseq START="1280" END="1295">Holly Willoughby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E15-M1014">
+          <extent>
+              <charseq START="1402" END="1404">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1402" END="1404">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Holly Willoughby">
+              <charseq START="1280" END="1295">Holly Willoughby</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E16-M1111">
+          <extent>
+              <charseq START="1521" END="1534">CHI &amp; Partners</charseq>
+          </extent>
+          <head>
+              <charseq START="1521" END="1534">CHI &amp; Partners</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CHI &amp; Partners">
+              <charseq START="1521" END="1534">CHI &amp; Partners</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E17-M1100">
+          <extent>
+              <charseq START="1419" END="1492">Sponsors
+This series of The X Factor is sponsored by TalkTalk and features</charseq>
+          </extent>
+          <head>
+              <charseq START="1419" END="1426">Sponsors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E18-M1207">
+          <extent>
+              <charseq START="1689" END="1706">TalkTalk customers</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1706">customers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E19-M1310" ROLE="LOC">
+          <extent>
+              <charseq START="1870" END="1875">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1870" END="1875">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="1870" END="1875">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E20-M1311">
+          <extent>
+              <charseq START="1878" END="1889">Excel Centre</charseq>
+          </extent>
+          <head>
+              <charseq START="1878" END="1889">Excel Centre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Excel Centre">
+              <charseq START="1878" END="1889">Excel Centre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E21-M1312">
+          <extent>
+              <charseq START="1893" END="1923">Manchester (Manchester Central)</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1902">Manchester</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manchester">
+              <charseq START="1893" END="1902">Manchester</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E22-M1314">
+          <extent>
+              <charseq START="1905" END="1922">Manchester Central</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1922">Manchester Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manchester Central">
+              <charseq START="1905" END="1922">Manchester Central</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E23-M1315">
+          <extent>
+              <charseq START="1926" END="1941">Birmingham (ICC)</charseq>
+          </extent>
+          <head>
+              <charseq START="1926" END="1935">Birmingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Birmingham">
+              <charseq START="1926" END="1935">Birmingham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E24-M1317">
+          <extent>
+              <charseq START="1938" END="1940">ICC</charseq>
+          </extent>
+          <head>
+              <charseq START="1938" END="1940">ICC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ICC">
+              <charseq START="1938" END="1940">ICC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E25-M1318">
+          <extent>
+              <charseq START="1944" END="1972">Cardiff (International Arena)</charseq>
+          </extent>
+          <head>
+              <charseq START="1944" END="1971">Cardiff (International Arena</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E25-M1322">
+          <extent>
+              <charseq START="1987" END="2000">Braehead Arena</charseq>
+          </extent>
+          <head>
+              <charseq START="1987" END="2000">Braehead Arena</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cardiff (International Arena">
+              <charseq START="1944" END="1971">Cardiff (International Arena</charseq>
+          </name>
+          <name NAME="Braehead Arena">
+              <charseq START="1987" END="2000">Braehead Arena</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E26-M1320" ROLE="LOC">
+          <extent>
+              <charseq START="1978" END="2001">Glasgow (Braehead Arena)</charseq>
+          </extent>
+          <head>
+              <charseq START="1978" END="1984">Glasgow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glasgow">
+              <charseq START="1978" END="1984">Glasgow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E27-M1306" ROLE="LOC">
+          <extent>
+              <charseq START="1857" END="2001">five cities: London (Excel Centre), Manchester (Manchester Central), Birmingham (ICC), Cardiff (International Arena) and Glasgow (Braehead Arena)</charseq>
+          </extent>
+          <head>
+              <charseq START="1862" END="1867">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E28-M1406">
+          <extent>
+              <charseq START="2068" END="2145">a live audience due to the success of a similar system on Britain&apos;s Got Talent</charseq>
+          </extent>
+          <head>
+              <charseq START="2075" END="2082">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E28-M1605">
+          <extent>
+              <charseq START="2371" END="2385">a live audience</charseq>
+          </extent>
+          <head>
+              <charseq START="2378" END="2385">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E29-M1704">
+          <extent>
+              <charseq START="2422" END="2443">the Hammersmith Apollo</charseq>
+          </extent>
+          <head>
+              <charseq START="2426" END="2443">Hammersmith Apollo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hammersmith Apollo">
+              <charseq START="2426" END="2443">Hammersmith Apollo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E30-M1801">
+          <extent>
+              <charseq START="2478" END="2486">Boot Camp</charseq>
+          </extent>
+          <head>
+              <charseq START="2483" END="2486">Camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E31-M1904">
+          <extent>
+              <charseq START="2530" END="2534">three</charseq>
+          </extent>
+          <head>
+              <charseq START="2530" END="2534">three</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E31-M1900">
+          <extent>
+              <charseq START="2489" END="2492">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2489" END="2492">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E31-M1907">
+          <extent>
+              <charseq START="2574" END="2576">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2574" END="2576">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E34" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M2202">
+          <extent>
+              <charseq START="2816" END="2824">Trucolorz</charseq>
+          </extent>
+          <head>
+              <charseq START="2816" END="2824">Trucolorz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M2200">
+          <extent>
+              <charseq START="2806" END="2824">the group Trucolorz</charseq>
+          </extent>
+          <head>
+              <charseq START="2810" END="2814">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M2211">
+          <extent>
+              <charseq START="2905" END="2913">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="2909" END="2913">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M2213">
+          <extent>
+              <charseq START="2959" END="2962">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2959" END="2962">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M3507">
+          <extent>
+              <charseq START="4773" END="4800">a group in each results show</charseq>
+          </extent>
+          <head>
+              <charseq START="4775" END="4779">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trucolorz">
+              <charseq START="2816" END="2824">Trucolorz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E35-M2215">
+          <extent>
+              <charseq START="2981" END="2992">Harmony Hood</charseq>
+          </extent>
+          <head>
+              <charseq START="2981" END="2992">Harmony Hood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E35-M2822">
+          <extent>
+              <charseq START="3979" END="3990">Harmony Hood</charseq>
+          </extent>
+          <head>
+              <charseq START="3979" END="3990">Harmony Hood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harmony Hood">
+              <charseq START="2981" END="2992">Harmony Hood</charseq>
+          </name>
+          <name NAME="Harmony Hood">
+              <charseq START="3979" END="3990">Harmony Hood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E36-M2209">
+          <extent>
+              <charseq START="2905" END="2952">the group&apos;s members being too young for the show</charseq>
+          </extent>
+          <head>
+              <charseq START="2917" END="2923">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E38" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E38-M2413">
+          <extent>
+              <charseq START="3289" END="3298">the Groups</charseq>
+          </extent>
+          <head>
+              <charseq START="3293" END="3298">Groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E39-M2500">
+          <extent>
+              <charseq START="3301" END="3310">Each judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3306" END="3310">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E39-M2503">
+          <extent>
+              <charseq START="3326" END="3338">a guest judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3334" END="3338">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E39-M2706">
+          <extent>
+              <charseq START="3681" END="3690">each judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3686" END="3690">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E40-M2600">
+          <extent>
+              <charseq START="3375" END="3384">Will Young</charseq>
+          </extent>
+          <head>
+              <charseq START="3375" END="3384">Will Young</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Will Young">
+              <charseq START="3375" END="3384">Will Young</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E41-M2602" ROLE="LOC">
+          <extent>
+              <charseq START="3403" END="3420">Marrakech, Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="3403" END="3411">Marrakech</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marrakech">
+              <charseq START="3403" END="3411">Marrakech</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E42-M2604" ROLE="LOC">
+          <extent>
+              <charseq START="3414" END="3420">Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="3414" END="3420">Morocco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Morocco">
+              <charseq START="3414" END="3420">Morocco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E43-M2611">
+          <extent>
+              <charseq START="3456" END="3480">Kylie Minogue in Atlantis</charseq>
+          </extent>
+          <head>
+              <charseq START="3456" END="3468">Kylie Minogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kylie Minogue">
+              <charseq START="3456" END="3468">Kylie Minogue</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E44" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E44-M2613">
+          <extent>
+              <charseq START="3473" END="3480">Atlantis</charseq>
+          </extent>
+          <head>
+              <charseq START="3473" END="3480">Atlantis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atlantis">
+              <charseq START="3473" END="3480">Atlantis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E45-M2615" ROLE="LOC">
+          <extent>
+              <charseq START="3493" END="3497">Dubai</charseq>
+          </extent>
+          <head>
+              <charseq START="3493" END="3497">Dubai</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dubai">
+              <charseq START="3493" END="3497">Dubai</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E46-M2616">
+          <extent>
+              <charseq START="3500" END="3527">Boyzone singer Ronan Keating</charseq>
+          </extent>
+          <head>
+              <charseq START="3515" END="3527">Ronan Keating</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E46-M2618">
+          <extent>
+              <charseq START="3508" END="3513">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="3508" END="3513">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E46-M3835">
+          <extent>
+              <charseq START="5285" END="5290">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="5285" END="5290">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ronan Keating">
+              <charseq START="3515" END="3527">Ronan Keating</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E47" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E47-M2617" ROLE="GPE">
+          <extent>
+              <charseq START="3500" END="3506">Boyzone</charseq>
+          </extent>
+          <head>
+              <charseq START="3500" END="3506">Boyzone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E47-M3834">
+          <extent>
+              <charseq START="5277" END="5283">Boyzone</charseq>
+          </extent>
+          <head>
+              <charseq START="5277" END="5283">Boyzone</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boyzone">
+              <charseq START="3500" END="3506">Boyzone</charseq>
+          </name>
+          <name NAME="Boyzone">
+              <charseq START="5277" END="5283">Boyzone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E48-M2621" ROLE="LOC">
+          <extent>
+              <charseq START="3547" END="3555">Lake Como</charseq>
+          </extent>
+          <head>
+              <charseq START="3547" END="3555">Lake Como</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lake Como">
+              <charseq START="3547" END="3555">Lake Como</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E49-M2622" ROLE="LOC">
+          <extent>
+              <charseq START="3560" END="3564">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="3560" END="3564">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="3560" END="3564">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E50-M2626">
+          <extent>
+              <charseq START="3592" END="3598">Sinitta</charseq>
+          </extent>
+          <head>
+              <charseq START="3592" END="3598">Sinitta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sinitta">
+              <charseq START="3592" END="3598">Sinitta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E51-M2627" ROLE="LOC">
+          <extent>
+              <charseq START="3603" END="3613">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="3603" END="3613">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="3603" END="3613">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E52-M2609">
+          <extent>
+              <charseq START="3445" END="3454">her sister</charseq>
+          </extent>
+          <head>
+              <charseq START="3449" END="3454">sister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E53-M2703">
+          <extent>
+              <charseq START="3653" END="3674">their respective judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3670" END="3674">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E53-M2707">
+          <extent>
+              <charseq START="3696" END="3706">their guest</charseq>
+          </extent>
+          <head>
+              <charseq START="3702" END="3706">guest</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E54-M2803">
+          <extent>
+              <charseq START="3809" END="3971">Ethan Boroian, Daniel Fox, Duane Lamonte
+Girls: Nicole Jackson, Stacey McClean, Despina Pilavakis
+Over 25s: Treyc Cohen,  Nicole Lawrence, Daniel Pearce
+Groups: De</charseq>
+          </extent>
+          <head>
+              <charseq START="3809" END="3821">Ethan Boroian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ethan Boroian">
+              <charseq START="3809" END="3821">Ethan Boroian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E55-M2807">
+          <extent>
+              <charseq START="3824" END="3833">Daniel Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="3824" END="3833">Daniel Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E55-M2808">
+          <extent>
+              <charseq START="3836" END="3854">Duane Lamonte
+Girls</charseq>
+          </extent>
+          <head>
+              <charseq START="3850" END="3854">Girls</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daniel Fox">
+              <charseq START="3824" END="3833">Daniel Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E56-M2809">
+          <extent>
+              <charseq START="3836" END="3848">Duane Lamonte</charseq>
+          </extent>
+          <head>
+              <charseq START="3836" END="3848">Duane Lamonte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E56-M2823">
+          <extent>
+              <charseq START="3993" END="4061">Project A
+Finalists
+The final 12 acts were confirmed as follows:
+Key:</charseq>
+          </extent>
+          <head>
+              <charseq START="4003" END="4011">Finalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E56-M3505">
+          <extent>
+              <charseq START="4731" END="4743">the finalists</charseq>
+          </extent>
+          <head>
+              <charseq START="4735" END="4743">finalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Duane Lamonte">
+              <charseq START="3836" END="3848">Duane Lamonte</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E57-M2812">
+          <extent>
+              <charseq START="3857" END="3870">Nicole Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3857" END="3870">Nicole Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E57-M2817">
+          <extent>
+              <charseq START="3931" END="3945">Nicole Lawrence</charseq>
+          </extent>
+          <head>
+              <charseq START="3931" END="3945">Nicole Lawrence</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nicole Jackson">
+              <charseq START="3857" END="3870">Nicole Jackson</charseq>
+          </name>
+          <name NAME="Nicole Lawrence">
+              <charseq START="3931" END="3945">Nicole Lawrence</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E58-M2813">
+          <extent>
+              <charseq START="3873" END="3886">Stacey McClean</charseq>
+          </extent>
+          <head>
+              <charseq START="3873" END="3886">Stacey McClean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stacey McClean">
+              <charseq START="3873" END="3886">Stacey McClean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E59-M2814">
+          <extent>
+              <charseq START="3889" END="3905">Despina Pilavakis</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3905">Despina Pilavakis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Despina Pilavakis">
+              <charseq START="3889" END="3905">Despina Pilavakis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E60-M2815">
+          <extent>
+              <charseq START="3917" END="3927">Treyc Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="3917" END="3927">Treyc Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Treyc Cohen">
+              <charseq START="3917" END="3927">Treyc Cohen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E61-M2818">
+          <extent>
+              <charseq START="3948" END="3960">Daniel Pearce</charseq>
+          </extent>
+          <head>
+              <charseq START="3948" END="3960">Daniel Pearce</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daniel Pearce">
+              <charseq START="3948" END="3960">Daniel Pearce</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E62-M3005">
+          <extent>
+              <charseq START="4361" END="4375">Alexandra Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="4361" END="4375">Alexandra Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E62-M3001">
+          <extent>
+              <charseq START="4341" END="4359">The X Factor winner</charseq>
+          </extent>
+          <head>
+              <charseq START="4354" END="4359">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E62-M3816">
+          <extent>
+              <charseq START="5083" END="5097">Alexandra Burke</charseq>
+          </extent>
+          <head>
+              <charseq START="5083" END="5097">Alexandra Burke</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexandra Burke">
+              <charseq START="4361" END="4375">Alexandra Burke</charseq>
+          </name>
+          <name NAME="Alexandra Burke">
+              <charseq START="5083" END="5097">Alexandra Burke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E63-M3006">
+          <extent>
+              <charseq START="4381" END="4395">Robbie Williams</charseq>
+          </extent>
+          <head>
+              <charseq START="4381" END="4395">Robbie Williams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E63-M3822">
+          <extent>
+              <charseq START="5129" END="5143">Robbie Williams</charseq>
+          </extent>
+          <head>
+              <charseq START="5129" END="5143">Robbie Williams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E63-M3811">
+          <extent>
+              <charseq START="5054" END="5059">heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="5054" END="5059">heroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robbie Williams">
+              <charseq START="4381" END="4395">Robbie Williams</charseq>
+          </name>
+          <name NAME="Robbie Williams">
+              <charseq START="5129" END="5143">Robbie Williams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E64-M3100">
+          <extent>
+              <charseq START="4439" END="4449">Susan Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="4439" END="4449">Susan Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Susan Boyle">
+              <charseq START="4439" END="4449">Susan Boyle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E65-M3204">
+          <extent>
+              <charseq START="4556" END="4570">Whitney Houston</charseq>
+          </extent>
+          <head>
+              <charseq START="4556" END="4570">Whitney Houston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E65-M4326">
+          <extent>
+              <charseq START="5892" END="5930">Whitney Houston (&quot;Million Dollar Bill&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="5892" END="5906">Whitney Houston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whitney Houston">
+              <charseq START="4556" END="4570">Whitney Houston</charseq>
+          </name>
+          <name NAME="Whitney Houston">
+              <charseq START="5892" END="5906">Whitney Houston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E66" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E66-M3205" ROLE="LOC">
+          <extent>
+              <charseq START="4573" END="4579">Shakira</charseq>
+          </extent>
+          <head>
+              <charseq START="4573" END="4579">Shakira</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shakira">
+              <charseq START="4573" END="4579">Shakira</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E67-M3200">
+          <extent>
+              <charseq START="4509" END="4550">Other artists confirmed for the live shows</charseq>
+          </extent>
+          <head>
+              <charseq START="4515" END="4521">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E68-M3300">
+          <extent>
+              <charseq START="4605" END="4607">JLS</charseq>
+          </extent>
+          <head>
+              <charseq START="4605" END="4607">JLS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JLS">
+              <charseq START="4605" END="4607">JLS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E69-M3401">
+          <extent>
+              <charseq START="4630" END="4636">Madonna</charseq>
+          </extent>
+          <head>
+              <charseq START="4630" END="4636">Madonna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madonna">
+              <charseq START="4630" END="4636">Madonna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E70-M3402">
+          <extent>
+              <charseq START="4642" END="4648">Rihanna</charseq>
+          </extent>
+          <head>
+              <charseq START="4642" END="4648">Rihanna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rihanna">
+              <charseq START="4642" END="4648">Rihanna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E71-M3817">
+          <extent>
+              <charseq START="5103" END="5110">Flo Rida</charseq>
+          </extent>
+          <head>
+              <charseq START="5103" END="5110">Flo Rida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flo Rida">
+              <charseq START="5103" END="5110">Flo Rida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E72-M3828">
+          <extent>
+              <charseq START="5194" END="5215">Black Eyed Peas)
+Walsh</charseq>
+          </extent>
+          <head>
+              <charseq START="5194" END="5215">Black Eyed Peas)
+Walsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Black Eyed Peas)
+Walsh">
+              <charseq START="5194" END="5215">Black Eyed Peas)
+Walsh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M3832">
+          <extent>
+              <charseq START="5277" END="5321">Boyzone singer Stephen Gately, who he manages</charseq>
+          </extent>
+          <head>
+              <charseq START="5292" END="5305">Stephen Gately</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M3837">
+          <extent>
+              <charseq START="5308" END="5310">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5308" END="5310">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M3838">
+          <extent>
+              <charseq START="5312" END="5313">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5312" END="5313">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M4011">
+          <extent>
+              <charseq START="5559" END="5564">Gately</charseq>
+          </extent>
+          <head>
+              <charseq START="5559" END="5564">Gately</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stephen Gately">
+              <charseq START="5292" END="5305">Stephen Gately</charseq>
+          </name>
+          <name NAME="Gately">
+              <charseq START="5559" END="5564">Gately</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E74-M3809">
+          <extent>
+              <charseq START="5046" END="5080">Musical heroes
+Celebrity performers</charseq>
+          </extent>
+          <head>
+              <charseq START="5061" END="5069">Celebrity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E74-M4325">
+          <extent>
+              <charseq START="5870" END="5878">Celebrity</charseq>
+          </extent>
+          <head>
+              <charseq START="5870" END="5878">Celebrity</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E76-M4006">
+          <extent>
+              <charseq START="5524" END="5572">the viewers and audience regarding Gately&apos;s death</charseq>
+          </extent>
+          <head>
+              <charseq START="5528" END="5534">viewers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E76-M4008">
+          <extent>
+              <charseq START="5524" END="5534">the viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="5528" END="5534">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E77" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E77-M4009">
+          <extent>
+              <charseq START="5540" END="5547">audience</charseq>
+          </extent>
+          <head>
+              <charseq START="5540" END="5547">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E78-M4305">
+          <extent>
+              <charseq START="5743" END="5776">Rachel Adedeji in absentia
+Minogue</charseq>
+          </extent>
+          <head>
+              <charseq START="5743" END="5756">Rachel Adedeji</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E78-M4317">
+          <extent>
+              <charseq START="5815" END="5828">Rachel Adedeji</charseq>
+          </extent>
+          <head>
+              <charseq START="5815" END="5828">Rachel Adedeji</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rachel Adedeji">
+              <charseq START="5743" END="5756">Rachel Adedeji</charseq>
+          </name>
+          <name NAME="Rachel Adedeji">
+              <charseq START="5815" END="5828">Rachel Adedeji</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E79-M4310">
+          <extent>
+              <charseq START="5779" END="5812">Kandy Rain
+Cole: Kandy Rain
+Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="5779" END="5793">Kandy Rain
+Cole</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kandy Rain
+Cole">
+              <charseq START="5779" END="5793">Kandy Rain
+Cole</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E80-M4321">
+          <extent>
+              <charseq START="5860" END="5930">Diva week
+Celebrity performers: Whitney Houston (&quot;Million Dollar Bill&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="5880" END="5889">performers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E81-M4344">
+          <extent>
+              <charseq START="6083" END="6101">9.9 million viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6095" END="6101">viewers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E81-M4351">
+          <extent>
+              <charseq START="6160" END="6186">viewers within its timeslot</charseq>
+          </extent>
+          <head>
+              <charseq START="6160" END="6166">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E82-M4348">
+          <extent>
+              <charseq START="6113" END="6132">the viewing audience</charseq>
+          </extent>
+          <head>
+              <charseq START="6125" END="6132">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E82-M4407">
+          <extent>
+              <charseq START="6269" END="6283">the TV audience</charseq>
+          </extent>
+          <head>
+              <charseq START="6276" END="6283">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E83-M4401">
+          <extent>
+              <charseq START="6205" END="6223">9.75 million people</charseq>
+          </extent>
+          <head>
+              <charseq START="6218" END="6223">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E84-M4502">
+          <extent>
+              <charseq START="6313" END="6333">11.76 million viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6327" END="6333">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E85" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E85-M4601">
+          <extent>
+              <charseq START="6386" END="6406">10.26 million viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6400" END="6406">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E86" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E86-M4706">
+          <extent>
+              <charseq START="6495" END="6520">about 9.27 million viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6514" END="6520">viewers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E86-M4712">
+          <extent>
+              <charseq START="6576" END="6594">the highest viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6588" END="6594">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E87" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E87-M4718">
+          <extent>
+              <charseq START="6642" END="6655">12.38m viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="6649" END="6655">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E88" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E88-M4807">
+          <extent>
+              <charseq START="6727" END="6736">The People</charseq>
+          </extent>
+          <head>
+              <charseq START="6727" END="6736">The People</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The People">
+              <charseq START="6727" END="6736">The People</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E89" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E89-M4808">
+          <extent>
+              <charseq START="6752" END="6777">some Boot Camp contestants</charseq>
+          </extent>
+          <head>
+              <charseq START="6767" END="6777">contestants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E89-M4811">
+          <extent>
+              <charseq START="6784" END="6787">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6784" END="6787">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E90" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E90-M4813">
+          <extent>
+              <charseq START="6816" END="6987">the show&apos;s producers; one compared the experience with that of a concentration camp and another claimed that those competing were only allowed to use the toilet twice a day</charseq>
+          </extent>
+          <head>
+              <charseq START="6827" END="6835">producers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E91" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E91-M4822">
+          <extent>
+              <charseq START="6879" END="6898">a concentration camp</charseq>
+          </extent>
+          <head>
+              <charseq START="6895" END="6898">camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E92" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E92-M4827">
+          <extent>
+              <charseq START="6966" END="6975">the toilet</charseq>
+          </extent>
+          <head>
+              <charseq START="6970" END="6975">toilet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E93" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E93-M4900">
+          <extent>
+              <charseq START="6999" END="7030">a spokesperson for the programme</charseq>
+          </extent>
+          <head>
+              <charseq START="7001" END="7012">spokesperson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E93-M4907">
+          <extent>
+              <charseq START="7087" END="7090">they</charseq>
+          </extent>
+          <head>
+              <charseq START="7087" END="7090">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E93-M4910">
+          <extent>
+              <charseq START="7102" END="7105">they</charseq>
+          </extent>
+          <head>
+              <charseq START="7102" END="7105">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E94" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E94-M5000">
+          <extent>
+              <charseq START="7128" END="7139">The hopefuls</charseq>
+          </extent>
+          <head>
+              <charseq START="7132" END="7139">hopefuls</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E95" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E95-M5004">
+          <extent>
+              <charseq START="7158" END="7166">the hotel</charseq>
+          </extent>
+          <head>
+              <charseq START="7162" END="7166">hotel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E96" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E96-M5106">
+          <extent>
+              <charseq START="7291" END="7326">three singers from the final 24 acts</charseq>
+          </extent>
+          <head>
+              <charseq START="7297" END="7303">singers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E97" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E97-M5109">
+          <extent>
+              <charseq START="7348" END="7356">pop bands</charseq>
+          </extent>
+          <head>
+              <charseq START="7352" END="7356">bands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E98" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E98-M5212">
+          <extent>
+              <charseq START="7589" END="7601">Danyl Johnson</charseq>
+          </extent>
+          <head>
+              <charseq START="7589" END="7601">Danyl Johnson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E98-M5701">
+          <extent>
+              <charseq START="8113" END="8117">Danyl</charseq>
+          </extent>
+          <head>
+              <charseq START="8113" END="8117">Danyl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E98-M5902">
+          <extent>
+              <charseq START="8322" END="8326">Danyl</charseq>
+          </extent>
+          <head>
+              <charseq START="8322" END="8326">Danyl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E98-M5906">
+          <extent>
+              <charseq START="8367" END="8368">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8367" END="8368">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E98-M6005">
+          <extent>
+              <charseq START="8526" END="8530">Danyl</charseq>
+          </extent>
+          <head>
+              <charseq START="8526" END="8530">Danyl</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Danyl Johnson">
+              <charseq START="7589" END="7601">Danyl Johnson</charseq>
+          </name>
+          <name NAME="Danyl">
+              <charseq START="8113" END="8117">Danyl</charseq>
+          </name>
+          <name NAME="Danyl">
+              <charseq START="8322" END="8326">Danyl</charseq>
+          </name>
+          <name NAME="Danyl">
+              <charseq START="8526" END="8530">Danyl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E99" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E99-M5317">
+          <extent>
+              <charseq START="7855" END="7877">anyone who took offense</charseq>
+          </extent>
+          <head>
+              <charseq START="7855" END="7860">anyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E99-M5319">
+          <extent>
+              <charseq START="7862" END="7864">who</charseq>
+          </extent>
+          <head>
+              <charseq START="7862" END="7864">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E100" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="The_X_Factor_(UK_series_6).sentences.sgm-E100-M5604">
+          <extent>
+              <charseq START="8099" END="8102">girl</charseq>
+          </extent>
+          <head>
+              <charseq START="8099" END="8102">girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E100-M6007">
+          <extent>
+              <charseq START="8549" END="8551">her</charseq>
+          </extent>
+          <head>
+              <charseq START="8549" END="8551">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="The_X_Factor_(UK_series_6).sentences.sgm-E101" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E101-M5802">
+          <extent>
+              <charseq START="8243" END="8281">anyone that was offended by my comments</charseq>
+          </extent>
+          <head>
+              <charseq START="8243" END="8248">anyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="The_X_Factor_(UK_series_6).sentences.sgm-E101-M5804">
+          <extent>
+              <charseq START="8250" END="8253">that</charseq>
+          </extent>
+          <head>
+              <charseq START="8250" END="8253">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T0" VAL="2009-08-22">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="136" END="149">22 August 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T1" VAL="2009-06">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="237" END="245">June 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T2" VAL="2009-08">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="541" END="551">August 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T3" SET="YES">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="909" END="917">each week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T4" VAL="2009-10-10">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="987" END="1001">10 October 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T5" VAL="XXXX-XX-6TNI" SET="YES">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1021" END="1040">every Saturday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T6" VAL="XXXX-XX-7" SET="YES">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1072" END="1078">Sundays</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T7" VAL="P1M">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1372" END="1378">a month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T8" VAL="XXXX-06">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1831" END="1834">June</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T9" VAL="2009-07">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1840" END="1848">July 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T10" VAL="XXXX-08-01">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="2410" END="2417">1 August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T11" VAL="2009-10-10">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="4143" END="4157">10 October 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T12" VAL="2009-12-12">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4198" END="4213">12 December 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T13">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="4261" END="4266">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T14" VAL="2008">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4336" END="4339">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T15" VAL="XXXX-11">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="4499" END="4506">November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T16" VAL="PXY">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4715" END="4728">previous years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T17" VAL="XXXX-10-11">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="5024" END="5036">10/11 October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T18" VAL="TNI">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="5686" END="5701">the Sunday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T19" VAL="XXXX-10-18">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="5838" END="5850">17/18 October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T20" VAL="P1W">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="5865" END="5868">week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T21" VAL="XXXX-08-22">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="6024" END="6032">22 August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="The_X_Factor_(UK_series_6).sentences.sgm-V22" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-V22-M1">
+            <extent>
+              <charseq START="6104" END="6108">47.9%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T23" VAL="P1W">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="6189" END="6202">One week later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="The_X_Factor_(UK_series_6).sentences.sgm-V24" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-V24-M1">
+            <extent>
+              <charseq START="6254" END="6258">47.1%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="The_X_Factor_(UK_series_6).sentences.sgm-V25" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-V25-M1">
+            <extent>
+              <charseq START="6341" END="6345">51.9%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T26" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="6557" END="6563">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T27" VAL="2009-08-02">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="6712" END="6724">2 August 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T28" VAL="P1D">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="6977" END="6987">twice a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T29" VAL="PTXH">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="7072" END="7081">long hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T30">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="7195" END="7201">the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T31" VAL="2009-09">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="7244" END="7257">September 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T32" VAL="PXY">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="7398" END="7411">previous years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T33" VAL="XXXX-10-10">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="7513" END="7522">10 October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T34" VAL="TNI">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="7795" END="7804">last night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T35">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="8180" END="8185">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T36" VAL="TNI">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="8352" END="8361">last night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="The_X_Factor_(UK_series_6).sentences.sgm-T37" VAL="2009-10-11">
+        <timex2_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="8500" END="8516">11th October 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R0-M200">
+          <extent>
+              <charseq START="264" END="306">five major cities across the United Kingdom</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E4-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="264" END="306">five major cities across the United Kingdom</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E0-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="289" END="306">the United Kingdom</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R1-M600">
+          <extent>
+              <charseq START="795" END="800">Judges</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="795" END="800">Judges</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E14-M600" ROLE="Arg-2">
+            <extent>
+              <charseq START="794" END="809">&quot;Judges&apos; Houses&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R1-M2700">
+          <extent>
+              <charseq START="3619" END="3624">Judges</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M2701" ROLE="Arg-1">
+            <extent>
+              <charseq START="3619" END="3624">Judges</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E14-M2700" ROLE="Arg-2">
+            <extent>
+              <charseq START="3619" END="3632">Judges&apos; Houses</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R2-M1000">
+          <extent>
+              <charseq START="1402" END="1404">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E15-M1014" ROLE="Arg-1">
+            <extent>
+              <charseq START="1402" END="1404">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E2-M1013" ROLE="Arg-2">
+            <extent>
+              <charseq START="1402" END="1416">her first child</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R3-M1300">
+          <extent>
+              <charseq START="1944" END="1972">Cardiff (International Arena)</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E25-M1318" ROLE="Arg-1">
+            <extent>
+              <charseq START="1944" END="1972">Cardiff (International Arena)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E26-M1320" ROLE="Arg-2">
+            <extent>
+              <charseq START="1978" END="2001">Glasgow (Braehead Arena)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R4-M2200">
+          <extent>
+              <charseq START="2905" END="2952">the group&apos;s members being too young for the show</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E36-M2209" ROLE="Arg-1">
+            <extent>
+              <charseq START="2905" END="2952">the group&apos;s members being too young for the show</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E34-M2211" ROLE="Arg-2">
+            <extent>
+              <charseq START="2905" END="2913">the group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R5-M2600">
+          <extent>
+              <charseq START="3395" END="3398">Cole</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M2601" ROLE="Arg-1">
+            <extent>
+              <charseq START="3395" END="3398">Cole</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E41-M2602" ROLE="Arg-2">
+            <extent>
+              <charseq START="3403" END="3420">Marrakech, Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R6-M2601">
+          <extent>
+              <charseq START="3403" END="3420">Marrakech, Morocco</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E41-M2602" ROLE="Arg-1">
+            <extent>
+              <charseq START="3403" END="3420">Marrakech, Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E42-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="3414" END="3420">Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R7" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E52" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R7-M2602">
+          <extent>
+              <charseq START="3445" END="3447">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E8-M2610" ROLE="Arg-1">
+            <extent>
+              <charseq START="3445" END="3447">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E52-M2609" ROLE="Arg-2">
+            <extent>
+              <charseq START="3445" END="3454">her sister</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E44" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R8-M2603">
+          <extent>
+              <charseq START="3456" END="3480">Kylie Minogue in Atlantis</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E43-M2611" ROLE="Arg-1">
+            <extent>
+              <charseq START="3456" END="3480">Kylie Minogue in Atlantis</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E44-M2613" ROLE="Arg-2">
+            <extent>
+              <charseq START="3473" END="3480">Atlantis</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E47" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R9-M2604">
+          <extent>
+              <charseq START="3508" END="3513">singer</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E46-M2618" ROLE="Arg-1">
+            <extent>
+              <charseq START="3508" END="3513">singer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E47-M2617" ROLE="Arg-2">
+            <extent>
+              <charseq START="3500" END="3506">Boyzone</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E49" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R10-M2605">
+          <extent>
+              <charseq START="3547" END="3555">Lake Como</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E48-M2621" ROLE="Arg-1">
+            <extent>
+              <charseq START="3547" END="3555">Lake Como</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E49-M2622" ROLE="Arg-2">
+            <extent>
+              <charseq START="3560" END="3564">Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E50" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E51" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R11-M2606">
+          <extent>
+              <charseq START="3592" END="3598">Sinitta</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E50-M2626" ROLE="Arg-1">
+            <extent>
+              <charseq START="3592" END="3598">Sinitta</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E51-M2627" ROLE="Arg-2">
+            <extent>
+              <charseq START="3603" END="3613">Los Angeles</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="The_X_Factor_(UK_series_6).sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E96" ROLE="Arg-1"/>
+      <relation_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E97" ROLE="Arg-2"/>
+        <relation_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-R12-M5100">
+          <extent>
+              <charseq START="7291" END="7326">three singers from the final 24 acts</charseq>
+          </extent>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E96-M5106" ROLE="Arg-1">
+            <extent>
+              <charseq START="7291" END="7326">three singers from the final 24 acts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E97-M5109" ROLE="Arg-2">
+            <extent>
+              <charseq START="7348" END="7356">pop bands</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="The_X_Factor_(UK_series_6).sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E2" ROLE="Person"/>
+      <event_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-EV0-M1001">
+          <extent>
+              <charseq START="1393" END="1397">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1393" END="1397">birth</charseq>
+          </anchor>
+        <event_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E2-M1013" ROLE="Person">
+          <extent>
+              <charseq START="1402" END="1416">her first child</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="The_X_Factor_(UK_series_6).sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E73" ROLE="Victim"/>
+      <event_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-EV1-M3801">
+          <extent>
+              <charseq START="5268" END="5272">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5268" END="5272">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M3832" ROLE="Victim">
+          <extent>
+              <charseq START="5277" END="5321">Boyzone singer Stephen Gately, who he manages</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-EV1-M4001">
+          <extent>
+              <charseq START="5568" END="5572">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5568" END="5572">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E73-M4011" ROLE="Victim">
+          <extent>
+              <charseq START="5559" END="5564">Gately</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="The_X_Factor_(UK_series_6).sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E7" ROLE="Victim"/>
+      <event_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E11" ROLE="Agent"/>
+      <event_mention ID="The_X_Factor_(UK_series_6).sentences.sgm-EV2-M4301">
+          <extent>
+              <charseq START="5726" END="5734">eliminate</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5726" END="5734">eliminate</charseq>
+          </anchor>
+        <event_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E7-M4303" ROLE="Victim">
+          <extent>
+              <charseq START="5736" END="5740">Walsh</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="The_X_Factor_(UK_series_6).sentences.sgm-E11-M4302" ROLE="Agent">
+          <extent>
+              <charseq START="5709" END="5714">Judges</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

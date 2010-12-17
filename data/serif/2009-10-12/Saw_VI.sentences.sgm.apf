@@ -1,0 +1,1695 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Saw_VI.sentences.sgm">
+  <document DOCID="Saw_VI.sentences.sgm">
+
+    <entity ID="Saw_VI.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="23" END="28">Saw VI</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="28">VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="23" END="25">Saw</charseq>
+          </extent>
+          <head>
+              <charseq START="23" END="25">Saw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="179" END="184">Saw VI</charseq>
+          </extent>
+          <head>
+              <charseq START="183" END="184">VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E0-M201">
+          <extent>
+              <charseq START="179" END="181">Saw</charseq>
+          </extent>
+          <head>
+              <charseq START="179" END="181">Saw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E0-M2210">
+          <extent>
+              <charseq START="2782" END="2794">Saw V. Saw VI</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2794">VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E0-M2213">
+          <extent>
+              <charseq START="2789" END="2791">Saw</charseq>
+          </extent>
+          <head>
+              <charseq START="2789" END="2791">Saw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E0-M2302">
+          <extent>
+              <charseq START="2855" END="2860">Saw VI</charseq>
+          </extent>
+          <head>
+              <charseq START="2859" END="2860">VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E0-M2303">
+          <extent>
+              <charseq START="2855" END="2857">Saw</charseq>
+          </extent>
+          <head>
+              <charseq START="2855" END="2857">Saw</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VI">
+              <charseq START="27" END="28">VI</charseq>
+          </name>
+          <name NAME="VI">
+              <charseq START="183" END="184">VI</charseq>
+          </name>
+          <name NAME="VI">
+              <charseq START="2793" END="2794">VI</charseq>
+          </name>
+          <name NAME="VI">
+              <charseq START="2859" END="2860">VI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E1-M104">
+          <extent>
+              <charseq START="149" END="156">theaters</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="156">theaters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E2-M203">
+          <extent>
+              <charseq START="201" END="273">Kevin Greutert, who has been the editor on all the past Saw films to date</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="214">Kevin Greutert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E2-M206">
+          <extent>
+              <charseq START="230" END="273">the editor on all the past Saw films to date</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="239">editor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E2-M205">
+          <extent>
+              <charseq START="217" END="219">who</charseq>
+          </extent>
+          <head>
+              <charseq START="217" END="219">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E2-M1029">
+          <extent>
+              <charseq START="1319" END="1343">Production
+Kevin Greutert</charseq>
+          </extent>
+          <head>
+              <charseq START="1330" END="1343">Kevin Greutert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E2-M1030">
+          <extent>
+              <charseq START="1319" END="1328">Production</charseq>
+          </extent>
+          <head>
+              <charseq START="1319" END="1328">Production</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E2-M1032">
+          <extent>
+              <charseq START="1346" END="1394">the editor of all previous films in the franchise</charseq>
+          </extent>
+          <head>
+              <charseq START="1350" END="1355">editor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E2-M1037">
+          <extent>
+              <charseq START="1405" END="1442">the director for the sixth installment</charseq>
+          </extent>
+          <head>
+              <charseq START="1409" END="1416">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E2-M1041">
+          <extent>
+              <charseq START="1479" END="1497">the cinematographer</charseq>
+          </extent>
+          <head>
+              <charseq START="1483" END="1497">cinematographer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E2-M1904">
+          <extent>
+              <charseq START="2521" END="2522">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2521" END="2522">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kevin Greutert">
+              <charseq START="201" END="214">Kevin Greutert</charseq>
+          </name>
+          <name NAME="Kevin Greutert">
+              <charseq START="1330" END="1343">Kevin Greutert</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="276" END="289">Patrick Melton</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="289">Patrick Melton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E3-M2204">
+          <extent>
+              <charseq START="2703" END="2716">Patrick Melton</charseq>
+          </extent>
+          <head>
+              <charseq START="2703" END="2716">Patrick Melton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E3-M2613">
+          <extent>
+              <charseq START="3313" END="3336">Co-writer Patrick Melton</charseq>
+          </extent>
+          <head>
+              <charseq START="3323" END="3336">Patrick Melton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E3-M2614">
+          <extent>
+              <charseq START="3313" END="3321">Co-writer</charseq>
+          </extent>
+          <head>
+              <charseq START="3313" END="3321">Co-writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Patrick Melton">
+              <charseq START="276" END="289">Patrick Melton</charseq>
+          </name>
+          <name NAME="Patrick Melton">
+              <charseq START="2703" END="2716">Patrick Melton</charseq>
+          </name>
+          <name NAME="Patrick Melton">
+              <charseq START="3323" END="3336">Patrick Melton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E4-M302">
+          <extent>
+              <charseq START="295" END="308">Marcus Dunstan</charseq>
+          </extent>
+          <head>
+              <charseq START="295" END="308">Marcus Dunstan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E4-M2205">
+          <extent>
+              <charseq START="2722" END="2735">Marcus Dunstan</charseq>
+          </extent>
+          <head>
+              <charseq START="2722" END="2735">Marcus Dunstan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marcus Dunstan">
+              <charseq START="295" END="308">Marcus Dunstan</charseq>
+          </name>
+          <name NAME="Marcus Dunstan">
+              <charseq START="2722" END="2735">Marcus Dunstan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E5-M313">
+          <extent>
+              <charseq START="395" END="404">Lions Gate</charseq>
+          </extent>
+          <head>
+              <charseq START="395" END="404">Lions Gate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lions Gate">
+              <charseq START="395" END="404">Lions Gate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E6-M303">
+          <extent>
+              <charseq START="311" END="344">the writers for both Saw IV and V,</charseq>
+          </extent>
+          <head>
+              <charseq START="315" END="321">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E7-M403">
+          <extent>
+              <charseq START="481" END="498">Agent Peter Strahm</charseq>
+          </extent>
+          <head>
+              <charseq START="487" END="498">Peter Strahm</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E7-M404">
+          <extent>
+              <charseq START="481" END="485">Agent</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="485">Agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E7-M903">
+          <extent>
+              <charseq START="867" END="872">Strahm</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="872">Strahm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peter Strahm">
+              <charseq START="487" END="498">Peter Strahm</charseq>
+          </name>
+          <name NAME="Strahm">
+              <charseq START="867" END="872">Strahm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M406">
+          <extent>
+              <charseq START="512" END="534">Lieutenant Mark Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="534">Mark Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E8-M407">
+          <extent>
+              <charseq START="512" END="521">Lieutenant</charseq>
+          </extent>
+          <head>
+              <charseq START="512" END="521">Lieutenant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M503">
+          <extent>
+              <charseq START="587" END="593">Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="593">Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E8-M601">
+          <extent>
+              <charseq START="616" END="618">him</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="618">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M901">
+          <extent>
+              <charseq START="851" END="857">Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="857">Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M2509">
+          <extent>
+              <charseq START="3123" END="3134">Mark Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3123" END="3134">Mark Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E8-M2508">
+          <extent>
+              <charseq START="3112" END="3121">Lieutenant</charseq>
+          </extent>
+          <head>
+              <charseq START="3112" END="3121">Lieutenant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M2612">
+          <extent>
+              <charseq START="3287" END="3298">Mark Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3287" END="3298">Mark Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E8-M2922">
+          <extent>
+              <charseq START="3762" END="3773">Mark Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3762" END="3773">Mark Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Hoffman">
+              <charseq START="523" END="534">Mark Hoffman</charseq>
+          </name>
+          <name NAME="Hoffman">
+              <charseq START="587" END="593">Hoffman</charseq>
+          </name>
+          <name NAME="Hoffman">
+              <charseq START="851" END="857">Hoffman</charseq>
+          </name>
+          <name NAME="Mark Hoffman">
+              <charseq START="3123" END="3134">Mark Hoffman</charseq>
+          </name>
+          <name NAME="Mark Hoffman">
+              <charseq START="3287" END="3298">Mark Hoffman</charseq>
+          </name>
+          <name NAME="Mark Hoffman">
+              <charseq START="3762" END="3773">Mark Hoffman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E9-M500">
+          <extent>
+              <charseq START="562" END="568">The FBI</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="568">FBI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E9-M1009">
+          <extent>
+              <charseq START="1059" END="1061">FBI</charseq>
+          </extent>
+          <head>
+              <charseq START="1059" END="1061">FBI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E9-M1036">
+          <extent>
+              <charseq START="1382" END="1394">the franchise</charseq>
+          </extent>
+          <head>
+              <charseq START="1386" END="1394">franchise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E9-M2307">
+          <extent>
+              <charseq START="2911" END="2923">the franchise</charseq>
+          </extent>
+          <head>
+              <charseq START="2915" END="2923">franchise</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FBI">
+              <charseq START="566" END="568">FBI</charseq>
+          </name>
+          <name NAME="FBI">
+              <charseq START="1059" END="1061">FBI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E10" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E10-M802">
+          <extent>
+              <charseq START="725" END="737">a &quot;Steam Room</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="737">Room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E11-M804">
+          <extent>
+              <charseq START="770" END="782">the producers</charseq>
+          </extent>
+          <head>
+              <charseq START="774" END="782">producers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E11-M1103">
+          <extent>
+              <charseq START="1543" END="1563">producers of the film</charseq>
+          </extent>
+          <head>
+              <charseq START="1543" END="1551">producers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E11-M1113">
+          <extent>
+              <charseq START="1637" END="1655">executive producers</charseq>
+          </extent>
+          <head>
+              <charseq START="1647" END="1655">producers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E12-M1000">
+          <extent>
+              <charseq START="943" END="957">Cast
+Tobin Bell</charseq>
+          </extent>
+          <head>
+              <charseq START="943" END="957">Cast
+Tobin Bell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E12-M2919">
+          <extent>
+              <charseq START="3703" END="3712">Tobin Bell</charseq>
+          </extent>
+          <head>
+              <charseq START="3703" END="3712">Tobin Bell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cast
+Tobin Bell">
+              <charseq START="943" END="957">Cast
+Tobin Bell</charseq>
+          </name>
+          <name NAME="Tobin Bell">
+              <charseq START="3703" END="3712">Tobin Bell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E13-M1001">
+          <extent>
+              <charseq START="962" END="995">John Kramer/Jigsaw
+Costas Mandylor</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="995">Costas Mandylor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E13-M1003">
+          <extent>
+              <charseq START="974" END="979">Jigsaw</charseq>
+          </extent>
+          <head>
+              <charseq START="974" END="979">Jigsaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E13-M2608">
+          <extent>
+              <charseq START="3247" END="3261">Costas Mandylor</charseq>
+          </extent>
+          <head>
+              <charseq START="3247" END="3261">Costas Mandylor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E13-M2609">
+          <extent>
+              <charseq START="3264" END="3298">the actor who portrays Mark Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3268" END="3272">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E13-M2601">
+          <extent>
+              <charseq START="3155" END="3165">The actress</charseq>
+          </extent>
+          <head>
+              <charseq START="3159" END="3165">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E13-M2602">
+          <extent>
+              <charseq START="3167" END="3169">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3167" END="3169">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E13-M2611">
+          <extent>
+              <charseq START="3274" END="3276">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3274" END="3276">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E13-M2920">
+          <extent>
+              <charseq START="3718" END="3732">Costas Mandylor</charseq>
+          </extent>
+          <head>
+              <charseq START="3718" END="3732">Costas Mandylor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Costas Mandylor">
+              <charseq START="981" END="995">Costas Mandylor</charseq>
+          </name>
+          <name NAME="Costas Mandylor">
+              <charseq START="3247" END="3261">Costas Mandylor</charseq>
+          </name>
+          <name NAME="Costas Mandylor">
+              <charseq START="3718" END="3732">Costas Mandylor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E14-M1002">
+          <extent>
+              <charseq START="962" END="972">John Kramer</charseq>
+          </extent>
+          <head>
+              <charseq START="962" END="972">John Kramer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Kramer">
+              <charseq START="962" END="972">John Kramer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E15-M1005">
+          <extent>
+              <charseq START="997" END="1230">as Mark Hoffman
+Shawnee Smith as Amanda Young
+Mark Rolston as FBI Agent Dan Erickson
+Betsy Russell as Jill Tuck
+James Van Patten as Dr. Heffner
+Peter Outerbridge as William Easton
+Devon Bostick as Brent
+James Gilbert as Aaron
+Jon Mack</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1025">Mark Hoffman
+Shawnee Smith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E15-M3002">
+          <extent>
+              <charseq START="3821" END="3833">Shawnee Smith</charseq>
+          </extent>
+          <head>
+              <charseq START="3821" END="3833">Shawnee Smith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E15-M3209">
+          <extent>
+              <charseq START="4176" END="4200">Saw actress Shawnee Smith</charseq>
+          </extent>
+          <head>
+              <charseq START="4188" END="4200">Shawnee Smith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E15-M3211">
+          <extent>
+              <charseq START="4180" END="4186">actress</charseq>
+          </extent>
+          <head>
+              <charseq START="4180" END="4186">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E15-M3310">
+          <extent>
+              <charseq START="4288" END="4290">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4288" END="4290">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E15-M3316">
+          <extent>
+              <charseq START="4329" END="4331">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4329" END="4331">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Hoffman
+Shawnee Smith">
+              <charseq START="1000" END="1025">Mark Hoffman
+Shawnee Smith</charseq>
+          </name>
+          <name NAME="Shawnee Smith">
+              <charseq START="3821" END="3833">Shawnee Smith</charseq>
+          </name>
+          <name NAME="Shawnee Smith">
+              <charseq START="4188" END="4200">Shawnee Smith</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E16-M1008">
+          <extent>
+              <charseq START="1030" END="1054">Amanda Young
+Mark Rolston</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1054">Amanda Young
+Mark Rolston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E16-M3006">
+          <extent>
+              <charseq START="3889" END="3900">Amanda Young</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3900">Amanda Young</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amanda Young
+Mark Rolston">
+              <charseq START="1030" END="1054">Amanda Young
+Mark Rolston</charseq>
+          </name>
+          <name NAME="Amanda Young">
+              <charseq START="3889" END="3900">Amanda Young</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E17-M1011">
+          <extent>
+              <charseq START="1069" END="1094">Dan Erickson
+Betsy Russell</charseq>
+          </extent>
+          <head>
+              <charseq START="1069" END="1094">Dan Erickson
+Betsy Russell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E17-M2605">
+          <extent>
+              <charseq START="3191" END="3203">Betsy Russell</charseq>
+          </extent>
+          <head>
+              <charseq START="3191" END="3203">Betsy Russell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Erickson
+Betsy Russell">
+              <charseq START="1069" END="1094">Dan Erickson
+Betsy Russell</charseq>
+          </name>
+          <name NAME="Betsy Russell">
+              <charseq START="3191" END="3203">Betsy Russell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E18-M1012">
+          <extent>
+              <charseq START="1099" END="1107">Jill Tuck</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1107">Jill Tuck</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E18-M2507">
+          <extent>
+              <charseq START="3098" END="3106">Jill Tuck</charseq>
+          </extent>
+          <head>
+              <charseq START="3098" END="3106">Jill Tuck</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E18-M2603">
+          <extent>
+              <charseq START="3180" END="3204">Jill Tuck (Betsy Russell)</charseq>
+          </extent>
+          <head>
+              <charseq START="3180" END="3188">Jill Tuck</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jill Tuck">
+              <charseq START="1099" END="1107">Jill Tuck</charseq>
+          </name>
+          <name NAME="Jill Tuck">
+              <charseq START="3098" END="3106">Jill Tuck</charseq>
+          </name>
+          <name NAME="Jill Tuck">
+              <charseq START="3180" END="3188">Jill Tuck</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E19-M1013">
+          <extent>
+              <charseq START="1109" END="1124">James Van Patten</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1124">James Van Patten</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James Van Patten">
+              <charseq START="1109" END="1124">James Van Patten</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E20-M1015">
+          <extent>
+              <charseq START="1133" END="1157">Heffner
+Peter Outerbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1157">Heffner
+Peter Outerbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E20-M3106">
+          <extent>
+              <charseq START="3989" END="4046">Dr. Hefner, previously featured in the fourth installment,</charseq>
+          </extent>
+          <head>
+              <charseq START="3993" END="3998">Hefner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E20-M3108">
+          <extent>
+              <charseq START="3989" END="3991">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="3989" END="3991">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E20-M3400">
+          <extent>
+              <charseq START="4375" END="4391">Peter Outerbridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4375" END="4391">Peter Outerbridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Heffner
+Peter Outerbridge">
+              <charseq START="1133" END="1157">Heffner
+Peter Outerbridge</charseq>
+          </name>
+          <name NAME="Hefner">
+              <charseq START="3993" END="3998">Hefner</charseq>
+          </name>
+          <name NAME="Peter Outerbridge">
+              <charseq START="4375" END="4391">Peter Outerbridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E21-M1016">
+          <extent>
+              <charseq START="1162" END="1189">William Easton
+Devon Bostick</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1189">William Easton
+Devon Bostick</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William Easton
+Devon Bostick">
+              <charseq START="1162" END="1189">William Easton
+Devon Bostick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E22-M1017">
+          <extent>
+              <charseq START="1194" END="1212">Brent
+James Gilbert</charseq>
+          </extent>
+          <head>
+              <charseq START="1194" END="1212">Brent
+James Gilbert</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brent
+James Gilbert">
+              <charseq START="1194" END="1212">Brent
+James Gilbert</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E23-M1018">
+          <extent>
+              <charseq START="1217" END="1230">Aaron
+Jon Mack</charseq>
+          </extent>
+          <head>
+              <charseq START="1217" END="1230">Aaron
+Jon Mack</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aaron
+Jon Mack">
+              <charseq START="1217" END="1230">Aaron
+Jon Mack</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E24-M1023">
+          <extent>
+              <charseq START="1268" END="1281">Tanedra Howard</charseq>
+          </extent>
+          <head>
+              <charseq START="1268" END="1281">Tanedra Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E24-M3201">
+          <extent>
+              <charseq START="4107" END="4121">Tanedra Howard,</charseq>
+          </extent>
+          <head>
+              <charseq START="4107" END="4120">Tanedra Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E24-M3301">
+          <extent>
+              <charseq START="4219" END="4224">Howard</charseq>
+          </extent>
+          <head>
+              <charseq START="4219" END="4224">Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tanedra Howard">
+              <charseq START="1268" END="1281">Tanedra Howard</charseq>
+          </name>
+          <name NAME="Tanedra Howard">
+              <charseq START="4107" END="4120">Tanedra Howard</charseq>
+          </name>
+          <name NAME="Howard">
+              <charseq START="4219" END="4224">Howard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E25-M1040">
+          <extent>
+              <charseq START="1450" END="1464">David Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="1450" END="1464">David Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E25-M2800">
+          <extent>
+              <charseq START="3428" END="3458">Cinematographer David Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="3444" END="3458">David Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E25-M2801">
+          <extent>
+              <charseq START="3428" END="3442">Cinematographer</charseq>
+          </extent>
+          <head>
+              <charseq START="3428" END="3442">Cinematographer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E25-M2905">
+          <extent>
+              <charseq START="3557" END="3565">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="3557" END="3565">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E25-M2902">
+          <extent>
+              <charseq START="3524" END="3525">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3524" END="3525">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E25-M2910">
+          <extent>
+              <charseq START="3602" END="3603">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3602" END="3603">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Armstrong">
+              <charseq START="1450" END="1464">David Armstrong</charseq>
+          </name>
+          <name NAME="David Armstrong">
+              <charseq START="3444" END="3458">David Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="3557" END="3565">Armstrong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E26-M1101">
+          <extent>
+              <charseq START="1500" END="1508">Mark Burg</charseq>
+          </extent>
+          <head>
+              <charseq START="1500" END="1508">Mark Burg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E26-M1501">
+          <extent>
+              <charseq START="2019" END="2051">the official theatrical one-sheet</charseq>
+          </extent>
+          <head>
+              <charseq START="2023" END="2030">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Burg">
+              <charseq START="1500" END="1508">Mark Burg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E27-M1102">
+          <extent>
+              <charseq START="1514" END="1524">Oren Koules</charseq>
+          </extent>
+          <head>
+              <charseq START="1514" END="1524">Oren Koules</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oren Koules">
+              <charseq START="1514" END="1524">Oren Koules</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E28-M1108">
+          <extent>
+              <charseq START="1570" END="1578">James Wan</charseq>
+          </extent>
+          <head>
+              <charseq START="1570" END="1578">James Wan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James Wan">
+              <charseq START="1570" END="1578">James Wan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E29-M1109">
+          <extent>
+              <charseq START="1584" END="1597">Leigh Whannell</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1597">Leigh Whannell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leigh Whannell">
+              <charseq START="1584" END="1597">Leigh Whannell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E30-M1110">
+          <extent>
+              <charseq START="1600" END="1621">creators of the series</charseq>
+          </extent>
+          <head>
+              <charseq START="1600" END="1607">creators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E31-M1200">
+          <extent>
+              <charseq START="1658" END="1672">Charlie Clouser</charseq>
+          </extent>
+          <head>
+              <charseq START="1658" END="1672">Charlie Clouser</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E31-M1306">
+          <extent>
+              <charseq START="1832" END="1834">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1832" END="1834">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Clouser">
+              <charseq START="1658" END="1672">Charlie Clouser</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E32" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E32-M1400">
+          <extent>
+              <charseq START="1859" END="1889">The film&apos;s first teaser trailer</charseq>
+          </extent>
+          <head>
+              <charseq START="1883" END="1889">trailer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E33" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E33-M1604">
+          <extent>
+              <charseq START="2170" END="2182">Carousel Room</charseq>
+          </extent>
+          <head>
+              <charseq START="2170" END="2182">Carousel Room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E33-M2900">
+          <extent>
+              <charseq START="3505" END="3520">a &quot;carousel room</charseq>
+          </extent>
+          <head>
+              <charseq START="3517" END="3520">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E33-M2912">
+          <extent>
+              <charseq START="3612" END="3626">the &quot;steam room</charseq>
+          </extent>
+          <head>
+              <charseq START="3623" END="3626">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carousel Room">
+              <charseq START="2170" END="2182">Carousel Room</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E35-M2102">
+          <extent>
+              <charseq START="2617" END="2671">the public, along with more photos and a second trailer</charseq>
+          </extent>
+          <head>
+              <charseq START="2621" END="2626">public</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E36" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E36-M2106">
+          <extent>
+              <charseq START="2656" END="2671">a second trailer</charseq>
+          </extent>
+          <head>
+              <charseq START="2665" END="2671">trailer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E37-M2404">
+          <extent>
+              <charseq START="2966" END="2972">victims</charseq>
+          </extent>
+          <head>
+              <charseq START="2966" END="2972">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E38-M2405">
+          <extent>
+              <charseq START="2982" END="2991">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="2987" END="2991">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E39-M2504">
+          <extent>
+              <charseq START="3078" END="3087">characters</charseq>
+          </extent>
+          <head>
+              <charseq START="3078" END="3087">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E40-M2921">
+          <extent>
+              <charseq START="3737" END="3756">John &quot;Jigsaw&quot; Kramer</charseq>
+          </extent>
+          <head>
+              <charseq START="3737" END="3756">John &quot;Jigsaw&quot; Kramer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John &quot;Jigsaw&quot; Kramer">
+              <charseq START="3737" END="3756">John &quot;Jigsaw&quot; Kramer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E41-M2914">
+          <extent>
+              <charseq START="3647" END="3666">Several cast members</charseq>
+          </extent>
+          <head>
+              <charseq START="3660" END="3666">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E42-M3100">
+          <extent>
+              <charseq START="3903" END="3929">Another returning character</charseq>
+          </extent>
+          <head>
+              <charseq START="3921" END="3929">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E42-M3315">
+          <extent>
+              <charseq START="4329" END="4341">her character</charseq>
+          </extent>
+          <head>
+              <charseq START="4333" END="4341">character</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E43-M3208" ROLE="GPE">
+          <extent>
+              <charseq START="4147" END="4152">Queens</charseq>
+          </extent>
+          <head>
+              <charseq START="4147" END="4152">Queens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Queens">
+              <charseq START="4147" END="4152">Queens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E44-M3501" ROLE="LOC">
+          <extent>
+              <charseq START="4486" END="4502">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4490" END="4502">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E44-M3609" ROLE="GPE">
+          <extent>
+              <charseq START="4699" END="4700">US</charseq>
+          </extent>
+          <head>
+              <charseq START="4699" END="4700">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="4490" END="4502">United States</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="4699" END="4700">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E45-M3605">
+          <extent>
+              <charseq START="4660" END="4670">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="4660" END="4670">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Zealand">
+              <charseq START="4660" END="4670">New Zealand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E46-M3606">
+          <extent>
+              <charseq START="4676" END="4684">Australia</charseq>
+          </extent>
+          <head>
+              <charseq START="4676" END="4684">Australia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australia">
+              <charseq START="4676" END="4684">Australia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E47-M3713">
+          <extent>
+              <charseq START="4852" END="4861">Nitzer Ebb</charseq>
+          </extent>
+          <head>
+              <charseq START="4852" END="4861">Nitzer Ebb</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nitzer Ebb">
+              <charseq START="4852" END="4861">Nitzer Ebb</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E48-M3717">
+          <extent>
+              <charseq START="4895" END="4916">Converge, among others</charseq>
+          </extent>
+          <head>
+              <charseq START="4895" END="4902">Converge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Converge">
+              <charseq START="4895" END="4902">Converge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E49" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Saw_VI.sentences.sgm-E49-M3708">
+          <extent>
+              <charseq START="4815" END="4823">the bands</charseq>
+          </extent>
+          <head>
+              <charseq START="4819" END="4823">bands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Saw_VI.sentences.sgm-E50-M3719">
+          <extent>
+              <charseq START="4911" END="4916">others</charseq>
+          </extent>
+          <head>
+              <charseq START="4911" END="4916">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Saw_VI.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Saw_VI.sentences.sgm-E51-M3803">
+          <extent>
+              <charseq START="4960" END="4976">Trustkill Records</charseq>
+          </extent>
+          <head>
+              <charseq START="4960" END="4976">Trustkill Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trustkill Records">
+              <charseq START="4960" END="4976">Trustkill Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T0" VAL="2009-03-30">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="113" END="126">March 30, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T1" VAL="2009-10-23">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="161" END="176">October 23, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="252" END="255">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T3">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="270" END="273">date</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T4" VAL="XXXX-04-29">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="385" END="392">April 29</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T5" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="705" END="708">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T6">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1422" END="1442">the sixth installment</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T7">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1730" END="1735">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T8" VAL="2009-07-20">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1738" END="1750">July 20, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T9" VAL="2009">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1930" END="1933">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T10" VAL="2009-07-23">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1941" END="1953">July 23, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T11" VAL="P1D">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1975" END="1977">day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T12">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1999" END="2007">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T13" VAL="XXXX-07-22">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2010" END="2016">July 22</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T14" VAL="2009">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2217" END="2220">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T15" VAL="2009-08-19">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2306" END="2320">August 19, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T16" VAL="2009-08-23">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2326" END="2340">August 23, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T17" VAL="2009-09-15">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2437" END="2454">September 15, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T18" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2579" END="2586">Recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T19" VAL="2009-03-30">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2813" END="2826">March 30, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T20" VAL="2009-04-20">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3948" END="3961">April 20, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T21" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="4001" END="4010">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T22" VAL="2008-12-08">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="4089" END="4104">December 8, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T23" VAL="2008">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4131" END="4134">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T24" VAL="2009-10-23">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4507" END="4522">October 23, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T25" VAL="XXXX-XX-31" MOD="BEFORE">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="4580" END="4602">Friday before Halloween</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T26" VAL="2009-10-22">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="4713" END="4728">October 22, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Saw_VI.sentences.sgm-T27" VAL="XXXX-10-20">
+        <timex2_mention ID="Saw_VI.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="4939" END="4950">October 20th</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <event ID="Saw_VI.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Saw_VI.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Saw_VI.sentences.sgm-EV0-M100">
+          <extent>
+              <charseq START="101" END="108">shooting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="101" END="108">shooting</charseq>
+          </anchor>
+          <event_mention_argument REFID="Saw_VI.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="113" END="126">March 30, 2009</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Saw_VI.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Saw_VI.sentences.sgm-E7" ROLE="Victim"/>
+      <event_mention ID="Saw_VI.sentences.sgm-EV1-M401">
+          <extent>
+              <charseq START="502" END="506">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="502" END="506">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Saw_VI.sentences.sgm-E7-M403" ROLE="Victim">
+          <extent>
+              <charseq START="481" END="498">Agent Peter Strahm</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Saw_VI.sentences.sgm-EV2" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Saw_VI.sentences.sgm-EV2-M3500">
+          <extent>
+              <charseq START="4444" END="4450">Release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4444" END="4450">Release</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Saw_VI.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Saw_VI.sentences.sgm-EV3-M3700">
+          <extent>
+              <charseq START="4835" END="4841">Suicide</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4835" END="4841">Suicide</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

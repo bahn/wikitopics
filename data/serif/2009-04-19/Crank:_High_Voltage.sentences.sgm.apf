@@ -1,0 +1,1454 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Crank:_High_Voltage.sentences.sgm">
+  <document DOCID="Crank:_High_Voltage.sentences.sgm">
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="261" END="274">Mark Neveldine</charseq>
+          </extent>
+          <head>
+              <charseq START="261" END="274">Mark Neveldine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Neveldine">
+              <charseq START="261" END="274">Mark Neveldine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E1-M305">
+          <extent>
+              <charseq START="280" END="291">Brian Taylor</charseq>
+          </extent>
+          <head>
+              <charseq START="280" END="291">Brian Taylor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E1-M306">
+          <extent>
+              <charseq START="294" END="296">who</charseq>
+          </extent>
+          <head>
+              <charseq START="294" END="296">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian Taylor">
+              <charseq START="280" END="291">Brian Taylor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E2-M401" ROLE="LOC">
+          <extent>
+              <charseq START="373" END="390">the United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="377" END="390">United Kingdom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E2-M408">
+          <extent>
+              <charseq START="428" END="430">its</charseq>
+          </extent>
+          <head>
+              <charseq START="428" END="430">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Kingdom">
+              <charseq START="377" END="390">United Kingdom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E3-M409" ROLE="GPE">
+          <extent>
+              <charseq START="432" END="445">North American</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="445">North American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E3-M1403" ROLE="GPE">
+          <extent>
+              <charseq START="1861" END="1874">North American</charseq>
+          </extent>
+          <head>
+              <charseq START="1861" END="1874">North American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North American">
+              <charseq START="432" END="445">North American</charseq>
+          </name>
+          <name NAME="North American">
+              <charseq START="1861" END="1874">North American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E4-M500">
+          <extent>
+              <charseq START="461" END="494">Plot
+Chev Chelios (Jason Statham),</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="477">Chev Chelios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E4-M502">
+          <extent>
+              <charseq START="461" END="464">Plot</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="464">Plot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M601">
+          <extent>
+              <charseq START="599" END="601">his</charseq>
+          </extent>
+          <head>
+              <charseq START="599" END="601">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M602">
+          <extent>
+              <charseq START="609" END="610">he</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="610">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M612">
+          <extent>
+              <charseq START="686" END="688">his</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="688">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E4-M700">
+          <extent>
+              <charseq START="707" END="710">Chev</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="710">Chev</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M704">
+          <extent>
+              <charseq START="756" END="758">his</charseq>
+          </extent>
+          <head>
+              <charseq START="756" END="758">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M800">
+          <extent>
+              <charseq START="804" END="805">He</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="805">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M805">
+          <extent>
+              <charseq START="867" END="869">his</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="869">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M900">
+          <extent>
+              <charseq START="900" END="901">He</charseq>
+          </extent>
+          <head>
+              <charseq START="900" END="901">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M903">
+          <extent>
+              <charseq START="918" END="920">his</charseq>
+          </extent>
+          <head>
+              <charseq START="918" END="920">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E4-M908">
+          <extent>
+              <charseq START="972" END="974">him</charseq>
+          </extent>
+          <head>
+              <charseq START="972" END="974">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chev Chelios">
+              <charseq START="466" END="477">Chev Chelios</charseq>
+          </name>
+          <name NAME="Chev">
+              <charseq START="707" END="710">Chev</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E5-M504">
+          <extent>
+              <charseq START="480" END="492">Jason Statham</charseq>
+          </extent>
+          <head>
+              <charseq START="480" END="492">Jason Statham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E5-M1000">
+          <extent>
+              <charseq START="988" END="1133">Cast
+Jason Statham as Chev Chelios
+Amy Smart as Eve Lydon
+Efren Ramirez as Venus
+Dwight Yoakam as Doc Miles
+Reno Wilson as Orlando
+Clifton Collins</charseq>
+          </extent>
+          <head>
+              <charseq START="993" END="1005">Jason Statham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E5-M2107">
+          <extent>
+              <charseq START="2600" END="2612">Jason Statham</charseq>
+          </extent>
+          <head>
+              <charseq START="2600" END="2612">Jason Statham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jason Statham">
+              <charseq START="480" END="492">Jason Statham</charseq>
+          </name>
+          <name NAME="Jason Statham">
+              <charseq START="993" END="1005">Jason Statham</charseq>
+          </name>
+          <name NAME="Jason Statham">
+              <charseq START="2600" END="2612">Jason Statham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E6-M507">
+          <extent>
+              <charseq START="523" END="578">a helicopter that occurred at the end of the first movie</charseq>
+          </extent>
+          <head>
+              <charseq START="525" END="534">helicopter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E6-M509">
+          <extent>
+              <charseq START="536" END="539">that</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="539">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E7-M609" ROLE="GPE">
+          <extent>
+              <charseq START="653" END="659">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="653" END="659">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chinese">
+              <charseq START="653" END="659">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E8-M607">
+          <extent>
+              <charseq START="653" END="695">Chinese medics, who take to farm his organs</charseq>
+          </extent>
+          <head>
+              <charseq START="661" END="666">medics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E8-M610">
+          <extent>
+              <charseq START="669" END="671">who</charseq>
+          </extent>
+          <head>
+              <charseq START="669" END="671">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E8-M701">
+          <extent>
+              <charseq START="742" END="745">them</charseq>
+          </extent>
+          <head>
+              <charseq START="742" END="745">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E9-M611">
+          <extent>
+              <charseq START="686" END="695">his organs</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="695">organs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E11-M802">
+          <extent>
+              <charseq START="831" END="843">the operators</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="843">operators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E12-M904">
+          <extent>
+              <charseq START="937" END="985">Eve Lydon (Amy Smart) who believed him to be dead</charseq>
+          </extent>
+          <head>
+              <charseq START="937" END="945">Eve Lydon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E12-M902">
+          <extent>
+              <charseq START="918" END="935">his old girlfriend</charseq>
+          </extent>
+          <head>
+              <charseq START="926" END="935">girlfriend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E12-M907">
+          <extent>
+              <charseq START="959" END="961">who</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="961">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E12-M2003">
+          <extent>
+              <charseq START="2493" END="2509">her character Eve</charseq>
+          </extent>
+          <head>
+              <charseq START="2507" END="2509">Eve</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E12-M2005">
+          <extent>
+              <charseq START="2497" END="2505">character</charseq>
+          </extent>
+          <head>
+              <charseq START="2497" END="2505">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eve Lydon">
+              <charseq START="937" END="945">Eve Lydon</charseq>
+          </name>
+          <name NAME="Eve">
+              <charseq START="2507" END="2509">Eve</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E13-M906">
+          <extent>
+              <charseq START="948" END="956">Amy Smart</charseq>
+          </extent>
+          <head>
+              <charseq START="948" END="956">Amy Smart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E13-M1004">
+          <extent>
+              <charseq START="1010" END="1031">Chev Chelios
+Amy Smart</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1031">Chev Chelios
+Amy Smart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E13-M1908">
+          <extent>
+              <charseq START="2416" END="2424">Amy Smart</charseq>
+          </extent>
+          <head>
+              <charseq START="2416" END="2424">Amy Smart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E13-M2000">
+          <extent>
+              <charseq START="2427" END="2429">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2429">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E13-M2004">
+          <extent>
+              <charseq START="2493" END="2495">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2493" END="2495">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E13-M2100">
+          <extent>
+              <charseq START="2537" END="2539">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2537" END="2539">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amy Smart">
+              <charseq START="948" END="956">Amy Smart</charseq>
+          </name>
+          <name NAME="Chev Chelios
+Amy Smart">
+              <charseq START="1010" END="1031">Chev Chelios
+Amy Smart</charseq>
+          </name>
+          <name NAME="Amy Smart">
+              <charseq START="2416" END="2424">Amy Smart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E14-M1005">
+          <extent>
+              <charseq START="1036" END="1058">Eve Lydon
+Efren Ramirez</charseq>
+          </extent>
+          <head>
+              <charseq START="1036" END="1058">Eve Lydon
+Efren Ramirez</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eve Lydon
+Efren Ramirez">
+              <charseq START="1036" END="1058">Eve Lydon
+Efren Ramirez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E15-M1006">
+          <extent>
+              <charseq START="1063" END="1081">Venus
+Dwight Yoakam</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1081">Venus
+Dwight Yoakam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Venus
+Dwight Yoakam">
+              <charseq START="1063" END="1081">Venus
+Dwight Yoakam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E16-M1007">
+          <extent>
+              <charseq START="1086" END="1106">Doc Miles
+Reno Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="1086" END="1106">Doc Miles
+Reno Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Doc Miles
+Reno Wilson">
+              <charseq START="1086" END="1106">Doc Miles
+Reno Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E17-M1008">
+          <extent>
+              <charseq START="1111" END="1133">Orlando
+Clifton Collins</charseq>
+          </extent>
+          <head>
+              <charseq START="1111" END="1133">Orlando
+Clifton Collins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Orlando
+Clifton Collins">
+              <charseq START="1111" END="1133">Orlando
+Clifton Collins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E18-M1009">
+          <extent>
+              <charseq START="1136" END="1241">Jr. as El Huron
+Bai Ling as Ria
+Art Hsu as Johnny Vang
+Jenna Haze as Herself
+Former child actor Corey Haim</charseq>
+          </extent>
+          <head>
+              <charseq START="1232" END="1241">Corey Haim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E18-M1018">
+          <extent>
+              <charseq START="1226" END="1230">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1226" END="1230">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Corey Haim">
+              <charseq START="1232" END="1241">Corey Haim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E19-M1012">
+          <extent>
+              <charseq START="1146" END="1159">Huron
+Bai Ling</charseq>
+          </extent>
+          <head>
+              <charseq START="1146" END="1159">Huron
+Bai Ling</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Huron
+Bai Ling">
+              <charseq START="1146" END="1159">Huron
+Bai Ling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E20-M1013">
+          <extent>
+              <charseq START="1164" END="1174">Ria
+Art Hsu</charseq>
+          </extent>
+          <head>
+              <charseq START="1164" END="1174">Ria
+Art Hsu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ria
+Art Hsu">
+              <charseq START="1164" END="1174">Ria
+Art Hsu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E21-M1014">
+          <extent>
+              <charseq START="1179" END="1200">Johnny Vang
+Jenna Haze</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1200">Johnny Vang
+Jenna Haze</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E21-M1103">
+          <extent>
+              <charseq START="1319" END="1328">Jenna Haze</charseq>
+          </extent>
+          <head>
+              <charseq START="1319" END="1328">Jenna Haze</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E21-M1106">
+          <extent>
+              <charseq START="1372" END="1374">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1372" END="1374">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johnny Vang
+Jenna Haze">
+              <charseq START="1179" END="1200">Johnny Vang
+Jenna Haze</charseq>
+          </name>
+          <name NAME="Jenna Haze">
+              <charseq START="1319" END="1328">Jenna Haze</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E22-M1104" ROLE="LOC">
+          <extent>
+              <charseq START="1331" END="1341">Linkin Park</charseq>
+          </extent>
+          <head>
+              <charseq START="1331" END="1341">Linkin Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E22-M2202">
+          <extent>
+              <charseq START="2663" END="2684">Soundtrack
+Linkin Park</charseq>
+          </extent>
+          <head>
+              <charseq START="2674" END="2684">Linkin Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E22-M2203">
+          <extent>
+              <charseq START="2663" END="2672">Soundtrack</charseq>
+          </extent>
+          <head>
+              <charseq START="2663" END="2672">Soundtrack</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Linkin Park">
+              <charseq START="1331" END="1341">Linkin Park</charseq>
+          </name>
+          <name NAME="Linkin Park">
+              <charseq START="2674" END="2684">Linkin Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E23-M1105">
+          <extent>
+              <charseq START="1352" END="1369">Chester Bennington</charseq>
+          </extent>
+          <head>
+              <charseq START="1352" END="1369">Chester Bennington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E23-M2212">
+          <extent>
+              <charseq START="2778" END="2807">lead singer Chester Bennington</charseq>
+          </extent>
+          <head>
+              <charseq START="2790" END="2807">Chester Bennington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E23-M2213">
+          <extent>
+              <charseq START="2783" END="2788">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="2783" END="2788">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chester Bennington">
+              <charseq START="1352" END="1369">Chester Bennington</charseq>
+          </name>
+          <name NAME="Chester Bennington">
+              <charseq START="2790" END="2807">Chester Bennington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E24-M1110">
+          <extent>
+              <charseq START="1438" END="1457">Maynard James Keenan</charseq>
+          </extent>
+          <head>
+              <charseq START="1438" END="1457">Maynard James Keenan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E24-M1206">
+          <extent>
+              <charseq START="1709" END="1722">Maynard Keenan</charseq>
+          </extent>
+          <head>
+              <charseq START="1709" END="1722">Maynard Keenan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maynard James Keenan">
+              <charseq START="1438" END="1457">Maynard James Keenan</charseq>
+          </name>
+          <name NAME="Maynard Keenan">
+              <charseq START="1709" END="1722">Maynard Keenan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E25-M1112">
+          <extent>
+              <charseq START="1470" END="1479">Ron Jeremy</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1479">Ron Jeremy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ron Jeremy">
+              <charseq START="1470" END="1479">Ron Jeremy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E26-M1114">
+          <extent>
+              <charseq START="1482" END="1553">pop star Geri Halliwell (who appears in a supposedly flashback sequence)</charseq>
+          </extent>
+          <head>
+              <charseq START="1491" END="1504">Geri Halliwell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E26-M1117">
+          <extent>
+              <charseq START="1486" END="1489">star</charseq>
+          </extent>
+          <head>
+              <charseq START="1486" END="1489">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E26-M1111">
+          <extent>
+              <charseq START="1465" END="1468">star</charseq>
+          </extent>
+          <head>
+              <charseq START="1465" END="1468">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Crank:_High_Voltage.sentences.sgm-E26-M1119">
+          <extent>
+              <charseq START="1507" END="1509">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1507" END="1509">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Geri Halliwell">
+              <charseq START="1491" END="1504">Geri Halliwell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E27-M1121">
+          <extent>
+              <charseq START="1556" END="1580">UFC fighter Keith Jardine</charseq>
+          </extent>
+          <head>
+              <charseq START="1568" END="1580">Keith Jardine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E27-M1123">
+          <extent>
+              <charseq START="1560" END="1566">fighter</charseq>
+          </extent>
+          <head>
+              <charseq START="1560" END="1566">fighter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keith Jardine">
+              <charseq START="1568" END="1580">Keith Jardine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E28-M1122">
+          <extent>
+              <charseq START="1556" END="1558">UFC</charseq>
+          </extent>
+          <head>
+              <charseq START="1556" END="1558">UFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UFC">
+              <charseq START="1556" END="1558">UFC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E29-M1125">
+          <extent>
+              <charseq START="1587" END="1621">Independent filmmaker Lloyd Kaufman</charseq>
+          </extent>
+          <head>
+              <charseq START="1609" END="1621">Lloyd Kaufman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E29-M1127">
+          <extent>
+              <charseq START="1599" END="1607">filmmaker</charseq>
+          </extent>
+          <head>
+              <charseq START="1599" END="1607">filmmaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lloyd Kaufman">
+              <charseq START="1609" END="1621">Lloyd Kaufman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E30-M1126">
+          <extent>
+              <charseq START="1587" END="1597">Independent</charseq>
+          </extent>
+          <head>
+              <charseq START="1587" END="1597">Independent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Independent">
+              <charseq START="1587" END="1597">Independent</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E31-M1200">
+          <extent>
+              <charseq START="1624" END="1665">Former Nine Inch Nails member Danny Lohner</charseq>
+          </extent>
+          <head>
+              <charseq START="1654" END="1665">Danny Lohner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E31-M1203">
+          <extent>
+              <charseq START="1647" END="1652">member</charseq>
+          </extent>
+          <head>
+              <charseq START="1647" END="1652">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Danny Lohner">
+              <charseq START="1654" END="1665">Danny Lohner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E32-M1202">
+          <extent>
+              <charseq START="1631" END="1645">Nine Inch Nails</charseq>
+          </extent>
+          <head>
+              <charseq START="1631" END="1645">Nine Inch Nails</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nine Inch Nails">
+              <charseq START="1631" END="1645">Nine Inch Nails</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E33-M1301">
+          <extent>
+              <charseq START="1725" END="1764">Production
+Mike Patton, of Faith No More</charseq>
+          </extent>
+          <head>
+              <charseq START="1736" END="1746">Mike Patton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E33-M1303">
+          <extent>
+              <charseq START="1725" END="1734">Production</charseq>
+          </extent>
+          <head>
+              <charseq START="1725" END="1734">Production</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E33-M2303">
+          <extent>
+              <charseq START="2884" END="2894">Mike Patton</charseq>
+          </extent>
+          <head>
+              <charseq START="2884" END="2894">Mike Patton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Patton">
+              <charseq START="1736" END="1746">Mike Patton</charseq>
+          </name>
+          <name NAME="Mike Patton">
+              <charseq START="2884" END="2894">Mike Patton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E34-M1306">
+          <extent>
+              <charseq START="1770" END="1785">Mr. Bungle fame,</charseq>
+          </extent>
+          <head>
+              <charseq START="1774" END="1779">Bungle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E34-M1308">
+          <extent>
+              <charseq START="1770" END="1772">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="1770" END="1772">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bungle">
+              <charseq START="1774" END="1779">Bungle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E35-M1400">
+          <extent>
+              <charseq START="1833" END="1847">Lionsgate Films</charseq>
+          </extent>
+          <head>
+              <charseq START="1833" END="1847">Lionsgate Films</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lionsgate Films">
+              <charseq START="1833" END="1847">Lionsgate Films</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E36-M1405">
+          <extent>
+              <charseq START="1908" END="1930">Lakeshore Entertainment</charseq>
+          </extent>
+          <head>
+              <charseq START="1908" END="1930">Lakeshore Entertainment</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lakeshore Entertainment">
+              <charseq START="1908" END="1930">Lakeshore Entertainment</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E37-M1601">
+          <extent>
+              <charseq START="2003" END="2013">The writers</charseq>
+          </extent>
+          <head>
+              <charseq START="2007" END="2013">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E38-M1602">
+          <extent>
+              <charseq START="2019" END="2027">directors</charseq>
+          </extent>
+          <head>
+              <charseq START="2019" END="2027">directors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E39-M1811">
+          <extent>
+              <charseq START="2280" END="2291">the Canon XH</charseq>
+          </extent>
+          <head>
+              <charseq START="2284" END="2291">Canon XH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E39-M1819">
+          <extent>
+              <charseq START="2330" END="2334">Canon</charseq>
+          </extent>
+          <head>
+              <charseq START="2330" END="2334">Canon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canon XH">
+              <charseq START="2284" END="2291">Canon XH</charseq>
+          </name>
+          <name NAME="Canon">
+              <charseq START="2330" END="2334">Canon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E40" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E40-M1818">
+          <extent>
+              <charseq START="2326" END="2339">the Canon HF10</charseq>
+          </extent>
+          <head>
+              <charseq START="2336" END="2339">HF10</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HF10">
+              <charseq START="2336" END="2339">HF10</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E41-M1802">
+          <extent>
+              <charseq START="2203" END="2216">the filmmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2216">filmmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E42-M1904">
+          <extent>
+              <charseq START="2380" END="2387">the MPAA</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2387">MPAA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MPAA">
+              <charseq START="2384" END="2387">MPAA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E43-M2007">
+          <extent>
+              <charseq START="2522" END="2534">a pole dancer</charseq>
+          </extent>
+          <head>
+              <charseq START="2529" END="2534">dancer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E44" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Crank:_High_Voltage.sentences.sgm-E44-M2205">
+          <extent>
+              <charseq START="2722" END="2746">the trailer for the movie</charseq>
+          </extent>
+          <head>
+              <charseq START="2726" END="2732">trailer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E45-M2403">
+          <extent>
+              <charseq START="2946" END="3064">Rotten Tomatoes aggregating a 68% Fresh rating based on 38 reviews, and an average score of 62 out of 100 on Metacritic</charseq>
+          </extent>
+          <head>
+              <charseq START="2946" END="2960">Rotten Tomatoes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rotten Tomatoes">
+              <charseq START="2946" END="2960">Rotten Tomatoes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E46-M2413">
+          <extent>
+              <charseq START="3055" END="3064">Metacritic</charseq>
+          </extent>
+          <head>
+              <charseq START="3055" END="3064">Metacritic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Metacritic">
+              <charseq START="3055" END="3064">Metacritic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E47-M2505" ROLE="GPE">
+          <extent>
+              <charseq START="3104" END="3111">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3104" END="3111">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E47-M2516" ROLE="GPE">
+          <extent>
+              <charseq START="3203" END="3204">US</charseq>
+          </extent>
+          <head>
+              <charseq START="3203" END="3204">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="3104" END="3111">American</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="3203" END="3204">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Crank:_High_Voltage.sentences.sgm-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Crank:_High_Voltage.sentences.sgm-E48-M2511" ROLE="LOC">
+          <extent>
+              <charseq START="3148" END="3158">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="3148" END="3158">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="3148" END="3158">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T0" VAL="2009">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="63" END="66">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T1" VAL="2006">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="82" END="85">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T2" VAL="P3M">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="119" END="156">3 months after the first film left off</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T3" VAL="2009-04-16">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="395" END="408">April 16, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T4" VAL="P1D">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="411" END="423">one day prior</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T5" VAL="XXXX-FA">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="599" END="606">his fall</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1624" END="1629">Former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T7" VAL="2008-04">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1991" END="2000">April 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Crank:_High_Voltage.sentences.sgm-V8" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Crank:_High_Voltage.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="2146" END="2167">lower than $20 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T9">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2293" END="2294">A1</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Crank:_High_Voltage.sentences.sgm-V10" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Crank:_High_Voltage.sentences.sgm-V10-M1">
+            <extent>
+              <charseq START="2976" END="2978">68%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Crank:_High_Voltage.sentences.sgm-T11" VAL="2009">
+        <timex2_mention ID="Crank:_High_Voltage.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="3122" END="3125">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R0-M600">
+          <extent>
+              <charseq START="653" END="695">Chinese medics, who take to farm his organs</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E8-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="653" END="695">Chinese medics, who take to farm his organs</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E7-M609" ROLE="Arg-2">
+            <extent>
+              <charseq START="653" END="659">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R1" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R1-M900">
+          <extent>
+              <charseq START="918" END="920">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E4-M903" ROLE="Arg-1">
+            <extent>
+              <charseq START="918" END="920">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E12-M902" ROLE="Arg-2">
+            <extent>
+              <charseq START="918" END="935">his old girlfriend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R2-M1100">
+          <extent>
+              <charseq START="1560" END="1566">fighter</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E27-M1123" ROLE="Arg-1">
+            <extent>
+              <charseq START="1560" END="1566">fighter</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E28-M1122" ROLE="Arg-2">
+            <extent>
+              <charseq START="1556" END="1558">UFC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R3-M1101">
+          <extent>
+              <charseq START="1599" END="1607">filmmaker</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E29-M1127" ROLE="Arg-1">
+            <extent>
+              <charseq START="1599" END="1607">filmmaker</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E30-M1126" ROLE="Arg-2">
+            <extent>
+              <charseq START="1587" END="1597">Independent</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R4-M1200">
+          <extent>
+              <charseq START="1647" END="1652">member</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E31-M1203" ROLE="Arg-1">
+            <extent>
+              <charseq START="1647" END="1652">member</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E32-M1202" ROLE="Arg-2">
+            <extent>
+              <charseq START="1631" END="1645">Nine Inch Nails</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Crank:_High_Voltage.sentences.sgm-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Crank:_High_Voltage.sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Crank:_High_Voltage.sentences.sgm-R5-M1800">
+          <extent>
+              <charseq START="2330" END="2334">Canon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E39-M1819" ROLE="Arg-1">
+            <extent>
+              <charseq START="2330" END="2334">Canon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E40-M1818" ROLE="Arg-2">
+            <extent>
+              <charseq START="2326" END="2339">the Canon HF10</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Crank:_High_Voltage.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Crank:_High_Voltage.sentences.sgm-E4" ROLE="Agent"/>
+      <event_mention ID="Crank:_High_Voltage.sentences.sgm-EV0-M801">
+          <extent>
+              <charseq START="825" END="829">kills</charseq>
+          </extent>
+          <anchor>
+              <charseq START="825" END="829">kills</charseq>
+          </anchor>
+        <event_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E4-M800" ROLE="Agent">
+          <extent>
+              <charseq START="804" END="805">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Crank:_High_Voltage.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Crank:_High_Voltage.sentences.sgm-E4" ROLE="Victim"/>
+      <event_mention ID="Crank:_High_Voltage.sentences.sgm-EV1-M901">
+          <extent>
+              <charseq START="982" END="985">dead</charseq>
+          </extent>
+          <anchor>
+              <charseq START="982" END="985">dead</charseq>
+          </anchor>
+        <event_mention_argument REFID="Crank:_High_Voltage.sentences.sgm-E4-M908" ROLE="Victim">
+          <extent>
+              <charseq START="972" END="974">him</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Crank:_High_Voltage.sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Crank:_High_Voltage.sentences.sgm-EV2-M1600">
+          <extent>
+              <charseq START="2066" END="2073">violence</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2066" END="2073">violence</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

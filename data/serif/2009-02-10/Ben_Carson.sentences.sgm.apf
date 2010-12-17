@@ -1,0 +1,2698 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Ben_Carson.sentences.sgm">
+  <document DOCID="Ben_Carson.sentences.sgm">
+
+    <entity ID="Ben_Carson.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="27" END="54">Benjamin Solomon Carson, Sr.</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="54">Benjamin Solomon Carson, Sr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="118" END="119">He</charseq>
+          </extent>
+          <head>
+              <charseq START="118" END="119">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M202">
+          <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="160">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="139" END="140">He</charseq>
+          </extent>
+          <head>
+              <charseq START="139" END="140">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M206">
+          <extent>
+              <charseq START="219" END="220">he</charseq>
+          </extent>
+          <head>
+              <charseq START="219" END="220">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="299" END="315">Background
+Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="315">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M301">
+          <extent>
+              <charseq START="299" END="308">Background</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="308">Background</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M313">
+          <extent>
+              <charseq START="464" END="465">he</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="465">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="510" END="511">he</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="511">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M503">
+          <extent>
+              <charseq START="577" END="579">his</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="579">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M507">
+          <extent>
+              <charseq START="656" END="657">he</charseq>
+          </extent>
+          <head>
+              <charseq START="656" END="657">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M603">
+          <extent>
+              <charseq START="733" END="781">the hospital&apos;s Director of Pediatric Neurosurgery</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="755">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M601">
+          <extent>
+              <charseq START="723" END="724">he</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="724">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M702">
+          <extent>
+              <charseq START="793" END="798">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="798">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1101">
+          <extent>
+              <charseq START="1354" END="1359">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1359">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1105">
+          <extent>
+              <charseq START="1388" END="1389">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1388" END="1389">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1300">
+          <extent>
+              <charseq START="1653" END="1658">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="1653" END="1658">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1301">
+          <extent>
+              <charseq START="1661" END="1662">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1661" END="1662">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1310">
+          <extent>
+              <charseq START="1754" END="1756">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1754" END="1756">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1501">
+          <extent>
+              <charseq START="1900" END="1905">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="1900" END="1905">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M1502">
+          <extent>
+              <charseq START="1911" END="2006">a member of the surgical team which worked to separate conjoined siblings Ladan and Laleh Bijani</charseq>
+          </extent>
+          <head>
+              <charseq START="1913" END="1918">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1603">
+          <extent>
+              <charseq START="2063" END="2072">Dr. Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="2067" END="2072">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M1604">
+          <extent>
+              <charseq START="2063" END="2065">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2065">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1600">
+          <extent>
+              <charseq START="2024" END="2025">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2024" END="2025">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1606">
+          <extent>
+              <charseq START="2084" END="2085">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2084" END="2085">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M1700">
+          <extent>
+              <charseq START="2154" END="2159">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="2154" END="2159">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M1802">
+          <extent>
+              <charseq START="2258" END="2449">a member of the American Academy of Achievement, the Horatio Alger Association of Distinguished Americans, the Alpha Omega Alpha Honor Medical Society, and many other prestigious organizations</charseq>
+          </extent>
+          <head>
+              <charseq START="2260" END="2265">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="2252" END="2253">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2252" END="2253">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M1900">
+          <extent>
+              <charseq START="2452" END="2453">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2452" END="2453">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M2002">
+          <extent>
+              <charseq START="2650" END="2813">the president and co-founder of the Carson Scholars Fund, which recognizes young people of all backgrounds for exceptional academic and humanitarian accomplishments</charseq>
+          </extent>
+          <head>
+              <charseq START="2654" END="2662">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M2004">
+          <extent>
+              <charseq START="2650" END="2662">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2654" END="2662">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M2005">
+          <extent>
+              <charseq START="2668" END="2677">co-founder</charseq>
+          </extent>
+          <head>
+              <charseq START="2668" END="2677">co-founder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2000">
+          <extent>
+              <charseq START="2639" END="2640">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2639" END="2640">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="2816" END="2821">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="2816" END="2821">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2110">
+          <extent>
+              <charseq START="2911" END="2912">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2911" END="2912">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2200">
+          <extent>
+              <charseq START="2967" END="2972">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="2967" END="2972">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2305">
+          <extent>
+              <charseq START="3068" END="3069">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3068" END="3069">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2401">
+          <extent>
+              <charseq START="3184" END="3189">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="3184" END="3189">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2501">
+          <extent>
+              <charseq START="3289" END="3290">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3289" END="3290">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2601">
+          <extent>
+              <charseq START="3455" END="3464">Dr. Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3464">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M2602">
+          <extent>
+              <charseq START="3455" END="3457">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="3455" END="3457">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2623">
+          <extent>
+              <charseq START="3638" END="3639">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3638" END="3639">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2701">
+          <extent>
+              <charseq START="3672" END="3681">Dr. Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="3676" END="3681">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M2702">
+          <extent>
+              <charseq START="3672" END="3674">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="3672" END="3674">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="3867" END="3868">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3867" END="3868">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2803">
+          <extent>
+              <charseq START="3882" END="3884">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3882" END="3884">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M2804">
+          <extent>
+              <charseq START="3909" END="3910">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3909" END="3910">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M2900">
+          <extent>
+              <charseq START="3961" END="3966">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="3961" END="3966">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3004">
+          <extent>
+              <charseq START="4101" END="4110">Dr. Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="4105" END="4110">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M3005">
+          <extent>
+              <charseq START="4101" END="4103">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="4101" END="4103">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M3018">
+          <extent>
+              <charseq START="4211" END="4219">a surgeon</charseq>
+          </extent>
+          <head>
+              <charseq START="4213" END="4219">surgeon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3101">
+          <extent>
+              <charseq START="4291" END="4296">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="4291" END="4296">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3200">
+          <extent>
+              <charseq START="4372" END="4377">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="4372" END="4377">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E0-M3305">
+          <extent>
+              <charseq START="4600" END="4602">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4600" END="4602">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3401">
+          <extent>
+              <charseq START="4684" END="4689">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="4684" END="4689">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E0-M3402">
+          <extent>
+              <charseq START="4712" END="4732">Seventh-day Adventist</charseq>
+          </extent>
+          <head>
+              <charseq START="4724" END="4732">Adventist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3504">
+          <extent>
+              <charseq START="4760" END="4765">Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="4760" END="4765">Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E0-M3637">
+          <extent>
+              <charseq START="5293" END="5323">Ben Carson M.D.
+Benjamin Carson</charseq>
+          </extent>
+          <head>
+              <charseq START="5293" END="5323">Ben Carson M.D.
+Benjamin Carson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Benjamin Solomon Carson, Sr.">
+              <charseq START="27" END="54">Benjamin Solomon Carson, Sr.</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="310" END="315">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="793" END="798">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="1354" END="1359">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="1653" END="1658">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="1900" END="1905">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="2067" END="2072">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="2154" END="2159">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="2816" END="2821">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="2967" END="2972">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="3184" END="3189">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="3459" END="3464">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="3676" END="3681">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="3961" END="3966">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="4105" END="4110">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="4291" END="4296">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="4372" END="4377">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="4684" END="4689">Carson</charseq>
+          </name>
+          <name NAME="Carson">
+              <charseq START="4760" END="4765">Carson</charseq>
+          </name>
+          <name NAME="Ben Carson M.D.
+Benjamin Carson">
+              <charseq START="5293" END="5323">Ben Carson M.D.
+Benjamin Carson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M7" ROLE="GPE">
+          <extent>
+              <charseq START="95" END="102">American</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="102">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M1916">
+          <extent>
+              <charseq START="2620" END="2626">America</charseq>
+          </extent>
+          <head>
+              <charseq START="2620" END="2626">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M2712" ROLE="LOC">
+          <extent>
+              <charseq START="3777" END="3793">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="3781" END="3793">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M3013">
+          <extent>
+              <charseq START="4152" END="4168">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4156" END="4168">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M3024">
+          <extent>
+              <charseq START="4265" END="4271">America</charseq>
+          </extent>
+          <head>
+              <charseq START="4265" END="4271">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E1-M3105">
+          <extent>
+              <charseq START="4320" END="4326">America</charseq>
+          </extent>
+          <head>
+              <charseq START="4320" END="4326">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="95" END="102">American</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="2620" END="2626">America</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="3781" END="3793">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="4156" END="4168">United States</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4265" END="4271">America</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4320" END="4326">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E2-M6">
+          <extent>
+              <charseq START="92" END="115">an American neurosurgeon</charseq>
+          </extent>
+          <head>
+              <charseq START="104" END="115">neurosurgeon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E3-M102">
+          <extent>
+              <charseq START="129" END="136">a nigger</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="136">nigger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E4-M204">
+          <extent>
+              <charseq START="165" END="186">Pediatric Neurosurgery</charseq>
+          </extent>
+          <head>
+              <charseq START="165" END="186">Pediatric Neurosurgery</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E4-M606">
+          <extent>
+              <charseq START="760" END="781">Pediatric Neurosurgery</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="781">Pediatric Neurosurgery</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pediatric Neurosurgery">
+              <charseq START="165" END="186">Pediatric Neurosurgery</charseq>
+          </name>
+          <name NAME="Pediatric Neurosurgery">
+              <charseq START="760" END="781">Pediatric Neurosurgery</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E5-M205">
+          <extent>
+              <charseq START="191" END="212">Johns Hopkins Hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="191" END="212">Johns Hopkins Hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E5-M509">
+          <extent>
+              <charseq START="675" END="709">Johns Hopkins Hospital in Baltimore</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="696">Johns Hopkins Hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E5-M711">
+          <extent>
+              <charseq START="901" END="913">Johns Hopkins</charseq>
+          </extent>
+          <head>
+              <charseq START="901" END="913">Johns Hopkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Johns Hopkins Hospital">
+              <charseq START="191" END="212">Johns Hopkins Hospital</charseq>
+          </name>
+          <name NAME="Johns Hopkins Hospital">
+              <charseq START="675" END="696">Johns Hopkins Hospital</charseq>
+          </name>
+          <name NAME="Johns Hopkins">
+              <charseq START="901" END="913">Johns Hopkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E6-M304" ROLE="LOC">
+          <extent>
+              <charseq START="337" END="422">Detroit, Michigan, graduated from Detroit&apos;s Southwestern High School with high honors,</charseq>
+          </extent>
+          <head>
+              <charseq START="337" END="343">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E6-M308">
+          <extent>
+              <charseq START="371" END="377">Detroit</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="377">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroit">
+              <charseq START="337" END="343">Detroit</charseq>
+          </name>
+          <name NAME="Detroit">
+              <charseq START="371" END="377">Detroit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E7-M306">
+          <extent>
+              <charseq START="346" END="353">Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="346" END="353">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michigan">
+              <charseq START="346" END="353">Michigan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E8-M309">
+          <extent>
+              <charseq START="381" END="404">Southwestern High School</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="404">Southwestern High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southwestern High School">
+              <charseq START="381" END="404">Southwestern High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E9-M311">
+          <extent>
+              <charseq START="442" END="456">Yale University</charseq>
+          </extent>
+          <head>
+              <charseq START="442" END="456">Yale University</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E9-M1914">
+          <extent>
+              <charseq START="2598" END="2612">Yale University</charseq>
+          </extent>
+          <head>
+              <charseq START="2598" END="2612">Yale University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yale University">
+              <charseq START="442" END="456">Yale University</charseq>
+          </name>
+          <name NAME="Yale University">
+              <charseq START="2598" END="2612">Yale University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E10-M403">
+          <extent>
+              <charseq START="521" END="561">the University of Michigan Medical School</charseq>
+          </extent>
+          <head>
+              <charseq START="525" END="561">University of Michigan Medical School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E10-M506">
+          <extent>
+              <charseq START="641" END="654">medical school</charseq>
+          </extent>
+          <head>
+              <charseq START="649" END="654">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Michigan Medical School">
+              <charseq START="525" END="561">University of Michigan Medical School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E11-M511" ROLE="LOC">
+          <extent>
+              <charseq START="701" END="709">Baltimore</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="709">Baltimore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baltimore">
+              <charseq START="701" END="709">Baltimore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E12-M605">
+          <extent>
+              <charseq START="733" END="744">the hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="737" END="744">hospital</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E13-M705">
+          <extent>
+              <charseq START="814" END="836">more than 70 physicians</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="836">physicians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E13-M708">
+          <extent>
+              <charseq START="852" END="857">nurses</charseq>
+          </extent>
+          <head>
+              <charseq START="852" END="857">nurses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E14-M707">
+          <extent>
+              <charseq START="839" END="846">surgeons</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="846">surgeons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M714">
+          <extent>
+              <charseq START="937" END="951">conjoined twins</charseq>
+          </extent>
+          <head>
+              <charseq START="947" END="951">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M800">
+          <extent>
+              <charseq START="954" END="985">The seven month old Binder twins</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="985">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M903">
+          <extent>
+              <charseq START="1184" END="1193">both twins</charseq>
+          </extent>
+          <head>
+              <charseq START="1189" END="1193">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M1003">
+          <extent>
+              <charseq START="1278" END="1286">the twins</charseq>
+          </extent>
+          <head>
+              <charseq START="1282" END="1286">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M1111">
+          <extent>
+              <charseq START="1454" END="1483">11-month-old Zambian twin boys</charseq>
+          </extent>
+          <head>
+              <charseq START="1480" END="1483">boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M1200">
+          <extent>
+              <charseq START="1529" END="1537">The twins</charseq>
+          </extent>
+          <head>
+              <charseq START="1533" END="1537">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M1315">
+          <extent>
+              <charseq START="1801" END="1809">the twins</charseq>
+          </extent>
+          <head>
+              <charseq START="1805" END="1809">twins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M1507">
+          <extent>
+              <charseq START="1966" END="1983">conjoined siblings</charseq>
+          </extent>
+          <head>
+              <charseq START="1976" END="1983">siblings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E15-M1608">
+          <extent>
+              <charseq START="2097" END="2100">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2097" END="2100">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E15-M1610">
+          <extent>
+              <charseq START="2111" END="2114">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2111" END="2114">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M2010">
+          <extent>
+              <charseq START="2725" END="2813">young people of all backgrounds for exceptional academic and humanitarian accomplishments</charseq>
+          </extent>
+          <head>
+              <charseq START="2731" END="2736">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E15-M2114">
+          <extent>
+              <charseq START="2946" END="2964">the conjoined twins</charseq>
+          </extent>
+          <head>
+              <charseq START="2960" END="2964">twins</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E18-M801">
+          <extent>
+              <charseq START="974" END="979">Binder</charseq>
+          </extent>
+          <head>
+              <charseq START="974" END="979">Binder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Binder">
+              <charseq START="974" END="979">Binder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E19-M904">
+          <extent>
+              <charseq START="1205" END="1212">only one</charseq>
+          </extent>
+          <head>
+              <charseq START="1210" END="1212">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E20-M1103" ROLE="LOC">
+          <extent>
+              <charseq START="1369" END="1380">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1369" END="1380">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E20-M1104">
+          <extent>
+              <charseq START="1382" END="1386">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1386">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Africa">
+              <charseq START="1369" END="1380">South Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E21-M1112" ROLE="GPE">
+          <extent>
+              <charseq START="1467" END="1473">Zambian</charseq>
+          </extent>
+          <head>
+              <charseq START="1467" END="1473">Zambian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zambian">
+              <charseq START="1467" END="1473">Zambian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E22-M1115">
+          <extent>
+              <charseq START="1486" END="1491">Joseph</charseq>
+          </extent>
+          <head>
+              <charseq START="1486" END="1491">Joseph</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joseph">
+              <charseq START="1486" END="1491">Joseph</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E23-M1116">
+          <extent>
+              <charseq START="1497" END="1506">Luka Banda</charseq>
+          </extent>
+          <head>
+              <charseq START="1497" END="1506">Luka Banda</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luka Banda">
+              <charseq START="1497" END="1506">Luka Banda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E24-M1107">
+          <extent>
+              <charseq START="1405" END="1483">a 50-member team in the successful separation of 11-month-old Zambian twin boys</charseq>
+          </extent>
+          <head>
+              <charseq START="1417" END="1420">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E25-M1201">
+          <extent>
+              <charseq START="1553" END="1562">any organs</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1562">organs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E26" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E26-M1202">
+          <extent>
+              <charseq START="1578" END="1637">intricate blood vessels which flowed into each child&apos;s brain</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1600">vessels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E26-M1205">
+          <extent>
+              <charseq START="1602" END="1606">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1602" END="1606">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E27-M1207">
+          <extent>
+              <charseq START="1620" END="1629">each child</charseq>
+          </extent>
+          <head>
+              <charseq START="1625" END="1629">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E28-M1508">
+          <extent>
+              <charseq START="1985" END="1989">Ladan</charseq>
+          </extent>
+          <head>
+              <charseq START="1985" END="1989">Ladan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ladan">
+              <charseq START="1985" END="1989">Ladan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E29-M1509">
+          <extent>
+              <charseq START="1995" END="2006">Laleh Bijani</charseq>
+          </extent>
+          <head>
+              <charseq START="1995" END="2006">Laleh Bijani</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Laleh Bijani">
+              <charseq START="1995" END="2006">Laleh Bijani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E30-M1504">
+          <extent>
+              <charseq START="1923" END="2006">the surgical team which worked to separate conjoined siblings Ladan and Laleh Bijani</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1939">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E30-M1506">
+          <extent>
+              <charseq START="1941" END="1945">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1941" END="1945">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E31-M1806">
+          <extent>
+              <charseq START="2270" END="2304">the American Academy of Achievement</charseq>
+          </extent>
+          <head>
+              <charseq START="2274" END="2304">American Academy of Achievement</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Academy of Achievement">
+              <charseq START="2274" END="2304">American Academy of Achievement</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E32-M1808">
+          <extent>
+              <charseq START="2307" END="2362">the Horatio Alger Association of Distinguished Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="2311" END="2335">Horatio Alger Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Horatio Alger Association">
+              <charseq START="2311" END="2335">Horatio Alger Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E33-M1812">
+          <extent>
+              <charseq START="2365" END="2407">the Alpha Omega Alpha Honor Medical Society</charseq>
+          </extent>
+          <head>
+              <charseq START="2369" END="2407">Alpha Omega Alpha Honor Medical Society</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alpha Omega Alpha Honor Medical Society">
+              <charseq START="2369" END="2407">Alpha Omega Alpha Honor Medical Society</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E34-M1811">
+          <extent>
+              <charseq START="2340" END="2362">Distinguished Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="2354" END="2362">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E35-M1814">
+          <extent>
+              <charseq START="2414" END="2449">many other prestigious organizations</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2449">organizations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E36-M1906">
+          <extent>
+              <charseq START="2489" END="2525">Board of Directors of Kellogg Company</charseq>
+          </extent>
+          <head>
+              <charseq START="2489" END="2525">Board of Directors of Kellogg Company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Board of Directors of Kellogg Company">
+              <charseq START="2489" END="2525">Board of Directors of Kellogg Company</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E37-M1907">
+          <extent>
+              <charseq START="2528" END="2555">Costco Wholesale Corporation</charseq>
+          </extent>
+          <head>
+              <charseq START="2528" END="2555">Costco Wholesale Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Costco Wholesale Corporation">
+              <charseq START="2528" END="2555">Costco Wholesale Corporation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E38-M1909">
+          <extent>
+              <charseq START="2558" END="2573">Yale Corporation</charseq>
+          </extent>
+          <head>
+              <charseq START="2558" END="2573">Yale Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E38-M1904">
+          <extent>
+              <charseq START="2485" END="2636">the Board of Directors of Kellogg Company, Costco Wholesale Corporation, Yale Corporation (the governing body of Yale University), and America&apos;s Promise</charseq>
+          </extent>
+          <head>
+              <charseq START="2558" END="2573">Yale Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yale Corporation">
+              <charseq START="2558" END="2573">Yale Corporation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E39-M2006">
+          <extent>
+              <charseq START="2682" END="2813">the Carson Scholars Fund, which recognizes young people of all backgrounds for exceptional academic and humanitarian accomplishments</charseq>
+          </extent>
+          <head>
+              <charseq START="2686" END="2705">Carson Scholars Fund</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E39-M2009">
+          <extent>
+              <charseq START="2708" END="2712">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2708" END="2712">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E39-M3635">
+          <extent>
+              <charseq START="5268" END="5287">Carson Scholars Fund</charseq>
+          </extent>
+          <head>
+              <charseq START="5268" END="5287">Carson Scholars Fund</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carson Scholars Fund">
+              <charseq START="2686" END="2705">Carson Scholars Fund</charseq>
+          </name>
+          <name NAME="Carson Scholars Fund">
+              <charseq START="5268" END="5287">Carson Scholars Fund</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E40-M2107">
+          <extent>
+              <charseq START="2876" END="2885">Matt Damon</charseq>
+          </extent>
+          <head>
+              <charseq START="2876" END="2885">Matt Damon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Damon">
+              <charseq START="2876" END="2885">Matt Damon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E41-M2108">
+          <extent>
+              <charseq START="2891" END="2902">Greg Kinnear</charseq>
+          </extent>
+          <head>
+              <charseq START="2891" END="2902">Greg Kinnear</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greg Kinnear">
+              <charseq START="2891" END="2902">Greg Kinnear</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E43-M2204">
+          <extent>
+              <charseq START="3000" END="3009">Trigeminal</charseq>
+          </extent>
+          <head>
+              <charseq START="3000" END="3009">Trigeminal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trigeminal">
+              <charseq START="3000" END="3009">Trigeminal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E44-M2402">
+          <extent>
+              <charseq START="3200" END="3231">Rensselaer Polytechnic Institute</charseq>
+          </extent>
+          <head>
+              <charseq START="3200" END="3231">Rensselaer Polytechnic Institute</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rensselaer Polytechnic Institute">
+              <charseq START="3200" END="3231">Rensselaer Polytechnic Institute</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E45-M2503">
+          <extent>
+              <charseq START="3301" END="3327">Indiana Wesleyan University</charseq>
+          </extent>
+          <head>
+              <charseq START="3301" END="3327">Indiana Wesleyan University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indiana Wesleyan University">
+              <charseq START="3301" END="3327">Indiana Wesleyan University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E46-M2507">
+          <extent>
+              <charseq START="3402" END="3436">the IWU&apos;s Society of World Changers</charseq>
+          </extent>
+          <head>
+              <charseq START="3406" END="3436">IWU&apos;s Society of World Changers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IWU&apos;s Society of World Changers">
+              <charseq START="3406" END="3436">IWU&apos;s Society of World Changers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E47-M2618">
+          <extent>
+              <charseq START="3579" END="3669">The George Washington University in Washington D.C., where he delivered the keynote address</charseq>
+          </extent>
+          <head>
+              <charseq START="3583" END="3610">George Washington University</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E47-M2622">
+          <extent>
+              <charseq START="3632" END="3636">where</charseq>
+          </extent>
+          <head>
+              <charseq START="3632" END="3636">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Washington University">
+              <charseq START="3583" END="3610">George Washington University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E48-M2621" ROLE="LOC">
+          <extent>
+              <charseq START="3615" END="3629">Washington D.C.</charseq>
+          </extent>
+          <head>
+              <charseq START="3615" END="3629">Washington D.C.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington D.C.">
+              <charseq START="3615" END="3629">Washington D.C.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E49-M2608">
+          <extent>
+              <charseq START="3489" END="3496">students</charseq>
+          </extent>
+          <head>
+              <charseq START="3489" END="3496">students</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E49-M2609">
+          <extent>
+              <charseq START="3499" END="3505">coaches</charseq>
+          </extent>
+          <head>
+              <charseq START="3499" END="3505">coaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E50-M2610">
+          <extent>
+              <charseq START="3511" END="3669">parents at the 24th Annual National Science Olympiad Competition at The George Washington University in Washington D.C., where he delivered the keynote address</charseq>
+          </extent>
+          <head>
+              <charseq START="3511" END="3517">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E52-M2708">
+          <extent>
+              <charseq START="3737" END="3793">aspiring young scientists from all over the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="3752" END="3761">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E53-M2901">
+          <extent>
+              <charseq START="3985" END="4020">the President&apos;s Council on Bioethics</charseq>
+          </extent>
+          <head>
+              <charseq START="3989" END="4020">President&apos;s Council on Bioethics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="President&apos;s Council on Bioethics">
+              <charseq START="3989" END="4020">President&apos;s Council on Bioethics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E54-M2903">
+          <extent>
+              <charseq START="4025" END="4048">President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4035" END="4048">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E54-M2904">
+          <extent>
+              <charseq START="4025" END="4033">President</charseq>
+          </extent>
+          <head>
+              <charseq START="4025" END="4033">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E54-M3001">
+          <extent>
+              <charseq START="4076" END="4089">President Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4086" END="4089">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E54-M3002">
+          <extent>
+              <charseq START="4076" END="4084">President</charseq>
+          </extent>
+          <head>
+              <charseq START="4076" END="4084">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E54-M3017">
+          <extent>
+              <charseq START="4199" END="4201">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4199" END="4201">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E54-M3020">
+          <extent>
+              <charseq START="4229" END="4231">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4229" END="4231">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George W. Bush">
+              <charseq START="4035" END="4048">George W. Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="4086" END="4089">Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E55-M3023">
+          <extent>
+              <charseq START="4265" END="4279">America&apos;s youth</charseq>
+          </extent>
+          <head>
+              <charseq START="4275" END="4279">youth</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E56-M3107">
+          <extent>
+              <charseq START="4346" END="4369">U.S. News &amp; World Report</charseq>
+          </extent>
+          <head>
+              <charseq START="4346" END="4369">U.S. News &amp; World Report</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S. News &amp; World Report">
+              <charseq START="4346" END="4369">U.S. News &amp; World Report</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E57-M3104">
+          <extent>
+              <charseq START="4320" END="4341">America&apos;s Best Leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="4335" END="4341">Leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E59" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E59-M3205" ROLE="LOC">
+          <extent>
+              <charseq START="4422" END="4430">Zondervan</charseq>
+          </extent>
+          <head>
+              <charseq START="4422" END="4430">Zondervan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zondervan">
+              <charseq START="4422" END="4430">Zondervan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E60-M3208">
+          <extent>
+              <charseq START="4450" END="4458">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="4450" END="4458">Christian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E61-M3211">
+          <extent>
+              <charseq START="4490" END="4501">Gifted Hands</charseq>
+          </extent>
+          <head>
+              <charseq START="4490" END="4501">Gifted Hands</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gifted Hands">
+              <charseq START="4490" END="4501">Gifted Hands</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E62" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E62-M3207">
+          <extent>
+              <charseq START="4433" END="4464">an international Christian media</charseq>
+          </extent>
+          <head>
+              <charseq START="4460" END="4464">media</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E62-M3209">
+          <extent>
+              <charseq START="4470" END="4487">publishing company</charseq>
+          </extent>
+          <head>
+              <charseq START="4481" END="4487">company</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E63-M3302">
+          <extent>
+              <charseq START="4576" END="4588">the other two</charseq>
+          </extent>
+          <head>
+              <charseq START="4586" END="4588">two</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E64-M3507">
+          <extent>
+              <charseq START="4789" END="4948">The Ben Carson Story, premiered on TNT on February 7, 2009, with Academy Award winner Cuba Gooding Jr. in the lead role and Kimberly Elise portraying his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="4793" END="4808">Ben Carson Story</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben Carson Story">
+              <charseq START="4793" END="4808">Ben Carson Story</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E65-M3510">
+          <extent>
+              <charseq START="4824" END="4826">TNT</charseq>
+          </extent>
+          <head>
+              <charseq START="4824" END="4826">TNT</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TNT">
+              <charseq START="4824" END="4826">TNT</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E66-M3512">
+          <extent>
+              <charseq START="4854" END="4926">Academy Award winner Cuba Gooding Jr. in the lead role and Kimberly Elise</charseq>
+          </extent>
+          <head>
+              <charseq START="4880" END="4890">Gooding Jr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ben_Carson.sentences.sgm-E66-M3523">
+          <extent>
+              <charseq START="4939" END="4941">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4939" END="4941">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gooding Jr.">
+              <charseq START="4880" END="4890">Gooding Jr.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E67" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E67-M3517">
+          <extent>
+              <charseq START="4875" END="4878">Cuba</charseq>
+          </extent>
+          <head>
+              <charseq START="4875" END="4878">Cuba</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cuba">
+              <charseq START="4875" END="4878">Cuba</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E68-M3521">
+          <extent>
+              <charseq START="4913" END="4926">Kimberly Elise</charseq>
+          </extent>
+          <head>
+              <charseq START="4913" END="4926">Kimberly Elise</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kimberly Elise">
+              <charseq START="4913" END="4926">Kimberly Elise</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ben_Carson.sentences.sgm-E69-M3522">
+          <extent>
+              <charseq START="4939" END="4948">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="4943" END="4948">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E70" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E70-M3607">
+          <extent>
+              <charseq START="4986" END="5009">Zondervan Publishing Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="4986" END="5009">Zondervan Publishing Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E70-M3613">
+          <extent>
+              <charseq START="5054" END="5077">Zondervan Publishing Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="5054" END="5077">Zondervan Publishing Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E70-M3620">
+          <extent>
+              <charseq START="5116" END="5139">Zondervan Publishing Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="5116" END="5139">Zondervan Publishing Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E70-M3627">
+          <extent>
+              <charseq START="5181" END="5204">Zondervan Publishing Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="5181" END="5204">Zondervan Publishing Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zondervan Publishing Co.">
+              <charseq START="4986" END="5009">Zondervan Publishing Co.</charseq>
+          </name>
+          <name NAME="Zondervan Publishing Co.">
+              <charseq START="5054" END="5077">Zondervan Publishing Co.</charseq>
+          </name>
+          <name NAME="Zondervan Publishing Co.">
+              <charseq START="5116" END="5139">Zondervan Publishing Co.</charseq>
+          </name>
+          <name NAME="Zondervan Publishing Co.">
+              <charseq START="5181" END="5204">Zondervan Publishing Co.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E71" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E71-M3634" ROLE="GPE">
+          <extent>
+              <charseq START="5264" END="5398">the Carson Scholars Fund
+Dr. Ben Carson M.D.
+Benjamin Carson receives a Presidential Medal
+Dr. Benjamin Carson - Pediatric Neurosurgery</charseq>
+          </extent>
+          <head>
+              <charseq START="5387" END="5398">Neurosurgery</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Neurosurgery">
+              <charseq START="5387" END="5398">Neurosurgery</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ben_Carson.sentences.sgm-E72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ben_Carson.sentences.sgm-E72-M3641">
+          <extent>
+              <charseq START="5359" END="5385">Benjamin Carson - Pediatric</charseq>
+          </extent>
+          <head>
+              <charseq START="5359" END="5385">Benjamin Carson - Pediatric</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Benjamin Carson - Pediatric">
+              <charseq START="5359" END="5385">Benjamin Carson - Pediatric</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T0" VAL="1951-09-18">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="69" END="86">18 September, 1951</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T1" VAL="P33Y">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="226" END="237">33 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T2" VAL="2008">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="293" END="296">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T3" VAL="1951">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="329" END="332">1951</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T4" VAL="1987">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="787" END="790">1987</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T5" VAL="P7M">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="958" END="972">seven month old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T6" VAL="PT22H">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1234" END="1246">some 22 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T7" VAL="1997">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1348" END="1351">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T8" VAL="P11M">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1454" END="1465">11-month-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T9" VAL="PT28H">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1841" END="1855">28 hours before</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T10" VAL="2003">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1894" END="1897">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T11" VAL="2003">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2842" END="2845">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T12" VAL="2003">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3178" END="3181">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T13" VAL="2007">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="3283" END="3286">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T14" VAL="2008-05-30">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="3442" END="3452">30 May 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T15" VAL="XXXX-XX-WE">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="3718" END="3728">the weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T16" VAL="2004">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4053" END="4056">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T17" VAL="2008-06-19">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="4062" END="4073">19 June 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T18" VAL="2008">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="4285" END="4288">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T19" VAL="2009-02-07">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="4831" END="4846">February 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T20" VAL="2008">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="4965" END="4968">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T21" VAL="2000">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="5031" END="5034">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T22" VAL="1996">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="5099" END="5102">1996</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ben_Carson.sentences.sgm-T23" VAL="1996">
+        <timex2_mention ID="Ben_Carson.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="5161" END="5164">1996</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Ben_Carson.sentences.sgm-V24" TYPE="Job-Title">
+        <value_mention ID="Ben_Carson.sentences.sgm-V24-M1">
+            <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Ben_Carson.sentences.sgm-V25" TYPE="Job-Title">
+        <value_mention ID="Ben_Carson.sentences.sgm-V25-M1">
+            <extent>
+              <charseq START="3985" END="4020">the President&apos;s Council on Bioethics</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Ben_Carson.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="92" END="115">an American neurosurgeon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E2-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="92" END="115">an American neurosurgeon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E1-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="95" END="102">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E4-M204" ROLE="Arg-2">
+            <extent>
+              <charseq START="165" END="186">Pediatric Neurosurgery</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R1-M600">
+          <extent>
+              <charseq START="733" END="781">the hospital&apos;s Director of Pediatric Neurosurgery</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="733" END="781">the hospital&apos;s Director of Pediatric Neurosurgery</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E4-M606" ROLE="Arg-2">
+            <extent>
+              <charseq START="760" END="781">Pediatric Neurosurgery</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R2-M201">
+          <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E5-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="191" END="212">Johns Hopkins Hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R2-M500">
+          <extent>
+              <charseq START="656" END="657">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="656" END="657">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E5-M509" ROLE="Arg-2">
+            <extent>
+              <charseq START="675" END="709">Johns Hopkins Hospital in Baltimore</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E6" ROLE="Arg-2"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-T3" ROLE="Time-Within"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R3-M300">
+          <extent>
+              <charseq START="299" END="315">Background
+Carson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="299" END="315">Background
+Carson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E6-M304" ROLE="Arg-2">
+            <extent>
+              <charseq START="337" END="422">Detroit, Michigan, graduated from Detroit&apos;s Southwestern High School with high honors,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-T3-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="329" END="332">1951</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R4-M301">
+          <extent>
+              <charseq START="337" END="422">Detroit, Michigan, graduated from Detroit&apos;s Southwestern High School with high honors,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E6-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="337" END="422">Detroit, Michigan, graduated from Detroit&apos;s Southwestern High School with high honors,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E7-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="346" END="353">Michigan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R5-M302">
+          <extent>
+              <charseq START="381" END="404">Southwestern High School</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E8-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="381" END="404">Southwestern High School</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E6-M308" ROLE="Arg-2">
+            <extent>
+              <charseq START="371" END="377">Detroit</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R6-M400">
+          <extent>
+              <charseq START="510" END="511">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="510" END="511">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E10-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="521" END="561">the University of Michigan Medical School</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R7-M501">
+          <extent>
+              <charseq START="675" END="709">Johns Hopkins Hospital in Baltimore</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E5-M509" ROLE="Arg-1">
+            <extent>
+              <charseq START="675" END="709">Johns Hopkins Hospital in Baltimore</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E11-M511" ROLE="Arg-2">
+            <extent>
+              <charseq START="701" END="709">Baltimore</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E20" ROLE="Arg-2"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-T7" ROLE="Time-Within"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R8-M1100">
+          <extent>
+              <charseq START="1354" END="1359">Carson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1101" ROLE="Arg-1">
+            <extent>
+              <charseq START="1354" END="1359">Carson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E20-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1369" END="1380">South Africa</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1348" END="1351">1997</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R8-M1101">
+          <extent>
+              <charseq START="1388" END="1389">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1105" ROLE="Arg-1">
+            <extent>
+              <charseq START="1388" END="1389">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E20-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1382" END="1386">where</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R9-M1102">
+          <extent>
+              <charseq START="1454" END="1483">11-month-old Zambian twin boys</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E15-M1111" ROLE="Arg-1">
+            <extent>
+              <charseq START="1454" END="1483">11-month-old Zambian twin boys</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E21-M1112" ROLE="Arg-2">
+            <extent>
+              <charseq START="1467" END="1473">Zambian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R10-M1500">
+          <extent>
+              <charseq START="1911" END="2006">a member of the surgical team which worked to separate conjoined siblings Ladan and Laleh Bijani</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1502" ROLE="Arg-1">
+            <extent>
+              <charseq START="1911" END="2006">a member of the surgical team which worked to separate conjoined siblings Ladan and Laleh Bijani</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E30-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="1923" END="2006">the surgical team which worked to separate conjoined siblings Ladan and Laleh Bijani</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R11" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E33" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R11-M1800">
+          <extent>
+              <charseq START="2258" END="2449">a member of the American Academy of Achievement, the Horatio Alger Association of Distinguished Americans, the Alpha Omega Alpha Honor Medical Society, and many other prestigious organizations</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1802" ROLE="Arg-1">
+            <extent>
+              <charseq START="2258" END="2449">a member of the American Academy of Achievement, the Horatio Alger Association of Distinguished Americans, the Alpha Omega Alpha Honor Medical Society, and many other prestigious organizations</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E33-M1812" ROLE="Arg-2">
+            <extent>
+              <charseq START="2365" END="2407">the Alpha Omega Alpha Honor Medical Society</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R12-M1801">
+          <extent>
+              <charseq START="2258" END="2449">a member of the American Academy of Achievement, the Horatio Alger Association of Distinguished Americans, the Alpha Omega Alpha Honor Medical Society, and many other prestigious organizations</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1802" ROLE="Arg-1">
+            <extent>
+              <charseq START="2258" END="2449">a member of the American Academy of Achievement, the Horatio Alger Association of Distinguished Americans, the Alpha Omega Alpha Honor Medical Society, and many other prestigious organizations</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E35-M1814" ROLE="Arg-2">
+            <extent>
+              <charseq START="2414" END="2449">many other prestigious organizations</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R13" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E39" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R13-M2000">
+          <extent>
+              <charseq START="2650" END="2662">the president</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M2004" ROLE="Arg-1">
+            <extent>
+              <charseq START="2650" END="2662">the president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E39-M2006" ROLE="Arg-2">
+            <extent>
+              <charseq START="2682" END="2813">the Carson Scholars Fund, which recognizes young people of all backgrounds for exceptional academic and humanitarian accomplishments</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R13-M2001">
+          <extent>
+              <charseq START="2668" END="2677">co-founder</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M2005" ROLE="Arg-1">
+            <extent>
+              <charseq START="2668" END="2677">co-founder</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E39-M2006" ROLE="Arg-2">
+            <extent>
+              <charseq START="2682" END="2813">the Carson Scholars Fund, which recognizes young people of all backgrounds for exceptional academic and humanitarian accomplishments</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R14-M2500">
+          <extent>
+              <charseq START="3289" END="3290">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M2501" ROLE="Arg-1">
+            <extent>
+              <charseq START="3289" END="3290">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E46-M2507" ROLE="Arg-2">
+            <extent>
+              <charseq START="3402" END="3436">the IWU&apos;s Society of World Changers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R15" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E47" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E48" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R15-M2600">
+          <extent>
+              <charseq START="3579" END="3669">The George Washington University in Washington D.C., where he delivered the keynote address</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E47-M2618" ROLE="Arg-1">
+            <extent>
+              <charseq START="3579" END="3669">The George Washington University in Washington D.C., where he delivered the keynote address</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E48-M2621" ROLE="Arg-2">
+            <extent>
+              <charseq START="3615" END="3629">Washington D.C.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E55" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R16-M3000">
+          <extent>
+              <charseq START="4265" END="4279">America&apos;s youth</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E55-M3023" ROLE="Arg-1">
+            <extent>
+              <charseq START="4265" END="4279">America&apos;s youth</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E1-M3024" ROLE="Arg-2">
+            <extent>
+              <charseq START="4265" END="4271">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E57" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R17-M3100">
+          <extent>
+              <charseq START="4320" END="4341">America&apos;s Best Leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E57-M3104" ROLE="Arg-1">
+            <extent>
+              <charseq START="4320" END="4341">America&apos;s Best Leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E1-M3105" ROLE="Arg-2">
+            <extent>
+              <charseq START="4320" END="4326">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ben_Carson.sentences.sgm-R18" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E66" ROLE="Arg-1"/>
+      <relation_argument REFID="Ben_Carson.sentences.sgm-E69" ROLE="Arg-2"/>
+        <relation_mention ID="Ben_Carson.sentences.sgm-R18-M3500">
+          <extent>
+              <charseq START="4939" END="4941">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E66-M3523" ROLE="Arg-1">
+            <extent>
+              <charseq START="4939" END="4941">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ben_Carson.sentences.sgm-E69-M3522" ROLE="Arg-2">
+            <extent>
+              <charseq START="4939" END="4948">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Ben_Carson.sentences.sgm-EV0" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-E4" ROLE="Entity"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-V24" ROLE="Position"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV0-M200">
+          <extent>
+              <charseq START="142" END="147">became</charseq>
+          </extent>
+          <anchor>
+              <charseq START="142" END="147">became</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M200" ROLE="Person">
+          <extent>
+              <charseq START="139" END="140">He</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E4-M204" ROLE="Entity">
+          <extent>
+              <charseq START="165" END="186">Pediatric Neurosurgery</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ben_Carson.sentences.sgm-V24-M1" ROLE="Position">
+            <extent>
+              <charseq START="149" END="186">the Director of Pediatric Neurosurgery</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-E6" ROLE="Place"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-T3" ROLE="Time-Within"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV1-M301">
+          <extent>
+              <charseq START="321" END="324">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="321" END="324">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M300" ROLE="Person">
+          <extent>
+              <charseq START="299" END="315">Background
+Carson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E6-M304" ROLE="Place">
+          <extent>
+              <charseq START="337" END="422">Detroit, Michigan, graduated from Detroit&apos;s Southwestern High School with high honors,</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ben_Carson.sentences.sgm-T3-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="329" END="332">1951</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E15" ROLE="Victim"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV2-M901">
+          <extent>
+              <charseq START="1176" END="1182">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1176" END="1182">killing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E15-M903" ROLE="Victim">
+          <extent>
+              <charseq START="1184" END="1193">both twins</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-E20" ROLE="Destination"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-T7" ROLE="Time-Within"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV3-M1100">
+          <extent>
+              <charseq START="1361" END="1364">went</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1361" END="1364">went</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M1101" ROLE="Artifact">
+          <extent>
+              <charseq START="1354" END="1359">Carson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E20-M1103" ROLE="Destination">
+          <extent>
+              <charseq START="1369" END="1380">South Africa</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ben_Carson.sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1348" END="1351">1997</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E15" ROLE="Victim"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV4-M1601">
+          <extent>
+              <charseq START="2129" END="2131">die</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2129" END="2131">die</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E15-M1610" ROLE="Victim">
+          <extent>
+              <charseq START="2111" END="2114">they</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Ben_Carson.sentences.sgm-EV5-M2300">
+          <extent>
+              <charseq START="3132" END="3138">suicide</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3132" END="3138">suicide</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Ben_Carson.sentences.sgm-EV6" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ben_Carson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-E53" ROLE="Entity"/>
+      <event_argument REFID="Ben_Carson.sentences.sgm-V25" ROLE="Position"/>
+      <event_mention ID="Ben_Carson.sentences.sgm-EV6-M2901">
+          <extent>
+              <charseq START="3972" END="3980">appointed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3972" END="3980">appointed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E0-M2900" ROLE="Person">
+          <extent>
+              <charseq START="3961" END="3966">Carson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ben_Carson.sentences.sgm-E53-M2901" ROLE="Entity">
+          <extent>
+              <charseq START="3985" END="4020">the President&apos;s Council on Bioethics</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ben_Carson.sentences.sgm-V25-M1" ROLE="Position">
+            <extent>
+              <charseq START="3985" END="4020">the President&apos;s Council on Bioethics</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

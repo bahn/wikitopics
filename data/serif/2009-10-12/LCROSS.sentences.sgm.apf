@@ -1,0 +1,1945 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="LCROSS.sentences.sgm">
+  <document DOCID="LCROSS.sentences.sgm">
+
+    <entity ID="LCROSS.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="27" END="38">Lunar CRater</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="38">Lunar CRater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lunar CRater">
+              <charseq START="27" END="38">Lunar CRater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M9">
+          <extent>
+              <charseq START="120" END="123">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="123">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M207">
+          <extent>
+              <charseq START="384" END="387">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="387">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M511">
+          <extent>
+              <charseq START="1001" END="1004">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="1001" END="1004">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M3213">
+          <extent>
+              <charseq START="4964" END="4988">NASA Ames Research Center</charseq>
+          </extent>
+          <head>
+              <charseq START="4964" END="4988">NASA Ames Research Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M3601">
+          <extent>
+              <charseq START="5452" END="5478">NASA&apos;s Ames Research Center</charseq>
+          </extent>
+          <head>
+              <charseq START="5459" END="5478">Ames Research Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M3602">
+          <extent>
+              <charseq START="5452" END="5455">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="5452" END="5455">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M4106">
+          <extent>
+              <charseq START="6025" END="6051">NASA&apos;s Ames Research Center</charseq>
+          </extent>
+          <head>
+              <charseq START="6032" END="6051">Ames Research Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M4107">
+          <extent>
+              <charseq START="6025" END="6028">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="6025" END="6028">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M4612">
+          <extent>
+              <charseq START="6972" END="6975">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="6972" END="6975">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M5114">
+          <extent>
+              <charseq START="7537" END="7540">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="7537" END="7540">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M5121">
+          <extent>
+              <charseq START="7592" END="7616">NASA Ames Research Center</charseq>
+          </extent>
+          <head>
+              <charseq START="7592" END="7616">NASA Ames Research Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M5125">
+          <extent>
+              <charseq START="7651" END="7669">blogs.nasa.gov
+NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="7666" END="7669">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E1-M5132">
+          <extent>
+              <charseq START="7716" END="7719">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="7716" END="7719">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E1-M5126">
+          <extent>
+              <charseq START="7651" END="7664">blogs.nasa.gov</charseq>
+          </extent>
+          <head>
+              <charseq START="7651" END="7664">blogs.nasa.gov</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NASA">
+              <charseq START="120" END="123">NASA</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="384" END="387">NASA</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="1001" END="1004">NASA</charseq>
+          </name>
+          <name NAME="NASA Ames Research Center">
+              <charseq START="4964" END="4988">NASA Ames Research Center</charseq>
+          </name>
+          <name NAME="Ames Research Center">
+              <charseq START="5459" END="5478">Ames Research Center</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="5452" END="5455">NASA</charseq>
+          </name>
+          <name NAME="Ames Research Center">
+              <charseq START="6032" END="6051">Ames Research Center</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="6025" END="6028">NASA</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="6972" END="6975">NASA</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="7537" END="7540">NASA</charseq>
+          </name>
+          <name NAME="NASA Ames Research Center">
+              <charseq START="7592" END="7616">NASA Ames Research Center</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="7666" END="7669">NASA</charseq>
+          </name>
+          <name NAME="NASA">
+              <charseq START="7716" END="7719">NASA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E2" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E2-M7">
+          <extent>
+              <charseq START="87" END="123">a robotic spacecraft operated by NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="106">spacecraft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E2-M409">
+          <extent>
+              <charseq START="815" END="828">the spacecraft</charseq>
+          </extent>
+          <head>
+              <charseq START="819" END="828">spacecraft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E2-M1403">
+          <extent>
+              <charseq START="2415" END="2440">the Shepherding Spacecraft</charseq>
+          </extent>
+          <head>
+              <charseq START="2431" END="2440">Spacecraft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E2-M2909">
+          <extent>
+              <charseq START="4588" END="4601">the spacecraft</charseq>
+          </extent>
+          <head>
+              <charseq START="4592" END="4601">spacecraft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E2-M3914">
+          <extent>
+              <charseq START="5899" END="5912">the spacecraft</charseq>
+          </extent>
+          <head>
+              <charseq START="5903" END="5912">spacecraft</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E3-M104">
+          <extent>
+              <charseq START="160" END="187">Lunar Reconnaissance Orbiter</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="187">Lunar Reconnaissance Orbiter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E3-M105">
+          <extent>
+              <charseq START="190" END="192">LRO</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="192">LRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E3-M202">
+          <extent>
+              <charseq START="359" END="361">LRO</charseq>
+          </extent>
+          <head>
+              <charseq START="359" END="361">LRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E3-M2814">
+          <extent>
+              <charseq START="4489" END="4491">LRO</charseq>
+          </extent>
+          <head>
+              <charseq START="4489" END="4491">LRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E3-M3507">
+          <extent>
+              <charseq START="5420" END="5422">LRO</charseq>
+          </extent>
+          <head>
+              <charseq START="5420" END="5422">LRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lunar Reconnaissance Orbiter">
+              <charseq START="160" END="187">Lunar Reconnaissance Orbiter</charseq>
+          </name>
+          <name NAME="LRO">
+              <charseq START="190" END="192">LRO</charseq>
+          </name>
+          <name NAME="LRO">
+              <charseq START="359" END="361">LRO</charseq>
+          </name>
+          <name NAME="LRO">
+              <charseq START="4489" END="4491">LRO</charseq>
+          </name>
+          <name NAME="LRO">
+              <charseq START="5420" END="5422">LRO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E4-M111">
+          <extent>
+              <charseq START="236" END="277">the shared Lunar Precursor Robotic Program</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="277">Lunar Precursor Robotic Program</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E4-M113">
+          <extent>
+              <charseq START="280" END="335">the first American mission to the Moon in over ten years</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="305">mission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lunar Precursor Robotic Program">
+              <charseq START="247" END="277">Lunar Precursor Robotic Program</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E5-M115" ROLE="GPE">
+          <extent>
+              <charseq START="290" END="297">American</charseq>
+          </extent>
+          <head>
+              <charseq START="290" END="297">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E5-M211" ROLE="GPE">
+          <extent>
+              <charseq START="441" END="453">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="453">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E5-M703" ROLE="GPE">
+          <extent>
+              <charseq START="1144" END="1151">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1144" END="1151">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E5-M2703" ROLE="GPE">
+          <extent>
+              <charseq START="4263" END="4275">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4263" END="4275">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E5-M2702" ROLE="ORG">
+          <extent>
+              <charseq START="4259" END="4286">the United States government</charseq>
+          </extent>
+          <head>
+              <charseq START="4277" END="4286">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="290" END="297">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="441" END="453">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1144" END="1151">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="4263" END="4275">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E6-M116">
+          <extent>
+              <charseq START="310" END="317">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="314" END="317">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E6-M208">
+          <extent>
+              <charseq START="401" END="408">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="405" END="408">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E6-M213">
+          <extent>
+              <charseq START="506" END="513">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="513">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E6-M316">
+          <extent>
+              <charseq START="695" END="702">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="699" END="702">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E6-M2705">
+          <extent>
+              <charseq START="4307" END="4310">Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="4307" END="4310">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moon">
+              <charseq START="314" END="317">Moon</charseq>
+          </name>
+          <name NAME="Moon">
+              <charseq START="405" END="408">Moon</charseq>
+          </name>
+          <name NAME="Moon">
+              <charseq START="510" END="513">Moon</charseq>
+          </name>
+          <name NAME="Moon">
+              <charseq START="699" END="702">Moon</charseq>
+          </name>
+          <name NAME="Moon">
+              <charseq START="4307" END="4310">Moon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E7-M108">
+          <extent>
+              <charseq START="228" END="335">part of the shared Lunar Precursor Robotic Program, the first American mission to the Moon in over ten years</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="231">part</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M201">
+          <extent>
+              <charseq START="348" END="353">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="348" END="353">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M300">
+          <extent>
+              <charseq START="516" END="521">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="516" END="521">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M400">
+          <extent>
+              <charseq START="705" END="710">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="710">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M406">
+          <extent>
+              <charseq START="767" END="769">its</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="769">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M503">
+          <extent>
+              <charseq START="889" END="907">UTC.
+Mission
+LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="889" END="907">UTC.
+Mission
+LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M701">
+          <extent>
+              <charseq START="1105" END="1110">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1110">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M800">
+          <extent>
+              <charseq START="1182" END="1187">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1187">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M904">
+          <extent>
+              <charseq START="1357" END="1362">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="1357" END="1362">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M906">
+          <extent>
+              <charseq START="1368" END="1370">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1368" END="1370">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M1004">
+          <extent>
+              <charseq START="1592" END="1597">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="1592" END="1597">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M1103">
+          <extent>
+              <charseq START="1835" END="1840">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="1835" END="1840">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M1309">
+          <extent>
+              <charseq START="2261" END="2266">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="2261" END="2266">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E8-M1300">
+          <extent>
+              <charseq START="2175" END="2190">The mission team</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2190">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M1401">
+          <extent>
+              <charseq START="2395" END="2397">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2395" END="2397">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M2700">
+          <extent>
+              <charseq START="4188" END="4193">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="4188" END="4193">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M3405">
+          <extent>
+              <charseq START="5219" END="5224">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5219" END="5224">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M3406">
+          <extent>
+              <charseq START="5227" END="5228">it</charseq>
+          </extent>
+          <head>
+              <charseq START="5227" END="5228">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M3500">
+          <extent>
+              <charseq START="5290" END="5295">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5290" END="5295">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M3600">
+          <extent>
+              <charseq START="5425" END="5430">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5425" END="5430">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M3701">
+          <extent>
+              <charseq START="5519" END="5524">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5519" END="5524">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M3801">
+          <extent>
+              <charseq START="5592" END="5597">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5592" END="5597">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M3804">
+          <extent>
+              <charseq START="5614" END="5616">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5614" END="5616">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M3810">
+          <extent>
+              <charseq START="5670" END="5672">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5670" END="5672">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M4000">
+          <extent>
+              <charseq START="5915" END="5920">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="5915" END="5920">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M4003">
+          <extent>
+              <charseq START="5929" END="5931">its</charseq>
+          </extent>
+          <head>
+              <charseq START="5929" END="5931">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M4208">
+          <extent>
+              <charseq START="6335" END="6356">LCROSS Mission Control</charseq>
+          </extent>
+          <head>
+              <charseq START="6335" END="6356">LCROSS Mission Control</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E8-M4304">
+          <extent>
+              <charseq START="6407" END="6412">LCROSS</charseq>
+          </extent>
+          <head>
+              <charseq START="6407" END="6412">LCROSS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E8-M4418">
+          <extent>
+              <charseq START="6677" END="6693">the manufacturers</charseq>
+          </extent>
+          <head>
+              <charseq START="6681" END="6693">manufacturers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E8-M4420">
+          <extent>
+              <charseq START="6718" END="6722">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6718" END="6722">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LCROSS">
+              <charseq START="348" END="353">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="516" END="521">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="705" END="710">LCROSS</charseq>
+          </name>
+          <name NAME="UTC.
+Mission
+LCROSS">
+              <charseq START="889" END="907">UTC.
+Mission
+LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="1105" END="1110">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="1182" END="1187">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="1357" END="1362">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="1592" END="1597">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="1835" END="1840">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="2261" END="2266">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="4188" END="4193">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5219" END="5224">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5290" END="5295">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5425" END="5430">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5519" END="5524">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5592" END="5597">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="5915" END="5920">LCROSS</charseq>
+          </name>
+          <name NAME="LCROSS Mission Control">
+              <charseq START="6335" END="6356">LCROSS Mission Control</charseq>
+          </name>
+          <name NAME="LCROSS">
+              <charseq START="6407" END="6412">LCROSS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E9-M311">
+          <extent>
+              <charseq START="654" END="670">the crater Cabeus</charseq>
+          </extent>
+          <head>
+              <charseq START="665" END="670">Cabeus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E9-M312">
+          <extent>
+              <charseq START="658" END="663">crater</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="663">crater</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E9-M1303">
+          <extent>
+              <charseq START="2217" END="2222">Cabeus</charseq>
+          </extent>
+          <head>
+              <charseq START="2217" END="2222">Cabeus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E9-M1315">
+          <extent>
+              <charseq START="2377" END="2382">Cabeus</charseq>
+          </extent>
+          <head>
+              <charseq START="2377" END="2382">Cabeus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E9-M4802">
+          <extent>
+              <charseq START="7146" END="7151">Cabeus</charseq>
+          </extent>
+          <head>
+              <charseq START="7146" END="7151">Cabeus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cabeus">
+              <charseq START="665" END="670">Cabeus</charseq>
+          </name>
+          <name NAME="Cabeus">
+              <charseq START="2217" END="2222">Cabeus</charseq>
+          </name>
+          <name NAME="Cabeus">
+              <charseq START="2377" END="2382">Cabeus</charseq>
+          </name>
+          <name NAME="Cabeus">
+              <charseq START="7146" END="7151">Cabeus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E10" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E10-M303">
+          <extent>
+              <charseq START="559" END="565">vehicle</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="565">vehicle</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E11" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E11-M513">
+          <extent>
+              <charseq START="1025" END="1036">the Delta II</charseq>
+          </extent>
+          <head>
+              <charseq START="1029" END="1036">Delta II</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Delta II">
+              <charseq START="1029" END="1036">Delta II</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E12" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E12-M515">
+          <extent>
+              <charseq START="1041" END="1063">a larger launch vehicle</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1063">vehicle</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E13-M702">
+          <extent>
+              <charseq START="1139" END="1179">late American broadcaster Walter Cronkite</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1179">Walter Cronkite</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E13-M704">
+          <extent>
+              <charseq START="1153" END="1163">broadcaster</charseq>
+          </extent>
+          <head>
+              <charseq START="1153" END="1163">broadcaster</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walter Cronkite">
+              <charseq START="1165" END="1179">Walter Cronkite</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E14-M804">
+          <extent>
+              <charseq START="1221" END="1227">Atlas V</charseq>
+          </extent>
+          <head>
+              <charseq START="1221" END="1227">Atlas V</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atlas V">
+              <charseq START="1221" END="1227">Atlas V</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E15-M805" ROLE="LOC">
+          <extent>
+              <charseq START="1241" END="1263">Cape Canaveral, Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="1241" END="1254">Cape Canaveral</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cape Canaveral">
+              <charseq START="1241" END="1254">Cape Canaveral</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E16-M807" ROLE="LOC">
+          <extent>
+              <charseq START="1257" END="1263">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="1257" END="1263">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="1257" END="1263">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E17" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E17-M802">
+          <extent>
+              <charseq START="1218" END="1263">an Atlas V rocket from Cape Canaveral, Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1234">rocket</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E18-M911">
+          <extent>
+              <charseq START="1466" END="1470">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="1466" END="1470">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E18-M1611">
+          <extent>
+              <charseq START="2761" END="2765">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="2761" END="2765">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E18-M2602">
+          <extent>
+              <charseq START="4087" END="4091">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="4087" END="4091">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Earth">
+              <charseq START="1466" END="1470">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="2761" END="2765">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="4087" END="4091">Earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E19-M905">
+          <extent>
+              <charseq START="1368" END="1395">its attached Centaur booster</charseq>
+          </extent>
+          <head>
+              <charseq START="1389" END="1395">booster</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E20-M1003">
+          <extent>
+              <charseq START="1592" END="1616">LCROSS ground controllers</charseq>
+          </extent>
+          <head>
+              <charseq START="1606" END="1616">controllers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E21-M1101">
+          <extent>
+              <charseq START="1818" END="1828">Dan Andrews</charseq>
+          </extent>
+          <head>
+              <charseq START="1818" END="1828">Dan Andrews</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E21-M1102">
+          <extent>
+              <charseq START="1831" END="1856">the LCROSS project manager</charseq>
+          </extent>
+          <head>
+              <charseq START="1850" END="1856">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E21-M4600">
+          <extent>
+              <charseq START="6817" END="6843">Project manager Dan Andrews</charseq>
+          </extent>
+          <head>
+              <charseq START="6833" END="6843">Dan Andrews</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E21-M4602">
+          <extent>
+              <charseq START="6825" END="6831">manager</charseq>
+          </extent>
+          <head>
+              <charseq START="6825" END="6831">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Andrews">
+              <charseq START="1818" END="1828">Dan Andrews</charseq>
+          </name>
+          <name NAME="Dan Andrews">
+              <charseq START="6833" END="6843">Dan Andrews</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E23-M1304">
+          <extent>
+              <charseq START="2235" END="2322">the target crater for the LCROSS dual impacts scheduled for 11:30 UTC on October 9, 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="2246" END="2251">crater</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E24-M1314">
+          <extent>
+              <charseq START="2360" END="2389">the larger, main Cabeus crater</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2389">crater</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E25" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E25-M1502">
+          <extent>
+              <charseq START="2524" END="2539">a heavy impactor</charseq>
+          </extent>
+          <head>
+              <charseq START="2532" END="2539">impactor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E26-M1606">
+          <extent>
+              <charseq START="2665" END="2690">the Shepherding Spacecraft</charseq>
+          </extent>
+          <head>
+              <charseq START="2669" END="2690">Shepherding Spacecraft</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shepherding Spacecraft">
+              <charseq START="2669" END="2690">Shepherding Spacecraft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E27-M2109">
+          <extent>
+              <charseq START="3499" END="3508">Clementine</charseq>
+          </extent>
+          <head>
+              <charseq START="3499" END="3508">Clementine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clementine">
+              <charseq START="3499" END="3508">Clementine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E28-M2111">
+          <extent>
+              <charseq START="3514" END="3529">Lunar Prospector</charseq>
+          </extent>
+          <head>
+              <charseq START="3514" END="3529">Lunar Prospector</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lunar Prospector">
+              <charseq START="3514" END="3529">Lunar Prospector</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E29" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E29-M2117">
+          <extent>
+              <charseq START="3584" END="3615">the permanently shadowed regions</charseq>
+          </extent>
+          <head>
+              <charseq START="3609" END="3615">regions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E30-M2203">
+          <extent>
+              <charseq START="3656" END="3662">Centaur</charseq>
+          </extent>
+          <head>
+              <charseq START="3656" END="3662">Centaur</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Centaur">
+              <charseq START="3656" END="3662">Centaur</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E31-M2200">
+          <extent>
+              <charseq START="3618" END="3635">Mission scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="3626" END="3635">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E32-M2604">
+          <extent>
+              <charseq START="4145" END="4170">the Hubble Space Telescope</charseq>
+          </extent>
+          <head>
+              <charseq START="4149" END="4170">Hubble Space Telescope</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hubble Space Telescope">
+              <charseq START="4149" END="4170">Hubble Space Telescope</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E33-M2601">
+          <extent>
+              <charseq START="4087" END="4111">Earth-based observatories</charseq>
+          </extent>
+          <head>
+              <charseq START="4099" END="4111">observatories</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E34-M2704">
+          <extent>
+              <charseq START="4305" END="4315">a Moon base</charseq>
+          </extent>
+          <head>
+              <charseq START="4312" END="4315">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E35" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E35-M2815">
+          <extent>
+              <charseq START="4496" END="4525">the Centaur upper stage rocket</charseq>
+          </extent>
+          <head>
+              <charseq START="4520" END="4525">rocket</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E36-M2902">
+          <extent>
+              <charseq START="4554" END="4561">the ESPA</charseq>
+          </extent>
+          <head>
+              <charseq START="4558" END="4561">ESPA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E36-M3307">
+          <extent>
+              <charseq START="5063" END="5066">ESPA</charseq>
+          </extent>
+          <head>
+              <charseq START="5063" END="5066">ESPA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E36-M3401">
+          <extent>
+              <charseq START="5142" END="5145">ESPA</charseq>
+          </extent>
+          <head>
+              <charseq START="5142" END="5145">ESPA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ESPA">
+              <charseq START="4558" END="4561">ESPA</charseq>
+          </name>
+          <name NAME="ESPA">
+              <charseq START="5063" END="5066">ESPA</charseq>
+          </name>
+          <name NAME="ESPA">
+              <charseq START="5142" END="5145">ESPA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E37-M3102">
+          <extent>
+              <charseq START="4800" END="4805">S-Band</charseq>
+          </extent>
+          <head>
+              <charseq START="4800" END="4805">S-Band</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="S-Band">
+              <charseq START="4800" END="4805">S-Band</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E38-M3214">
+          <extent>
+              <charseq START="4994" END="5009">Northrop Grumman</charseq>
+          </extent>
+          <head>
+              <charseq START="4994" END="5009">Northrop Grumman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E38-M3209">
+          <extent>
+              <charseq START="4941" END="5009">engineering teams from NASA Ames Research Center and Northrop Grumman</charseq>
+          </extent>
+          <head>
+              <charseq START="4953" END="4957">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LCROSS.sentences.sgm-E38-M3301">
+          <extent>
+              <charseq START="5012" END="5016">Their</charseq>
+          </extent>
+          <head>
+              <charseq START="5012" END="5016">Their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E38-M3604">
+          <extent>
+              <charseq START="5497" END="5512">Northrop Grumman</charseq>
+          </extent>
+          <head>
+              <charseq START="5497" END="5512">Northrop Grumman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E38-M3910">
+          <extent>
+              <charseq START="5840" END="5855">Northrop Grumman</charseq>
+          </extent>
+          <head>
+              <charseq START="5840" END="5855">Northrop Grumman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northrop Grumman">
+              <charseq START="4994" END="5009">Northrop Grumman</charseq>
+          </name>
+          <name NAME="Northrop Grumman">
+              <charseq START="5497" END="5512">Northrop Grumman</charseq>
+          </name>
+          <name NAME="Northrop Grumman">
+              <charseq START="5840" END="5855">Northrop Grumman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E39-M3404">
+          <extent>
+              <charseq START="5182" END="5212">six small deployable satellites</charseq>
+          </extent>
+          <head>
+              <charseq START="5203" END="5212">satellites</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E40-M3803">
+          <extent>
+              <charseq START="5614" END="5644">its Mission Confirmation Review</charseq>
+          </extent>
+          <head>
+              <charseq START="5618" END="5644">Mission Confirmation Review</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mission Confirmation Review">
+              <charseq START="5618" END="5644">Mission Confirmation Review</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E41-M3808">
+          <extent>
+              <charseq START="5670" END="5710">its Critical Design Review on February 22</charseq>
+          </extent>
+          <head>
+              <charseq START="5674" END="5695">Critical Design Review</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Critical Design Review">
+              <charseq START="5674" END="5695">Critical Design Review</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E42-M3904" ROLE="LOC">
+          <extent>
+              <charseq START="5749" END="5752">Ames</charseq>
+          </extent>
+          <head>
+              <charseq START="5749" END="5752">Ames</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ames">
+              <charseq START="5749" END="5752">Ames</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E43-M3908">
+          <extent>
+              <charseq START="5791" END="5823">Ecliptic Enterprises Corporation,</charseq>
+          </extent>
+          <head>
+              <charseq START="5791" END="5822">Ecliptic Enterprises Corporation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ecliptic Enterprises Corporation">
+              <charseq START="5791" END="5822">Ecliptic Enterprises Corporation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E44-M4203">
+          <extent>
+              <charseq START="6259" END="6261">DHU</charseq>
+          </extent>
+          <head>
+              <charseq START="6259" END="6261">DHU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DHU">
+              <charseq START="6259" END="6261">DHU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E45-M4200">
+          <extent>
+              <charseq START="6237" END="6262">A data handling unit (DHU)</charseq>
+          </extent>
+          <head>
+              <charseq START="6253" END="6256">unit</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E46" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E46-M4906">
+          <extent>
+              <charseq START="7226" END="7238">Chandrayaan-1</charseq>
+          </extent>
+          <head>
+              <charseq START="7226" END="7238">Chandrayaan-1</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chandrayaan-1">
+              <charseq START="7226" END="7238">Chandrayaan-1</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E47-M4907">
+          <extent>
+              <charseq START="7243" END="7248">Kaguya</charseq>
+          </extent>
+          <head>
+              <charseq START="7243" END="7248">Kaguya</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kaguya">
+              <charseq START="7243" END="7248">Kaguya</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E48-M5000">
+          <extent>
+              <charseq START="7251" END="7300">Hubble Space Telescope co-investigator Alex Storrs</charseq>
+          </extent>
+          <head>
+              <charseq START="7290" END="7300">Alex Storrs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alex Storrs">
+              <charseq START="7290" END="7300">Alex Storrs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E49" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E49-M5128">
+          <extent>
+              <charseq START="7673" END="7795">Post-Impact News Conference on Youtube
+Why NASA Should Bomb the Moon to Find Water: Analysis, 2009-09-11, Popular Mechanics</charseq>
+          </extent>
+          <head>
+              <charseq START="7673" END="7699">Post-Impact News Conference</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Post-Impact News Conference">
+              <charseq START="7673" END="7699">Post-Impact News Conference</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LCROSS.sentences.sgm-E50-M5139">
+          <extent>
+              <charseq START="7779" END="7795">Popular Mechanics</charseq>
+          </extent>
+          <head>
+              <charseq START="7779" END="7795">Popular Mechanics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Popular Mechanics">
+              <charseq START="7779" END="7795">Popular Mechanics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E51-M5120">
+          <extent>
+              <charseq START="7592" END="7639">NASA Ames Research Center
+LCROSS Flight Director</charseq>
+          </extent>
+          <head>
+              <charseq START="7632" END="7639">Director</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LCROSS.sentences.sgm-E52" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LCROSS.sentences.sgm-E52-M5133">
+          <extent>
+              <charseq START="7733" END="7740">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="7737" END="7740">Moon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="LCROSS.sentences.sgm-T0" VAL="2009-06-18">
+        <timex2_mention ID="LCROSS.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="210" END="222">June 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T1" VAL="P10Y">
+        <timex2_mention ID="LCROSS.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="327" END="335">ten years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T2" VAL="XXXX-08-22">
+        <timex2_mention ID="LCROSS.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="738" END="746">August 22</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T3" VAL="2009-10-09">
+        <timex2_mention ID="LCROSS.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="863" END="877">October 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T4" VAL="T11:31">
+        <timex2_mention ID="LCROSS.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="883" END="887">11:31</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T5" VAL="2009-06-18">
+        <timex2_mention ID="LCROSS.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1269" END="1281">June 18, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T6" VAL="T21:32">
+        <timex2_mention ID="LCROSS.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1287" END="1291">21:32</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T7" VAL="T17:32">
+        <timex2_mention ID="LCROSS.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1298" END="1302">17:32</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T8" VAL="XXXX-06-23">
+        <timex2_mention ID="LCROSS.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1313" END="1319">June 23</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T9" VAL="PXD">
+        <timex2_mention ID="LCROSS.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1322" END="1354">four and a half days after launch</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T10" VAL="P37D">
+        <timex2_mention ID="LCROSS.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1483" END="1501">a period of 37 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T11" VAL="TMO">
+        <timex2_mention ID="LCROSS.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1560" END="1570">the morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T12" VAL="2009-08-22">
+        <timex2_mention ID="LCROSS.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1575" END="1589">August 22, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="LCROSS.sentences.sgm-V13" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="LCROSS.sentences.sgm-V13-M1">
+            <extent>
+              <charseq START="1719" END="1731">140 kilograms</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="LCROSS.sentences.sgm-T14">
+        <timex2_mention ID="LCROSS.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1795" END="1802">the time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T15" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="LCROSS.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="1874" END="1876">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T16" VAL="2009-10-09">
+        <timex2_mention ID="LCROSS.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2144" END="2158">October 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T17" VAL="T11:31">
+        <timex2_mention ID="LCROSS.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2164" END="2172">11:31 UTC</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T18" VAL="2009-10-09T11:30">
+        <timex2_mention ID="LCROSS.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2295" END="2322">11:30 UTC on October 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T19" VAL="2009-10-08">
+        <timex2_mention ID="LCROSS.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2464" END="2475">Oct. 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T20" VAL="T21:50">
+        <timex2_mention ID="LCROSS.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2480" END="2488">21:50 EDT</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T21" VAL="PT4M">
+        <timex2_mention ID="LCROSS.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="2611" END="2622">four minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T22" VAL="2006-09-08">
+        <timex2_mention ID="LCROSS.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="5569" END="5585">September 8, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T23" VAL="2007-02-02">
+        <timex2_mention ID="LCROSS.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="5649" END="5664">February 2, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T24" VAL="2007-02-22">
+        <timex2_mention ID="LCROSS.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="5700" END="5716">February 22, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T25" VAL="2008-01-14">
+        <timex2_mention ID="LCROSS.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="5860" END="5875">January 14, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LCROSS.sentences.sgm-T26" VAL="2009-02-12">
+        <timex2_mention ID="LCROSS.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="5943" END="5959">February 12, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="LCROSS.sentences.sgm-V27" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="LCROSS.sentences.sgm-V27-M1">
+            <extent>
+              <charseq START="7651" END="7664">blogs.nasa.gov</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="LCROSS.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="228" END="335">part of the shared Lunar Precursor Robotic Program, the first American mission to the Moon in over ten years</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E7-M108" ROLE="Arg-1">
+            <extent>
+              <charseq START="228" END="335">part of the shared Lunar Precursor Robotic Program, the first American mission to the Moon in over ten years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E4-M111" ROLE="Arg-2">
+            <extent>
+              <charseq START="236" END="277">the shared Lunar Precursor Robotic Program</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R1-M101">
+          <extent>
+              <charseq START="280" END="335">the first American mission to the Moon in over ten years</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E4-M113" ROLE="Arg-1">
+            <extent>
+              <charseq START="280" END="335">the first American mission to the Moon in over ten years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E5-M115" ROLE="Arg-2">
+            <extent>
+              <charseq START="290" END="297">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R2-M700">
+          <extent>
+              <charseq START="1153" END="1163">broadcaster</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E13-M704" ROLE="Arg-1">
+            <extent>
+              <charseq START="1153" END="1163">broadcaster</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E5-M703" ROLE="Arg-2">
+            <extent>
+              <charseq START="1144" END="1151">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R3-M800">
+          <extent>
+              <charseq START="1221" END="1227">Atlas V</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E14-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="1221" END="1227">Atlas V</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E17-M802" ROLE="Arg-2">
+            <extent>
+              <charseq START="1218" END="1263">an Atlas V rocket from Cape Canaveral, Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R4-M801">
+          <extent>
+              <charseq START="1241" END="1263">Cape Canaveral, Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E15-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="1241" END="1263">Cape Canaveral, Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E16-M807" ROLE="Arg-2">
+            <extent>
+              <charseq START="1257" END="1263">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R5-M1000">
+          <extent>
+              <charseq START="1592" END="1616">LCROSS ground controllers</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E20-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1592" END="1616">LCROSS ground controllers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E8-M1004" ROLE="Arg-2">
+            <extent>
+              <charseq START="1592" END="1597">LCROSS</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R6-M1100">
+          <extent>
+              <charseq START="1831" END="1856">the LCROSS project manager</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E21-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1831" END="1856">the LCROSS project manager</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E8-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1835" END="1840">LCROSS</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E38" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R7-M3200">
+          <extent>
+              <charseq START="4964" END="4988">NASA Ames Research Center</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E1-M3213" ROLE="Arg-1">
+            <extent>
+              <charseq START="4964" END="4988">NASA Ames Research Center</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E38-M3209" ROLE="Arg-2">
+            <extent>
+              <charseq START="4941" END="5009">engineering teams from NASA Ames Research Center and Northrop Grumman</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LCROSS.sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LCROSS.sentences.sgm-E51" ROLE="Arg-1"/>
+      <relation_argument REFID="LCROSS.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="LCROSS.sentences.sgm-R8-M5100">
+          <extent>
+              <charseq START="7592" END="7639">NASA Ames Research Center
+LCROSS Flight Director</charseq>
+          </extent>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E51-M5120" ROLE="Arg-1">
+            <extent>
+              <charseq START="7592" END="7639">NASA Ames Research Center
+LCROSS Flight Director</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LCROSS.sentences.sgm-E1-M5121" ROLE="Arg-2">
+            <extent>
+              <charseq START="7592" END="7616">NASA Ames Research Center</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="LCROSS.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="LCROSS.sentences.sgm-E9" ROLE="Target"/>
+      <event_mention ID="LCROSS.sentences.sgm-EV0-M300">
+          <extent>
+              <charseq START="647" END="652">struck</charseq>
+          </extent>
+          <anchor>
+              <charseq START="647" END="652">struck</charseq>
+          </anchor>
+        <event_mention_argument REFID="LCROSS.sentences.sgm-E9-M311" ROLE="Target">
+          <extent>
+              <charseq START="654" END="670">the crater Cabeus</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="LCROSS.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="LCROSS.sentences.sgm-EV1-M1000">
+          <extent>
+              <charseq START="1703" END="1709">burning</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1703" END="1709">burning</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="LCROSS.sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="LCROSS.sentences.sgm-EV2-M5100">
+          <extent>
+              <charseq START="7728" END="7731">Bomb</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7728" END="7731">Bomb</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

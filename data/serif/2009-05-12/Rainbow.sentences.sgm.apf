@@ -1,0 +1,4136 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Rainbow.sentences.sgm">
+  <document DOCID="Rainbow.sentences.sgm">
+
+    <entity ID="Rainbow.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E0-M8">
+          <extent>
+              <charseq START="136" END="142">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="142">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E0-M812">
+          <extent>
+              <charseq START="1063" END="1069">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="1067" END="1069">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E0-M3107">
+          <extent>
+              <charseq START="4376" END="4382">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="4380" END="4382">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E0-M3301">
+          <extent>
+              <charseq START="4728" END="4734">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="4732" END="4734">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E0-M3905">
+          <extent>
+              <charseq START="5874" END="5880">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="5878" END="5880">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sun">
+              <charseq START="140" END="142">Sun</charseq>
+          </name>
+          <name NAME="Sun">
+              <charseq START="1067" END="1069">Sun</charseq>
+          </name>
+          <name NAME="Sun">
+              <charseq START="4380" END="4382">Sun</charseq>
+          </name>
+          <name NAME="Sun">
+              <charseq START="4732" END="4734">Sun</charseq>
+          </name>
+          <name NAME="Sun">
+              <charseq START="5878" END="5880">Sun</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E1" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E1-M14">
+          <extent>
+              <charseq START="180" END="188">the Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="188">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E1-M11008">
+          <extent>
+              <charseq START="16532" END="16536">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="16532" END="16536">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E1-M11729">
+          <extent>
+              <charseq START="17541" END="17549">the earth</charseq>
+          </extent>
+          <head>
+              <charseq START="17545" END="17549">earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E1-M11804">
+          <extent>
+              <charseq START="17577" END="17585">the earth</charseq>
+          </extent>
+          <head>
+              <charseq START="17581" END="17585">earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Earth">
+              <charseq START="184" END="188">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="16532" END="16536">Earth</charseq>
+          </name>
+          <name NAME="earth">
+              <charseq START="17545" END="17549">earth</charseq>
+          </name>
+          <name NAME="earth">
+              <charseq START="17581" END="17585">earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M404">
+          <extent>
+              <charseq START="496" END="501">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="496" END="501">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M9123">
+          <extent>
+              <charseq START="13466" END="13471">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="13466" END="13471">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M9127">
+          <extent>
+              <charseq START="13501" END="13506">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="13501" END="13506">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M10200">
+          <extent>
+              <charseq START="15194" END="15205">Isaac Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="15194" END="15205">Isaac Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E2-M10300">
+          <extent>
+              <charseq START="15454" END="15455">He</charseq>
+          </extent>
+          <head>
+              <charseq START="15454" END="15455">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M10402">
+          <extent>
+              <charseq START="15605" END="15610">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="15605" END="15610">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M13428">
+          <extent>
+              <charseq START="20151" END="20156">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="20151" END="20156">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M14900">
+          <extent>
+              <charseq START="22080" END="22085">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="22080" END="22085">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E2-M15000">
+          <extent>
+              <charseq START="22190" END="22191">he</charseq>
+          </extent>
+          <head>
+              <charseq START="22190" END="22191">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E2-M15205">
+          <extent>
+              <charseq START="22504" END="22509">Newton</charseq>
+          </extent>
+          <head>
+              <charseq START="22504" END="22509">Newton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Newton">
+              <charseq START="496" END="501">Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="13466" END="13471">Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="13501" END="13506">Newton</charseq>
+          </name>
+          <name NAME="Isaac Newton">
+              <charseq START="15194" END="15205">Isaac Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="15605" END="15610">Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="20151" END="20156">Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="22080" END="22085">Newton</charseq>
+          </name>
+          <name NAME="Newton">
+              <charseq START="22504" END="22509">Newton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E3-M501">
+          <extent>
+              <charseq START="569" END="578">Roy G. Biv</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="578">Roy G. Biv</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E3-M14803">
+          <extent>
+              <charseq START="21982" END="21991">Roy G. Biv</charseq>
+          </extent>
+          <head>
+              <charseq START="21982" END="21991">Roy G. Biv</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roy G. Biv">
+              <charseq START="569" END="578">Roy G. Biv</charseq>
+          </name>
+          <name NAME="Roy G. Biv">
+              <charseq START="21982" END="21991">Roy G. Biv</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E4-M600">
+          <extent>
+              <charseq START="646" END="653">Rainbows</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="653">Rainbows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E4-M700">
+          <extent>
+              <charseq START="736" END="754">Visibility
+Rainbows</charseq>
+          </extent>
+          <head>
+              <charseq START="747" END="754">Rainbows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E4-M701">
+          <extent>
+              <charseq START="736" END="745">Visibility</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="745">Visibility</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E4-M12400">
+          <extent>
+              <charseq START="18490" END="18501">Art
+Rainbows</charseq>
+          </extent>
+          <head>
+              <charseq START="18494" END="18501">Rainbows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E4-M12401">
+          <extent>
+              <charseq START="18490" END="18492">Art</charseq>
+          </extent>
+          <head>
+              <charseq START="18490" END="18492">Art</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rainbows">
+              <charseq START="646" END="653">Rainbows</charseq>
+          </name>
+          <name NAME="Rainbows">
+              <charseq START="747" END="754">Rainbows</charseq>
+          </name>
+          <name NAME="Rainbows">
+              <charseq START="18494" END="18501">Rainbows</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E5-M708">
+          <extent>
+              <charseq START="847" END="854">a person</charseq>
+          </extent>
+          <head>
+              <charseq START="849" END="854">person</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M805">
+          <extent>
+              <charseq START="1002" END="1013">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="1006" END="1013">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M2608">
+          <extent>
+              <charseq START="3734" END="3745">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="3738" END="3745">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M2804">
+          <extent>
+              <charseq START="4054" END="4065">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4058" END="4065">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M2908">
+          <extent>
+              <charseq START="4218" END="4229">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4222" END="4229">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M3003">
+          <extent>
+              <charseq START="4285" END="4297">that observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4290" END="4297">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M3111">
+          <extent>
+              <charseq START="4400" END="4411">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4404" END="4411">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M3204">
+          <extent>
+              <charseq START="4514" END="4525">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4518" END="4525">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M3219">
+          <extent>
+              <charseq START="4676" END="4687">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4680" END="4687">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M3401">
+          <extent>
+              <charseq START="4954" END="4965">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="4958" END="4965">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M6005">
+          <extent>
+              <charseq START="8719" END="8730">the observer</charseq>
+          </extent>
+          <head>
+              <charseq START="8723" END="8730">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M7821">
+          <extent>
+              <charseq START="11319" END="11326">observer</charseq>
+          </extent>
+          <head>
+              <charseq START="11319" END="11326">observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E6-M9520">
+          <extent>
+              <charseq START="14273" END="14285">the observer&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="14277" END="14284">observer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E7" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E7-M1500">
+          <extent>
+              <charseq START="1744" END="1755">an aeroplane</charseq>
+          </extent>
+          <head>
+              <charseq START="1747" END="1755">aeroplane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E7-M1509">
+          <extent>
+              <charseq START="1827" END="1835">the plane</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1835">plane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E7-M3404">
+          <extent>
+              <charseq START="5008" END="5031">an aeroplane (see above)</charseq>
+          </extent>
+          <head>
+              <charseq START="5011" END="5019">aeroplane</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E8-M1804">
+          <extent>
+              <charseq START="2436" END="2473">the radius of a &apos;rainbow&apos; in sea spray</charseq>
+          </extent>
+          <head>
+              <charseq START="2440" END="2445">radius</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E8-M7000">
+          <extent>
+              <charseq START="9741" END="9769">The radius of a Titan rainbow</charseq>
+          </extent>
+          <head>
+              <charseq START="9745" END="9750">radius</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E9" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M1905">
+          <extent>
+              <charseq START="2561" END="2570">these bows</charseq>
+          </extent>
+          <head>
+              <charseq START="2567" END="2570">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M3704">
+          <extent>
+              <charseq START="5510" END="5539">the primary and secondary bows</charseq>
+          </extent>
+          <head>
+              <charseq START="5536" END="5539">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M6601">
+          <extent>
+              <charseq START="9305" END="9308">bows</charseq>
+          </extent>
+          <head>
+              <charseq START="9305" END="9308">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M15526">
+          <extent>
+              <charseq START="23131" END="23134">bows</charseq>
+          </extent>
+          <head>
+              <charseq START="23131" END="23134">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M15528">
+          <extent>
+              <charseq START="23149" END="23152">bows</charseq>
+          </extent>
+          <head>
+              <charseq START="23149" END="23152">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M15530">
+          <extent>
+              <charseq START="23166" END="23173">red bows</charseq>
+          </extent>
+          <head>
+              <charseq START="23170" END="23173">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E9-M15531">
+          <extent>
+              <charseq START="23176" END="23187">twinned bows</charseq>
+          </extent>
+          <head>
+              <charseq START="23184" END="23187">bows</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E11-M2308">
+          <extent>
+              <charseq START="3176" END="3186">an observer</charseq>
+          </extent>
+          <head>
+              <charseq START="3179" END="3186">observer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M2300">
+          <extent>
+              <charseq START="3079" END="3080">we</charseq>
+          </extent>
+          <head>
+              <charseq START="3079" END="3080">we</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M2303">
+          <extent>
+              <charseq START="3115" END="3116">we</charseq>
+          </extent>
+          <head>
+              <charseq START="3115" END="3116">we</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11714">
+          <extent>
+              <charseq START="17454" END="17454">I</charseq>
+          </extent>
+          <head>
+              <charseq START="17454" END="17454">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11718">
+          <extent>
+              <charseq START="17465" END="17466">my</charseq>
+          </extent>
+          <head>
+              <charseq START="17465" END="17466">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11727">
+          <extent>
+              <charseq START="17534" END="17535">me</charseq>
+          </extent>
+          <head>
+              <charseq START="17534" END="17535">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11800">
+          <extent>
+              <charseq START="17557" END="17557">I</charseq>
+          </extent>
+          <head>
+              <charseq START="17557" END="17557">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11808">
+          <extent>
+              <charseq START="17622" END="17622">I</charseq>
+          </extent>
+          <head>
+              <charseq START="17622" END="17622">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11813">
+          <extent>
+              <charseq START="17638" END="17639">my</charseq>
+          </extent>
+          <head>
+              <charseq START="17638" END="17639">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M11816">
+          <extent>
+              <charseq START="17666" END="17667">me</charseq>
+          </extent>
+          <head>
+              <charseq START="17666" END="17667">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M12113">
+          <extent>
+              <charseq START="18282" END="18283">my</charseq>
+          </extent>
+          <head>
+              <charseq START="18282" END="18283">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M12114">
+          <extent>
+              <charseq START="18291" END="18291">I</charseq>
+          </extent>
+          <head>
+              <charseq START="18291" END="18291">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M12308">
+          <extent>
+              <charseq START="18478" END="18479">my</charseq>
+          </extent>
+          <head>
+              <charseq START="18478" END="18479">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M12604">
+          <extent>
+              <charseq START="18650" END="18680">Albrecht Dürer&apos;s Melancholia I)</charseq>
+          </extent>
+          <head>
+              <charseq START="18679" END="18679">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13121">
+          <extent>
+              <charseq START="19324" END="19325">My</charseq>
+          </extent>
+          <head>
+              <charseq START="19324" END="19325">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13122">
+          <extent>
+              <charseq START="19347" END="19347">I</charseq>
+          </extent>
+          <head>
+              <charseq START="19347" END="19347">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13126">
+          <extent>
+              <charseq START="19377" END="19378">My</charseq>
+          </extent>
+          <head>
+              <charseq START="19377" END="19378">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13127">
+          <extent>
+              <charseq START="19400" END="19400">I</charseq>
+          </extent>
+          <head>
+              <charseq START="19400" END="19400">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13135">
+          <extent>
+              <charseq START="19446" END="19447">my</charseq>
+          </extent>
+          <head>
+              <charseq START="19446" END="19447">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13138">
+          <extent>
+              <charseq START="19474" END="19474">I</charseq>
+          </extent>
+          <head>
+              <charseq START="19474" END="19474">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13143">
+          <extent>
+              <charseq START="19500" END="19500">I</charseq>
+          </extent>
+          <head>
+              <charseq START="19500" END="19500">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13145">
+          <extent>
+              <charseq START="19525" END="19526">me</charseq>
+          </extent>
+          <head>
+              <charseq START="19525" END="19526">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13303">
+          <extent>
+              <charseq START="19753" END="19754">We</charseq>
+          </extent>
+          <head>
+              <charseq START="19753" END="19754">We</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E12-M13407">
+          <extent>
+              <charseq START="19943" END="19953">gnomed mine</charseq>
+          </extent>
+          <head>
+              <charseq START="19950" END="19953">mine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13424">
+          <extent>
+              <charseq START="20109" END="20110">My</charseq>
+          </extent>
+          <head>
+              <charseq START="20109" END="20110">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E12-M13502">
+          <extent>
+              <charseq START="20288" END="20289">my</charseq>
+          </extent>
+          <head>
+              <charseq START="20288" END="20289">my</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E13-M3706">
+          <extent>
+              <charseq START="5551" END="5559">Alexander</charseq>
+          </extent>
+          <head>
+              <charseq START="5551" END="5559">Alexander</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexander">
+              <charseq START="5551" END="5559">Alexander</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E14-M3707">
+          <extent>
+              <charseq START="5575" END="5621">Alexander of Aphrodisias who first described it</charseq>
+          </extent>
+          <head>
+              <charseq START="5575" END="5598">Alexander of Aphrodisias</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E14-M3709">
+          <extent>
+              <charseq START="5600" END="5602">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5600" END="5602">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexander of Aphrodisias">
+              <charseq START="5575" END="5598">Alexander of Aphrodisias</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E15-M3700">
+          <extent>
+              <charseq START="5469" END="5539">The dark area of unlit sky lying between the primary and secondary bows</charseq>
+          </extent>
+          <head>
+              <charseq START="5478" END="5481">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E16-M3705">
+          <extent>
+              <charseq START="5551" END="5566">Alexander&apos;s band</charseq>
+          </extent>
+          <head>
+              <charseq START="5563" END="5566">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E16-M4202">
+          <extent>
+              <charseq START="6244" END="6264">a band of white light</charseq>
+          </extent>
+          <head>
+              <charseq START="6246" END="6249">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E16-M4205">
+          <extent>
+              <charseq START="6271" END="6301">a blue inner and red outer band</charseq>
+          </extent>
+          <head>
+              <charseq START="6298" END="6301">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E16-M5404">
+          <extent>
+              <charseq START="7744" END="7756">a bright band</charseq>
+          </extent>
+          <head>
+              <charseq START="7753" END="7756">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E16-M5513">
+          <extent>
+              <charseq START="8049" END="8064">each bright band</charseq>
+          </extent>
+          <head>
+              <charseq START="8061" END="8064">band</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E17-M3803">
+          <extent>
+              <charseq START="5689" END="5703">a few observers</charseq>
+          </extent>
+          <head>
+              <charseq START="5695" END="5703">observers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E18" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E18-M4307">
+          <extent>
+              <charseq START="6406" END="6417">the two bows</charseq>
+          </extent>
+          <head>
+              <charseq START="6414" END="6417">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E18-M4308">
+          <extent>
+              <charseq START="6428" END="6439">the two bows</charseq>
+          </extent>
+          <head>
+              <charseq START="6436" END="6439">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E18-M4400">
+          <extent>
+              <charseq START="6504" END="6512">both bows</charseq>
+          </extent>
+          <head>
+              <charseq START="6509" END="6512">bows</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E18-M10013">
+          <extent>
+              <charseq START="15021" END="15029">both bows</charseq>
+          </extent>
+          <head>
+              <charseq START="15026" END="15029">bows</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E19-M4501">
+          <extent>
+              <charseq START="6609" END="6692">Felix Billet (1808-1882) who depicted angular positions up to the 19th-order rainbow</charseq>
+          </extent>
+          <head>
+              <charseq START="6609" END="6620">Felix Billet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E19-M4504">
+          <extent>
+              <charseq START="6634" END="6636">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6634" END="6636">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E19-M4602">
+          <extent>
+              <charseq START="6705" END="6706">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6705" END="6706">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Felix Billet">
+              <charseq START="6609" END="6620">Felix Billet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E20-M4604">
+          <extent>
+              <charseq START="6726" END="6739">the laboratory</charseq>
+          </extent>
+          <head>
+              <charseq START="6730" END="6739">laboratory</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E21" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E21-M4611">
+          <extent>
+              <charseq START="6854" END="6859">lasers</charseq>
+          </extent>
+          <head>
+              <charseq START="6854" END="6859">lasers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E22-M4701">
+          <extent>
+              <charseq START="6906" END="6914">K. Sassan</charseq>
+          </extent>
+          <head>
+              <charseq START="6906" END="6914">K. Sassan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="K. Sassan">
+              <charseq START="6906" END="6914">K. Sassan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E23-M4705" ROLE="GPE">
+          <extent>
+              <charseq START="6932" END="6935">HeNe</charseq>
+          </extent>
+          <head>
+              <charseq START="6932" END="6935">HeNe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HeNe">
+              <charseq START="6932" END="6935">HeNe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E24-M5101">
+          <extent>
+              <charseq START="7351" END="7403">pastel colour bands that do not fit the usual pattern</charseq>
+          </extent>
+          <head>
+              <charseq START="7365" END="7369">bands</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E24-M5105">
+          <extent>
+              <charseq START="7371" END="7374">that</charseq>
+          </extent>
+          <head>
+              <charseq START="7371" END="7374">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E24-M5203">
+          <extent>
+              <charseq START="7436" END="7440">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7436" END="7440">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E25-M5402">
+          <extent>
+              <charseq START="7689" END="7698">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="7694" END="7698">other</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E25-M5408">
+          <extent>
+              <charseq START="7822" END="7831">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="7827" END="7831">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E26-M5405">
+          <extent>
+              <charseq START="7759" END="7764">others</charseq>
+          </extent>
+          <head>
+              <charseq START="7759" END="7764">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E27-M5710">
+          <extent>
+              <charseq START="8359" END="8370">Thomas Young</charseq>
+          </extent>
+          <head>
+              <charseq START="8359" END="8370">Thomas Young</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E27-M10406">
+          <extent>
+              <charseq START="15739" END="15750">Thomas Young</charseq>
+          </extent>
+          <head>
+              <charseq START="15739" END="15750">Thomas Young</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E27-M10501">
+          <extent>
+              <charseq START="15847" END="15851">Young</charseq>
+          </extent>
+          <head>
+              <charseq START="15847" END="15851">Young</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thomas Young">
+              <charseq START="8359" END="8370">Thomas Young</charseq>
+          </name>
+          <name NAME="Thomas Young">
+              <charseq START="15739" END="15750">Thomas Young</charseq>
+          </name>
+          <name NAME="Young">
+              <charseq START="15847" END="15851">Young</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E28-M6906">
+          <extent>
+              <charseq START="9678" END="9696">Saturn&apos;s moon Titan</charseq>
+          </extent>
+          <head>
+              <charseq START="9692" END="9696">Titan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E28-M7003">
+          <extent>
+              <charseq START="9757" END="9761">Titan</charseq>
+          </extent>
+          <head>
+              <charseq START="9757" END="9761">Titan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E28-M7104">
+          <extent>
+              <charseq START="9939" END="9943">Titan</charseq>
+          </extent>
+          <head>
+              <charseq START="9939" END="9943">Titan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Titan">
+              <charseq START="9692" END="9696">Titan</charseq>
+          </name>
+          <name NAME="Titan">
+              <charseq START="9757" END="9761">Titan</charseq>
+          </name>
+          <name NAME="Titan">
+              <charseq START="9939" END="9943">Titan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E29" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E29-M6907">
+          <extent>
+              <charseq START="9678" END="9683">Saturn</charseq>
+          </extent>
+          <head>
+              <charseq START="9678" END="9683">Saturn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saturn">
+              <charseq START="9678" END="9683">Saturn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E30-M6902">
+          <extent>
+              <charseq START="9621" END="9625">Titan</charseq>
+          </extent>
+          <head>
+              <charseq START="9621" END="9625">Titan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E31-M7100">
+          <extent>
+              <charseq START="9878" END="9886">A visitor</charseq>
+          </extent>
+          <head>
+              <charseq START="9880" END="9886">visitor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E32-M7205" ROLE="GPE">
+          <extent>
+              <charseq START="10024" END="10027">Arab</charseq>
+          </extent>
+          <head>
+              <charseq START="10024" END="10027">Arab</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arab">
+              <charseq START="10024" END="10027">Arab</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E33-M7208">
+          <extent>
+              <charseq START="10053" END="10075">Ibn al-Haytham (Alhazen</charseq>
+          </extent>
+          <head>
+              <charseq START="10053" END="10066">Ibn al-Haytham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E33-M7204">
+          <extent>
+              <charseq START="10020" END="10037">The Arab physicist</charseq>
+          </extent>
+          <head>
+              <charseq START="10029" END="10037">physicist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E33-M7802">
+          <extent>
+              <charseq START="11057" END="11070">Ibn al-Haytham</charseq>
+          </extent>
+          <head>
+              <charseq START="11057" END="11070">Ibn al-Haytham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E33-M7803">
+          <extent>
+              <charseq START="11088" END="11110">the Persian philosopher</charseq>
+          </extent>
+          <head>
+              <charseq START="11100" END="11110">philosopher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E33-M7901">
+          <extent>
+              <charseq START="11340" END="11341">he</charseq>
+          </extent>
+          <head>
+              <charseq START="11340" END="11341">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E33-M9117">
+          <extent>
+              <charseq START="13392" END="13405">Ibn al-Haytham</charseq>
+          </extent>
+          <head>
+              <charseq START="13392" END="13405">Ibn al-Haytham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E33-M9203">
+          <extent>
+              <charseq START="13614" END="13627">Ibn al-Haytham</charseq>
+          </extent>
+          <head>
+              <charseq START="13614" END="13627">Ibn al-Haytham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E33-M9302">
+          <extent>
+              <charseq START="13707" END="13709">His</charseq>
+          </extent>
+          <head>
+              <charseq START="13707" END="13709">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ibn al-Haytham">
+              <charseq START="10053" END="10066">Ibn al-Haytham</charseq>
+          </name>
+          <name NAME="Ibn al-Haytham">
+              <charseq START="11057" END="11070">Ibn al-Haytham</charseq>
+          </name>
+          <name NAME="Ibn al-Haytham">
+              <charseq START="13392" END="13405">Ibn al-Haytham</charseq>
+          </name>
+          <name NAME="Ibn al-Haytham">
+              <charseq START="13614" END="13627">Ibn al-Haytham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E34-M7210">
+          <extent>
+              <charseq START="10069" END="10075">Alhazen</charseq>
+          </extent>
+          <head>
+              <charseq START="10069" END="10075">Alhazen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alhazen">
+              <charseq START="10069" END="10075">Alhazen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E35-M7300">
+          <extent>
+              <charseq START="10166" END="10226">his Maqala fi al-Hala wa Qaws Quzah (On the Rainbow and Halo)</charseq>
+          </extent>
+          <head>
+              <charseq START="10180" END="10200">al-Hala wa Qaws Quzah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M7302">
+          <extent>
+              <charseq START="10166" END="10168">his</charseq>
+          </extent>
+          <head>
+              <charseq START="10166" END="10168">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M7308">
+          <extent>
+              <charseq START="10229" END="10230">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10229" END="10230">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E35-M8502">
+          <extent>
+              <charseq START="12260" END="12270">his student</charseq>
+          </extent>
+          <head>
+              <charseq START="12264" END="12270">student</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M8600">
+          <extent>
+              <charseq START="12381" END="12382">He</charseq>
+          </extent>
+          <head>
+              <charseq START="12381" END="12382">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M8700">
+          <extent>
+              <charseq START="12542" END="12543">He</charseq>
+          </extent>
+          <head>
+              <charseq START="12542" END="12543">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M8800">
+          <extent>
+              <charseq START="12663" END="12664">he</charseq>
+          </extent>
+          <head>
+              <charseq START="12663" END="12664">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M8804">
+          <extent>
+              <charseq START="12675" END="12677">his</charseq>
+          </extent>
+          <head>
+              <charseq START="12675" END="12677">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M8900">
+          <extent>
+              <charseq START="12900" END="12901">He</charseq>
+          </extent>
+          <head>
+              <charseq START="12900" END="12901">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M9000">
+          <extent>
+              <charseq START="13012" END="13013">He</charseq>
+          </extent>
+          <head>
+              <charseq START="13012" END="13013">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M9101">
+          <extent>
+              <charseq START="13237" END="13239">His</charseq>
+          </extent>
+          <head>
+              <charseq START="13237" END="13239">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E35-M9108">
+          <extent>
+              <charseq START="13285" END="13287">his</charseq>
+          </extent>
+          <head>
+              <charseq START="13285" END="13287">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="al-Hala wa Qaws Quzah">
+              <charseq START="10180" END="10200">al-Hala wa Qaws Quzah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E36-M7303">
+          <extent>
+              <charseq START="10170" END="10175">Maqala</charseq>
+          </extent>
+          <head>
+              <charseq START="10170" END="10175">Maqala</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maqala">
+              <charseq START="10170" END="10175">Maqala</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E37-M7307">
+          <extent>
+              <charseq START="10222" END="10225">Halo</charseq>
+          </extent>
+          <head>
+              <charseq START="10222" END="10225">Halo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Halo">
+              <charseq START="10222" END="10225">Halo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E38-M7412">
+          <extent>
+              <charseq START="10432" END="10449">concentric circles</charseq>
+          </extent>
+          <head>
+              <charseq START="10443" END="10449">circles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E39-M7509">
+          <extent>
+              <charseq START="10537" END="10575">viewer as a point on the axis of mirror</charseq>
+          </extent>
+          <head>
+              <charseq START="10537" END="10542">viewer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E39-M7600">
+          <extent>
+              <charseq START="10687" END="10688">He</charseq>
+          </extent>
+          <head>
+              <charseq START="10687" END="10688">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E39-M7604">
+          <extent>
+              <charseq START="10726" END="10728">his</charseq>
+          </extent>
+          <head>
+              <charseq START="10726" END="10728">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E39-M11507">
+          <extent>
+              <charseq START="17192" END="17201">the viewer</charseq>
+          </extent>
+          <head>
+              <charseq START="17196" END="17201">viewer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E40-M7701">
+          <extent>
+              <charseq START="10906" END="10913">Averroes</charseq>
+          </extent>
+          <head>
+              <charseq START="10906" END="10913">Averroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Averroes">
+              <charseq START="10906" END="10913">Averroes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E41-M7707">
+          <extent>
+              <charseq START="11007" END="11028">Kamāl al-Dīn al-Fārisī</charseq>
+          </extent>
+          <head>
+              <charseq START="11007" END="11028">Kamāl al-Dīn al-Fārisī</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E41-M8504">
+          <extent>
+              <charseq START="12273" END="12378">Kamāl al-Dīn al-Fārisī (1260–1320), who gave a more mathematically satisfactory explanation of the rainbow</charseq>
+          </extent>
+          <head>
+              <charseq START="12273" END="12294">Kamāl al-Dīn al-Fārisī</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E41-M8507">
+          <extent>
+              <charseq START="12309" END="12311">who</charseq>
+          </extent>
+          <head>
+              <charseq START="12309" END="12311">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kamāl al-Dīn al-Fārisī">
+              <charseq START="11007" END="11028">Kamāl al-Dīn al-Fārisī</charseq>
+          </name>
+          <name NAME="Kamāl al-Dīn al-Fārisī">
+              <charseq START="12273" END="12294">Kamāl al-Dīn al-Fārisī</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E42-M7708">
+          <extent>
+              <charseq START="11034" END="11054">Theodoric of Freiberg</charseq>
+          </extent>
+          <head>
+              <charseq START="11034" END="11054">Theodoric of Freiberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E42-M9106">
+          <extent>
+              <charseq START="13285" END="13357">his contemporary Theodoric of Freiberg (without any contacts between them</charseq>
+          </extent>
+          <head>
+              <charseq START="13302" END="13322">Theodoric of Freiberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Theodoric of Freiberg">
+              <charseq START="11034" END="11054">Theodoric of Freiberg</charseq>
+          </name>
+          <name NAME="Theodoric of Freiberg">
+              <charseq START="13302" END="13322">Theodoric of Freiberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E43-M7804" ROLE="GPE">
+          <extent>
+              <charseq START="11092" END="11098">Persian</charseq>
+          </extent>
+          <head>
+              <charseq START="11092" END="11098">Persian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E43-M8401" ROLE="GPE">
+          <extent>
+              <charseq START="12115" END="12121">Persian</charseq>
+          </extent>
+          <head>
+              <charseq START="12115" END="12121">Persian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Persian">
+              <charseq START="11092" END="11098">Persian</charseq>
+          </name>
+          <name NAME="Persian">
+              <charseq START="12115" END="12121">Persian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E44-M7805">
+          <extent>
+              <charseq START="11116" END="11142">polymath Ibn Sīnā (Avicenna</charseq>
+          </extent>
+          <head>
+              <charseq START="11125" END="11132">Ibn Sīnā</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E44-M7807">
+          <extent>
+              <charseq START="11116" END="11123">polymath</charseq>
+          </extent>
+          <head>
+              <charseq START="11116" END="11123">polymath</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E44-M8000">
+          <extent>
+              <charseq START="11495" END="11502">Ibn Sīnā</charseq>
+          </extent>
+          <head>
+              <charseq START="11495" END="11502">Ibn Sīnā</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ibn Sīnā">
+              <charseq START="11125" END="11132">Ibn Sīnā</charseq>
+          </name>
+          <name NAME="Ibn Sīnā">
+              <charseq START="11495" END="11502">Ibn Sīnā</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E45-M7809">
+          <extent>
+              <charseq START="11135" END="11142">Avicenna</charseq>
+          </extent>
+          <head>
+              <charseq START="11135" END="11142">Avicenna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Avicenna">
+              <charseq START="11135" END="11142">Avicenna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E46" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E46-M8200">
+          <extent>
+              <charseq START="11705" END="11733">Song Dynasty China (960–1279)</charseq>
+          </extent>
+          <head>
+              <charseq START="11710" END="11722">Dynasty China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E46-M8202">
+          <extent>
+              <charseq START="11705" END="11708">Song</charseq>
+          </extent>
+          <head>
+              <charseq START="11705" END="11708">Song</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dynasty China">
+              <charseq START="11710" END="11722">Dynasty China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E47-M8207">
+          <extent>
+              <charseq START="11772" END="11791">Shen Kuo (1031–1095)</charseq>
+          </extent>
+          <head>
+              <charseq START="11772" END="11779">Shen Kuo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E47-M8303">
+          <extent>
+              <charseq START="11975" END="11978">Shen</charseq>
+          </extent>
+          <head>
+              <charseq START="11975" END="11978">Shen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shen Kuo">
+              <charseq START="11772" END="11779">Shen Kuo</charseq>
+          </name>
+          <name NAME="Shen">
+              <charseq START="11975" END="11978">Shen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E48-M8210">
+          <extent>
+              <charseq START="11809" END="11840">a certain Sun Sikong (1015–1076)</charseq>
+          </extent>
+          <head>
+              <charseq START="11819" END="11828">Sun Sikong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sun Sikong">
+              <charseq START="11819" END="11828">Sun Sikong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E49-M8300">
+          <extent>
+              <charseq START="11953" END="11961">Paul Dong</charseq>
+          </extent>
+          <head>
+              <charseq START="11953" END="11961">Paul Dong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paul Dong">
+              <charseq START="11953" END="11961">Paul Dong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E50-M8402">
+          <extent>
+              <charseq START="12135" END="12169">Qutb al-Din al-Shirazi (1236–1311),</charseq>
+          </extent>
+          <head>
+              <charseq START="12135" END="12156">Qutb al-Din al-Shirazi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E50-M8400">
+          <extent>
+              <charseq START="12111" END="12132">The Persian astronomer</charseq>
+          </extent>
+          <head>
+              <charseq START="12123" END="12132">astronomer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E50-M8503">
+          <extent>
+              <charseq START="12260" END="12262">his</charseq>
+          </extent>
+          <head>
+              <charseq START="12260" END="12262">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Qutb al-Din al-Shirazi">
+              <charseq START="12135" END="12156">Qutb al-Din al-Shirazi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E51-M8802">
+          <extent>
+              <charseq START="12675" END="12730">his Kitab Tanqih al-Manazir (The Revision of the Optics)</charseq>
+          </extent>
+          <head>
+              <charseq START="12679" END="12701">Kitab Tanqih al-Manazir</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kitab Tanqih al-Manazir">
+              <charseq START="12679" END="12701">Kitab Tanqih al-Manazir</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E52-M8809">
+          <extent>
+              <charseq START="12733" END="12741">al-Farisi</charseq>
+          </extent>
+          <head>
+              <charseq START="12733" END="12741">al-Farisi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="al-Farisi">
+              <charseq START="12733" END="12741">al-Farisi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E53" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E53-M8810">
+          <extent>
+              <charseq START="12748" END="12776">a large clear vessel of glass</charseq>
+          </extent>
+          <head>
+              <charseq START="12762" END="12767">vessel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E54-M9122">
+          <extent>
+              <charseq START="13452" END="13460">Descartes</charseq>
+          </extent>
+          <head>
+              <charseq START="13452" END="13460">Descartes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Descartes">
+              <charseq START="13452" END="13460">Descartes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E55-M9129">
+          <extent>
+              <charseq START="13542" END="13557">Trinity College,</charseq>
+          </extent>
+          <head>
+              <charseq START="13542" END="13556">Trinity College</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trinity College">
+              <charseq START="13542" END="13556">Trinity College</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E56" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E56-M9200">
+          <extent>
+              <charseq START="13606" END="13611">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="13606" END="13611">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Europe">
+              <charseq START="13606" END="13611">Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E57" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E57-M9205" ROLE="LOC">
+          <extent>
+              <charseq START="13666" END="13670">Latin</charseq>
+          </extent>
+          <head>
+              <charseq START="13666" END="13670">Latin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Latin">
+              <charseq START="13666" END="13670">Latin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E58-M9206">
+          <extent>
+              <charseq START="13687" END="13704">Robert Grosseteste</charseq>
+          </extent>
+          <head>
+              <charseq START="13687" END="13704">Robert Grosseteste</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Grosseteste">
+              <charseq START="13687" END="13704">Robert Grosseteste</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E59-M9304">
+          <extent>
+              <charseq START="13742" END="13897">Roger Bacon, who wrote in his Opus Majus of 1268 about experiments with light shining through crystals and water droplets showing the colours of the rainbow</charseq>
+          </extent>
+          <head>
+              <charseq START="13742" END="13752">Roger Bacon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E59-M9306">
+          <extent>
+              <charseq START="13755" END="13757">who</charseq>
+          </extent>
+          <head>
+              <charseq START="13755" END="13757">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E59-M9309">
+          <extent>
+              <charseq START="13768" END="13770">his</charseq>
+          </extent>
+          <head>
+              <charseq START="13768" END="13770">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Bacon">
+              <charseq START="13742" END="13752">Roger Bacon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E60-M9307">
+          <extent>
+              <charseq START="13768" END="13789">his Opus Majus of 1268</charseq>
+          </extent>
+          <head>
+              <charseq START="13772" END="13781">Opus Majus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Opus Majus">
+              <charseq START="13772" END="13781">Opus Majus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E61-M9400">
+          <extent>
+              <charseq START="13900" END="13920">Theodoric of Freiberg</charseq>
+          </extent>
+          <head>
+              <charseq START="13900" END="13908">Theodoric</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M9500">
+          <extent>
+              <charseq START="14033" END="14034">He</charseq>
+          </extent>
+          <head>
+              <charseq START="14033" END="14034">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M9600">
+          <extent>
+              <charseq START="14288" END="14289">He</charseq>
+          </extent>
+          <head>
+              <charseq START="14288" END="14289">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M9804">
+          <extent>
+              <charseq START="14560" END="14561">he</charseq>
+          </extent>
+          <head>
+              <charseq START="14560" END="14561">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M9902">
+          <extent>
+              <charseq START="14698" END="14699">he</charseq>
+          </extent>
+          <head>
+              <charseq START="14698" END="14699">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M10000">
+          <extent>
+              <charseq START="14865" END="14866">He</charseq>
+          </extent>
+          <head>
+              <charseq START="14865" END="14866">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E61-M10102">
+          <extent>
+              <charseq START="15032" END="15034">His</charseq>
+          </extent>
+          <head>
+              <charseq START="15032" END="15034">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Theodoric">
+              <charseq START="13900" END="13908">Theodoric</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E62" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E62-M9402">
+          <extent>
+              <charseq START="13913" END="13920">Freiberg</charseq>
+          </extent>
+          <head>
+              <charseq START="13913" END="13920">Freiberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Freiberg">
+              <charseq START="13913" END="13920">Freiberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E63-M10009">
+          <extent>
+              <charseq START="14974" END="14979">Snell)</charseq>
+          </extent>
+          <head>
+              <charseq START="14974" END="14978">Snell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Snell">
+              <charseq START="14974" END="14978">Snell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E64-M10503">
+          <extent>
+              <charseq START="15888" END="16016">George Biddell Airy, who explained the dependence of the strength of the colours of the rainbow on the size of the water droplets</charseq>
+          </extent>
+          <head>
+              <charseq START="15888" END="15906">George Biddell Airy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E64-M10505">
+          <extent>
+              <charseq START="15909" END="15911">who</charseq>
+          </extent>
+          <head>
+              <charseq START="15909" END="15911">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Biddell Airy">
+              <charseq START="15888" END="15906">George Biddell Airy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E65" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E65-M10605" ROLE="GPE">
+          <extent>
+              <charseq START="16076" END="16078">Mie</charseq>
+          </extent>
+          <head>
+              <charseq START="16076" END="16078">Mie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mie">
+              <charseq START="16076" END="16078">Mie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E66-M10608">
+          <extent>
+              <charseq START="16110" END="16119">Gustav Mie</charseq>
+          </extent>
+          <head>
+              <charseq START="16110" END="16119">Gustav Mie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gustav Mie">
+              <charseq START="16110" END="16119">Gustav Mie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E67-M10801">
+          <extent>
+              <charseq START="16252" END="16262">Nussenzveig</charseq>
+          </extent>
+          <head>
+              <charseq START="16252" END="16262">Nussenzveig</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nussenzveig">
+              <charseq START="16252" END="16262">Nussenzveig</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E68" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E68-M11001" ROLE="GPE">
+          <extent>
+              <charseq START="16440" END="16444">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="16440" END="16444">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greek">
+              <charseq START="16440" END="16444">Greek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E69-M11005">
+          <extent>
+              <charseq START="16505" END="16515">a messenger</charseq>
+          </extent>
+          <head>
+              <charseq START="16507" END="16515">messenger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E70" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E70-M11101" ROLE="GPE">
+          <extent>
+              <charseq START="16553" END="16559">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="16553" END="16559">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chinese">
+              <charseq START="16553" END="16559">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E71-M11107">
+          <extent>
+              <charseq START="16616" END="16627">Goddess Nüwa</charseq>
+          </extent>
+          <head>
+              <charseq START="16616" END="16627">Goddess Nüwa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Goddess Nüwa">
+              <charseq START="16616" END="16627">Goddess Nüwa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E72" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E72-M11108">
+          <extent>
+              <charseq START="16635" END="16666">stones of five different colours</charseq>
+          </extent>
+          <head>
+              <charseq START="16635" END="16640">stones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E73" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E73-M11201" ROLE="GPE">
+          <extent>
+              <charseq START="16672" END="16676">Hindu</charseq>
+          </extent>
+          <head>
+              <charseq START="16672" END="16676">Hindu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hindu">
+              <charseq START="16672" END="16676">Hindu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E74-M11212">
+          <extent>
+              <charseq START="16781" END="16785">Indra</charseq>
+          </extent>
+          <head>
+              <charseq START="16781" END="16785">Indra</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E74-M11213">
+          <extent>
+              <charseq START="16788" END="16825">the God of lightning, thunder and rain</charseq>
+          </extent>
+          <head>
+              <charseq START="16792" END="16794">God</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indra">
+              <charseq START="16781" END="16785">Indra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E75" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E75-M11300">
+          <extent>
+              <charseq START="16831" END="16845">Norse Mythology</charseq>
+          </extent>
+          <head>
+              <charseq START="16831" END="16845">Norse Mythology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E75-M11500">
+          <extent>
+              <charseq START="17083" END="17092">This place</charseq>
+          </extent>
+          <head>
+              <charseq START="17088" END="17092">place</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norse Mythology">
+              <charseq START="16831" END="16845">Norse Mythology</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E76" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E76-M11303">
+          <extent>
+              <charseq START="16865" END="16882">the Bifröst Bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="16869" END="16882">Bifröst Bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bifröst Bridge">
+              <charseq START="16869" END="16882">Bifröst Bridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E77-M11309">
+          <extent>
+              <charseq START="16907" END="16912">Ásgard</charseq>
+          </extent>
+          <head>
+              <charseq START="16907" END="16912">Ásgard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E77-M11407">
+          <extent>
+              <charseq START="17018" END="17020">his</charseq>
+          </extent>
+          <head>
+              <charseq START="17018" END="17020">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ásgard">
+              <charseq START="16907" END="16912">Ásgard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E78-M11310">
+          <extent>
+              <charseq START="16918" END="16924">Midgard</charseq>
+          </extent>
+          <head>
+              <charseq START="16918" END="16924">Midgard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Midgard">
+              <charseq START="16918" END="16924">Midgard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E79" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E79-M11311">
+          <extent>
+              <charseq START="16927" END="16954">homes of the gods and humans</charseq>
+          </extent>
+          <head>
+              <charseq START="16927" END="16931">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E80-M11314">
+          <extent>
+              <charseq START="16936" END="16943">the gods</charseq>
+          </extent>
+          <head>
+              <charseq START="16940" END="16943">gods</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E80-M12202">
+          <extent>
+              <charseq START="18353" END="18373">the gods except Enlil</charseq>
+          </extent>
+          <head>
+              <charseq START="18357" END="18360">gods</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E81-M11315">
+          <extent>
+              <charseq START="16949" END="16954">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="16949" END="16954">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E81-M15107">
+          <extent>
+              <charseq START="22397" END="22402">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="22397" END="22402">humans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E82" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E82-M11403" ROLE="GPE">
+          <extent>
+              <charseq START="16975" END="16979">Irish</charseq>
+          </extent>
+          <head>
+              <charseq START="16975" END="16979">Irish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Irish">
+              <charseq START="16975" END="16979">Irish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E83-M11701">
+          <extent>
+              <charseq START="17280" END="17283">Noah</charseq>
+          </extent>
+          <head>
+              <charseq START="17280" END="17283">Noah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E83-M12707">
+          <extent>
+              <charseq START="18779" END="18782">Noah</charseq>
+          </extent>
+          <head>
+              <charseq START="18779" END="18782">Noah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Noah">
+              <charseq START="17280" END="17283">Noah</charseq>
+          </name>
+          <name NAME="Noah">
+              <charseq START="18779" END="18782">Noah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E84" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E84-M11923">
+          <extent>
+              <charseq START="18044" END="18055">her children</charseq>
+          </extent>
+          <head>
+              <charseq START="18048" END="18055">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E85-M12005">
+          <extent>
+              <charseq START="18102" END="18107">Ishtar</charseq>
+          </extent>
+          <head>
+              <charseq START="18102" END="18107">Ishtar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M12100">
+          <extent>
+              <charseq START="18118" END="18120">She</charseq>
+          </extent>
+          <head>
+              <charseq START="18118" END="18120">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M12107">
+          <extent>
+              <charseq START="18166" END="18168">her</charseq>
+          </extent>
+          <head>
+              <charseq START="18166" END="18168">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M12109">
+          <extent>
+              <charseq START="18205" END="18207">her</charseq>
+          </extent>
+          <head>
+              <charseq START="18205" END="18207">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M13307">
+          <extent>
+              <charseq START="19761" END="19763">her</charseq>
+          </extent>
+          <head>
+              <charseq START="19761" END="19763">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M13309">
+          <extent>
+              <charseq START="19771" END="19773">her</charseq>
+          </extent>
+          <head>
+              <charseq START="19771" END="19773">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E85-M13310">
+          <extent>
+              <charseq START="19784" END="19786">she</charseq>
+          </extent>
+          <head>
+              <charseq START="19784" END="19786">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ishtar">
+              <charseq START="18102" END="18107">Ishtar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E86-M12108">
+          <extent>
+              <charseq START="18178" END="18180">Anu</charseq>
+          </extent>
+          <head>
+              <charseq START="18178" END="18180">Anu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E86-M12106">
+          <extent>
+              <charseq START="18166" END="18175">her father</charseq>
+          </extent>
+          <head>
+              <charseq START="18170" END="18175">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anu">
+              <charseq START="18178" END="18180">Anu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E87-M12204">
+          <extent>
+              <charseq START="18369" END="18373">Enlil</charseq>
+          </extent>
+          <head>
+              <charseq START="18369" END="18373">Enlil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E87-M12300">
+          <extent>
+              <charseq START="18397" END="18401">Enlil</charseq>
+          </extent>
+          <head>
+              <charseq START="18397" END="18401">Enlil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E87-M12302">
+          <extent>
+              <charseq START="18436" END="18437">he</charseq>
+          </extent>
+          <head>
+              <charseq START="18436" END="18437">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Enlil">
+              <charseq START="18369" END="18373">Enlil</charseq>
+          </name>
+          <name NAME="Enlil">
+              <charseq START="18397" END="18401">Enlil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E89" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E89-M12307">
+          <extent>
+              <charseq START="18478" END="18487">my people&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="18481" END="18486">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E90-M12605">
+          <extent>
+              <charseq START="18650" END="18663">Albrecht Dürer</charseq>
+          </extent>
+          <head>
+              <charseq START="18650" END="18663">Albrecht Dürer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Albrecht Dürer">
+              <charseq START="18650" END="18663">Albrecht Dürer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E91" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E91-M12706">
+          <extent>
+              <charseq START="18759" END="18775">Joseph Anton Koch</charseq>
+          </extent>
+          <head>
+              <charseq START="18759" END="18775">Joseph Anton Koch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joseph Anton Koch">
+              <charseq START="18759" END="18775">Joseph Anton Koch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E92" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E92-M12802">
+          <extent>
+              <charseq START="18803" END="18810">Romantic</charseq>
+          </extent>
+          <head>
+              <charseq START="18803" END="18810">Romantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Romantic">
+              <charseq START="18803" END="18810">Romantic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E93" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E93-M12805">
+          <extent>
+              <charseq START="18839" END="18844">Turner</charseq>
+          </extent>
+          <head>
+              <charseq START="18839" END="18844">Turner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turner">
+              <charseq START="18839" END="18844">Turner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E94" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E94-M12807">
+          <extent>
+              <charseq START="18885" END="18983">recording fleeting effects of light (for example, Constable&apos;s Salisbury Cathedral from the Meadows)</charseq>
+          </extent>
+          <head>
+              <charseq START="18947" END="18965">Salisbury Cathedral</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salisbury Cathedral">
+              <charseq START="18947" END="18965">Salisbury Cathedral</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E95" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E95-M12814">
+          <extent>
+              <charseq START="18935" END="18943">Constable</charseq>
+          </extent>
+          <head>
+              <charseq START="18935" END="18943">Constable</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E95-M12806">
+          <extent>
+              <charseq START="18850" END="18858">Constable</charseq>
+          </extent>
+          <head>
+              <charseq START="18850" END="18858">Constable</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Constable">
+              <charseq START="18935" END="18943">Constable</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E96" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E96-M12800">
+          <extent>
+              <charseq START="18803" END="18858">Romantic landscape painters such as Turner and Constable</charseq>
+          </extent>
+          <head>
+              <charseq START="18822" END="18829">painters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E97" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E97-M12816">
+          <extent>
+              <charseq START="18972" END="18982">the Meadows</charseq>
+          </extent>
+          <head>
+              <charseq START="18976" END="18982">Meadows</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E98" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E98-M12903">
+          <extent>
+              <charseq START="19027" END="19038">Hans Memling</charseq>
+          </extent>
+          <head>
+              <charseq START="19027" END="19038">Hans Memling</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hans Memling">
+              <charseq START="19027" END="19038">Hans Memling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E99" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E99-M12904">
+          <extent>
+              <charseq START="19041" END="19062">Caspar David Friedrich</charseq>
+          </extent>
+          <head>
+              <charseq START="19041" END="19062">Caspar David Friedrich</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Caspar David Friedrich">
+              <charseq START="19041" END="19062">Caspar David Friedrich</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E100" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E100-M12905">
+          <extent>
+              <charseq START="19069" END="19085">Peter Paul Rubens</charseq>
+          </extent>
+          <head>
+              <charseq START="19069" END="19085">Peter Paul Rubens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peter Paul Rubens">
+              <charseq START="19069" END="19085">Peter Paul Rubens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E101" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E101-M13100">
+          <extent>
+              <charseq START="19141" END="19154">Virginia Woolf</charseq>
+          </extent>
+          <head>
+              <charseq START="19141" END="19154">Virginia Woolf</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Virginia Woolf">
+              <charseq START="19141" END="19154">Virginia Woolf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E102" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E102-M13109">
+          <extent>
+              <charseq START="19215" END="19217">Man</charseq>
+          </extent>
+          <head>
+              <charseq START="19215" END="19217">Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E102-M13140">
+          <extent>
+              <charseq START="19479" END="19483">a man</charseq>
+          </extent>
+          <head>
+              <charseq START="19481" END="19483">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Man">
+              <charseq START="19215" END="19217">Man</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E103" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E103-M13111">
+          <extent>
+              <charseq START="19239" END="19248">Mrs Ramsey</charseq>
+          </extent>
+          <head>
+              <charseq START="19243" END="19248">Ramsey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E103-M13112">
+          <extent>
+              <charseq START="19239" END="19241">Mrs</charseq>
+          </extent>
+          <head>
+              <charseq START="19239" END="19241">Mrs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ramsey">
+              <charseq START="19243" END="19248">Ramsey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E104" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E104-M13118">
+          <extent>
+              <charseq START="19300" END="19309">Wordsworth</charseq>
+          </extent>
+          <head>
+              <charseq START="19300" END="19309">Wordsworth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wordsworth">
+              <charseq START="19300" END="19309">Wordsworth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E105" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E105-M13204">
+          <extent>
+              <charseq START="19603" END="19612">John Keats</charseq>
+          </extent>
+          <head>
+              <charseq START="19603" END="19612">John Keats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E105-M13207">
+          <extent>
+              <charseq START="19627" END="19629">his</charseq>
+          </extent>
+          <head>
+              <charseq START="19627" END="19629">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E105-M13425">
+          <extent>
+              <charseq START="20126" END="20240">Keats, who believed that Newton had destroyed all the poetry of the rainbow by reducing it to the prismatic colours</charseq>
+          </extent>
+          <head>
+              <charseq START="20126" END="20130">Keats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E105-M13427">
+          <extent>
+              <charseq START="20133" END="20135">who</charseq>
+          </extent>
+          <head>
+              <charseq START="20133" END="20135">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E105-M13500">
+          <extent>
+              <charseq START="20243" END="20247">Keats</charseq>
+          </extent>
+          <head>
+              <charseq START="20243" END="20247">Keats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E105-M13505">
+          <extent>
+              <charseq START="20311" END="20313">who</charseq>
+          </extent>
+          <head>
+              <charseq START="20311" END="20313">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Keats">
+              <charseq START="19603" END="19612">John Keats</charseq>
+          </name>
+          <name NAME="Keats">
+              <charseq START="20126" END="20130">Keats</charseq>
+          </name>
+          <name NAME="Keats">
+              <charseq START="20243" END="20247">Keats</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E106" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E106-M13412">
+          <extent>
+              <charseq START="19998" END="20012">Richard Dawkins</charseq>
+          </extent>
+          <head>
+              <charseq START="19998" END="20012">Richard Dawkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E106-M13415">
+          <extent>
+              <charseq START="20029" END="20031">his</charseq>
+          </extent>
+          <head>
+              <charseq START="20029" END="20031">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Dawkins">
+              <charseq START="19998" END="20012">Richard Dawkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E107" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E107-M13704" ROLE="GPE">
+          <extent>
+              <charseq START="20493" END="20498">German</charseq>
+          </extent>
+          <head>
+              <charseq START="20493" END="20498">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="German">
+              <charseq START="20493" END="20498">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E108" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E108-M13703">
+          <extent>
+              <charseq START="20489" END="20507">the German Peasants</charseq>
+          </extent>
+          <head>
+              <charseq START="20500" END="20507">Peasants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E109" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E109-M13810" ROLE="LOC">
+          <extent>
+              <charseq START="20699" END="20703">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="20699" END="20703">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="20699" END="20703">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E110" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E110-M13812">
+          <extent>
+              <charseq START="20723" END="20735">Tawantin Suyu</charseq>
+          </extent>
+          <head>
+              <charseq START="20723" END="20735">Tawantin Suyu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tawantin Suyu">
+              <charseq START="20723" END="20735">Tawantin Suyu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E111" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E111-M13814" ROLE="GPE">
+          <extent>
+              <charseq START="20741" END="20744">Inca</charseq>
+          </extent>
+          <head>
+              <charseq START="20741" END="20744">Inca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E111-M13813" ROLE="LOC">
+          <extent>
+              <charseq START="20741" END="20754">Inca territory</charseq>
+          </extent>
+          <head>
+              <charseq START="20746" END="20754">territory</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Inca">
+              <charseq START="20741" END="20744">Inca</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E112" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E112-M13816" ROLE="LOC">
+          <extent>
+              <charseq START="20760" END="20763">Peru</charseq>
+          </extent>
+          <head>
+              <charseq START="20760" END="20763">Peru</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peru">
+              <charseq START="20760" END="20763">Peru</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E113" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E113-M13817" ROLE="LOC">
+          <extent>
+              <charseq START="20769" END="20775">Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="20769" END="20775">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ecuador">
+              <charseq START="20769" END="20775">Ecuador</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E114" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E114-M13820">
+          <extent>
+              <charseq START="20786" END="20790">Druze</charseq>
+          </extent>
+          <head>
+              <charseq START="20786" END="20790">Druze</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Druze">
+              <charseq START="20786" END="20790">Druze</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E115" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E115-M13821" ROLE="LOC">
+          <extent>
+              <charseq START="20807" END="20821">the Middle east</charseq>
+          </extent>
+          <head>
+              <charseq START="20811" END="20821">Middle east</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Middle east">
+              <charseq START="20811" END="20821">Middle east</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E116" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E116-M13823">
+          <extent>
+              <charseq START="20831" END="20858">the Jewish Autonomous Oblast</charseq>
+          </extent>
+          <head>
+              <charseq START="20835" END="20858">Jewish Autonomous Oblast</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish Autonomous Oblast">
+              <charseq START="20835" END="20858">Jewish Autonomous Oblast</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E117" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E117-M13804">
+          <extent>
+              <charseq START="20637" END="20660">the Cooperative movement</charseq>
+          </extent>
+          <head>
+              <charseq START="20653" END="20660">movement</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E118" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E118-M13818">
+          <extent>
+              <charseq START="20781" END="20821">some Druze communities in the Middle east</charseq>
+          </extent>
+          <head>
+              <charseq START="20792" END="20802">communities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E119" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E119-M13903">
+          <extent>
+              <charseq START="20888" END="20890">Gay</charseq>
+          </extent>
+          <head>
+              <charseq START="20888" END="20890">Gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gay">
+              <charseq START="20888" END="20890">Gay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E120" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E120-M13905">
+          <extent>
+              <charseq START="20916" END="20928">Gilbert Baker</charseq>
+          </extent>
+          <head>
+              <charseq START="20916" END="20928">Gilbert Baker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gilbert Baker">
+              <charseq START="20916" END="20928">Gilbert Baker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E121" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E121-M13909">
+          <extent>
+              <charseq START="20943" END="20955">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="20943" END="20955">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="20943" END="20955">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E122" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E122-M13910">
+          <extent>
+              <charseq START="20959" END="20981">Gay Freedom Celebration</charseq>
+          </extent>
+          <head>
+              <charseq START="20959" END="20981">Gay Freedom Celebration</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gay Freedom Celebration">
+              <charseq START="20959" END="20981">Gay Freedom Celebration</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E123" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E123-M13915">
+          <extent>
+              <charseq START="21023" END="21046">LGBT-friendly businesses</charseq>
+          </extent>
+          <head>
+              <charseq START="21037" END="21046">businesses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E124" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E124-M13917" ROLE="LOC">
+          <extent>
+              <charseq START="21051" END="21059">districts</charseq>
+          </extent>
+          <head>
+              <charseq START="21051" END="21059">districts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E125" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E125-M14001" ROLE="LOC">
+          <extent>
+              <charseq START="21075" END="21089">the Philippines</charseq>
+          </extent>
+          <head>
+              <charseq START="21079" END="21089">Philippines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E125-M14108" ROLE="GPE">
+          <extent>
+              <charseq START="21210" END="21217">Filipino</charseq>
+          </extent>
+          <head>
+              <charseq START="21210" END="21217">Filipino</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philippines">
+              <charseq START="21079" END="21089">Philippines</charseq>
+          </name>
+          <name NAME="Filipino">
+              <charseq START="21210" END="21217">Filipino</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E126" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E126-M14003">
+          <extent>
+              <charseq START="21092" END="21105">one TV station</charseq>
+          </extent>
+          <head>
+              <charseq START="21099" END="21105">station</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E127" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E127-M14102">
+          <extent>
+              <charseq START="21135" END="21137">GMA</charseq>
+          </extent>
+          <head>
+              <charseq START="21135" END="21137">GMA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E127-M14201">
+          <extent>
+              <charseq START="21316" END="21318">GMA</charseq>
+          </extent>
+          <head>
+              <charseq START="21316" END="21318">GMA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E127-M14401">
+          <extent>
+              <charseq START="21531" END="21550">GMA in metallic form</charseq>
+          </extent>
+          <head>
+              <charseq START="21531" END="21533">GMA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E127-M14409">
+          <extent>
+              <charseq START="21633" END="21635">its</charseq>
+          </extent>
+          <head>
+              <charseq START="21633" END="21635">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GMA">
+              <charseq START="21135" END="21137">GMA</charseq>
+          </name>
+          <name NAME="GMA">
+              <charseq START="21316" END="21318">GMA</charseq>
+          </name>
+          <name NAME="GMA">
+              <charseq START="21531" END="21533">GMA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E128" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E128-M14105">
+          <extent>
+              <charseq START="21166" END="21176">GMA Network</charseq>
+          </extent>
+          <head>
+              <charseq START="21166" END="21176">GMA Network</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rainbow.sentences.sgm-E128-M14113">
+          <extent>
+              <charseq START="21269" END="21271">its</charseq>
+          </extent>
+          <head>
+              <charseq START="21269" END="21271">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GMA Network">
+              <charseq START="21166" END="21176">GMA Network</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E129" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E129-M14106">
+          <extent>
+              <charseq START="21210" END="21242">Filipino viewers around the world</charseq>
+          </extent>
+          <head>
+              <charseq START="21219" END="21225">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E130" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E130-M14109">
+          <extent>
+              <charseq START="21234" END="21242">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="21238" END="21242">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E130-M14505">
+          <extent>
+              <charseq START="21716" END="21724">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="21720" END="21724">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E131" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E131-M14406">
+          <extent>
+              <charseq START="21559" END="21593">San Serif Century Gothic Extra Bold</charseq>
+          </extent>
+          <head>
+              <charseq START="21559" END="21593">San Serif Century Gothic Extra Bold</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Serif Century Gothic Extra Bold">
+              <charseq START="21559" END="21593">San Serif Century Gothic Extra Bold</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E132" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E132-M14407">
+          <extent>
+              <charseq START="21623" END="21628">Indigo</charseq>
+          </extent>
+          <head>
+              <charseq START="21623" END="21628">Indigo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indigo">
+              <charseq START="21623" END="21628">Indigo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E133" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E133-M14603">
+          <extent>
+              <charseq START="21762" END="21776">many households</charseq>
+          </extent>
+          <head>
+              <charseq START="21767" END="21776">households</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E134" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E134-M14604">
+          <extent>
+              <charseq START="21779" END="21782">cars</charseq>
+          </extent>
+          <head>
+              <charseq START="21779" END="21782">cars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E135" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E135-M14607">
+          <extent>
+              <charseq START="21800" END="21805">a club</charseq>
+          </extent>
+          <head>
+              <charseq START="21802" END="21805">club</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E136" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E136-M14709">
+          <extent>
+              <charseq START="21934" END="21951">the LGBT community</charseq>
+          </extent>
+          <head>
+              <charseq START="21943" END="21951">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E137" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E137-M15100">
+          <extent>
+              <charseq START="22297" END="22468">Some sources now omit indigo, because it is a tertiary colour and partly due to the poor ability of humans to distinguish colours in the blue portion of the visual spectrum</charseq>
+          </extent>
+          <head>
+              <charseq START="22302" END="22308">sources</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E138" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E138-M15302">
+          <extent>
+              <charseq START="22659" END="22716">different people, most notably across different cultures ,</charseq>
+          </extent>
+          <head>
+              <charseq START="22669" END="22674">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E139" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E139-M15415">
+          <extent>
+              <charseq START="22835" END="22840">Violet</charseq>
+          </extent>
+          <head>
+              <charseq START="22835" END="22840">Violet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Violet">
+              <charseq START="22835" END="22840">Violet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E140" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E140-M15517">
+          <extent>
+              <charseq START="23000" END="23039">National Center for Atmospheric Research</charseq>
+          </extent>
+          <head>
+              <charseq START="23000" END="23039">National Center for Atmospheric Research</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Center for Atmospheric Research">
+              <charseq START="23000" END="23039">National Center for Atmospheric Research</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E141" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E141-M15523">
+          <extent>
+              <charseq START="23087" END="23096">Les Cowley</charseq>
+          </extent>
+          <head>
+              <charseq START="23087" END="23096">Les Cowley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Les Cowley">
+              <charseq START="23087" END="23096">Les Cowley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E142" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rainbow.sentences.sgm-E142-M15533">
+          <extent>
+              <charseq START="23208" END="23217">dark bands</charseq>
+          </extent>
+          <head>
+              <charseq START="23213" END="23217">bands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E143" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E143-M15612">
+          <extent>
+              <charseq START="23375" END="23383">Elam Bend</charseq>
+          </extent>
+          <head>
+              <charseq START="23375" END="23383">Elam Bend</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elam Bend">
+              <charseq START="23375" END="23383">Elam Bend</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E144" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E144-M15613" ROLE="LOC">
+          <extent>
+              <charseq START="23386" END="23391">McFall</charseq>
+          </extent>
+          <head>
+              <charseq START="23386" END="23391">McFall</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="McFall">
+              <charseq START="23386" END="23391">McFall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E145" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E145-M15616">
+          <extent>
+              <charseq START="23394" END="23415">Missouri)
+Walter Lewin</charseq>
+          </extent>
+          <head>
+              <charseq START="23404" END="23415">Walter Lewin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walter Lewin">
+              <charseq START="23404" END="23415">Walter Lewin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rainbow.sentences.sgm-E146" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rainbow.sentences.sgm-E146-M15617">
+          <extent>
+              <charseq START="23394" END="23401">Missouri</charseq>
+          </extent>
+          <head>
+              <charseq START="23394" END="23401">Missouri</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Missouri">
+              <charseq START="23394" END="23401">Missouri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Rainbow.sentences.sgm-T0" VAL="P1D">
+        <timex2_mention ID="Rainbow.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1314" END="1324">a sunny day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="5992" END="6002">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T2" VAL="1979">
+        <timex2_mention ID="Rainbow.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="6919" END="6922">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T3" VAL="1998">
+        <timex2_mention ID="Rainbow.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="7033" END="7036">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T4" VAL="1804">
+        <timex2_mention ID="Rainbow.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="8375" END="8378">1804</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T5" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="12080" END="12085">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T6" VAL="182">
+        <timex2_mention ID="Rainbow.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="15875" END="15883">the 1820s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T7" VAL="1908">
+        <timex2_mention ID="Rainbow.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="16124" END="16127">1908</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T8" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="16275" END="16280">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T9" VAL="PXD">
+        <timex2_mention ID="Rainbow.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="17998" END="18020">these days of the great</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T10" VAL="PXD">
+        <timex2_mention ID="Rainbow.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="18311" END="18339">these days of the great flood</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T11" VAL="1802">
+        <timex2_mention ID="Rainbow.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="19313" END="19316">1802</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T12" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="19470" END="19472">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T13" VAL="1820">
+        <timex2_mention ID="Rainbow.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="19631" END="19634">1820</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T14" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Rainbow.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="19737" END="19740">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T15" VAL="15">
+        <timex2_mention ID="Rainbow.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="20517" END="20532">the 16th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T16">
+        <timex2_mention ID="Rainbow.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="20547" END="20555">a new era</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T17" VAL="1978">
+        <timex2_mention ID="Rainbow.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="20938" END="20941">1978</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T18">
+        <timex2_mention ID="Rainbow.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="20987" END="20991">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T19" VAL="1992-04-30">
+        <timex2_mention ID="Rainbow.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="21150" END="21163">April 30, 1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T20">
+        <timex2_mention ID="Rainbow.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="21301" END="21313">the same time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T21" VAL="197">
+        <timex2_mention ID="Rainbow.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="21854" END="21862">the 1970s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T22" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="22310" END="22312">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rainbow.sentences.sgm-T23" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Rainbow.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="22557" END="22562">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Rainbow.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R0-M7200">
+          <extent>
+              <charseq START="10020" END="10037">The Arab physicist</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E33-M7204" ROLE="Arg-1">
+            <extent>
+              <charseq START="10020" END="10037">The Arab physicist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E32-M7205" ROLE="Arg-2">
+            <extent>
+              <charseq START="10024" END="10027">Arab</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R1-M7201">
+          <extent>
+              <charseq START="10053" END="10075">Ibn al-Haytham (Alhazen</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E33-M7208" ROLE="Arg-1">
+            <extent>
+              <charseq START="10053" END="10075">Ibn al-Haytham (Alhazen</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E34-M7210" ROLE="Arg-2">
+            <extent>
+              <charseq START="10069" END="10075">Alhazen</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R2-M7300">
+          <extent>
+              <charseq START="10166" END="10226">his Maqala fi al-Hala wa Qaws Quzah (On the Rainbow and Halo)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E35-M7300" ROLE="Arg-1">
+            <extent>
+              <charseq START="10166" END="10226">his Maqala fi al-Hala wa Qaws Quzah (On the Rainbow and Halo)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E37-M7307" ROLE="Arg-2">
+            <extent>
+              <charseq START="10222" END="10225">Halo</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R3-M7800">
+          <extent>
+              <charseq START="11088" END="11110">the Persian philosopher</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E33-M7803" ROLE="Arg-1">
+            <extent>
+              <charseq START="11088" END="11110">the Persian philosopher</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E43-M7804" ROLE="Arg-2">
+            <extent>
+              <charseq START="11092" END="11098">Persian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E50" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R4-M8400">
+          <extent>
+              <charseq START="12111" END="12132">The Persian astronomer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E50-M8400" ROLE="Arg-1">
+            <extent>
+              <charseq START="12111" END="12132">The Persian astronomer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E43-M8401" ROLE="Arg-2">
+            <extent>
+              <charseq START="12115" END="12121">Persian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E50" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R5-M8500">
+          <extent>
+              <charseq START="12260" END="12262">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E50-M8503" ROLE="Arg-1">
+            <extent>
+              <charseq START="12260" END="12262">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E35-M8502" ROLE="Arg-2">
+            <extent>
+              <charseq START="12260" END="12270">his student</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E51" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R6-M8800">
+          <extent>
+              <charseq START="12675" END="12677">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E35-M8804" ROLE="Arg-1">
+            <extent>
+              <charseq START="12675" END="12677">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E51-M8802" ROLE="Arg-2">
+            <extent>
+              <charseq START="12675" END="12730">his Kitab Tanqih al-Manazir (The Revision of the Optics)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R7-M9100">
+          <extent>
+              <charseq START="13285" END="13287">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E35-M9108" ROLE="Arg-1">
+            <extent>
+              <charseq START="13285" END="13287">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E42-M9106" ROLE="Arg-2">
+            <extent>
+              <charseq START="13285" END="13357">his contemporary Theodoric of Freiberg (without any contacts between them</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E61" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E62" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R8-M9400">
+          <extent>
+              <charseq START="13900" END="13920">Theodoric of Freiberg</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E61-M9400" ROLE="Arg-1">
+            <extent>
+              <charseq START="13900" END="13920">Theodoric of Freiberg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E62-M9402" ROLE="Arg-2">
+            <extent>
+              <charseq START="13913" END="13920">Freiberg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E71" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E72" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R9-M11100">
+          <extent>
+              <charseq START="16616" END="16627">Goddess Nüwa</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E71-M11107" ROLE="Arg-1">
+            <extent>
+              <charseq START="16616" END="16627">Goddess Nüwa</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E72-M11108" ROLE="Arg-2">
+            <extent>
+              <charseq START="16635" END="16666">stones of five different colours</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E80" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E79" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R10-M11300">
+          <extent>
+              <charseq START="16936" END="16943">the gods</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E80-M11314" ROLE="Arg-1">
+            <extent>
+              <charseq START="16936" END="16943">the gods</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E79-M11311" ROLE="Arg-2">
+            <extent>
+              <charseq START="16927" END="16954">homes of the gods and humans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E81" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E79" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R11-M11301">
+          <extent>
+              <charseq START="16949" END="16954">humans</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E81-M11315" ROLE="Arg-1">
+            <extent>
+              <charseq START="16949" END="16954">humans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E79-M11311" ROLE="Arg-2">
+            <extent>
+              <charseq START="16927" END="16954">homes of the gods and humans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R12" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R12-M11700">
+          <extent>
+              <charseq START="17534" END="17535">me</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E12-M11727" ROLE="Arg-1">
+            <extent>
+              <charseq START="17534" END="17535">me</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E1-M11729" ROLE="Arg-2">
+            <extent>
+              <charseq START="17541" END="17549">the earth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R13" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E86" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R13-M12100">
+          <extent>
+              <charseq START="18166" END="18168">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E85-M12107" ROLE="Arg-1">
+            <extent>
+              <charseq START="18166" END="18168">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E86-M12106" ROLE="Arg-2">
+            <extent>
+              <charseq START="18166" END="18175">her father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R14" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E89" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R14-M12300">
+          <extent>
+              <charseq START="18478" END="18479">my</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E12-M12308" ROLE="Arg-1">
+            <extent>
+              <charseq START="18478" END="18479">my</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E89-M12307" ROLE="Arg-2">
+            <extent>
+              <charseq START="18478" END="18487">my people&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E108" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E107" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R15-M13700">
+          <extent>
+              <charseq START="20489" END="20507">the German Peasants</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E108-M13703" ROLE="Arg-1">
+            <extent>
+              <charseq START="20489" END="20507">the German Peasants</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E107-M13704" ROLE="Arg-2">
+            <extent>
+              <charseq START="20493" END="20498">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E118" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E115" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R16-M13801">
+          <extent>
+              <charseq START="20781" END="20821">some Druze communities in the Middle east</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E118-M13818" ROLE="Arg-1">
+            <extent>
+              <charseq START="20781" END="20821">some Druze communities in the Middle east</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E115-M13821" ROLE="Arg-2">
+            <extent>
+              <charseq START="20807" END="20821">the Middle east</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Rainbow.sentences.sgm-R17" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rainbow.sentences.sgm-E129" ROLE="Arg-1"/>
+      <relation_argument REFID="Rainbow.sentences.sgm-E125" ROLE="Arg-2"/>
+        <relation_mention ID="Rainbow.sentences.sgm-R17-M14100">
+          <extent>
+              <charseq START="21210" END="21242">Filipino viewers around the world</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E129-M14106" ROLE="Arg-1">
+            <extent>
+              <charseq START="21210" END="21242">Filipino viewers around the world</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rainbow.sentences.sgm-E125-M14108" ROLE="Arg-2">
+            <extent>
+              <charseq START="21210" END="21217">Filipino</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Rainbow.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Rainbow.sentences.sgm-EV0-M500">
+          <extent>
+              <charseq START="607" END="612">Battle</charseq>
+          </extent>
+          <anchor>
+              <charseq START="607" END="612">Battle</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV1" TYPE="Business" SUBTYPE="Merge-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E16" ROLE="Org"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV1-M4200">
+          <extent>
+              <charseq START="6233" END="6237">merge</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6233" END="6237">merge</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E16-M4205" ROLE="Org">
+          <extent>
+              <charseq START="6271" END="6301">a blue inner and red outer band</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV2" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Rainbow.sentences.sgm-EV2-M9001">
+          <extent>
+              <charseq START="13087" END="13092">trials</charseq>
+          </extent>
+          <anchor>
+              <charseq START="13087" END="13092">trials</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E2" ROLE="Entity"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV3-M10200">
+          <extent>
+              <charseq START="15207" END="15218">demonstrated</charseq>
+          </extent>
+          <anchor>
+              <charseq START="15207" END="15218">demonstrated</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E2-M10200" ROLE="Entity">
+          <extent>
+              <charseq START="15194" END="15205">Isaac Newton</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E84" ROLE="Target"/>
+      <event_argument REFID="Rainbow.sentences.sgm-T9" ROLE="Time-Within"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV4-M11900">
+          <extent>
+              <charseq START="18034" END="18042">destroyed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="18034" END="18042">destroyed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E84-M11923" ROLE="Target">
+          <extent>
+              <charseq START="18044" END="18055">her children</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Rainbow.sentences.sgm-T9-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="17998" END="18020">these days of the great</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E89" ROLE="Target"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV5-M12300">
+          <extent>
+              <charseq START="18468" END="18476">destroyed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="18468" END="18476">destroyed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E89-M12307" ROLE="Target">
+          <extent>
+              <charseq START="18478" END="18487">my people&quot;</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E12" ROLE="Victim"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV6-M13101">
+          <extent>
+              <charseq START="19528" END="19530">die</charseq>
+          </extent>
+          <anchor>
+              <charseq START="19528" END="19530">die</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E12-M13145" ROLE="Victim">
+          <extent>
+              <charseq START="19525" END="19526">me</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Rainbow.sentences.sgm-E108" ROLE="Attacker"/>
+      <event_argument REFID="Rainbow.sentences.sgm-T15" ROLE="Time-Within"/>
+      <event_mention ID="Rainbow.sentences.sgm-EV7-M13700">
+          <extent>
+              <charseq START="20510" END="20512">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="20510" END="20512">War</charseq>
+          </anchor>
+        <event_mention_argument REFID="Rainbow.sentences.sgm-E108-M13703" ROLE="Attacker">
+          <extent>
+              <charseq START="20489" END="20507">the German Peasants</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Rainbow.sentences.sgm-T15-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="20517" END="20532">the 16th century</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Rainbow.sentences.sgm-EV8" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Rainbow.sentences.sgm-EV8-M14700">
+          <extent>
+              <charseq START="21831" END="21837">Founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="21831" END="21837">Founded</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

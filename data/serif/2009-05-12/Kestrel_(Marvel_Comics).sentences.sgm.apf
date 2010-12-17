@@ -1,0 +1,4415 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Kestrel_(Marvel_Comics).sentences.sgm">
+  <document DOCID="Kestrel_(Marvel_Comics).sentences.sgm">
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="40" END="74">John Wraith, also known as Kestrel,</charseq>
+          </extent>
+          <head>
+              <charseq START="40" END="50">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="79" END="129">a character in the Marvel comics fictional universe</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="89">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="144" END="161">a member of Team X</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="151">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="213" END="251">Fictional character history
+John Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="251">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M202">
+          <extent>
+              <charseq START="233" END="239">history</charseq>
+          </extent>
+          <head>
+              <charseq START="233" END="239">history</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M400">
+          <extent>
+              <charseq START="459" END="460">He</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="460">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M504">
+          <extent>
+              <charseq START="563" END="564">he</charseq>
+          </extent>
+          <head>
+              <charseq START="563" END="564">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M508">
+          <extent>
+              <charseq START="609" END="610">he</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="610">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M510">
+          <extent>
+              <charseq START="639" END="640">he</charseq>
+          </extent>
+          <head>
+              <charseq START="639" END="640">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M604">
+          <extent>
+              <charseq START="662" END="675">a secret agent</charseq>
+          </extent>
+          <head>
+              <charseq START="671" END="675">agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M605">
+          <extent>
+              <charseq START="681" END="712">a member of the Weapon X program</charseq>
+          </extent>
+          <head>
+              <charseq START="683" END="688">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M602">
+          <extent>
+              <charseq START="650" END="652">His</charseq>
+          </extent>
+          <head>
+              <charseq START="650" END="652">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M613">
+          <extent>
+              <charseq START="736" END="738">His</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="738">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M704">
+          <extent>
+              <charseq START="830" END="832">his</charseq>
+          </extent>
+          <head>
+              <charseq START="830" END="832">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M708">
+          <extent>
+              <charseq START="854" END="856">his</charseq>
+          </extent>
+          <head>
+              <charseq START="854" END="856">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M710">
+          <extent>
+              <charseq START="881" END="883">his</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="883">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1703">
+          <extent>
+              <charseq START="2028" END="2033">Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="2028" END="2033">Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1708">
+          <extent>
+              <charseq START="2115" END="2117">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2115" END="2117">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="2120" END="2121">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2120" END="2121">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1804">
+          <extent>
+              <charseq START="2158" END="2160">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2160">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1807">
+          <extent>
+              <charseq START="2176" END="2178">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2176" END="2178">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M1900">
+          <extent>
+              <charseq START="2217" END="2218">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2217" END="2218">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M2011">
+          <extent>
+              <charseq START="2404" END="2414">John Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="2404" END="2414">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M2005">
+          <extent>
+              <charseq START="2338" END="2340">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2338" END="2340">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="2434" END="2452">Colonel John Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="2442" END="2452">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M2101">
+          <extent>
+              <charseq START="2434" END="2440">Colonel</charseq>
+          </extent>
+          <head>
+              <charseq START="2434" END="2440">Colonel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M2103">
+          <extent>
+              <charseq START="2458" END="2481">a mutant-hating commando</charseq>
+          </extent>
+          <head>
+              <charseq START="2474" END="2481">commando</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3701">
+          <extent>
+              <charseq START="4452" END="4457">Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="4452" END="4457">Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3806">
+          <extent>
+              <charseq START="4578" END="4590">the Professor</charseq>
+          </extent>
+          <head>
+              <charseq START="4582" END="4590">Professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3800">
+          <extent>
+              <charseq START="4531" END="4532">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4531" END="4532">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3808">
+          <extent>
+              <charseq START="4621" END="4623">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4621" END="4623">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M3912">
+          <extent>
+              <charseq START="4848" END="4850">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4848" END="4850">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M4103">
+          <extent>
+              <charseq START="4968" END="4973">Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="4968" END="4973">Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M4902">
+          <extent>
+              <charseq START="5994" END="5999">Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="5994" END="5999">Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M4903">
+          <extent>
+              <charseq START="6030" END="6031">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6030" END="6031">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M4906">
+          <extent>
+              <charseq START="6038" END="6040">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6038" END="6040">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5004">
+          <extent>
+              <charseq START="6113" END="6123">the Colonel</charseq>
+          </extent>
+          <head>
+              <charseq START="6117" END="6123">Colonel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5201">
+          <extent>
+              <charseq START="6220" END="6238">the corrupt Colonel</charseq>
+          </extent>
+          <head>
+              <charseq START="6232" END="6238">Colonel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5303">
+          <extent>
+              <charseq START="6369" END="6394">the leader of Alpha Flight</charseq>
+          </extent>
+          <head>
+              <charseq START="6373" END="6378">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5408">
+          <extent>
+              <charseq START="6437" END="6439">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6437" END="6439">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5413">
+          <extent>
+              <charseq START="6487" END="6489">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6487" END="6489">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5415">
+          <extent>
+              <charseq START="6505" END="6507">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6505" END="6507">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5500">
+          <extent>
+              <charseq START="6522" END="6523">He</charseq>
+          </extent>
+          <head>
+              <charseq START="6522" END="6523">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5503">
+          <extent>
+              <charseq START="6534" END="6536">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6534" END="6536">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5605">
+          <extent>
+              <charseq START="6678" END="6686">the X-men</charseq>
+          </extent>
+          <head>
+              <charseq START="6683" END="6686">-men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5601">
+          <extent>
+              <charseq START="6630" END="6632">His</charseq>
+          </extent>
+          <head>
+              <charseq START="6630" END="6632">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5709">
+          <extent>
+              <charseq START="6820" END="6822">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6820" END="6822">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5802">
+          <extent>
+              <charseq START="6921" END="6923">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6921" END="6923">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5900">
+          <extent>
+              <charseq START="6955" END="6956">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6955" END="6956">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5905">
+          <extent>
+              <charseq START="7010" END="7011">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7010" END="7011">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5932">
+          <extent>
+              <charseq START="7254" END="7256">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7254" END="7256">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6012">
+          <extent>
+              <charseq START="7393" END="7403">John Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="7393" END="7403">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6100">
+          <extent>
+              <charseq START="7406" END="7407">He</charseq>
+          </extent>
+          <head>
+              <charseq START="7406" END="7407">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6111">
+          <extent>
+              <charseq START="7515" END="7517">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7515" END="7517">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6201">
+          <extent>
+              <charseq START="7583" END="7584">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7583" END="7584">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6301">
+          <extent>
+              <charseq START="7667" END="7669">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7667" END="7669">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6304">
+          <extent>
+              <charseq START="7717" END="7719">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7717" END="7719">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6400">
+          <extent>
+              <charseq START="7752" END="7767">Film
+John Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="7757" END="7767">John Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6401">
+          <extent>
+              <charseq START="7752" END="7755">Film</charseq>
+          </extent>
+          <head>
+              <charseq START="7752" END="7755">Film</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6600">
+          <extent>
+              <charseq START="7899" END="7900">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7899" END="7900">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6603">
+          <extent>
+              <charseq START="7954" END="7955">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7954" END="7955">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6606">
+          <extent>
+              <charseq START="7978" END="7979">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7978" END="7979">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M6700">
+          <extent>
+              <charseq START="8042" END="8043">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8042" END="8043">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7404">
+          <extent>
+              <charseq START="8746" END="8751">Wraith</charseq>
+          </extent>
+          <head>
+              <charseq START="8746" END="8751">Wraith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7512">
+          <extent>
+              <charseq START="8887" END="8889">His</charseq>
+          </extent>
+          <head>
+              <charseq START="8887" END="8889">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7600">
+          <extent>
+              <charseq START="8934" END="8935">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8934" END="8935">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7700">
+          <extent>
+              <charseq START="9087" END="9088">He</charseq>
+          </extent>
+          <head>
+              <charseq START="9087" END="9088">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7713">
+          <extent>
+              <charseq START="9198" END="9200">his</charseq>
+          </extent>
+          <head>
+              <charseq START="9198" END="9200">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Wraith">
+              <charseq START="40" END="50">John Wraith</charseq>
+          </name>
+          <name NAME="John Wraith">
+              <charseq START="241" END="251">John Wraith</charseq>
+          </name>
+          <name NAME="Wraith">
+              <charseq START="2028" END="2033">Wraith</charseq>
+          </name>
+          <name NAME="John Wraith">
+              <charseq START="2404" END="2414">John Wraith</charseq>
+          </name>
+          <name NAME="John Wraith">
+              <charseq START="2442" END="2452">John Wraith</charseq>
+          </name>
+          <name NAME="Wraith">
+              <charseq START="4452" END="4457">Wraith</charseq>
+          </name>
+          <name NAME="Wraith">
+              <charseq START="4968" END="4973">Wraith</charseq>
+          </name>
+          <name NAME="Wraith">
+              <charseq START="5994" END="5999">Wraith</charseq>
+          </name>
+          <name NAME="John Wraith">
+              <charseq START="7393" END="7403">John Wraith</charseq>
+          </name>
+          <name NAME="John Wraith">
+              <charseq START="7757" END="7767">John Wraith</charseq>
+          </name>
+          <name NAME="Wraith">
+              <charseq START="8746" END="8751">Wraith</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E1" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E1-M2">
+          <extent>
+              <charseq START="67" END="73">Kestrel</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="73">Kestrel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E1-M100">
+          <extent>
+              <charseq START="132" END="138">Kestrel</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="138">Kestrel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E1-M5927">
+          <extent>
+              <charseq START="7192" END="7198">Kestrel</charseq>
+          </extent>
+          <head>
+              <charseq START="7192" END="7198">Kestrel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kestrel">
+              <charseq START="67" END="73">Kestrel</charseq>
+          </name>
+          <name NAME="Kestrel">
+              <charseq START="132" END="138">Kestrel</charseq>
+          </name>
+          <name NAME="Kestrel">
+              <charseq START="7192" END="7198">Kestrel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E2-M6" ROLE="GPE">
+          <extent>
+              <charseq START="98" END="103">Marvel</charseq>
+          </extent>
+          <head>
+              <charseq START="98" END="103">Marvel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel">
+              <charseq START="98" END="103">Marvel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E3" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M210">
+          <extent>
+              <charseq START="283" END="291">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="283" END="291">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M303">
+          <extent>
+              <charseq START="395" END="402">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="402">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M306">
+          <extent>
+              <charseq START="435" END="439">their</charseq>
+          </extent>
+          <head>
+              <charseq START="435" END="439">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M903">
+          <extent>
+              <charseq START="1094" END="1102">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="1094" END="1102">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M911">
+          <extent>
+              <charseq START="1212" END="1215">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1215">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M2814">
+          <extent>
+              <charseq START="3444" END="3452">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="3444" END="3452">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M3004">
+          <extent>
+              <charseq START="3663" END="3671">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="3663" END="3671">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M3103">
+          <extent>
+              <charseq START="3800" END="3808">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="3800" END="3808">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M3405">
+          <extent>
+              <charseq START="4117" END="4125">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="4117" END="4125">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M4700">
+          <extent>
+              <charseq START="5726" END="5734">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="5726" END="5734">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M4701">
+          <extent>
+              <charseq START="5776" END="5779">them</charseq>
+          </extent>
+          <head>
+              <charseq START="5776" END="5779">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M5928">
+          <extent>
+              <charseq START="7203" END="7211">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7203" END="7211">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M6001">
+          <extent>
+              <charseq START="7283" END="7291">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7283" END="7291">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M6106">
+          <extent>
+              <charseq START="7477" END="7485">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="7477" END="7485">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7101">
+          <extent>
+              <charseq START="8532" END="8569">Wolverine which leads them to a casino</charseq>
+          </extent>
+          <head>
+              <charseq START="8532" END="8540">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7103">
+          <extent>
+              <charseq START="8542" END="8546">which</charseq>
+          </extent>
+          <head>
+              <charseq START="8542" END="8546">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7104">
+          <extent>
+              <charseq START="8554" END="8557">them</charseq>
+          </extent>
+          <head>
+              <charseq START="8554" END="8557">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7400">
+          <extent>
+              <charseq START="8720" END="8728">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="8720" END="8728">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7406">
+          <extent>
+              <charseq START="8776" END="8784">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="8776" END="8784">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolverine">
+              <charseq START="283" END="291">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="1094" END="1102">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="3444" END="3452">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="3663" END="3671">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="3800" END="3808">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="4117" END="4125">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="5726" END="5734">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7203" END="7211">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7283" END="7291">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7477" END="7485">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8532" END="8540">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8720" END="8728">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="8776" END="8784">Wolverine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E4-M211">
+          <extent>
+              <charseq START="294" END="303">Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="294" END="303">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E4-M1602">
+          <extent>
+              <charseq START="1967" END="1988">his partner Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="1979" END="1988">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E4-M1604">
+          <extent>
+              <charseq START="1971" END="1977">partner</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1977">partner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E4-M3302">
+          <extent>
+              <charseq START="3978" END="3987">Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="3978" END="3987">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sabretooth">
+              <charseq START="294" END="303">Sabretooth</charseq>
+          </name>
+          <name NAME="Sabretooth">
+              <charseq START="1979" END="1988">Sabretooth</charseq>
+          </name>
+          <name NAME="Sabretooth">
+              <charseq START="3978" END="3987">Sabretooth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M212">
+          <extent>
+              <charseq START="306" END="313">Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="306" END="313">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M1207">
+          <extent>
+              <charseq START="1541" END="1548">Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1548">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M1208">
+          <extent>
+              <charseq START="1553" END="1565">his bodyguard</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1565">bodyguard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M1506">
+          <extent>
+              <charseq START="1866" END="1873">Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="1866" END="1873">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M1600">
+          <extent>
+              <charseq START="1893" END="1900">Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1900">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E5-M5925">
+          <extent>
+              <charseq START="7174" END="7186">both Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="7179" END="7186">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maverick">
+              <charseq START="306" END="313">Maverick</charseq>
+          </name>
+          <name NAME="Maverick">
+              <charseq START="1541" END="1548">Maverick</charseq>
+          </name>
+          <name NAME="Maverick">
+              <charseq START="1866" END="1873">Maverick</charseq>
+          </name>
+          <name NAME="Maverick">
+              <charseq START="1893" END="1900">Maverick</charseq>
+          </name>
+          <name NAME="Maverick">
+              <charseq START="7179" END="7186">Maverick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E6-M213">
+          <extent>
+              <charseq START="316" END="323">Mastodon</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="323">Mastodon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E6-M915">
+          <extent>
+              <charseq START="1246" END="1253">Mastodon</charseq>
+          </extent>
+          <head>
+              <charseq START="1246" END="1253">Mastodon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mastodon">
+              <charseq START="316" END="323">Mastodon</charseq>
+          </name>
+          <name NAME="Mastodon">
+              <charseq START="1246" END="1253">Mastodon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E7-M214">
+          <extent>
+              <charseq START="330" END="339">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="339">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silver Fox">
+              <charseq START="330" END="339">Silver Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E8" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E8-M404">
+          <extent>
+              <charseq START="481" END="490">explosives</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="490">explosives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E9-M500">
+          <extent>
+              <charseq START="534" END="560">the other members of Team X</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="550">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E10-M612">
+          <extent>
+              <charseq START="736" END="744">His house</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="744">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E10-M616">
+          <extent>
+              <charseq START="779" END="786">the yard</charseq>
+          </extent>
+          <head>
+              <charseq START="783" END="786">yard</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E11-M707">
+          <extent>
+              <charseq START="854" END="868">his compatriots</charseq>
+          </extent>
+          <head>
+              <charseq START="858" END="868">compatriots</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E12-M709">
+          <extent>
+              <charseq START="881" END="888">his foes</charseq>
+          </extent>
+          <head>
+              <charseq START="885" END="888">foes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M713">
+          <extent>
+              <charseq START="922" END="927">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="927">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M714">
+          <extent>
+              <charseq START="953" END="955">him</charseq>
+          </extent>
+          <head>
+              <charseq START="953" END="955">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M801">
+          <extent>
+              <charseq START="958" END="960">His</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="960">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M805">
+          <extent>
+              <charseq START="1003" END="1005">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1003" END="1005">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M907">
+          <extent>
+              <charseq START="1120" END="1122">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1120" END="1122">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E14-M800">
+          <extent>
+              <charseq START="958" END="972">His fellow Team</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="972">Team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E14-M806">
+          <extent>
+              <charseq START="1019" END="1022">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1019" END="1022">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E14-M5600">
+          <extent>
+              <charseq START="6630" END="6637">His team</charseq>
+          </extent>
+          <head>
+              <charseq START="6634" END="6637">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E14-M5607">
+          <extent>
+              <charseq START="6705" END="6717">Wraith&apos;s team</charseq>
+          </extent>
+          <head>
+              <charseq START="6714" END="6717">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E15-M802">
+          <extent>
+              <charseq START="974" END="982">X members</charseq>
+          </extent>
+          <head>
+              <charseq START="976" END="982">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E16-M906">
+          <extent>
+              <charseq START="1120" END="1136">his old teammates</charseq>
+          </extent>
+          <head>
+              <charseq START="1128" END="1136">teammates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E18-M1003">
+          <extent>
+              <charseq START="1354" END="1401">termination candidates from the Weapon X project</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1375">candidates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1104">
+          <extent>
+              <charseq START="1442" END="1451">Aldo Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="1442" END="1451">Aldo Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1105">
+          <extent>
+              <charseq START="1454" END="1491">a Mafia don known as Il Topo Siciliano</charseq>
+          </extent>
+          <head>
+              <charseq START="1462" END="1464">don</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1202">
+          <extent>
+              <charseq START="1505" END="1509">Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1509">Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1205">
+          <extent>
+              <charseq START="1514" END="1516">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1514" END="1516">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1209">
+          <extent>
+              <charseq START="1553" END="1555">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1553" END="1555">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1304">
+          <extent>
+              <charseq START="1596" END="1600">Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="1596" END="1600">Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1307">
+          <extent>
+              <charseq START="1628" END="1629">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1628" END="1629">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1313">
+          <extent>
+              <charseq START="1652" END="1654">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1652" END="1654">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1504">
+          <extent>
+              <charseq START="1826" END="1839">the &quot;Director&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1838">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1500">
+          <extent>
+              <charseq START="1783" END="1784">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1783" END="1784">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1603">
+          <extent>
+              <charseq START="1967" END="1969">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1967" END="1969">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E19-M1607">
+          <extent>
+              <charseq START="1994" END="1996">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="1996">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aldo Ferro">
+              <charseq START="1442" END="1451">Aldo Ferro</charseq>
+          </name>
+          <name NAME="Ferro">
+              <charseq START="1505" END="1509">Ferro</charseq>
+          </name>
+          <name NAME="Ferro">
+              <charseq START="1596" END="1600">Ferro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E20-M1108">
+          <extent>
+              <charseq START="1475" END="1491">Il Topo Siciliano</charseq>
+          </extent>
+          <head>
+              <charseq START="1475" END="1491">Il Topo Siciliano</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Il Topo Siciliano">
+              <charseq START="1475" END="1491">Il Topo Siciliano</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E21" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E21-M1203">
+          <extent>
+              <charseq START="1514" END="1565">his secluded island, where Maverick is his bodyguard</charseq>
+          </extent>
+          <head>
+              <charseq START="1527" END="1532">island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E21-M1206">
+          <extent>
+              <charseq START="1535" END="1539">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1539">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E22-M1306">
+          <extent>
+              <charseq START="1610" END="1617">Psi-Borg</charseq>
+          </extent>
+          <head>
+              <charseq START="1610" END="1617">Psi-Borg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Psi-Borg">
+              <charseq START="1610" END="1617">Psi-Borg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E23-M1706">
+          <extent>
+              <charseq START="2103" END="2117">others with him</charseq>
+          </extent>
+          <head>
+              <charseq START="2103" END="2108">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E24" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E24-M1902">
+          <extent>
+              <charseq START="2226" END="2292">using &quot;shaped charges,&quot; bombs whose blasts are precisely controlled</charseq>
+          </extent>
+          <head>
+              <charseq START="2250" END="2254">bombs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E24-M1906">
+          <extent>
+              <charseq START="2256" END="2260">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="2256" END="2260">whose</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E25" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E25-M2010">
+          <extent>
+              <charseq START="2377" END="2391">Ultimate Marvel</charseq>
+          </extent>
+          <head>
+              <charseq START="2377" END="2391">Ultimate Marvel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E25-M6011">
+          <extent>
+              <charseq START="7366" END="7380">Ultimate Marvel</charseq>
+          </extent>
+          <head>
+              <charseq START="7366" END="7380">Ultimate Marvel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ultimate Marvel">
+              <charseq START="2377" END="2391">Ultimate Marvel</charseq>
+          </name>
+          <name NAME="Ultimate Marvel">
+              <charseq START="7366" END="7380">Ultimate Marvel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E26-M2004">
+          <extent>
+              <charseq START="2338" END="2370">his mainstream mutant counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="2360" END="2370">counterpart</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E28-M2105">
+          <extent>
+              <charseq START="2505" END="2516">S.H.I.E.L.D.</charseq>
+          </extent>
+          <head>
+              <charseq START="2505" END="2516">S.H.I.E.L.D.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="S.H.I.E.L.D.">
+              <charseq START="2505" END="2516">S.H.I.E.L.D.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E29-M2207" ROLE="GPE">
+          <extent>
+              <charseq START="2659" END="2662">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2659" END="2662">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E29-M2206" ROLE="ORG">
+          <extent>
+              <charseq START="2655" END="2673">the U.S. Government</charseq>
+          </extent>
+          <head>
+              <charseq START="2664" END="2673">Government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E29-M3504" ROLE="LOC">
+          <extent>
+              <charseq START="4241" END="4292">America (unknown to them as an assassin for Magneto)</charseq>
+          </extent>
+          <head>
+              <charseq START="4241" END="4247">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="2659" END="2662">U.S.</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4241" END="4247">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2301">
+          <extent>
+              <charseq START="2705" END="2727">a Dr. Abraham Cornelius</charseq>
+          </extent>
+          <head>
+              <charseq START="2711" END="2727">Abraham Cornelius</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2302">
+          <extent>
+              <charseq START="2707" END="2709">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2707" END="2709">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2401">
+          <extent>
+              <charseq START="2730" END="2731">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2730" END="2731">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2405">
+          <extent>
+              <charseq START="2737" END="2739">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2737" END="2739">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2502">
+          <extent>
+              <charseq START="2981" END="2983">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2981" END="2983">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2506">
+          <extent>
+              <charseq START="2999" END="3001">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2999" END="3001">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2601">
+          <extent>
+              <charseq START="3026" END="3027">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3026" END="3027">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2604">
+          <extent>
+              <charseq START="3033" END="3035">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3033" END="3035">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2606">
+          <extent>
+              <charseq START="3077" END="3079">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3077" END="3079">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2613">
+          <extent>
+              <charseq START="3105" END="3107">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3105" END="3107">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2614">
+          <extent>
+              <charseq START="3139" END="3141">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3139" END="3141">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2616">
+          <extent>
+              <charseq START="3156" END="3158">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3156" END="3158">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2619">
+          <extent>
+              <charseq START="3180" END="3181">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3180" END="3181">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2622">
+          <extent>
+              <charseq START="3204" END="3206">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3204" END="3206">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2804">
+          <extent>
+              <charseq START="3356" END="3358">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3356" END="3358">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2808">
+          <extent>
+              <charseq START="3384" END="3386">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3384" END="3386">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2812">
+          <extent>
+              <charseq START="3408" END="3410">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3408" END="3410">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M4004">
+          <extent>
+              <charseq START="4932" END="4943">Dr Cornelius</charseq>
+          </extent>
+          <head>
+              <charseq START="4935" END="4943">Cornelius</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M4005">
+          <extent>
+              <charseq START="4932" END="4933">Dr</charseq>
+          </extent>
+          <head>
+              <charseq START="4932" END="4933">Dr</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abraham Cornelius">
+              <charseq START="2711" END="2727">Abraham Cornelius</charseq>
+          </name>
+          <name NAME="Cornelius">
+              <charseq START="4935" END="4943">Cornelius</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E31-M2413" ROLE="GPE">
+          <extent>
+              <charseq START="2824" END="2831">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="2824" END="2831">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E31-M4304">
+          <extent>
+              <charseq START="5238" END="5254">a foreign country</charseq>
+          </extent>
+          <head>
+              <charseq START="5248" END="5254">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E31-M5404" ROLE="LOC">
+          <extent>
+              <charseq START="6414" END="6419">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="6414" END="6419">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian">
+              <charseq START="2824" END="2831">Canadian</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="6414" END="6419">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E32-M2414">
+          <extent>
+              <charseq START="2852" END="2876">James &quot;Lucky Jim&quot; Howlett</charseq>
+          </extent>
+          <head>
+              <charseq START="2870" END="2876">Howlett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E32-M6900">
+          <extent>
+              <charseq START="8282" END="8288">Howlett</charseq>
+          </extent>
+          <head>
+              <charseq START="8282" END="8288">Howlett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E32-M6905">
+          <extent>
+              <charseq START="8336" END="8337">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8336" END="8337">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E32-M6907">
+          <extent>
+              <charseq START="8345" END="8347">him</charseq>
+          </extent>
+          <head>
+              <charseq START="8345" END="8347">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E32-M6909">
+          <extent>
+              <charseq START="8349" END="8350">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8349" END="8350">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Howlett">
+              <charseq START="2870" END="2876">Howlett</charseq>
+          </name>
+          <name NAME="Howlett">
+              <charseq START="8282" END="8288">Howlett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E33-M2415">
+          <extent>
+              <charseq START="2852" END="2867">James &quot;Lucky Jim</charseq>
+          </extent>
+          <head>
+              <charseq START="2852" END="2867">James &quot;Lucky Jim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James &quot;Lucky Jim">
+              <charseq START="2852" END="2867">James &quot;Lucky Jim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2403">
+          <extent>
+              <charseq START="2737" END="2789">his men (all who have anti-mutant sentiments as well)</charseq>
+          </extent>
+          <head>
+              <charseq START="2741" END="2743">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2408">
+          <extent>
+              <charseq START="2750" END="2752">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2750" END="2752">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2500">
+          <extent>
+              <charseq START="2965" END="2968">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2965" END="2968">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2603">
+          <extent>
+              <charseq START="3033" END="3039">his men</charseq>
+          </extent>
+          <head>
+              <charseq START="3037" END="3039">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2704">
+          <extent>
+              <charseq START="3299" END="3302">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3299" END="3302">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2802">
+          <extent>
+              <charseq START="3333" END="3336">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3333" END="3336">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3009">
+          <extent>
+              <charseq START="3724" END="3730">his men</charseq>
+          </extent>
+          <head>
+              <charseq START="3728" END="3730">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3514">
+          <extent>
+              <charseq START="4302" END="4308">his men</charseq>
+          </extent>
+          <head>
+              <charseq START="4306" END="4308">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3521">
+          <extent>
+              <charseq START="4387" END="4389">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="4387" END="4389">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3506">
+          <extent>
+              <charseq START="4261" END="4264">them</charseq>
+          </extent>
+          <head>
+              <charseq START="4261" END="4264">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3519">
+          <extent>
+              <charseq START="4359" END="4363">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4359" END="4363">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3706">
+          <extent>
+              <charseq START="4488" END="4491">Men,</charseq>
+          </extent>
+          <head>
+              <charseq START="4488" END="4490">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4100">
+          <extent>
+              <charseq START="4954" END="4957">them</charseq>
+          </extent>
+          <head>
+              <charseq START="4954" END="4957">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4106">
+          <extent>
+              <charseq START="5011" END="5014">them</charseq>
+          </extent>
+          <head>
+              <charseq START="5011" END="5014">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4113">
+          <extent>
+              <charseq START="5073" END="5077">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5073" END="5077">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4202">
+          <extent>
+              <charseq START="5118" END="5120">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="5118" END="5120">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4203">
+          <extent>
+              <charseq START="5151" END="5154">them</charseq>
+          </extent>
+          <head>
+              <charseq START="5151" END="5154">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4406">
+          <extent>
+              <charseq START="5424" END="5427">they</charseq>
+          </extent>
+          <head>
+              <charseq START="5424" END="5427">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M5714">
+          <extent>
+              <charseq START="6877" END="6879">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="6877" END="6879">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M6003">
+          <extent>
+              <charseq START="7303" END="7305">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="7303" END="7305">Men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E35-M2411">
+          <extent>
+              <charseq START="2822" END="2876">a Canadian para-trooper named James &quot;Lucky Jim&quot; Howlett</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2844">para-trooper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E35-M2422">
+          <extent>
+              <charseq START="2905" END="2907">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2905" END="2907">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E35-M2424">
+          <extent>
+              <charseq START="2935" END="2937">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2937">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2605">
+          <extent>
+              <charseq START="3060" END="3064">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="3060" END="3064">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2701">
+          <extent>
+              <charseq START="3248" END="3252">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="3248" END="3252">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2906">
+          <extent>
+              <charseq START="3571" END="3575">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="3571" END="3575">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2907">
+          <extent>
+              <charseq START="3585" END="3587">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3585" END="3587">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2909">
+          <extent>
+              <charseq START="3601" END="3603">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3601" END="3603">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3011">
+          <extent>
+              <charseq START="3750" END="3754">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="3750" END="3754">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3006">
+          <extent>
+              <charseq START="3682" END="3684">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3682" END="3684">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3010">
+          <extent>
+              <charseq START="3724" END="3726">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3724" END="3726">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3100">
+          <extent>
+              <charseq START="3768" END="3769">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3768" END="3769">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3104">
+          <extent>
+              <charseq START="3816" END="3817">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3816" END="3817">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3204">
+          <extent>
+              <charseq START="3910" END="3914">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="3910" END="3914">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3205">
+          <extent>
+              <charseq START="3927" END="3929">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3927" END="3929">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3308">
+          <extent>
+              <charseq START="4030" END="4034">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4030" END="4034">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3306">
+          <extent>
+              <charseq START="4005" END="4007">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4005" END="4007">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3309">
+          <extent>
+              <charseq START="4040" END="4041">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4040" END="4041">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3503">
+          <extent>
+              <charseq START="4216" END="4220">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4216" END="4220">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3516">
+          <extent>
+              <charseq START="4339" END="4343">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4339" END="4343">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3500">
+          <extent>
+              <charseq START="4194" END="4195">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4194" END="4195">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3512">
+          <extent>
+              <charseq START="4295" END="4296">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4295" END="4296">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3515">
+          <extent>
+              <charseq START="4302" END="4304">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4302" END="4304">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3603">
+          <extent>
+              <charseq START="4421" END="4425">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4421" END="4425">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3708">
+          <extent>
+              <charseq START="4513" END="4517">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4513" END="4517">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M6114">
+          <extent>
+              <charseq START="7534" END="7564">Logan at some point in the past</charseq>
+          </extent>
+          <head>
+              <charseq START="7534" END="7538">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M7702">
+          <extent>
+              <charseq START="9101" END="9105">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="9101" END="9105">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M7707">
+          <extent>
+              <charseq START="9155" END="9157">him</charseq>
+          </extent>
+          <head>
+              <charseq START="9155" END="9157">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Logan">
+              <charseq START="3060" END="3064">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="3248" END="3252">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="3571" END="3575">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="3750" END="3754">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="3910" END="3914">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4030" END="4034">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4216" END="4220">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4339" END="4343">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4421" END="4425">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4513" END="4517">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="7534" END="7538">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="9101" END="9105">Logan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E37" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E37-M2806">
+          <extent>
+              <charseq START="3363" END="3401">the desert preparing him for deployment</charseq>
+          </extent>
+          <head>
+              <charseq START="3367" END="3372">desert</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E38" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E38-M2811">
+          <extent>
+              <charseq START="3408" END="3425">his transport team</charseq>
+          </extent>
+          <head>
+              <charseq START="3422" END="3425">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M2900">
+          <extent>
+              <charseq START="3499" END="3568">a younger Nick Fury, who was also taken by surprise by the same ambush</charseq>
+          </extent>
+          <head>
+              <charseq START="3509" END="3517">Nick Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M2903">
+          <extent>
+              <charseq START="3520" END="3522">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3520" END="3522">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M3007">
+          <extent>
+              <charseq START="3710" END="3714">Fury,</charseq>
+          </extent>
+          <head>
+              <charseq START="3710" END="3713">Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M3003">
+          <extent>
+              <charseq START="3640" END="3642">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3640" END="3642">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M3202">
+          <extent>
+              <charseq START="3883" END="3886">Fury</charseq>
+          </extent>
+          <head>
+              <charseq START="3883" END="3886">Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M4301">
+          <extent>
+              <charseq START="5199" END="5207">Nick Fury</charseq>
+          </extent>
+          <head>
+              <charseq START="5199" END="5207">Nick Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M4302">
+          <extent>
+              <charseq START="5219" END="5220">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5219" END="5220">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M5200">
+          <extent>
+              <charseq START="6188" END="6196">Nick Fury</charseq>
+          </extent>
+          <head>
+              <charseq START="6188" END="6196">Nick Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nick Fury">
+              <charseq START="3509" END="3517">Nick Fury</charseq>
+          </name>
+          <name NAME="Fury">
+              <charseq START="3710" END="3713">Fury</charseq>
+          </name>
+          <name NAME="Fury">
+              <charseq START="3883" END="3886">Fury</charseq>
+          </name>
+          <name NAME="Nick Fury">
+              <charseq START="5199" END="5207">Nick Fury</charseq>
+          </name>
+          <name NAME="Nick Fury">
+              <charseq START="6188" END="6196">Nick Fury</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M2911">
+          <extent>
+              <charseq START="3613" END="3621">base camp</charseq>
+          </extent>
+          <head>
+              <charseq START="3618" END="3621">camp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M3207">
+          <extent>
+              <charseq START="3943" END="3963">the Weapon X facility</charseq>
+          </extent>
+          <head>
+              <charseq START="3956" END="3963">facility</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M3902">
+          <extent>
+              <charseq START="4700" END="4720">the Weapon X facility</charseq>
+          </extent>
+          <head>
+              <charseq START="4713" END="4720">facility</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M4707">
+          <extent>
+              <charseq START="5821" END="5880">the facility in an attempt of freeing the imprisoned mutants</charseq>
+          </extent>
+          <head>
+              <charseq START="5825" END="5832">facility</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M5204">
+          <extent>
+              <charseq START="6277" END="6288">the facility</charseq>
+          </extent>
+          <head>
+              <charseq START="6281" END="6288">facility</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M7607">
+          <extent>
+              <charseq START="9027" END="9036">a facility</charseq>
+          </extent>
+          <head>
+              <charseq START="9029" END="9036">facility</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E41" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E41-M2912">
+          <extent>
+              <charseq START="3613" END="3616">base</charseq>
+          </extent>
+          <head>
+              <charseq START="3613" END="3616">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E42" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E42-M3108">
+          <extent>
+              <charseq START="3841" END="3855">a living weapon</charseq>
+          </extent>
+          <head>
+              <charseq START="3850" END="3855">weapon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E42-M4306">
+          <extent>
+              <charseq START="5304" END="5358">a new bio weapon that was being developed by terrorists</charseq>
+          </extent>
+          <head>
+              <charseq START="5314" END="5319">weapon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E43-M3305">
+          <extent>
+              <charseq START="4005" END="4021">his mutant agents</charseq>
+          </extent>
+          <head>
+              <charseq START="4016" END="4021">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E45-M3410">
+          <extent>
+              <charseq START="4154" END="4164">Kurt Wagner</charseq>
+          </extent>
+          <head>
+              <charseq START="4154" END="4164">Kurt Wagner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E45-M7613">
+          <extent>
+              <charseq START="9072" END="9084">the name Kurt</charseq>
+          </extent>
+          <head>
+              <charseq START="9081" END="9084">Kurt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E45-M7614">
+          <extent>
+              <charseq START="9076" END="9079">name</charseq>
+          </extent>
+          <head>
+              <charseq START="9076" END="9079">name</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kurt Wagner">
+              <charseq START="4154" END="4164">Kurt Wagner</charseq>
+          </name>
+          <name NAME="Kurt">
+              <charseq START="9081" END="9084">Kurt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E46-M3411">
+          <extent>
+              <charseq START="4177" END="4186">Cain Marko</charseq>
+          </extent>
+          <head>
+              <charseq START="4177" END="4186">Cain Marko</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cain Marko">
+              <charseq START="4177" END="4186">Cain Marko</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M3409">
+          <extent>
+              <charseq START="4154" END="4171">Kurt Wagner, Rogue</charseq>
+          </extent>
+          <head>
+              <charseq START="4167" END="4171">Rogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M3906">
+          <extent>
+              <charseq START="4759" END="4763">Rogue</charseq>
+          </extent>
+          <head>
+              <charseq START="4759" END="4763">Rogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M3908">
+          <extent>
+              <charseq START="4772" END="4774">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4772" END="4774">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5704">
+          <extent>
+              <charseq START="6782" END="6786">Rogue</charseq>
+          </extent>
+          <head>
+              <charseq START="6782" END="6786">Rogue</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5707">
+          <extent>
+              <charseq START="6806" END="6808">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6806" END="6808">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5800">
+          <extent>
+              <charseq START="6907" END="6909">She</charseq>
+          </extent>
+          <head>
+              <charseq START="6907" END="6909">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5804">
+          <extent>
+              <charseq START="6933" END="6935">her</charseq>
+          </extent>
+          <head>
+              <charseq START="6933" END="6935">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5907">
+          <extent>
+              <charseq START="7017" END="7021">Rogue</charseq>
+          </extent>
+          <head>
+              <charseq START="7017" END="7021">Rogue</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E48-M3510">
+          <extent>
+              <charseq START="4285" END="4291">Magneto</charseq>
+          </extent>
+          <head>
+              <charseq START="4285" END="4291">Magneto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E48-M5806">
+          <extent>
+              <charseq START="6942" END="6948">Magneto</charseq>
+          </extent>
+          <head>
+              <charseq START="6942" END="6948">Magneto</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Magneto">
+              <charseq START="4285" END="4291">Magneto</charseq>
+          </name>
+          <name NAME="Magneto">
+              <charseq START="6942" END="6948">Magneto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E49-M3508">
+          <extent>
+              <charseq START="4269" END="4291">an assassin for Magneto</charseq>
+          </extent>
+          <head>
+              <charseq START="4272" END="4279">assassin</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E50-M3802">
+          <extent>
+              <charseq START="4538" END="4543">Xavier</charseq>
+          </extent>
+          <head>
+              <charseq START="4538" END="4543">Xavier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E50-M4606">
+          <extent>
+              <charseq START="5668" END="5673">Xavier</charseq>
+          </extent>
+          <head>
+              <charseq START="5668" END="5673">Xavier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E50-M4703">
+          <extent>
+              <charseq START="5782" END="5783">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5782" END="5783">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E50-M4802">
+          <extent>
+              <charseq START="5933" END="5938">Xavier</charseq>
+          </extent>
+          <head>
+              <charseq START="5933" END="5938">Xavier</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xavier">
+              <charseq START="4538" END="4543">Xavier</charseq>
+          </name>
+          <name NAME="Xavier">
+              <charseq START="5668" END="5673">Xavier</charseq>
+          </name>
+          <name NAME="Xavier">
+              <charseq START="5933" END="5938">Xavier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E51-M3810">
+          <extent>
+              <charseq START="4630" END="4671">other potential candidates for the program</charseq>
+          </extent>
+          <head>
+              <charseq START="4646" END="4655">candidates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E52-M3910">
+          <extent>
+              <charseq START="4831" END="4838">Colossus</charseq>
+          </extent>
+          <head>
+              <charseq START="4831" END="4838">Colossus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E53" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E53-M4104">
+          <extent>
+              <charseq START="4989" END="5004">micro explosives</charseq>
+          </extent>
+          <head>
+              <charseq START="4995" END="5004">explosives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E54" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E54-M4108">
+          <extent>
+              <charseq START="5023" END="5028">anyone</charseq>
+          </extent>
+          <head>
+              <charseq START="5023" END="5028">anyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E54-M4114">
+          <extent>
+              <charseq START="5087" END="5089">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5087" END="5089">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E55-M4112">
+          <extent>
+              <charseq START="5073" END="5085">their friends</charseq>
+          </extent>
+          <head>
+              <charseq START="5079" END="5085">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E56" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E56-M4300">
+          <extent>
+              <charseq START="5169" END="5176">One team</charseq>
+          </extent>
+          <head>
+              <charseq START="5173" END="5176">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E57" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E57-M4305">
+          <extent>
+              <charseq START="5260" END="5273">the other team</charseq>
+          </extent>
+          <head>
+              <charseq START="5270" END="5273">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E58-M4310">
+          <extent>
+              <charseq START="5349" END="5358">terrorists</charseq>
+          </extent>
+          <head>
+              <charseq START="5349" END="5358">terrorists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4400">
+          <extent>
+              <charseq START="5361" END="5369">Jean Grey</charseq>
+          </extent>
+          <head>
+              <charseq START="5361" END="5369">Jean Grey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4405">
+          <extent>
+              <charseq START="5409" END="5422">the scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="5413" END="5422">scientists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4408">
+          <extent>
+              <charseq START="5447" END="5449">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5447" END="5449">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4506">
+          <extent>
+              <charseq START="5512" END="5514">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5512" END="5514">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4509">
+          <extent>
+              <charseq START="5548" END="5550">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5548" END="5550">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean Grey">
+              <charseq START="5361" END="5369">Jean Grey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E60-M4403">
+          <extent>
+              <charseq START="5402" END="5422">one of the scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="5402" END="5404">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E61-M4503">
+          <extent>
+              <charseq START="5490" END="5496">Cyclops</charseq>
+          </extent>
+          <head>
+              <charseq START="5490" END="5496">Cyclops</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cyclops">
+              <charseq START="5490" END="5496">Cyclops</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E62-M4511">
+          <extent>
+              <charseq START="5571" END="5601">someone for the very first time</charseq>
+          </extent>
+          <head>
+              <charseq START="5571" END="5577">someone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E63-M4600">
+          <extent>
+              <charseq START="5609" END="5620">General Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="5617" END="5620">Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E63-M4601">
+          <extent>
+              <charseq START="5609" END="5615">General</charseq>
+          </extent>
+          <head>
+              <charseq START="5609" END="5615">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E63-M4607">
+          <extent>
+              <charseq START="5689" END="5723">the general with a mental explosion</charseq>
+          </extent>
+          <head>
+              <charseq START="5693" END="5699">general</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ross">
+              <charseq START="5617" END="5620">Ross</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E64-M4705">
+          <extent>
+              <charseq START="5802" END="5816">the Brotherhood</charseq>
+          </extent>
+          <head>
+              <charseq START="5806" END="5816">Brotherhood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brotherhood">
+              <charseq START="5806" END="5816">Brotherhood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E65" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E65-M4803">
+          <extent>
+              <charseq START="5965" END="5976">a helicopter</charseq>
+          </extent>
+          <head>
+              <charseq START="5967" END="5976">helicopter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E65-M4901">
+          <extent>
+              <charseq START="5994" END="6012">Wraith&apos;s helicopter</charseq>
+          </extent>
+          <head>
+              <charseq START="6003" END="6012">helicopter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E66-M5305">
+          <extent>
+              <charseq START="6383" END="6394">Alpha Flight</charseq>
+          </extent>
+          <head>
+              <charseq START="6383" END="6394">Alpha Flight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E66-M5505">
+          <extent>
+              <charseq START="6570" END="6596">Department H&apos;s Alpha Flight</charseq>
+          </extent>
+          <head>
+              <charseq START="6585" END="6596">Alpha Flight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alpha Flight">
+              <charseq START="6383" END="6394">Alpha Flight</charseq>
+          </name>
+          <name NAME="Alpha Flight">
+              <charseq START="6585" END="6596">Alpha Flight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E67" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E67-M5414">
+          <extent>
+              <charseq START="6505" END="6519">him superpowers</charseq>
+          </extent>
+          <head>
+              <charseq START="6509" END="6519">superpowers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E68" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E68-M5506">
+          <extent>
+              <charseq START="6570" END="6581">Department H</charseq>
+          </extent>
+          <head>
+              <charseq START="6570" END="6581">Department H</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Department H">
+              <charseq START="6570" END="6581">Department H</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E69-M5510">
+          <extent>
+              <charseq START="6614" END="6627">the Vindicator</charseq>
+          </extent>
+          <head>
+              <charseq START="6618" END="6627">Vindicator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vindicator">
+              <charseq START="6618" END="6627">Vindicator</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E70" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E70-M5602">
+          <extent>
+              <charseq START="6657" END="6733">Northstar, which led the X-men to find out that Wraith&apos;s team all use Banshee</charseq>
+          </extent>
+          <head>
+              <charseq START="6657" END="6665">Northstar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E70-M5604">
+          <extent>
+              <charseq START="6668" END="6672">which</charseq>
+          </extent>
+          <head>
+              <charseq START="6668" END="6672">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E70-M5715">
+          <extent>
+              <charseq START="6896" END="6904">Northstar</charseq>
+          </extent>
+          <head>
+              <charseq START="6896" END="6904">Northstar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northstar">
+              <charseq START="6657" END="6665">Northstar</charseq>
+          </name>
+          <name NAME="Northstar">
+              <charseq START="6896" END="6904">Northstar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E71-M5909">
+          <extent>
+              <charseq START="7041" END="7050">Sabertooth</charseq>
+          </extent>
+          <head>
+              <charseq START="7041" END="7050">Sabertooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sabertooth">
+              <charseq START="7041" END="7050">Sabertooth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E72-M5910">
+          <extent>
+              <charseq START="7056" END="7065">Juggernaut</charseq>
+          </extent>
+          <head>
+              <charseq START="7056" END="7065">Juggernaut</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juggernaut">
+              <charseq START="7056" END="7065">Juggernaut</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E73" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E73-M5924">
+          <extent>
+              <charseq START="7153" END="7161">Omega Red</charseq>
+          </extent>
+          <head>
+              <charseq START="7153" END="7161">Omega Red</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Omega Red">
+              <charseq START="7153" END="7161">Omega Red</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E74" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E74-M5902">
+          <extent>
+              <charseq START="6965" END="6979">few more people</charseq>
+          </extent>
+          <head>
+              <charseq START="6974" END="6979">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E75" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E75-M5931">
+          <extent>
+              <charseq START="7254" END="7277">his Weapon X adversaries</charseq>
+          </extent>
+          <head>
+              <charseq START="7267" END="7277">adversaries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E76" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E76-M6004">
+          <extent>
+              <charseq START="7308" END="7348">Colonel Moss (voiced by Michael Ironside)</charseq>
+          </extent>
+          <head>
+              <charseq START="7316" END="7319">Moss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E76-M6006">
+          <extent>
+              <charseq START="7308" END="7314">Colonel</charseq>
+          </extent>
+          <head>
+              <charseq START="7308" END="7314">Colonel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E76-M6107">
+          <extent>
+              <charseq START="7488" END="7491">Moss</charseq>
+          </extent>
+          <head>
+              <charseq START="7488" END="7491">Moss</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moss">
+              <charseq START="7316" END="7319">Moss</charseq>
+          </name>
+          <name NAME="Moss">
+              <charseq START="7488" END="7491">Moss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E77-M6008">
+          <extent>
+              <charseq START="7332" END="7347">Michael Ironside</charseq>
+          </extent>
+          <head>
+              <charseq START="7332" END="7347">Michael Ironside</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Ironside">
+              <charseq START="7332" END="7347">Michael Ironside</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E79" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E79-M6102">
+          <extent>
+              <charseq START="7418" END="7445">the Mutant Response Division</charseq>
+          </extent>
+          <head>
+              <charseq START="7422" END="7445">Mutant Response Division</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mutant Response Division">
+              <charseq START="7422" END="7445">Mutant Response Division</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E80-M6203">
+          <extent>
+              <charseq START="7589" END="7655">a cyborg, who handles putting power dampeners on mutants in prisons</charseq>
+          </extent>
+          <head>
+              <charseq START="7591" END="7596">cyborg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E80-M6205">
+          <extent>
+              <charseq START="7599" END="7601">who</charseq>
+          </extent>
+          <head>
+              <charseq START="7599" END="7601">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E81" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E81-M6210">
+          <extent>
+              <charseq START="7649" END="7655">prisons</charseq>
+          </extent>
+          <head>
+              <charseq START="7649" END="7655">prisons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E82" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E82-M6413">
+          <extent>
+              <charseq START="7837" END="7855">the Black Eyed Peas</charseq>
+          </extent>
+          <head>
+              <charseq START="7841" END="7855">Black Eyed Peas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Black Eyed Peas">
+              <charseq START="7841" END="7855">Black Eyed Peas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E83-M6502">
+          <extent>
+              <charseq START="7866" END="7874">Will.i.am</charseq>
+          </extent>
+          <head>
+              <charseq START="7866" END="7874">Will.i.am</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Will.i.am">
+              <charseq START="7866" END="7874">Will.i.am</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M6611">
+          <extent>
+              <charseq START="8028" END="8039">Nightcrawler</charseq>
+          </extent>
+          <head>
+              <charseq START="8028" END="8039">Nightcrawler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M6602">
+          <extent>
+              <charseq START="7932" END="7951">the casting director</charseq>
+          </extent>
+          <head>
+              <charseq START="7944" END="7951">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M7604">
+          <extent>
+              <charseq START="8958" END="8969">Nightcrawler</charseq>
+          </extent>
+          <head>
+              <charseq START="8958" END="8969">Nightcrawler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M7608">
+          <extent>
+              <charseq START="9049" END="9051">her</charseq>
+          </extent>
+          <head>
+              <charseq START="9049" END="9051">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M7611">
+          <extent>
+              <charseq START="9058" END="9060">she</charseq>
+          </extent>
+          <head>
+              <charseq START="9058" END="9060">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nightcrawler">
+              <charseq START="8028" END="8039">Nightcrawler</charseq>
+          </name>
+          <name NAME="Nightcrawler">
+              <charseq START="8958" END="8969">Nightcrawler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E85-M6706">
+          <extent>
+              <charseq START="8086" END="8106">James &quot;Logan&quot; Howlett</charseq>
+          </extent>
+          <head>
+              <charseq START="8086" END="8106">James &quot;Logan&quot; Howlett</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James &quot;Logan&quot; Howlett">
+              <charseq START="8086" END="8106">James &quot;Logan&quot; Howlett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M6707">
+          <extent>
+              <charseq START="8109" END="8120">Victor Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="8109" END="8120">Victor Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7202">
+          <extent>
+              <charseq START="8608" END="8612">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="8608" END="8612">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7302">
+          <extent>
+              <charseq START="8626" END="8658">Creed (knowing he killed Bradley)</charseq>
+          </extent>
+          <head>
+              <charseq START="8626" END="8630">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7300">
+          <extent>
+              <charseq START="8615" END="8616">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8615" END="8616">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7304">
+          <extent>
+              <charseq START="8641" END="8642">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8641" END="8642">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7308">
+          <extent>
+              <charseq START="8698" END="8700">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8698" END="8700">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7403">
+          <extent>
+              <charseq START="8736" END="8740">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="8736" END="8740">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7407">
+          <extent>
+              <charseq START="8794" END="8798">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="8794" END="8798">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7802">
+          <extent>
+              <charseq START="9210" END="9214">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="9210" END="9214">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Victor Creed">
+              <charseq START="8109" END="8120">Victor Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="8608" END="8612">Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="8626" END="8630">Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="8736" END="8740">Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="8794" END="8798">Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="9210" END="9214">Creed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E87-M6708">
+          <extent>
+              <charseq START="8123" END="8133">Wade Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="8123" END="8133">Wade Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wade Wilson">
+              <charseq START="8123" END="8133">Wade Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E88" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E88-M6711">
+          <extent>
+              <charseq START="8148" END="8160">Chris Bradley</charseq>
+          </extent>
+          <head>
+              <charseq START="8148" END="8160">Chris Bradley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E88-M7306">
+          <extent>
+              <charseq START="8651" END="8657">Bradley</charseq>
+          </extent>
+          <head>
+              <charseq START="8651" END="8657">Bradley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Bradley">
+              <charseq START="8148" END="8160">Chris Bradley</charseq>
+          </name>
+          <name NAME="Bradley">
+              <charseq START="8651" END="8657">Bradley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M6712">
+          <extent>
+              <charseq START="8167" END="8176">Fred Dukes</charseq>
+          </extent>
+          <head>
+              <charseq START="8167" END="8176">Fred Dukes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M6911">
+          <extent>
+              <charseq START="8363" END="8416">Dukes, who is now obese and is boxing to keep in shape</charseq>
+          </extent>
+          <head>
+              <charseq START="8363" END="8367">Dukes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M6913">
+          <extent>
+              <charseq START="8370" END="8372">who</charseq>
+          </extent>
+          <head>
+              <charseq START="8370" END="8372">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M7000">
+          <extent>
+              <charseq START="8419" END="8423">Dukes</charseq>
+          </extent>
+          <head>
+              <charseq START="8419" END="8423">Dukes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M7001">
+          <extent>
+              <charseq START="8431" END="8433">him</charseq>
+          </extent>
+          <head>
+              <charseq START="8431" END="8433">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M7004">
+          <extent>
+              <charseq START="8463" END="8465">him</charseq>
+          </extent>
+          <head>
+              <charseq START="8463" END="8465">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M7006">
+          <extent>
+              <charseq START="8467" END="8468">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8467" END="8468">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E89-M7703">
+          <extent>
+              <charseq START="9110" END="9141">Team X colleague Frederick Dukes</charseq>
+          </extent>
+          <head>
+              <charseq START="9127" END="9141">Frederick Dukes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fred Dukes">
+              <charseq START="8167" END="8176">Fred Dukes</charseq>
+          </name>
+          <name NAME="Dukes">
+              <charseq START="8363" END="8367">Dukes</charseq>
+          </name>
+          <name NAME="Dukes">
+              <charseq START="8419" END="8423">Dukes</charseq>
+          </name>
+          <name NAME="Frederick Dukes">
+              <charseq START="9127" END="9141">Frederick Dukes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E90-M6715">
+          <extent>
+              <charseq START="8203" END="8217">William Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="8203" END="8217">William Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E90-M6904">
+          <extent>
+              <charseq START="8320" END="8326">Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="8320" END="8326">Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William Stryker">
+              <charseq START="8203" END="8217">William Stryker</charseq>
+          </name>
+          <name NAME="Stryker">
+              <charseq START="8320" END="8326">Stryker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E91" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E91-M6803">
+          <extent>
+              <charseq START="8259" END="8274">a boxing manager</charseq>
+          </extent>
+          <head>
+              <charseq START="8268" END="8274">manager</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E92" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E92-M7008">
+          <extent>
+              <charseq START="8482" END="8492">Remy LeBeau</charseq>
+          </extent>
+          <head>
+              <charseq START="8482" END="8492">Remy LeBeau</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E92-M7709">
+          <extent>
+              <charseq START="9162" END="9172">Remy LeBeau</charseq>
+          </extent>
+          <head>
+              <charseq START="9162" END="9172">Remy LeBeau</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Remy LeBeau">
+              <charseq START="8482" END="8492">Remy LeBeau</charseq>
+          </name>
+          <name NAME="Remy LeBeau">
+              <charseq START="9162" END="9172">Remy LeBeau</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E93" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E93-M7106">
+          <extent>
+              <charseq START="8562" END="8569">a casino</charseq>
+          </extent>
+          <head>
+              <charseq START="8564" END="8569">casino</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E94" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E94-M7605">
+          <extent>
+              <charseq START="8995" END="9020">a pregnant Raven Darkholme</charseq>
+          </extent>
+          <head>
+              <charseq START="9006" END="9020">Raven Darkholme</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E94-M7602">
+          <extent>
+              <charseq START="8958" END="9051">Nightcrawler&apos;s father by teleporting a pregnant Raven Darkholme from a facility and asking her</charseq>
+          </extent>
+          <head>
+              <charseq START="8973" END="8978">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raven Darkholme">
+              <charseq START="9006" END="9020">Raven Darkholme</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kestrel_(Marvel_Comics).sentences.sgm-E95" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kestrel_(Marvel_Comics).sentences.sgm-E95-M7712">
+          <extent>
+              <charseq START="9198" END="9207">his casino</charseq>
+          </extent>
+          <head>
+              <charseq START="9202" END="9207">casino</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T0" VAL="P1M">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1732" END="1738">A month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T1" VAL="TNI">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="3156" END="3172">him day and night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="3756" END="3759">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T3" VAL="P2Y">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="3858" END="3880">A couple of years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T4" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="4519" END="4522">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T5">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="4741" END="4745">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="6550" END="6557">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="7557" END="7564">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T8" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="7571" END="7580">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T9" VAL="2009">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="7786" END="7789">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kestrel_(Marvel_Comics).sentences.sgm-T10" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="8377" END="8379">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R0-M600">
+          <extent>
+              <charseq START="736" END="738">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M613" ROLE="Arg-1">
+            <extent>
+              <charseq START="736" END="738">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E10-M612" ROLE="Arg-2">
+            <extent>
+              <charseq START="736" END="744">His house</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R1-M800">
+          <extent>
+              <charseq START="958" END="960">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M801" ROLE="Arg-1">
+            <extent>
+              <charseq START="958" END="960">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E14-M800" ROLE="Arg-2">
+            <extent>
+              <charseq START="958" END="972">His fellow Team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R2-M900">
+          <extent>
+              <charseq START="1120" END="1122">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E13-M907" ROLE="Arg-1">
+            <extent>
+              <charseq START="1120" END="1122">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E16-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1120" END="1136">his old teammates</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E31" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R3-M2400">
+          <extent>
+              <charseq START="2822" END="2876">a Canadian para-trooper named James &quot;Lucky Jim&quot; Howlett</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E35-M2411" ROLE="Arg-1">
+            <extent>
+              <charseq START="2822" END="2876">a Canadian para-trooper named James &quot;Lucky Jim&quot; Howlett</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E31-M2413" ROLE="Arg-2">
+            <extent>
+              <charseq START="2824" END="2831">Canadian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R4-M2900">
+          <extent>
+              <charseq START="3601" END="3603">him</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2909" ROLE="Arg-1">
+            <extent>
+              <charseq START="3601" END="3603">him</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M2911" ROLE="Arg-2">
+            <extent>
+              <charseq START="3613" END="3621">base camp</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R5-M3300">
+          <extent>
+              <charseq START="4005" END="4007">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3306" ROLE="Arg-1">
+            <extent>
+              <charseq START="4005" END="4007">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E43-M3305" ROLE="Arg-2">
+            <extent>
+              <charseq START="4005" END="4021">his mutant agents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R6-M3500">
+          <extent>
+              <charseq START="4216" END="4220">Logan</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3503" ROLE="Arg-1">
+            <extent>
+              <charseq START="4216" END="4220">Logan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E29-M3504" ROLE="Arg-2">
+            <extent>
+              <charseq START="4241" END="4292">America (unknown to them as an assassin for Magneto)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E48" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R7-M3501">
+          <extent>
+              <charseq START="4269" END="4291">an assassin for Magneto</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E49-M3508" ROLE="Arg-1">
+            <extent>
+              <charseq START="4269" END="4291">an assassin for Magneto</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E48-M3510" ROLE="Arg-2">
+            <extent>
+              <charseq START="4285" END="4291">Magneto</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E55" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R8-M4100">
+          <extent>
+              <charseq START="5073" END="5077">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M4113" ROLE="Arg-1">
+            <extent>
+              <charseq START="5073" END="5077">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E55-M4112" ROLE="Arg-2">
+            <extent>
+              <charseq START="5073" END="5085">their friends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E65" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R9-M4900">
+          <extent>
+              <charseq START="5994" END="5999">Wraith</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M4902" ROLE="Arg-1">
+            <extent>
+              <charseq START="5994" END="5999">Wraith</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E65-M4901" ROLE="Arg-2">
+            <extent>
+              <charseq START="5994" END="6012">Wraith&apos;s helicopter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E66" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R10-M5300">
+          <extent>
+              <charseq START="6369" END="6394">the leader of Alpha Flight</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5303" ROLE="Arg-1">
+            <extent>
+              <charseq START="6369" END="6394">the leader of Alpha Flight</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E66-M5305" ROLE="Arg-2">
+            <extent>
+              <charseq START="6383" END="6394">Alpha Flight</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E67" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R11-M5400">
+          <extent>
+              <charseq START="6505" END="6507">him</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M5415" ROLE="Arg-1">
+            <extent>
+              <charseq START="6505" END="6507">him</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E67-M5414" ROLE="Arg-2">
+            <extent>
+              <charseq START="6505" END="6519">him superpowers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R12" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E66" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R12-M5500">
+          <extent>
+              <charseq START="6570" END="6596">Department H&apos;s Alpha Flight</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E66-M5505" ROLE="Arg-1">
+            <extent>
+              <charseq START="6570" END="6596">Department H&apos;s Alpha Flight</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E68-M5506" ROLE="Arg-2">
+            <extent>
+              <charseq START="6570" END="6581">Department H</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R13" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E84" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E94" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R13-M7600">
+          <extent>
+              <charseq START="8958" END="8969">Nightcrawler</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E84-M7604" ROLE="Arg-1">
+            <extent>
+              <charseq START="8958" END="8969">Nightcrawler</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E94-M7602" ROLE="Arg-2">
+            <extent>
+              <charseq START="8958" END="9051">Nightcrawler&apos;s father by teleporting a pregnant Raven Darkholme from a facility and asking her</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kestrel_(Marvel_Comics).sentences.sgm-R14" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E95" ROLE="Arg-2"/>
+        <relation_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-R14-M7700">
+          <extent>
+              <charseq START="9198" END="9200">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M7713" ROLE="Arg-1">
+            <extent>
+              <charseq START="9198" END="9200">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E95-M7712" ROLE="Arg-2">
+            <extent>
+              <charseq START="9198" END="9207">his casino</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV0" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0" ROLE="Defendant"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV0-M400">
+          <extent>
+              <charseq START="520" END="526">charges</charseq>
+          </extent>
+          <anchor>
+              <charseq START="520" END="526">charges</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E0-M400" ROLE="Defendant">
+          <extent>
+              <charseq START="459" END="460">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV0-M1900">
+          <extent>
+              <charseq START="2240" END="2246">charges</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2240" END="2246">charges</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV1-M600">
+          <extent>
+              <charseq START="761" END="765">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="761" END="765">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV2-M1600">
+          <extent>
+              <charseq START="1943" END="1946">shot</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1943" END="1946">shot</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30" ROLE="Person"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV3-M2600">
+          <extent>
+              <charseq START="3132" END="3137">caging</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3132" END="3137">caging</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2614" ROLE="Person">
+          <extent>
+              <charseq START="3139" END="3141">him</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30" ROLE="Victim"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34" ROLE="Agent"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-T1" ROLE="Time-Within"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV4-M2602">
+          <extent>
+              <charseq START="3147" END="3154">shooting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3147" END="3154">shooting</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2616" ROLE="Victim">
+          <extent>
+              <charseq START="3156" END="3158">him</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M2603" ROLE="Agent">
+          <extent>
+              <charseq START="3033" END="3039">his men</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3156" END="3172">him day and night</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30" ROLE="Victim"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-T1" ROLE="Time-Within"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV5-M2603">
+          <extent>
+              <charseq START="3193" END="3195">die</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3193" END="3195">die</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2619" ROLE="Victim">
+          <extent>
+              <charseq START="3180" END="3181">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3156" END="3172">him day and night</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV6-M2700">
+          <extent>
+              <charseq START="3276" END="3282">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3276" END="3282">killing</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30" ROLE="Artifact"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV7-M2800">
+          <extent>
+              <charseq START="3343" END="3354">transporting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3343" END="3354">transporting</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E30-M2804" ROLE="Artifact">
+          <extent>
+              <charseq START="3356" END="3358">him</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E38" ROLE="Target"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV8-M2801">
+          <extent>
+              <charseq START="3431" END="3438">ambushed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3431" END="3438">ambushed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E38-M2811" ROLE="Target">
+          <extent>
+              <charseq START="3408" END="3425">his transport team</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV9-M2901">
+          <extent>
+              <charseq START="3563" END="3568">ambush</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3563" END="3568">ambush</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Artifact"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40" ROLE="Destination"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV10-M2902">
+          <extent>
+              <charseq START="3593" END="3599">brought</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3593" END="3599">brought</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M2909" ROLE="Artifact">
+          <extent>
+              <charseq START="3601" END="3603">him</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M2911" ROLE="Destination">
+          <extent>
+              <charseq START="3613" END="3621">base camp</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39" ROLE="Victim"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E3" ROLE="Agent"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV11-M3000">
+          <extent>
+              <charseq START="3702" END="3708">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3702" END="3708">killing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M3007" ROLE="Victim">
+          <extent>
+              <charseq START="3710" END="3714">Fury,</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M3004" ROLE="Agent">
+          <extent>
+              <charseq START="3663" END="3671">Wolverine</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34" ROLE="Attacker"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV12-M3001">
+          <extent>
+              <charseq START="3735" END="3739">shoot</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3735" END="3739">shoot</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E34-M3009" ROLE="Attacker">
+          <extent>
+              <charseq START="3724" END="3730">his men</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Artifact"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40" ROLE="Origin"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV13-M3201">
+          <extent>
+              <charseq START="3931" END="3936">escape</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3931" END="3936">escape</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3205" ROLE="Artifact">
+          <extent>
+              <charseq START="3927" END="3929">him</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E40-M3207" ROLE="Origin">
+          <extent>
+              <charseq START="3943" END="3963">the Weapon X facility</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV14" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E29" ROLE="Destination"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36" ROLE="Artifact"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV14-M3500">
+          <extent>
+              <charseq START="4226" END="4231">headed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4226" END="4231">headed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E29-M3504" ROLE="Destination">
+          <extent>
+              <charseq START="4241" END="4292">America (unknown to them as an assassin for Magneto)</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E36-M3503" ROLE="Artifact">
+          <extent>
+              <charseq START="4216" END="4220">Logan</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV15" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV15-M3900">
+          <extent>
+              <charseq START="4686" END="4695">imprisoned</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4686" END="4695">imprisoned</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV16" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV16-M3901">
+          <extent>
+              <charseq START="4727" END="4734">tortured</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4727" END="4734">tortured</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV17" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39" ROLE="Person"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E56" ROLE="Entity"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV17-M4300">
+          <extent>
+              <charseq START="5194" END="5197">free</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5194" END="5197">free</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M4301" ROLE="Person">
+          <extent>
+              <charseq START="5199" END="5207">Nick Fury</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E56-M4300" ROLE="Entity">
+          <extent>
+              <charseq START="5169" END="5176">One team</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV18" TYPE="Justice" SUBTYPE="Execute" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E60" ROLE="Person"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV18-M4401">
+          <extent>
+              <charseq START="5394" END="5400">execute</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5394" END="5400">execute</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E60-M4403" ROLE="Person">
+          <extent>
+              <charseq START="5402" END="5422">one of the scientists</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV19" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E59" ROLE="Agent"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV19-M4501">
+          <extent>
+              <charseq START="5566" END="5569">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5566" END="5569">kill</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E59-M4509" ROLE="Agent">
+          <extent>
+              <charseq START="5548" END="5550">she</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV20" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV20-M4600">
+          <extent>
+              <charseq START="5715" END="5723">explosion</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5715" END="5723">explosion</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E50" ROLE="Target"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV21-M4800">
+          <extent>
+              <charseq START="5928" END="5931">shot</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5928" END="5931">shot</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E50-M4802" ROLE="Target">
+          <extent>
+              <charseq START="5933" END="5938">Xavier</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV22" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV22-M5101">
+          <extent>
+              <charseq START="6155" END="6158">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6155" END="6158">kill</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV23" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39" ROLE="Person"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV23-M5201">
+          <extent>
+              <charseq START="6207" END="6213">gunning</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6207" END="6213">gunning</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E39-M5200" ROLE="Person">
+          <extent>
+              <charseq START="6188" END="6196">Nick Fury</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV24" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E47" ROLE="Agent"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV24-M5801">
+          <extent>
+              <charseq START="6937" END="6940">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6937" END="6940">kill</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E47-M5804" ROLE="Agent">
+          <extent>
+              <charseq START="6933" END="6935">her</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV25" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86" ROLE="Attacker"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV25-M7302">
+          <extent>
+              <charseq START="8618" END="8624">battles</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8618" END="8624">battles</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7300" ROLE="Attacker">
+          <extent>
+              <charseq START="8615" END="8616">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV26" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E88" ROLE="Victim"/>
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86" ROLE="Agent"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV26-M7303">
+          <extent>
+              <charseq START="8644" END="8649">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8644" END="8649">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E88-M7306" ROLE="Victim">
+          <extent>
+              <charseq START="8651" END="8657">Bradley</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7304" ROLE="Agent">
+          <extent>
+              <charseq START="8641" END="8642">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV27" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86" ROLE="Victim"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV27-M7304">
+          <extent>
+              <charseq START="8681" END="8686">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8681" END="8686">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E86-M7300" ROLE="Victim">
+          <extent>
+              <charseq START="8615" END="8616">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV28" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E3" ROLE="Attacker"/>
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV28-M7400">
+          <extent>
+              <charseq START="8786" END="8792">battles</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8786" END="8792">battles</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kestrel_(Marvel_Comics).sentences.sgm-E3-M7406" ROLE="Attacker">
+          <extent>
+              <charseq START="8776" END="8784">Wolverine</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV29-M7801">
+          <extent>
+              <charseq START="9222" END="9228">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9222" END="9228">attacks</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Kestrel_(Marvel_Comics).sentences.sgm-EV30" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Kestrel_(Marvel_Comics).sentences.sgm-EV30-M7802">
+          <extent>
+              <charseq START="9234" END="9238">kills</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9234" END="9238">kills</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

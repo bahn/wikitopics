@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="COROT-7b.sentences.sgm">
+  <document DOCID="COROT-7b.sentences.sgm">
+
+    <entity ID="COROT-7b.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="25" END="33">COROT-Exo</charseq>
+          </extent>
+          <head>
+              <charseq START="25" END="33">COROT-Exo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="70" END="89">the star CoRoT-Exo-7</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="87">CoRoT-Exo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M105">
+          <extent>
+              <charseq START="126" END="130">COROT</charseq>
+          </extent>
+          <head>
+              <charseq START="126" END="130">COROT</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M1311">
+          <extent>
+              <charseq START="1317" END="1321">CoRoT</charseq>
+          </extent>
+          <head>
+              <charseq START="1317" END="1321">CoRoT</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E0-M1310">
+          <extent>
+              <charseq START="1313" END="1326">the CoRoT team</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1326">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E0-M1409">
+          <extent>
+              <charseq START="1518" END="1520">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1518" END="1520">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M1602">
+          <extent>
+              <charseq START="1771" END="1779">CoRoT-Exo</charseq>
+          </extent>
+          <head>
+              <charseq START="1771" END="1779">CoRoT-Exo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M1711">
+          <extent>
+              <charseq START="1980" END="1984">CoRoT</charseq>
+          </extent>
+          <head>
+              <charseq START="1980" END="1984">CoRoT</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E0-M1804">
+          <extent>
+              <charseq START="2033" END="2037">COROT</charseq>
+          </extent>
+          <head>
+              <charseq START="2033" END="2037">COROT</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="COROT-Exo">
+              <charseq START="25" END="33">COROT-Exo</charseq>
+          </name>
+          <name NAME="CoRoT-Exo">
+              <charseq START="79" END="87">CoRoT-Exo</charseq>
+          </name>
+          <name NAME="COROT">
+              <charseq START="126" END="130">COROT</charseq>
+          </name>
+          <name NAME="CoRoT">
+              <charseq START="1317" END="1321">CoRoT</charseq>
+          </name>
+          <name NAME="CoRoT-Exo">
+              <charseq START="1771" END="1779">CoRoT-Exo</charseq>
+          </name>
+          <name NAME="CoRoT">
+              <charseq START="1980" END="1984">CoRoT</charseq>
+          </name>
+          <name NAME="COROT">
+              <charseq START="2033" END="2037">COROT</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M4">
+          <extent>
+              <charseq START="74" END="77">star</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="77">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M402">
+          <extent>
+              <charseq START="312" END="354">its star with an orbital period of 20 hours</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="319">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M500">
+          <extent>
+              <charseq START="357" END="397">The star, in the constellation Monoceros,</charseq>
+          </extent>
+          <head>
+              <charseq START="361" END="364">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M1107">
+          <extent>
+              <charseq START="1062" END="1071">their star</charseq>
+          </extent>
+          <head>
+              <charseq START="1068" END="1071">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M1408">
+          <extent>
+              <charseq START="1518" END="1532">its mother star</charseq>
+          </extent>
+          <head>
+              <charseq START="1529" END="1532">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M1416">
+          <extent>
+              <charseq START="1586" END="1593">the star</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1593">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E1-M1507">
+          <extent>
+              <charseq START="1701" END="1708">the star</charseq>
+          </extent>
+          <head>
+              <charseq START="1705" END="1708">star</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E2-M104">
+          <extent>
+              <charseq START="115" END="120">French</charseq>
+          </extent>
+          <head>
+              <charseq START="115" END="120">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E2-M205">
+          <extent>
+              <charseq START="186" END="188">its</charseq>
+          </extent>
+          <head>
+              <charseq START="186" END="188">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="115" END="120">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E3" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E3-M208">
+          <extent>
+              <charseq START="230" END="238">the Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="238">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M600">
+          <extent>
+              <charseq START="456" END="465">The planet</charseq>
+          </extent>
+          <head>
+              <charseq START="460" END="465">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E3-M808">
+          <extent>
+              <charseq START="712" END="716">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="716">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M804">
+          <extent>
+              <charseq START="626" END="635">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="630" END="635">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1003">
+          <extent>
+              <charseq START="880" END="894">an ocean planet</charseq>
+          </extent>
+          <head>
+              <charseq START="889" END="894">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1008">
+          <extent>
+              <charseq START="907" END="912">planet</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="912">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1203">
+          <extent>
+              <charseq START="1159" END="1168">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1168">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1205">
+          <extent>
+              <charseq START="1205" END="1224">an extrasolar planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1224">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1312">
+          <extent>
+              <charseq START="1329" END="1338">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1333" END="1338">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E3-M1417">
+          <extent>
+              <charseq START="1609" END="1613">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="1609" END="1613">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1413">
+          <extent>
+              <charseq START="1563" END="1572">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1567" END="1572">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1511">
+          <extent>
+              <charseq START="1735" END="1744">the planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1739" END="1744">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E3-M1801">
+          <extent>
+              <charseq START="1987" END="1996">The planet</charseq>
+          </extent>
+          <head>
+              <charseq START="1991" END="1996">planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Earth">
+              <charseq START="234" END="238">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="712" END="716">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="1609" END="1613">Earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E4-M505">
+          <extent>
+              <charseq START="438" END="444">the Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="442" END="444">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sun">
+              <charseq START="442" END="444">Sun</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E5" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E5-M904">
+          <extent>
+              <charseq START="752" END="758">planets</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="758">planets</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E5-M1101">
+          <extent>
+              <charseq START="970" END="981">such planets</charseq>
+          </extent>
+          <head>
+              <charseq START="975" END="981">planets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E7-M1000">
+          <extent>
+              <charseq START="840" END="853">The scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="844" END="853">scientists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E7-M1103">
+          <extent>
+              <charseq START="1031" END="1034">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1031" END="1034">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E7-M1108">
+          <extent>
+              <charseq START="1062" END="1066">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1062" END="1066">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E8-M1004">
+          <extent>
+              <charseq START="883" END="887">ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="887">ocean</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E10-M1301">
+          <extent>
+              <charseq START="1240" END="1254">Suzanne Aigrain</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1254">Suzanne Aigrain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E10-M1302">
+          <extent>
+              <charseq START="1257" END="1326">a researcher at the University of Exeter who is part of the CoRoT team</charseq>
+          </extent>
+          <head>
+              <charseq START="1259" END="1268">researcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E10-M1307">
+          <extent>
+              <charseq START="1298" END="1300">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1298" END="1300">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Suzanne Aigrain">
+              <charseq START="1240" END="1254">Suzanne Aigrain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E11-M1304">
+          <extent>
+              <charseq START="1273" END="1326">the University of Exeter who is part of the CoRoT team</charseq>
+          </extent>
+          <head>
+              <charseq START="1277" END="1296">University of Exeter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="COROT-7b.sentences.sgm-E11-M1308">
+          <extent>
+              <charseq START="1305" END="1326">part of the CoRoT team</charseq>
+          </extent>
+          <head>
+              <charseq START="1305" END="1308">part</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Exeter">
+              <charseq START="1277" END="1296">University of Exeter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E12" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E12-M1400">
+          <extent>
+              <charseq START="1440" END="1448">Discovery</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1448">Discovery</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Discovery">
+              <charseq START="1440" END="1448">Discovery</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E13-M1605">
+          <extent>
+              <charseq START="1825" END="1857">the CoRoT Symposium 2009 in Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1829" END="1848">CoRoT Symposium 2009</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CoRoT Symposium 2009">
+              <charseq START="1829" END="1848">CoRoT Symposium 2009</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E14-M1608" ROLE="LOC">
+          <extent>
+              <charseq START="1853" END="1857">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1857">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="1853" END="1857">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E15-M1707">
+          <extent>
+              <charseq START="1927" END="1935">Astronomy</charseq>
+          </extent>
+          <head>
+              <charseq START="1927" END="1935">Astronomy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E15-M1704">
+          <extent>
+              <charseq START="1915" END="1952">the journal Astronomy and Astrophysics</charseq>
+          </extent>
+          <head>
+              <charseq START="1919" END="1925">journal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Astronomy">
+              <charseq START="1927" END="1935">Astronomy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E16-M1808">
+          <extent>
+              <charseq START="2066" END="2084">COnvection ROtation</charseq>
+          </extent>
+          <head>
+              <charseq START="2066" END="2084">COnvection ROtation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="COnvection ROtation">
+              <charseq START="2066" END="2084">COnvection ROtation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E17-M1904">
+          <extent>
+              <charseq START="2128" END="2146">French Space Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2128" END="2146">French Space Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French Space Agency">
+              <charseq START="2128" END="2146">French Space Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E18-M1907">
+          <extent>
+              <charseq START="2173" END="2197">the European Space Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2177" END="2197">European Space Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Space Agency">
+              <charseq START="2177" END="2197">European Space Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E19-M1910" ROLE="LOC">
+          <extent>
+              <charseq START="2200" END="2206">Austria</charseq>
+          </extent>
+          <head>
+              <charseq START="2200" END="2206">Austria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austria">
+              <charseq START="2200" END="2206">Austria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E20-M1911" ROLE="LOC">
+          <extent>
+              <charseq START="2209" END="2215">Belgium</charseq>
+          </extent>
+          <head>
+              <charseq START="2209" END="2215">Belgium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgium">
+              <charseq START="2209" END="2215">Belgium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E21-M1912" ROLE="LOC">
+          <extent>
+              <charseq START="2218" END="2224">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="2218" END="2224">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Germany">
+              <charseq START="2218" END="2224">Germany</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E22-M1913" ROLE="LOC">
+          <extent>
+              <charseq START="2227" END="2231">Spain</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2231">Spain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spain">
+              <charseq START="2227" END="2231">Spain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="COROT-7b.sentences.sgm-E23-M1914" ROLE="LOC">
+          <extent>
+              <charseq START="2238" END="2243">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="2238" END="2243">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazil">
+              <charseq START="2238" END="2243">Brazil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="COROT-7b.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="COROT-7b.sentences.sgm-E24-M1902">
+          <extent>
+              <charseq START="2124" END="2168">the French Space Agency CNES with involvement</charseq>
+          </extent>
+          <head>
+              <charseq START="2148" END="2151">CNES</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T0" VAL="2009">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="143" END="146">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T1" VAL="PT20H">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="329" END="354">orbital period of 20 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T2" VAL="1000">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="507" END="510">1000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T3" VAL="PT20H">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1123" END="1156">an orbital period of just 20 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T4" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1368" END="1377">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T5" VAL="2009-02-03">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1801" END="1815">3 February 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T6" VAL="2009">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1845" END="1848">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="COROT-7b.sentences.sgm-T7" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="COROT-7b.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2000" END="2006">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="COROT-7b.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="COROT-7b.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="COROT-7b.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="COROT-7b.sentences.sgm-R0-M1300">
+          <extent>
+              <charseq START="1257" END="1326">a researcher at the University of Exeter who is part of the CoRoT team</charseq>
+          </extent>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E10-M1302" ROLE="Arg-1">
+            <extent>
+              <charseq START="1257" END="1326">a researcher at the University of Exeter who is part of the CoRoT team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E11-M1304" ROLE="Arg-2">
+            <extent>
+              <charseq START="1273" END="1326">the University of Exeter who is part of the CoRoT team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="COROT-7b.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="COROT-7b.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="COROT-7b.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="COROT-7b.sentences.sgm-R1-M1301">
+          <extent>
+              <charseq START="1305" END="1326">part of the CoRoT team</charseq>
+          </extent>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E11-M1308" ROLE="Arg-1">
+            <extent>
+              <charseq START="1305" END="1326">part of the CoRoT team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E0-M1310" ROLE="Arg-2">
+            <extent>
+              <charseq START="1313" END="1326">the CoRoT team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="COROT-7b.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="COROT-7b.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="COROT-7b.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="COROT-7b.sentences.sgm-R2-M1600">
+          <extent>
+              <charseq START="1825" END="1857">the CoRoT Symposium 2009 in Paris</charseq>
+          </extent>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E13-M1605" ROLE="Arg-1">
+            <extent>
+              <charseq START="1825" END="1857">the CoRoT Symposium 2009 in Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="COROT-7b.sentences.sgm-E14-M1608" ROLE="Arg-2">
+            <extent>
+              <charseq START="1853" END="1857">Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

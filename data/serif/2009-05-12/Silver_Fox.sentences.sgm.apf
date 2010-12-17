@@ -1,0 +1,2248 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Silver_Fox.sentences.sgm">
+  <document DOCID="Silver_Fox.sentences.sgm">
+
+    <entity ID="Silver_Fox.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="27" END="36">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="36">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="103" END="142">Fictional character biography
+Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="133" END="142">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="123" END="131">biography</charseq>
+          </extent>
+          <head>
+              <charseq START="123" END="131">biography</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E0-M104">
+          <extent>
+              <charseq START="147" END="243">a lover of Wolverine who first appeared in Wolverine vol.2 #10, where she is killed by Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="153">lover</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E0-M107">
+          <extent>
+              <charseq START="168" END="170">who</charseq>
+          </extent>
+          <head>
+              <charseq START="168" END="170">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E0-M112">
+          <extent>
+              <charseq START="211" END="215">where</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="215">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="413" END="415">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="415">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="528" END="537">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="528" END="537">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="778" END="787">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="787">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M903">
+          <extent>
+              <charseq START="1100" END="1109">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1109">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1168" END="1177">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1168" END="1177">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1200">
+          <extent>
+              <charseq START="1404" END="1413">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1411" END="1413">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E0-M1201">
+          <extent>
+              <charseq START="1404" END="1409">Silver</charseq>
+          </extent>
+          <head>
+              <charseq START="1404" END="1409">Silver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1302">
+          <extent>
+              <charseq START="1481" END="1490">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1490">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E0-M1303">
+          <extent>
+              <charseq START="1481" END="1486">Silver</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1486">Silver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1411">
+          <extent>
+              <charseq START="1633" END="1642">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1642">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1707">
+          <extent>
+              <charseq START="1983" END="1992">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1983" END="1992">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M1802">
+          <extent>
+              <charseq START="2017" END="2026">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="2017" END="2026">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M2309">
+          <extent>
+              <charseq START="2586" END="2595">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2595">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E0-M2302">
+          <extent>
+              <charseq START="2534" END="2537">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2534" END="2537">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M2507">
+          <extent>
+              <charseq START="2880" END="2905">Silver Fox on his birthday</charseq>
+          </extent>
+          <head>
+              <charseq START="2880" END="2889">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M2605">
+          <extent>
+              <charseq START="3019" END="3028">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="3019" END="3028">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M2803">
+          <extent>
+              <charseq START="3298" END="3307">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="3298" END="3307">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M3200">
+          <extent>
+              <charseq START="3694" END="3726">Other media
+Television
+Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="3706" END="3726">Television
+Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E0-M3201">
+          <extent>
+              <charseq START="3700" END="3704">media</charseq>
+          </extent>
+          <head>
+              <charseq START="3700" END="3704">media</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M3503">
+          <extent>
+              <charseq START="4111" END="4120">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="4111" END="4120">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E0-M3702">
+          <extent>
+              <charseq START="4242" END="4251">Silver Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="4242" END="4251">Silver Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silver Fox">
+              <charseq START="27" END="36">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="133" END="142">Silver Fox</charseq>
+          </name>
+          <name NAME="Fox">
+              <charseq START="413" END="415">Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="528" END="537">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="778" END="787">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="1100" END="1109">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="1168" END="1177">Silver Fox</charseq>
+          </name>
+          <name NAME="Fox">
+              <charseq START="1411" END="1413">Fox</charseq>
+          </name>
+          <name NAME="Fox">
+              <charseq START="1488" END="1490">Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="1633" END="1642">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="1983" END="1992">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="2017" END="2026">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="2586" END="2595">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="2880" END="2889">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="3019" END="3028">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="3298" END="3307">Silver Fox</charseq>
+          </name>
+          <name NAME="Television
+Silver Fox">
+              <charseq START="3706" END="3726">Television
+Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="4111" END="4120">Silver Fox</charseq>
+          </name>
+          <name NAME="Silver Fox">
+              <charseq START="4242" END="4251">Silver Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E1-M6">
+          <extent>
+              <charseq START="79" END="91">Marvel Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="91">Marvel Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel Comics">
+              <charseq START="79" END="91">Marvel Comics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E2-M2">
+          <extent>
+              <charseq START="41" END="61">a fictional character</charseq>
+          </extent>
+          <head>
+              <charseq START="53" END="61">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M113">
+          <extent>
+              <charseq START="217" END="219">she</charseq>
+          </extent>
+          <head>
+              <charseq START="217" END="219">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M200">
+          <extent>
+              <charseq START="246" END="248">She</charseq>
+          </extent>
+          <head>
+              <charseq START="246" END="248">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M500">
+          <extent>
+              <charseq START="599" END="601">She</charseq>
+          </extent>
+          <head>
+              <charseq START="599" END="601">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M601">
+          <extent>
+              <charseq START="710" END="712">her</charseq>
+          </extent>
+          <head>
+              <charseq START="710" END="712">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M605">
+          <extent>
+              <charseq START="751" END="753">she</charseq>
+          </extent>
+          <head>
+              <charseq START="751" END="753">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M800">
+          <extent>
+              <charseq START="986" END="988">she</charseq>
+          </extent>
+          <head>
+              <charseq START="986" END="988">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M1500">
+          <extent>
+              <charseq START="1694" END="1696">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1696">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M1903">
+          <extent>
+              <charseq START="2098" END="2100">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2098" END="2100">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M2204">
+          <extent>
+              <charseq START="2504" END="2506">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2504" END="2506">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E2-M2403">
+          <extent>
+              <charseq START="2640" END="2642">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2640" END="2642">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M106">
+          <extent>
+              <charseq START="158" END="166">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="166">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M110">
+          <extent>
+              <charseq START="190" END="198">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="198">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M702">
+          <extent>
+              <charseq START="829" END="837">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="829" END="837">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M2501">
+          <extent>
+              <charseq START="2794" END="2806">Wolverine Vol</charseq>
+          </extent>
+          <head>
+              <charseq START="2794" END="2806">Wolverine Vol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M2503">
+          <extent>
+              <charseq START="2815" END="2823">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="2815" END="2823">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E3-M3310">
+          <extent>
+              <charseq START="3907" END="3915">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="3907" END="3915">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolverine">
+              <charseq START="158" END="166">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="190" END="198">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="829" END="837">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine Vol">
+              <charseq START="2794" END="2806">Wolverine Vol</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="2815" END="2823">Wolverine</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="3907" END="3915">Wolverine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E4-M115">
+          <extent>
+              <charseq START="234" END="243">Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="243">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E4-M600">
+          <extent>
+              <charseq START="692" END="701">Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="701">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M608">
+          <extent>
+              <charseq START="764" END="766">his</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="766">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M715">
+          <extent>
+              <charseq START="925" END="927">his</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="927">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M716">
+          <extent>
+              <charseq START="938" END="939">he</charseq>
+          </extent>
+          <head>
+              <charseq START="938" END="939">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E4-M802">
+          <extent>
+              <charseq START="996" END="1063">the professor who had been in charge of the program after Logan left</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1008">professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M804">
+          <extent>
+              <charseq START="1010" END="1012">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1012">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E4-M1602">
+          <extent>
+              <charseq START="1833" END="1914">the man who had implanted them with their false memories: Aldo Ferro, the Psi-Borg</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1839">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M1605">
+          <extent>
+              <charseq START="1841" END="1843">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1841" END="1843">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E4-M2506">
+          <extent>
+              <charseq START="2861" END="2870">Sabretooth</charseq>
+          </extent>
+          <head>
+              <charseq START="2861" END="2870">Sabretooth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E4-M2510">
+          <extent>
+              <charseq START="2894" END="2896">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2896">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sabretooth">
+              <charseq START="234" END="243">Sabretooth</charseq>
+          </name>
+          <name NAME="Sabretooth">
+              <charseq START="692" END="701">Sabretooth</charseq>
+          </name>
+          <name NAME="Sabretooth">
+              <charseq START="2861" END="2870">Sabretooth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E5-M208">
+          <extent>
+              <charseq START="331" END="337">the CIA</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="337">CIA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E5-M210">
+          <extent>
+              <charseq START="360" END="410">one of a few female victims of the Weapon X project</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="362">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CIA">
+              <charseq START="335" END="337">CIA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E6-M202">
+          <extent>
+              <charseq START="284" END="302">a member of &quot;Team X</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="291">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E6-M302">
+          <extent>
+              <charseq START="444" END="497">a member of HYDRA, a subversive terrorist organization</charseq>
+          </extent>
+          <head>
+              <charseq START="446" END="451">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E6-M3304">
+          <extent>
+              <charseq START="3887" END="3924">a member of Team X, Wolverine&apos;s lover,</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3894">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E7-M206">
+          <extent>
+              <charseq START="306" END="329">the best covert ops team</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="329">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E8-M212">
+          <extent>
+              <charseq START="367" END="410">a few female victims of the Weapon X project</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="386">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E9-M301">
+          <extent>
+              <charseq START="425" END="430">Team X</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="430">Team X</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Team X">
+              <charseq START="425" END="430">Team X</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E10-M305">
+          <extent>
+              <charseq START="456" END="460">HYDRA</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="460">HYDRA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E10-M306">
+          <extent>
+              <charseq START="463" END="497">a subversive terrorist organization</charseq>
+          </extent>
+          <head>
+              <charseq START="486" END="497">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E10-M908">
+          <extent>
+              <charseq START="1141" END="1145">Hydra</charseq>
+          </extent>
+          <head>
+              <charseq START="1141" END="1145">Hydra</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E10-M2109">
+          <extent>
+              <charseq START="2343" END="2347">Hydra</charseq>
+          </extent>
+          <head>
+              <charseq START="2343" END="2347">Hydra</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HYDRA">
+              <charseq START="456" END="460">HYDRA</charseq>
+          </name>
+          <name NAME="Hydra">
+              <charseq START="1141" END="1145">Hydra</charseq>
+          </name>
+          <name NAME="Hydra">
+              <charseq START="2343" END="2347">Hydra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M402">
+          <extent>
+              <charseq START="550" END="554">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="554">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M604">
+          <extent>
+              <charseq START="717" END="721">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="717" END="721">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M808">
+          <extent>
+              <charseq START="1054" END="1058">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1058">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M1414">
+          <extent>
+              <charseq START="1658" END="1662">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="1658" END="1662">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M1502">
+          <extent>
+              <charseq START="1709" END="1713">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="1709" END="1713">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M1504">
+          <extent>
+              <charseq START="1778" END="1780">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1778" END="1780">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M1901">
+          <extent>
+              <charseq START="2077" END="2081">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="2077" END="2081">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M2003">
+          <extent>
+              <charseq START="2171" END="2175">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="2171" END="2175">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E11-M2000">
+          <extent>
+              <charseq START="2137" END="2160">The father at the church</charseq>
+          </extent>
+          <head>
+              <charseq START="2141" END="2146">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M2301">
+          <extent>
+              <charseq START="2523" END="2527">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="2523" END="2527">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M2307">
+          <extent>
+              <charseq START="2561" END="2562">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2561" END="2562">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M2400">
+          <extent>
+              <charseq START="2613" END="2614">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2613" END="2614">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M2420">
+          <extent>
+              <charseq START="2753" END="2754">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2753" END="2754">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M3721">
+          <extent>
+              <charseq START="4412" END="4416">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4412" END="4416">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E11-M3804">
+          <extent>
+              <charseq START="4485" END="4489">Logan</charseq>
+          </extent>
+          <head>
+              <charseq START="4485" END="4489">Logan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M3808">
+          <extent>
+              <charseq START="4518" END="4520">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4518" END="4520">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M3817">
+          <extent>
+              <charseq START="4578" END="4580">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4578" END="4580">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E11-M3824">
+          <extent>
+              <charseq START="4644" END="4646">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4644" END="4646">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Logan">
+              <charseq START="550" END="554">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="717" END="721">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="1054" END="1058">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="1658" END="1662">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="1709" END="1713">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="2077" END="2081">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="2171" END="2175">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="2523" END="2527">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4412" END="4416">Logan</charseq>
+          </name>
+          <name NAME="Logan">
+              <charseq START="4485" END="4489">Logan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E12-M403" ROLE="LOC">
+          <extent>
+              <charseq START="559" END="564">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="564">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="559" END="564">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E13-M503">
+          <extent>
+              <charseq START="604" END="630">a Native Canadian Blackfoot</charseq>
+          </extent>
+          <head>
+              <charseq START="606" END="630">Native Canadian Blackfoot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E13-M507">
+          <extent>
+              <charseq START="641" END="654">a frontiersman</charseq>
+          </extent>
+          <head>
+              <charseq START="643" END="654">frontiersman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E13-M505">
+          <extent>
+              <charseq START="637" END="638">he</charseq>
+          </extent>
+          <head>
+              <charseq START="637" END="638">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Native Canadian Blackfoot">
+              <charseq START="606" END="630">Native Canadian Blackfoot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E14-M703">
+          <extent>
+              <charseq START="851" END="883">the members of the Weapon X staff</charseq>
+          </extent>
+          <head>
+              <charseq START="855" END="861">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E15-M705">
+          <extent>
+              <charseq START="866" END="883">the Weapon X staff</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="883">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E16-M708">
+          <extent>
+              <charseq START="899" END="971">the studios where many of his memories he believes to be real were staged</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="909">studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E16-M710">
+          <extent>
+              <charseq START="911" END="915">where</charseq>
+          </extent>
+          <head>
+              <charseq START="911" END="915">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E17-M906">
+          <extent>
+              <charseq START="1128" END="1145">a section of Hydra</charseq>
+          </extent>
+          <head>
+              <charseq START="1130" END="1136">section</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E18-M1002">
+          <extent>
+              <charseq START="1201" END="1206">Reiko,</charseq>
+          </extent>
+          <head>
+              <charseq START="1201" END="1205">Reiko</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E18-M1008">
+          <extent>
+              <charseq START="1235" END="1239">Reiko</charseq>
+          </extent>
+          <head>
+              <charseq START="1235" END="1239">Reiko</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E18-M1203">
+          <extent>
+              <charseq START="1421" END="1425">Reiko</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1425">Reiko</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reiko">
+              <charseq START="1201" END="1205">Reiko</charseq>
+          </name>
+          <name NAME="Reiko">
+              <charseq START="1235" END="1239">Reiko</charseq>
+          </name>
+          <name NAME="Reiko">
+              <charseq START="1421" END="1425">Reiko</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E19-M1009">
+          <extent>
+              <charseq START="1249" END="1276">Hand Jonin Matsu&apos;o Tsurayaba</charseq>
+          </extent>
+          <head>
+              <charseq START="1249" END="1276">Hand Jonin Matsu&apos;o Tsurayaba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E19-M1007">
+          <extent>
+              <charseq START="1235" END="1246">Reiko&apos;s boss</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1246">boss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E19-M1001">
+          <extent>
+              <charseq START="1188" END="1206">the assassin Reiko,</charseq>
+          </extent>
+          <head>
+              <charseq START="1192" END="1199">assassin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E19-M1100">
+          <extent>
+              <charseq START="1279" END="1285">Matsu&apos;o</charseq>
+          </extent>
+          <head>
+              <charseq START="1279" END="1285">Matsu&apos;o</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E19-M1205">
+          <extent>
+              <charseq START="1457" END="1461">Matsu</charseq>
+          </extent>
+          <head>
+              <charseq START="1457" END="1461">Matsu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E19-M1207">
+          <extent>
+              <charseq START="1470" END="1471">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1471">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E19-M1410">
+          <extent>
+              <charseq START="1610" END="1612">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1610" END="1612">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hand Jonin Matsu&apos;o Tsurayaba">
+              <charseq START="1249" END="1276">Hand Jonin Matsu&apos;o Tsurayaba</charseq>
+          </name>
+          <name NAME="Matsu&apos;o">
+              <charseq START="1279" END="1285">Matsu&apos;o</charseq>
+          </name>
+          <name NAME="Matsu">
+              <charseq START="1457" END="1461">Matsu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E20-M1104">
+          <extent>
+              <charseq START="1322" END="1333">Clan Yashida</charseq>
+          </extent>
+          <head>
+              <charseq START="1322" END="1333">Clan Yashida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clan Yashida">
+              <charseq START="1322" END="1333">Clan Yashida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E21-M1106">
+          <extent>
+              <charseq START="1367" END="1380">Mariko Yashida</charseq>
+          </extent>
+          <head>
+              <charseq START="1367" END="1380">Mariko Yashida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E21-M1204">
+          <extent>
+              <charseq START="1442" END="1447">Mariko</charseq>
+          </extent>
+          <head>
+              <charseq START="1442" END="1447">Mariko</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mariko Yashida">
+              <charseq START="1367" END="1380">Mariko Yashida</charseq>
+          </name>
+          <name NAME="Mariko">
+              <charseq START="1442" END="1447">Mariko</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E22-M1401">
+          <extent>
+              <charseq START="1539" END="1546">Mastodon</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1546">Mastodon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E22-M1402">
+          <extent>
+              <charseq START="1549" END="1580">a member of the Weapon X Program</charseq>
+          </extent>
+          <head>
+              <charseq START="1551" END="1556">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mastodon">
+              <charseq START="1539" END="1546">Mastodon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E23-M1415">
+          <extent>
+              <charseq START="1665" END="1669">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="1665" END="1669">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E23-M1706">
+          <extent>
+              <charseq START="1972" END="1976">Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="1972" END="1976">Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E23-M3722">
+          <extent>
+              <charseq START="4422" END="4433">Victor Creed</charseq>
+          </extent>
+          <head>
+              <charseq START="4422" END="4433">Victor Creed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Creed">
+              <charseq START="1665" END="1669">Creed</charseq>
+          </name>
+          <name NAME="Creed">
+              <charseq START="1972" END="1976">Creed</charseq>
+          </name>
+          <name NAME="Victor Creed">
+              <charseq START="4422" END="4433">Victor Creed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E24-M1611">
+          <extent>
+              <charseq START="1891" END="1900">Aldo Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="1891" END="1900">Aldo Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E24-M1700">
+          <extent>
+              <charseq START="1917" END="1921">Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="1917" END="1921">Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E24-M1801">
+          <extent>
+              <charseq START="2001" END="2005">Ferro</charseq>
+          </extent>
+          <head>
+              <charseq START="2001" END="2005">Ferro</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aldo Ferro">
+              <charseq START="1891" END="1900">Aldo Ferro</charseq>
+          </name>
+          <name NAME="Ferro">
+              <charseq START="1917" END="1921">Ferro</charseq>
+          </name>
+          <name NAME="Ferro">
+              <charseq START="2001" END="2005">Ferro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E25-M1612">
+          <extent>
+              <charseq START="1903" END="1914">the Psi-Borg</charseq>
+          </extent>
+          <head>
+              <charseq START="1907" END="1914">Psi-Borg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E25-M1600">
+          <extent>
+              <charseq START="1783" END="1791">The group</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1791">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E25-M1609">
+          <extent>
+              <charseq START="1869" END="1873">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1869" END="1873">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E25-M1704">
+          <extent>
+              <charseq START="1940" END="1944">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1940" END="1944">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Psi-Borg">
+              <charseq START="1907" END="1914">Psi-Borg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E26-M1601">
+          <extent>
+              <charseq START="1805" END="1817">a secret base</charseq>
+          </extent>
+          <head>
+              <charseq START="1814" END="1817">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E27-M1803">
+          <extent>
+              <charseq START="2048" END="2059">Salem Center</charseq>
+          </extent>
+          <head>
+              <charseq START="2048" END="2059">Salem Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E27-M2201">
+          <extent>
+              <charseq START="2465" END="2485">stating &quot;Salem Center</charseq>
+          </extent>
+          <head>
+              <charseq START="2480" END="2485">Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salem Center">
+              <charseq START="2048" END="2059">Salem Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E28-M1900">
+          <extent>
+              <charseq START="2065" END="2074">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2074">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E28-M2002">
+          <extent>
+              <charseq START="2151" END="2160">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="2155" END="2160">church</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E29-M2102">
+          <extent>
+              <charseq START="2276" END="2398">Nick Fury, who states he never imagined the day when a top ranking Hydra member would get a full honors S.H.I.E.L.D.
+burial</charseq>
+          </extent>
+          <head>
+              <charseq START="2276" END="2284">Nick Fury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E29-M2104">
+          <extent>
+              <charseq START="2287" END="2289">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2287" END="2289">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E29-M2105">
+          <extent>
+              <charseq START="2298" END="2299">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2298" END="2299">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nick Fury">
+              <charseq START="2276" END="2284">Nick Fury</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E30" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E30-M2100">
+          <extent>
+              <charseq START="2240" END="2261">a S.H.I.E.L.D.
+carrier</charseq>
+          </extent>
+          <head>
+              <charseq START="2255" END="2261">carrier</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E31-M2108">
+          <extent>
+              <charseq START="2329" END="2354">a top ranking Hydra member</charseq>
+          </extent>
+          <head>
+              <charseq START="2349" END="2354">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E32-M2304">
+          <extent>
+              <charseq START="2545" END="2610">the cabin where he really had lived with Silver Fox a lifetime ago</charseq>
+          </extent>
+          <head>
+              <charseq START="2549" END="2553">cabin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E32-M2306">
+          <extent>
+              <charseq START="2555" END="2559">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2555" END="2559">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E32-M2405">
+          <extent>
+              <charseq START="2644" END="2648">there</charseq>
+          </extent>
+          <head>
+              <charseq START="2644" END="2648">there</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E33-M2513">
+          <extent>
+              <charseq START="2940" END="2948">Jeph Loeb</charseq>
+          </extent>
+          <head>
+              <charseq START="2940" END="2948">Jeph Loeb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2515">
+          <extent>
+              <charseq START="2967" END="2969">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2967" END="2969">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2609">
+          <extent>
+              <charseq START="3091" END="3093">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3091" END="3093">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2702">
+          <extent>
+              <charseq START="3175" END="3177">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3175" END="3177">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2801">
+          <extent>
+              <charseq START="3278" END="3280">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3278" END="3280">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2904">
+          <extent>
+              <charseq START="3385" END="3387">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3385" END="3387">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M2906">
+          <extent>
+              <charseq START="3453" END="3455">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3453" END="3455">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E33-M3005">
+          <extent>
+              <charseq START="3524" END="3526">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3524" END="3526">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jeph Loeb">
+              <charseq START="2940" END="2948">Jeph Loeb</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E34" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E34-M3205">
+          <extent>
+              <charseq START="3746" END="3782">Men Animated Series episode &quot;Weapon X</charseq>
+          </extent>
+          <head>
+              <charseq START="3775" END="3780">Weapon</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E35-M3309">
+          <extent>
+              <charseq START="3907" END="3923">Wolverine&apos;s lover</charseq>
+          </extent>
+          <head>
+              <charseq START="3919" END="3923">lover</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E36-M3311">
+          <extent>
+              <charseq START="3930" END="3961">a victim of the Weapon X Program</charseq>
+          </extent>
+          <head>
+              <charseq START="3932" END="3937">victim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3301">
+          <extent>
+              <charseq START="3875" END="3877">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3875" END="3877">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3401">
+          <extent>
+              <charseq START="3964" END="3966">She</charseq>
+          </extent>
+          <head>
+              <charseq START="3964" END="3966">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3600">
+          <extent>
+              <charseq START="4165" END="4167">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4165" END="4167">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3704">
+          <extent>
+              <charseq START="4288" END="4290">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4288" END="4290">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3710">
+          <extent>
+              <charseq START="4339" END="4341">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4339" END="4341">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3716">
+          <extent>
+              <charseq START="4374" END="4376">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4374" END="4376">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3724">
+          <extent>
+              <charseq START="4449" END="4451">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4449" END="4451">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3800">
+          <extent>
+              <charseq START="4462" END="4464">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4462" END="4464">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3815">
+          <extent>
+              <charseq START="4569" END="4571">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4569" END="4571">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3835">
+          <extent>
+              <charseq START="4780" END="4782">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4780" END="4782">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3900">
+          <extent>
+              <charseq START="4791" END="4793">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4791" END="4793">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E36-M3904">
+          <extent>
+              <charseq START="4825" END="4827">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4825" END="4827">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E37-M3406">
+          <extent>
+              <charseq START="4027" END="4035">Omega Red</charseq>
+          </extent>
+          <head>
+              <charseq START="4027" END="4035">Omega Red</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Omega Red">
+              <charseq START="4027" END="4035">Omega Red</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E38-M3403">
+          <extent>
+              <charseq START="3972" END="3979">Maverick</charseq>
+          </extent>
+          <head>
+              <charseq START="3972" END="3979">Maverick</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E38-M3407">
+          <extent>
+              <charseq START="4041" END="4044">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4041" END="4044">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E39-M3500">
+          <extent>
+              <charseq START="4079" END="4103">Film
+Actress Lynn Collins</charseq>
+          </extent>
+          <head>
+              <charseq START="4084" END="4103">Actress Lynn Collins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E39-M3501">
+          <extent>
+              <charseq START="4079" END="4082">Film</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4082">Film</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Actress Lynn Collins">
+              <charseq START="4084" END="4103">Actress Lynn Collins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E40-M3602">
+          <extent>
+              <charseq START="4178" END="4192">Kayla Silverfox</charseq>
+          </extent>
+          <head>
+              <charseq START="4178" END="4192">Kayla Silverfox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E40-M4000">
+          <extent>
+              <charseq START="4837" END="4863">Video Games
+Kayla Silverfox</charseq>
+          </extent>
+          <head>
+              <charseq START="4849" END="4863">Kayla Silverfox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E40-M4002">
+          <extent>
+              <charseq START="4843" END="4847">Games</charseq>
+          </extent>
+          <head>
+              <charseq START="4843" END="4847">Games</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kayla Silverfox">
+              <charseq START="4178" END="4192">Kayla Silverfox</charseq>
+          </name>
+          <name NAME="Kayla Silverfox">
+              <charseq START="4849" END="4863">Kayla Silverfox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E41" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E41-M3714">
+          <extent>
+              <charseq START="4367" END="4459">anyone she touches, although it appears that Logan and Victor Creed are immune to her ability</charseq>
+          </extent>
+          <head>
+              <charseq START="4367" END="4372">anyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E42-M3826">
+          <extent>
+              <charseq START="4654" END="4661">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="4658" END="4661">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E42-M3833">
+          <extent>
+              <charseq START="4745" END="4752">the Moon</charseq>
+          </extent>
+          <head>
+              <charseq START="4749" END="4752">Moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moon">
+              <charseq START="4658" END="4661">Moon</charseq>
+          </name>
+          <name NAME="Moon">
+              <charseq START="4749" END="4752">Moon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E43-M3822">
+          <extent>
+              <charseq START="4644" END="4788">his lover the Moon, the spirit- whose name translates as &quot;Wolverine&quot;- subsequently forced to look at the Moon forever and never be with her again</charseq>
+          </extent>
+          <head>
+              <charseq START="4648" END="4652">lover</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Silver_Fox.sentences.sgm-E43-M3830">
+          <extent>
+              <charseq START="4676" END="4680">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="4676" END="4680">whose</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E44-M3902">
+          <extent>
+              <charseq START="4811" END="4820">Emma Frost</charseq>
+          </extent>
+          <head>
+              <charseq START="4811" END="4820">Emma Frost</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Emma Frost">
+              <charseq START="4811" END="4820">Emma Frost</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E45-M3903">
+          <extent>
+              <charseq START="4825" END="4834">her sister</charseq>
+          </extent>
+          <head>
+              <charseq START="4829" END="4834">sister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Silver_Fox.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Silver_Fox.sentences.sgm-E46-M4013">
+          <extent>
+              <charseq START="4938" END="4950">April Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="4944" END="4950">Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Silver_Fox.sentences.sgm-E46-M4014">
+          <extent>
+              <charseq START="4938" END="4942">April</charseq>
+          </extent>
+          <head>
+              <charseq START="4938" END="4942">April</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stewart">
+              <charseq START="4944" END="4950">Stewart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T0" VAL="19TMO">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="573" END="596">dawn of the 20th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="810" END="822">modern period</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T2">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="2316" END="2322">the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="2597" END="2610">a lifetime ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T4">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="2894" END="2905">his birthday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T5" VAL="PTXM">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="3673" END="3691">a matter of minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T6" VAL="2009">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="4129" END="4132">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Silver_Fox.sentences.sgm-T7" VAL="XXXX-04">
+        <timex2_mention ID="Silver_Fox.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="4938" END="4942">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Silver_Fox.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R0-M300">
+          <extent>
+              <charseq START="444" END="497">a member of HYDRA, a subversive terrorist organization</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E6-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="444" END="497">a member of HYDRA, a subversive terrorist organization</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E10-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="456" END="460">HYDRA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R1-M400">
+          <extent>
+              <charseq START="550" END="554">Logan</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E11-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="550" END="554">Logan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E12-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="559" END="564">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R2-M900">
+          <extent>
+              <charseq START="1128" END="1145">a section of Hydra</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E17-M906" ROLE="Arg-1">
+            <extent>
+              <charseq START="1128" END="1145">a section of Hydra</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E10-M908" ROLE="Arg-2">
+            <extent>
+              <charseq START="1141" END="1145">Hydra</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R3" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R3-M1000">
+          <extent>
+              <charseq START="1235" END="1239">Reiko</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E18-M1008" ROLE="Arg-1">
+            <extent>
+              <charseq START="1235" END="1239">Reiko</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E19-M1007" ROLE="Arg-2">
+            <extent>
+              <charseq START="1235" END="1246">Reiko&apos;s boss</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R4-M1600">
+          <extent>
+              <charseq START="1891" END="1900">Aldo Ferro</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E24-M1611" ROLE="Arg-1">
+            <extent>
+              <charseq START="1891" END="1900">Aldo Ferro</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E25-M1612" ROLE="Arg-2">
+            <extent>
+              <charseq START="1903" END="1914">the Psi-Borg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R5-M2000">
+          <extent>
+              <charseq START="2137" END="2160">The father at the church</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E11-M2000" ROLE="Arg-1">
+            <extent>
+              <charseq START="2137" END="2160">The father at the church</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E28-M2002" ROLE="Arg-2">
+            <extent>
+              <charseq START="2151" END="2160">the church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R6-M2400">
+          <extent>
+              <charseq START="2613" END="2614">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E11-M2400" ROLE="Arg-1">
+            <extent>
+              <charseq START="2613" END="2614">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E32-M2405" ROLE="Arg-2">
+            <extent>
+              <charseq START="2644" END="2648">there</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R7-M3300">
+          <extent>
+              <charseq START="3907" END="3923">Wolverine&apos;s lover</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E35-M3309" ROLE="Arg-1">
+            <extent>
+              <charseq START="3907" END="3923">Wolverine&apos;s lover</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E3-M3310" ROLE="Arg-2">
+            <extent>
+              <charseq START="3907" END="3915">Wolverine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R8-M3800">
+          <extent>
+              <charseq START="4644" END="4646">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E11-M3824" ROLE="Arg-1">
+            <extent>
+              <charseq START="4644" END="4646">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E43-M3822" ROLE="Arg-2">
+            <extent>
+              <charseq START="4644" END="4788">his lover the Moon, the spirit- whose name translates as &quot;Wolverine&quot;- subsequently forced to look at the Moon forever and never be with her again</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Silver_Fox.sentences.sgm-R9" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="Silver_Fox.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Silver_Fox.sentences.sgm-R9-M3900">
+          <extent>
+              <charseq START="4825" END="4827">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E36-M3904" ROLE="Arg-1">
+            <extent>
+              <charseq START="4825" END="4827">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Silver_Fox.sentences.sgm-E45-M3903" ROLE="Arg-2">
+            <extent>
+              <charseq START="4825" END="4834">her sister</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Silver_Fox.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E4" ROLE="Agent"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV0-M101">
+          <extent>
+              <charseq START="224" END="229">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="224" END="229">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E4-M115" ROLE="Agent">
+          <extent>
+              <charseq START="234" END="243">Sabretooth</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV0-M601">
+          <extent>
+              <charseq START="703" END="708">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="703" END="708">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E4-M600" ROLE="Agent">
+          <extent>
+              <charseq START="692" END="701">Sabretooth</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E4" ROLE="Victim"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV1-M801">
+          <extent>
+              <charseq START="990" END="994">kills</charseq>
+          </extent>
+          <anchor>
+              <charseq START="990" END="994">kills</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E4-M802" ROLE="Victim">
+          <extent>
+              <charseq START="996" END="1063">the professor who had been in charge of the program after Logan left</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E21" ROLE="Victim"/>
+      <event_argument REFID="Silver_Fox.sentences.sgm-E0" ROLE="Agent"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV2-M1200">
+          <extent>
+              <charseq START="1432" END="1440">poisoning</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1432" END="1440">poisoning</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E21-M1204" ROLE="Victim">
+          <extent>
+              <charseq START="1442" END="1447">Mariko</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E0-M1200" ROLE="Agent">
+          <extent>
+              <charseq START="1404" END="1413">Silver Fox</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E22" ROLE="Agent"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV3-M1400">
+          <extent>
+              <charseq START="1583" END="1586">dies</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1583" END="1586">dies</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E22-M1401" ROLE="Agent">
+          <extent>
+              <charseq START="1539" END="1546">Mastodon</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E23" ROLE="Agent"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV4-M1701">
+          <extent>
+              <charseq START="1978" END="1981">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1978" END="1981">kill</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E23-M1706" ROLE="Agent">
+          <extent>
+              <charseq START="1972" END="1976">Creed</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E4" ROLE="Agent"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV5-M2501">
+          <extent>
+              <charseq START="2872" END="2878">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2872" END="2878">killing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E4-M2506" ROLE="Agent">
+          <extent>
+              <charseq START="2861" END="2870">Sabretooth</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Silver_Fox.sentences.sgm-EV6-M3102">
+          <extent>
+              <charseq START="3555" END="3562">Injuries</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3555" END="3562">Injuries</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Silver_Fox.sentences.sgm-EV7-M3103">
+          <extent>
+              <charseq START="3642" END="3647">wounds</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3642" END="3647">wounds</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Silver_Fox.sentences.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Silver_Fox.sentences.sgm-E38" ROLE="Victim"/>
+      <event_argument REFID="Silver_Fox.sentences.sgm-E36" ROLE="Victim"/>
+      <event_mention ID="Silver_Fox.sentences.sgm-EV8-M3401">
+          <extent>
+              <charseq START="4002" END="4005">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4002" END="4005">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E38-M3403" ROLE="Victim">
+          <extent>
+              <charseq START="3972" END="3979">Maverick</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Silver_Fox.sentences.sgm-E36-M3401" ROLE="Victim">
+          <extent>
+              <charseq START="3964" END="3966">She</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

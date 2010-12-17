@@ -1,0 +1,3011 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Fishsticks_(South_Park).sentences.sgm">
+  <document DOCID="Fishsticks_(South_Park).sentences.sgm">
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="40" END="49">Fishsticks</charseq>
+          </extent>
+          <head>
+              <charseq START="40" END="49">Fishsticks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fishsticks">
+              <charseq START="40" END="49">Fishsticks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M6" ROLE="GPE">
+          <extent>
+              <charseq START="100" END="140">the animated television series South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="140">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M8">
+          <extent>
+              <charseq START="124" END="129">series</charseq>
+          </extent>
+          <head>
+              <charseq START="124" END="129">series</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M1202" ROLE="LOC">
+          <extent>
+              <charseq START="1398" END="1407">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="1398" END="1407">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M3116" ROLE="GPE">
+          <extent>
+              <charseq START="3846" END="3855">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="3846" END="3855">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M4212">
+          <extent>
+              <charseq START="5907" END="5916">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="5907" END="5916">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M4603">
+          <extent>
+              <charseq START="6081" END="6090">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="6081" END="6090">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M4707" ROLE="LOC">
+          <extent>
+              <charseq START="6193" END="6202">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="6193" END="6202">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M4803" ROLE="GPE">
+          <extent>
+              <charseq START="6224" END="6233">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="6224" END="6233">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M5104">
+          <extent>
+              <charseq START="6741" END="6750">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="6741" END="6750">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M5304">
+          <extent>
+              <charseq START="7030" END="7039">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="7030" END="7039">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M5523">
+          <extent>
+              <charseq START="7271" END="7280">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="7271" END="7280">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M5900">
+          <extent>
+              <charseq START="7598" END="7608">&apos;South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="7599" END="7608">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E1-M6519" ROLE="GPE">
+          <extent>
+              <charseq START="8376" END="8385">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="8376" END="8385">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Park">
+              <charseq START="131" END="140">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="1398" END="1407">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="3846" END="3855">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="5907" END="5916">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="6081" END="6090">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="6193" END="6202">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="6224" END="6233">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="6741" END="6750">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="7030" END="7039">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="7271" END="7280">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="7599" END="7608">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="8376" END="8385">South Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E2-M102">
+          <extent>
+              <charseq START="166" END="179">Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="166" END="179">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E2-M712">
+          <extent>
+              <charseq START="1032" END="1037">Comedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1037">Comedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E2-M2908">
+          <extent>
+              <charseq START="3545" END="3558">Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="3545" END="3558">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E2-M3913">
+          <extent>
+              <charseq START="5436" END="5441">Comedy</charseq>
+          </extent>
+          <head>
+              <charseq START="5436" END="5441">Comedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Comedy Central">
+              <charseq START="166" END="179">Comedy Central</charseq>
+          </name>
+          <name NAME="Comedy">
+              <charseq START="1032" END="1037">Comedy</charseq>
+          </name>
+          <name NAME="Comedy Central">
+              <charseq START="3545" END="3558">Comedy Central</charseq>
+          </name>
+          <name NAME="Comedy">
+              <charseq START="5436" END="5441">Comedy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E3-M103" ROLE="LOC">
+          <extent>
+              <charseq START="184" END="200">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="200">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E3-M411" ROLE="LOC">
+          <extent>
+              <charseq START="559" END="575">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="563" END="575">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E3-M2905" ROLE="LOC">
+          <extent>
+              <charseq START="3524" END="3558">the United States on Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="3528" END="3540">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E3-M3903" ROLE="GPE">
+          <extent>
+              <charseq START="5298" END="5305">American</charseq>
+          </extent>
+          <head>
+              <charseq START="5298" END="5305">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="188" END="200">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="563" END="575">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="3528" END="3540">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="5298" END="5305">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M201">
+          <extent>
+              <charseq START="236" END="240">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="236" END="240">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M800">
+          <extent>
+              <charseq START="1071" END="1080">Plot
+Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1076" END="1080">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M801">
+          <extent>
+              <charseq START="1071" END="1074">Plot</charseq>
+          </extent>
+          <head>
+              <charseq START="1071" END="1074">Plot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M805">
+          <extent>
+              <charseq START="1109" END="1111">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1111">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M809">
+          <extent>
+              <charseq START="1150" END="1152">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1150" END="1152">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M900">
+          <extent>
+              <charseq START="1182" END="1186">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1186">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1304">
+          <extent>
+              <charseq START="1474" END="1478">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1474" END="1478">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1305">
+          <extent>
+              <charseq START="1480" END="1481">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1480" END="1481">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1400">
+          <extent>
+              <charseq START="1516" END="1520">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1516" END="1520">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1410">
+          <extent>
+              <charseq START="1586" END="1590">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1590">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1415">
+          <extent>
+              <charseq START="1657" END="1670">out-Jew&quot; Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="1666" END="1670">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1402">
+          <extent>
+              <charseq START="1536" END="1537">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1537">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M1404">
+          <extent>
+              <charseq START="1545" END="1546">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1546">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2102">
+          <extent>
+              <charseq START="2629" END="2633">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2629" END="2633">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2200">
+          <extent>
+              <charseq START="2734" END="2738">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2734" END="2738">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2202">
+          <extent>
+              <charseq START="2770" END="2771">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2770" END="2771">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2209">
+          <extent>
+              <charseq START="2824" END="2825">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2824" END="2825">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2408">
+          <extent>
+              <charseq START="2971" END="2975">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2971" END="2975">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2411">
+          <extent>
+              <charseq START="2998" END="3002">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2998" END="3002">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M2420">
+          <extent>
+              <charseq START="3070" END="3074">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="3070" END="3074">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E4-M3404">
+          <extent>
+              <charseq START="4420" END="4424">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="4420" END="4424">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jimmy">
+              <charseq START="236" END="240">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1076" END="1080">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1182" END="1186">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1474" END="1478">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1516" END="1520">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1586" END="1590">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="1666" END="1670">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2629" END="2633">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2734" END="2738">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2971" END="2975">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2998" END="3002">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="3070" END="3074">Jimmy</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="4420" END="4424">Jimmy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M208">
+          <extent>
+              <charseq START="297" END="303">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="303">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M807">
+          <extent>
+              <charseq START="1134" END="1140">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1134" END="1140">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M905">
+          <extent>
+              <charseq START="1233" END="1239">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1233" END="1239">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1300">
+          <extent>
+              <charseq START="1415" END="1421">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1415" END="1421">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1307">
+          <extent>
+              <charseq START="1502" END="1508">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1502" END="1508">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1401">
+          <extent>
+              <charseq START="1528" END="1534">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1528" END="1534">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1409">
+          <extent>
+              <charseq START="1572" END="1578">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1572" END="1578">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1502">
+          <extent>
+              <charseq START="1700" END="1706">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1706">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1603">
+          <extent>
+              <charseq START="1832" END="1838">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1832" END="1838">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1609">
+          <extent>
+              <charseq START="1961" END="1967">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="1961" END="1967">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E5-M1610">
+          <extent>
+              <charseq START="1979" END="1980">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1979" END="1980">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M2101">
+          <extent>
+              <charseq START="2617" END="2623">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="2617" END="2623">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M2201">
+          <extent>
+              <charseq START="2750" END="2756">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="2750" END="2756">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M2400">
+          <extent>
+              <charseq START="2909" END="2915">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="2909" END="2915">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M3403">
+          <extent>
+              <charseq START="4408" END="4414">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="4408" END="4414">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M3405">
+          <extent>
+              <charseq START="4427" END="4433">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="4427" END="4433">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E5-M3406">
+          <extent>
+              <charseq START="4444" END="4446">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4444" END="4446">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M3801">
+          <extent>
+              <charseq START="5110" END="5116">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="5110" END="5116">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M3813">
+          <extent>
+              <charseq START="5242" END="5247">member</charseq>
+          </extent>
+          <head>
+              <charseq START="5242" END="5247">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M6211">
+          <extent>
+              <charseq START="7854" END="7860">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="7854" END="7860">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E5-M6813">
+          <extent>
+              <charseq START="8815" END="8821">Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="8815" END="8821">Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cartman">
+              <charseq START="297" END="303">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1134" END="1140">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1233" END="1239">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1415" END="1421">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1502" END="1508">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1528" END="1534">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1572" END="1578">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1700" END="1706">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1832" END="1838">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="1961" END="1967">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="2617" END="2623">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="2750" END="2756">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="2909" END="2915">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="4408" END="4414">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="4427" END="4433">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="5110" END="5116">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="7854" END="7860">Cartman</charseq>
+          </name>
+          <name NAME="Cartman">
+              <charseq START="8815" END="8821">Cartman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M300">
+          <extent>
+              <charseq START="331" END="347">Rapper Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="347">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M301">
+          <extent>
+              <charseq START="331" END="336">Rapper</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="336">Rapper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M313">
+          <extent>
+              <charseq START="453" END="460">a genius</charseq>
+          </extent>
+          <head>
+              <charseq START="455" END="460">genius</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M305">
+          <extent>
+              <charseq START="401" END="402">he</charseq>
+          </extent>
+          <head>
+              <charseq START="401" END="402">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M309">
+          <extent>
+              <charseq START="427" END="428">he</charseq>
+          </extent>
+          <head>
+              <charseq START="427" END="428">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M508">
+          <extent>
+              <charseq START="664" END="667">West</charseq>
+          </extent>
+          <head>
+              <charseq START="664" END="667">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M512">
+          <extent>
+              <charseq START="707" END="709">his</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="709">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M513">
+          <extent>
+              <charseq START="730" END="731">he</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="731">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M517">
+          <extent>
+              <charseq START="769" END="770">he</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="770">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M520">
+          <extent>
+              <charseq START="790" END="792">his</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="792">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1901">
+          <extent>
+              <charseq START="2265" END="2301">Kanye West, who doesn&apos;t understand it</charseq>
+          </extent>
+          <head>
+              <charseq START="2265" END="2274">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1913">
+          <extent>
+              <charseq START="2377" END="2384">a genius</charseq>
+          </extent>
+          <head>
+              <charseq START="2379" END="2384">genius</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1914">
+          <extent>
+              <charseq START="2391" END="2430">the most talented musician in the world&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2409" END="2416">musician</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1903">
+          <extent>
+              <charseq START="2277" END="2279">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2277" END="2279">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1907">
+          <extent>
+              <charseq START="2335" END="2336">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2335" END="2336">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M1911">
+          <extent>
+              <charseq START="2361" END="2362">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2361" END="2362">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2000">
+          <extent>
+              <charseq START="2433" END="2437">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="2433" END="2437">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2011">
+          <extent>
+              <charseq START="2567" END="2571">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="2567" END="2571">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2004">
+          <extent>
+              <charseq START="2473" END="2474">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2473" END="2474">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2012">
+          <extent>
+              <charseq START="2589" END="2591">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2589" END="2591">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2014">
+          <extent>
+              <charseq START="2603" END="2605">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2603" END="2605">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2109">
+          <extent>
+              <charseq START="2710" END="2714">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="2710" END="2714">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2302">
+          <extent>
+              <charseq START="2866" END="2898">Kanye, who threatens to kill them</charseq>
+          </extent>
+          <head>
+              <charseq START="2866" END="2870">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2304">
+          <extent>
+              <charseq START="2873" END="2875">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2875">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2403">
+          <extent>
+              <charseq START="2939" END="2940">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2939" END="2940">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2409">
+          <extent>
+              <charseq START="2989" END="2990">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2989" END="2990">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2412">
+          <extent>
+              <charseq START="3004" END="3005">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3004" END="3005">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2414">
+          <extent>
+              <charseq START="3022" END="3024">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3022" END="3024">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2417">
+          <extent>
+              <charseq START="3060" END="3061">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3060" END="3061">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2500">
+          <extent>
+              <charseq START="3103" END="3107">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3107">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2503">
+          <extent>
+              <charseq START="3131" END="3133">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3131" END="3133">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2504">
+          <extent>
+              <charseq START="3164" END="3165">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3164" END="3165">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2600">
+          <extent>
+              <charseq START="3206" END="3207">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3206" END="3207">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2604">
+          <extent>
+              <charseq START="3237" END="3238">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3237" END="3238">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2701">
+          <extent>
+              <charseq START="3287" END="3293">a Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="3289" END="3293">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2703">
+          <extent>
+              <charseq START="3303" END="3311">a wetsuit</charseq>
+          </extent>
+          <head>
+              <charseq START="3305" END="3311">wetsuit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M2707">
+          <extent>
+              <charseq START="3350" END="3352">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3350" END="3352">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3004">
+          <extent>
+              <charseq START="3590" END="3594">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="3590" END="3594">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3107">
+          <extent>
+              <charseq START="3748" END="3757">Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="3748" END="3757">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3200">
+          <extent>
+              <charseq START="3866" END="3882">Rapper Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="3873" END="3882">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3201">
+          <extent>
+              <charseq START="3866" END="3871">Rapper</charseq>
+          </extent>
+          <head>
+              <charseq START="3866" END="3871">Rapper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3215">
+          <extent>
+              <charseq START="4065" END="4079">this generation</charseq>
+          </extent>
+          <head>
+              <charseq START="4070" END="4079">generation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3217">
+          <extent>
+              <charseq START="4091" END="4093">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4091" END="4093">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3302">
+          <extent>
+              <charseq START="4161" END="4170">Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="4161" END="4170">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M3305">
+          <extent>
+              <charseq START="4212" END="4213">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4212" END="4213">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4101">
+          <extent>
+              <charseq START="5611" END="5625">Both Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="5616" END="5625">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4114">
+          <extent>
+              <charseq START="5765" END="5774">Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="5765" END="5774">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4116">
+          <extent>
+              <charseq START="5784" END="5786">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5784" END="5786">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4118">
+          <extent>
+              <charseq START="5798" END="5800">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5798" END="5800">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4600">
+          <extent>
+              <charseq START="6056" END="6059">West</charseq>
+          </extent>
+          <head>
+              <charseq START="6056" END="6059">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4602">
+          <extent>
+              <charseq START="6070" END="6072">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6070" END="6072">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4800">
+          <extent>
+              <charseq START="6207" END="6210">West</charseq>
+          </extent>
+          <head>
+              <charseq START="6207" END="6210">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4805">
+          <extent>
+              <charseq START="6246" END="6248">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6246" END="6248">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4806">
+          <extent>
+              <charseq START="6278" END="6279">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6278" END="6279">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4811">
+          <extent>
+              <charseq START="6300" END="6302">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6300" END="6302">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4812">
+          <extent>
+              <charseq START="6318" END="6319">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6318" END="6319">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4908">
+          <extent>
+              <charseq START="6436" END="6440">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="6436" END="6440">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M4912">
+          <extent>
+              <charseq START="6494" END="6496">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6494" END="6496">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5010">
+          <extent>
+              <charseq START="6668" END="6677">Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="6668" END="6677">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5108">
+          <extent>
+              <charseq START="6804" END="6808">Kanye</charseq>
+          </extent>
+          <head>
+              <charseq START="6804" END="6808">Kanye</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5209">
+          <extent>
+              <charseq START="6929" END="6931">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6929" END="6931">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5504">
+          <extent>
+              <charseq START="7091" END="7094">West</charseq>
+          </extent>
+          <head>
+              <charseq START="7091" END="7094">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5508">
+          <extent>
+              <charseq START="7142" END="7143">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7142" END="7143">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5515">
+          <extent>
+              <charseq START="7203" END="7204">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7203" END="7204">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5519">
+          <extent>
+              <charseq START="7226" END="7228">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7226" END="7228">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5525">
+          <extent>
+              <charseq START="7298" END="7300">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7298" END="7300">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5606">
+          <extent>
+              <charseq START="7417" END="7427">the manager</charseq>
+          </extent>
+          <head>
+              <charseq START="7421" END="7427">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5601">
+          <extent>
+              <charseq START="7332" END="7333">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7332" END="7333">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M5607">
+          <extent>
+              <charseq START="7437" END="7439">him</charseq>
+          </extent>
+          <head>
+              <charseq START="7437" END="7439">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E6-M6100">
+          <extent>
+              <charseq START="7620" END="7621">He</charseq>
+          </extent>
+          <head>
+              <charseq START="7620" END="7621">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E6-M6810">
+          <extent>
+              <charseq START="8768" END="8771">West</charseq>
+          </extent>
+          <head>
+              <charseq START="8768" END="8771">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kanye West">
+              <charseq START="338" END="347">Kanye West</charseq>
+          </name>
+          <name NAME="West">
+              <charseq START="664" END="667">West</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="2265" END="2274">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="2433" END="2437">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="2567" END="2571">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="2710" END="2714">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="2866" END="2870">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="3103" END="3107">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="3289" END="3293">Kanye</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="3590" END="3594">Kanye</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="3748" END="3757">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="3873" END="3882">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="4161" END="4170">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="5616" END="5625">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="5765" END="5774">Kanye West</charseq>
+          </name>
+          <name NAME="West">
+              <charseq START="6056" END="6059">West</charseq>
+          </name>
+          <name NAME="West">
+              <charseq START="6207" END="6210">West</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="6436" END="6440">Kanye</charseq>
+          </name>
+          <name NAME="Kanye West">
+              <charseq START="6668" END="6677">Kanye West</charseq>
+          </name>
+          <name NAME="Kanye">
+              <charseq START="6804" END="6808">Kanye</charseq>
+          </name>
+          <name NAME="West">
+              <charseq START="7091" END="7094">West</charseq>
+          </name>
+          <name NAME="West">
+              <charseq START="8768" END="8771">West</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E7-M401">
+          <extent>
+              <charseq START="503" END="532">series co-founder Trey Parker,</charseq>
+          </extent>
+          <head>
+              <charseq START="521" END="531">Trey Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E7-M404">
+          <extent>
+              <charseq START="510" END="519">co-founder</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="519">co-founder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E7-M2805">
+          <extent>
+              <charseq START="3458" END="3486">series co-founder Trey Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="3476" END="3486">Trey Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E7-M2807">
+          <extent>
+              <charseq START="3465" END="3474">co-founder</charseq>
+          </extent>
+          <head>
+              <charseq START="3465" END="3474">co-founder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E7-M3000">
+          <extent>
+              <charseq START="3561" END="3566">Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="3561" END="3566">Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trey Parker">
+              <charseq START="521" END="531">Trey Parker</charseq>
+          </name>
+          <name NAME="Trey Parker">
+              <charseq START="3476" END="3486">Trey Parker</charseq>
+          </name>
+          <name NAME="Parker">
+              <charseq START="3561" END="3566">Parker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E8-M408">
+          <extent>
+              <charseq START="551" END="575">MA L in the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="554">L</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M601">
+          <extent>
+              <charseq START="832" END="893">comedian Carlos Mencia, who praised the episode after it aired</charseq>
+          </extent>
+          <head>
+              <charseq START="841" END="853">Carlos Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M603">
+          <extent>
+              <charseq START="832" END="839">comedian</charseq>
+          </extent>
+          <head>
+              <charseq START="832" END="839">comedian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M605">
+          <extent>
+              <charseq START="856" END="858">who</charseq>
+          </extent>
+          <head>
+              <charseq START="856" END="858">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M1800">
+          <extent>
+              <charseq START="2161" END="2182">Comedian Carlos Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="2170" END="2182">Carlos Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M1801">
+          <extent>
+              <charseq START="2161" END="2168">Comedian</charseq>
+          </extent>
+          <head>
+              <charseq START="2161" END="2168">Comedian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M2001">
+          <extent>
+              <charseq START="2447" END="2560">Carlos Mencia, who admits he stole the joke to compensate for not being funny and having a penis that doesn&apos;t work</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2459">Carlos Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M2003">
+          <extent>
+              <charseq START="2462" END="2464">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2462" END="2464">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3501">
+          <extent>
+              <charseq START="4500" END="4512">Carlos Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="4500" END="4512">Carlos Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3508">
+          <extent>
+              <charseq START="4555" END="4560">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="4555" END="4560">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3522">
+          <extent>
+              <charseq START="4716" END="4721">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="4716" END="4721">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3502">
+          <extent>
+              <charseq START="4515" END="4560">host of the Comedy Central show Mind of Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="4515" END="4518">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3514">
+          <extent>
+              <charseq START="4632" END="4633">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4632" END="4633">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3602">
+          <extent>
+              <charseq START="4760" END="4765">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="4760" END="4765">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3618">
+          <extent>
+              <charseq START="4889" END="4959">a character who uses a wheelchair in the 1993 crime film, Carlito&apos;s Way</charseq>
+          </extent>
+          <head>
+              <charseq START="4891" END="4899">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3608">
+          <extent>
+              <charseq START="4808" END="4810">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4808" END="4810">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3609">
+          <extent>
+              <charseq START="4824" END="4825">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4824" END="4825">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M3620">
+          <extent>
+              <charseq START="4901" END="4903">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4901" END="4903">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M4103">
+          <extent>
+              <charseq START="5631" END="5643">Carlos Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="5631" END="5643">Carlos Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M4202">
+          <extent>
+              <charseq START="5844" END="5849">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="5844" END="5849">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M4204">
+          <extent>
+              <charseq START="5860" END="5862">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5860" END="5862">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M4506">
+          <extent>
+              <charseq START="6031" END="6036">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="6031" END="6036">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E9-M4508">
+          <extent>
+              <charseq START="6042" END="6044">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6042" END="6044">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E9-M6811">
+          <extent>
+              <charseq START="8777" END="8782">Mencia</charseq>
+          </extent>
+          <head>
+              <charseq START="8777" END="8782">Mencia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carlos Mencia">
+              <charseq START="841" END="853">Carlos Mencia</charseq>
+          </name>
+          <name NAME="Carlos Mencia">
+              <charseq START="2170" END="2182">Carlos Mencia</charseq>
+          </name>
+          <name NAME="Carlos Mencia">
+              <charseq START="2447" END="2459">Carlos Mencia</charseq>
+          </name>
+          <name NAME="Carlos Mencia">
+              <charseq START="4500" END="4512">Carlos Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="4555" END="4560">Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="4716" END="4721">Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="4760" END="4765">Mencia</charseq>
+          </name>
+          <name NAME="Carlos Mencia">
+              <charseq START="5631" END="5643">Carlos Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="5844" END="5849">Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="6031" END="6036">Mencia</charseq>
+          </name>
+          <name NAME="Mencia">
+              <charseq START="8777" END="8782">Mencia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E10-M700">
+          <extent>
+              <charseq START="909" END="923">Nielsen Ratings</charseq>
+          </extent>
+          <head>
+              <charseq START="909" END="923">Nielsen Ratings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E10-M707">
+          <extent>
+              <charseq START="984" END="986">its</charseq>
+          </extent>
+          <head>
+              <charseq START="984" END="986">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E10-M3907">
+          <extent>
+              <charseq START="5388" END="5406">the Nielsen Ratings</charseq>
+          </extent>
+          <head>
+              <charseq START="5392" END="5406">Nielsen Ratings</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nielsen Ratings">
+              <charseq START="909" END="923">Nielsen Ratings</charseq>
+          </name>
+          <name NAME="Nielsen Ratings">
+              <charseq START="5392" END="5406">Nielsen Ratings</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E11-M705">
+          <extent>
+              <charseq START="961" END="979">3.1 million viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="973" END="979">viewers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E11-M3906">
+          <extent>
+              <charseq START="5346" END="5372">3.1 million overall viewers</charseq>
+          </extent>
+          <head>
+              <charseq START="5366" END="5372">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E13-M1000">
+          <extent>
+              <charseq START="1268" END="1322">B: Yes.A: Do you like putting fishsticks in your mouth?</charseq>
+          </extent>
+          <head>
+              <charseq START="1268" END="1268">B</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E13-M1100">
+          <extent>
+              <charseq START="1323" END="1362">B: Yes.A: Then what are you, a gay fish?</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1323">B</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="B">
+              <charseq START="1268" END="1268">B</charseq>
+          </name>
+          <name NAME="B">
+              <charseq START="1323" END="1323">B</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E14-M1303">
+          <extent>
+              <charseq START="1463" END="1466">Kyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1463" END="1466">Kyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E14-M1412">
+          <extent>
+              <charseq START="1630" END="1633">Kyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1630" END="1633">Kyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E14-M1500">
+          <extent>
+              <charseq START="1673" END="1676">Kyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1673" END="1676">Kyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E14-M1503">
+          <extent>
+              <charseq START="1729" END="1730">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1730">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kyle">
+              <charseq START="1463" END="1466">Kyle</charseq>
+          </name>
+          <name NAME="Kyle">
+              <charseq START="1630" END="1633">Kyle</charseq>
+          </name>
+          <name NAME="Kyle">
+              <charseq START="1673" END="1676">Kyle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E15-M1618">
+          <extent>
+              <charseq START="2045" END="2065">an army of &quot;Jew-bots&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2048" END="2051">army</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E16-M1804">
+          <extent>
+              <charseq START="2192" END="2204">Conan O&apos;Brien</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2204">Conan O&apos;Brien</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E16-M3706">
+          <extent>
+              <charseq START="5009" END="5021">Conan O&apos;Brien</charseq>
+          </extent>
+          <head>
+              <charseq START="5009" END="5021">Conan O&apos;Brien</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Conan O&apos;Brien">
+              <charseq START="2192" END="2204">Conan O&apos;Brien</charseq>
+          </name>
+          <name NAME="Conan O&apos;Brien">
+              <charseq START="5009" END="5021">Conan O&apos;Brien</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E17-M1906">
+          <extent>
+              <charseq START="2324" END="2329">others</charseq>
+          </extent>
+          <head>
+              <charseq START="2324" END="2329">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E18" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E18-M1916">
+          <extent>
+              <charseq START="2421" END="2430">the world&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2425" END="2429">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E19" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E19-M2704">
+          <extent>
+              <charseq START="3329" END="3337">the ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="3333" END="3337">ocean</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E20-M3114">
+          <extent>
+              <charseq START="3813" END="3830">South Park Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="3813" END="3830">South Park Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Park Studios">
+              <charseq START="3813" END="3830">South Park Studios</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E21-M3321">
+          <extent>
+              <charseq START="4347" END="4350">Tune</charseq>
+          </extent>
+          <head>
+              <charseq START="4347" END="4350">Tune</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tune">
+              <charseq START="4347" END="4350">Tune</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E22" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E22-M3318">
+          <extent>
+              <charseq START="4342" END="4379">Auto-Tune-style pitch audio processing</charseq>
+          </extent>
+          <head>
+              <charseq START="4342" END="4345">Auto</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E23-M3409">
+          <extent>
+              <charseq START="4452" END="4461">Puff Daddy</charseq>
+          </extent>
+          <head>
+              <charseq START="4457" END="4461">Daddy</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E24-M3413">
+          <extent>
+              <charseq START="4483" END="4497">record producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4490" END="4497">producer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E25-M3521">
+          <extent>
+              <charseq START="4685" END="4699">other comedians</charseq>
+          </extent>
+          <head>
+              <charseq START="4691" END="4699">comedians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E26-M3525">
+          <extent>
+              <charseq START="4746" END="4757">other people</charseq>
+          </extent>
+          <head>
+              <charseq START="4752" END="4757">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E27-M3617">
+          <extent>
+              <charseq START="4882" END="4886">Lalin</charseq>
+          </extent>
+          <head>
+              <charseq START="4882" END="4886">Lalin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lalin">
+              <charseq START="4882" END="4886">Lalin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E28" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E28-M3621">
+          <extent>
+              <charseq START="4910" END="4921">a wheelchair</charseq>
+          </extent>
+          <head>
+              <charseq START="4912" END="4921">wheelchair</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E29-M3704">
+          <extent>
+              <charseq START="4978" END="4989">Jimmy Kimmel</charseq>
+          </extent>
+          <head>
+              <charseq START="4978" END="4989">Jimmy Kimmel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jimmy Kimmel">
+              <charseq START="4978" END="4989">Jimmy Kimmel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E30-M3705">
+          <extent>
+              <charseq START="4992" END="5006">David Letterman</charseq>
+          </extent>
+          <head>
+              <charseq START="4992" END="5006">David Letterman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Letterman">
+              <charseq START="4992" END="5006">David Letterman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E31-M3707">
+          <extent>
+              <charseq START="5024" END="5031">Jay Leno</charseq>
+          </extent>
+          <head>
+              <charseq START="5024" END="5031">Jay Leno</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jay Leno">
+              <charseq START="5024" END="5031">Jay Leno</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E32-M3708">
+          <extent>
+              <charseq START="5037" END="5051">Ellen DeGeneres</charseq>
+          </extent>
+          <head>
+              <charseq START="5037" END="5051">Ellen DeGeneres</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ellen DeGeneres">
+              <charseq START="5037" END="5051">Ellen DeGeneres</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E33-M3700">
+          <extent>
+              <charseq START="4962" END="4976">Talk show hosts</charseq>
+          </extent>
+          <head>
+              <charseq START="4972" END="4976">hosts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E34-M3803">
+          <extent>
+              <charseq START="5165" END="5173">superhero</charseq>
+          </extent>
+          <head>
+              <charseq START="5165" END="5173">superhero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E34-M3810">
+          <extent>
+              <charseq START="5216" END="5269">a fictional superhero and member of the Fantastic Four</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5236">superhero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E34-M3812">
+          <extent>
+              <charseq START="5216" END="5236">a fictional superhero</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5236">superhero</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E35-M4002">
+          <extent>
+              <charseq START="5482" END="5608">over 1.2 million more viewers than the second most-watched Comedy Central show that week, the April 8 episode of The Daily Show</charseq>
+          </extent>
+          <head>
+              <charseq START="5504" END="5510">viewers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E37-M4500">
+          <extent>
+              <charseq START="5966" END="5978">Dave Itzkoff,</charseq>
+          </extent>
+          <head>
+              <charseq START="5966" END="5977">Dave Itzkoff</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E37-M4502">
+          <extent>
+              <charseq START="5985" END="6053">reporter for The New York Times, complimented Mencia for his response</charseq>
+          </extent>
+          <head>
+              <charseq START="5985" END="5992">reporter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dave Itzkoff">
+              <charseq START="5966" END="5977">Dave Itzkoff</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E38" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E38-M4504">
+          <extent>
+              <charseq START="5998" END="6053">The New York Times, complimented Mencia for his response</charseq>
+          </extent>
+          <head>
+              <charseq START="5998" END="6015">The New York Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The New York Times">
+              <charseq START="5998" END="6015">The New York Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E39-M4801">
+          <extent>
+              <charseq START="6220" END="6259">the South Park writers in his blog entry</charseq>
+          </extent>
+          <head>
+              <charseq START="6235" END="6241">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E40-M4900">
+          <extent>
+              <charseq START="6343" END="6354">Simon Vozick</charseq>
+          </extent>
+          <head>
+              <charseq START="6343" END="6354">Simon Vozick</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Simon Vozick">
+              <charseq START="6343" END="6354">Simon Vozick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E41-M4902">
+          <extent>
+              <charseq START="6356" END="6387">Levinson of Entertainment Weekly</charseq>
+          </extent>
+          <head>
+              <charseq START="6356" END="6387">Levinson of Entertainment Weekly</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E41-M5202">
+          <extent>
+              <charseq START="6831" END="6850">Entertainment Weekly</charseq>
+          </extent>
+          <head>
+              <charseq START="6831" END="6850">Entertainment Weekly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Levinson of Entertainment Weekly">
+              <charseq START="6356" END="6387">Levinson of Entertainment Weekly</charseq>
+          </name>
+          <name NAME="Entertainment Weekly">
+              <charseq START="6831" END="6850">Entertainment Weekly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E42-M5000">
+          <extent>
+              <charseq START="6522" END="6550">Daniel Kreps of Rolling Stone</charseq>
+          </extent>
+          <head>
+              <charseq START="6522" END="6533">Daniel Kreps</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daniel Kreps">
+              <charseq START="6522" END="6533">Daniel Kreps</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E43-M5002">
+          <extent>
+              <charseq START="6538" END="6550">Rolling Stone</charseq>
+          </extent>
+          <head>
+              <charseq START="6538" END="6550">Rolling Stone</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rolling Stone">
+              <charseq START="6538" END="6550">Rolling Stone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E44" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E44-M5008" ROLE="LOC">
+          <extent>
+              <charseq START="6649" END="6656">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="6649" END="6656">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colorado">
+              <charseq START="6649" END="6656">Colorado</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E45-M5003">
+          <extent>
+              <charseq START="6559" END="6562">Many</charseq>
+          </extent>
+          <head>
+              <charseq START="6559" END="6562">Many</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E46-M5007">
+          <extent>
+              <charseq START="6621" END="6642">four animated children</charseq>
+          </extent>
+          <head>
+              <charseq START="6635" END="6642">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E47-M5200">
+          <extent>
+              <charseq START="6812" END="6850">Kerrie Mitchell of Entertainment Weekly</charseq>
+          </extent>
+          <head>
+              <charseq START="6812" END="6826">Kerrie Mitchell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E47-M5300">
+          <extent>
+              <charseq START="6979" END="6986">Mitchell</charseq>
+          </extent>
+          <head>
+              <charseq START="6979" END="6986">Mitchell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E47-M5301">
+          <extent>
+              <charseq START="7000" END="7001">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7000" END="7001">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kerrie Mitchell">
+              <charseq START="6812" END="6826">Kerrie Mitchell</charseq>
+          </name>
+          <name NAME="Mitchell">
+              <charseq START="6979" END="6986">Mitchell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E48" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E48-M5605">
+          <extent>
+              <charseq START="7386" END="7403">Cheesecake Factory</charseq>
+          </extent>
+          <head>
+              <charseq START="7386" END="7403">Cheesecake Factory</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Fishsticks_(South_Park).sentences.sgm-E48-M5604">
+          <extent>
+              <charseq START="7382" END="7414">The Cheesecake Factory restaurant</charseq>
+          </extent>
+          <head>
+              <charseq START="7405" END="7414">restaurant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cheesecake Factory">
+              <charseq START="7386" END="7403">Cheesecake Factory</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E49-M5800">
+          <extent>
+              <charseq START="7532" END="7568">Ryan Brockington of the New York Post</charseq>
+          </extent>
+          <head>
+              <charseq START="7532" END="7547">Ryan Brockington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan Brockington">
+              <charseq START="7532" END="7547">Ryan Brockington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E50" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E50-M5802">
+          <extent>
+              <charseq START="7552" END="7568">the New York Post</charseq>
+          </extent>
+          <head>
+              <charseq START="7556" END="7568">New York Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Post">
+              <charseq START="7556" END="7568">New York Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E51-M6200">
+          <extent>
+              <charseq START="7743" END="7771">Carlos Delgado of If Magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="7743" END="7756">Carlos Delgado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E51-M6300">
+          <extent>
+              <charseq START="7881" END="7921">Delgado, who gave the episode a B+ grade,</charseq>
+          </extent>
+          <head>
+              <charseq START="7881" END="7887">Delgado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E51-M6302">
+          <extent>
+              <charseq START="7890" END="7892">who</charseq>
+          </extent>
+          <head>
+              <charseq START="7890" END="7892">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carlos Delgado">
+              <charseq START="7743" END="7756">Carlos Delgado</charseq>
+          </name>
+          <name NAME="Delgado">
+              <charseq START="7881" END="7887">Delgado</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E52" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E52-M6202">
+          <extent>
+              <charseq START="7761" END="7771">If Magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="7761" END="7771">If Magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="If Magazine">
+              <charseq START="7761" END="7771">If Magazine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E53-M6400">
+          <extent>
+              <charseq START="8032" END="8039">TV Guide</charseq>
+          </extent>
+          <head>
+              <charseq START="8032" END="8039">TV Guide</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TV Guide">
+              <charseq START="8032" END="8039">TV Guide</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E54-M6500">
+          <extent>
+              <charseq START="8122" END="8142">Travis Fickett of IGN</charseq>
+          </extent>
+          <head>
+              <charseq START="8122" END="8135">Travis Fickett</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Travis Fickett">
+              <charseq START="8122" END="8135">Travis Fickett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E55-M6700">
+          <extent>
+              <charseq START="8477" END="8504">Sean O&apos;Neal of The A.V.
+Club</charseq>
+          </extent>
+          <head>
+              <charseq START="8477" END="8487">Sean O&apos;Neal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Fishsticks_(South_Park).sentences.sgm-E55-M6703">
+          <extent>
+              <charseq START="8511" END="8512">he</charseq>
+          </extent>
+          <head>
+              <charseq START="8511" END="8512">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E55-M6800">
+          <extent>
+              <charseq START="8688" END="8693">O&apos;Neal</charseq>
+          </extent>
+          <head>
+              <charseq START="8688" END="8693">O&apos;Neal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E55-M6805">
+          <extent>
+              <charseq START="8745" END="8750">O&apos;Neal</charseq>
+          </extent>
+          <head>
+              <charseq START="8745" END="8750">O&apos;Neal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sean O&apos;Neal">
+              <charseq START="8477" END="8487">Sean O&apos;Neal</charseq>
+          </name>
+          <name NAME="O&apos;Neal">
+              <charseq START="8688" END="8693">O&apos;Neal</charseq>
+          </name>
+          <name NAME="O&apos;Neal">
+              <charseq START="8745" END="8750">O&apos;Neal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E56" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E56-M6702">
+          <extent>
+              <charseq START="8492" END="8504">The A.V.
+Club</charseq>
+          </extent>
+          <head>
+              <charseq START="8492" END="8504">The A.V.
+Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The A.V.
+Club">
+              <charseq START="8492" END="8504">The A.V.
+Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E57" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E57-M6905">
+          <extent>
+              <charseq START="9054" END="9067">TV.com
+Episode</charseq>
+          </extent>
+          <head>
+              <charseq START="9054" END="9067">TV.com
+Episode</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TV.com
+Episode">
+              <charseq START="9054" END="9067">TV.com
+Episode</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Fishsticks_(South_Park).sentences.sgm-E58" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E58-M6908">
+          <extent>
+              <charseq START="9078" END="9097">Southparkstudios.com</charseq>
+          </extent>
+          <head>
+              <charseq START="9078" END="9097">Southparkstudios.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Fishsticks_(South_Park).sentences.sgm-E58-M6912">
+          <extent>
+              <charseq START="9128" END="9147">Southparkstudios.com</charseq>
+          </extent>
+          <head>
+              <charseq START="9128" END="9147">Southparkstudios.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southparkstudios.com">
+              <charseq START="9078" END="9097">Southparkstudios.com</charseq>
+          </name>
+          <name NAME="Southparkstudios.com">
+              <charseq START="9128" END="9147">Southparkstudios.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T0" VAL="2009-04-08">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="205" END="217">April 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T1">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1061" END="1068">the week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="2904" END="2906">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T3" VAL="2009-04-08">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="3507" END="3519">April 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T4">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="3678" END="3693">The day after it</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T5" VAL="1993">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="4930" END="4933">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T6">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="5465" END="5472">the week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T7" VAL="P1W">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="5561" END="5569">that week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T8" VAL="XXXX-04">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="5576" END="5580">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T9" VAL="P1D">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="5662" END="5668">one day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T10" VAL="TNI">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="6104" END="6113">last night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T11" VAL="PXD">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="6455" END="6465">these days&quot;</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T12" VAL="P1D">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="6690" END="6696">One day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T13">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="6722" END="6729">this day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T14" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="7016" END="7019">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T15" VAL="XXXX-04-10">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="7124" END="7131">April 10</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T16" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="7318" END="7329">The next day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T17">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="8101" END="8119">moments of the week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Fishsticks_(South_Park).sentences.sgm-T18" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Fishsticks_(South_Park).sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="8365" END="8367">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Fishsticks_(South_Park).sentences.sgm-V19" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Fishsticks_(South_Park).sentences.sgm-V19-M1">
+            <extent>
+              <charseq START="9054" END="9059">TV.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Fishsticks_(South_Park).sentences.sgm-V20" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Fishsticks_(South_Park).sentences.sgm-V20-M1">
+            <extent>
+              <charseq START="9078" END="9097">Southparkstudios.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Fishsticks_(South_Park).sentences.sgm-V21" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Fishsticks_(South_Park).sentences.sgm-V21-M1">
+            <extent>
+              <charseq START="9128" END="9147">Southparkstudios.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="166" END="179">Comedy Central</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E2-M102" ROLE="Arg-1">
+            <extent>
+              <charseq START="166" END="179">Comedy Central</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E3-M103" ROLE="Arg-2">
+            <extent>
+              <charseq START="184" END="200">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R1-M1900">
+          <extent>
+              <charseq START="2391" END="2430">the most talented musician in the world&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E6-M1914" ROLE="Arg-1">
+            <extent>
+              <charseq START="2391" END="2430">the most talented musician in the world&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E18-M1916" ROLE="Arg-2">
+            <extent>
+              <charseq START="2421" END="2430">the world&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R2-M3600">
+          <extent>
+              <charseq START="4901" END="4903">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E9-M3620" ROLE="Arg-1">
+            <extent>
+              <charseq START="4901" END="4903">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E28-M3621" ROLE="Arg-2">
+            <extent>
+              <charseq START="4910" END="4921">a wheelchair</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E38" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R3-M4500">
+          <extent>
+              <charseq START="5985" END="6053">reporter for The New York Times, complimented Mencia for his response</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E37-M4502" ROLE="Arg-1">
+            <extent>
+              <charseq START="5985" END="6053">reporter for The New York Times, complimented Mencia for his response</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E38-M4504" ROLE="Arg-2">
+            <extent>
+              <charseq START="5998" END="6053">The New York Times, complimented Mencia for his response</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R4-M4800">
+          <extent>
+              <charseq START="6220" END="6259">the South Park writers in his blog entry</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E39-M4801" ROLE="Arg-1">
+            <extent>
+              <charseq START="6220" END="6259">the South Park writers in his blog entry</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E1-M4803" ROLE="Arg-2">
+            <extent>
+              <charseq START="6224" END="6233">South Park</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R5-M5000">
+          <extent>
+              <charseq START="6522" END="6550">Daniel Kreps of Rolling Stone</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E42-M5000" ROLE="Arg-1">
+            <extent>
+              <charseq START="6522" END="6550">Daniel Kreps of Rolling Stone</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E43-M5002" ROLE="Arg-2">
+            <extent>
+              <charseq START="6538" END="6550">Rolling Stone</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E44" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R6-M5001">
+          <extent>
+              <charseq START="6621" END="6642">four animated children</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E46-M5007" ROLE="Arg-1">
+            <extent>
+              <charseq START="6621" END="6642">four animated children</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E44-M5008" ROLE="Arg-2">
+            <extent>
+              <charseq START="6649" END="6656">Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E47" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R7-M5200">
+          <extent>
+              <charseq START="6812" END="6850">Kerrie Mitchell of Entertainment Weekly</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E47-M5200" ROLE="Arg-1">
+            <extent>
+              <charseq START="6812" END="6850">Kerrie Mitchell of Entertainment Weekly</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E41-M5202" ROLE="Arg-2">
+            <extent>
+              <charseq START="6831" END="6850">Entertainment Weekly</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E50" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R8-M5800">
+          <extent>
+              <charseq START="7532" END="7568">Ryan Brockington of the New York Post</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E49-M5800" ROLE="Arg-1">
+            <extent>
+              <charseq START="7532" END="7568">Ryan Brockington of the New York Post</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E50-M5802" ROLE="Arg-2">
+            <extent>
+              <charseq START="7552" END="7568">the New York Post</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E51" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E52" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R9-M6200">
+          <extent>
+              <charseq START="7743" END="7771">Carlos Delgado of If Magazine</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E51-M6200" ROLE="Arg-1">
+            <extent>
+              <charseq START="7743" END="7771">Carlos Delgado of If Magazine</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E52-M6202" ROLE="Arg-2">
+            <extent>
+              <charseq START="7761" END="7771">If Magazine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Fishsticks_(South_Park).sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E55" ROLE="Arg-1"/>
+      <relation_argument REFID="Fishsticks_(South_Park).sentences.sgm-E56" ROLE="Arg-2"/>
+        <relation_mention ID="Fishsticks_(South_Park).sentences.sgm-R10-M6700">
+          <extent>
+              <charseq START="8477" END="8504">Sean O&apos;Neal of The A.V.
+Club</charseq>
+          </extent>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E55-M6700" ROLE="Arg-1">
+            <extent>
+              <charseq START="8477" END="8504">Sean O&apos;Neal of The A.V.
+Club</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E56-M6702" ROLE="Arg-2">
+            <extent>
+              <charseq START="8492" END="8504">The A.V.
+Club</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Fishsticks_(South_Park).sentences.sgm-E6" ROLE="Agent"/>
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV0-M2000">
+          <extent>
+              <charseq START="2597" END="2601">beats</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2597" END="2601">beats</charseq>
+          </anchor>
+        <event_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E6-M2011" ROLE="Agent">
+          <extent>
+              <charseq START="2567" END="2571">Kanye</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV0-M2001">
+          <extent>
+              <charseq START="2610" END="2614">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2610" END="2614">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E6-M2011" ROLE="Agent">
+          <extent>
+              <charseq START="2567" END="2571">Kanye</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Fishsticks_(South_Park).sentences.sgm-E5" ROLE="Target"/>
+      <event_argument REFID="Fishsticks_(South_Park).sentences.sgm-E4" ROLE="Attacker"/>
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV1-M2200">
+          <extent>
+              <charseq START="2740" END="2748">confronts</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2740" END="2748">confronts</charseq>
+          </anchor>
+        <event_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E5-M2201" ROLE="Target">
+          <extent>
+              <charseq START="2750" END="2756">Cartman</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-E4-M2200" ROLE="Attacker">
+          <extent>
+              <charseq START="2734" END="2738">Jimmy</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV2-M2301">
+          <extent>
+              <charseq START="2890" END="2893">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2890" END="2893">kill</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV3-M3600">
+          <extent>
+              <charseq START="4769" END="4773">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4769" END="4773">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV4-M4100">
+          <extent>
+              <charseq START="5810" END="5816">bruised</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5810" END="5816">bruised</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Fishsticks_(South_Park).sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Fishsticks_(South_Park).sentences.sgm-T10" ROLE="Time-Within"/>
+      <event_mention ID="Fishsticks_(South_Park).sentences.sgm-EV5-M4601">
+          <extent>
+              <charseq START="6092" END="6099">murdered</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6092" END="6099">murdered</charseq>
+          </anchor>
+          <event_mention_argument REFID="Fishsticks_(South_Park).sentences.sgm-T10-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="6104" END="6113">last night</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

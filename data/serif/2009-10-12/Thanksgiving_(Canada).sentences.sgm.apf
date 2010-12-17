@@ -1,0 +1,1879 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Thanksgiving_(Canada).sentences.sgm">
+  <document DOCID="Thanksgiving_(Canada).sentences.sgm">
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="73" END="114">Canadian French: Jour de l&apos;Action de grâce</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="87">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E0-M1903" ROLE="GPE">
+          <extent>
+              <charseq START="3154" END="3159">French</charseq>
+          </extent>
+          <head>
+              <charseq START="3154" END="3159">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="82" END="87">French</charseq>
+          </name>
+          <name NAME="French">
+              <charseq START="3154" END="3159">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M5">
+          <extent>
+              <charseq START="73" END="80">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="80">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M14" ROLE="GPE">
+          <extent>
+              <charseq START="174" END="181">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="174" END="181">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M208" ROLE="GPE">
+          <extent>
+              <charseq START="474" END="479">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="479">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M302" ROLE="ORG">
+          <extent>
+              <charseq START="611" END="632">the federal government</charseq>
+          </extent>
+          <head>
+              <charseq START="623" END="632">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M701">
+          <extent>
+              <charseq START="1586" END="1591">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1591">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1104">
+          <extent>
+              <charseq START="2027" END="2032">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2027" END="2032">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1107" ROLE="LOC">
+          <extent>
+              <charseq START="2059" END="2064">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2059" END="2064">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1203">
+          <extent>
+              <charseq START="2171" END="2176">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2171" END="2176">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1302">
+          <extent>
+              <charseq START="2470" END="2475">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2470" END="2475">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1805" ROLE="LOC">
+          <extent>
+              <charseq START="3087" END="3101">northern Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="3096" END="3101">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M1905">
+          <extent>
+              <charseq START="3211" END="3216">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="3211" END="3216">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M2309" ROLE="LOC">
+          <extent>
+              <charseq START="3779" END="3784">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="3779" END="3784">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E1-M2408" ROLE="LOC">
+          <extent>
+              <charseq START="3858" END="3863">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="3858" END="3863">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian">
+              <charseq START="73" END="80">Canadian</charseq>
+          </name>
+          <name NAME="Canadian">
+              <charseq START="174" END="181">Canadian</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="474" END="479">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="1586" END="1591">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="2027" END="2032">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="2059" END="2064">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="2171" END="2176">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="2470" END="2475">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="3096" END="3101">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="3211" END="3216">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="3779" END="3784">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="3858" END="3863">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E2-M100">
+          <extent>
+              <charseq START="251" END="261">some people</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="261">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E3-M201">
+          <extent>
+              <charseq START="353" END="375">the Canadian Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="375">Canadian Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="585" END="593">a company</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="593">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E3-M309">
+          <extent>
+              <charseq START="697" END="698">it</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="698">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian Parliament">
+              <charseq START="357" END="375">Canadian Parliament</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E4-M212" ROLE="LOC">
+          <extent>
+              <charseq START="504" END="516">New Brunswick</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="516">New Brunswick</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Brunswick">
+              <charseq START="504" END="516">New Brunswick</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E5-M214">
+          <extent>
+              <charseq START="526" END="538">Edward Island</charseq>
+          </extent>
+          <head>
+              <charseq START="526" END="538">Edward Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edward Island">
+              <charseq START="526" END="538">Edward Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E6-M215">
+          <extent>
+              <charseq START="545" END="555">Nova Scotia</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="555">Nova Scotia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nova Scotia">
+              <charseq START="545" END="555">Nova Scotia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E7-M213">
+          <extent>
+              <charseq START="519" END="524">Prince</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="524">Prince</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E8-M307">
+          <extent>
+              <charseq START="679" END="693">Banking sectors</charseq>
+          </extent>
+          <head>
+              <charseq START="687" END="693">sectors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E9" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E9-M404" ROLE="GPE">
+          <extent>
+              <charseq START="831" END="838">European</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="838">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E9-M416">
+          <extent>
+              <charseq START="969" END="976">European</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="976">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="831" END="838">European</charseq>
+          </name>
+          <name NAME="European">
+              <charseq START="969" END="976">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E10-M415">
+          <extent>
+              <charseq START="957" END="963">English</charseq>
+          </extent>
+          <head>
+              <charseq START="957" END="963">English</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="English">
+              <charseq START="957" END="963">English</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E11-M428">
+          <extent>
+              <charseq START="1105" END="1110">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1110">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish">
+              <charseq START="1105" END="1110">Jewish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E12" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E12-M407">
+          <extent>
+              <charseq START="863" END="870">churches</charseq>
+          </extent>
+          <head>
+              <charseq START="863" END="870">churches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E13-M504">
+          <extent>
+              <charseq START="1195" END="1203">Canadians</charseq>
+          </extent>
+          <head>
+              <charseq START="1195" END="1203">Canadians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E13-M507">
+          <extent>
+              <charseq START="1215" END="1219">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1215" END="1219">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E14-M612">
+          <extent>
+              <charseq START="1490" END="1500">the cottage</charseq>
+          </extent>
+          <head>
+              <charseq START="1494" END="1500">cottage</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E15" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E15-M703">
+          <extent>
+              <charseq START="1629" END="1657">the Canadian Football League,</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1656">Canadian Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E15-M700">
+          <extent>
+              <charseq START="1586" END="1626">Canada&apos;s top professional football league</charseq>
+          </extent>
+          <head>
+              <charseq START="1621" END="1626">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E15-M806">
+          <extent>
+              <charseq START="1774" END="1783">the league</charseq>
+          </extent>
+          <head>
+              <charseq START="1778" END="1783">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E15-M800">
+          <extent>
+              <charseq START="1742" END="1743">It</charseq>
+          </extent>
+          <head>
+              <charseq START="1742" END="1743">It</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian Football League">
+              <charseq START="1633" END="1656">Canadian Football League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E16" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E16-M903">
+          <extent>
+              <charseq START="1882" END="1932">the teams that play on the Thanksgiving Day Classic</charseq>
+          </extent>
+          <head>
+              <charseq START="1886" END="1890">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E16-M905">
+          <extent>
+              <charseq START="1892" END="1895">that</charseq>
+          </extent>
+          <head>
+              <charseq START="1892" END="1895">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E17-M1000">
+          <extent>
+              <charseq START="1952" END="1954">FoD</charseq>
+          </extent>
+          <head>
+              <charseq START="1952" END="1954">FoD</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FoD">
+              <charseq START="1952" END="1954">FoD</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E18" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E18-M1002">
+          <extent>
+              <charseq START="1992" END="1997">school</charseq>
+          </extent>
+          <head>
+              <charseq START="1992" END="1997">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E19-M1102">
+          <extent>
+              <charseq START="2027" END="2064">Canada
+Various First Nations in Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2042" END="2054">First Nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E19-M1202">
+          <extent>
+              <charseq START="2171" END="2192">Canada&apos;s First Nations</charseq>
+          </extent>
+          <head>
+              <charseq START="2180" END="2192">First Nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E19-M2009">
+          <extent>
+              <charseq START="3385" END="3397">First Nations</charseq>
+          </extent>
+          <head>
+              <charseq START="3385" END="3397">First Nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="First Nations">
+              <charseq START="2042" END="2054">First Nations</charseq>
+          </name>
+          <name NAME="First Nations">
+              <charseq START="2180" END="2192">First Nations</charseq>
+          </name>
+          <name NAME="First Nations">
+              <charseq START="3385" END="3397">First Nations</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E20-M1207" ROLE="LOC">
+          <extent>
+              <charseq START="2226" END="2237">the Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="2230" END="2237">Americas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E20-M2304" ROLE="GPE">
+          <extent>
+              <charseq START="3666" END="3673">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3666" END="3673">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E20-M2307" ROLE="LOC">
+          <extent>
+              <charseq START="3731" END="3765">the newly independent United States</charseq>
+          </extent>
+          <head>
+              <charseq START="3753" END="3765">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Americas">
+              <charseq START="2230" END="2237">Americas</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3666" END="3673">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="3753" END="3765">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E21-M1210" ROLE="LOC">
+          <extent>
+              <charseq START="2250" END="2259">the Pueblo</charseq>
+          </extent>
+          <head>
+              <charseq START="2254" END="2259">Pueblo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pueblo">
+              <charseq START="2254" END="2259">Pueblo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E22" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E22-M1212">
+          <extent>
+              <charseq START="2262" END="2269">Cherokee</charseq>
+          </extent>
+          <head>
+              <charseq START="2262" END="2269">Cherokee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cherokee">
+              <charseq START="2262" END="2269">Cherokee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E23-M1213">
+          <extent>
+              <charseq START="2272" END="2275">Cree</charseq>
+          </extent>
+          <head>
+              <charseq START="2272" END="2275">Cree</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cree">
+              <charseq START="2272" END="2275">Cree</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E24" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E24-M1229" ROLE="LOC">
+          <extent>
+              <charseq START="2423" END="2435">North America</charseq>
+          </extent>
+          <head>
+              <charseq START="2423" END="2435">North America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E24-M1706" ROLE="LOC">
+          <extent>
+              <charseq START="3001" END="3013">North America</charseq>
+          </extent>
+          <head>
+              <charseq START="3001" END="3013">North America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North America">
+              <charseq START="2423" END="2435">North America</charseq>
+          </name>
+          <name NAME="North America">
+              <charseq START="3001" END="3013">North America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E25-M1205">
+          <extent>
+              <charseq START="2198" END="2237">Native Americans throughout the Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="2205" END="2213">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E26-M1214">
+          <extent>
+              <charseq START="2281" END="2338">many others organized harvest festivals, ceremonial dances</charseq>
+          </extent>
+          <head>
+              <charseq START="2286" END="2291">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E27-M1228">
+          <extent>
+              <charseq START="2410" END="2418">Europeans</charseq>
+          </extent>
+          <head>
+              <charseq START="2410" END="2418">Europeans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E27-M1705">
+          <extent>
+              <charseq START="2988" END="2996">Europeans</charseq>
+          </extent>
+          <head>
+              <charseq START="2988" END="2996">Europeans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1305">
+          <extent>
+              <charseq START="2503" END="2518">Martin Frobisher</charseq>
+          </extent>
+          <head>
+              <charseq START="2503" END="2518">Martin Frobisher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1304">
+          <extent>
+              <charseq START="2490" END="2500">an explorer</charseq>
+          </extent>
+          <head>
+              <charseq START="2493" END="2500">explorer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1306">
+          <extent>
+              <charseq START="2521" END="2523">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2521" END="2523">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1500">
+          <extent>
+              <charseq START="2651" END="2652">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2651" END="2652">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1603">
+          <extent>
+              <charseq START="2796" END="2797">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2796" END="2797">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1800">
+          <extent>
+              <charseq START="3016" END="3024">Frobisher</charseq>
+          </extent>
+          <head>
+              <charseq START="3016" END="3024">Frobisher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E28-M1807">
+          <extent>
+              <charseq START="3115" END="3117">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3115" END="3117">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martin Frobisher">
+              <charseq START="2503" END="2518">Martin Frobisher</charseq>
+          </name>
+          <name NAME="Frobisher">
+              <charseq START="3016" END="3024">Frobisher</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E29" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E29-M1309">
+          <extent>
+              <charseq START="2571" END="2587">the Pacific Ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="2575" END="2587">Pacific Ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pacific Ocean">
+              <charseq START="2575" END="2587">Pacific Ocean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E30-M1504">
+          <extent>
+              <charseq START="2692" END="2712">the Northwest Passage</charseq>
+          </extent>
+          <head>
+              <charseq START="2696" END="2712">Northwest Passage</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northwest Passage">
+              <charseq START="2696" END="2712">Northwest Passage</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E31-M1509">
+          <extent>
+              <charseq START="2742" END="2753">Henry Hudson</charseq>
+          </extent>
+          <head>
+              <charseq START="2742" END="2753">Henry Hudson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E31-M1510">
+          <extent>
+              <charseq START="2759" END="2761">Sir</charseq>
+          </extent>
+          <head>
+              <charseq START="2759" END="2761">Sir</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Henry Hudson">
+              <charseq START="2742" END="2753">Henry Hudson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E32-M1511">
+          <extent>
+              <charseq START="2763" END="2775">John Franklin</charseq>
+          </extent>
+          <head>
+              <charseq START="2763" END="2775">John Franklin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Franklin">
+              <charseq START="2763" END="2775">John Franklin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E33" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E33-M1611" ROLE="LOC">
+          <extent>
+              <charseq START="2854" END="2865">Newfoundland</charseq>
+          </extent>
+          <head>
+              <charseq START="2854" END="2865">Newfoundland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E33-M1607">
+          <extent>
+              <charseq START="2838" END="2879">the province of Newfoundland and Labrador,</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2849">province</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Newfoundland">
+              <charseq START="2854" END="2865">Newfoundland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E34" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E34-M1612">
+          <extent>
+              <charseq START="2871" END="2878">Labrador</charseq>
+          </extent>
+          <head>
+              <charseq START="2871" END="2878">Labrador</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E35" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E35-M1803">
+          <extent>
+              <charseq START="3065" END="3082">the Atlantic Ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="3069" END="3082">Atlantic Ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E35-M1904">
+          <extent>
+              <charseq START="3186" END="3194">the ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="3190" END="3194">ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atlantic Ocean">
+              <charseq START="3069" END="3082">Atlantic Ocean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E36-M1809" ROLE="GPE">
+          <extent>
+              <charseq START="3121" END="3133">Frobisher Bay</charseq>
+          </extent>
+          <head>
+              <charseq START="3121" END="3133">Frobisher Bay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frobisher Bay">
+              <charseq START="3121" END="3133">Frobisher Bay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E37-M1906">
+          <extent>
+              <charseq START="3223" END="3250">explorer Samuel de Champlain</charseq>
+          </extent>
+          <head>
+              <charseq START="3232" END="3250">Samuel de Champlain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E37-M1907">
+          <extent>
+              <charseq START="3223" END="3230">explorer</charseq>
+          </extent>
+          <head>
+              <charseq START="3223" END="3230">explorer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Samuel de Champlain">
+              <charseq START="3232" END="3250">Samuel de Champlain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E38-M1902">
+          <extent>
+              <charseq START="3154" END="3168">French settlers</charseq>
+          </extent>
+          <head>
+              <charseq START="3161" END="3168">settlers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E38-M2000">
+          <extent>
+              <charseq START="3302" END="3305">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3302" END="3305">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E38-M2006">
+          <extent>
+              <charseq START="3363" END="3367">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3363" END="3367">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E38-M2008">
+          <extent>
+              <charseq START="3379" END="3383">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3379" END="3383">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E39-M2007">
+          <extent>
+              <charseq START="3379" END="3408">their First Nations neighbours</charseq>
+          </extent>
+          <head>
+              <charseq START="3399" END="3408">neighbours</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E40-M2105" ROLE="GPE">
+          <extent>
+              <charseq START="3468" END="3477">New France</charseq>
+          </extent>
+          <head>
+              <charseq START="3468" END="3477">New France</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New France">
+              <charseq START="3468" END="3477">New France</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E41-M2110" ROLE="GPE">
+          <extent>
+              <charseq START="3511" END="3517">Halifax</charseq>
+          </extent>
+          <head>
+              <charseq START="3511" END="3517">Halifax</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Halifax">
+              <charseq START="3511" END="3517">Halifax</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E42-M2106">
+          <extent>
+              <charseq START="3482" END="3492">the British</charseq>
+          </extent>
+          <head>
+              <charseq START="3486" END="3492">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E42-M2108">
+          <extent>
+              <charseq START="3495" END="3517">the citizens of Halifax</charseq>
+          </extent>
+          <head>
+              <charseq START="3499" END="3506">citizens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E43-M2300">
+          <extent>
+              <charseq START="3641" END="3663">the American Revolution</charseq>
+          </extent>
+          <head>
+              <charseq START="3645" END="3663">American Revolution</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Revolution">
+              <charseq START="3645" END="3663">American Revolution</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E44-M2306">
+          <extent>
+              <charseq START="3706" END="3718">Great Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="3706" END="3718">Great Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Great Britain">
+              <charseq START="3706" END="3718">Great Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E45-M2302">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="3675" END="3682">refugees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E45-M2305">
+          <extent>
+              <charseq START="3684" END="3686">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3684" END="3686">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thanksgiving_(Canada).sentences.sgm-E45-M2400">
+          <extent>
+              <charseq START="3787" END="3790">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3787" END="3790">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E46-M2406">
+          <extent>
+              <charseq START="3829" END="3853">the American Thanksgiving</charseq>
+          </extent>
+          <head>
+              <charseq START="3833" END="3853">American Thanksgiving</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Thanksgiving">
+              <charseq START="3833" END="3853">American Thanksgiving</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E47" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E47-M2502">
+          <extent>
+              <charseq START="3899" END="3920">Canadian Confederation</charseq>
+          </extent>
+          <head>
+              <charseq START="3899" END="3920">Canadian Confederation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian Confederation">
+              <charseq START="3899" END="3920">Canadian Confederation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E48-M2509">
+          <extent>
+              <charseq START="4000" END="4042">the Prince of Wales (later King Edward VII)</charseq>
+          </extent>
+          <head>
+              <charseq START="4004" END="4018">Prince of Wales</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Prince of Wales">
+              <charseq START="4004" END="4018">Prince of Wales</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thanksgiving_(Canada).sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thanksgiving_(Canada).sentences.sgm-E49-M2512">
+          <extent>
+              <charseq START="4027" END="4041">King Edward VII</charseq>
+          </extent>
+          <head>
+              <charseq START="4032" END="4041">Edward VII</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thanksgiving_(Canada).sentences.sgm-E49-M2513">
+          <extent>
+              <charseq START="4027" END="4030">King</charseq>
+          </extent>
+          <head>
+              <charseq START="4027" END="4030">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edward VII">
+              <charseq START="4032" END="4041">Edward VII</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T0">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="38" END="49">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T1" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="55" END="70">Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T2">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="142" END="147">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T3" VAL="XXXX-10">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="152" END="158">October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T4">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="167" END="172">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T5" VAL="1957-01-31">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="335" END="350">January 31, 1957</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T6">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="413" END="424">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T7" VAL="XXXX-XX-WE">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1000" END="1033">the Sunday of Thanksgiving weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T8">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1158" END="1177">Thanksgiving holiday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T9">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1187" END="1192">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T10">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1221" END="1232">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T11" VAL="XXXX-XX-WE">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1242" END="1273">any day of the three-day weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T12">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1283" END="1288">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T13">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1294" END="1299">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T14">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1328" END="1339">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T15" VAL="XXXX-XX-WE">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="1406" END="1423">a time for weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T16" VAL="XXXX-FA">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="1449" END="1454">autumn</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T17" VAL="XXXX-XX-WE">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="1470" END="1485">one last weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T18" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="1715" END="1730">Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T19" VAL="P2W">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="1755" END="1763">two weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T20" VAL="XXXX-XX-1TAF" SET="YES">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="1794" END="1810">Monday afternoons</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T21" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="1905" END="1924">the Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T22" SET="YES">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="1941" END="1949">each year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T23">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="1980" END="1990">the day off</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T24">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="2011" END="2022">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T25" VAL="PXCE">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="2378" END="2386">centuries</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T26">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="2454" END="2465">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T27">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="2602" END="2613">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T28" VAL="1578">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="2781" END="2793">the year 1578</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T29" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="2834" END="2836">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T30">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="3139" END="3151">the same time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T31" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="3526" END="3552">special day of Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T32" VAL="PXD">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="3555" END="3571">Thanksgiving days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T33" VAL="1799">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="3600" END="3603">1799</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T34" SET="YES">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="3623" END="3632">every year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T35">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="3842" END="3853">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T36" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="3866" END="3891">The first Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T37" VAL="1872-04-05">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="3957" END="3969">April 5, 1872</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T38" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T38-M1">
+            <extent>
+              <charseq START="4080" END="4100">1879 Thanksgiving Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T39" SET="YES">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T39-M1">
+            <extent>
+              <charseq START="4115" END="4124">every year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T40" VAL="P1Y">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T40-M1">
+            <extent>
+              <charseq START="4131" END="4187">the date was proclaimed annually and changed year to year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T41">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T41-M1">
+            <extent>
+              <charseq START="4207" END="4226">Thanksgiving holiday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T42" SET="YES">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T42-M1">
+            <extent>
+              <charseq START="4241" END="4249">each year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T43" VAL="PXY" MOD="START">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T43-M1">
+            <extent>
+              <charseq START="4304" END="4318">its early years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T44" VAL="P1D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T44-M1">
+            <extent>
+              <charseq START="4429" END="4431">Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T45">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T45-M1">
+            <extent>
+              <charseq START="4437" END="4448">Thanksgiving</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T46" VAL="XXXX-XX-11">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T46-M1">
+            <extent>
+              <charseq START="4469" END="4511">the Monday of the week in which November 11</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T47" VAL="P10Y">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T47-M1">
+            <extent>
+              <charseq START="4523" END="4537">Ten years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T48" VAL="1931">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T48-M1">
+            <extent>
+              <charseq START="4543" END="4546">1931</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thanksgiving_(Canada).sentences.sgm-T49" VAL="P2D">
+        <timex2_mention ID="Thanksgiving_(Canada).sentences.sgm-T49-M1">
+            <extent>
+              <charseq START="4553" END="4585">two days became separate holidays</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R0-M1100">
+          <extent>
+              <charseq START="2027" END="2064">Canada
+Various First Nations in Canada</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E19-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="2027" END="2064">Canada
+Various First Nations in Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M1107" ROLE="Arg-2">
+            <extent>
+              <charseq START="2059" END="2064">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R0-M1200">
+          <extent>
+              <charseq START="2171" END="2192">Canada&apos;s First Nations</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E19-M1202" ROLE="Arg-1">
+            <extent>
+              <charseq START="2171" END="2192">Canada&apos;s First Nations</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M1203" ROLE="Arg-2">
+            <extent>
+              <charseq START="2171" END="2176">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R1-M1201">
+          <extent>
+              <charseq START="2198" END="2237">Native Americans throughout the Americas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E25-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="2198" END="2237">Native Americans throughout the Americas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="2226" END="2237">the Americas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E24" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R2-M1202">
+          <extent>
+              <charseq START="2410" END="2418">Europeans</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E27-M1228" ROLE="Arg-1">
+            <extent>
+              <charseq START="2410" END="2418">Europeans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E24-M1229" ROLE="Arg-2">
+            <extent>
+              <charseq START="2423" END="2435">North America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R3-M1800">
+          <extent>
+              <charseq START="3065" END="3082">the Atlantic Ocean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E35-M1803" ROLE="Arg-1">
+            <extent>
+              <charseq START="3065" END="3082">the Atlantic Ocean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M1805" ROLE="Arg-2">
+            <extent>
+              <charseq START="3087" END="3101">northern Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R4-M1900">
+          <extent>
+              <charseq START="3154" END="3168">French settlers</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E38-M1902" ROLE="Arg-1">
+            <extent>
+              <charseq START="3154" END="3168">French settlers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E0-M1903" ROLE="Arg-2">
+            <extent>
+              <charseq START="3154" END="3159">French</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R5-M2000">
+          <extent>
+              <charseq START="3379" END="3408">their First Nations neighbours</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E39-M2007" ROLE="Arg-1">
+            <extent>
+              <charseq START="3379" END="3408">their First Nations neighbours</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E19-M2009" ROLE="Arg-2">
+            <extent>
+              <charseq START="3385" END="3397">First Nations</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R6-M2100">
+          <extent>
+              <charseq START="3495" END="3517">the citizens of Halifax</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E42-M2108" ROLE="Arg-1">
+            <extent>
+              <charseq START="3495" END="3517">the citizens of Halifax</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E41-M2110" ROLE="Arg-2">
+            <extent>
+              <charseq START="3511" END="3517">Halifax</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R7-M2300">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45-M2302" ROLE="Arg-1">
+            <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20-M2304" ROLE="Arg-2">
+            <extent>
+              <charseq START="3666" END="3673">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R8-M2301">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45-M2302" ROLE="Arg-1">
+            <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20-M2307" ROLE="Arg-2">
+            <extent>
+              <charseq START="3731" END="3765">the newly independent United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Thanksgiving_(Canada).sentences.sgm-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Thanksgiving_(Canada).sentences.sgm-R9-M2302">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45-M2302" ROLE="Arg-1">
+            <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M2309" ROLE="Arg-2">
+            <extent>
+              <charseq START="3779" END="3784">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E24" ROLE="Destination"/>
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E27" ROLE="Artifact"/>
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV0-M1201">
+          <extent>
+              <charseq START="2399" END="2405">arrival</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2399" END="2405">arrival</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E24-M1229" ROLE="Destination">
+          <extent>
+              <charseq START="2423" END="2435">North America</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E27-M1228" ROLE="Artifact">
+          <extent>
+              <charseq START="2410" END="2418">Europeans</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E29" ROLE="Destination"/>
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV1-M1300">
+          <extent>
+              <charseq START="2560" END="2566">passage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2560" END="2566">passage</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E29-M1309" ROLE="Destination">
+          <extent>
+              <charseq START="2571" END="2587">the Pacific Ocean</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1" ROLE="Destination"/>
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV2-M1900">
+          <extent>
+              <charseq START="3200" END="3206">arrived</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3200" END="3206">arrived</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M1905" ROLE="Destination">
+          <extent>
+              <charseq START="3211" END="3216">Canada</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV3-M2100">
+          <extent>
+              <charseq START="3434" END="3436">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3434" END="3436">War</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45" ROLE="Artifact"/>
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20" ROLE="Origin"/>
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV4-M2300">
+          <extent>
+              <charseq START="3720" END="3724">moved</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3720" END="3724">moved</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45-M2302" ROLE="Artifact">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E20-M2307" ROLE="Origin">
+          <extent>
+              <charseq START="3731" END="3765">the newly independent United States</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1" ROLE="Destination"/>
+      <event_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45" ROLE="Artifact"/>
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV5-M2302">
+          <extent>
+              <charseq START="3771" END="3774">came</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3771" END="3774">came</charseq>
+          </anchor>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E1-M2309" ROLE="Destination">
+          <extent>
+              <charseq START="3779" END="3784">Canada</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Thanksgiving_(Canada).sentences.sgm-E45-M2302" ROLE="Artifact">
+          <extent>
+              <charseq START="3666" END="3718">American refugees who remained loyal to Great Britain</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Thanksgiving_(Canada).sentences.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Thanksgiving_(Canada).sentences.sgm-EV6-M2900">
+          <extent>
+              <charseq START="4407" END="4409">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4407" END="4409">War</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

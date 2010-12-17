@@ -1,0 +1,1508 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Chris_Pine.sentences.sgm">
+  <document DOCID="Chris_Pine.sentences.sgm">
+
+    <entity ID="Chris_Pine.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="27" END="68">Christopher Whitelaw Pine (born August 26,</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="51">Christopher Whitelaw Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="79" END="95">an American actor</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="95">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="98" END="99">He</charseq>
+          </extent>
+          <head>
+              <charseq START="98" END="99">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E0-M1201">
+          <extent>
+              <charseq START="1505" END="1508">Pine</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1508">Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E0-M1400">
+          <extent>
+              <charseq START="1774" END="1775">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1774" END="1775">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E0-M1411">
+          <extent>
+              <charseq START="1863" END="1864">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1863" END="1864">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E0-M1801">
+          <extent>
+              <charseq START="2159" END="2162">Pine</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2162">Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E0-M2103">
+          <extent>
+              <charseq START="2543" END="2552">Chris Pine</charseq>
+          </extent>
+          <head>
+              <charseq START="2543" END="2552">Chris Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christopher Whitelaw Pine">
+              <charseq START="27" END="51">Christopher Whitelaw Pine</charseq>
+          </name>
+          <name NAME="Pine">
+              <charseq START="1505" END="1508">Pine</charseq>
+          </name>
+          <name NAME="Pine">
+              <charseq START="2159" END="2162">Pine</charseq>
+          </name>
+          <name NAME="Chris Pine">
+              <charseq START="2543" END="2552">Chris Pine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="82" END="89">American</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="89">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E1-M1404" ROLE="GPE">
+          <extent>
+              <charseq START="1808" END="1815">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1808" END="1815">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E1-M1610" ROLE="LOC">
+          <extent>
+              <charseq START="2063" END="2069">America</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2069">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="82" END="89">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1808" END="1815">American</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="2063" END="2069">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E2-M107">
+          <extent>
+              <charseq START="163" END="185">Royal Engagement (2004)</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="178">Royal Engagement</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E2-M1010">
+          <extent>
+              <charseq START="1331" END="1346">Royal Engagement</charseq>
+          </extent>
+          <head>
+              <charseq START="1331" END="1346">Royal Engagement</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Engagement">
+              <charseq START="163" END="178">Royal Engagement</charseq>
+          </name>
+          <name NAME="Royal Engagement">
+              <charseq START="1331" END="1346">Royal Engagement</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E3-M114">
+          <extent>
+              <charseq START="223" END="235">James T. Kirk</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="235">James T. Kirk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E3-M1814">
+          <extent>
+              <charseq START="2298" END="2322">James T. Kirk in the 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="2298" END="2310">James T. Kirk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James T. Kirk">
+              <charseq START="223" END="235">James T. Kirk</charseq>
+          </name>
+          <name NAME="James T. Kirk">
+              <charseq START="2298" END="2310">James T. Kirk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E5-M203" ROLE="LOC">
+          <extent>
+              <charseq START="313" END="323">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="323">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="313" END="323">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E6-M204" ROLE="LOC">
+          <extent>
+              <charseq START="326" END="369">California to Robert Pine and Gwynne Gilford</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="335">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="326" END="335">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E7-M207">
+          <extent>
+              <charseq START="340" END="350">Robert Pine</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="350">Robert Pine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E7-M209">
+          <extent>
+              <charseq START="372" END="373">he</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="373">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E7-M301">
+          <extent>
+              <charseq START="412" END="414">His</charseq>
+          </extent>
+          <head>
+              <charseq START="412" END="414">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E7-M309">
+          <extent>
+              <charseq START="477" END="479">his</charseq>
+          </extent>
+          <head>
+              <charseq START="477" END="479">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Pine">
+              <charseq START="340" END="350">Robert Pine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E8-M208">
+          <extent>
+              <charseq START="356" END="369">Gwynne Gilford</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="369">Gwynne Gilford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E8-M300">
+          <extent>
+              <charseq START="412" END="421">His father</charseq>
+          </extent>
+          <head>
+              <charseq START="416" END="421">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E8-M302">
+          <extent>
+              <charseq START="427" END="541">an actor who had a contract with Universal, while his mother was an actress and is now a practicing psychotherapist</charseq>
+          </extent>
+          <head>
+              <charseq START="430" END="434">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E8-M310">
+          <extent>
+              <charseq START="514" END="541">a practicing psychotherapist</charseq>
+          </extent>
+          <head>
+              <charseq START="527" END="541">psychotherapist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E8-M304">
+          <extent>
+              <charseq START="436" END="438">who</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="438">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E8-M401">
+          <extent>
+              <charseq START="544" END="546">His</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="546">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E8-M508">
+          <extent>
+              <charseq START="690" END="692">his</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="692">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E8-M908">
+          <extent>
+              <charseq START="1187" END="1188">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1187" END="1188">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E8-M1001">
+          <extent>
+              <charseq START="1257" END="1258">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1257" END="1258">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E8-M1106">
+          <extent>
+              <charseq START="1391" END="1493">Anne Hathaway&apos;s character in the film, which was released in August of that year to a strong box office</charseq>
+          </extent>
+          <head>
+              <charseq START="1407" END="1415">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E8-M1901">
+          <extent>
+              <charseq START="2362" END="2409">the lead man in the upcoming Green Lantern movie</charseq>
+          </extent>
+          <head>
+              <charseq START="2371" END="2373">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gwynne Gilford">
+              <charseq START="356" END="369">Gwynne Gilford</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E9-M213">
+          <extent>
+              <charseq START="401" END="409">Katherine</charseq>
+          </extent>
+          <head>
+              <charseq START="401" END="409">Katherine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E9-M212">
+          <extent>
+              <charseq START="384" END="398">an older sister</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="398">sister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Katherine">
+              <charseq START="401" END="409">Katherine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E10-M307">
+          <extent>
+              <charseq START="460" END="468">Universal</charseq>
+          </extent>
+          <head>
+              <charseq START="460" END="468">Universal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Universal">
+              <charseq START="460" END="468">Universal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E11-M308">
+          <extent>
+              <charseq START="477" END="486">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="486">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E11-M507">
+          <extent>
+              <charseq START="690" END="699">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="694" END="699">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E12-M404">
+          <extent>
+              <charseq START="575" END="585">Anne Gwynne</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="585">Anne Gwynne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E12-M405">
+          <extent>
+              <charseq START="588" END="606">a Hollywood actress</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="606">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anne Gwynne">
+              <charseq START="575" END="585">Anne Gwynne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E13-M406" ROLE="GPE">
+          <extent>
+              <charseq START="590" END="598">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="590" END="598">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E13-M410" ROLE="GPE">
+          <extent>
+              <charseq START="631" END="639">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="631" END="639">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="590" END="598">Hollywood</charseq>
+          </name>
+          <name NAME="Hollywood">
+              <charseq START="631" END="639">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E14-M408">
+          <extent>
+              <charseq START="613" END="626">Max M. Gilford</charseq>
+          </extent>
+          <head>
+              <charseq START="613" END="626">Max M. Gilford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E14-M409">
+          <extent>
+              <charseq START="629" END="648">a Hollywood attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="648">attorney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Max M. Gilford">
+              <charseq START="613" END="626">Max M. Gilford</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E15-M400">
+          <extent>
+              <charseq START="544" END="568">His maternal grandparents</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="568">grandparents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E16-M502" ROLE="LOC">
+          <extent>
+              <charseq START="662" END="666">Welsh</charseq>
+          </extent>
+          <head>
+              <charseq START="662" END="666">Welsh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Welsh">
+              <charseq START="662" END="666">Welsh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E17-M505">
+          <extent>
+              <charseq START="672" END="677">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="672" END="677">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish">
+              <charseq START="672" END="677">Jewish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E18-M604">
+          <extent>
+              <charseq START="738" END="752">Brookwood Camps</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="752">Brookwood Camps</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brookwood Camps">
+              <charseq START="738" END="752">Brookwood Camps</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E19-M605" ROLE="LOC">
+          <extent>
+              <charseq START="757" END="775">Glen Spey, New York</charseq>
+          </extent>
+          <head>
+              <charseq START="757" END="765">Glen Spey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glen Spey">
+              <charseq START="757" END="765">Glen Spey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E20-M607" ROLE="LOC">
+          <extent>
+              <charseq START="768" END="775">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="768" END="775">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="768" END="775">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E21-M601">
+          <extent>
+              <charseq START="723" END="752">summer camp at Brookwood Camps</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="733">camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E22-M713">
+          <extent>
+              <charseq START="903" END="916">Bradley Zeller</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="916">Bradley Zeller</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E22-M709">
+          <extent>
+              <charseq START="855" END="862">a camper</charseq>
+          </extent>
+          <head>
+              <charseq START="857" END="862">camper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E22-M700">
+          <extent>
+              <charseq START="778" END="779">He</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="779">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bradley Zeller">
+              <charseq START="903" END="916">Bradley Zeller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E23-M805">
+          <extent>
+              <charseq START="957" END="980">University of California</charseq>
+          </extent>
+          <head>
+              <charseq START="957" END="980">University of California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of California">
+              <charseq START="957" END="980">University of California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E24-M806" ROLE="LOC">
+          <extent>
+              <charseq START="983" END="990">Berkeley</charseq>
+          </extent>
+          <head>
+              <charseq START="983" END="990">Berkeley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berkeley">
+              <charseq START="983" END="990">Berkeley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E25-M807">
+          <extent>
+              <charseq START="1020" END="1108">the University of Leeds in England and the American Conservatory Theater in San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1024" END="1042">University of Leeds</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Leeds">
+              <charseq START="1024" END="1042">University of Leeds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E26-M811" ROLE="LOC">
+          <extent>
+              <charseq START="1047" END="1053">England</charseq>
+          </extent>
+          <head>
+              <charseq START="1047" END="1053">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="1047" END="1053">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E27-M812">
+          <extent>
+              <charseq START="1059" END="1108">the American Conservatory Theater in San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1091">American Conservatory Theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Conservatory Theater">
+              <charseq START="1063" END="1091">American Conservatory Theater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E28-M815" ROLE="LOC">
+          <extent>
+              <charseq START="1096" END="1108">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1096" END="1108">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="1096" END="1108">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E29-M914">
+          <extent>
+              <charseq START="1219" END="1230">The Guardian</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1230">The Guardian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Guardian">
+              <charseq START="1219" END="1230">The Guardian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E30-M916">
+          <extent>
+              <charseq START="1241" END="1245">Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="1241" END="1245">Miami</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miami">
+              <charseq START="1241" END="1245">Miami</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E31-M912">
+          <extent>
+              <charseq START="1219" END="1245">The Guardian and CSI: Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1230">The Guardian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E32-M1004" ROLE="LOC">
+          <extent>
+              <charseq START="1272" END="1283">Why Germany?</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1282">Why Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Why Germany">
+              <charseq START="1272" END="1282">Why Germany</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E33-M1108">
+          <extent>
+              <charseq START="1391" END="1403">Anne Hathaway</charseq>
+          </extent>
+          <head>
+              <charseq START="1391" END="1403">Anne Hathaway</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anne Hathaway">
+              <charseq START="1391" END="1403">Anne Hathaway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E34-M1115">
+          <extent>
+              <charseq START="1475" END="1493">a strong box office</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1493">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E35-M1208">
+          <extent>
+              <charseq START="1577" END="1586">Confession</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1586">Confession</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Confession">
+              <charseq START="1577" END="1586">Confession</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E36-M1213">
+          <extent>
+              <charseq START="1650" END="1658">The Bulls</charseq>
+          </extent>
+          <head>
+              <charseq START="1654" END="1658">Bulls</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bulls">
+              <charseq START="1654" END="1658">Bulls</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E37-M1303">
+          <extent>
+              <charseq START="1728" END="1744">Surrender Dorothy</charseq>
+          </extent>
+          <head>
+              <charseq START="1728" END="1744">Surrender Dorothy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Surrender Dorothy">
+              <charseq START="1728" END="1744">Surrender Dorothy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E38-M1402">
+          <extent>
+              <charseq START="1789" END="1799">Jake Hardin</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1799">Jake Hardin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E38-M1609">
+          <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+          </extent>
+          <head>
+              <charseq START="2055" END="2058">Jake</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jake Hardin">
+              <charseq START="1789" END="1799">Jake Hardin</charseq>
+          </name>
+          <name NAME="Jake">
+              <charseq START="2055" END="2058">Jake</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E39-M1413">
+          <extent>
+              <charseq START="1872" END="1919">opposite Lindsay Lohan who plays Ashley Albright</charseq>
+          </extent>
+          <head>
+              <charseq START="1881" END="1893">Lindsay Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Chris_Pine.sentences.sgm-E39-M1416">
+          <extent>
+              <charseq START="1895" END="1897">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1895" END="1897">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lindsay Lohan">
+              <charseq START="1881" END="1893">Lindsay Lohan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E40-M1417">
+          <extent>
+              <charseq START="1905" END="1919">Ashley Albright</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1919">Ashley Albright</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ashley Albright">
+              <charseq START="1905" END="1919">Ashley Albright</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Chris_Pine.sentences.sgm-E41-M1607">
+          <extent>
+              <charseq START="2033" END="2069">a new band founded by Jake in America</charseq>
+          </extent>
+          <head>
+              <charseq START="2039" END="2042">band</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E42-M1807">
+          <extent>
+              <charseq START="2207" END="2216">White Jazz</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2216">White Jazz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White Jazz">
+              <charseq START="2207" END="2216">White Jazz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E43-M1904">
+          <extent>
+              <charseq START="2391" END="2403">Green Lantern</charseq>
+          </extent>
+          <head>
+              <charseq START="2391" END="2403">Green Lantern</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Green Lantern">
+              <charseq START="2391" END="2403">Green Lantern</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Chris_Pine.sentences.sgm-E44" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Chris_Pine.sentences.sgm-E44-M2104">
+          <extent>
+              <charseq START="2557" END="2564">LimeLife</charseq>
+          </extent>
+          <head>
+              <charseq START="2557" END="2564">LimeLife</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LimeLife">
+              <charseq START="2557" END="2564">LimeLife</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T0" VAL="1980-08-26">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="59" END="73">August 26, 1980</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T1" VAL="2004">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="181" END="184">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T2" VAL="2006">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="205" END="208">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T3" VAL="2009">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="268" END="271">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="510" END="512">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T5" VAL="XXXX-SU">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="723" END="728">summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T6" VAL="PXY">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="881" END="898">broken years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T7" VAL="2003">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1152" END="1155">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T8" VAL="P1Y">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1172" END="1184">the same year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T9" VAL="2004">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1251" END="1254">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T10" VAL="XXXX-08">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1452" END="1470">August of that year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T11" VAL="2005">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1499" END="1502">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T12" VAL="2006" MOD="START">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1762" END="1771">early 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T13" VAL="2006-05-12">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1947" END="1958">May 12, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T14" VAL="2007">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2153" END="2156">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T15" VAL="2009-05">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2257" END="2264">May 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T16" VAL="2009">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2319" END="2322">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Chris_Pine.sentences.sgm-T17" VAL="TNI">
+        <timex2_mention ID="Chris_Pine.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2477" END="2490">Saturday Night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Chris_Pine.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="79" END="95">an American actor</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E0-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="79" END="95">an American actor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E1-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="82" END="89">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="313" END="323">Los Angeles</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E5-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="313" END="323">Los Angeles</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E6-M204" ROLE="Arg-2">
+            <extent>
+              <charseq START="326" END="369">California to Robert Pine and Gwynne Gilford</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R2-M300">
+          <extent>
+              <charseq START="412" END="414">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E7-M301" ROLE="Arg-1">
+            <extent>
+              <charseq START="412" END="414">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E8-M300" ROLE="Arg-2">
+            <extent>
+              <charseq START="412" END="421">His father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R3-M301">
+          <extent>
+              <charseq START="477" END="479">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E7-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="477" END="479">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E11-M308" ROLE="Arg-2">
+            <extent>
+              <charseq START="477" END="486">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R4-M400">
+          <extent>
+              <charseq START="544" END="546">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E8-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="544" END="546">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E15-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="544" END="568">His maternal grandparents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R5-M401">
+          <extent>
+              <charseq START="588" END="606">a Hollywood actress</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E12-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="588" END="606">a Hollywood actress</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E13-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="590" END="598">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R6-M402">
+          <extent>
+              <charseq START="629" END="648">a Hollywood attorney</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E14-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="629" END="648">a Hollywood attorney</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E13-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="631" END="639">Hollywood</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R7-M600">
+          <extent>
+              <charseq START="723" END="752">summer camp at Brookwood Camps</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E21-M601" ROLE="Arg-1">
+            <extent>
+              <charseq START="723" END="752">summer camp at Brookwood Camps</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E19-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="757" END="775">Glen Spey, New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R8-M601">
+          <extent>
+              <charseq START="757" END="775">Glen Spey, New York</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E19-M605" ROLE="Arg-1">
+            <extent>
+              <charseq START="757" END="775">Glen Spey, New York</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E20-M607" ROLE="Arg-2">
+            <extent>
+              <charseq START="768" END="775">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R9-M800">
+          <extent>
+              <charseq START="1020" END="1108">the University of Leeds in England and the American Conservatory Theater in San Francisco</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E25-M807" ROLE="Arg-1">
+            <extent>
+              <charseq START="1020" END="1108">the University of Leeds in England and the American Conservatory Theater in San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E26-M811" ROLE="Arg-2">
+            <extent>
+              <charseq START="1047" END="1053">England</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R10-M801">
+          <extent>
+              <charseq START="1059" END="1108">the American Conservatory Theater in San Francisco</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E27-M812" ROLE="Arg-1">
+            <extent>
+              <charseq START="1059" END="1108">the American Conservatory Theater in San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E28-M815" ROLE="Arg-2">
+            <extent>
+              <charseq START="1096" END="1108">San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R11" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E35" ROLE="Arg-2"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-T11" ROLE="Time-Within"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R11-M1200">
+          <extent>
+              <charseq START="1505" END="1508">Pine</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E0-M1201" ROLE="Arg-1">
+            <extent>
+              <charseq START="1505" END="1508">Pine</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E35-M1208" ROLE="Arg-2">
+            <extent>
+              <charseq START="1577" END="1586">Confession</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-T11-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1499" END="1502">2005</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R12-M1600">
+          <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E38-M1609" ROLE="Arg-1">
+            <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E41-M1607" ROLE="Arg-2">
+            <extent>
+              <charseq START="2033" END="2069">a new band founded by Jake in America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R13" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R13-M1601">
+          <extent>
+              <charseq START="2033" END="2069">a new band founded by Jake in America</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E41-M1607" ROLE="Arg-1">
+            <extent>
+              <charseq START="2033" END="2069">a new band founded by Jake in America</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E1-M1610" ROLE="Arg-2">
+            <extent>
+              <charseq START="2063" END="2069">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R14" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R14-M1602">
+          <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E38-M1609" ROLE="Arg-1">
+            <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E1-M1610" ROLE="Arg-2">
+            <extent>
+              <charseq START="2063" END="2069">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Chris_Pine.sentences.sgm-R15" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Chris_Pine.sentences.sgm-E44" ROLE="Arg-2"/>
+        <relation_mention ID="Chris_Pine.sentences.sgm-R15-M2100">
+          <extent>
+              <charseq START="2543" END="2552">Chris Pine</charseq>
+          </extent>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E0-M2103" ROLE="Arg-1">
+            <extent>
+              <charseq START="2543" END="2552">Chris Pine</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Chris_Pine.sentences.sgm-E44-M2104" ROLE="Arg-2">
+            <extent>
+              <charseq START="2557" END="2564">LimeLife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Chris_Pine.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Chris_Pine.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Chris_Pine.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_argument REFID="Chris_Pine.sentences.sgm-E5" ROLE="Place"/>
+      <event_mention ID="Chris_Pine.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="54" END="57">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="54" END="57">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Chris_Pine.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="27" END="68">Christopher Whitelaw Pine (born August 26,</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Chris_Pine.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="59" END="73">August 26, 1980</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Chris_Pine.sentences.sgm-EV0-M200">
+          <extent>
+              <charseq START="305" END="308">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="305" END="308">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Chris_Pine.sentences.sgm-E5-M203" ROLE="Place">
+          <extent>
+              <charseq START="313" END="323">Los Angeles</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Chris_Pine.sentences.sgm-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Chris_Pine.sentences.sgm-E38" ROLE="Agent"/>
+      <event_argument REFID="Chris_Pine.sentences.sgm-E41" ROLE="Org"/>
+      <event_argument REFID="Chris_Pine.sentences.sgm-E1" ROLE="Place"/>
+      <event_mention ID="Chris_Pine.sentences.sgm-EV1-M1601">
+          <extent>
+              <charseq START="2044" END="2050">founded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2044" END="2050">founded</charseq>
+          </anchor>
+        <event_mention_argument REFID="Chris_Pine.sentences.sgm-E38-M1609" ROLE="Agent">
+          <extent>
+              <charseq START="2055" END="2058">Jake</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Chris_Pine.sentences.sgm-E41-M1607" ROLE="Org">
+          <extent>
+              <charseq START="2033" END="2069">a new band founded by Jake in America</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Chris_Pine.sentences.sgm-E1-M1610" ROLE="Place">
+          <extent>
+              <charseq START="2063" END="2069">America</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

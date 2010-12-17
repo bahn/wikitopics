@@ -1,0 +1,710 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="List_of_Super_Bowl_champions.sentences.sgm">
+  <document DOCID="List_of_Super_Bowl_champions.sentences.sgm">
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E0-M4" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="73" END="80">American</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="80">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E0-M103" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="190" END="197">American</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="197">American</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M9">
+          <extent>
+              <charseq START="128" END="161">the National Football League (NFL)</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="155">National Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M12">
+          <extent>
+              <charseq START="158" END="160">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="160">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M215">
+          <extent>
+              <charseq START="389" END="391">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="391">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M308">
+          <extent>
+              <charseq START="473" END="506">the National Football League (NFL)</charseq>
+          </extent>
+          <head>
+              <charseq START="477" END="500">National Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M311">
+          <extent>
+              <charseq START="503" END="505">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="505">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M400">
+          <extent>
+              <charseq START="569" END="575">the NFC</charseq>
+          </extent>
+          <head>
+              <charseq START="573" END="575">NFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M501">
+          <extent>
+              <charseq START="641" END="643">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="643">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M601">
+          <extent>
+              <charseq START="699" END="701">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="699" END="701">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M802">
+          <extent>
+              <charseq START="995" END="997">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="995" END="997">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M1137">
+          <extent>
+              <charseq START="1579" END="1581">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1581">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M1168">
+          <extent>
+              <charseq START="1765" END="1767">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="1765" END="1767">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E1-M1166">
+          <extent>
+              <charseq START="1760" END="1844">team
+NFL lore
+References
+External links
+National Football League
+Super Bowl
+Champions</charseq>
+          </extent>
+          <head>
+              <charseq START="1836" END="1844">Champions</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Football League">
+              <charseq START="132" END="155">National Football League</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="158" END="160">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="389" END="391">NFL</charseq>
+          </name>
+          <name NAME="National Football League">
+              <charseq START="477" END="500">National Football League</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="503" END="505">NFL</charseq>
+          </name>
+          <name NAME="NFC">
+              <charseq START="573" END="575">NFC</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="641" END="643">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="699" END="701">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="995" END="997">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="1579" END="1581">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="1765" END="1767">NFL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E2-M7">
+          <extent>
+              <charseq START="112" END="161">the champion of the National Football League (NFL)</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="123">champion</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E2-M200">
+          <extent>
+              <charseq START="277" END="315">The winner of the AFC Championship Game</charseq>
+          </extent>
+          <head>
+              <charseq START="281" END="286">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E2-M205">
+          <extent>
+              <charseq START="323" END="400">the winner of the NFC Championship Game in the culmination of the NFL playoffs</charseq>
+          </extent>
+          <head>
+              <charseq START="327" END="332">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="187" END="274">an American city that is chosen years in advance, usually in warm-weather or domed sites</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="202">city</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E4-M304">
+          <extent>
+              <charseq START="434" END="467">the American Football League (AFL)</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="461">American Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E4-M307">
+          <extent>
+              <charseq START="464" END="466">AFL</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="466">AFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E4-M502">
+          <extent>
+              <charseq START="649" END="651">AFL</charseq>
+          </extent>
+          <head>
+              <charseq START="649" END="651">AFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E4-M800">
+          <extent>
+              <charseq START="991" END="993">AFL</charseq>
+          </extent>
+          <head>
+              <charseq START="991" END="993">AFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Football League">
+              <charseq START="438" END="461">American Football League</charseq>
+          </name>
+          <name NAME="AFL">
+              <charseq START="464" END="466">AFL</charseq>
+          </name>
+          <name NAME="AFL">
+              <charseq START="649" END="651">AFL</charseq>
+          </name>
+          <name NAME="AFL">
+              <charseq START="991" END="993">AFL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E5-M312">
+          <extent>
+              <charseq START="509" END="523">the two leagues</charseq>
+          </extent>
+          <head>
+              <charseq START="517" END="523">leagues</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E6-M407">
+          <extent>
+              <charseq START="617" END="623">the AFC</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="623">AFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFC">
+              <charseq START="621" END="623">AFC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E7-M606">
+          <extent>
+              <charseq START="749" END="764">Cleveland Browns</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="764">Cleveland Browns</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cleveland Browns">
+              <charseq START="749" END="764">Cleveland Browns</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E8-M607">
+          <extent>
+              <charseq START="767" END="779">Detroit Lions</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="779">Detroit Lions</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroit Lions">
+              <charseq START="767" END="779">Detroit Lions</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E9-M608">
+          <extent>
+              <charseq START="782" END="795">Houston Texans</charseq>
+          </extent>
+          <head>
+              <charseq START="782" END="795">Houston Texans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E9-M609">
+          <extent>
+              <charseq START="798" END="816">2002 expansion team</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="816">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Houston Texans">
+              <charseq START="782" END="795">Houston Texans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E10-M611">
+          <extent>
+              <charseq START="820" END="839">Jacksonville Jaguars</charseq>
+          </extent>
+          <head>
+              <charseq START="820" END="839">Jacksonville Jaguars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E10-M612">
+          <extent>
+              <charseq START="842" END="860">1995 expansion team</charseq>
+          </extent>
+          <head>
+              <charseq START="857" END="860">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jacksonville Jaguars">
+              <charseq START="820" END="839">Jacksonville Jaguars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E11-M614">
+          <extent>
+              <charseq START="868" END="885">New Orleans Saints</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="885">New Orleans Saints</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E11-M810">
+          <extent>
+              <charseq START="1085" END="1088">team</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1088">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E11-M818">
+          <extent>
+              <charseq START="1137" END="1145">that team</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1145">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E11-M1117" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1452" END="1478">Tulane Stadium
+|New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="1468" END="1478">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Orleans Saints">
+              <charseq START="868" END="885">New Orleans Saints</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E12-M600">
+          <extent>
+              <charseq START="687" END="707">Five active NFL teams</charseq>
+          </extent>
+          <head>
+              <charseq START="703" END="707">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E13-M701">
+          <extent>
+              <charseq START="892" END="909">Kansas City Chiefs</charseq>
+          </extent>
+          <head>
+              <charseq START="892" END="909">Kansas City Chiefs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E13-M1106">
+          <extent>
+              <charseq START="1374" END="1392">|Kansas City Chiefs</charseq>
+          </extent>
+          <head>
+              <charseq START="1375" END="1392">Kansas City Chiefs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kansas City Chiefs">
+              <charseq START="892" END="909">Kansas City Chiefs</charseq>
+          </name>
+          <name NAME="Kansas City Chiefs">
+              <charseq START="1375" END="1392">Kansas City Chiefs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E14-M702">
+          <extent>
+              <charseq START="915" END="927">New York Jets</charseq>
+          </extent>
+          <head>
+              <charseq START="915" END="927">New York Jets</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Jets">
+              <charseq START="915" END="927">New York Jets</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E15-M905">
+          <extent>
+              <charseq START="1192" END="1198">stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="1192" END="1198">stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E15-M1118">
+          <extent>
+              <charseq START="1452" END="1465">Tulane Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="1452" END="1465">Tulane Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tulane Stadium">
+              <charseq START="1452" END="1465">Tulane Stadium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E16-M1005">
+          <extent>
+              <charseq START="1268" END="1289">that metropolitan area</charseq>
+          </extent>
+          <head>
+              <charseq START="1286" END="1289">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E17-M1105">
+          <extent>
+              <charseq START="1366" END="1372">#FFCCCC</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1372">#FFCCCC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="#FFCCCC">
+              <charseq START="1366" END="1372">#FFCCCC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E18-M1116" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1433" END="1441">Minnesota</charseq>
+          </extent>
+          <head>
+              <charseq START="1433" END="1441">Minnesota</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Super_Bowl_champions.sentences.sgm-E19-M1121" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1481" END="1489">Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1489">Louisiana</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E20-M1139">
+          <extent>
+              <charseq START="1601" END="1637">quarterbacks with multiple Super Bowl</charseq>
+          </extent>
+          <head>
+              <charseq START="1601" END="1612">quarterbacks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Super_Bowl_champions.sentences.sgm-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Super_Bowl_champions.sentences.sgm-E21-M1156">
+          <extent>
+              <charseq START="1709" END="1731">Super Bowl head coaches</charseq>
+          </extent>
+          <head>
+              <charseq START="1725" END="1731">coaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T0">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="66" END="71">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T1" VAL="PXY">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="219" END="223">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T2" VAL="1970">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="414" END="417">1970</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T3" VAL="2002">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="798" END="801">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T4" VAL="1995">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="842" END="845">1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T5" VAL="1970">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="985" END="988">1970</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Super_Bowl_champions.sentences.sgm-T6" VAL="1970-01-11">
+        <timex2_mention ID="List_of_Super_Bowl_champions.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1339" END="1354">January 11, 1970</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="List_of_Super_Bowl_champions.sentences.sgm-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="List_of_Super_Bowl_champions.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="1407" END="1412">| 23–7</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="List_of_Super_Bowl_champions.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Super_Bowl_champions.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="112" END="161">the champion of the National Football League (NFL)</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E2-M7" ROLE="Arg-1">
+            <extent>
+              <charseq START="112" END="161">the champion of the National Football League (NFL)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E1-M9" ROLE="Arg-2">
+            <extent>
+              <charseq START="128" END="161">the National Football League (NFL)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Super_Bowl_champions.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Super_Bowl_champions.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="190" END="197">American</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E0-M103" ROLE="Arg-1">
+            <extent>
+              <charseq START="190" END="197">American</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E3-M101" ROLE="Arg-2">
+            <extent>
+              <charseq START="187" END="274">an American city that is chosen years in advance, usually in warm-weather or domed sites</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Super_Bowl_champions.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Super_Bowl_champions.sentences.sgm-R2-M600">
+          <extent>
+              <charseq START="687" END="707">Five active NFL teams</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E12-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="687" END="707">Five active NFL teams</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E1-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="699" END="701">NFL</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="List_of_Super_Bowl_champions.sentences.sgm-EV0" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E5" ROLE="Entity"/>
+      <event_mention ID="List_of_Super_Bowl_champions.sentences.sgm-EV0-M300">
+          <extent>
+              <charseq START="525" END="527">met</charseq>
+          </extent>
+          <anchor>
+              <charseq START="525" END="527">met</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Super_Bowl_champions.sentences.sgm-E5-M312" ROLE="Entity">
+          <extent>
+              <charseq START="509" END="523">the two leagues</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Super_Bowl_champions.sentences.sgm-EV1" TYPE="Business" SUBTYPE="Merge-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_Super_Bowl_champions.sentences.sgm-EV1-M301">
+          <extent>
+              <charseq START="419" END="424">merger</charseq>
+          </extent>
+          <anchor>
+              <charseq START="419" END="424">merger</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="List_of_Super_Bowl_champions.sentences.sgm-EV1-M700">
+          <extent>
+              <charseq START="975" END="980">merger</charseq>
+          </extent>
+          <anchor>
+              <charseq START="975" END="980">merger</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

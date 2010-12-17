@@ -1,0 +1,3964 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm">
+  <document DOCID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm">
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M4">
+          <extent>
+              <charseq START="64" END="69">Thomas</charseq>
+          </extent>
+          <head>
+              <charseq START="64" END="69">Thomas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1119" END="1144">Disappearance
+Thomas Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1144">Thomas Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1001">
+          <extent>
+              <charseq START="1119" END="1131">Disappearance</charseq>
+          </extent>
+          <head>
+              <charseq START="1119" END="1131">Disappearance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1004">
+          <extent>
+              <charseq START="1150" END="1176">a retired probation officer</charseq>
+          </extent>
+          <head>
+              <charseq START="1170" END="1176">officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1006">
+          <extent>
+              <charseq START="1182" END="1194">a bodybuilder</charseq>
+          </extent>
+          <head>
+              <charseq START="1184" END="1194">bodybuilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1100">
+          <extent>
+              <charseq START="1197" END="1198">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1197" END="1198">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1104">
+          <extent>
+              <charseq START="1212" END="1214">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1214">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thomas">
+              <charseq START="64" END="69">Thomas</charseq>
+          </name>
+          <name NAME="Thomas Hawks">
+              <charseq START="1133" END="1144">Thomas Hawks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M5">
+          <extent>
+              <charseq START="75" END="86">Jackie Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="86">Jackie Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M111">
+          <extent>
+              <charseq START="331" END="339">the Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="339">Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1105">
+          <extent>
+              <charseq START="1228" END="1278">Jackie Hawks (formerly of Mentor-on-the-Lake, Ohio)</charseq>
+          </extent>
+          <head>
+              <charseq START="1228" END="1239">Jackie Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1115">
+          <extent>
+              <charseq START="1323" END="1326">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1326">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1118">
+          <extent>
+              <charseq START="1339" END="1343">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1339" END="1343">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1120">
+          <extent>
+              <charseq START="1373" END="1376">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1373" END="1376">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1212">
+          <extent>
+              <charseq START="1559" END="1567">Mr. Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="1563" END="1567">Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1213">
+          <extent>
+              <charseq START="1559" END="1561">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="1559" END="1561">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1208">
+          <extent>
+              <charseq START="1541" END="1596">the grandchild of Mr. Hawks&apos; son from his first marriage</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1554">grandchild</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1201">
+          <extent>
+              <charseq START="1456" END="1459">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1459">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1204">
+          <extent>
+              <charseq START="1477" END="1481">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1481">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1300">
+          <extent>
+              <charseq START="1599" END="1604">Jackie</charseq>
+          </extent>
+          <head>
+              <charseq START="1599" END="1604">Jackie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1301">
+          <extent>
+              <charseq START="1619" END="1626">the boys</charseq>
+          </extent>
+          <head>
+              <charseq START="1623" END="1626">boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1307">
+          <extent>
+              <charseq START="1697" END="1708">her grandson</charseq>
+          </extent>
+          <head>
+              <charseq START="1701" END="1708">grandson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1302">
+          <extent>
+              <charseq START="1634" END="1637">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1634" END="1637">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1305">
+          <extent>
+              <charseq START="1647" END="1651">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1647" END="1651">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1402">
+          <extent>
+              <charseq START="1711" END="1715">Their</charseq>
+          </extent>
+          <head>
+              <charseq START="1711" END="1715">Their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1500">
+          <extent>
+              <charseq START="1799" END="1808">The couple</charseq>
+          </extent>
+          <head>
+              <charseq START="1803" END="1808">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1509">
+          <extent>
+              <charseq START="1922" END="1926">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1922" END="1926">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1600">
+          <extent>
+              <charseq START="1954" END="1962">The Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="1958" END="1962">Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1701">
+          <extent>
+              <charseq START="2073" END="2076">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2073" END="2076">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1801">
+          <extent>
+              <charseq START="2087" END="2091">Their</charseq>
+          </extent>
+          <head>
+              <charseq START="2087" END="2091">Their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1903">
+          <extent>
+              <charseq START="2156" END="2165">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="2160" END="2165">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2003">
+          <extent>
+              <charseq START="2236" END="2244">the Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="2240" END="2244">Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2403">
+          <extent>
+              <charseq START="2553" END="2561">the Hawks</charseq>
+          </extent>
+          <head>
+              <charseq START="2557" END="2561">Hawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2406">
+          <extent>
+              <charseq START="2571" END="2575">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2571" END="2575">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2410">
+          <extent>
+              <charseq START="2613" END="2617">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2613" END="2617">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2607">
+          <extent>
+              <charseq START="2990" END="2999">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="2994" END="2999">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2707">
+          <extent>
+              <charseq START="3218" END="3227">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="3222" END="3227">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2818">
+          <extent>
+              <charseq START="3478" END="3487">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="3482" END="3487">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2819">
+          <extent>
+              <charseq START="3499" END="3502">them</charseq>
+          </extent>
+          <head>
+              <charseq START="3499" END="3502">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2902">
+          <extent>
+              <charseq START="3562" END="3571">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="3566" END="3571">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jackie Hawks">
+              <charseq START="75" END="86">Jackie Hawks</charseq>
+          </name>
+          <name NAME="Hawks">
+              <charseq START="335" END="339">Hawks</charseq>
+          </name>
+          <name NAME="Jackie Hawks">
+              <charseq START="1228" END="1239">Jackie Hawks</charseq>
+          </name>
+          <name NAME="Hawks">
+              <charseq START="1563" END="1567">Hawks</charseq>
+          </name>
+          <name NAME="Jackie">
+              <charseq START="1599" END="1604">Jackie</charseq>
+          </name>
+          <name NAME="Hawks">
+              <charseq START="1958" END="1962">Hawks</charseq>
+          </name>
+          <name NAME="Hawks">
+              <charseq START="2240" END="2244">Hawks</charseq>
+          </name>
+          <name NAME="Hawks">
+              <charseq START="2557" END="2561">Hawks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E2-M8">
+          <extent>
+              <charseq START="103" END="110">Prescott</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="110">Prescott</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Prescott">
+              <charseq START="103" END="110">Prescott</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E3-M9" ROLE="LOC">
+          <extent>
+              <charseq START="113" END="119">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="113" END="119">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arizona">
+              <charseq START="113" END="119">Arizona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4-M10" ROLE="LOC">
+          <extent>
+              <charseq START="122" END="134">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="122" END="134">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4-M405" ROLE="GPE">
+          <extent>
+              <charseq START="643" END="650">American</charseq>
+          </extent>
+          <head>
+              <charseq START="643" END="650">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="122" END="134">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="643" END="650">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E5-M12" ROLE="LOC">
+          <extent>
+              <charseq START="149" END="183">Newport Beach Harbor (Newport Beach</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="183">Newport Beach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E5-M13">
+          <extent>
+              <charseq START="149" END="168">Newport Beach Harbor</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="168">Newport Beach Harbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E5-M1206" ROLE="LOC">
+          <extent>
+              <charseq START="1509" END="1523">Newport Harbor,</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1522">Newport Harbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E5-M2806" ROLE="LOC">
+          <extent>
+              <charseq START="3321" END="3340">Newport Beach Harbor</charseq>
+          </extent>
+          <head>
+              <charseq START="3321" END="3340">Newport Beach Harbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Newport Beach">
+              <charseq START="171" END="183">Newport Beach</charseq>
+          </name>
+          <name NAME="Newport Beach Harbor">
+              <charseq START="149" END="168">Newport Beach Harbor</charseq>
+          </name>
+          <name NAME="Newport Harbor">
+              <charseq START="1509" END="1522">Newport Harbor</charseq>
+          </name>
+          <name NAME="Newport Beach Harbor">
+              <charseq START="3321" END="3340">Newport Beach Harbor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E6" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E6-M15" ROLE="LOC">
+          <extent>
+              <charseq START="186" END="213">California) in November 2004</charseq>
+          </extent>
+          <head>
+              <charseq START="186" END="195">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="186" END="195">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E7-M6">
+          <extent>
+              <charseq START="89" END="110">a couple from Prescott</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="96">couple</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M103">
+          <extent>
+              <charseq START="229" END="247">Skylar James Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="229" END="247">Skylar James Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M100">
+          <extent>
+              <charseq START="216" END="286">Perpetrators
+Skylar James Deleon and his former wife Jennifer Henderson</charseq>
+          </extent>
+          <head>
+              <charseq START="216" END="227">Perpetrators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M106">
+          <extent>
+              <charseq START="253" END="255">his</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="255">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M200">
+          <extent>
+              <charseq START="351" END="356">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="351" END="356">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M400">
+          <extent>
+              <charseq START="585" END="623">Skylar James Deleon (born John Jacobson</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="603">Skylar James Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M504">
+          <extent>
+              <charseq START="701" END="706">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="706">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M601">
+          <extent>
+              <charseq START="772" END="773">he</charseq>
+          </extent>
+          <head>
+              <charseq START="772" END="773">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M701">
+          <extent>
+              <charseq START="881" END="886">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="886">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M700">
+          <extent>
+              <charseq START="872" END="879">an adult</charseq>
+          </extent>
+          <head>
+              <charseq START="875" END="879">adult</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M704">
+          <extent>
+              <charseq START="921" END="923">his</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="923">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M801">
+          <extent>
+              <charseq START="965" END="966">he</charseq>
+          </extent>
+          <head>
+              <charseq START="965" END="966">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M900">
+          <extent>
+              <charseq START="1065" END="1066">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1065" END="1066">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M1407">
+          <extent>
+              <charseq START="1784" END="1796">Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1796">Skylar Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M1501">
+          <extent>
+              <charseq START="1836" END="1841">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="1836" END="1841">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M1502">
+          <extent>
+              <charseq START="1875" END="1876">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1875" END="1876">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M1506">
+          <extent>
+              <charseq START="1886" END="1888">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1886" END="1888">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2202">
+          <extent>
+              <charseq START="2414" END="2426">Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="2414" END="2426">Skylar Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2300">
+          <extent>
+              <charseq START="2429" END="2430">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2429" END="2430">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2304">
+          <extent>
+              <charseq START="2447" END="2448">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2448">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2415">
+          <extent>
+              <charseq START="2685" END="2690">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="2685" END="2690">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2400">
+          <extent>
+              <charseq START="2528" END="2529">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2528" END="2529">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2408">
+          <extent>
+              <charseq START="2586" END="2588">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2588">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2501">
+          <extent>
+              <charseq START="2768" END="2769">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2768" END="2769">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2504">
+          <extent>
+              <charseq START="2788" END="2789">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2788" END="2789">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2506">
+          <extent>
+              <charseq START="2809" END="2810">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2809" END="2810">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2514">
+          <extent>
+              <charseq START="2885" END="2886">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2885" END="2886">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2608">
+          <extent>
+              <charseq START="3029" END="3034">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3029" END="3034">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2610">
+          <extent>
+              <charseq START="3037" END="3042">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3037" END="3042">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2701">
+          <extent>
+              <charseq START="3106" END="3118">Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3106" END="3118">Skylar Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2812">
+          <extent>
+              <charseq START="3380" END="3385">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3380" END="3385">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2900">
+          <extent>
+              <charseq START="3515" END="3520">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3515" END="3520">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3002">
+          <extent>
+              <charseq START="3678" END="3683">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3678" END="3683">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3111">
+          <extent>
+              <charseq START="3926" END="3938">Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3926" END="3938">Skylar Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3203">
+          <extent>
+              <charseq START="4038" END="4043">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4038" END="4043">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3208">
+          <extent>
+              <charseq START="4103" END="4105">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4103" END="4105">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3403">
+          <extent>
+              <charseq START="4229" END="4234">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4229" END="4234">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3501">
+          <extent>
+              <charseq START="4388" END="4393">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4388" END="4393">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3503">
+          <extent>
+              <charseq START="4413" END="4415">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4413" END="4415">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3705">
+          <extent>
+              <charseq START="4610" END="4622">Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4610" END="4622">Skylar Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3802">
+          <extent>
+              <charseq START="4633" END="4638">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4633" END="4638">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3807">
+          <extent>
+              <charseq START="4700" END="4705">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4700" END="4705">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3808">
+          <extent>
+              <charseq START="4732" END="4737">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4732" END="4737">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3805">
+          <extent>
+              <charseq START="4683" END="4685">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4683" END="4685">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3907">
+          <extent>
+              <charseq START="4862" END="4867">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4862" END="4867">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4001">
+          <extent>
+              <charseq START="4918" END="4923">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="4918" END="4923">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4105">
+          <extent>
+              <charseq START="5219" END="5224">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="5219" END="5224">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4301">
+          <extent>
+              <charseq START="5392" END="5397">Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="5392" END="5397">Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Skylar James Deleon">
+              <charseq START="229" END="247">Skylar James Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="351" END="356">Deleon</charseq>
+          </name>
+          <name NAME="Skylar James Deleon">
+              <charseq START="585" END="603">Skylar James Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="701" END="706">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="881" END="886">Deleon</charseq>
+          </name>
+          <name NAME="Skylar Deleon">
+              <charseq START="1784" END="1796">Skylar Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="1836" END="1841">Deleon</charseq>
+          </name>
+          <name NAME="Skylar Deleon">
+              <charseq START="2414" END="2426">Skylar Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="2685" END="2690">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="3029" END="3034">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="3037" END="3042">Deleon</charseq>
+          </name>
+          <name NAME="Skylar Deleon">
+              <charseq START="3106" END="3118">Skylar Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="3380" END="3385">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="3515" END="3520">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="3678" END="3683">Deleon</charseq>
+          </name>
+          <name NAME="Skylar Deleon">
+              <charseq START="3926" END="3938">Skylar Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4038" END="4043">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4229" END="4234">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4388" END="4393">Deleon</charseq>
+          </name>
+          <name NAME="Skylar Deleon">
+              <charseq START="4610" END="4622">Skylar Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4633" END="4638">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4700" END="4705">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4732" END="4737">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4862" END="4867">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="4918" END="4923">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="5219" END="5224">Deleon</charseq>
+          </name>
+          <name NAME="Deleon">
+              <charseq START="5392" END="5397">Deleon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M107">
+          <extent>
+              <charseq START="269" END="286">Jennifer Henderson</charseq>
+          </extent>
+          <head>
+              <charseq START="269" END="286">Jennifer Henderson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M104">
+          <extent>
+              <charseq START="253" END="286">his former wife Jennifer Henderson</charseq>
+          </extent>
+          <head>
+              <charseq START="264" END="267">wife</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M202">
+          <extent>
+              <charseq START="388" END="396">Henderson</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="396">Henderson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M1507">
+          <extent>
+              <charseq START="1909" END="1916">Jennifer</charseq>
+          </extent>
+          <head>
+              <charseq START="1909" END="1916">Jennifer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M1505">
+          <extent>
+              <charseq START="1886" END="1907">his then-pregnant wife</charseq>
+          </extent>
+          <head>
+              <charseq START="1904" END="1907">wife</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M2611">
+          <extent>
+              <charseq START="3051" END="3058">Jennifer</charseq>
+          </extent>
+          <head>
+              <charseq START="3051" END="3058">Jennifer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3003">
+          <extent>
+              <charseq START="3693" END="3700">Jennifer</charseq>
+          </extent>
+          <head>
+              <charseq START="3693" END="3700">Jennifer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3001">
+          <extent>
+              <charseq START="3678" END="3690">Deleon&apos;s wife</charseq>
+          </extent>
+          <head>
+              <charseq START="3687" END="3690">wife</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3103">
+          <extent>
+              <charseq START="3847" END="3861">Jennifer Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3847" END="3861">Jennifer Deleon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3106">
+          <extent>
+              <charseq START="3884" END="3938">Jennifer Henderson since her divorce from Skylar Deleon</charseq>
+          </extent>
+          <head>
+              <charseq START="3884" END="3901">Jennifer Henderson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3110">
+          <extent>
+              <charseq START="3909" END="3911">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3909" END="3911">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jennifer Henderson">
+              <charseq START="269" END="286">Jennifer Henderson</charseq>
+          </name>
+          <name NAME="Henderson">
+              <charseq START="388" END="396">Henderson</charseq>
+          </name>
+          <name NAME="Jennifer">
+              <charseq START="1909" END="1916">Jennifer</charseq>
+          </name>
+          <name NAME="Jennifer">
+              <charseq START="3051" END="3058">Jennifer</charseq>
+          </name>
+          <name NAME="Jennifer">
+              <charseq START="3693" END="3700">Jennifer</charseq>
+          </name>
+          <name NAME="Jennifer Deleon">
+              <charseq START="3847" END="3861">Jennifer Deleon</charseq>
+          </name>
+          <name NAME="Jennifer Henderson">
+              <charseq START="3884" END="3901">Jennifer Henderson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10-M206">
+          <extent>
+              <charseq START="436" END="441">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="441">prison</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M302">
+          <extent>
+              <charseq START="475" END="497">John Fitzgerald Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="497">John Fitzgerald Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M301">
+          <extent>
+              <charseq START="459" END="472">A third person</charseq>
+          </extent>
+          <head>
+              <charseq START="467" END="472">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2612">
+          <extent>
+              <charseq START="3065" END="3071">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="3065" END="3071">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2700">
+          <extent>
+              <charseq START="3074" END="3080">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="3074" END="3080">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2703">
+          <extent>
+              <charseq START="3141" END="3143">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3141" END="3143">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2704">
+          <extent>
+              <charseq START="3178" END="3179">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3178" END="3179">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2817">
+          <extent>
+              <charseq START="3446" END="3457">John Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="3446" END="3457">John Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2905">
+          <extent>
+              <charseq START="3605" END="3655">Kennedy (who once served time for attempted murder)</charseq>
+          </extent>
+          <head>
+              <charseq START="3605" END="3611">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M2907">
+          <extent>
+              <charseq START="3614" END="3616">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3614" END="3616">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Fitzgerald Kennedy">
+              <charseq START="475" END="497">John Fitzgerald Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="3065" END="3071">Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="3074" END="3080">Kennedy</charseq>
+          </name>
+          <name NAME="John Kennedy">
+              <charseq START="3446" END="3457">John Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="3605" END="3611">Kennedy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M304">
+          <extent>
+              <charseq START="535" END="559">a fourth, Alonso Machain,</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="558">Alonso Machain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2411">
+          <extent>
+              <charseq START="2634" END="2722">Alonso Machain (a former correctional officer that Deleon met while in jail for burglary)</charseq>
+          </extent>
+          <head>
+              <charseq START="2634" END="2647">Alonso Machain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2413">
+          <extent>
+              <charseq START="2650" END="2721">a former correctional officer that Deleon met while in jail for burglary</charseq>
+          </extent>
+          <head>
+              <charseq START="2672" END="2678">officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2601">
+          <extent>
+              <charseq START="2923" END="2929">Machain</charseq>
+          </extent>
+          <head>
+              <charseq START="2923" END="2929">Machain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2815">
+          <extent>
+              <charseq START="3411" END="3424">Alonso Machain</charseq>
+          </extent>
+          <head>
+              <charseq START="3411" END="3424">Alonso Machain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2911">
+          <extent>
+              <charseq START="3661" END="3667">Machain</charseq>
+          </extent>
+          <head>
+              <charseq START="3661" END="3667">Machain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alonso Machain">
+              <charseq START="545" END="558">Alonso Machain</charseq>
+          </name>
+          <name NAME="Alonso Machain">
+              <charseq START="2634" END="2647">Alonso Machain</charseq>
+          </name>
+          <name NAME="Machain">
+              <charseq START="2923" END="2929">Machain</charseq>
+          </name>
+          <name NAME="Alonso Machain">
+              <charseq START="3411" END="3424">Alonso Machain</charseq>
+          </name>
+          <name NAME="Machain">
+              <charseq START="3661" END="3667">Machain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E13-M402">
+          <extent>
+              <charseq START="611" END="623">John Jacobson</charseq>
+          </extent>
+          <head>
+              <charseq START="611" END="623">John Jacobson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E13-M404">
+          <extent>
+              <charseq START="634" END="662">a former American child actor</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="662">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Jacobson">
+              <charseq START="611" END="623">John Jacobson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M406">
+          <extent>
+              <charseq START="652" END="656">child</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="656">child</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M500">
+          <extent>
+              <charseq START="665" END="698">The son of a convicted drug dealer</charseq>
+          </extent>
+          <head>
+              <charseq START="669" END="671">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M509">
+          <extent>
+              <charseq START="752" END="758">a child</charseq>
+          </extent>
+          <head>
+              <charseq START="754" END="758">child</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1210">
+          <extent>
+              <charseq START="1559" END="1596">Mr. Hawks&apos; son from his first marriage</charseq>
+          </extent>
+          <head>
+              <charseq START="1570" END="1572">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1216">
+          <extent>
+              <charseq START="1579" END="1581">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1581">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1306">
+          <extent>
+              <charseq START="1681" END="1692">the new baby</charseq>
+          </extent>
+          <head>
+              <charseq START="1689" END="1692">baby</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15-M502">
+          <extent>
+              <charseq START="676" END="698">a convicted drug dealer</charseq>
+          </extent>
+          <head>
+              <charseq START="693" END="698">dealer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E16-M603">
+          <extent>
+              <charseq START="787" END="825">the series Mighty Morphin Power Rangers</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="825">Morphin Power Rangers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Morphin Power Rangers">
+              <charseq START="805" END="825">Morphin Power Rangers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E17-M605" ROLE="GPE">
+          <extent>
+              <charseq START="798" END="803">Mighty</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="803">Mighty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mighty">
+              <charseq START="798" END="803">Mighty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E18-M803">
+          <extent>
+              <charseq START="975" END="1004">the United States Marine Corps</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="1004">United States Marine Corps</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States Marine Corps">
+              <charseq START="979" END="1004">United States Marine Corps</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E19" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E19-M1108">
+          <extent>
+              <charseq START="1254" END="1271">Mentor-on-the-Lake</charseq>
+          </extent>
+          <head>
+              <charseq START="1254" END="1271">Mentor-on-the-Lake</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mentor-on-the-Lake">
+              <charseq START="1254" END="1271">Mentor-on-the-Lake</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E20-M1109" ROLE="LOC">
+          <extent>
+              <charseq START="1274" END="1277">Ohio</charseq>
+          </extent>
+          <head>
+              <charseq START="1274" END="1277">Ohio</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ohio">
+              <charseq START="1274" END="1277">Ohio</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E21" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E21-M1123">
+          <extent>
+              <charseq START="1406" END="1422">the Pacific Ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1422">Pacific Ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pacific Ocean">
+              <charseq START="1410" END="1422">Pacific Ocean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E22-M1125">
+          <extent>
+              <charseq START="1428" END="1444">the Sea of Cortez</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1444">Sea of Cortez</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sea of Cortez">
+              <charseq START="1432" END="1444">Sea of Cortez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E23-M1103">
+          <extent>
+              <charseq START="1212" END="1226">his second wife</charseq>
+          </extent>
+          <head>
+              <charseq START="1223" END="1226">wife</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E23-M1308">
+          <extent>
+              <charseq START="1697" END="1699">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1697" END="1699">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1110">
+          <extent>
+              <charseq START="1281" END="1295">a 55-foot yacht</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1295">yacht</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1203">
+          <extent>
+              <charseq START="1477" END="1487">their yacht</charseq>
+          </extent>
+          <head>
+              <charseq START="1483" END="1487">yacht</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1405">
+          <extent>
+              <charseq START="1746" END="1754">the yacht</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1754">yacht</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1700">
+          <extent>
+              <charseq START="2049" END="2057">The yacht</charseq>
+          </extent>
+          <head>
+              <charseq START="2053" END="2057">yacht</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M2306">
+          <extent>
+              <charseq START="2457" END="2464">the boat</charseq>
+          </extent>
+          <head>
+              <charseq START="2461" END="2464">boat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M2503">
+          <extent>
+              <charseq START="2778" END="2785">the boat</charseq>
+          </extent>
+          <head>
+              <charseq START="2782" END="2785">boat</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E25-M1117">
+          <extent>
+              <charseq START="1339" END="1358">their permanent home</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1358">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E25-M1205">
+          <extent>
+              <charseq START="1501" END="1504">home</charseq>
+          </extent>
+          <head>
+              <charseq START="1501" END="1504">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26-M1508">
+          <extent>
+              <charseq START="1922" END="1938">their other child</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1938">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E27-M1605">
+          <extent>
+              <charseq START="2037" END="2046">the harbor</charseq>
+          </extent>
+          <head>
+              <charseq START="2041" END="2046">harbor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E28-M1900">
+          <extent>
+              <charseq START="2121" END="2140">Investigation
+Police</charseq>
+          </extent>
+          <head>
+              <charseq START="2135" END="2140">Police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E28-M2105">
+          <extent>
+              <charseq START="2350" END="2355">police</charseq>
+          </extent>
+          <head>
+              <charseq START="2350" END="2355">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E28-M2201">
+          <extent>
+              <charseq START="2391" END="2400">the police</charseq>
+          </extent>
+          <head>
+              <charseq START="2395" END="2400">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E28-M2402">
+          <extent>
+              <charseq START="2541" END="2546">police</charseq>
+          </extent>
+          <head>
+              <charseq START="2541" END="2546">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E29-M2006" ROLE="LOC">
+          <extent>
+              <charseq START="2265" END="2270">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="2265" END="2270">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E29-M3308">
+          <extent>
+              <charseq START="4213" END="4218">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="4213" END="4218">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mexico">
+              <charseq START="2265" END="2270">Mexico</charseq>
+          </name>
+          <name NAME="Mexico">
+              <charseq START="4213" END="4218">Mexico</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E30-M2104" ROLE="GPE">
+          <extent>
+              <charseq START="2341" END="2348">Carlsbad</charseq>
+          </extent>
+          <head>
+              <charseq START="2341" END="2348">Carlsbad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carlsbad">
+              <charseq START="2341" END="2348">Carlsbad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31-M2100">
+          <extent>
+              <charseq START="2273" END="2282">The family</charseq>
+          </extent>
+          <head>
+              <charseq START="2277" END="2282">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31-M2302">
+          <extent>
+              <charseq START="2437" END="2440">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2440">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31-M2309">
+          <extent>
+              <charseq START="2494" END="2497">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2494" END="2497">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31-M4205">
+          <extent>
+              <charseq START="5333" END="5357">the family of the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="5337" END="5342">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E32-M2103">
+          <extent>
+              <charseq START="2337" END="2366">the Carlsbad police department</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2366">department</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33-M2307">
+          <extent>
+              <charseq START="2471" END="2481">the Hawkses</charseq>
+          </extent>
+          <head>
+              <charseq START="2475" END="2481">Hawkses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33-M2810">
+          <extent>
+              <charseq START="3367" END="3377">the Hawkses</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3377">Hawkses</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hawkses">
+              <charseq START="2475" END="2481">Hawkses</charseq>
+          </name>
+          <name NAME="Hawkses">
+              <charseq START="3371" END="3377">Hawkses</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34-M2405">
+          <extent>
+              <charseq START="2571" END="2579">their car</charseq>
+          </extent>
+          <head>
+              <charseq START="2577" END="2579">car</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34-M2409">
+          <extent>
+              <charseq START="2613" END="2621">their car</charseq>
+          </extent>
+          <head>
+              <charseq START="2619" END="2621">car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M2417">
+          <extent>
+              <charseq START="2705" END="2708">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="2705" END="2708">jail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M3202">
+          <extent>
+              <charseq START="4032" END="4035">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="4032" END="4035">jail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M3505">
+          <extent>
+              <charseq START="4462" END="4465">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="4462" END="4465">jail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M3603">
+          <extent>
+              <charseq START="4522" END="4525">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="4522" END="4525">jail</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E36-M2419">
+          <extent>
+              <charseq START="2727" END="2733">witness</charseq>
+          </extent>
+          <head>
+              <charseq START="2727" END="2733">witness</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E37-M2816">
+          <extent>
+              <charseq START="3427" END="3439">Myron Gardner</charseq>
+          </extent>
+          <head>
+              <charseq START="3427" END="3439">Myron Gardner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Myron Gardner">
+              <charseq START="3427" END="3439">Myron Gardner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E38-M2800">
+          <extent>
+              <charseq START="3268" END="3285">Trials
+Authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="3275" END="3285">Authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E39-M2813">
+          <extent>
+              <charseq START="3391" END="3407">three accomplices</charseq>
+          </extent>
+          <head>
+              <charseq START="3397" END="3407">accomplices</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3205">
+          <extent>
+              <charseq START="4078" END="4091">another inmate</charseq>
+          </extent>
+          <head>
+              <charseq START="4086" END="4091">inmate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3207">
+          <extent>
+              <charseq START="4103" END="4112">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="4107" END="4112">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3400">
+          <extent>
+              <charseq START="4229" END="4308">Deleon&apos;s father and cousin (who was charged as an accessory to the Jarvi murder)</charseq>
+          </extent>
+          <head>
+              <charseq START="4238" END="4243">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3402">
+          <extent>
+              <charseq START="4229" END="4243">Deleon&apos;s father</charseq>
+          </extent>
+          <head>
+              <charseq START="4238" END="4243">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3405">
+          <extent>
+              <charseq START="4257" END="4259">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4257" END="4259">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3209">
+          <extent>
+              <charseq START="4118" END="4123">cousin</charseq>
+          </extent>
+          <head>
+              <charseq START="4118" END="4123">cousin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3300">
+          <extent>
+              <charseq START="4126" END="4127">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4126" END="4127">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3404">
+          <extent>
+              <charseq START="4249" END="4254">cousin</charseq>
+          </extent>
+          <head>
+              <charseq START="4249" END="4254">cousin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3601">
+          <extent>
+              <charseq START="4503" END="4504">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4503" END="4504">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3303">
+          <extent>
+              <charseq START="4157" END="4166">John Jarvi</charseq>
+          </extent>
+          <head>
+              <charseq START="4157" END="4166">John Jarvi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3304">
+          <extent>
+              <charseq START="4169" END="4226">a resident of Anaheim who was found dead in Mexico in 2003</charseq>
+          </extent>
+          <head>
+              <charseq START="4171" END="4178">resident</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3307">
+          <extent>
+              <charseq START="4191" END="4193">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4191" END="4193">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3408">
+          <extent>
+              <charseq START="4296" END="4300">Jarvi</charseq>
+          </extent>
+          <head>
+              <charseq START="4296" END="4300">Jarvi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Jarvi">
+              <charseq START="4157" END="4166">John Jarvi</charseq>
+          </name>
+          <name NAME="Jarvi">
+              <charseq START="4296" END="4300">Jarvi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E43-M3306" ROLE="GPE">
+          <extent>
+              <charseq START="4183" END="4189">Anaheim</charseq>
+          </extent>
+          <head>
+              <charseq START="4183" END="4189">Anaheim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anaheim">
+              <charseq START="4183" END="4189">Anaheim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E44-M3409">
+          <extent>
+              <charseq START="4326" END="4366">important witnesses&quot; in both murder cases</charseq>
+          </extent>
+          <head>
+              <charseq START="4336" END="4344">witnesses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M3806">
+          <extent>
+              <charseq START="4700" END="4716">Deleon&apos;s attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="4709" END="4716">attorney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M3900">
+          <extent>
+              <charseq START="4779" END="4790">The attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="4783" END="4790">attorney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M3901">
+          <extent>
+              <charseq START="4802" END="4803">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4802" END="4803">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M4104">
+          <extent>
+              <charseq START="5219" END="5235">Deleon&apos;s attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5235">attorney</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46-M3906">
+          <extent>
+              <charseq START="4850" END="4855">a jury</charseq>
+          </extent>
+          <head>
+              <charseq START="4852" END="4855">jury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46-M4011">
+          <extent>
+              <charseq START="5070" END="5077">the jury</charseq>
+          </extent>
+          <head>
+              <charseq START="5074" END="5077">jury</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E47-M4009">
+          <extent>
+              <charseq START="5027" END="5042">multiple victims</charseq>
+          </extent>
+          <head>
+              <charseq START="5036" END="5042">victims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E47-M4207">
+          <extent>
+              <charseq START="5347" END="5357">the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="5351" END="5357">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4303">
+          <extent>
+              <charseq START="5425" END="5470">Orange County Superior Court Judge Frank Fasel</charseq>
+          </extent>
+          <head>
+              <charseq START="5460" END="5470">Frank Fasel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4305">
+          <extent>
+              <charseq START="5454" END="5458">Judge</charseq>
+          </extent>
+          <head>
+              <charseq START="5454" END="5458">Judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frank Fasel">
+              <charseq START="5460" END="5470">Frank Fasel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E49" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E49-M4304">
+          <extent>
+              <charseq START="5425" END="5452">Orange County Superior Court</charseq>
+          </extent>
+          <head>
+              <charseq START="5425" END="5452">Orange County Superior Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Orange County Superior Court">
+              <charseq START="5425" END="5452">Orange County Superior Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T0" VAL="2004-11">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="201" END="213">November 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="257" END="262">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="503" END="511">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="636" END="641">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T4">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="954" END="962">At age 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T5" VAL="P15D">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1045" END="1062">fifteen days later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1242" END="1249">formerly</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T7" VAL="P2Y">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1389" END="1397">two years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T8" VAL="2004">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1450" END="1453">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T9" VAL="XXXX-11">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1772" END="1779">November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T10" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1969" END="1972">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T11" VAL="2004-11-15TMO">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1988" END="2019">the morning of November 15, 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T12" VAL="2004-11-26">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2187" END="2203">November 26, 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T13" VAL="2004-11-29">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2372" END="2388">November 29, 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T14" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2652" END="2657">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T15" VAL="2002">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2870" END="2873">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T16" VAL="2005-03">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2911" END="2920">March 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T17" VAL="PXD">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="3342" END="3351">a few days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T18" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3618" END="3621">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T19" VAL="2006-XX-17">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3760" END="3783">Friday November 17, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T20" VAL="PT4H">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3792" END="3827">only four hours of jury deliberation</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T21" VAL="2007-10">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3833" END="3844">October 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T22" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3864" END="3866">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T23" VAL="2003">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4223" END="4226">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T24" VAL="2008-03-13">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4372" END="4385">March 13, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T25" VAL="P1D">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="4527" END="4543">the following day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T26" VAL="2008-09-22">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="4549" END="4566">September 22, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T27" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="4678" END="4681">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T28" VAL="XXXX-10-20">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="4906" END="4915">October 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T29" VAL="2008-11-06">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="5052" END="5067">November 6, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T30" VAL="2009-01-16">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="5150" END="5165">January 16, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T31" VAL="XXXX-03-20">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="5196" END="5203">March 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T32" VAL="XXXX-03-13">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="5241" END="5248">March 13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T33" VAL="XXXX-04-10">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="5315" END="5322">April 10</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T34" VAL="2009-04-10">
+        <timex2_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="5376" END="5389">April 10, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35" TYPE="Crime">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35-M1">
+            <extent>
+              <charseq START="311" END="348">charges relating to the Hawks&apos; murders</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V36" TYPE="Sentence">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V36-M1">
+            <extent>
+              <charseq START="375" END="379">death</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V37" TYPE="Sentence">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V37-M1">
+            <extent>
+              <charseq START="415" END="431">two terms of life</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V38" TYPE="Job-Title">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V38-M1">
+            <extent>
+              <charseq START="1150" END="1176">a retired probation officer</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V39" TYPE="Job-Title">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V39-M1">
+            <extent>
+              <charseq START="2650" END="2721">a former correctional officer that Deleon met while in jail for burglary</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V40" TYPE="Sentence">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V40-M1">
+            <extent>
+              <charseq START="3958" END="3971">two life terms</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V41" TYPE="Crime">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V41-M1">
+            <extent>
+              <charseq START="4067" END="4123">soliciting another inmate to murder his father and cousin</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V42" TYPE="Sentence">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V42-M1">
+            <extent>
+              <charseq START="4896" END="4900">death</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V43" TYPE="Sentence">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V43-M1">
+            <extent>
+              <charseq START="5416" END="5420">death</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V44" TYPE="Crime">
+        <value_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V44-M1">
+            <extent>
+              <charseq START="4942" END="5002">three counts of first-degree murder and special circumstances</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R0" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="253" END="255">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M106" ROLE="Arg-1">
+            <extent>
+              <charseq START="253" END="255">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="253" END="286">his former wife Jennifer Henderson</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R0-M1500">
+          <extent>
+              <charseq START="1886" END="1888">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M1506" ROLE="Arg-1">
+            <extent>
+              <charseq START="1886" END="1888">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M1505" ROLE="Arg-2">
+            <extent>
+              <charseq START="1886" END="1907">his then-pregnant wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R0-M3000">
+          <extent>
+              <charseq START="3678" END="3683">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3002" ROLE="Arg-1">
+            <extent>
+              <charseq START="3678" END="3683">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3001" ROLE="Arg-2">
+            <extent>
+              <charseq START="3678" END="3690">Deleon&apos;s wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="388" END="396">Henderson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="388" END="396">Henderson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="436" END="441">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R2-M400">
+          <extent>
+              <charseq START="634" END="662">a former American child actor</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E13-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="634" END="662">a former American child actor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="643" END="650">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R3-M401">
+          <extent>
+              <charseq START="652" END="656">child</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="652" END="656">child</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E4-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="643" END="650">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R4-M500">
+          <extent>
+              <charseq START="665" END="698">The son of a convicted drug dealer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="665" END="698">The son of a convicted drug dealer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15-M502" ROLE="Arg-2">
+            <extent>
+              <charseq START="676" END="698">a convicted drug dealer</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R5-M1101">
+          <extent>
+              <charseq START="1228" END="1278">Jackie Hawks (formerly of Mentor-on-the-Lake, Ohio)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1105" ROLE="Arg-1">
+            <extent>
+              <charseq START="1228" END="1278">Jackie Hawks (formerly of Mentor-on-the-Lake, Ohio)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E19-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1254" END="1271">Mentor-on-the-Lake</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R6-M1102">
+          <extent>
+              <charseq START="1228" END="1278">Jackie Hawks (formerly of Mentor-on-the-Lake, Ohio)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1105" ROLE="Arg-1">
+            <extent>
+              <charseq START="1228" END="1278">Jackie Hawks (formerly of Mentor-on-the-Lake, Ohio)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E20-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1274" END="1277">Ohio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R7-M1103">
+          <extent>
+              <charseq START="1339" END="1343">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1118" ROLE="Arg-1">
+            <extent>
+              <charseq START="1339" END="1343">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E25-M1117" ROLE="Arg-2">
+            <extent>
+              <charseq START="1339" END="1358">their permanent home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E21" ROLE="Arg-2"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T7" ROLE="Time-Within"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R8-M1104">
+          <extent>
+              <charseq START="1373" END="1376">they</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1120" ROLE="Arg-1">
+            <extent>
+              <charseq START="1373" END="1376">they</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E21-M1123" ROLE="Arg-2">
+            <extent>
+              <charseq START="1406" END="1422">the Pacific Ocean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1389" END="1397">two years</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R9-M1200">
+          <extent>
+              <charseq START="1477" END="1481">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1204" ROLE="Arg-1">
+            <extent>
+              <charseq START="1477" END="1481">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1203" ROLE="Arg-2">
+            <extent>
+              <charseq START="1477" END="1487">their yacht</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R10" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R10-M1201">
+          <extent>
+              <charseq START="1541" END="1596">the grandchild of Mr. Hawks&apos; son from his first marriage</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1208" ROLE="Arg-1">
+            <extent>
+              <charseq START="1541" END="1596">the grandchild of Mr. Hawks&apos; son from his first marriage</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1210" ROLE="Arg-2">
+            <extent>
+              <charseq START="1559" END="1596">Mr. Hawks&apos; son from his first marriage</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R10-M1202">
+          <extent>
+              <charseq START="1559" END="1567">Mr. Hawks</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1212" ROLE="Arg-1">
+            <extent>
+              <charseq START="1559" END="1567">Mr. Hawks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1210" ROLE="Arg-2">
+            <extent>
+              <charseq START="1559" END="1596">Mr. Hawks&apos; son from his first marriage</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R11-M1301">
+          <extent>
+              <charseq START="1697" END="1699">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E23-M1308" ROLE="Arg-1">
+            <extent>
+              <charseq START="1697" END="1699">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1307" ROLE="Arg-2">
+            <extent>
+              <charseq START="1697" END="1708">her grandson</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R12" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R12-M1501">
+          <extent>
+              <charseq START="1922" END="1926">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1509" ROLE="Arg-1">
+            <extent>
+              <charseq START="1922" END="1926">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26-M1508" ROLE="Arg-2">
+            <extent>
+              <charseq START="1922" END="1938">their other child</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R13" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R13-M2100">
+          <extent>
+              <charseq START="2337" END="2366">the Carlsbad police department</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E32-M2103" ROLE="Arg-1">
+            <extent>
+              <charseq START="2337" END="2366">the Carlsbad police department</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E30-M2104" ROLE="Arg-2">
+            <extent>
+              <charseq START="2341" END="2348">Carlsbad</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R14-M2300">
+          <extent>
+              <charseq START="2447" END="2448">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2304" ROLE="Arg-1">
+            <extent>
+              <charseq START="2447" END="2448">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33-M2307" ROLE="Arg-2">
+            <extent>
+              <charseq START="2471" END="2481">the Hawkses</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R15-M2400">
+          <extent>
+              <charseq START="2553" END="2561">the Hawks</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2403" ROLE="Arg-1">
+            <extent>
+              <charseq START="2553" END="2561">the Hawks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34-M2405" ROLE="Arg-2">
+            <extent>
+              <charseq START="2571" END="2579">their car</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R15-M2401">
+          <extent>
+              <charseq START="2571" END="2575">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2406" ROLE="Arg-1">
+            <extent>
+              <charseq START="2571" END="2575">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34-M2405" ROLE="Arg-2">
+            <extent>
+              <charseq START="2571" END="2579">their car</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R15-M2402">
+          <extent>
+              <charseq START="2613" END="2617">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2410" ROLE="Arg-1">
+            <extent>
+              <charseq START="2613" END="2617">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E34-M2409" ROLE="Arg-2">
+            <extent>
+              <charseq START="2613" END="2621">their car</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R16" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R16-M2403">
+          <extent>
+              <charseq START="2685" END="2690">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2415" ROLE="Arg-1">
+            <extent>
+              <charseq START="2685" END="2690">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M2417" ROLE="Arg-2">
+            <extent>
+              <charseq START="2705" END="2708">jail</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R16-M3500">
+          <extent>
+              <charseq START="4388" END="4393">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3501" ROLE="Arg-1">
+            <extent>
+              <charseq START="4388" END="4393">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M3505" ROLE="Arg-2">
+            <extent>
+              <charseq START="4462" END="4465">jail</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R17" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R17-M3200">
+          <extent>
+              <charseq START="4103" END="4105">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3208" ROLE="Arg-1">
+            <extent>
+              <charseq START="4103" END="4105">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3207" ROLE="Arg-2">
+            <extent>
+              <charseq START="4103" END="4112">his father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R17-M3400">
+          <extent>
+              <charseq START="4229" END="4234">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3403" ROLE="Arg-1">
+            <extent>
+              <charseq START="4229" END="4234">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3402" ROLE="Arg-2">
+            <extent>
+              <charseq START="4229" END="4243">Deleon&apos;s father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R18" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R18-M3300">
+          <extent>
+              <charseq START="4169" END="4226">a resident of Anaheim who was found dead in Mexico in 2003</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3304" ROLE="Arg-1">
+            <extent>
+              <charseq START="4169" END="4226">a resident of Anaheim who was found dead in Mexico in 2003</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E43-M3306" ROLE="Arg-2">
+            <extent>
+              <charseq START="4183" END="4189">Anaheim</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R19" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R19-M3800">
+          <extent>
+              <charseq START="4700" END="4705">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3807" ROLE="Arg-1">
+            <extent>
+              <charseq START="4700" END="4705">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M3806" ROLE="Arg-2">
+            <extent>
+              <charseq START="4700" END="4716">Deleon&apos;s attorney</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R19-M4100">
+          <extent>
+              <charseq START="5219" END="5224">Deleon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4105" ROLE="Arg-1">
+            <extent>
+              <charseq START="5219" END="5224">Deleon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M4104" ROLE="Arg-2">
+            <extent>
+              <charseq START="5219" END="5235">Deleon&apos;s attorney</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R20" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E47" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R20-M4200">
+          <extent>
+              <charseq START="5333" END="5357">the family of the victims</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E31-M4205" ROLE="Arg-1">
+            <extent>
+              <charseq START="5333" END="5357">the family of the victims</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E47-M4207" ROLE="Arg-2">
+            <extent>
+              <charseq START="5347" END="5357">the victims</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R21" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E49" ROLE="Arg-2"/>
+        <relation_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-R21-M4300">
+          <extent>
+              <charseq START="5454" END="5458">Judge</charseq>
+          </extent>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4305" ROLE="Arg-1">
+            <extent>
+              <charseq START="5454" END="5458">Judge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E49-M4304" ROLE="Arg-2">
+            <extent>
+              <charseq START="5425" END="5452">Orange County Superior Court</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0" ROLE="Victim"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Victim"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E7" ROLE="Victim"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="54" END="59">murder</charseq>
+          </extent>
+          <anchor>
+              <charseq START="54" END="59">murder</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M4" ROLE="Victim">
+          <extent>
+              <charseq START="64" END="69">Thomas</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M5" ROLE="Victim">
+          <extent>
+              <charseq START="75" END="86">Jackie Hawks</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E7-M6" ROLE="Victim">
+          <extent>
+              <charseq START="89" END="110">a couple from Prescott</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV0-M104">
+          <extent>
+              <charseq START="342" END="348">murders</charseq>
+          </extent>
+          <anchor>
+              <charseq START="342" END="348">murders</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M111" ROLE="Victim">
+          <extent>
+              <charseq START="331" END="339">the Hawks</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV0-M2701">
+          <extent>
+              <charseq START="3234" END="3239">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3234" END="3239">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2707" ROLE="Victim">
+          <extent>
+              <charseq START="3218" END="3227">the couple</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV0-M2902">
+          <extent>
+              <charseq START="3557" END="3560">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3557" END="3560">kill</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2902" ROLE="Victim">
+          <extent>
+              <charseq START="3562" END="3571">the couple</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV1" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35" ROLE="Crime"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV1-M102">
+          <extent>
+              <charseq START="298" END="306">convicted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="298" END="306">convicted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M100" ROLE="Defendant">
+          <extent>
+              <charseq START="216" END="286">Perpetrators
+Skylar James Deleon and his former wife Jennifer Henderson</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35-M1" ROLE="Crime">
+            <extent>
+              <charseq START="311" END="348">charges relating to the Hawks&apos; murders</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35" ROLE="Crime"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV2-M103">
+          <extent>
+              <charseq START="311" END="317">charges</charseq>
+          </extent>
+          <anchor>
+              <charseq START="311" END="317">charges</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M111" ROLE="Defendant">
+          <extent>
+              <charseq START="331" END="339">the Hawks</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V35-M1" ROLE="Crime">
+            <extent>
+              <charseq START="311" END="348">charges relating to the Hawks&apos; murders</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV3" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V36" ROLE="Sentence"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV3-M201">
+          <extent>
+              <charseq START="362" END="370">sentenced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="362" END="370">sentenced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M200" ROLE="Defendant">
+          <extent>
+              <charseq START="351" END="356">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V36-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="375" END="379">death</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Victim"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48" ROLE="Agent"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV4-M202">
+          <extent>
+              <charseq START="375" END="379">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="375" END="379">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M200" ROLE="Victim">
+          <extent>
+              <charseq START="351" END="356">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV4-M4302">
+          <extent>
+              <charseq START="5416" END="5420">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5416" END="5420">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4303" ROLE="Agent">
+          <extent>
+              <charseq START="5425" END="5470">Orange County Superior Court Judge Frank Fasel</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4301" ROLE="Victim">
+          <extent>
+              <charseq START="5392" END="5397">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10" ROLE="Place"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V37" ROLE="Sentence"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV5-M203">
+          <extent>
+              <charseq START="402" END="410">sentenced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="402" END="410">sentenced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M202" ROLE="Defendant">
+          <extent>
+              <charseq START="388" END="396">Henderson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E10-M206" ROLE="Place">
+          <extent>
+              <charseq START="436" END="441">prison</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V37-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="415" END="431">two terms of life</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV6" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T2" ROLE="Time-Within"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46" ROLE="Adjudicator"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV6-M301">
+          <extent>
+              <charseq START="522" END="526">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="522" END="526">trial</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E11-M302" ROLE="Defendant">
+          <extent>
+              <charseq START="475" END="497">John Fitzgerald Kennedy</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T2-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="503" END="511">currently</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV6-M3202">
+          <extent>
+              <charseq START="4023" END="4027">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4023" END="4027">trial</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3203" ROLE="Defendant">
+          <extent>
+              <charseq START="4038" END="4043">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV6-M3901">
+          <extent>
+              <charseq START="4827" END="4831">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4827" END="4831">trial</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46-M3906" ROLE="Adjudicator">
+          <extent>
+              <charseq START="4850" END="4855">a jury</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV7" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12" ROLE="Defendant"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV7-M302">
+          <extent>
+              <charseq START="573" END="582">sentencing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="573" END="582">sentencing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M304" ROLE="Defendant">
+          <extent>
+              <charseq START="535" END="559">a fourth, Alonso Machain,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV7-M4200">
+          <extent>
+              <charseq START="5273" END="5282">sentencing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5273" END="5282">sentencing</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV8" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15" ROLE="Defendant"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV8-M500">
+          <extent>
+              <charseq START="678" END="686">convicted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="678" END="686">convicted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E15-M502" ROLE="Defendant">
+          <extent>
+              <charseq START="676" END="698">a convicted drug dealer</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV9" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E18" ROLE="Entity"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Person"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV9-M800">
+          <extent>
+              <charseq START="968" END="973">joined</charseq>
+          </extent>
+          <anchor>
+              <charseq START="968" END="973">joined</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E18-M803" ROLE="Entity">
+          <extent>
+              <charseq START="975" END="1004">the United States Marine Corps</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M801" ROLE="Person">
+          <extent>
+              <charseq START="965" END="966">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV10" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V38" ROLE="Position"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV10-M1001">
+          <extent>
+              <charseq START="1152" END="1158">retired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1152" END="1158">retired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1000" ROLE="Person">
+          <extent>
+              <charseq START="1119" END="1144">Disappearance
+Thomas Hawks</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E0-M1004" ROLE="Person">
+          <extent>
+              <charseq START="1150" END="1176">a retired probation officer</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V38-M1" ROLE="Position">
+            <extent>
+              <charseq START="1150" END="1176">a retired probation officer</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV11" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Seller"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24" ROLE="Artifact"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV11-M1200">
+          <extent>
+              <charseq START="1472" END="1475">sell</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1472" END="1475">sell</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1201" ROLE="Seller">
+          <extent>
+              <charseq START="1456" END="1459">they</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1203" ROLE="Artifact">
+          <extent>
+              <charseq START="1477" END="1487">their yacht</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M1204" ROLE="Seller">
+          <extent>
+              <charseq START="1477" END="1481">their</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV11-M1400">
+          <extent>
+              <charseq START="1738" END="1741">sale</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1738" END="1741">sale</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M1405" ROLE="Artifact">
+          <extent>
+              <charseq START="1746" END="1754">the yacht</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV12" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14" ROLE="Person"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV12-M1202">
+          <extent>
+              <charseq START="1589" END="1596">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1589" END="1596">marriage</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E14-M1216" ROLE="Person">
+          <extent>
+              <charseq START="1579" END="1581">his</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV13" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Entity"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26" ROLE="Entity"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV13-M1500">
+          <extent>
+              <charseq START="1945" END="1951">meeting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1945" END="1951">meeting</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M1505" ROLE="Entity">
+          <extent>
+              <charseq START="1886" END="1907">his then-pregnant wife</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M1507" ROLE="Entity">
+          <extent>
+              <charseq START="1909" END="1916">Jennifer</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E26-M1508" ROLE="Entity">
+          <extent>
+              <charseq START="1922" END="1938">their other child</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV14" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24" ROLE="Artifact"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33" ROLE="Seller"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV14-M2300">
+          <extent>
+              <charseq START="2450" END="2455">bought</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2450" END="2455">bought</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E24-M2306" ROLE="Artifact">
+          <extent>
+              <charseq START="2457" END="2464">the boat</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E33-M2307" ROLE="Seller">
+          <extent>
+              <charseq START="2471" END="2481">the Hawkses</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV15" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12" ROLE="Person"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1" ROLE="Agent"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V39" ROLE="Position"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV15-M2401">
+          <extent>
+              <charseq START="2628" END="2632">named</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2628" END="2632">named</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2411" ROLE="Person">
+          <extent>
+              <charseq START="2634" END="2722">Alonso Machain (a former correctional officer that Deleon met while in jail for burglary)</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E1-M2403" ROLE="Agent">
+          <extent>
+              <charseq START="2553" END="2561">the Hawks</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V39-M1" ROLE="Position">
+            <extent>
+              <charseq START="2650" END="2721">a former correctional officer that Deleon met while in jail for burglary</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV16" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35" ROLE="Place"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T14" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV16-M2402">
+          <extent>
+              <charseq START="2692" END="2694">met</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2692" END="2694">met</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2415" ROLE="Entity">
+          <extent>
+              <charseq START="2685" END="2690">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M2417" ROLE="Place">
+          <extent>
+              <charseq START="2705" END="2708">jail</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T14-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2652" END="2657">former</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV17" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T15" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV17-M2501">
+          <extent>
+              <charseq START="2897" END="2905">convicted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2897" END="2905">convicted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2514" ROLE="Defendant">
+          <extent>
+              <charseq START="2885" END="2886">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T15-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2870" END="2873">2002</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV18" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12" ROLE="Person"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T16" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV18-M2600">
+          <extent>
+              <charseq START="2962" END="2969">arrested</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2962" END="2969">arrested</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E12-M2601" ROLE="Person">
+          <extent>
+              <charseq START="2923" END="2929">Machain</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T16-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2911" END="2920">March 2005</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV19" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV19-M2800">
+          <extent>
+              <charseq START="3268" END="3273">Trials</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3268" END="3273">Trials</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV20" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T17" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV20-M2801">
+          <extent>
+              <charseq START="3359" END="3365">meeting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3359" END="3365">meeting</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M2812" ROLE="Entity">
+          <extent>
+              <charseq START="3380" END="3385">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T17-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3342" END="3351">a few days</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV21" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV21-M2903">
+          <extent>
+              <charseq START="3623" END="3628">served</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3623" END="3628">served</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV22" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV22-M2904">
+          <extent>
+              <charseq START="3649" END="3654">murder</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3649" END="3654">murder</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV23" TYPE="Life" SUBTYPE="Divorce" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Person"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Person"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV23-M3102">
+          <extent>
+              <charseq START="3913" END="3919">divorce</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3913" END="3919">divorce</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3110" ROLE="Person">
+          <extent>
+              <charseq START="3909" END="3911">her</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3111" ROLE="Person">
+          <extent>
+              <charseq START="3926" END="3938">Skylar Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV24" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V40" ROLE="Sentence"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV24-M3103">
+          <extent>
+              <charseq START="3945" END="3953">sentenced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3945" END="3953">sentenced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E9-M3103" ROLE="Defendant">
+          <extent>
+              <charseq START="3847" END="3861">Jennifer Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V40-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="3958" END="3971">two life terms</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV25" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V41" ROLE="Crime"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV25-M3203">
+          <extent>
+              <charseq START="4054" END="4060">charged</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4054" END="4060">charged</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3203" ROLE="Defendant">
+          <extent>
+              <charseq START="4038" END="4043">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V41-M1" ROLE="Crime">
+            <extent>
+              <charseq START="4067" END="4123">soliciting another inmate to murder his father and cousin</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV26" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV26-M3204">
+          <extent>
+              <charseq START="4096" END="4101">murder</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4096" END="4101">murder</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV27" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41" ROLE="Agent"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42" ROLE="Victim"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV27-M3302">
+          <extent>
+              <charseq START="4149" END="4155">killing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4149" END="4155">killing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3300" ROLE="Agent">
+          <extent>
+              <charseq START="4126" END="4127">He</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3303" ROLE="Victim">
+          <extent>
+              <charseq START="4157" END="4166">John Jarvi</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV27-M3402">
+          <extent>
+              <charseq START="4302" END="4307">murder</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4302" END="4307">murder</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3408" ROLE="Victim">
+          <extent>
+              <charseq START="4296" END="4300">Jarvi</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV28" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42" ROLE="Victim"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E29" ROLE="Place"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV28-M3303">
+          <extent>
+              <charseq START="4205" END="4208">dead</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4205" END="4208">dead</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E42-M3307" ROLE="Victim">
+          <extent>
+              <charseq START="4191" END="4193">who</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E29-M3308" ROLE="Place">
+          <extent>
+              <charseq START="4213" END="4218">Mexico</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV29" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40" ROLE="Defendant"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV29-M3401">
+          <extent>
+              <charseq START="4265" END="4271">charged</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4265" END="4271">charged</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E40-M3405" ROLE="Defendant">
+          <extent>
+              <charseq START="4257" END="4259">who</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV30" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35" ROLE="Destination"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41" ROLE="Artifact"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T25" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV30-M3601">
+          <extent>
+              <charseq START="4510" END="4517">returned</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4510" END="4517">returned</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E35-M3603" ROLE="Destination">
+          <extent>
+              <charseq START="4522" END="4525">jail</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E41-M3601" ROLE="Artifact">
+          <extent>
+              <charseq START="4503" END="4504">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T25-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4527" END="4543">the following day</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV31" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T27" ROLE="Time-Within"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV31-M3801">
+          <extent>
+              <charseq START="4687" END="4691">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4687" END="4691">trial</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3805" ROLE="Defendant">
+          <extent>
+              <charseq START="4683" END="4685">his</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T27-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4678" END="4681">once</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV32" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV32-M3802">
+          <extent>
+              <charseq START="4770" END="4776">murders</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4770" END="4776">murders</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV33" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46" ROLE="Adjudicator"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V42" ROLE="Sentence"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48" ROLE="Adjudicator"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T34" ROLE="Time-Within"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V43" ROLE="Sentence"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV33-M3902">
+          <extent>
+              <charseq START="4883" END="4891">sentenced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4883" END="4891">sentenced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E46-M3906" ROLE="Adjudicator">
+          <extent>
+              <charseq START="4850" END="4855">a jury</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M3907" ROLE="Defendant">
+          <extent>
+              <charseq START="4862" END="4867">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V42-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="4896" END="4900">death</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV33-M4301">
+          <extent>
+              <charseq START="5403" END="5411">sentenced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5403" END="5411">sentenced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4301" ROLE="Defendant">
+          <extent>
+              <charseq START="5392" END="5397">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4305" ROLE="Adjudicator">
+          <extent>
+              <charseq START="5454" END="5458">Judge</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E48-M4303" ROLE="Adjudicator">
+          <extent>
+              <charseq START="5425" END="5470">Orange County Superior Court Judge Frank Fasel</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T34-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="5376" END="5389">April 10, 2009</charseq>
+            </extent>
+          </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V43-M1" ROLE="Sentence">
+            <extent>
+              <charseq START="5416" END="5420">death</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV34" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV34-M3903">
+          <extent>
+              <charseq START="4896" END="4900">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4896" END="4900">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV35" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8" ROLE="Defendant"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T28" ROLE="Time-Within"/>
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V44" ROLE="Crime"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV35-M4001">
+          <extent>
+              <charseq START="4929" END="4937">convicted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4929" END="4937">convicted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E8-M4001" ROLE="Defendant">
+          <extent>
+              <charseq START="4918" END="4923">Deleon</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-T28-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4906" END="4915">October 20</charseq>
+            </extent>
+          </event_mention_argument>
+          <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-V44-M1" ROLE="Crime">
+            <extent>
+              <charseq START="4942" END="5002">three counts of first-degree murder and special circumstances</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV36" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV36-M4002">
+          <extent>
+              <charseq START="4971" END="4976">murder</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4971" END="4976">murder</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV37" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45" ROLE="Defendant"/>
+      <event_mention ID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-EV37-M4100">
+          <extent>
+              <charseq START="5110" END="5119">Sentencing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5110" END="5119">Sentencing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Murder_of_Thomas_and_Jackie_Hawks.sentences.sgm-E45-M4104" ROLE="Defendant">
+          <extent>
+              <charseq START="5219" END="5235">Deleon&apos;s attorney</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

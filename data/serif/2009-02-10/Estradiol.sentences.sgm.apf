@@ -1,0 +1,1831 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Estradiol.sentences.sgm">
+  <document DOCID="Estradiol.sentences.sgm">
+
+    <entity ID="Estradiol.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="26" END="68">Estradiol (17β-estradiol) (also oestradiol)</charseq>
+          </extent>
+          <head>
+              <charseq START="26" END="34">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estradiol">
+              <charseq START="26" END="34">Estradiol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E1-M103">
+          <extent>
+              <charseq START="144" END="148">males</charseq>
+          </extent>
+          <head>
+              <charseq START="144" END="148">males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E1-M4600">
+          <extent>
+              <charseq START="5472" END="5545">Males with sex chromosome genetic conditions such as Klinefelters Syndrome</charseq>
+          </extent>
+          <head>
+              <charseq START="5472" END="5476">Males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E1-M6718">
+          <extent>
+              <charseq START="8010" END="8052">males (the other being dihydrotestosterone)</charseq>
+          </extent>
+          <head>
+              <charseq START="8010" END="8014">males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E1-M7107">
+          <extent>
+              <charseq START="8973" END="9104">phenotypical males changed to approximate those of typical female brain structures when exposed to estradiol over a period of months</charseq>
+          </extent>
+          <head>
+              <charseq START="8986" END="8990">males</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E2-M108">
+          <extent>
+              <charseq START="187" END="192">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="187" END="192">humans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E2-M6813">
+          <extent>
+              <charseq START="8430" END="8435">humans</charseq>
+          </extent>
+          <head>
+              <charseq START="8430" END="8435">humans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M200">
+          <extent>
+              <charseq START="195" END="203">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="203">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M300">
+          <extent>
+              <charseq START="332" END="350">Synthesis
+Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="342" END="350">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="332" END="340">Synthesis</charseq>
+          </extent>
+          <head>
+              <charseq START="332" END="340">Synthesis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M900">
+          <extent>
+              <charseq START="1162" END="1170">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1170">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M1100">
+          <extent>
+              <charseq START="1436" END="1444">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="1436" END="1444">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M1202">
+          <extent>
+              <charseq START="1512" END="1527">action
+Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="1519" END="1527">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E3-M1203">
+          <extent>
+              <charseq START="1512" END="1517">action</charseq>
+          </extent>
+          <head>
+              <charseq START="1512" END="1517">action</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M1500">
+          <extent>
+              <charseq START="1894" END="1902">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="1894" END="1902">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M1700">
+          <extent>
+              <charseq START="2146" END="2154">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="2146" END="2154">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M2000">
+          <extent>
+              <charseq START="2518" END="2524">Estriol</charseq>
+          </extent>
+          <head>
+              <charseq START="2518" END="2524">Estriol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M2100">
+          <extent>
+              <charseq START="2559" END="2567">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="2559" END="2567">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M4200">
+          <extent>
+              <charseq START="5047" END="5055">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="5047" END="5055">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M6800">
+          <extent>
+              <charseq START="8225" END="8233">Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="8225" END="8233">Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M9555">
+          <extent>
+              <charseq START="12882" END="12898">Femring
+Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="12882" END="12898">Femring
+Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E3-M9600">
+          <extent>
+              <charseq START="13104" END="13130">Contraindications
+Estradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="13104" END="13130">Contraindications
+Estradiol</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estradiol">
+              <charseq START="195" END="203">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="342" END="350">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="1162" END="1170">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="1436" END="1444">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="1519" END="1527">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="1894" END="1902">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="2146" END="2154">Estradiol</charseq>
+          </name>
+          <name NAME="Estriol">
+              <charseq START="2518" END="2524">Estriol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="2559" END="2567">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="5047" END="5055">Estradiol</charseq>
+          </name>
+          <name NAME="Estradiol">
+              <charseq START="8225" END="8233">Estradiol</charseq>
+          </name>
+          <name NAME="Femring
+Estradiol">
+              <charseq START="12882" END="12898">Femring
+Estradiol</charseq>
+          </name>
+          <name NAME="Contraindications
+Estradiol">
+              <charseq START="13104" END="13130">Contraindications
+Estradiol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E4-M204">
+          <extent>
+              <charseq START="293" END="329">other organs including bone structure</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="304">organs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E5-M400">
+          <extent>
+              <charseq START="409" END="418">side chain</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="418">chain</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E6-M702">
+          <extent>
+              <charseq START="835" END="839">women</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="839">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E6-M2405">
+          <extent>
+              <charseq START="2926" END="2930">women</charseq>
+          </extent>
+          <head>
+              <charseq START="2926" END="2930">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E6-M2507">
+          <extent>
+              <charseq START="3045" END="3149">women with amenorrhea or menstrual dysfunction and to detect the state of hypoestrogenicity and menopause</charseq>
+          </extent>
+          <head>
+              <charseq START="3045" END="3049">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E6-M2501">
+          <extent>
+              <charseq START="2988" END="2991">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2988" END="2991">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E6-M5000">
+          <extent>
+              <charseq START="5881" END="5900">women past menopause</charseq>
+          </extent>
+          <head>
+              <charseq START="5881" END="5885">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E6-M5703">
+          <extent>
+              <charseq START="6558" END="6562">women</charseq>
+          </extent>
+          <head>
+              <charseq START="6558" END="6562">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E6-M5810">
+          <extent>
+              <charseq START="6672" END="6676">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6672" END="6676">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E6-M5900">
+          <extent>
+              <charseq START="6802" END="6805">They</charseq>
+          </extent>
+          <head>
+              <charseq START="6802" END="6805">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E7-M807">
+          <extent>
+              <charseq START="1141" END="1143">men</charseq>
+          </extent>
+          <head>
+              <charseq START="1141" END="1143">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E7-M10405">
+          <extent>
+              <charseq START="14426" END="14459">the men she had relationships with</charseq>
+          </extent>
+          <head>
+              <charseq START="14430" END="14432">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E7-M10411">
+          <extent>
+              <charseq START="14462" END="14465">they</charseq>
+          </extent>
+          <head>
+              <charseq START="14462" END="14465">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E8-M1206">
+          <extent>
+              <charseq START="1568" END="1601">a cytoplasmic target cell receptor</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1601">receptor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E8-M1803">
+          <extent>
+              <charseq START="2247" END="2274">a membrane estrogen receptor</charseq>
+          </extent>
+          <head>
+              <charseq START="2267" END="2274">receptor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E9-M1504">
+          <extent>
+              <charseq START="1943" END="1945">ERα</charseq>
+          </extent>
+          <head>
+              <charseq START="1943" END="1945">ERα</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ERα">
+              <charseq START="1943" END="1945">ERα</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E10-M1505">
+          <extent>
+              <charseq START="1951" END="1953">ERβ</charseq>
+          </extent>
+          <head>
+              <charseq START="1951" END="1953">ERβ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ERβ">
+              <charseq START="1951" END="1953">ERβ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E11-M1605">
+          <extent>
+              <charseq START="2139" END="2143">SERMs</charseq>
+          </extent>
+          <head>
+              <charseq START="2139" END="2143">SERMs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SERMs">
+              <charseq START="2139" END="2143">SERMs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E12" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E12-M2512">
+          <extent>
+              <charseq START="3106" END="3149">the state of hypoestrogenicity and menopause</charseq>
+          </extent>
+          <head>
+              <charseq START="3110" END="3114">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E12-M8802">
+          <extent>
+              <charseq START="11374" END="11399">a state of hypoestrogenism</charseq>
+          </extent>
+          <head>
+              <charseq START="11376" END="11380">state</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E13-M3309">
+          <extent>
+              <charseq START="4057" END="4079">the reproductive organs</charseq>
+          </extent>
+          <head>
+              <charseq START="4074" END="4079">organs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E14" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E14-M4404">
+          <extent>
+              <charseq START="5264" END="5272">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="5268" END="5272">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E15-M4402">
+          <extent>
+              <charseq START="5250" END="5272">many parts of the world</charseq>
+          </extent>
+          <head>
+              <charseq START="5255" END="5259">parts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E16-M4507">
+          <extent>
+              <charseq START="5425" END="5438">subfertile men</charseq>
+          </extent>
+          <head>
+              <charseq START="5436" END="5438">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E17-M4800">
+          <extent>
+              <charseq START="5661" END="5710">Individuals without estradiol (or other estrogens)</charseq>
+          </extent>
+          <head>
+              <charseq START="5661" END="5671">Individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E18-M5400">
+          <extent>
+              <charseq START="6197" END="6211">Brain
+Estrogens</charseq>
+          </extent>
+          <head>
+              <charseq START="6197" END="6211">Brain
+Estrogens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E18-M5500">
+          <extent>
+              <charseq START="6284" END="6287">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6284" END="6287">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brain
+Estrogens">
+              <charseq START="6197" END="6211">Brain
+Estrogens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E19-M5806">
+          <extent>
+              <charseq START="6646" END="6650">Douma</charseq>
+          </extent>
+          <head>
+              <charseq START="6646" END="6650">Douma</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E19-M8506">
+          <extent>
+              <charseq START="10870" END="10874">Douma</charseq>
+          </extent>
+          <head>
+              <charseq START="10870" END="10874">Douma</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Douma">
+              <charseq START="6646" END="6650">Douma</charseq>
+          </name>
+          <name NAME="Douma">
+              <charseq START="10870" END="10874">Douma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E20-M6005">
+          <extent>
+              <charseq START="7010" END="7022">perimenopause</charseq>
+          </extent>
+          <head>
+              <charseq START="7010" END="7022">perimenopause</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E20-M8705">
+          <extent>
+              <charseq START="11229" END="11241">perimenopause</charseq>
+          </extent>
+          <head>
+              <charseq START="11229" END="11241">perimenopause</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E21" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E21-M6100">
+          <extent>
+              <charseq START="7133" END="7139">vessels</charseq>
+          </extent>
+          <head>
+              <charseq START="7133" END="7139">vessels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E21-M6102">
+          <extent>
+              <charseq START="7158" END="7178">certain blood vessels</charseq>
+          </extent>
+          <head>
+              <charseq START="7172" END="7178">vessels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E22-M6301" ROLE="GPE">
+          <extent>
+              <charseq START="7260" END="7267">Oncogene</charseq>
+          </extent>
+          <head>
+              <charseq START="7260" END="7267">Oncogene</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oncogene">
+              <charseq START="7260" END="7267">Oncogene</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E23-M7109">
+          <extent>
+              <charseq START="9015" END="9054">those of typical female brain structures</charseq>
+          </extent>
+          <head>
+              <charseq START="9015" END="9019">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E24-M7504">
+          <extent>
+              <charseq START="9500" END="9501">C3</charseq>
+          </extent>
+          <head>
+              <charseq START="9500" END="9501">C3</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E24-M7501">
+          <extent>
+              <charseq START="9482" END="9495">an alkyl group</charseq>
+          </extent>
+          <head>
+              <charseq START="9491" END="9495">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E24-M10700">
+          <extent>
+              <charseq START="14781" END="14800">An independent group</charseq>
+          </extent>
+          <head>
+              <charseq START="14796" END="14800">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="C3">
+              <charseq START="9500" END="9501">C3</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E25-M7505">
+          <extent>
+              <charseq START="9526" END="9543">the administration</charseq>
+          </extent>
+          <head>
+              <charseq START="9530" END="9543">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E25-M7802">
+          <extent>
+              <charseq START="9874" END="9887">administration</charseq>
+          </extent>
+          <head>
+              <charseq START="9874" END="9887">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E26-M7805">
+          <extent>
+              <charseq START="9938" END="9958">primary target organs</charseq>
+          </extent>
+          <head>
+              <charseq START="9953" END="9958">organs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E27-M8016">
+          <extent>
+              <charseq START="10261" END="10267">a woman</charseq>
+          </extent>
+          <head>
+              <charseq START="10263" END="10267">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E27-M10203">
+          <extent>
+              <charseq START="14108" END="14158">a woman who was almost certainly high in oestradiol</charseq>
+          </extent>
+          <head>
+              <charseq START="14110" END="14114">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E27-M10205">
+          <extent>
+              <charseq START="14116" END="14118">who</charseq>
+          </extent>
+          <head>
+              <charseq START="14116" END="14118">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M8204">
+          <extent>
+              <charseq START="10513" END="10612">women when there is a need to develop sperm-friendly cervical mucus or an appropriate uterine lining</charseq>
+          </extent>
+          <head>
+              <charseq START="10513" END="10517">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M8406">
+          <extent>
+              <charseq START="10782" END="10786">women</charseq>
+          </extent>
+          <head>
+              <charseq START="10782" END="10786">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M9602">
+          <extent>
+              <charseq START="13155" END="13197">women who are pregnant or are breastfeeding</charseq>
+          </extent>
+          <head>
+              <charseq START="13155" END="13159">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M9605">
+          <extent>
+              <charseq START="13200" END="13301">women with unexplained uterine bleeding, certain forms of cancer, or prone to blood clotting disorders</charseq>
+          </extent>
+          <head>
+              <charseq START="13200" END="13204">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M9604">
+          <extent>
+              <charseq START="13161" END="13163">who</charseq>
+          </extent>
+          <head>
+              <charseq START="13161" END="13163">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M9910">
+          <extent>
+              <charseq START="13677" END="13681">women</charseq>
+          </extent>
+          <head>
+              <charseq START="13677" END="13681">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M10000">
+          <extent>
+              <charseq START="13737" END="13787">Women who have high levels of oestradiol(estradiol)</charseq>
+          </extent>
+          <head>
+              <charseq START="13737" END="13741">Women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M10002">
+          <extent>
+              <charseq START="13743" END="13745">who</charseq>
+          </extent>
+          <head>
+              <charseq START="13743" END="13745">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M10013">
+          <extent>
+              <charseq START="13868" END="13872">their</charseq>
+          </extent>
+          <head>
+              <charseq START="13868" END="13872">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M10703">
+          <extent>
+              <charseq START="14831" END="14839">the women</charseq>
+          </extent>
+          <head>
+              <charseq START="14835" END="14839">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M10707">
+          <extent>
+              <charseq START="14878" END="14882">their</charseq>
+          </extent>
+          <head>
+              <charseq START="14878" END="14882">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M10800">
+          <extent>
+              <charseq START="14901" END="14921">High-oestradiol women</charseq>
+          </extent>
+          <head>
+              <charseq START="14917" END="14921">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M10900">
+          <extent>
+              <charseq START="15072" END="15082">These women</charseq>
+          </extent>
+          <head>
+              <charseq START="15078" END="15082">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M10909">
+          <extent>
+              <charseq START="15154" END="15158">their</charseq>
+          </extent>
+          <head>
+              <charseq START="15154" END="15158">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M11001">
+          <extent>
+              <charseq START="15293" END="15313">high-oestradiol women</charseq>
+          </extent>
+          <head>
+              <charseq START="15309" END="15313">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M11003">
+          <extent>
+              <charseq START="15384" END="15387">they</charseq>
+          </extent>
+          <head>
+              <charseq START="15384" END="15387">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M11100">
+          <extent>
+              <charseq START="15464" END="15467">They</charseq>
+          </extent>
+          <head>
+              <charseq START="15464" END="15467">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M11104">
+          <extent>
+              <charseq START="15533" END="15537">their</charseq>
+          </extent>
+          <head>
+              <charseq START="15533" END="15537">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M11209">
+          <extent>
+              <charseq START="15739" END="15759">high-oestradiol women</charseq>
+          </extent>
+          <head>
+              <charseq START="15755" END="15759">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E28-M11212">
+          <extent>
+              <charseq START="15786" END="15790">women</charseq>
+          </extent>
+          <head>
+              <charseq START="15786" END="15790">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E28-M11210">
+          <extent>
+              <charseq START="15774" END="15828">the sort of women that other women don&apos;t like too much&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="15778" END="15781">sort</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E29-M8304">
+          <extent>
+              <charseq START="10682" END="10708">male-to-female transsexuals</charseq>
+          </extent>
+          <head>
+              <charseq START="10697" END="10708">transsexuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E30-M8912">
+          <extent>
+              <charseq START="11803" END="11822">estrogen antagonists</charseq>
+          </extent>
+          <head>
+              <charseq START="11812" END="11822">antagonists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E31-M9000">
+          <extent>
+              <charseq START="11843" END="11850">Flaxseed</charseq>
+          </extent>
+          <head>
+              <charseq START="11843" END="11850">Flaxseed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flaxseed">
+              <charseq START="11843" END="11850">Flaxseed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E32-M9102" ROLE="GPE">
+          <extent>
+              <charseq START="11882" END="11889">Hormonal</charseq>
+          </extent>
+          <head>
+              <charseq START="11882" END="11889">Hormonal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hormonal">
+              <charseq START="11882" END="11889">Hormonal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E33-M9211" ROLE="LOC">
+          <extent>
+              <charseq START="12142" END="12145">GnRH</charseq>
+          </extent>
+          <head>
+              <charseq START="12142" END="12145">GnRH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GnRH">
+              <charseq START="12142" END="12145">GnRH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E34-M9212">
+          <extent>
+              <charseq START="12148" END="12149">LH</charseq>
+          </extent>
+          <head>
+              <charseq START="12148" END="12149">LH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LH">
+              <charseq START="12148" END="12149">LH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E35-M9512">
+          <extent>
+              <charseq START="12481" END="12487">Estrace</charseq>
+          </extent>
+          <head>
+              <charseq START="12481" END="12487">Estrace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estrace">
+              <charseq START="12481" END="12487">Estrace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E36-M9513">
+          <extent>
+              <charseq START="12490" END="12526">Activella (also contains a progestin)</charseq>
+          </extent>
+          <head>
+              <charseq START="12490" END="12498">Activella</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Activella">
+              <charseq START="12490" END="12498">Activella</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E37-M9518">
+          <extent>
+              <charseq START="12548" END="12556">Progynova</charseq>
+          </extent>
+          <head>
+              <charseq START="12548" END="12556">Progynova</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Progynova">
+              <charseq START="12548" END="12556">Progynova</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E38-M9521">
+          <extent>
+              <charseq START="12559" END="12578">Estrofem
+Transdermal</charseq>
+          </extent>
+          <head>
+              <charseq START="12559" END="12578">Estrofem
+Transdermal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estrofem
+Transdermal">
+              <charseq START="12559" END="12578">Estrofem
+Transdermal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E39-M9522">
+          <extent>
+              <charseq START="12593" END="12664">Alora, Climara, Vivelle, Vivelle-Dot,  Menostar, Estraderm TTS
+Ointments</charseq>
+          </extent>
+          <head>
+              <charseq START="12642" END="12664">Estraderm TTS
+Ointments</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estraderm TTS
+Ointments">
+              <charseq START="12642" END="12664">Estraderm TTS
+Ointments</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E40-M9524">
+          <extent>
+              <charseq START="12593" END="12597">Alora</charseq>
+          </extent>
+          <head>
+              <charseq START="12593" END="12597">Alora</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alora">
+              <charseq START="12593" END="12597">Alora</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E41-M9525">
+          <extent>
+              <charseq START="12600" END="12606">Climara</charseq>
+          </extent>
+          <head>
+              <charseq START="12600" END="12606">Climara</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Climara">
+              <charseq START="12600" END="12606">Climara</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E42-M9526">
+          <extent>
+              <charseq START="12609" END="12615">Vivelle</charseq>
+          </extent>
+          <head>
+              <charseq START="12609" END="12615">Vivelle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vivelle">
+              <charseq START="12609" END="12615">Vivelle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E43-M9527">
+          <extent>
+              <charseq START="12618" END="12628">Vivelle-Dot</charseq>
+          </extent>
+          <head>
+              <charseq START="12618" END="12628">Vivelle-Dot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vivelle-Dot">
+              <charseq START="12618" END="12628">Vivelle-Dot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E44-M9528">
+          <extent>
+              <charseq START="12632" END="12639">Menostar</charseq>
+          </extent>
+          <head>
+              <charseq START="12632" END="12639">Menostar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Menostar">
+              <charseq START="12632" END="12639">Menostar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E45-M9552">
+          <extent>
+              <charseq START="12853" END="12879">Estring (estradiol acetate)</charseq>
+          </extent>
+          <head>
+              <charseq START="12853" END="12859">Estring</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estring">
+              <charseq START="12853" END="12859">Estring</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E46-M9701">
+          <extent>
+              <charseq START="13343" END="13350">children</charseq>
+          </extent>
+          <head>
+              <charseq START="13343" END="13350">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E47-M9904">
+          <extent>
+              <charseq START="13608" END="13621">Marilyn Monroe</charseq>
+          </extent>
+          <head>
+              <charseq START="13608" END="13621">Marilyn Monroe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E47-M9901">
+          <extent>
+              <charseq START="13577" END="13586">Scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="13577" END="13586">Scientists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E47-M10200">
+          <extent>
+              <charseq START="14056" END="14069">Marilyn Monroe</charseq>
+          </extent>
+          <head>
+              <charseq START="14056" END="14069">Marilyn Monroe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E47-M10300">
+          <extent>
+              <charseq START="14236" END="14238">She</charseq>
+          </extent>
+          <head>
+              <charseq START="14236" END="14238">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E47-M10304">
+          <extent>
+              <charseq START="14287" END="14289">her</charseq>
+          </extent>
+          <head>
+              <charseq START="14287" END="14289">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E47-M10306">
+          <extent>
+              <charseq START="14314" END="14316">she</charseq>
+          </extent>
+          <head>
+              <charseq START="14314" END="14316">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E47-M10401">
+          <extent>
+              <charseq START="14344" END="14346">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="14344" END="14346">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E47-M10407">
+          <extent>
+              <charseq START="14434" END="14436">she</charseq>
+          </extent>
+          <head>
+              <charseq START="14434" END="14436">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marilyn Monroe">
+              <charseq START="13608" END="13621">Marilyn Monroe</charseq>
+          </name>
+          <name NAME="Marilyn Monroe">
+              <charseq START="14056" END="14069">Marilyn Monroe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E48-M9900">
+          <extent>
+              <charseq START="13567" END="13575">the media</charseq>
+          </extent>
+          <head>
+              <charseq START="13571" END="13575">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E49-M9912">
+          <extent>
+              <charseq START="13728" END="13734">new men</charseq>
+          </extent>
+          <head>
+              <charseq START="13732" END="13734">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E50-M10015" ROLE="LOC">
+          <extent>
+              <charseq START="13913" END="13914">US</charseq>
+          </extent>
+          <head>
+              <charseq START="13913" END="13914">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="13913" END="13914">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E51-M10207">
+          <extent>
+              <charseq START="14162" END="14199">Australian sexologist Dr Frances Quirk</charseq>
+          </extent>
+          <head>
+              <charseq START="14187" END="14199">Frances Quirk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E51-M10210">
+          <extent>
+              <charseq START="14184" END="14185">Dr</charseq>
+          </extent>
+          <head>
+              <charseq START="14184" END="14185">Dr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E51-M11201">
+          <extent>
+              <charseq START="15653" END="15660">Dr Quirk</charseq>
+          </extent>
+          <head>
+              <charseq START="15656" END="15660">Quirk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E51-M11202">
+          <extent>
+              <charseq START="15653" END="15654">Dr</charseq>
+          </extent>
+          <head>
+              <charseq START="15653" END="15654">Dr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E51-M11204">
+          <extent>
+              <charseq START="15663" END="15706">Associate Professor at James Cook University</charseq>
+          </extent>
+          <head>
+              <charseq START="15673" END="15681">Professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frances Quirk">
+              <charseq START="14187" END="14199">Frances Quirk</charseq>
+          </name>
+          <name NAME="Quirk">
+              <charseq START="15656" END="15660">Quirk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E52-M10208" ROLE="GPE">
+          <extent>
+              <charseq START="14162" END="14171">Australian</charseq>
+          </extent>
+          <head>
+              <charseq START="14162" END="14171">Australian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australian">
+              <charseq START="14162" END="14171">Australian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E53-M10308">
+          <extent>
+              <charseq START="14322" END="14340">a serial monogamist</charseq>
+          </extent>
+          <head>
+              <charseq START="14331" END="14340">monogamist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E55-M10501">
+          <extent>
+              <charseq START="14493" END="14511">University of Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="14493" END="14511">University of Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Texas">
+              <charseq START="14493" END="14511">University of Texas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E56-M10502">
+          <extent>
+              <charseq START="14527" END="14555">52 young women, aged 17 to 30</charseq>
+          </extent>
+          <head>
+              <charseq START="14536" END="14540">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E56-M10506">
+          <extent>
+              <charseq START="14570" END="14574">their</charseq>
+          </extent>
+          <head>
+              <charseq START="14570" END="14574">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E56-M10600">
+          <extent>
+              <charseq START="14615" END="14618">They</charseq>
+          </extent>
+          <head>
+              <charseq START="14615" END="14618">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E56-M10608">
+          <extent>
+              <charseq START="14688" END="14692">their</charseq>
+          </extent>
+          <head>
+              <charseq START="14688" END="14692">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E56-M10611">
+          <extent>
+              <charseq START="14722" END="14726">their</charseq>
+          </extent>
+          <head>
+              <charseq START="14722" END="14726">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E56-M10613">
+          <extent>
+              <charseq START="14753" END="14757">their</charseq>
+          </extent>
+          <head>
+              <charseq START="14753" END="14757">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E57-M10806">
+          <extent>
+              <charseq START="15031" END="15058">the journal Biology Letters,</charseq>
+          </extent>
+          <head>
+              <charseq START="15043" END="15057">Biology Letters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E57-M10808">
+          <extent>
+              <charseq START="15035" END="15041">journal</charseq>
+          </extent>
+          <head>
+              <charseq START="15035" END="15041">journal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Biology Letters">
+              <charseq START="15043" END="15057">Biology Letters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E58-M10802">
+          <extent>
+              <charseq START="14983" END="15003">themselves and others</charseq>
+          </extent>
+          <head>
+              <charseq START="14998" END="15003">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E59-M10908">
+          <extent>
+              <charseq START="15154" END="15175">their primary partners</charseq>
+          </extent>
+          <head>
+              <charseq START="15168" END="15175">partners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E59-M11103">
+          <extent>
+              <charseq START="15533" END="15556">their long-term partners</charseq>
+          </extent>
+          <head>
+              <charseq START="15549" END="15556">partners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E60-M10912">
+          <extent>
+              <charseq START="15249" END="15268">new potential mates&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="15263" END="15267">mates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E61-M11105">
+          <extent>
+              <charseq START="15613" END="15650">other, presumably more desirable, men&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="15647" END="15649">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E62" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E62-M11207">
+          <extent>
+              <charseq START="15686" END="15706">James Cook University</charseq>
+          </extent>
+          <head>
+              <charseq START="15686" END="15706">James Cook University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James Cook University">
+              <charseq START="15686" END="15706">James Cook University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E63-M11213">
+          <extent>
+              <charseq START="15797" END="15807">other women</charseq>
+          </extent>
+          <head>
+              <charseq START="15803" END="15807">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E64-M11303">
+          <extent>
+              <charseq START="15851" END="15930">Estrogen insensitivity syndrome
+Hormone replacement therapy
+Gender
+Androgen
+Oral</charseq>
+          </extent>
+          <head>
+              <charseq START="15918" END="15930">Androgen
+Oral</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E64-M11310">
+          <extent>
+              <charseq START="15911" END="15916">Gender</charseq>
+          </extent>
+          <head>
+              <charseq START="15911" END="15916">Gender</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Androgen
+Oral">
+              <charseq START="15918" END="15930">Androgen
+Oral</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Estradiol.sentences.sgm-E65-M11313">
+          <extent>
+              <charseq START="15959" END="15972">Phytoestrogens</charseq>
+          </extent>
+          <head>
+              <charseq START="15959" END="15972">Phytoestrogens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phytoestrogens">
+              <charseq START="15959" END="15972">Phytoestrogens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Estradiol.sentences.sgm-E66" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Estradiol.sentences.sgm-E66-M11314">
+          <extent>
+              <charseq START="15975" END="16107">the family of plant chemicals which can act on estradiol receptive tissue in mammals, although the exact mechanism at hand is unclear</charseq>
+          </extent>
+          <head>
+              <charseq START="15979" END="15984">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Estradiol.sentences.sgm-E66-M11319">
+          <extent>
+              <charseq START="16005" END="16009">which</charseq>
+          </extent>
+          <head>
+              <charseq START="16005" END="16009">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Estradiol.sentences.sgm-T0" VAL="PXY">
+        <timex2_mention ID="Estradiol.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="793" END="814">the reproductive years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Estradiol.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="2205" END="2212">Recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Estradiol.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="5887" END="5890">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T3" VAL="2005">
+        <timex2_mention ID="Estradiol.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="6658" END="6661">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Estradiol.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="8503" END="8505">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T5" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Estradiol.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="8890" END="8897">Recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T6" VAL="PXM">
+        <timex2_mention ID="Estradiol.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="9087" END="9104">a period of months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T7" VAL="2005">
+        <timex2_mention ID="Estradiol.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="10882" END="10885">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T8">
+        <timex2_mention ID="Estradiol.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="12745" END="12751">monthly</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T9" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Estradiol.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="13874" END="13880">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T10" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Estradiol.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="14362" END="14365">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T11" VAL="P4Y">
+        <timex2_mention ID="Estradiol.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="14376" END="14385">four years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Estradiol.sentences.sgm-T12" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Estradiol.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="14759" END="14765">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Estradiol.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Estradiol.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Estradiol.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Estradiol.sentences.sgm-R0-M4400">
+          <extent>
+              <charseq START="5250" END="5272">many parts of the world</charseq>
+          </extent>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E15-M4402" ROLE="Arg-1">
+            <extent>
+              <charseq START="5250" END="5272">many parts of the world</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E14-M4404" ROLE="Arg-2">
+            <extent>
+              <charseq START="5264" END="5272">the world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Estradiol.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Estradiol.sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Estradiol.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Estradiol.sentences.sgm-R1-M9500">
+          <extent>
+              <charseq START="12609" END="12615">Vivelle</charseq>
+          </extent>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E42-M9526" ROLE="Arg-1">
+            <extent>
+              <charseq START="12609" END="12615">Vivelle</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E43-M9527" ROLE="Arg-2">
+            <extent>
+              <charseq START="12618" END="12628">Vivelle-Dot</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Estradiol.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Estradiol.sentences.sgm-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="Estradiol.sentences.sgm-E59" ROLE="Arg-2"/>
+        <relation_mention ID="Estradiol.sentences.sgm-R2-M10900">
+          <extent>
+              <charseq START="15154" END="15158">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E28-M10909" ROLE="Arg-1">
+            <extent>
+              <charseq START="15154" END="15158">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E59-M10908" ROLE="Arg-2">
+            <extent>
+              <charseq START="15154" END="15175">their primary partners</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Estradiol.sentences.sgm-R2-M11100">
+          <extent>
+              <charseq START="15533" END="15537">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E28-M11104" ROLE="Arg-1">
+            <extent>
+              <charseq START="15533" END="15537">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E59-M11103" ROLE="Arg-2">
+            <extent>
+              <charseq START="15533" END="15556">their long-term partners</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Estradiol.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Estradiol.sentences.sgm-E51" ROLE="Arg-1"/>
+      <relation_argument REFID="Estradiol.sentences.sgm-E62" ROLE="Arg-2"/>
+        <relation_mention ID="Estradiol.sentences.sgm-R3-M11200">
+          <extent>
+              <charseq START="15663" END="15706">Associate Professor at James Cook University</charseq>
+          </extent>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E51-M11204" ROLE="Arg-1">
+            <extent>
+              <charseq START="15663" END="15706">Associate Professor at James Cook University</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Estradiol.sentences.sgm-E62-M11207" ROLE="Arg-2">
+            <extent>
+              <charseq START="15686" END="15706">James Cook University</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Estradiol.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Estradiol.sentences.sgm-E3" ROLE="Person"/>
+      <event_mention ID="Estradiol.sentences.sgm-EV0-M2100">
+          <extent>
+              <charseq START="2646" END="2653">excreted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2646" END="2653">excreted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Estradiol.sentences.sgm-E3-M2100" ROLE="Person">
+          <extent>
+              <charseq START="2559" END="2567">Estradiol</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Estradiol.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Estradiol.sentences.sgm-EV1-M9300">
+          <extent>
+              <charseq START="12228" END="12232">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="12228" END="12232">birth</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Estradiol.sentences.sgm-EV1-M9400">
+          <extent>
+              <charseq START="12323" END="12327">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="12323" END="12327">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

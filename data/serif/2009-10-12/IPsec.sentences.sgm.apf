@@ -1,0 +1,1927 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="IPsec.sentences.sgm">
+  <document DOCID="IPsec.sentences.sgm">
+
+    <entity ID="IPsec.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="211" END="215">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="215">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="635" END="639">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="639">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="986" END="990">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="986" END="990">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1228" END="1232">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="1228" END="1232">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E0-M1001">
+          <extent>
+              <charseq START="1237" END="1258">a successor of the ISO</charseq>
+          </extent>
+          <head>
+              <charseq START="1239" END="1247">successor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M1200">
+          <extent>
+              <charseq START="1483" END="1487">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="1483" END="1487">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M1401">
+          <extent>
+              <charseq START="1804" END="1808">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="1804" END="1808">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M1422">
+          <extent>
+              <charseq START="2066" END="2070">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="2066" END="2070">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M3300">
+          <extent>
+              <charseq START="4114" END="4118">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="4114" END="4118">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M5009">
+          <extent>
+              <charseq START="6057" END="6061">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="6057" END="6061">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E0-M5008">
+          <extent>
+              <charseq START="6053" END="6075">the IPsec administrator</charseq>
+          </extent>
+          <head>
+              <charseq START="6063" END="6075">administrator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M5104">
+          <extent>
+              <charseq START="6155" END="6159">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="6155" END="6159">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M5204">
+          <extent>
+              <charseq START="6447" END="6451">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="6447" END="6451">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M5702">
+          <extent>
+              <charseq START="7166" END="7180">operation
+IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="7176" END="7180">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E0-M5703">
+          <extent>
+              <charseq START="7166" END="7174">operation</charseq>
+          </extent>
+          <head>
+              <charseq START="7166" END="7174">operation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M6906">
+          <extent>
+              <charseq START="8418" END="8422">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="8418" END="8422">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M7408">
+          <extent>
+              <charseq START="9007" END="9011">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="9007" END="9011">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M7904">
+          <extent>
+              <charseq START="9408" END="9412">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="9408" END="9412">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M8305">
+          <extent>
+              <charseq START="9732" END="9736">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="9732" END="9736">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M9006">
+          <extent>
+              <charseq START="10823" END="10827">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="10823" END="10827">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M9603">
+          <extent>
+              <charseq START="11636" END="11640">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="11636" END="11640">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M10104">
+          <extent>
+              <charseq START="12335" END="12339">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="12335" END="12339">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M10439">
+          <extent>
+              <charseq START="12969" END="12989">unauthenticated IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="12985" END="12989">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E0-M10446">
+          <extent>
+              <charseq START="13055" END="13065">IPsec
+IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="13055" END="13065">IPsec
+IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IPsec">
+              <charseq START="211" END="215">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="635" END="639">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="986" END="990">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="1228" END="1232">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="1483" END="1487">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="1804" END="1808">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="2066" END="2070">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="4114" END="4118">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="6057" END="6061">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="6155" END="6159">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="6447" END="6451">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="7176" END="7180">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="8418" END="8422">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="9007" END="9011">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="9408" END="9412">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="9732" END="9736">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="10823" END="10827">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="11636" END="11640">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="12335" END="12339">IPsec</charseq>
+          </name>
+          <name NAME="IPsec">
+              <charseq START="12985" END="12989">IPsec</charseq>
+          </name>
+          <name NAME="IPsec
+IPsec">
+              <charseq START="13055" END="13065">IPsec
+IPsec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E1-M105">
+          <extent>
+              <charseq START="288" END="293">agents</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="293">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E2-M207">
+          <extent>
+              <charseq START="488" END="492">hosts</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="492">hosts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E4-M300">
+          <extent>
+              <charseq START="500" END="568">computer users or servers), between a pair of security gateways (e.g.</charseq>
+          </extent>
+          <head>
+              <charseq START="509" END="513">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E4-M302">
+          <extent>
+              <charseq START="500" END="513">computer users</charseq>
+          </extent>
+          <head>
+              <charseq START="509" END="513">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E5-M402">
+          <extent>
+              <charseq START="570" END="576">routers</charseq>
+          </extent>
+          <head>
+              <charseq START="570" END="576">routers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="routers">
+              <charseq START="570" END="576">routers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E6-M605">
+          <extent>
+              <charseq START="851" END="876">Secure Sockets Layer (SSL)</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="870">Secure Sockets Layer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E6-M607">
+          <extent>
+              <charseq START="873" END="875">SSL</charseq>
+          </extent>
+          <head>
+              <charseq START="873" END="875">SSL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Secure Sockets Layer">
+              <charseq START="851" END="870">Secure Sockets Layer</charseq>
+          </name>
+          <name NAME="SSL">
+              <charseq START="873" END="875">SSL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E7-M610">
+          <extent>
+              <charseq START="879" END="902">Transport Layer Security</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="902">Transport Layer Security</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E7-M611">
+          <extent>
+              <charseq START="905" END="907">TLS</charseq>
+          </extent>
+          <head>
+              <charseq START="905" END="907">TLS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Transport Layer Security">
+              <charseq START="879" END="902">Transport Layer Security</charseq>
+          </name>
+          <name NAME="TLS">
+              <charseq START="905" END="907">TLS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E8-M612">
+          <extent>
+              <charseq START="914" END="925">Secure Shell</charseq>
+          </extent>
+          <head>
+              <charseq START="914" END="925">Secure Shell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Secure Shell">
+              <charseq START="914" END="925">Secure Shell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E9-M613">
+          <extent>
+              <charseq START="928" END="930">SSH</charseq>
+          </extent>
+          <head>
+              <charseq START="928" END="930">SSH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SSH">
+              <charseq START="928" END="930">SSH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E10-M902">
+          <extent>
+              <charseq START="1136" END="1142">TLS/SSL</charseq>
+          </extent>
+          <head>
+              <charseq START="1136" END="1142">TLS/SSL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TLS/SSL">
+              <charseq START="1136" END="1142">TLS/SSL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E11-M1003">
+          <extent>
+              <charseq START="1252" END="1258">the ISO</charseq>
+          </extent>
+          <head>
+              <charseq START="1256" END="1258">ISO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ISO">
+              <charseq START="1256" END="1258">ISO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E12-M1100">
+          <extent>
+              <charseq START="1326" END="1329">NLSP</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1329">NLSP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NLSP">
+              <charseq START="1326" END="1329">NLSP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E13-M1105">
+          <extent>
+              <charseq START="1383" END="1387">NIST,</charseq>
+          </extent>
+          <head>
+              <charseq START="1383" END="1386">NIST</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NIST">
+              <charseq START="1383" END="1386">NIST</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E14-M1109">
+          <extent>
+              <charseq START="1409" END="1434">Secure Data Network System</charseq>
+          </extent>
+          <head>
+              <charseq START="1409" END="1434">Secure Data Network System</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Secure Data Network System">
+              <charseq START="1409" END="1434">Secure Data Network System</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E15-M1110">
+          <extent>
+              <charseq START="1447" END="1480">the National Security Agency (NSA)</charseq>
+          </extent>
+          <head>
+              <charseq START="1451" END="1474">National Security Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E15-M1113">
+          <extent>
+              <charseq START="1477" END="1479">NSA</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1479">NSA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Security Agency">
+              <charseq START="1451" END="1474">National Security Agency</charseq>
+          </name>
+          <name NAME="NSA">
+              <charseq START="1477" END="1479">NSA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E16-M1203">
+          <extent>
+              <charseq START="1533" END="1574">the Internet Engineering Task Force (IETF)</charseq>
+          </extent>
+          <head>
+              <charseq START="1537" END="1567">Internet Engineering Task Force</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E16-M10424">
+          <extent>
+              <charseq START="12823" END="12869">Internet Engineering Task Force (IETF)
+IPsec WG</charseq>
+          </extent>
+          <head>
+              <charseq START="12823" END="12853">Internet Engineering Task Force</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Internet Engineering Task Force">
+              <charseq START="1537" END="1567">Internet Engineering Task Force</charseq>
+          </name>
+          <name NAME="Internet Engineering Task Force">
+              <charseq START="12823" END="12853">Internet Engineering Task Force</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E17-M1412">
+          <extent>
+              <charseq START="1941" END="1942">SA</charseq>
+          </extent>
+          <head>
+              <charseq START="1941" END="1942">SA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E17-M8806">
+          <extent>
+              <charseq START="10585" END="10586">SA</charseq>
+          </extent>
+          <head>
+              <charseq START="10585" END="10586">SA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SA">
+              <charseq START="1941" END="1942">SA</charseq>
+          </name>
+          <name NAME="SA">
+              <charseq START="10585" END="10586">SA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E18-M1706">
+          <extent>
+              <charseq START="2510" END="2545">a member of the IPsec protocol suite</charseq>
+          </extent>
+          <head>
+              <charseq START="2512" END="2517">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E18-M3205">
+          <extent>
+              <charseq START="4073" END="4108">a member of the IPsec protocol suite</charseq>
+          </extent>
+          <head>
+              <charseq START="4075" END="4080">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E19-M1800">
+          <extent>
+              <charseq START="2548" END="2549">AH</charseq>
+          </extent>
+          <head>
+              <charseq START="2548" END="2549">AH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E19-M2000">
+          <extent>
+              <charseq START="2757" END="2758">AH</charseq>
+          </extent>
+          <head>
+              <charseq START="2757" END="2758">AH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AH">
+              <charseq START="2548" END="2549">AH</charseq>
+          </name>
+          <name NAME="AH">
+              <charseq START="2757" END="2758">AH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E20-M2100">
+          <extent>
+              <charseq START="2856" END="2895">those that might be altered in transit).</charseq>
+          </extent>
+          <head>
+              <charseq START="2856" END="2860">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E20-M2103">
+          <extent>
+              <charseq START="2862" END="2865">that</charseq>
+          </extent>
+          <head>
+              <charseq START="2862" END="2865">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E21-M2207">
+          <extent>
+              <charseq START="3005" END="3007">TTL</charseq>
+          </extent>
+          <head>
+              <charseq START="3005" END="3007">TTL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TTL">
+              <charseq START="3005" END="3007">TTL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E22-M2208">
+          <extent>
+              <charseq START="3013" END="3027">Header Checksum</charseq>
+          </extent>
+          <head>
+              <charseq START="3013" END="3027">Header Checksum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Header Checksum">
+              <charseq START="3013" END="3027">Header Checksum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E23-M2300">
+          <extent>
+              <charseq START="3030" END="3031">AH</charseq>
+          </extent>
+          <head>
+              <charseq START="3030" END="3031">AH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AH">
+              <charseq START="3030" END="3031">AH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E24-M2511">
+          <extent>
+              <charseq START="3447" END="3485">the Internet Assigned Numbers Authority</charseq>
+          </extent>
+          <head>
+              <charseq START="3451" END="3485">Internet Assigned Numbers Authority</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E24-M4411">
+          <extent>
+              <charseq START="5391" END="5429">the Internet Assigned Numbers Authority</charseq>
+          </extent>
+          <head>
+              <charseq START="5395" END="5429">Internet Assigned Numbers Authority</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Internet Assigned Numbers Authority">
+              <charseq START="3451" END="3485">Internet Assigned Numbers Authority</charseq>
+          </name>
+          <name NAME="Internet Assigned Numbers Authority">
+              <charseq START="5395" END="5429">Internet Assigned Numbers Authority</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E25-M2502">
+          <extent>
+              <charseq START="3335" END="3344">this field</charseq>
+          </extent>
+          <head>
+              <charseq START="3340" END="3344">field</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E25-M4402">
+          <extent>
+              <charseq START="5279" END="5288">this field</charseq>
+          </extent>
+          <head>
+              <charseq START="5284" END="5288">field</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E26-M3202">
+          <extent>
+              <charseq START="4002" END="4045">Encapsulating Security Payload
+Encapsulating</charseq>
+          </extent>
+          <head>
+              <charseq START="4002" END="4045">Encapsulating Security Payload
+Encapsulating</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Encapsulating Security Payload
+Encapsulating">
+              <charseq START="4002" END="4045">Encapsulating Security Payload
+Encapsulating</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E27-M3400">
+          <extent>
+              <charseq START="4207" END="4209">ESP</charseq>
+          </extent>
+          <head>
+              <charseq START="4207" END="4209">ESP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E27-M3700">
+          <extent>
+              <charseq START="4689" END="4691">ESP</charseq>
+          </extent>
+          <head>
+              <charseq START="4689" END="4691">ESP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ESP">
+              <charseq START="4207" END="4209">ESP</charseq>
+          </name>
+          <name NAME="ESP">
+              <charseq START="4689" END="4691">ESP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E28-M3600">
+          <extent>
+              <charseq START="4463" END="4557">Tunnel Mode, where the entire original IP packet is encapsulated with a new packet header added</charseq>
+          </extent>
+          <head>
+              <charseq START="4463" END="4473">Tunnel Mode</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E28-M3602">
+          <extent>
+              <charseq START="4476" END="4480">where</charseq>
+          </extent>
+          <head>
+              <charseq START="4476" END="4480">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tunnel Mode">
+              <charseq START="4463" END="4473">Tunnel Mode</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E29-M5116">
+          <extent>
+              <charseq START="6249" END="6252">SADB</charseq>
+          </extent>
+          <head>
+              <charseq START="6249" END="6252">SADB</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SADB">
+              <charseq START="6249" END="6252">SADB</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E30-M5114">
+          <extent>
+              <charseq START="6214" END="6237">the security association</charseq>
+          </extent>
+          <head>
+              <charseq START="6227" END="6237">association</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E30-M5303">
+          <extent>
+              <charseq START="6588" END="6596">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="6592" END="6596">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E30-M5305">
+          <extent>
+              <charseq START="6652" END="6660">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="6656" END="6660">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E30-M5404">
+          <extent>
+              <charseq START="6715" END="6721">a group</charseq>
+          </extent>
+          <head>
+              <charseq START="6717" END="6721">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E30-M5412">
+          <extent>
+              <charseq START="6807" END="6813">a group</charseq>
+          </extent>
+          <head>
+              <charseq START="6809" END="6813">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E31-M5304">
+          <extent>
+              <charseq START="6624" END="6647">all authorized receivers</charseq>
+          </extent>
+          <head>
+              <charseq START="6639" END="6647">receivers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E32-M5500">
+          <extent>
+              <charseq START="6824" END="6834">each sender</charseq>
+          </extent>
+          <head>
+              <charseq START="6829" END="6834">sender</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E33-M5501">
+          <extent>
+              <charseq START="6845" END="6874">multiple security associations</charseq>
+          </extent>
+          <head>
+              <charseq START="6863" END="6874">associations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E33-M9910">
+          <extent>
+              <charseq START="12055" END="12075">security associations</charseq>
+          </extent>
+          <head>
+              <charseq START="12064" END="12075">associations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E34-M5505">
+          <extent>
+              <charseq START="6908" END="6917">a receiver</charseq>
+          </extent>
+          <head>
+              <charseq START="6910" END="6917">receiver</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E35-M5506">
+          <extent>
+              <charseq START="6938" END="6961">someone knowing the keys</charseq>
+          </extent>
+          <head>
+              <charseq START="6938" END="6944">someone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E35-M5602">
+          <extent>
+              <charseq START="7080" END="7088">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="7084" END="7088">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E37-M6208">
+          <extent>
+              <charseq START="7887" END="7889">RFC</charseq>
+          </extent>
+          <head>
+              <charseq START="7887" END="7889">RFC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RFC">
+              <charseq START="7887" END="7889">RFC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E38-M6300">
+          <extent>
+              <charseq START="7933" END="7943">Tunnel mode</charseq>
+          </extent>
+          <head>
+              <charseq START="7933" END="7938">Tunnel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E38-M6500">
+          <extent>
+              <charseq START="8105" END="8115">Tunnel mode</charseq>
+          </extent>
+          <head>
+              <charseq START="8105" END="8110">Tunnel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E39-M6501">
+          <extent>
+              <charseq START="8135" END="8201">Virtual Private Networks for network-to-network communications (e.g</charseq>
+          </extent>
+          <head>
+              <charseq START="8135" END="8158">Virtual Private Networks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Virtual Private Networks">
+              <charseq START="8135" END="8158">Virtual Private Networks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E40-M6915">
+          <extent>
+              <charseq START="8502" END="8504">AES</charseq>
+          </extent>
+          <head>
+              <charseq START="8502" END="8504">AES</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AES">
+              <charseq START="8502" END="8504">AES</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E41-M6916">
+          <extent>
+              <charseq START="8506" END="8508">CBC</charseq>
+          </extent>
+          <head>
+              <charseq START="8506" END="8508">CBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CBC">
+              <charseq START="8506" END="8508">CBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E42" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E42-M6907">
+          <extent>
+              <charseq START="8433" END="8436">HMAC</charseq>
+          </extent>
+          <head>
+              <charseq START="8433" END="8436">HMAC</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E43-M7110">
+          <extent>
+              <charseq START="8662" END="8671">ISAKMP/IKE</charseq>
+          </extent>
+          <head>
+              <charseq START="8662" END="8671">ISAKMP/IKE</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E43-M9008">
+          <extent>
+              <charseq START="10833" END="10842">ISAKMP/IKE</charseq>
+          </extent>
+          <head>
+              <charseq START="10833" END="10842">ISAKMP/IKE</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ISAKMP/IKE">
+              <charseq START="8662" END="8671">ISAKMP/IKE</charseq>
+          </name>
+          <name NAME="ISAKMP/IKE">
+              <charseq START="10833" END="10842">ISAKMP/IKE</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E44-M7507">
+          <extent>
+              <charseq START="9129" END="9143">IPsec for Linux</charseq>
+          </extent>
+          <head>
+              <charseq START="9129" END="9143">IPsec for Linux</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E44-M8612">
+          <extent>
+              <charseq START="10113" END="10123">Linux IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="10113" END="10123">Linux IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E44-M8906">
+          <extent>
+              <charseq START="10711" END="10715">Linux</charseq>
+          </extent>
+          <head>
+              <charseq START="10711" END="10715">Linux</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IPsec for Linux">
+              <charseq START="9129" END="9143">IPsec for Linux</charseq>
+          </name>
+          <name NAME="Linux IPsec">
+              <charseq START="10113" END="10123">Linux IPsec</charseq>
+          </name>
+          <name NAME="Linux">
+              <charseq START="10711" END="10715">Linux</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E45-M7605">
+          <extent>
+              <charseq START="9183" END="9187">KLIPS</charseq>
+          </extent>
+          <head>
+              <charseq START="9183" END="9187">KLIPS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KLIPS">
+              <charseq START="9183" END="9187">KLIPS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E46-M7901">
+          <extent>
+              <charseq START="9369" END="9372">KAME</charseq>
+          </extent>
+          <head>
+              <charseq START="9369" END="9372">KAME</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E46-M8001">
+          <extent>
+              <charseq START="9443" END="9445">Its</charseq>
+          </extent>
+          <head>
+              <charseq START="9443" END="9445">Its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E46-M8102">
+          <extent>
+              <charseq START="9500" END="9502">its</charseq>
+          </extent>
+          <head>
+              <charseq START="9500" END="9502">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E46-M8504">
+          <extent>
+              <charseq START="9987" END="9990">KAME</charseq>
+          </extent>
+          <head>
+              <charseq START="9987" END="9990">KAME</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E46-M8626">
+          <extent>
+              <charseq START="10252" END="10255">KAME</charseq>
+          </extent>
+          <head>
+              <charseq START="10252" END="10255">KAME</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E46-M9301">
+          <extent>
+              <charseq START="11052" END="11055">KAME</charseq>
+          </extent>
+          <head>
+              <charseq START="11052" END="11055">KAME</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KAME">
+              <charseq START="9369" END="9372">KAME</charseq>
+          </name>
+          <name NAME="KAME">
+              <charseq START="9987" END="9990">KAME</charseq>
+          </name>
+          <name NAME="KAME">
+              <charseq START="10252" END="10255">KAME</charseq>
+          </name>
+          <name NAME="KAME">
+              <charseq START="11052" END="11055">KAME</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E47-M7906">
+          <extent>
+              <charseq START="9426" END="9431">NetBSD</charseq>
+          </extent>
+          <head>
+              <charseq START="9426" END="9431">NetBSD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E47-M9305">
+          <extent>
+              <charseq START="11094" END="11099">NetBSD</charseq>
+          </extent>
+          <head>
+              <charseq START="11094" END="11099">NetBSD</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NetBSD">
+              <charseq START="9426" END="9431">NetBSD</charseq>
+          </name>
+          <name NAME="NetBSD">
+              <charseq START="11094" END="11099">NetBSD</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E48-M8100">
+          <extent>
+              <charseq START="9487" END="9493">OpenBSD</charseq>
+          </extent>
+          <head>
+              <charseq START="9487" END="9493">OpenBSD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E48-M8622">
+          <extent>
+              <charseq START="10219" END="10225">OpenBSD</charseq>
+          </extent>
+          <head>
+              <charseq START="10219" END="10225">OpenBSD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E48-M9200">
+          <extent>
+              <charseq START="10924" END="11045">OpenBSD, with its own code derived from a BSD/OS implementation written by John Ioannidis and Angelos D. Keromytis in 1996</charseq>
+          </extent>
+          <head>
+              <charseq START="10924" END="10930">OpenBSD</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="OpenBSD">
+              <charseq START="9487" END="9493">OpenBSD</charseq>
+          </name>
+          <name NAME="OpenBSD">
+              <charseq START="10219" END="10225">OpenBSD</charseq>
+          </name>
+          <name NAME="OpenBSD">
+              <charseq START="10924" END="10930">OpenBSD</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E49-M8301">
+          <extent>
+              <charseq START="9680" END="9695">Alexey Kuznetsov</charseq>
+          </extent>
+          <head>
+              <charseq START="9680" END="9695">Alexey Kuznetsov</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexey Kuznetsov">
+              <charseq START="9680" END="9695">Alexey Kuznetsov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E50-M8302">
+          <extent>
+              <charseq START="9701" END="9715">David S. Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="9701" END="9715">David S. Miller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David S. Miller">
+              <charseq START="9701" END="9715">David S. Miller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E51-M8800">
+          <extent>
+              <charseq START="10501" END="10521">A dedicated Fast Path</charseq>
+          </extent>
+          <head>
+              <charseq START="10513" END="10521">Fast Path</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fast Path">
+              <charseq START="10513" END="10521">Fast Path</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E52-M8808">
+          <extent>
+              <charseq START="10589" END="10590">SP</charseq>
+          </extent>
+          <head>
+              <charseq START="10589" END="10590">SP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SP">
+              <charseq START="10589" END="10590">SP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E53-M8902">
+          <extent>
+              <charseq START="10626" END="10640">Fast-Path IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="10626" END="10640">Fast-Path IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fast-Path IPsec">
+              <charseq START="10626" END="10640">Fast-Path IPsec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E54" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E54-M8908">
+          <extent>
+              <charseq START="10720" END="10723">RTOS</charseq>
+          </extent>
+          <head>
+              <charseq START="10720" END="10723">RTOS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RTOS">
+              <charseq START="10720" END="10723">RTOS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E55-M9102">
+          <extent>
+              <charseq START="10870" END="10878">NRL IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="10870" END="10878">NRL IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E55-M9204">
+          <extent>
+              <charseq START="10938" END="10940">its</charseq>
+          </extent>
+          <head>
+              <charseq START="10938" END="10940">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NRL IPsec">
+              <charseq START="10870" END="10878">NRL IPsec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E56-M9211">
+          <extent>
+              <charseq START="10999" END="11012">John Ioannidis</charseq>
+          </extent>
+          <head>
+              <charseq START="10999" END="11012">John Ioannidis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Ioannidis">
+              <charseq START="10999" END="11012">John Ioannidis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E57-M9212">
+          <extent>
+              <charseq START="11018" END="11037">Angelos D. Keromytis</charseq>
+          </extent>
+          <head>
+              <charseq START="11018" END="11037">Angelos D. Keromytis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Angelos D. Keromytis">
+              <charseq START="11018" END="11037">Angelos D. Keromytis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E58" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E58-M9304" ROLE="LOC">
+          <extent>
+              <charseq START="11084" END="11086">Mac</charseq>
+          </extent>
+          <head>
+              <charseq START="11084" END="11086">Mac</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mac">
+              <charseq START="11084" END="11086">Mac</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E59" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E59-M9401">
+          <extent>
+              <charseq START="11125" END="11129">Cisco</charseq>
+          </extent>
+          <head>
+              <charseq START="11125" END="11129">Cisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cisco">
+              <charseq START="11125" END="11129">Cisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E60" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E60-M9407">
+          <extent>
+              <charseq START="11155" END="11163">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="11155" END="11163">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="11155" END="11163">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E61" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E61-M9415">
+          <extent>
+              <charseq START="11224" END="11237">Windows Vista,</charseq>
+          </extent>
+          <head>
+              <charseq START="11224" END="11236">Windows Vista</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Windows Vista">
+              <charseq START="11224" END="11236">Windows Vista</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E62-M9500">
+          <extent>
+              <charseq START="11275" END="11290">SafeNet QuickSec</charseq>
+          </extent>
+          <head>
+              <charseq START="11275" END="11290">SafeNet QuickSec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SafeNet QuickSec">
+              <charseq START="11275" END="11290">SafeNet QuickSec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E63" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E63-M9505">
+          <extent>
+              <charseq START="11318" END="11320">IBM</charseq>
+          </extent>
+          <head>
+              <charseq START="11318" END="11320">IBM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E63-M9511">
+          <extent>
+              <charseq START="11343" END="11345">IBM</charseq>
+          </extent>
+          <head>
+              <charseq START="11343" END="11345">IBM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="IPsec.sentences.sgm-E63-M9532">
+          <extent>
+              <charseq START="11534" END="11536">its</charseq>
+          </extent>
+          <head>
+              <charseq START="11534" END="11536">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IBM">
+              <charseq START="11318" END="11320">IBM</charseq>
+          </name>
+          <name NAME="IBM">
+              <charseq START="11343" END="11345">IBM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E64-M9517">
+          <extent>
+              <charseq START="11372" END="11377">UX (HP</charseq>
+          </extent>
+          <head>
+              <charseq START="11372" END="11373">UX</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E65-M10203">
+          <extent>
+              <charseq START="12499" END="12504">ESPbis</charseq>
+          </extent>
+          <head>
+              <charseq START="12499" END="12504">ESPbis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ESPbis">
+              <charseq START="12499" END="12504">ESPbis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E66-M10303">
+          <extent>
+              <charseq START="12545" END="12561">IPsec Maintenance</charseq>
+          </extent>
+          <head>
+              <charseq START="12545" END="12561">IPsec Maintenance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E66-M10301">
+          <extent>
+              <charseq START="12542" END="12590">an IPsec Maintenance and Extensions working group</charseq>
+          </extent>
+          <head>
+              <charseq START="12586" END="12590">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IPsec Maintenance">
+              <charseq START="12545" END="12561">IPsec Maintenance</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E67-M10427">
+          <extent>
+              <charseq START="12862" END="12869">IPsec WG</charseq>
+          </extent>
+          <head>
+              <charseq START="12868" END="12869">WG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E67-M10428">
+          <extent>
+              <charseq START="12862" END="12866">IPsec</charseq>
+          </extent>
+          <head>
+              <charseq START="12862" END="12866">IPsec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WG">
+              <charseq START="12868" END="12869">WG</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E68-M10432">
+          <extent>
+              <charseq START="12905" END="13204">All IETF active security WGs
+IETF BTNS WG (chartered to work on unauthenticated IPsec, IPsec APIs, connection latching)
+Securing Data in Transit with IPsec
+IPsec at the Open Directory Project
+Microsoft IPsec Diagnostic Tool
+An Illustrated Guide to IPsec
+Data Communication Lectures of Manfred Lindner</charseq>
+          </extent>
+          <head>
+              <charseq START="12930" END="12945">WGs
+IETF BTNS WG</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WGs
+IETF BTNS WG">
+              <charseq START="12930" END="12945">WGs
+IETF BTNS WG</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E69-M10441">
+          <extent>
+              <charseq START="12992" END="13001">IPsec APIs</charseq>
+          </extent>
+          <head>
+              <charseq START="12992" END="13001">IPsec APIs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IPsec APIs">
+              <charseq START="12992" END="13001">IPsec APIs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E70" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E70-M10447">
+          <extent>
+              <charseq START="13070" END="13148">the Open Directory Project
+Microsoft IPsec Diagnostic Tool
+An Illustrated Guide</charseq>
+          </extent>
+          <head>
+              <charseq START="13097" END="13148">Microsoft IPsec Diagnostic Tool
+An Illustrated Guide</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="IPsec.sentences.sgm-E70-M10450">
+          <extent>
+              <charseq START="13089" END="13095">Project</charseq>
+          </extent>
+          <head>
+              <charseq START="13089" END="13095">Project</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft IPsec Diagnostic Tool
+An Illustrated Guide">
+              <charseq START="13097" END="13148">Microsoft IPsec Diagnostic Tool
+An Illustrated Guide</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E71" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E71-M10454">
+          <extent>
+              <charseq START="13153" END="13176">IPsec
+Data Communication</charseq>
+          </extent>
+          <head>
+              <charseq START="13153" END="13176">IPsec
+Data Communication</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IPsec
+Data Communication">
+              <charseq START="13153" END="13176">IPsec
+Data Communication</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="IPsec.sentences.sgm-E72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="IPsec.sentences.sgm-E72-M10455">
+          <extent>
+              <charseq START="13190" END="13204">Manfred Lindner</charseq>
+          </extent>
+          <head>
+              <charseq START="13190" END="13204">Manfred Lindner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manfred Lindner">
+              <charseq START="13190" END="13204">Manfred Lindner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="IPsec.sentences.sgm-T0">
+        <timex2_mention ID="IPsec.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="3232" END="3236">8-bit</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="IPsec.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="3412" END="3417">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T2" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="IPsec.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="3579" END="3584">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="IPsec.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="5356" END="5361">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T4" VAL="2004-03">
+        <timex2_mention ID="IPsec.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="9297" END="9306">March 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T5" VAL="2002" MOD="END">
+        <timex2_mention ID="IPsec.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="9794" END="9808">the end of 2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T6" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="IPsec.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="9934" END="9940">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T7" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="IPsec.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="10526" END="10534">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T8" VAL="1996">
+        <timex2_mention ID="IPsec.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="11042" END="11045">1996</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T9" VAL="2000">
+        <timex2_mention ID="IPsec.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="11204" END="11207">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T10" VAL="2003">
+        <timex2_mention ID="IPsec.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="11218" END="11221">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T11" VAL="2008">
+        <timex2_mention ID="IPsec.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="11254" END="11257">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T12" VAL="1825">
+        <timex2_mention ID="IPsec.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="11757" END="11760">1825</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T13" VAL="1829">
+        <timex2_mention ID="IPsec.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="11770" END="11773">1829</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T14" VAL="1995">
+        <timex2_mention ID="IPsec.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="11789" END="11792">1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T15" VAL="1998">
+        <timex2_mention ID="IPsec.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="11798" END="11801">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T16" VAL="2005-12">
+        <timex2_mention ID="IPsec.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="12081" END="12093">December 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T17" VAL="1825">
+        <timex2_mention ID="IPsec.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="12442" END="12445">1825</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="IPsec.sentences.sgm-T18" VAL="1829">
+        <timex2_mention ID="IPsec.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="12451" END="12454">1829</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="IPsec.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="IPsec.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="IPsec.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="IPsec.sentences.sgm-R0-M1000">
+          <extent>
+              <charseq START="1237" END="1258">a successor of the ISO</charseq>
+          </extent>
+          <relation_mention_argument REFID="IPsec.sentences.sgm-E0-M1001" ROLE="Arg-1">
+            <extent>
+              <charseq START="1237" END="1258">a successor of the ISO</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="IPsec.sentences.sgm-E11-M1003" ROLE="Arg-2">
+            <extent>
+              <charseq START="1252" END="1258">the ISO</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="IPsec.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="IPsec.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="IPsec.sentences.sgm-E70" ROLE="Arg-2"/>
+        <relation_mention ID="IPsec.sentences.sgm-R1-M10400">
+          <extent>
+              <charseq START="13055" END="13065">IPsec
+IPsec</charseq>
+          </extent>
+          <relation_mention_argument REFID="IPsec.sentences.sgm-E0-M10446" ROLE="Arg-1">
+            <extent>
+              <charseq START="13055" END="13065">IPsec
+IPsec</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="IPsec.sentences.sgm-E70-M10447" ROLE="Arg-2">
+            <extent>
+              <charseq START="13070" END="13148">the Open Directory Project
+Microsoft IPsec Diagnostic Tool
+An Illustrated Guide</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="IPsec.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="IPsec.sentences.sgm-EV0-M1501">
+          <extent>
+              <charseq START="2225" END="2231">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2225" END="2231">attacks</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="IPsec.sentences.sgm-EV0-M1901">
+          <extent>
+              <charseq START="2683" END="2689">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2683" END="2689">attacks</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="IPsec.sentences.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="IPsec.sentences.sgm-EV1-M3001">
+          <extent>
+              <charseq START="3869" END="3875">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3869" END="3875">attacks</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="IPsec.sentences.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="IPsec.sentences.sgm-EV2-M3901">
+          <extent>
+              <charseq START="5034" END="5040">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5034" END="5040">attacks</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

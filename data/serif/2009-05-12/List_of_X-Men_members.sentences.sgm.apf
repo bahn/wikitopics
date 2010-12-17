@@ -1,0 +1,1197 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="List_of_X-Men_members.sentences.sgm">
+  <document DOCID="List_of_X-Men_members.sentences.sgm">
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="121" END="133">Marvel Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="121" END="133">Marvel Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E0-M104">
+          <extent>
+              <charseq START="178" END="185">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="185">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E0-M303">
+          <extent>
+              <charseq START="402" END="409">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="409">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E0-M1295">
+          <extent>
+              <charseq START="3223" END="3235">Marvel Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="3223" END="3235">Marvel Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E0-M1296">
+          <extent>
+              <charseq START="3248" END="3267">Marvel Comics
+Marvel</charseq>
+          </extent>
+          <head>
+              <charseq START="3248" END="3267">Marvel Comics
+Marvel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marvel Comics">
+              <charseq START="121" END="133">Marvel Comics</charseq>
+          </name>
+          <name NAME="Marvel Comics">
+              <charseq START="3223" END="3235">Marvel Comics</charseq>
+          </name>
+          <name NAME="Marvel Comics
+Marvel">
+              <charseq START="3248" END="3267">Marvel Comics
+Marvel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M1">
+          <extent>
+              <charseq START="44" END="46">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="44" END="46">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M305">
+          <extent>
+              <charseq START="428" END="451">Men and History of the X</charseq>
+          </extent>
+          <head>
+              <charseq START="428" END="430">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M307">
+          <extent>
+              <charseq START="428" END="430">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="428" END="430">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M310">
+          <extent>
+              <charseq START="453" END="455">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="455">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M501">
+          <extent>
+              <charseq START="568" END="582">Men (1963-1969)</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="570">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M517">
+          <extent>
+              <charseq START="672" END="674">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="672" END="674">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M603">
+          <extent>
+              <charseq START="704" END="738">Men when relocated to San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="706">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M713">
+          <extent>
+              <charseq START="853" END="855">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="853" END="855">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M720">
+          <extent>
+              <charseq START="896" END="919">Men (1986)
+Muir Island X</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="898">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M726">
+          <extent>
+              <charseq START="921" END="949">Men (1989)
+Phalanx Covenant X</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="923">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M732">
+          <extent>
+              <charseq START="951" END="974">Men (1994)
+Astonishing X</charseq>
+          </extent>
+          <head>
+              <charseq START="951" END="953">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M743">
+          <extent>
+              <charseq START="1008" END="1092">Men (2001)
+Planet X Street Team (2004)
+Xavier&apos;s Secret Team (Deadly Genesis) (2006)
+X</charseq>
+          </extent>
+          <head>
+              <charseq START="1008" END="1010">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M770">
+          <extent>
+              <charseq START="1135" END="1146">Men (2009)
+X</charseq>
+          </extent>
+          <head>
+              <charseq START="1135" END="1137">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_X-Men_members.sentences.sgm-E1-M800">
+          <extent>
+              <charseq START="1477" END="1480">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1480">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M905">
+          <extent>
+              <charseq START="1578" END="1589">Men (vol.
+2)</charseq>
+          </extent>
+          <head>
+              <charseq START="1578" END="1580">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M1054">
+          <extent>
+              <charseq START="2094" END="2523">Men (1992 TV series)
+Professor X
+Cyclops
+Wolverine
+Storm
+Rogue
+Gambit
+Jean Grey
+Jubilee
+Beast
+Morph
+Pryde of the X-Men
+Professor X
+Storm
+Cyclops
+Wolverine
+Colossus
+Shadowcat
+Dazzler
+Nightcrawler
+Ancillary teams
+Alpha Flight - Canadian Superhero Team
+Big Hero 6 - Japanese Superhero Team
+Shi&apos;ar Imperial Guard - Royal Guard of the Shi&apos;ar Empire
+Starjammers - Space Pirate Team - Independent
+X-Corps - Mutant Police Squad
+X-Statix -</charseq>
+          </extent>
+          <head>
+              <charseq START="2094" END="2096">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M1209">
+          <extent>
+              <charseq START="2708" END="2710">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="2708" END="2710">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M1217">
+          <extent>
+              <charseq START="2755" END="2757">Men</charseq>
+          </extent>
+          <head>
+              <charseq START="2755" END="2757">Men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E1-M1258">
+          <extent>
+              <charseq START="3050" END="3057">Men 2099</charseq>
+          </extent>
+          <head>
+              <charseq START="3050" END="3052">Men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M100">
+          <extent>
+              <charseq START="136" END="153">Characters in bold</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="145">Characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M102">
+          <extent>
+              <charseq START="159" END="185">current members of the team</charseq>
+          </extent>
+          <head>
+              <charseq START="167" END="173">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M200">
+          <extent>
+              <charseq START="284" END="313">Characters currently seen in X</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="293">Characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M207">
+          <extent>
+              <charseq START="366" END="381">official members</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="381">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_X-Men_members.sentences.sgm-E2-M205">
+          <extent>
+              <charseq START="353" END="356">they</charseq>
+          </extent>
+          <head>
+              <charseq START="353" END="356">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M401">
+          <extent>
+              <charseq START="486" END="507">characters in boldface</charseq>
+          </extent>
+          <head>
+              <charseq START="486" END="495">characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E2-M404">
+          <extent>
+              <charseq START="513" END="554">characters that are currently in the X-Men</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="522">characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_X-Men_members.sentences.sgm-E2-M406">
+          <extent>
+              <charseq START="524" END="527">that</charseq>
+          </extent>
+          <head>
+              <charseq START="524" END="527">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_X-Men_members.sentences.sgm-E2-M900">
+          <extent>
+              <charseq START="1541" END="1577">The ones who didn&apos;t show up in New X-</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1548">ones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_X-Men_members.sentences.sgm-E2-M902">
+          <extent>
+              <charseq START="1550" END="1552">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1552">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E3-M110">
+          <extent>
+              <charseq START="240" END="281">a single character, in chronological order</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="257">character</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E4-M400">
+          <extent>
+              <charseq START="465" END="478">Official teams</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="478">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E4-M714">
+          <extent>
+              <charseq START="868" END="894">teams
+New Mutant Graduate X</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="872">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E5-M512">
+          <extent>
+              <charseq START="639" END="658">Noriko &quot;Nori&quot; Ashida</charseq>
+          </extent>
+          <head>
+              <charseq START="639" END="658">Noriko &quot;Nori&quot; Ashida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Noriko &quot;Nori&quot; Ashida">
+              <charseq START="639" END="658">Noriko &quot;Nori&quot; Ashida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E6-M504">
+          <extent>
+              <charseq START="590" END="609">recruits (1975-1999)</charseq>
+          </extent>
+          <head>
+              <charseq START="590" END="597">recruits</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E6-M507">
+          <extent>
+              <charseq START="617" END="624">recruits</charseq>
+          </extent>
+          <head>
+              <charseq START="617" END="624">recruits</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E7-M605">
+          <extent>
+              <charseq START="726" END="738">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="738">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="726" END="738">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E8-M753">
+          <extent>
+              <charseq START="1047" END="1092">Xavier&apos;s Secret Team (Deadly Genesis) (2006)
+X</charseq>
+          </extent>
+          <head>
+              <charseq START="1056" END="1066">Secret Team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E8-M747">
+          <extent>
+              <charseq START="1019" END="1045">Planet X Street Team (2004)</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1038">Team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E8-M761">
+          <extent>
+              <charseq START="1094" END="1100">Club (X</charseq>
+          </extent>
+          <head>
+              <charseq START="1094" END="1097">Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Secret Team">
+              <charseq START="1056" END="1066">Secret Team</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E9-M755">
+          <extent>
+              <charseq START="1047" END="1052">Xavier</charseq>
+          </extent>
+          <head>
+              <charseq START="1047" END="1052">Xavier</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xavier">
+              <charseq START="1047" END="1052">Xavier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E10-M764">
+          <extent>
+              <charseq START="1102" END="1133">Men Science Squad) (2009)
+Dark X</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1118">Men Science Squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Men Science Squad">
+              <charseq START="1102" END="1118">Men Science Squad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E11-M751">
+          <extent>
+              <charseq START="1028" END="1033">Street</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1033">Street</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E12-M775">
+          <extent>
+              <charseq START="1148" END="1165">Men splinter teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1161" END="1165">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E13" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E13-M803">
+          <extent>
+              <charseq START="1503" END="1538">X-23 (plus Kid Omega in Beast&apos;s lab)</charseq>
+          </extent>
+          <head>
+              <charseq START="1503" END="1506">X-23</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="X-23">
+              <charseq START="1503" END="1506">X-23</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E14-M805">
+          <extent>
+              <charseq START="1527" END="1537">Beast&apos;s lab</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1537">lab</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E15" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E15-M912">
+          <extent>
+              <charseq START="1646" END="1652">the bus</charseq>
+          </extent>
+          <head>
+              <charseq START="1650" END="1652">bus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E16-M1012">
+          <extent>
+              <charseq START="1743" END="1751">Wolverine</charseq>
+          </extent>
+          <head>
+              <charseq START="1743" END="1751">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolverine">
+              <charseq START="1743" END="1751">Wolverine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E17-M1021">
+          <extent>
+              <charseq START="1796" END="1841">Emma Frost
+Forge
+Iceman
+Jean Grey
+Nightcrawler</charseq>
+          </extent>
+          <head>
+              <charseq START="1796" END="1841">Emma Frost
+Forge
+Iceman
+Jean Grey
+Nightcrawler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Emma Frost
+Forge
+Iceman
+Jean Grey
+Nightcrawler">
+              <charseq START="1796" END="1841">Emma Frost
+Forge
+Iceman
+Jean Grey
+Nightcrawler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E18-M1043">
+          <extent>
+              <charseq START="1984" END="2026">Spyke
+Gambit
+Cannonball
+Havok
+Sunspot
+Magma</charseq>
+          </extent>
+          <head>
+              <charseq START="1984" END="2026">Spyke
+Gambit
+Cannonball
+Havok
+Sunspot
+Magma</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spyke
+Gambit
+Cannonball
+Havok
+Sunspot
+Magma">
+              <charseq START="1984" END="2026">Spyke
+Gambit
+Cannonball
+Havok
+Sunspot
+Magma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E19-M1069">
+          <extent>
+              <charseq START="2135" END="2207">Wolverine
+Storm
+Rogue
+Gambit
+Jean Grey
+Jubilee
+Beast
+Morph
+Pryde of the X</charseq>
+          </extent>
+          <head>
+              <charseq START="2188" END="2198">Morph
+Pryde</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E19-M1078">
+          <extent>
+              <charseq START="2182" END="2186">Beast</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2186">Beast</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Morph
+Pryde">
+              <charseq START="2188" END="2198">Morph
+Pryde</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E20-M1089">
+          <extent>
+              <charseq START="2258" END="2297">Shadowcat
+Dazzler
+Nightcrawler
+Ancillary</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2297">Shadowcat
+Dazzler
+Nightcrawler
+Ancillary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shadowcat
+Dazzler
+Nightcrawler
+Ancillary">
+              <charseq START="2258" END="2297">Shadowcat
+Dazzler
+Nightcrawler
+Ancillary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E21-M1093" ROLE="GPE">
+          <extent>
+              <charseq START="2320" END="2327">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="2320" END="2327">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian">
+              <charseq START="2320" END="2327">Canadian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E22-M1098" ROLE="GPE">
+          <extent>
+              <charseq START="2357" END="2364">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2364">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japanese">
+              <charseq START="2357" END="2364">Japanese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E23-M1002">
+          <extent>
+              <charseq START="1684" END="1697">a *.
+New X-men</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1697">-men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E23-M1005">
+          <extent>
+              <charseq START="1703" END="1713">Young X-men</charseq>
+          </extent>
+          <head>
+              <charseq START="1710" END="1713">-men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E24-M1008">
+          <extent>
+              <charseq START="1715" END="1726">Other squads</charseq>
+          </extent>
+          <head>
+              <charseq START="1721" END="1726">squads</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E25-M1092">
+          <extent>
+              <charseq START="2320" END="2353">Canadian Superhero Team
+Big Hero 6</charseq>
+          </extent>
+          <head>
+              <charseq START="2348" END="2351">Hero</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E26-M1097">
+          <extent>
+              <charseq START="2357" END="2401">Japanese Superhero Team
+Shi&apos;ar Imperial Guard</charseq>
+          </extent>
+          <head>
+              <charseq START="2397" END="2401">Guard</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E27-M1100">
+          <extent>
+              <charseq START="2573" END="2605">-Treme Sanctions Executive (X.S.E</charseq>
+          </extent>
+          <head>
+              <charseq START="2590" END="2598">Executive</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E28-M1202">
+          <extent>
+              <charseq START="2612" END="2680">United Nations Mutant Law Enforcement Organization
+Alternate Universe</charseq>
+          </extent>
+          <head>
+              <charseq START="2612" END="2680">United Nations Mutant Law Enforcement Organization
+Alternate Universe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Nations Mutant Law Enforcement Organization
+Alternate Universe">
+              <charseq START="2612" END="2680">United Nations Mutant Law Enforcement Organization
+Alternate Universe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_X-Men_members.sentences.sgm-E29-M1238">
+          <extent>
+              <charseq START="2870" END="2914">Dimension Team
+JLX - Marvel/DC Team - Amalgam</charseq>
+          </extent>
+          <head>
+              <charseq START="2870" END="2914">Dimension Team
+JLX - Marvel/DC Team - Amalgam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E29-M1241">
+          <extent>
+              <charseq START="2936" END="2976">Alternate Reality Team (Havok)
+Ultimate X</charseq>
+          </extent>
+          <head>
+              <charseq START="2954" END="2957">Team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E29-M1276">
+          <extent>
+              <charseq START="3130" END="3143">Marvel/DC Team</charseq>
+          </extent>
+          <head>
+              <charseq START="3140" END="3143">Team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dimension Team
+JLX - Marvel/DC Team - Amalgam">
+              <charseq START="2870" END="2914">Dimension Team
+JLX - Marvel/DC Team - Amalgam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E30-M1200">
+          <extent>
+              <charseq START="2612" END="3334">United Nations Mutant Law Enforcement Organization
+Alternate Universe teams
+Age of Apocalypse X-Men &amp; Splinter Teams - Astonishing &amp; Amazing X-Men, Factor-X, X-Calibre, New Mutants, X-Ternals, Generation Next, Weapon X, Outcasts
+Exiles - Multiverse/Parallel Dimension Team
+JLX - Marvel/DC Team - Amalgam Universe
+Mutant X - Alternate Reality Team (Havok)
+Ultimate X-Men - Ultimate Marvel Universe
+X.S.E.
+&amp; X.U.E.
+- Future Timeline Team
+X-Men 2099 - Marvel 2099 Universe
+X-Nation 2099 - Marvel 2099 Universe
+X-Patrol - Marvel/DC Team - Amalgam Universe (X-Force)
+X-People - MC2 Universe
+Enemies
+See also
+List of Marvel Comics characters
+Marvel Comics
+Marvel Universe
+References
+External links
+LeDiableBlanc - Gambit of the X</charseq>
+          </extent>
+          <head>
+              <charseq START="2682" END="2686">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E30-M1210">
+          <extent>
+              <charseq START="2714" END="2727">Splinter Teams</charseq>
+          </extent>
+          <head>
+              <charseq START="2723" END="2727">Teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E31-M1233">
+          <extent>
+              <charseq START="2832" END="2846">Outcasts
+Exiles</charseq>
+          </extent>
+          <head>
+              <charseq START="2841" END="2846">Exiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E32-M1286">
+          <extent>
+              <charseq START="3176" END="3316">People - MC2 Universe
+Enemies
+See also
+List of Marvel Comics characters
+Marvel Comics
+Marvel Universe
+References
+External links
+LeDiableBlanc</charseq>
+          </extent>
+          <head>
+              <charseq START="3176" END="3181">People</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_X-Men_members.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_X-Men_members.sentences.sgm-E33-M1294">
+          <extent>
+              <charseq START="3223" END="3246">Marvel Comics characters</charseq>
+          </extent>
+          <head>
+              <charseq START="3237" END="3246">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T0" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="159" END="165">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T1">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="263" END="275">chronological</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T2" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="295" END="303">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T3" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="533" END="541">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T4" VAL="20">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="611" END="615">2000s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T5" VAL="2009">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="682" END="685">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T6" VAL="1986">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="901" END="904">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T7" VAL="1989">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="926" END="929">1989</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T8" VAL="1994">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="956" END="959">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T9" VAL="1999">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="981" END="984">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T10" VAL="2001">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1013" END="1016">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T11" VAL="2004">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1041" END="1044">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T12" VAL="2006">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1086" END="1089">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T13" VAL="2009">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1122" END="1125">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T14" VAL="2009">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1140" END="1143">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T15" VAL="2009">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="1201" END="1204">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T16" VAL="1991T20:01">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="1216" END="1224">1991-2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T17" VAL="1998">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="1362" END="1365">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T18" VAL="P1D">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="1470" END="1474">M-Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T19" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="1486" END="1488">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_X-Men_members.sentences.sgm-T20" VAL="1992">
+        <timex2_mention ID="List_of_X-Men_members.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2099" END="2102">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="List_of_X-Men_members.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_X-Men_members.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="159" END="185">current members of the team</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E2-M102" ROLE="Arg-1">
+            <extent>
+              <charseq START="159" END="185">current members of the team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E0-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="178" END="185">the team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_X-Men_members.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_X-Men_members.sentences.sgm-R1-M700">
+          <extent>
+              <charseq START="1135" END="1146">Men (2009)
+X</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E1-M770" ROLE="Arg-1">
+            <extent>
+              <charseq START="1135" END="1146">Men (2009)
+X</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E10-M764" ROLE="Arg-2">
+            <extent>
+              <charseq START="1102" END="1133">Men Science Squad) (2009)
+Dark X</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_X-Men_members.sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_X-Men_members.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_X-Men_members.sentences.sgm-R2-M1000">
+          <extent>
+              <charseq START="2320" END="2353">Canadian Superhero Team
+Big Hero 6</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E25-M1092" ROLE="Arg-1">
+            <extent>
+              <charseq START="2320" END="2353">Canadian Superhero Team
+Big Hero 6</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E21-M1093" ROLE="Arg-2">
+            <extent>
+              <charseq START="2320" END="2327">Canadian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="List_of_X-Men_members.sentences.sgm-EV0" TYPE="Transaction" SUBTYPE="Transfer-Ownership" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_X-Men_members.sentences.sgm-E4" ROLE="Artifact"/>
+      <event_argument REFID="List_of_X-Men_members.sentences.sgm-E1" ROLE="Buyer"/>
+      <event_mention ID="List_of_X-Men_members.sentences.sgm-EV0-M700">
+          <extent>
+              <charseq START="857" END="866">substitute</charseq>
+          </extent>
+          <anchor>
+              <charseq START="857" END="866">substitute</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E4-M714" ROLE="Artifact">
+          <extent>
+              <charseq START="868" END="894">teams
+New Mutant Graduate X</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="List_of_X-Men_members.sentences.sgm-E1-M713" ROLE="Buyer">
+          <extent>
+              <charseq START="853" END="855">Men</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_X-Men_members.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_X-Men_members.sentences.sgm-EV1-M901">
+          <extent>
+              <charseq START="1638" END="1641">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1638" END="1641">died</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

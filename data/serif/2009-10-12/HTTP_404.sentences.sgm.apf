@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="HTTP_404.sentences.sgm">
+  <document DOCID="HTTP_404.sentences.sgm">
+
+    <entity ID="HTTP_404.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E0-M8">
+          <extent>
+              <charseq START="109" END="118">the client</charseq>
+          </extent>
+          <head>
+              <charseq START="113" END="118">client</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E1-M801">
+          <extent>
+              <charseq START="1112" END="1115">HTTP</charseq>
+          </extent>
+          <head>
+              <charseq START="1112" END="1115">HTTP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HTTP">
+              <charseq START="1112" END="1115">HTTP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E2-M1303">
+          <extent>
+              <charseq START="1791" END="1793">DNS</charseq>
+          </extent>
+          <head>
+              <charseq START="1791" END="1793">DNS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DNS">
+              <charseq START="1791" END="1793">DNS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E3-M1503">
+          <extent>
+              <charseq START="2009" END="2018">Webservers</charseq>
+          </extent>
+          <head>
+              <charseq START="2009" END="2018">Webservers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Webservers">
+              <charseq START="2009" END="2018">Webservers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E4-M1518">
+          <extent>
+              <charseq START="2227" END="2234">the user</charseq>
+          </extent>
+          <head>
+              <charseq START="2231" END="2234">user</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E4-M2203">
+          <extent>
+              <charseq START="3191" END="3205">the remote host</charseq>
+          </extent>
+          <head>
+              <charseq START="3202" END="3205">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E4-M3020">
+          <extent>
+              <charseq START="4803" END="4810">the user</charseq>
+          </extent>
+          <head>
+              <charseq START="4807" END="4810">user</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E5-M1600">
+          <extent>
+              <charseq START="2259" END="2304">Internet Explorer (before Internet Explorer 7)</charseq>
+          </extent>
+          <head>
+              <charseq START="2268" END="2275">Explorer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E5-M1603">
+          <extent>
+              <charseq START="2285" END="2303">Internet Explorer 7</charseq>
+          </extent>
+          <head>
+              <charseq START="2294" END="2301">Explorer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E6-M2211">
+          <extent>
+              <charseq START="3332" END="3334">TCP</charseq>
+          </extent>
+          <head>
+              <charseq START="3332" END="3334">TCP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TCP">
+              <charseq START="3332" END="3334">TCP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E7-M2402" ROLE="GPE">
+          <extent>
+              <charseq START="3615" END="3616">UK</charseq>
+          </extent>
+          <head>
+              <charseq START="3615" END="3616">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E7-M2707" ROLE="LOC">
+          <extent>
+              <charseq START="4062" END="4067">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="4066" END="4067">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UK">
+              <charseq START="3615" END="3616">UK</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="4066" END="4067">UK</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E8-M2404">
+          <extent>
+              <charseq START="3635" END="3642">BT Group</charseq>
+          </extent>
+          <head>
+              <charseq START="3635" END="3642">BT Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BT Group">
+              <charseq START="3635" END="3642">BT Group</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E9-M2407">
+          <extent>
+              <charseq START="3657" END="3665">Cleanfeed</charseq>
+          </extent>
+          <head>
+              <charseq START="3657" END="3665">Cleanfeed</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cleanfeed">
+              <charseq START="3657" END="3665">Cleanfeed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E10-M2415">
+          <extent>
+              <charseq START="3782" END="3810">the Internet Watch Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="3786" END="3810">Internet Watch Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E10-M2401">
+          <extent>
+              <charseq START="3611" END="3633">the UK telecom provider</charseq>
+          </extent>
+          <head>
+              <charseq START="3626" END="3633">provider</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Internet Watch Foundation">
+              <charseq START="3786" END="3810">Internet Watch Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E11-M2500">
+          <extent>
+              <charseq START="3813" END="3822">Other ISPs</charseq>
+          </extent>
+          <head>
+              <charseq START="3819" END="3822">ISPs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E12-M2602">
+          <extent>
+              <charseq START="3913" END="3917">Yahoo</charseq>
+          </extent>
+          <head>
+              <charseq START="3913" END="3917">Yahoo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yahoo">
+              <charseq START="3913" END="3917">Yahoo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E13-M2800">
+          <extent>
+              <charseq START="4070" END="4104">Slang lexicographer Jonathon  Green</charseq>
+          </extent>
+          <head>
+              <charseq START="4090" END="4104">Jonathon  Green</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E13-M2802">
+          <extent>
+              <charseq START="4076" END="4088">lexicographer</charseq>
+          </extent>
+          <head>
+              <charseq START="4076" END="4088">lexicographer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jonathon  Green">
+              <charseq START="4090" END="4104">Jonathon  Green</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E14-M2815" ROLE="LOC">
+          <extent>
+              <charseq START="4268" END="4273">London</charseq>
+          </extent>
+          <head>
+              <charseq START="4268" END="4273">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="4268" END="4273">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E15-M2811">
+          <extent>
+              <charseq START="4191" END="4202">young people</charseq>
+          </extent>
+          <head>
+              <charseq START="4197" END="4202">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E16-M2816">
+          <extent>
+              <charseq START="4279" END="4295">other urban areas</charseq>
+          </extent>
+          <head>
+              <charseq START="4291" END="4295">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E17-M2905">
+          <extent>
+              <charseq START="4354" END="4369">the Post Office,</charseq>
+          </extent>
+          <head>
+              <charseq START="4358" END="4368">Post Office</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Post Office">
+              <charseq START="4358" END="4368">Post Office</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E18-M2914" ROLE="GPE">
+          <extent>
+              <charseq START="4460" END="4469">Australian</charseq>
+          </extent>
+          <head>
+              <charseq START="4460" END="4469">Australian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australian">
+              <charseq START="4460" END="4469">Australian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="HTTP_404.sentences.sgm-E19-M2912">
+          <extent>
+              <charseq START="4439" END="4448">the sender</charseq>
+          </extent>
+          <head>
+              <charseq START="4443" END="4448">sender</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="HTTP_404.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="HTTP_404.sentences.sgm-E20-M3108">
+          <extent>
+              <charseq START="4863" END="4871">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="4863" END="4871">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="4863" END="4871">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <value ID="HTTP_404.sentences.sgm-V0" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V0-M1">
+            <extent>
+              <charseq START="65" END="68">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="HTTP_404.sentences.sgm-T1" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="HTTP_404.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="577" END="586">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="HTTP_404.sentences.sgm-V2" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V2-M1">
+            <extent>
+              <charseq START="621" END="625">HTTP,</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V3" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V3-M1">
+            <extent>
+              <charseq START="994" END="999">HTTP&apos;s</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V4" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V4-M1">
+            <extent>
+              <charseq START="1112" END="1115">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V5" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V5-M1">
+            <extent>
+              <charseq START="1197" END="1200">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V6" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V6-M1">
+            <extent>
+              <charseq START="2572" END="2575">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V7" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="2917" END="2920">http</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="HTTP_404.sentences.sgm-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="3075" END="3101">www.wikipedia.org/error.php</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="HTTP_404.sentences.sgm-T9" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="HTTP_404.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="3588" END="3594">present</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="HTTP_404.sentences.sgm-T10" VAL="2004-07">
+        <timex2_mention ID="HTTP_404.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3600" END="3608">July 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="HTTP_404.sentences.sgm-V11" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V11-M1">
+            <extent>
+              <charseq START="3833" END="3836">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="HTTP_404.sentences.sgm-T12" VAL="2008">
+        <timex2_mention ID="HTTP_404.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="3986" END="3989">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="HTTP_404.sentences.sgm-T13" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="HTTP_404.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="4216" END="4222">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="HTTP_404.sentences.sgm-V14" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="HTTP_404.sentences.sgm-V14-M1">
+            <extent>
+              <charseq START="4846" END="4849">HTTP</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="HTTP_404.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="HTTP_404.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="HTTP_404.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="HTTP_404.sentences.sgm-R0-M2400">
+          <extent>
+              <charseq START="3611" END="3633">the UK telecom provider</charseq>
+          </extent>
+          <relation_mention_argument REFID="HTTP_404.sentences.sgm-E10-M2401" ROLE="Arg-1">
+            <extent>
+              <charseq START="3611" END="3633">the UK telecom provider</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="HTTP_404.sentences.sgm-E7-M2402" ROLE="Arg-2">
+            <extent>
+              <charseq START="3615" END="3616">UK</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

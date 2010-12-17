@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Kim_Petras.sentences.sgm">
+  <document DOCID="Kim_Petras.sentences.sgm">
+
+    <entity ID="Kim_Petras.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="27" END="36">Kim Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="27" END="36">Kim Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="44" END="53">Tim Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="44" END="53">Tim Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="57" END="103">a German teenager who is an aspiring pop singer</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="73">teenager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E0-M7">
+          <extent>
+              <charseq START="82" END="103">an aspiring pop singer</charseq>
+          </extent>
+          <head>
+              <charseq START="98" END="103">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E0-M6">
+          <extent>
+              <charseq START="75" END="77">who</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="77">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="124" END="129">Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="124" END="129">Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="523" END="528">Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="528">Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="779" END="784">Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="779" END="784">Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E0-M602">
+          <extent>
+              <charseq START="1016" END="1023">a person</charseq>
+          </extent>
+          <head>
+              <charseq START="1018" END="1023">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M809">
+          <extent>
+              <charseq START="1435" END="1440">Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1440">Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1533" END="1535">Kim</charseq>
+          </extent>
+          <head>
+              <charseq START="1533" END="1535">Kim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E0-M1006">
+          <extent>
+              <charseq START="1597" END="1599">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1599">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E0-M1007">
+          <extent>
+              <charseq START="1611" END="1613">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1611" END="1613">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E0-M1010">
+          <extent>
+              <charseq START="1638" END="1640">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1638" END="1640">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1101">
+          <extent>
+              <charseq START="1681" END="1683">Kim</charseq>
+          </extent>
+          <head>
+              <charseq START="1681" END="1683">Kim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1120">
+          <extent>
+              <charseq START="1876" END="1878">Kim</charseq>
+          </extent>
+          <head>
+              <charseq START="1876" END="1878">Kim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1201">
+          <extent>
+              <charseq START="1948" END="1957">Kim Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="1948" END="1957">Kim Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E0-M1204">
+          <extent>
+              <charseq START="1962" END="1979">YouTube
+Kim Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="1970" END="1979">Kim Petras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E0-M1205">
+          <extent>
+              <charseq START="1962" END="1968">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="1962" END="1968">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kim Petras">
+              <charseq START="27" END="36">Kim Petras</charseq>
+          </name>
+          <name NAME="Tim Petras">
+              <charseq START="44" END="53">Tim Petras</charseq>
+          </name>
+          <name NAME="Petras">
+              <charseq START="124" END="129">Petras</charseq>
+          </name>
+          <name NAME="Petras">
+              <charseq START="523" END="528">Petras</charseq>
+          </name>
+          <name NAME="Petras">
+              <charseq START="779" END="784">Petras</charseq>
+          </name>
+          <name NAME="Petras">
+              <charseq START="1435" END="1440">Petras</charseq>
+          </name>
+          <name NAME="Kim">
+              <charseq START="1533" END="1535">Kim</charseq>
+          </name>
+          <name NAME="Kim">
+              <charseq START="1681" END="1683">Kim</charseq>
+          </name>
+          <name NAME="Kim">
+              <charseq START="1876" END="1878">Kim</charseq>
+          </name>
+          <name NAME="Kim Petras">
+              <charseq START="1948" END="1957">Kim Petras</charseq>
+          </name>
+          <name NAME="Kim Petras">
+              <charseq START="1970" END="1979">Kim Petras</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E1-M5" ROLE="GPE">
+          <extent>
+              <charseq START="59" END="64">German</charseq>
+          </extent>
+          <head>
+              <charseq START="59" END="64">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E1-M306" ROLE="GPE">
+          <extent>
+              <charseq START="499" END="504">German</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="504">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E1-M409" ROLE="GPE">
+          <extent>
+              <charseq START="581" END="586">German</charseq>
+          </extent>
+          <head>
+              <charseq START="581" END="586">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E1-M510" ROLE="GPE">
+          <extent>
+              <charseq START="868" END="873">German</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="873">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E1-M601" ROLE="GPE">
+          <extent>
+              <charseq START="1004" END="1009">German</charseq>
+          </extent>
+          <head>
+              <charseq START="1004" END="1009">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="German">
+              <charseq START="59" END="64">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="499" END="504">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="581" END="586">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="868" END="873">German</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="1004" END="1009">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E2-M203">
+          <extent>
+              <charseq START="244" END="256">Joyce Records</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="256">Joyce Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E2-M1202">
+          <extent>
+              <charseq START="1962" END="2028">YouTube
+Kim Petras&apos;s blog
+Joyce Records - record company
+References</charseq>
+          </extent>
+          <head>
+              <charseq START="1988" END="2000">Joyce Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joyce Records">
+              <charseq START="244" END="256">Joyce Records</charseq>
+          </name>
+          <name NAME="Joyce Records">
+              <charseq START="1988" END="2000">Joyce Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E3-M211">
+          <extent>
+              <charseq START="335" END="341">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="341">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M201">
+          <extent>
+              <charseq START="226" END="228">she</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="228">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M207">
+          <extent>
+              <charseq START="278" END="280">her</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="280">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="425" END="427">she</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="427">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M304">
+          <extent>
+              <charseq START="438" END="440">her</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="440">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M413">
+          <extent>
+              <charseq START="628" END="630">she</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="630">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M417">
+          <extent>
+              <charseq START="642" END="644">her</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="644">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M420">
+          <extent>
+              <charseq START="692" END="694">she</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="694">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M506">
+          <extent>
+              <charseq START="850" END="852">she</charseq>
+          </extent>
+          <head>
+              <charseq START="850" END="852">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M709">
+          <extent>
+              <charseq START="1196" END="1198">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1196" END="1198">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E3-M711">
+          <extent>
+              <charseq START="1243" END="1245">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1245">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YouTube">
+              <charseq START="335" END="341">YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E4-M212">
+          <extent>
+              <charseq START="347" END="353">Myspace</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="353">Myspace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Myspace">
+              <charseq START="347" END="353">Myspace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E5-M406">
+          <extent>
+              <charseq START="569" END="576">Stern TV</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="576">Stern TV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stern TV">
+              <charseq START="569" END="576">Stern TV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E6-M422">
+          <extent>
+              <charseq START="708" END="755">the Endokrinologikum (Hormone Center) in Hamburg</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="743">Endokrinologikum (Hormone Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Endokrinologikum (Hormone Center">
+              <charseq START="712" END="743">Endokrinologikum (Hormone Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E7-M425" ROLE="LOC">
+          <extent>
+              <charseq START="749" END="755">Hamburg</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="755">Hamburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hamburg">
+              <charseq START="749" END="755">Hamburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Kim_Petras.sentences.sgm-E8-M426">
+          <extent>
+              <charseq START="760" END="776">Dr. Achim Wüsthof</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="776">Achim Wüsthof</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E8-M427">
+          <extent>
+              <charseq START="760" END="762">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="762">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Achim Wüsthof">
+              <charseq START="764" END="776">Achim Wüsthof</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E9-M713">
+          <extent>
+              <charseq START="1250" END="1282">the &quot;world&apos;s youngest transsexual</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1282">transsexual</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E10-M801">
+          <extent>
+              <charseq START="1322" END="1440">children as young as six have been diagnosed with Gender Identity Disorder and have begun the transition (though Petras</charseq>
+          </extent>
+          <head>
+              <charseq START="1322" END="1329">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Kim_Petras.sentences.sgm-E10-M810">
+          <extent>
+              <charseq START="1456" END="1481">one of the youngest people</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1458">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E11-M812">
+          <extent>
+              <charseq START="1463" END="1481">the youngest people</charseq>
+          </extent>
+          <head>
+              <charseq START="1476" END="1481">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E12-M1102">
+          <extent>
+              <charseq START="1685" END="1756">the youngest person known to have had sex reassignment surgery worldwide</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1703">person</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Kim_Petras.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Kim_Petras.sentences.sgm-E13-M1122">
+          <extent>
+              <charseq START="1916" END="1930">some newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1930">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T0" VAL="1992">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="118" END="121">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T1">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="204" END="215">an early age</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T2" VAL="2008">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="221" END="224">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T3" VAL="2008-09">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="410" END="423">September 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T4" VAL="2006">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="517" END="520">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T5" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="599" END="605">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T6" VAL="P1Y">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="815" END="832">the following year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T7" VAL="2007">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1134" END="1137">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T8" VAL="2008">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1550" END="1553">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T9" VAL="2008-11-01">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1573" END="1587">a November 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T10" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1619" END="1626">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Kim_Petras.sentences.sgm-T11" VAL="2009-02-04">
+        <timex2_mention ID="Kim_Petras.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1794" END="1809">February 04 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Kim_Petras.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Kim_Petras.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="57" END="103">a German teenager who is an aspiring pop singer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E0-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="57" END="103">a German teenager who is an aspiring pop singer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E1-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="59" END="64">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kim_Petras.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Kim_Petras.sentences.sgm-R1-M400">
+          <extent>
+              <charseq START="692" END="694">she</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E3-M420" ROLE="Arg-1">
+            <extent>
+              <charseq START="692" END="694">she</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E6-M422" ROLE="Arg-2">
+            <extent>
+              <charseq START="708" END="755">the Endokrinologikum (Hormone Center) in Hamburg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kim_Petras.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Kim_Petras.sentences.sgm-R2-M401">
+          <extent>
+              <charseq START="708" END="755">the Endokrinologikum (Hormone Center) in Hamburg</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E6-M422" ROLE="Arg-1">
+            <extent>
+              <charseq START="708" END="755">the Endokrinologikum (Hormone Center) in Hamburg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E7-M425" ROLE="Arg-2">
+            <extent>
+              <charseq START="749" END="755">Hamburg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Kim_Petras.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Kim_Petras.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Kim_Petras.sentences.sgm-R3-M1200">
+          <extent>
+              <charseq START="1962" END="1979">YouTube
+Kim Petras</charseq>
+          </extent>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E0-M1204" ROLE="Arg-1">
+            <extent>
+              <charseq START="1962" END="1979">YouTube
+Kim Petras</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Kim_Petras.sentences.sgm-E2-M1202" ROLE="Arg-2">
+            <extent>
+              <charseq START="1962" END="2028">YouTube
+Kim Petras&apos;s blog
+Joyce Records - record company
+References</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Kim_Petras.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kim_Petras.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Kim_Petras.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Kim_Petras.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="39" END="42">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="39" END="42">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kim_Petras.sentences.sgm-E0-M1" ROLE="Person">
+          <extent>
+              <charseq START="27" END="36">Kim Petras</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Kim_Petras.sentences.sgm-EV0-M2">
+          <extent>
+              <charseq START="110" END="113">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="110" END="113">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kim_Petras.sentences.sgm-E0-M1" ROLE="Person">
+          <extent>
+              <charseq START="27" END="36">Kim Petras</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Kim_Petras.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="118" END="121">1992</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Kim_Petras.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Kim_Petras.sentences.sgm-E2" ROLE="Entity"/>
+      <event_argument REFID="Kim_Petras.sentences.sgm-E3" ROLE="Person"/>
+      <event_mention ID="Kim_Petras.sentences.sgm-EV1-M200">
+          <extent>
+              <charseq START="234" END="239">signed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="234" END="239">signed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Kim_Petras.sentences.sgm-E2-M203" ROLE="Entity">
+          <extent>
+              <charseq START="244" END="256">Joyce Records</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Kim_Petras.sentences.sgm-E3-M201" ROLE="Person">
+          <extent>
+              <charseq START="226" END="228">she</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

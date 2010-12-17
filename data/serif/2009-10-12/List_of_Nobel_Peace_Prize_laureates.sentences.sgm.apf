@@ -1,0 +1,1225 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="List_of_Nobel_Peace_Prize_laureates.sentences.sgm">
+  <document DOCID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm">
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0-M4" ROLE="GPE">
+          <extent>
+              <charseq START="75" END="83">Norwegian</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="83">Norwegian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0-M704" ROLE="LOC">
+          <extent>
+              <charseq START="1236" END="1241">Norway</charseq>
+          </extent>
+          <head>
+              <charseq START="1236" END="1241">Norway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0-M2308" ROLE="GPE">
+          <extent>
+              <charseq START="3534" END="3544">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="3538" END="3544">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norwegian">
+              <charseq START="75" END="83">Norwegian</charseq>
+          </name>
+          <name NAME="Norway">
+              <charseq START="1236" END="1241">Norway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M5">
+          <extent>
+              <charseq START="115" END="143">the Norwegian Nobel Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="119" END="143">Norwegian Nobel Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M203">
+          <extent>
+              <charseq START="610" END="638">the Norwegian Nobel Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="614" END="638">Norwegian Nobel Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M205">
+          <extent>
+              <charseq START="655" END="716">a committee of five people elected by the Norwegian Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="657" END="665">committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M1003">
+          <extent>
+              <charseq START="1648" END="1660">the committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1652" END="1660">committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M1004">
+          <extent>
+              <charseq START="1682" END="1683">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1682" END="1683">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M2509">
+          <extent>
+              <charseq START="3743" END="3779">Norwegian Nobel Committee
+Peace Prize</charseq>
+          </extent>
+          <head>
+              <charseq START="3743" END="3779">Norwegian Nobel Committee
+Peace Prize</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norwegian Nobel Committee">
+              <charseq START="119" END="143">Norwegian Nobel Committee</charseq>
+          </name>
+          <name NAME="Norwegian Nobel Committee">
+              <charseq START="614" END="638">Norwegian Nobel Committee</charseq>
+          </name>
+          <name NAME="Norwegian Nobel Committee
+Peace Prize">
+              <charseq START="3743" END="3779">Norwegian Nobel Committee
+Peace Prize</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E2-M8">
+          <extent>
+              <charseq START="149" END="187">the person who shall have done the most</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="158">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E2-M10">
+          <extent>
+              <charseq START="160" END="162">who</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="162">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E3-M14">
+          <extent>
+              <charseq START="210" END="235">fraternity between nations</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="219">fraternity</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E4-M16">
+          <extent>
+              <charseq START="229" END="235">nations</charseq>
+          </extent>
+          <head>
+              <charseq START="229" END="235">nations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E5-M21">
+          <extent>
+              <charseq START="281" END="286">armies</charseq>
+          </extent>
+          <head>
+              <charseq START="281" END="286">armies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E6-M26">
+          <extent>
+              <charseq START="325" END="341">peace congresses&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="340">congresses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E7-M110">
+          <extent>
+              <charseq START="411" END="422">Alfred Nobel</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="422">Alfred Nobel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alfred Nobel">
+              <charseq START="411" END="422">Alfred Nobel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E8-M208">
+          <extent>
+              <charseq START="693" END="716">the Norwegian Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="716">Norwegian Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norwegian Parliament">
+              <charseq START="697" END="716">Norwegian Parliament</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E9-M207">
+          <extent>
+              <charseq START="670" END="680">five people</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="680">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E10-M306">
+          <extent>
+              <charseq START="770" END="783">Frédéric Passy</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="783">Frédéric Passy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E10-M502">
+          <extent>
+              <charseq START="925" END="929">Passy</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="929">Passy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frédéric Passy">
+              <charseq START="770" END="783">Frédéric Passy</charseq>
+          </name>
+          <name NAME="Passy">
+              <charseq START="925" END="929">Passy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E11-M307">
+          <extent>
+              <charseq START="789" END="805">Jean Henry Dunant</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="805">Jean Henry Dunant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E11-M503">
+          <extent>
+              <charseq START="935" END="940">Dunant</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="940">Dunant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean Henry Dunant">
+              <charseq START="789" END="805">Jean Henry Dunant</charseq>
+          </name>
+          <name NAME="Dunant">
+              <charseq START="935" END="940">Dunant</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E12-M400">
+          <extent>
+              <charseq START="808" END="821">Each recipient</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="821">recipient</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E12-M2304">
+          <extent>
+              <charseq START="3470" END="3482">the recipient</charseq>
+          </extent>
+          <head>
+              <charseq START="3474" END="3482">recipient</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13-M602">
+          <extent>
+              <charseq START="1060" END="1186">Martti Ahtisaari of Finland, who received the prize amount of 10,000,000 SEK (slightly more than €1 million, or US$1.4 million)</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1075">Martti Ahtisaari</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13-M605">
+          <extent>
+              <charseq START="1089" END="1091">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1089" END="1091">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13-M707">
+          <extent>
+              <charseq START="1263" END="1270">the king</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1270">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martti Ahtisaari">
+              <charseq START="1060" END="1075">Martti Ahtisaari</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E14-M604">
+          <extent>
+              <charseq START="1080" END="1086">Finland</charseq>
+          </extent>
+          <head>
+              <charseq START="1080" END="1086">Finland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Finland">
+              <charseq START="1080" END="1086">Finland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E15-M702" ROLE="LOC">
+          <extent>
+              <charseq START="1230" END="1242">Oslo, Norway,</charseq>
+          </extent>
+          <head>
+              <charseq START="1230" END="1233">Oslo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oslo">
+              <charseq START="1230" END="1233">Oslo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E16-M715">
+          <extent>
+              <charseq START="1368" END="1384">Stockholm, Sweden</charseq>
+          </extent>
+          <head>
+              <charseq START="1368" END="1376">Stockholm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stockholm">
+              <charseq START="1368" END="1376">Stockholm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E17-M717" ROLE="LOC">
+          <extent>
+              <charseq START="1379" END="1384">Sweden</charseq>
+          </extent>
+          <head>
+              <charseq START="1379" END="1384">Sweden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sweden">
+              <charseq START="1379" END="1384">Sweden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18-M900">
+          <extent>
+              <charseq START="1522" END="1547">Mohandas Karamchand Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1522" END="1547">Mohandas Karamchand Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18-M1001">
+          <extent>
+              <charseq START="1622" END="1624">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1622" END="1624">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18-M1006">
+          <extent>
+              <charseq START="1688" END="1690">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1688" END="1690">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mohandas Karamchand Gandhi">
+              <charseq START="1522" END="1547">Mohandas Karamchand Gandhi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E19-M1015">
+          <extent>
+              <charseq START="1806" END="1833">no suitable living candidate</charseq>
+          </extent>
+          <head>
+              <charseq START="1825" END="1833">candidate</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1101">
+          <extent>
+              <charseq START="1846" END="1936">Dag Hammarskjöld, who died after his nomination but several months before the announcement,</charseq>
+          </extent>
+          <head>
+              <charseq START="1846" END="1861">Dag Hammarskjöld</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1108">
+          <extent>
+              <charseq START="1945" END="1961">the only Laureate</charseq>
+          </extent>
+          <head>
+              <charseq START="1954" END="1961">Laureate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1103">
+          <extent>
+              <charseq START="1864" END="1866">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1864" END="1866">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1105">
+          <extent>
+              <charseq START="1879" END="1881">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1879" END="1881">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1205">
+          <extent>
+              <charseq START="2150" END="2151">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2151">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1214">
+          <extent>
+              <charseq START="2231" END="2233">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2231" END="2233">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dag Hammarskjöld">
+              <charseq START="1846" END="1861">Dag Hammarskjöld</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E21-M1201">
+          <extent>
+              <charseq START="2098" END="2107">Lê Ðức Thọ</charseq>
+          </extent>
+          <head>
+              <charseq START="2098" END="2107">Lê Ðức Thọ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lê Ðức Thọ">
+              <charseq START="2098" END="2107">Lê Ðức Thọ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E22-M1212" ROLE="LOC">
+          <extent>
+              <charseq START="2220" END="2226">Vietnam</charseq>
+          </extent>
+          <head>
+              <charseq START="2220" END="2226">Vietnam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vietnam">
+              <charseq START="2220" END="2226">Vietnam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M1301">
+          <extent>
+              <charseq START="2244" END="2256">Linus Pauling</charseq>
+          </extent>
+          <head>
+              <charseq START="2244" END="2256">Linus Pauling</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M1302">
+          <extent>
+              <charseq START="2259" END="2296">the Nobel Peace Prize laureate in 1962</charseq>
+          </extent>
+          <head>
+              <charseq START="2281" END="2288">laureate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M1308">
+          <extent>
+              <charseq START="2302" END="2363">the only person to have been awarded two unshared Nobel Prizes</charseq>
+          </extent>
+          <head>
+              <charseq START="2311" END="2316">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M1312">
+          <extent>
+              <charseq START="2366" END="2367">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2366" END="2367">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M2003">
+          <extent>
+              <charseq START="3156" END="3174">each Nobel Laureate</charseq>
+          </extent>
+          <head>
+              <charseq START="3167" END="3174">Laureate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E23-M2106">
+          <extent>
+              <charseq START="3267" END="3285">each Nobel Laureate</charseq>
+          </extent>
+          <head>
+              <charseq START="3278" END="3285">Laureate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Linus Pauling">
+              <charseq START="2244" END="2256">Linus Pauling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E24-M1400">
+          <extent>
+              <charseq START="2411" END="2454">The International Committee of the Red Cross</charseq>
+          </extent>
+          <head>
+              <charseq START="2415" END="2454">International Committee of the Red Cross</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="International Committee of the Red Cross">
+              <charseq START="2415" END="2454">International Committee of the Red Cross</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E25-M1413">
+          <extent>
+              <charseq START="2526" END="2539">United Nations</charseq>
+          </extent>
+          <head>
+              <charseq START="2526" END="2539">United Nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Nations">
+              <charseq START="2526" END="2539">United Nations</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E26-M1415">
+          <extent>
+              <charseq START="2563" END="2570">Refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="2563" END="2570">Refugees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Refugees">
+              <charseq START="2563" END="2570">Refugees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27-M1411">
+          <extent>
+              <charseq START="2522" END="2570">the United Nations High Commissioner for Refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="2546" END="2557">Commissioner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E28-M1500">
+          <extent>
+              <charseq START="2600" END="2611">Twelve women</charseq>
+          </extent>
+          <head>
+              <charseq START="2607" END="2611">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E29-M1604">
+          <extent>
+              <charseq START="2729" END="2742">96 individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="2732" END="2742">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E30-M1605">
+          <extent>
+              <charseq START="2748" END="2763">20 organizations</charseq>
+          </extent>
+          <head>
+              <charseq START="2751" END="2763">organizations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E31-M1801">
+          <extent>
+              <charseq START="2869" END="2886">Laureates
+Notes
+A.</charseq>
+          </extent>
+          <head>
+              <charseq START="2879" END="2886">Notes
+A.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E31-M1802">
+          <extent>
+              <charseq START="2869" END="2877">Laureates</charseq>
+          </extent>
+          <head>
+              <charseq START="2869" END="2877">Laureates</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Notes
+A.">
+              <charseq START="2879" END="2886">Notes
+A.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E32-M1813">
+          <extent>
+              <charseq START="2998" END="3017">the Nobel Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="3002" END="3017">Nobel Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E32-M2102">
+          <extent>
+              <charseq START="3227" END="3246">the Nobel Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="3231" END="3246">Nobel Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E32-M2206">
+          <extent>
+              <charseq START="3403" END="3422">the Nobel Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="3407" END="3422">Nobel Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E32-M2407">
+          <extent>
+              <charseq START="3654" END="3673">the Nobel Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="3658" END="3673">Nobel Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nobel Foundation">
+              <charseq START="3002" END="3017">Nobel Foundation</charseq>
+          </name>
+          <name NAME="Nobel Foundation">
+              <charseq START="3231" END="3246">Nobel Foundation</charseq>
+          </name>
+          <name NAME="Nobel Foundation">
+              <charseq START="3407" END="3422">Nobel Foundation</charseq>
+          </name>
+          <name NAME="Nobel Foundation">
+              <charseq START="3658" END="3673">Nobel Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E33-M2303" ROLE="LOC">
+          <extent>
+              <charseq START="3470" END="3495">the recipient&apos;s birthplace</charseq>
+          </extent>
+          <head>
+              <charseq START="3486" END="3495">birthplace</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E34-M2508">
+          <extent>
+              <charseq START="3739" END="3789">the Norwegian Nobel Committee
+Peace Prize laureates</charseq>
+          </extent>
+          <head>
+              <charseq START="3781" END="3789">laureates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E34-M2513">
+          <extent>
+              <charseq START="3800" END="3814">Nobel
+Laureates</charseq>
+          </extent>
+          <head>
+              <charseq START="3806" END="3814">Laureates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T0" VAL="1895">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="398" END="401">1895</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T1" VAL="1896">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="437" END="440">1896</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T2" VAL="1901">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="762" END="765">1901</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T3" VAL="PXY">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="905" END="913">the years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T4" VAL="1901">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="919" END="922">1901</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T5" VAL="2008-12">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1011" END="1023">December 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T6" VAL="2008">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1029" END="1032">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="1172" END="1185">US$1.4 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T8" VAL="XXXX-12-10">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1276" END="1320">December 10, the anniversary of Nobel&apos;s death</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T9" VAL="1948">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1643" END="1646">1948</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T10" VAL="P1Y">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1759" END="1767">that year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T11" VAL="1961">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1840" END="1843">1961</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T12" VAL="PXM">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1898" END="1935">several months before the announcement</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T13" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2046" END="2051">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T14" VAL="1973">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2092" END="2095">1973</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T15" VAL="1962">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2293" END="2296">1962</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T16" VAL="1954">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2405" END="2408">1954</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T17" VAL="1917T19:44">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2496" END="2505">1917, 1944</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T18" VAL="1963">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2511" END="2514">1963</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T19" VAL="1954">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2587" END="2596">1954, 1981</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T20" VAL="2008">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2687" END="2690">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T21" VAL="P19Y">
+        <timex2_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="2782" END="2789">19 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V22" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V22-M1">
+            <extent>
+              <charseq START="2958" END="2971">nobelprize.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V23" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V23-M1">
+            <extent>
+              <charseq START="3290" END="3303">nobelprize.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V24" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V24-M1">
+            <extent>
+              <charseq START="3363" END="3376">nobelprize.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V25" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-V25-M1">
+            <extent>
+              <charseq START="3614" END="3627">nobelprize.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R0-M600">
+          <extent>
+              <charseq START="1060" END="1186">Martti Ahtisaari of Finland, who received the prize amount of 10,000,000 SEK (slightly more than €1 million, or US$1.4 million)</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E13-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="1060" END="1186">Martti Ahtisaari of Finland, who received the prize amount of 10,000,000 SEK (slightly more than €1 million, or US$1.4 million)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E14-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="1080" END="1086">Finland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R1-M700">
+          <extent>
+              <charseq START="1230" END="1242">Oslo, Norway,</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E15-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="1230" END="1242">Oslo, Norway,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E0-M704" ROLE="Arg-2">
+            <extent>
+              <charseq START="1236" END="1241">Norway</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R2-M701">
+          <extent>
+              <charseq START="1368" END="1384">Stockholm, Sweden</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E16-M715" ROLE="Arg-1">
+            <extent>
+              <charseq START="1368" END="1384">Stockholm, Sweden</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E17-M717" ROLE="Arg-2">
+            <extent>
+              <charseq START="1379" END="1384">Sweden</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R3-M1400">
+          <extent>
+              <charseq START="2522" END="2570">the United Nations High Commissioner for Refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27-M1411" ROLE="Arg-1">
+            <extent>
+              <charseq START="2522" END="2570">the United Nations High Commissioner for Refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E25-M1413" ROLE="Arg-2">
+            <extent>
+              <charseq START="2526" END="2539">United Nations</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R4-M1401">
+          <extent>
+              <charseq START="2522" END="2570">the United Nations High Commissioner for Refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E27-M1411" ROLE="Arg-1">
+            <extent>
+              <charseq START="2522" END="2570">the United Nations High Commissioner for Refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E26-M1415" ROLE="Arg-2">
+            <extent>
+              <charseq START="2563" END="2570">Refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E33" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R5-M2300">
+          <extent>
+              <charseq START="3470" END="3482">the recipient</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E12-M2304" ROLE="Arg-1">
+            <extent>
+              <charseq START="3470" END="3482">the recipient</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E33-M2303" ROLE="Arg-2">
+            <extent>
+              <charseq START="3470" END="3495">the recipient&apos;s birthplace</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-R6-M2500">
+          <extent>
+              <charseq START="3739" END="3789">the Norwegian Nobel Committee
+Peace Prize laureates</charseq>
+          </extent>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E34-M2508" ROLE="Arg-1">
+            <extent>
+              <charseq START="3739" END="3789">the Norwegian Nobel Committee
+Peace Prize laureates</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M2509" ROLE="Arg-2">
+            <extent>
+              <charseq START="3743" END="3779">Norwegian Nobel Committee
+Peace Prize</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T1" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV0-M100">
+          <extent>
+              <charseq START="429" END="432">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="429" END="432">died</charseq>
+          </anchor>
+          <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="437" END="440">1896</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1" ROLE="Entity"/>
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV1-M200">
+          <extent>
+              <charseq START="682" END="688">elected</charseq>
+          </extent>
+          <anchor>
+              <charseq START="682" END="688">elected</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E1-M205" ROLE="Entity">
+          <extent>
+              <charseq START="655" END="716">a committee of five people elected by the Norwegian Parliament</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV2-M700">
+          <extent>
+              <charseq START="1316" END="1320">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1316" END="1320">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18" ROLE="Victim"/>
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T9" ROLE="Time-Within"/>
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV3-M1001">
+          <extent>
+              <charseq START="1626" END="1638">assassination</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1626" END="1638">assassination</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E18-M1001" ROLE="Victim">
+          <extent>
+              <charseq START="1622" END="1624">his</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-T9-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1643" END="1646">1948</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20" ROLE="Victim"/>
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV4-M1102">
+          <extent>
+              <charseq START="1868" END="1871">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1868" END="1871">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1103" ROLE="Victim">
+          <extent>
+              <charseq START="1864" END="1866">who</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV5" TYPE="Personnel" SUBTYPE="Nominate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20" ROLE="Person"/>
+      <event_mention ID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-EV5-M1103">
+          <extent>
+              <charseq START="1883" END="1892">nomination</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1883" END="1892">nomination</charseq>
+          </anchor>
+        <event_mention_argument REFID="List_of_Nobel_Peace_Prize_laureates.sentences.sgm-E20-M1105" ROLE="Person">
+          <extent>
+              <charseq START="1879" END="1881">his</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

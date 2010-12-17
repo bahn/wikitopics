@@ -1,0 +1,3209 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Carrie_Prejean.sentences.sgm">
+  <document DOCID="Carrie_Prejean.sentences.sgm">
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="31" END="87">Carrie Prejean (born Caroline Michelle Prejean on May 13,</charseq>
+          </extent>
+          <head>
+              <charseq START="31" END="44">Carrie Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carrie Prejean">
+              <charseq START="31" END="44">Carrie Prejean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2">
+          <extent>
+              <charseq START="52" END="76">Caroline Michelle Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="52" END="76">Caroline Michelle Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M100">
+          <extent>
+              <charseq START="170" END="172">She</charseq>
+          </extent>
+          <head>
+              <charseq START="170" END="172">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M200">
+          <extent>
+              <charseq START="286" END="292">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="292">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M300">
+          <extent>
+              <charseq START="380" END="382">She</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="382">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M500">
+          <extent>
+              <charseq START="563" END="583">Personal life
+Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="583">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M502">
+          <extent>
+              <charseq START="572" END="575">life</charseq>
+          </extent>
+          <head>
+              <charseq START="572" END="575">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M602">
+          <extent>
+              <charseq START="710" END="717">a senior</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="717">senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M600">
+          <extent>
+              <charseq START="693" END="695">She</charseq>
+          </extent>
+          <head>
+              <charseq START="693" END="695">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M614">
+          <extent>
+              <charseq START="861" END="863">she</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="863">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M700">
+          <extent>
+              <charseq START="908" END="914">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="908" END="914">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M708">
+          <extent>
+              <charseq START="969" END="971">she</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="971">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M800">
+          <extent>
+              <charseq START="1030" END="1036">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1036">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M801">
+          <extent>
+              <charseq START="1060" END="1086">a special education teacher</charseq>
+          </extent>
+          <head>
+              <charseq START="1080" END="1086">teacher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M901">
+          <extent>
+              <charseq START="1219" END="1225">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1225">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1000">
+          <extent>
+              <charseq START="1291" END="1306">Pageants
+Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1306">Pageants
+Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1101">
+          <extent>
+              <charseq START="1418" END="1420">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1418" END="1420">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1108">
+          <extent>
+              <charseq START="1550" END="1552">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1552">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1200">
+          <extent>
+              <charseq START="1587" END="1593">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1587" END="1593">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1300">
+          <extent>
+              <charseq START="1749" END="1751">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1749" END="1751">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1400">
+          <extent>
+              <charseq START="1842" END="1848">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1842" END="1848">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1502">
+          <extent>
+              <charseq START="1976" END="1982">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="1976" END="1982">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1505">
+          <extent>
+              <charseq START="1996" END="1998">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1996" END="1998">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1600">
+          <extent>
+              <charseq START="2069" END="2101">Miss USA 2009 controversy
+Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2101">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M1604">
+          <extent>
+              <charseq START="2083" END="2093">controversy</charseq>
+          </extent>
+          <head>
+              <charseq START="2083" END="2093">controversy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1609">
+          <extent>
+              <charseq START="2136" END="2138">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2136" END="2138">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M1704">
+          <extent>
+              <charseq START="2220" END="2226">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="2220" END="2226">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1708">
+          <extent>
+              <charseq START="2276" END="2278">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2276" END="2278">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M1800">
+          <extent>
+              <charseq START="2341" END="2343">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2341" END="2343">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M2012">
+          <extent>
+              <charseq START="2615" END="2621">a woman</charseq>
+          </extent>
+          <head>
+              <charseq START="2617" END="2621">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M2109">
+          <extent>
+              <charseq START="2735" END="2741">a woman</charseq>
+          </extent>
+          <head>
+              <charseq START="2737" END="2741">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2202">
+          <extent>
+              <charseq START="2759" END="2765">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="2759" END="2765">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2209">
+          <extent>
+              <charseq START="2838" END="2840">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2838" END="2840">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2305">
+          <extent>
+              <charseq START="2925" END="2927">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2925" END="2927">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2400">
+          <extent>
+              <charseq START="3036" END="3042">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3036" END="3042">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2402">
+          <extent>
+              <charseq START="3075" END="3077">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3075" END="3077">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2405">
+          <extent>
+              <charseq START="3108" END="3110">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3108" END="3110">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2500">
+          <extent>
+              <charseq START="3123" END="3129">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3123" END="3129">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2501">
+          <extent>
+              <charseq START="3143" END="3145">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3143" END="3145">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2514">
+          <extent>
+              <charseq START="3277" END="3279">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3277" END="3279">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2605">
+          <extent>
+              <charseq START="3371" END="3377">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3377">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2708">
+          <extent>
+              <charseq START="3461" END="3467">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3461" END="3467">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2719">
+          <extent>
+              <charseq START="3584" END="3586">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3584" END="3586">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2808">
+          <extent>
+              <charseq START="3678" END="3680">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3678" END="3680">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2811">
+          <extent>
+              <charseq START="3705" END="3707">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3705" END="3707">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M2904">
+          <extent>
+              <charseq START="3814" END="3820">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3814" END="3820">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M2906">
+          <extent>
+              <charseq START="3843" END="3845">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3843" END="3845">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3009">
+          <extent>
+              <charseq START="3964" END="3970">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="3964" END="3970">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3106">
+          <extent>
+              <charseq START="4025" END="4031">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="4025" END="4031">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3116">
+          <extent>
+              <charseq START="4168" END="4170">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4168" END="4170">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3200">
+          <extent>
+              <charseq START="4199" END="4201">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4199" END="4201">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3302">
+          <extent>
+              <charseq START="4264" END="4270">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="4264" END="4270">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3401">
+          <extent>
+              <charseq START="4377" END="4383">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="4377" END="4383">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3405">
+          <extent>
+              <charseq START="4436" END="4438">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4436" END="4438">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3412">
+          <extent>
+              <charseq START="4511" END="4513">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4511" END="4513">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3500">
+          <extent>
+              <charseq START="4582" END="4584">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4582" END="4584">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3502">
+          <extent>
+              <charseq START="4602" END="4604">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4602" END="4604">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3604">
+          <extent>
+              <charseq START="4783" END="4789">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="4783" END="4789">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3607">
+          <extent>
+              <charseq START="4811" END="4813">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4811" END="4813">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3704">
+          <extent>
+              <charseq START="4945" END="4951">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="4945" END="4951">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M3800">
+          <extent>
+              <charseq START="5087" END="5093">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="5087" END="5093">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3802">
+          <extent>
+              <charseq START="5116" END="5118">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5116" END="5118">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M3807">
+          <extent>
+              <charseq START="5183" END="5185">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5183" END="5185">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M4005">
+          <extent>
+              <charseq START="5359" END="5368">a teenager</charseq>
+          </extent>
+          <head>
+              <charseq START="5361" END="5368">teenager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M4200">
+          <extent>
+              <charseq START="5521" END="5523">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5521" END="5523">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M4300">
+          <extent>
+              <charseq START="5563" END="5565">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5563" END="5565">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M4302">
+          <extent>
+              <charseq START="5588" END="5590">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5588" END="5590">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M4407">
+          <extent>
+              <charseq START="5796" END="5802">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="5796" END="5802">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E1-M4503">
+          <extent>
+              <charseq START="5855" END="5875">a former unwed mother</charseq>
+          </extent>
+          <head>
+              <charseq START="5870" END="5875">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E1-M4500">
+          <extent>
+              <charseq START="5812" END="5814">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5812" END="5814">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E1-M4618">
+          <extent>
+              <charseq START="6203" END="6209">Prejean</charseq>
+          </extent>
+          <head>
+              <charseq START="6203" END="6209">Prejean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Caroline Michelle Prejean">
+              <charseq START="52" END="76">Caroline Michelle Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="286" END="292">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="577" END="583">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="908" END="914">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="1030" END="1036">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="1219" END="1225">Prejean</charseq>
+          </name>
+          <name NAME="Pageants
+Prejean">
+              <charseq START="1291" END="1306">Pageants
+Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="1587" END="1593">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="1842" END="1848">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="1976" END="1982">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="2095" END="2101">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="2220" END="2226">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="2759" END="2765">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3036" END="3042">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3123" END="3129">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3371" END="3377">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3461" END="3467">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3814" END="3820">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="3964" END="3970">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="4025" END="4031">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="4264" END="4270">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="4377" END="4383">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="4783" END="4789">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="4945" END="4951">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="5087" END="5093">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="5796" END="5802">Prejean</charseq>
+          </name>
+          <name NAME="Prejean">
+              <charseq START="6203" END="6209">Prejean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E2-M7" ROLE="GPE">
+          <extent>
+              <charseq START="101" END="108">American</charseq>
+          </extent>
+          <head>
+              <charseq START="101" END="108">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E2-M905">
+          <extent>
+              <charseq START="1266" END="1278">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1266" END="1278">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E2-M1711" ROLE="GPE">
+          <extent>
+              <charseq START="2295" END="2298">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2295" END="2298">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E2-M1710">
+          <extent>
+              <charseq START="2289" END="2304">every U.S. state</charseq>
+          </extent>
+          <head>
+              <charseq START="2300" END="2304">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E2-M2003" ROLE="LOC">
+          <extent>
+              <charseq START="2534" END="2543">my country</charseq>
+          </extent>
+          <head>
+              <charseq START="2537" END="2543">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="101" END="108">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1266" END="1278">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="2295" END="2298">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E3-M11" ROLE="LOC">
+          <extent>
+              <charseq START="151" END="167">Vista, California</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="155">Vista</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E3-M507" ROLE="LOC">
+          <extent>
+              <charseq START="629" END="645">Vista, California</charseq>
+          </extent>
+          <head>
+              <charseq START="629" END="633">Vista</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vista">
+              <charseq START="151" END="155">Vista</charseq>
+          </name>
+          <name NAME="Vista">
+              <charseq START="629" END="633">Vista</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M13" ROLE="LOC">
+          <extent>
+              <charseq START="158" END="167">California</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="167">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M509" ROLE="LOC">
+          <extent>
+              <charseq START="636" END="645">California</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="645">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M610" ROLE="LOC">
+          <extent>
+              <charseq START="814" END="823">California</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="823">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M1204" ROLE="GPE">
+          <extent>
+              <charseq START="1640" END="1649">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1649">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M1209">
+          <extent>
+              <charseq START="1696" END="1705">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1696" END="1705">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M1306" ROLE="GPE">
+          <extent>
+              <charseq START="1803" END="1812">California</charseq>
+          </extent>
+          <head>
+              <charseq START="1803" END="1812">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M2505" ROLE="GPE">
+          <extent>
+              <charseq START="3164" END="3173">California</charseq>
+          </extent>
+          <head>
+              <charseq START="3164" END="3173">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M2709">
+          <extent>
+              <charseq START="3492" END="3506">Miss California</charseq>
+          </extent>
+          <head>
+              <charseq START="3497" END="3506">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E4-M2710">
+          <extent>
+              <charseq START="3492" END="3495">Miss</charseq>
+          </extent>
+          <head>
+              <charseq START="3492" END="3495">Miss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M3507">
+          <extent>
+              <charseq START="4657" END="4666">California</charseq>
+          </extent>
+          <head>
+              <charseq START="4657" END="4666">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M4616" ROLE="GPE">
+          <extent>
+              <charseq START="6144" END="6153">California</charseq>
+          </extent>
+          <head>
+              <charseq START="6144" END="6153">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E4-M4704" ROLE="GPE">
+          <extent>
+              <charseq START="6252" END="6261">California</charseq>
+          </extent>
+          <head>
+              <charseq START="6252" END="6261">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="158" END="167">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="636" END="645">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="814" END="823">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1640" END="1649">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1696" END="1705">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="1803" END="1812">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="3164" END="3173">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="3497" END="3506">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="4657" END="4666">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="6144" END="6153">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="6252" END="6261">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E5-M4">
+          <extent>
+              <charseq START="98" END="167">an American beauty pageant contestant and model from Vista, California</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="134">contestant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E5-M6">
+          <extent>
+              <charseq START="98" END="134">an American beauty pageant contestant</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="134">contestant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M105">
+          <extent>
+              <charseq START="203" END="221">Miss California USA</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="221">Miss California USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M109">
+          <extent>
+              <charseq START="268" END="270">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="270">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1002">
+          <extent>
+              <charseq START="1324" END="1347">Miss California Teen USA</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1347">Miss California Teen USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1104">
+          <extent>
+              <charseq START="1438" END="1456">Miss California USA</charseq>
+          </extent>
+          <head>
+              <charseq START="1438" END="1456">Miss California USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1205">
+          <extent>
+              <charseq START="1651" END="1653">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="1651" END="1653">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1212">
+          <extent>
+              <charseq START="1736" END="1738">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="1736" END="1738">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1404">
+          <extent>
+              <charseq START="1892" END="1894">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="1892" END="1894">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1602">
+          <extent>
+              <charseq START="2074" END="2076">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="2074" END="2076">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M1703">
+          <extent>
+              <charseq START="2207" END="2209">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2209">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M2506">
+          <extent>
+              <charseq START="3175" END="3177">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="3175" END="3177">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M3103">
+          <extent>
+              <charseq START="3983" END="3985">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="3983" END="3985">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M3703">
+          <extent>
+              <charseq START="4899" END="4917">Miss California USA</charseq>
+          </extent>
+          <head>
+              <charseq START="4899" END="4917">Miss California USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M4611">
+          <extent>
+              <charseq START="6077" END="6079">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="6077" END="6079">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E6-M4705">
+          <extent>
+              <charseq START="6263" END="6265">USA</charseq>
+          </extent>
+          <head>
+              <charseq START="6263" END="6265">USA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miss California USA">
+              <charseq START="203" END="221">Miss California USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="268" END="270">USA</charseq>
+          </name>
+          <name NAME="Miss California Teen USA">
+              <charseq START="1324" END="1347">Miss California Teen USA</charseq>
+          </name>
+          <name NAME="Miss California USA">
+              <charseq START="1438" END="1456">Miss California USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="1651" END="1653">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="1736" END="1738">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="1892" END="1894">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="2074" END="2076">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="2207" END="2209">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="3175" END="3177">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="3983" END="3985">USA</charseq>
+          </name>
+          <name NAME="Miss California USA">
+              <charseq START="4899" END="4917">Miss California USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="6077" END="6079">USA</charseq>
+          </name>
+          <name NAME="USA">
+              <charseq START="6263" END="6265">USA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E7-M204">
+          <extent>
+              <charseq START="322" END="327">Target</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="327">Target</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Target">
+              <charseq START="322" END="327">Target</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E8-M205">
+          <extent>
+              <charseq START="330" END="346">Saks Fifth Avenue</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="346">Saks Fifth Avenue</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saks Fifth Avenue">
+              <charseq START="330" END="346">Saks Fifth Avenue</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E9-M206">
+          <extent>
+              <charseq START="349" END="362">Bloomingdale&apos;s</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="362">Bloomingdale&apos;s</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E9-M806">
+          <extent>
+              <charseq START="1126" END="1186">a non-profit organization that helps people with disabilities</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1150">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E9-M808">
+          <extent>
+              <charseq START="1152" END="1155">that</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1155">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bloomingdale&apos;s">
+              <charseq START="349" END="362">Bloomingdale&apos;s</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E10-M207">
+          <extent>
+              <charseq START="369" END="377">Nordstrom</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="377">Nordstrom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nordstrom">
+              <charseq START="369" END="377">Nordstrom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E11-M303">
+          <extent>
+              <charseq START="405" END="409">Bliss</charseq>
+          </extent>
+          <head>
+              <charseq START="405" END="409">Bliss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E11-M302">
+          <extent>
+              <charseq START="405" END="418">Bliss magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="418">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bliss">
+              <charseq START="405" END="409">Bliss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E12-M401">
+          <extent>
+              <charseq START="441" END="491">Entertainment Television at the 81st Academy Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="464">Entertainment Television</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Entertainment Television">
+              <charseq START="441" END="464">Entertainment Television</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E13-M403">
+          <extent>
+              <charseq START="469" END="491">the 81st Academy Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="473" END="491">81st Academy Awards</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="81st Academy Awards">
+              <charseq START="473" END="491">81st Academy Awards</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E14-M405">
+          <extent>
+              <charseq START="498" END="527">as first runner-up on the Deal</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="515">runner-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E14-M1004">
+          <extent>
+              <charseq START="1373" END="1387">first runner-up</charseq>
+          </extent>
+          <head>
+              <charseq START="1379" END="1387">runner-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E14-M1106">
+          <extent>
+              <charseq START="1492" END="1506">third runner-up</charseq>
+          </extent>
+          <head>
+              <charseq START="1498" END="1506">runner-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E14-M1110">
+          <extent>
+              <charseq START="1570" END="1584">first runner-up</charseq>
+          </extent>
+          <head>
+              <charseq START="1576" END="1584">runner-up</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E14-M1411">
+          <extent>
+              <charseq START="1959" END="1973">first runner-up</charseq>
+          </extent>
+          <head>
+              <charseq START="1965" END="1973">runner-up</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E15-M506">
+          <extent>
+              <charseq START="611" END="619">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="611" END="619">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E15-M3204">
+          <extent>
+              <charseq START="4216" END="4224">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="4216" END="4224">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E15-M4014">
+          <extent>
+              <charseq START="5455" END="5463">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="5455" END="5463">Christian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E16-M511">
+          <extent>
+              <charseq START="674" END="690">Vista High School</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="690">Vista High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vista High School">
+              <charseq START="674" END="690">Vista High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E17-M504">
+          <extent>
+              <charseq START="596" END="645">an evangelical Christian home in Vista, California</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="624">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E18-M604">
+          <extent>
+              <charseq START="722" END="748">San Diego Christian College</charseq>
+          </extent>
+          <head>
+              <charseq START="722" END="748">San Diego Christian College</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E18-M606">
+          <extent>
+              <charseq START="760" END="811">evangelical liberal arts college located in El Cajon</charseq>
+          </extent>
+          <head>
+              <charseq START="785" END="791">college</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Diego Christian College">
+              <charseq START="722" END="748">San Diego Christian College</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E19-M609" ROLE="LOC">
+          <extent>
+              <charseq START="804" END="811">El Cajon</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="811">El Cajon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E19-M705" ROLE="LOC">
+          <extent>
+              <charseq START="953" END="1027">El Cajon, where she volunteers with members with developmental disabilities</charseq>
+          </extent>
+          <head>
+              <charseq START="953" END="960">El Cajon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E19-M707">
+          <extent>
+              <charseq START="963" END="967">where</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="967">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="El Cajon">
+              <charseq START="804" END="811">El Cajon</charseq>
+          </name>
+          <name NAME="El Cajon">
+              <charseq START="953" END="960">El Cajon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E20-M611">
+          <extent>
+              <charseq START="838" END="905">The Rock Church, where she volunteers with their outreach ministries</charseq>
+          </extent>
+          <head>
+              <charseq START="838" END="852">The Rock Church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E20-M613">
+          <extent>
+              <charseq START="855" END="859">where</charseq>
+          </extent>
+          <head>
+              <charseq START="855" END="859">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E20-M617">
+          <extent>
+              <charseq START="881" END="885">their</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="885">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Rock Church">
+              <charseq START="838" END="852">The Rock Church</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E21-M616">
+          <extent>
+              <charseq START="881" END="905">their outreach ministries</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="905">ministries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E21-M703">
+          <extent>
+              <charseq START="939" END="1027">Ministries in El Cajon, where she volunteers with members with developmental disabilities</charseq>
+          </extent>
+          <head>
+              <charseq START="939" END="948">Ministries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E22-M710">
+          <extent>
+              <charseq START="989" END="1027">members with developmental disabilities</charseq>
+          </extent>
+          <head>
+              <charseq START="989" END="995">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E23-M804">
+          <extent>
+              <charseq START="1112" END="1123">Best Buddies</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1123">Buddies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E24-M809">
+          <extent>
+              <charseq START="1163" END="1186">people with disabilities</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1168">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E25-M904">
+          <extent>
+              <charseq START="1262" END="1288">the United States Air Force</charseq>
+          </extent>
+          <head>
+              <charseq START="1280" END="1288">Air Force</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Air Force">
+              <charseq START="1280" END="1288">Air Force</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E26-M900">
+          <extent>
+              <charseq START="1219" END="1234">Prejean&apos;s sister</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1234">sister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E26-M902">
+          <extent>
+              <charseq START="1239" END="1288">a second lieutenant in the United States Air Force</charseq>
+          </extent>
+          <head>
+              <charseq START="1248" END="1257">lieutenant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E27-M1005">
+          <extent>
+              <charseq START="1392" END="1406">Stephanie Brink</charseq>
+          </extent>
+          <head>
+              <charseq START="1392" END="1406">Stephanie Brink</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stephanie Brink">
+              <charseq START="1392" END="1406">Stephanie Brink</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E28-M1206">
+          <extent>
+              <charseq START="1678" END="1691">Raquel Beezley</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1691">Raquel Beezley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E28-M1207">
+          <extent>
+              <charseq START="1696" END="1746">California&apos;s representative to the Miss USA pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="1709" END="1722">representative</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raquel Beezley">
+              <charseq START="1678" END="1691">Raquel Beezley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E29" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E29-M1407" ROLE="LOC">
+          <extent>
+              <charseq START="1912" END="1920">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="1912" END="1920">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E29-M4606" ROLE="LOC">
+          <extent>
+              <charseq START="6033" END="6041">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="6033" END="6041">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Las Vegas">
+              <charseq START="1912" END="1920">Las Vegas</charseq>
+          </name>
+          <name NAME="Las Vegas">
+              <charseq START="6033" END="6041">Las Vegas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E30" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E30-M1408" ROLE="LOC">
+          <extent>
+              <charseq START="1923" END="1946">Nevada on April 19, 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="1923" END="1928">Nevada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nevada">
+              <charseq START="1923" END="1928">Nevada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E31-M1705">
+          <extent>
+              <charseq START="2241" END="2266">pageant judge Perez Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2255" END="2266">Perez Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E31-M1706">
+          <extent>
+              <charseq START="2249" END="2253">judge</charseq>
+          </extent>
+          <head>
+              <charseq START="2249" END="2253">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E31-M2200">
+          <extent>
+              <charseq START="2745" END="2750">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2745" END="2750">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E31-M2903">
+          <extent>
+              <charseq START="3794" END="3799">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="3794" END="3799">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Perez Hilton">
+              <charseq START="2255" END="2266">Perez Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="2745" END="2750">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="3794" END="3799">Hilton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E32-M1806">
+          <extent>
+              <charseq START="2386" END="2394">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="2386" END="2394">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E35-M2005">
+          <extent>
+              <charseq START="2549" END="2557">my family</charseq>
+          </extent>
+          <head>
+              <charseq START="2552" END="2557">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E36-M2011">
+          <extent>
+              <charseq START="2605" END="2609">a man</charseq>
+          </extent>
+          <head>
+              <charseq START="2607" END="2609">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E36-M2108">
+          <extent>
+              <charseq START="2725" END="2729">a man</charseq>
+          </extent>
+          <head>
+              <charseq START="2727" END="2729">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E36-M2206">
+          <extent>
+              <charseq START="2811" END="2812">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2811" END="2812">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E36-M2300">
+          <extent>
+              <charseq START="2872" END="2873">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2872" END="2873">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E36-M4509">
+          <extent>
+              <charseq START="5927" END="5985">a perfect person to have the right to stand up for marriage</charseq>
+          </extent>
+          <head>
+              <charseq START="5937" END="5942">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E36-M4507">
+          <extent>
+              <charseq START="5906" END="5908">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5906" END="5908">you</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E37" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E37-M2015">
+          <extent>
+              <charseq START="2638" END="2654">anybody out there</charseq>
+          </extent>
+          <head>
+              <charseq START="2638" END="2644">anybody</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E38-M2208">
+          <extent>
+              <charseq START="2824" END="2831">ABC News</charseq>
+          </extent>
+          <head>
+              <charseq START="2824" END="2831">ABC News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ABC News">
+              <charseq START="2824" END="2831">ABC News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E39-M2310">
+          <extent>
+              <charseq START="3015" END="3033">millions of people&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3015" END="3022">millions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E40-M2312">
+          <extent>
+              <charseq START="3027" END="3032">people</charseq>
+          </extent>
+          <head>
+              <charseq START="3027" END="3032">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E41-M2503">
+          <extent>
+              <charseq START="3159" END="3195">Miss California USA pageant officials</charseq>
+          </extent>
+          <head>
+              <charseq START="3187" END="3195">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E42-M2602">
+          <extent>
+              <charseq START="3311" END="3337">the Miss California Pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="3315" END="3337">Miss California Pageant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miss California Pageant">
+              <charseq START="3315" END="3337">Miss California Pageant</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E43-M2600">
+          <extent>
+              <charseq START="3292" END="3337">A spokesperson for the Miss California Pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="3294" END="3305">spokesperson</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E44-M2700">
+          <extent>
+              <charseq START="3389" END="3450">Donald Trump, who owns most of the Miss Universe Organization,</charseq>
+          </extent>
+          <head>
+              <charseq START="3389" END="3400">Donald Trump</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E44-M2702">
+          <extent>
+              <charseq START="3403" END="3405">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3403" END="3405">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E44-M2800">
+          <extent>
+              <charseq START="3597" END="3598">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3597" END="3598">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Donald Trump">
+              <charseq START="3389" END="3400">Donald Trump</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E45-M2705">
+          <extent>
+              <charseq START="3420" END="3449">the Miss Universe Organization</charseq>
+          </extent>
+          <head>
+              <charseq START="3424" END="3449">Miss Universe Organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miss Universe Organization">
+              <charseq START="3424" END="3449">Miss Universe Organization</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E46-M2703">
+          <extent>
+              <charseq START="3412" END="3449">most of the Miss Universe Organization</charseq>
+          </extent>
+          <head>
+              <charseq START="3412" END="3415">most</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E47-M2901">
+          <extent>
+              <charseq START="3735" END="3759">Several elected officials</charseq>
+          </extent>
+          <head>
+              <charseq START="3751" END="3759">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E48-M2902">
+          <extent>
+              <charseq START="3765" END="3781">political pundits</charseq>
+          </extent>
+          <head>
+              <charseq START="3775" END="3781">pundits</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E49-M3001">
+          <extent>
+              <charseq START="3865" END="3876">Gavin Newsom</charseq>
+          </extent>
+          <head>
+              <charseq START="3865" END="3876">Gavin Newsom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E49-M3003">
+          <extent>
+              <charseq START="3879" END="3900">mayor of San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="3879" END="3883">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E49-M3006">
+          <extent>
+              <charseq START="3906" END="3947">a prominent supporter of same-sex marriage</charseq>
+          </extent>
+          <head>
+              <charseq START="3918" END="3926">supporter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gavin Newsom">
+              <charseq START="3865" END="3876">Gavin Newsom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E50" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E50-M3005" ROLE="GPE">
+          <extent>
+              <charseq START="3888" END="3900">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="3888" END="3900">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco">
+              <charseq START="3888" END="3900">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E51-M3112">
+          <extent>
+              <charseq START="4080" END="4115">National Organization for Marriage&apos;s</charseq>
+          </extent>
+          <head>
+              <charseq START="4080" END="4115">National Organization for Marriage&apos;s</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E51-M3202">
+          <extent>
+              <charseq START="4214" END="4246">a Christian public relations firm</charseq>
+          </extent>
+          <head>
+              <charseq START="4243" END="4246">firm</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E51-M4401">
+          <extent>
+              <charseq START="5684" END="5717">National Organization for Marriage</charseq>
+          </extent>
+          <head>
+              <charseq START="5684" END="5717">National Organization for Marriage</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Organization for Marriage&apos;s">
+              <charseq START="4080" END="4115">National Organization for Marriage&apos;s</charseq>
+          </name>
+          <name NAME="National Organization for Marriage">
+              <charseq START="5684" END="5717">National Organization for Marriage</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E52-M3306">
+          <extent>
+              <charseq START="4294" END="4321">the Gospel Music Association</charseq>
+          </extent>
+          <head>
+              <charseq START="4298" END="4321">Gospel Music Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gospel Music Association">
+              <charseq START="4298" END="4321">Gospel Music Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E53" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E53-M3310" ROLE="LOC">
+          <extent>
+              <charseq START="4345" END="4364">Nashville, Tennessee</charseq>
+          </extent>
+          <head>
+              <charseq START="4345" END="4353">Nashville</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nashville">
+              <charseq START="4345" END="4353">Nashville</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E54" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E54-M3312" ROLE="LOC">
+          <extent>
+              <charseq START="4356" END="4364">Tennessee</charseq>
+          </extent>
+          <head>
+              <charseq START="4356" END="4364">Tennessee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tennessee">
+              <charseq START="4356" END="4364">Tennessee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E55-M3402">
+          <extent>
+              <charseq START="4398" END="4429">the Record w/ Greta Van Susteren</charseq>
+          </extent>
+          <head>
+              <charseq START="4412" END="4429">Greta Van Susteren</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greta Van Susteren">
+              <charseq START="4412" END="4429">Greta Van Susteren</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E56-M3409">
+          <extent>
+              <charseq START="4467" END="4499">civil unions for same-sex couples</charseq>
+          </extent>
+          <head>
+              <charseq START="4473" END="4478">unions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E57-M3411">
+          <extent>
+              <charseq START="4484" END="4499">same-sex couples</charseq>
+          </extent>
+          <head>
+              <charseq START="4493" END="4499">couples</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E57-M3416">
+          <extent>
+              <charseq START="4534" END="4579">same-sex couples, such as hospital visitations</charseq>
+          </extent>
+          <head>
+              <charseq START="4543" END="4549">couples</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E58-M3504">
+          <extent>
+              <charseq START="4636" END="4693">representatives from California&apos;s largest gay rights group</charseq>
+          </extent>
+          <head>
+              <charseq START="4636" END="4650">representatives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E59" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E59-M3506">
+          <extent>
+              <charseq START="4657" END="4693">California&apos;s largest gay rights group</charseq>
+          </extent>
+          <head>
+              <charseq START="4689" END="4693">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E60-M3700">
+          <extent>
+              <charseq START="4878" END="4925">The directors of the Miss California USA pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="4882" END="4890">directors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E61-M3708">
+          <extent>
+              <charseq START="5005" END="5034">prospective pageant candidates</charseq>
+          </extent>
+          <head>
+              <charseq START="5025" END="5034">candidates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E62-M3814">
+          <extent>
+              <charseq START="5230" END="5240">a Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="5232" END="5240">Christian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E63" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E63-M4006">
+          <extent>
+              <charseq START="5408" END="5469">a tabloid Web site that openly mocks me for my Christian faith</charseq>
+          </extent>
+          <head>
+              <charseq START="5422" END="5425">site</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E63-M4009">
+          <extent>
+              <charseq START="5427" END="5430">that</charseq>
+          </extent>
+          <head>
+              <charseq START="5427" END="5430">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E64-M4400">
+          <extent>
+              <charseq START="5684" END="5744">National Organization for Marriage president Maggie Gallagher</charseq>
+          </extent>
+          <head>
+              <charseq START="5729" END="5744">Maggie Gallagher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E64-M4402">
+          <extent>
+              <charseq START="5719" END="5727">president</charseq>
+          </extent>
+          <head>
+              <charseq START="5719" END="5727">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maggie Gallagher">
+              <charseq START="5729" END="5744">Maggie Gallagher</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E65-M4506">
+          <extent>
+              <charseq START="5895" END="5903">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="5895" END="5903">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E66-M4601">
+          <extent>
+              <charseq START="5989" END="6001">Alicia Jacobs</charseq>
+          </extent>
+          <head>
+              <charseq START="5989" END="6001">Alicia Jacobs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E66-M4602">
+          <extent>
+              <charseq START="6004" END="6087">a local reporter for KVBC in Las Vegas who served as a judge at the Miss USA pageant</charseq>
+          </extent>
+          <head>
+              <charseq START="6012" END="6019">reporter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Carrie_Prejean.sentences.sgm-E66-M4607">
+          <extent>
+              <charseq START="6043" END="6045">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6043" END="6045">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alicia Jacobs">
+              <charseq START="5989" END="6001">Alicia Jacobs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Carrie_Prejean.sentences.sgm-E67-M4604">
+          <extent>
+              <charseq START="6025" END="6041">KVBC in Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="6025" END="6028">KVBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KVBC">
+              <charseq START="6025" END="6028">KVBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E68-M4608">
+          <extent>
+              <charseq START="6057" END="6063">a judge</charseq>
+          </extent>
+          <head>
+              <charseq START="6059" END="6063">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Carrie_Prejean.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Carrie_Prejean.sentences.sgm-E69-M4702">
+          <extent>
+              <charseq START="6247" END="6274">Miss California USA official</charseq>
+          </extent>
+          <head>
+              <charseq START="6267" END="6274">official</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T0" VAL="1987-05-13">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="81" END="92">May 13, 1987</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="174" END="182">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T2" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="223" END="226">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T3" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="272" END="275">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T4" VAL="2005">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="664" END="667">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T5" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="700" END="708">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T6" VAL="2005">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1349" END="1352">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T7" VAL="2007">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1412" END="1415">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T8" VAL="2008">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1458" END="1461">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T9" VAL="P1Y">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1604" END="1621">the following year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T10" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1655" END="1658">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T11" VAL="PXW">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1822" END="1839">a few weeks before</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T12" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1896" END="1899">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T13" VAL="2009-04-19">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1933" END="1946">April 19, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T14" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2078" END="2081">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T15" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2197" END="2200">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T16" VAL="XXXX-04" MOD="END">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4252" END="4261">late April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T17" VAL="2009">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="4325" END="4328">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T18" VAL="XXXX-05-01">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="4370" END="4374">May 1</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T19" VAL="2009-05-04">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="4754" END="4764">May 4, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T20" VAL="XXXX-05-05">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="5105" END="5109">May 5</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T21" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="5327" END="5334">Recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T22" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="5546" END="5552">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T23" VAL="XXXX-05-05">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="5756" END="5760">May 5</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Carrie_Prejean.sentences.sgm-T24" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Carrie_Prejean.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="5857" END="5862">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Carrie_Prejean.sentences.sgm-V25" TYPE="Job-Title">
+        <value_mention ID="Carrie_Prejean.sentences.sgm-V25-M1">
+            <extent>
+              <charseq START="3735" END="3759">Several elected officials</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="98" END="134">an American beauty pageant contestant</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E5-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="98" END="134">an American beauty pageant contestant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E2-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="101" END="108">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R1-M1">
+          <extent>
+              <charseq START="98" END="134">an American beauty pageant contestant</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E5-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="98" END="134">an American beauty pageant contestant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E3-M11" ROLE="Arg-2">
+            <extent>
+              <charseq START="151" END="167">Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R2-M2">
+          <extent>
+              <charseq START="151" END="167">Vista, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E3-M11" ROLE="Arg-1">
+            <extent>
+              <charseq START="151" END="167">Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M13" ROLE="Arg-2">
+            <extent>
+              <charseq START="158" END="167">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R2-M503">
+          <extent>
+              <charseq START="629" END="645">Vista, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E3-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="629" END="645">Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M509" ROLE="Arg-2">
+            <extent>
+              <charseq START="636" END="645">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R3-M400">
+          <extent>
+              <charseq START="441" END="491">Entertainment Television at the 81st Academy Awards</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E12-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="441" END="491">Entertainment Television at the 81st Academy Awards</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E13-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="469" END="491">the 81st Academy Awards</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R4-M500">
+          <extent>
+              <charseq START="563" END="583">Personal life
+Prejean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="563" END="583">Personal life
+Prejean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E16-M511" ROLE="Arg-2">
+            <extent>
+              <charseq START="674" END="690">Vista High School</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R5-M501">
+          <extent>
+              <charseq START="611" END="619">Christian</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E15-M506" ROLE="Arg-1">
+            <extent>
+              <charseq START="611" END="619">Christian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E17-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="596" END="645">an evangelical Christian home in Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R6-M502">
+          <extent>
+              <charseq START="596" END="645">an evangelical Christian home in Vista, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E17-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="596" END="645">an evangelical Christian home in Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E3-M507" ROLE="Arg-2">
+            <extent>
+              <charseq START="629" END="645">Vista, California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R7-M600">
+          <extent>
+              <charseq START="710" END="717">a senior</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="710" END="717">a senior</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E18-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="722" END="748">San Diego Christian College</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R7-M601">
+          <extent>
+              <charseq START="710" END="717">a senior</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="710" END="717">a senior</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E18-M606" ROLE="Arg-2">
+            <extent>
+              <charseq START="760" END="811">evangelical liberal arts college located in El Cajon</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R8-M602">
+          <extent>
+              <charseq START="760" END="811">evangelical liberal arts college located in El Cajon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E18-M606" ROLE="Arg-1">
+            <extent>
+              <charseq START="760" END="811">evangelical liberal arts college located in El Cajon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E19-M609" ROLE="Arg-2">
+            <extent>
+              <charseq START="804" END="811">El Cajon</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R9-M603">
+          <extent>
+              <charseq START="804" END="811">El Cajon</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E19-M609" ROLE="Arg-1">
+            <extent>
+              <charseq START="804" END="811">El Cajon</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="814" END="823">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R10-M700">
+          <extent>
+              <charseq START="939" END="1027">Ministries in El Cajon, where she volunteers with members with developmental disabilities</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E21-M703" ROLE="Arg-1">
+            <extent>
+              <charseq START="939" END="1027">Ministries in El Cajon, where she volunteers with members with developmental disabilities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E19-M705" ROLE="Arg-2">
+            <extent>
+              <charseq START="953" END="1027">El Cajon, where she volunteers with members with developmental disabilities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R11-M900">
+          <extent>
+              <charseq START="1219" END="1225">Prejean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M901" ROLE="Arg-1">
+            <extent>
+              <charseq START="1219" END="1225">Prejean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E26-M900" ROLE="Arg-2">
+            <extent>
+              <charseq START="1219" END="1234">Prejean&apos;s sister</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R12-M901">
+          <extent>
+              <charseq START="1239" END="1288">a second lieutenant in the United States Air Force</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E26-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="1239" END="1288">a second lieutenant in the United States Air Force</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E25-M904" ROLE="Arg-2">
+            <extent>
+              <charseq START="1262" END="1288">the United States Air Force</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R13" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R13-M902">
+          <extent>
+              <charseq START="1262" END="1288">the United States Air Force</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E25-M904" ROLE="Arg-1">
+            <extent>
+              <charseq START="1262" END="1288">the United States Air Force</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E2-M905" ROLE="Arg-2">
+            <extent>
+              <charseq START="1266" END="1278">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R16" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R16-M2500">
+          <extent>
+              <charseq START="3159" END="3195">Miss California USA pageant officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E41-M2503" ROLE="Arg-1">
+            <extent>
+              <charseq START="3159" END="3195">Miss California USA pageant officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M2505" ROLE="Arg-2">
+            <extent>
+              <charseq START="3164" END="3173">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R17" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R17-M2600">
+          <extent>
+              <charseq START="3292" END="3337">A spokesperson for the Miss California Pageant</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E43-M2600" ROLE="Arg-1">
+            <extent>
+              <charseq START="3292" END="3337">A spokesperson for the Miss California Pageant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E42-M2602" ROLE="Arg-2">
+            <extent>
+              <charseq START="3311" END="3337">the Miss California Pageant</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Ownership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R18-M2700">
+          <extent>
+              <charseq START="3403" END="3405">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E44-M2702" ROLE="Arg-1">
+            <extent>
+              <charseq START="3403" END="3405">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E46-M2703" ROLE="Arg-2">
+            <extent>
+              <charseq START="3412" END="3449">most of the Miss Universe Organization</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R19" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E50" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R19-M3000">
+          <extent>
+              <charseq START="3879" END="3900">mayor of San Francisco</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E49-M3003" ROLE="Arg-1">
+            <extent>
+              <charseq START="3879" END="3900">mayor of San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E50-M3005" ROLE="Arg-2">
+            <extent>
+              <charseq START="3888" END="3900">San Francisco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R20" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E51" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R20-M3200">
+          <extent>
+              <charseq START="4199" END="4201">She</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M3200" ROLE="Arg-1">
+            <extent>
+              <charseq START="4199" END="4201">She</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E51-M3202" ROLE="Arg-2">
+            <extent>
+              <charseq START="4214" END="4246">a Christian public relations firm</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R21" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E51" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R21-M3201">
+          <extent>
+              <charseq START="4216" END="4224">Christian</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E15-M3204" ROLE="Arg-1">
+            <extent>
+              <charseq START="4216" END="4224">Christian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E51-M3202" ROLE="Arg-2">
+            <extent>
+              <charseq START="4214" END="4246">a Christian public relations firm</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R22" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E53" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E54" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R22-M3300">
+          <extent>
+              <charseq START="4345" END="4364">Nashville, Tennessee</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E53-M3310" ROLE="Arg-1">
+            <extent>
+              <charseq START="4345" END="4364">Nashville, Tennessee</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E54-M3312" ROLE="Arg-2">
+            <extent>
+              <charseq START="4356" END="4364">Tennessee</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R23" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E58" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E59" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R23-M3500">
+          <extent>
+              <charseq START="4636" END="4693">representatives from California&apos;s largest gay rights group</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E58-M3504" ROLE="Arg-1">
+            <extent>
+              <charseq START="4636" END="4693">representatives from California&apos;s largest gay rights group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E59-M3506" ROLE="Arg-2">
+            <extent>
+              <charseq START="4657" END="4693">California&apos;s largest gay rights group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R24" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E59" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R24-M3501">
+          <extent>
+              <charseq START="4657" END="4693">California&apos;s largest gay rights group</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E59-M3506" ROLE="Arg-1">
+            <extent>
+              <charseq START="4657" END="4693">California&apos;s largest gay rights group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M3507" ROLE="Arg-2">
+            <extent>
+              <charseq START="4657" END="4666">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R25" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E64" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E51" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R25-M4400">
+          <extent>
+              <charseq START="5719" END="5727">president</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E64-M4402" ROLE="Arg-1">
+            <extent>
+              <charseq START="5719" END="5727">president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E51-M4401" ROLE="Arg-2">
+            <extent>
+              <charseq START="5684" END="5717">National Organization for Marriage</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R26" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E66" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E67" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R26-M4600">
+          <extent>
+              <charseq START="6004" END="6087">a local reporter for KVBC in Las Vegas who served as a judge at the Miss USA pageant</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E66-M4602" ROLE="Arg-1">
+            <extent>
+              <charseq START="6004" END="6087">a local reporter for KVBC in Las Vegas who served as a judge at the Miss USA pageant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E67-M4604" ROLE="Arg-2">
+            <extent>
+              <charseq START="6025" END="6041">KVBC in Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R27" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E67" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R27-M4601">
+          <extent>
+              <charseq START="6025" END="6041">KVBC in Las Vegas</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E67-M4604" ROLE="Arg-1">
+            <extent>
+              <charseq START="6025" END="6041">KVBC in Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E29-M4606" ROLE="Arg-2">
+            <extent>
+              <charseq START="6033" END="6041">Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R28" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R28-M4700">
+          <extent>
+              <charseq START="6247" END="6274">Miss California USA official</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E69-M4702" ROLE="Arg-1">
+            <extent>
+              <charseq START="6247" END="6274">Miss California USA official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E4-M4704" ROLE="Arg-2">
+            <extent>
+              <charseq START="6252" END="6261">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Carrie_Prejean.sentences.sgm-R29" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Carrie_Prejean.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Carrie_Prejean.sentences.sgm-R29-M4701">
+          <extent>
+              <charseq START="6247" END="6274">Miss California USA official</charseq>
+          </extent>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E69-M4702" ROLE="Arg-1">
+            <extent>
+              <charseq START="6247" END="6274">Miss California USA official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Carrie_Prejean.sentences.sgm-E6-M4705" ROLE="Arg-2">
+            <extent>
+              <charseq START="6263" END="6265">USA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E0" ROLE="Person"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="47" END="50">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="47" END="50">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="31" END="87">Carrie Prejean (born Caroline Michelle Prejean on May 13,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Person"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV1-M1100">
+          <extent>
+              <charseq START="1558" END="1565">promoted</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1558" END="1565">promoted</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M1108" ROLE="Person">
+          <extent>
+              <charseq START="1550" END="1552">she</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV2-M1600">
+          <extent>
+              <charseq START="2176" END="2183">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2176" END="2183">marriage</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV2-M1700">
+          <extent>
+              <charseq START="2331" END="2338">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2331" END="2338">marriage</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV2-M1900">
+          <extent>
+              <charseq START="2485" END="2492">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2485" END="2492">marriage</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV2-M3000">
+          <extent>
+              <charseq START="3940" END="3947">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3940" END="3947">marriage</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV3-M1901">
+          <extent>
+              <charseq START="2506" END="2513">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2506" END="2513">marriage</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E36" ROLE="Person"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV4-M2000">
+          <extent>
+              <charseq START="2578" END="2585">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2578" END="2585">marriage</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV4-M4500">
+          <extent>
+              <charseq START="5978" END="5985">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5978" END="5985">marriage</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E36-M4509" ROLE="Person">
+          <extent>
+              <charseq START="5927" END="5985">a perfect person to have the right to stand up for marriage</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Victim"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV5-M2801">
+          <extent>
+              <charseq START="3726" END="3731">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3726" END="3731">killed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M2811" ROLE="Victim">
+          <extent>
+              <charseq START="3705" END="3707">she</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV6" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E47" ROLE="Person"/>
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-V25" ROLE="Position"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV6-M2901">
+          <extent>
+              <charseq START="3743" END="3749">elected</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3743" END="3749">elected</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E47-M2901" ROLE="Person">
+          <extent>
+              <charseq START="3735" END="3759">Several elected officials</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-V25-M1" ROLE="Position">
+            <extent>
+              <charseq START="3735" END="3759">Several elected officials</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV7" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV7-M3100">
+          <extent>
+              <charseq START="4106" END="4113">Marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4106" END="4113">Marriage</charseq>
+          </anchor>
+        </event_mention>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV7-M3101">
+          <extent>
+              <charseq START="4138" END="4145">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4138" END="4145">marriage</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV8" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E51" ROLE="Entity"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV8-M3201">
+          <extent>
+              <charseq START="4208" END="4212">hired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4208" END="4212">hired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E51-M3202" ROLE="Entity">
+          <extent>
+              <charseq START="4214" END="4246">a Christian public relations firm</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Carrie_Prejean.sentences.sgm-EV9" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E58" ROLE="Entity"/>
+      <event_argument REFID="Carrie_Prejean.sentences.sgm-E1" ROLE="Entity"/>
+      <event_mention ID="Carrie_Prejean.sentences.sgm-EV9-M3501">
+          <extent>
+              <charseq START="4626" END="4629">meet</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4626" END="4629">meet</charseq>
+          </anchor>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E58-M3504" ROLE="Entity">
+          <extent>
+              <charseq START="4636" END="4693">representatives from California&apos;s largest gay rights group</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Carrie_Prejean.sentences.sgm-E1-M3502" ROLE="Entity">
+          <extent>
+              <charseq START="4602" END="4604">she</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

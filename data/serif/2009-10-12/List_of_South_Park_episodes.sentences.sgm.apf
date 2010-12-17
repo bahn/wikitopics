@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="List_of_South_Park_episodes.sentences.sgm">
+  <document DOCID="List_of_South_Park_episodes.sentences.sgm">
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E0" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="44" END="53">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="44" END="53">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M306">
+          <extent>
+              <charseq START="449" END="458">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="449" END="458">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M402">
+          <extent>
+              <charseq START="538" END="547">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="538" END="547">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M712">
+          <extent>
+              <charseq START="989" END="998">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="989" END="998">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M718">
+          <extent>
+              <charseq START="1066" END="1075">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="1072" END="1075">Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M1203">
+          <extent>
+              <charseq START="2057" END="2066">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="2057" END="2066">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M1209">
+          <extent>
+              <charseq START="2137" END="2146">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="2143" END="2146">Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E0-M1409">
+          <extent>
+              <charseq START="2447" END="2456">South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2456">South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Park">
+              <charseq START="44" END="53">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="449" END="458">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="538" END="547">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="989" END="998">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="2057" END="2066">South Park</charseq>
+          </name>
+          <name NAME="South Park">
+              <charseq START="2447" END="2456">South Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="61" END="68">American</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="68">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E1-M200">
+          <extent>
+              <charseq START="206" END="222">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="222">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="61" END="68">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="210" END="222">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M5">
+          <extent>
+              <charseq START="97" END="107">Trey Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="107">Trey Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M305">
+          <extent>
+              <charseq START="431" END="436">Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="436">Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M716">
+          <extent>
+              <charseq START="1025" END="1035">Trey Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="1025" END="1035">Trey Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M728">
+          <extent>
+              <charseq START="1113" END="1120">the pair</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1120">pair</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M802">
+          <extent>
+              <charseq START="1175" END="1180">Parker</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1180">Parker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E2-M1100">
+          <extent>
+              <charseq START="1899" END="1906">The pair</charseq>
+          </extent>
+          <head>
+              <charseq START="1903" END="1906">pair</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trey Parker">
+              <charseq START="97" END="107">Trey Parker</charseq>
+          </name>
+          <name NAME="Parker">
+              <charseq START="431" END="436">Parker</charseq>
+          </name>
+          <name NAME="Trey Parker">
+              <charseq START="1025" END="1035">Trey Parker</charseq>
+          </name>
+          <name NAME="Parker">
+              <charseq START="1175" END="1180">Parker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E3-M6">
+          <extent>
+              <charseq START="113" END="122">Matt Stone</charseq>
+          </extent>
+          <head>
+              <charseq START="113" END="122">Matt Stone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E3-M717">
+          <extent>
+              <charseq START="1041" END="1050">Matt Stone</charseq>
+          </extent>
+          <head>
+              <charseq START="1041" END="1050">Matt Stone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E3-M803">
+          <extent>
+              <charseq START="1186" END="1190">Stone</charseq>
+          </extent>
+          <head>
+              <charseq START="1186" END="1190">Stone</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Stone">
+              <charseq START="113" END="122">Matt Stone</charseq>
+          </name>
+          <name NAME="Matt Stone">
+              <charseq START="1041" END="1050">Matt Stone</charseq>
+          </name>
+          <name NAME="Stone">
+              <charseq START="1186" END="1190">Stone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E4-M208">
+          <extent>
+              <charseq START="296" END="310">Comedy Central,</charseq>
+          </extent>
+          <head>
+              <charseq START="296" END="309">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_South_Park_episodes.sentences.sgm-E4-M213">
+          <extent>
+              <charseq START="341" END="343">its</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="343">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E4-M300">
+          <extent>
+              <charseq START="383" END="396">Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="383" END="396">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E4-M1001">
+          <extent>
+              <charseq START="1735" END="1748">Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="1735" END="1748">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Comedy Central">
+              <charseq START="296" END="309">Comedy Central</charseq>
+          </name>
+          <name NAME="Comedy Central">
+              <charseq START="383" END="396">Comedy Central</charseq>
+          </name>
+          <name NAME="Comedy Central">
+              <charseq START="1735" END="1748">Comedy Central</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E5" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E5-M502">
+          <extent>
+              <charseq START="603" END="610">Region 1</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="608">Region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E5-M503">
+          <extent>
+              <charseq START="616" END="623">Region 2</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="621">Region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E5-M513">
+          <extent>
+              <charseq START="697" END="704">Region 4</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="702">Region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E6-M843">
+          <extent>
+              <charseq START="1445" END="1458">Scott Tenorman</charseq>
+          </extent>
+          <head>
+              <charseq START="1445" END="1458">Scott Tenorman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scott Tenorman">
+              <charseq START="1445" END="1458">Scott Tenorman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E7-M819">
+          <extent>
+              <charseq START="1284" END="1298">the Two Towers&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1292" END="1297">Towers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E8-M833">
+          <extent>
+              <charseq START="1391" END="1401">the Closet&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1400">Closet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E9-M918">
+          <extent>
+              <charseq START="1629" END="1636">the Fan&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1635">Fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E9-M926">
+          <extent>
+              <charseq START="1667" END="1679">Pancake Head&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1675" END="1678">Head</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E10-M928">
+          <extent>
+              <charseq START="1686" END="1714">&quot;The Death Camp of Tolerance&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1697" END="1700">Camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E11-M1003">
+          <extent>
+              <charseq START="1765" END="1773">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="1765" END="1773">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="List_of_South_Park_episodes.sentences.sgm-E11-M1010">
+          <extent>
+              <charseq START="1825" END="1829">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1825" END="1829">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="1765" END="1773">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E12-M1101">
+          <extent>
+              <charseq START="1925" END="1932">Best Buy</charseq>
+          </extent>
+          <head>
+              <charseq START="1925" END="1932">Best Buy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Best Buy">
+              <charseq START="1925" END="1932">Best Buy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E13" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E13-M1109">
+          <extent>
+              <charseq START="1987" END="1993">Weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="1987" END="1993">Weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E14-M1304">
+          <extent>
+              <charseq START="2181" END="2190">Mr. Hankey</charseq>
+          </extent>
+          <head>
+              <charseq START="2185" END="2190">Hankey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E14-M1314">
+          <extent>
+              <charseq START="2247" END="2256">Mr. Hankey</charseq>
+          </extent>
+          <head>
+              <charseq START="2251" END="2256">Hankey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E14-M1305">
+          <extent>
+              <charseq START="2181" END="2183">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2181" END="2183">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E14-M1315">
+          <extent>
+              <charseq START="2247" END="2249">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2247" END="2249">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hankey">
+              <charseq START="2185" END="2190">Hankey</charseq>
+          </name>
+          <name NAME="Hankey">
+              <charseq START="2251" END="2256">Hankey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E15-M1309">
+          <extent>
+              <charseq START="2213" END="2242">Merry Christmas Charlie Manson</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2242">Charlie Manson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E15-M1311">
+          <extent>
+              <charseq START="2219" END="2227">Christmas</charseq>
+          </extent>
+          <head>
+              <charseq START="2219" END="2227">Christmas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Manson">
+              <charseq START="2229" END="2242">Charlie Manson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E16-M1328" ROLE="LOC">
+          <extent>
+              <charseq START="2346" END="2351">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2346" END="2351">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="2346" END="2351">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E17-M1408">
+          <extent>
+              <charseq START="2443" END="2479">the South Park character Eric Cartman</charseq>
+          </extent>
+          <head>
+              <charseq START="2468" END="2479">Eric Cartman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="List_of_South_Park_episodes.sentences.sgm-E17-M1410">
+          <extent>
+              <charseq START="2458" END="2466">character</charseq>
+          </extent>
+          <head>
+              <charseq START="2458" END="2466">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eric Cartman">
+              <charseq START="2468" END="2479">Eric Cartman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E18-M1600">
+          <extent>
+              <charseq START="2630" END="2650">South Park
+South Park</charseq>
+          </extent>
+          <head>
+              <charseq START="2630" END="2650">South Park
+South Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Park
+South Park">
+              <charseq START="2630" END="2650">South Park
+South Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="List_of_South_Park_episodes.sentences.sgm-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="List_of_South_Park_episodes.sentences.sgm-E19-M1601">
+          <extent>
+              <charseq START="2661" END="2668">Episodes</charseq>
+          </extent>
+          <head>
+              <charseq START="2661" END="2668">Episodes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Episodes">
+              <charseq START="2661" END="2668">Episodes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T0" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="192" END="200">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T1" VAL="1997-08-13">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="277" END="291">August 13, 1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T2" VAL="2009-H2-07">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="322" END="380">the second half of its thirteenth season on October 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T3">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1002" END="1013">tenth season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T4" VAL="2000">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1646" END="1649">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T5" VAL="2007-03-06">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1720" END="1732">March 6, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T6" VAL="2007">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2035" END="2038">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T7" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="2070" END="2078">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T8" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="2119" END="2132">Christmas Time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T9" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2196" END="2204">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T10" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="2219" END="2227">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T11" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2260" END="2268">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T12" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2333" END="2341">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T13" VAL="XXXX-12-25">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2377" END="2385">Christmas</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="List_of_South_Park_episodes.sentences.sgm-T14" VAL="2008">
+        <timex2_mention ID="List_of_South_Park_episodes.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2521" END="2524">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <event ID="List_of_South_Park_episodes.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="List_of_South_Park_episodes.sentences.sgm-EV0-M900">
+          <extent>
+              <charseq START="1691" END="1695">Death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1691" END="1695">Death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

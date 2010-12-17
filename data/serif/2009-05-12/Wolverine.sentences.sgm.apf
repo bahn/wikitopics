@@ -1,0 +1,2046 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Wolverine.sentences.sgm">
+  <document DOCID="Wolverine.sentences.sgm">
+
+    <entity ID="Wolverine.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E0-M11">
+          <extent>
+              <charseq START="96" END="105">Mustelidae</charseq>
+          </extent>
+          <head>
+              <charseq START="96" END="105">Mustelidae</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mustelidae">
+              <charseq START="96" END="105">Mustelidae</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E1-M15">
+          <extent>
+              <charseq START="125" END="139">the Giant Otter</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="139">Giant Otter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Giant Otter">
+              <charseq START="129" END="139">Giant Otter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E2-M17">
+          <extent>
+              <charseq START="164" END="177">the genus Gulo</charseq>
+          </extent>
+          <head>
+              <charseq START="174" END="177">Gulo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E2-M18">
+          <extent>
+              <charseq START="168" END="172">genus</charseq>
+          </extent>
+          <head>
+              <charseq START="168" END="172">genus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gulo">
+              <charseq START="174" END="177">Gulo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E3-M20">
+          <extent>
+              <charseq START="189" END="195">glutton</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="195">glutton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E3-M103">
+          <extent>
+              <charseq START="222" END="228">Glutton</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="228">Glutton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E3-M4103">
+          <extent>
+              <charseq START="5133" END="5194">an insatiable glutton (reflected in the Latin genus name Gulo)</charseq>
+          </extent>
+          <head>
+              <charseq START="5147" END="5153">glutton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E3-M4506">
+          <extent>
+              <charseq START="5539" END="5545">glutton</charseq>
+          </extent>
+          <head>
+              <charseq START="5539" END="5545">glutton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glutton">
+              <charseq START="222" END="228">Glutton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E4-M104">
+          <extent>
+              <charseq START="233" END="240">Carcajou</charseq>
+          </extent>
+          <head>
+              <charseq START="233" END="240">Carcajou</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carcajou">
+              <charseq START="233" END="240">Carcajou</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E5-M200">
+          <extent>
+              <charseq START="243" END="254">Some authors</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="254">authors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E6-M302" ROLE="LOC">
+          <extent>
+              <charseq START="383" END="421">Vancouver Island (G. g. vancouverensis)</charseq>
+          </extent>
+          <head>
+              <charseq START="383" END="398">Vancouver Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E6-M309" ROLE="GPE">
+          <extent>
+              <charseq START="505" END="520">Vancouver Island</charseq>
+          </extent>
+          <head>
+              <charseq START="505" END="520">Vancouver Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E6-M2909" ROLE="LOC">
+          <extent>
+              <charseq START="3628" END="3636">territory</charseq>
+          </extent>
+          <head>
+              <charseq START="3628" END="3636">territory</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vancouver Island">
+              <charseq START="383" END="398">Vancouver Island</charseq>
+          </name>
+          <name NAME="Vancouver Island">
+              <charseq START="505" END="520">Vancouver Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E7-M401">
+          <extent>
+              <charseq START="584" END="595">Anatomically</charseq>
+          </extent>
+          <head>
+              <charseq START="584" END="595">Anatomically</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anatomically">
+              <charseq START="584" END="595">Anatomically</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E8-M508">
+          <extent>
+              <charseq START="696" END="704">the sides</charseq>
+          </extent>
+          <head>
+              <charseq START="700" END="704">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E9" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E9-M714">
+          <extent>
+              <charseq START="993" END="998">Arctic</charseq>
+          </extent>
+          <head>
+              <charseq START="993" END="998">Arctic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arctic">
+              <charseq START="993" END="998">Arctic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E10-M703">
+          <extent>
+              <charseq START="914" END="920">hunters</charseq>
+          </extent>
+          <head>
+              <charseq START="914" END="920">hunters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E10-M5900">
+          <extent>
+              <charseq START="7295" END="7326">hunters and biologists near Ubly</charseq>
+          </extent>
+          <head>
+              <charseq START="7295" END="7301">hunters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E10-M5902">
+          <extent>
+              <charseq START="7295" END="7301">hunters</charseq>
+          </extent>
+          <head>
+              <charseq START="7295" END="7301">hunters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E11-M704">
+          <extent>
+              <charseq START="926" END="967">trappers as a lining in jackets and parkas</charseq>
+          </extent>
+          <head>
+              <charseq START="926" END="933">trappers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E12-M825">
+          <extent>
+              <charseq START="1218" END="1242">exceptionally large males</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1242">males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E12-M900">
+          <extent>
+              <charseq START="1274" END="1282">The males</charseq>
+          </extent>
+          <head>
+              <charseq START="1278" END="1282">males</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E12-M904">
+          <extent>
+              <charseq START="1322" END="1332">the females</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1332">females</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E12-M2500">
+          <extent>
+              <charseq START="3160" END="3166">Females</charseq>
+          </extent>
+          <head>
+              <charseq START="3160" END="3166">Females</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M1200">
+          <extent>
+              <charseq START="1536" END="1545">Wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1545">Wolverines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M1600">
+          <extent>
+              <charseq START="2021" END="2142">Wolverines inhabiting the Old World (specifically, Fennoscandia) are more active hunters than their North American cousins</charseq>
+          </extent>
+          <head>
+              <charseq START="2021" END="2030">Wolverines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E13-M1709">
+          <extent>
+              <charseq START="2280" END="2285">itself</charseq>
+          </extent>
+          <head>
+              <charseq START="2280" END="2285">itself</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M1900">
+          <extent>
+              <charseq START="2489" END="2498">Wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="2489" END="2498">Wolverines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M2300">
+          <extent>
+              <charseq START="2907" END="2916">Wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="2907" END="2916">Wolverines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M5406">
+          <extent>
+              <charseq START="6653" END="6671">The Wolverine State</charseq>
+          </extent>
+          <head>
+              <charseq START="6657" END="6671">Wolverine State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M5514">
+          <extent>
+              <charseq START="6938" END="6952">the &quot;Wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="6943" END="6952">Wolverines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E13-M6207">
+          <extent>
+              <charseq START="7651" END="7697">Wolverine: scientific articles about wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="7651" END="7659">Wolverine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wolverines">
+              <charseq START="1536" END="1545">Wolverines</charseq>
+          </name>
+          <name NAME="Wolverines">
+              <charseq START="2021" END="2030">Wolverines</charseq>
+          </name>
+          <name NAME="Wolverines">
+              <charseq START="2489" END="2498">Wolverines</charseq>
+          </name>
+          <name NAME="Wolverines">
+              <charseq START="2907" END="2916">Wolverines</charseq>
+          </name>
+          <name NAME="Wolverine State">
+              <charseq START="6657" END="6671">Wolverine State</charseq>
+          </name>
+          <name NAME="Wolverines">
+              <charseq START="6943" END="6952">Wolverines</charseq>
+          </name>
+          <name NAME="Wolverine">
+              <charseq START="7651" END="7659">Wolverine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E14-M1604">
+          <extent>
+              <charseq START="2072" END="2083">Fennoscandia</charseq>
+          </extent>
+          <head>
+              <charseq START="2072" END="2083">Fennoscandia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E14-M1605">
+          <extent>
+              <charseq START="2090" END="2108">more active hunters</charseq>
+          </extent>
+          <head>
+              <charseq START="2102" END="2108">hunters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E14-M1607">
+          <extent>
+              <charseq START="2115" END="2119">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2115" END="2119">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fennoscandia">
+              <charseq START="2072" END="2083">Fennoscandia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E15-M1608" ROLE="GPE">
+          <extent>
+              <charseq START="2121" END="2134">North American</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2134">North American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North American">
+              <charseq START="2121" END="2134">North American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E16-M1606">
+          <extent>
+              <charseq START="2115" END="2142">their North American cousins</charseq>
+          </extent>
+          <head>
+              <charseq START="2136" END="2142">cousins</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E17-M1704" ROLE="LOC">
+          <extent>
+              <charseq START="2199" END="2205">Eurasia</charseq>
+          </extent>
+          <head>
+              <charseq START="2199" END="2205">Eurasia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eurasia">
+              <charseq START="2199" END="2205">Eurasia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E18-M1807">
+          <extent>
+              <charseq START="2423" END="2446">the population of wolves</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2436">population</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E18-M1810">
+          <extent>
+              <charseq START="2459" END="2486">the population of wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="2463" END="2472">population</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E18-M3500">
+          <extent>
+              <charseq START="4293" END="4330">The world&apos;s total wolverine population</charseq>
+          </extent>
+          <head>
+              <charseq START="4321" END="4330">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E19-M2006">
+          <extent>
+              <charseq START="2643" END="2675">larger or more numerous predators</charseq>
+          </extent>
+          <head>
+              <charseq START="2667" END="2675">predators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E20-M2109">
+          <extent>
+              <charseq START="2787" END="2797">adult males</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2797">males</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E21-M2811">
+          <extent>
+              <charseq START="3454" END="3476">exceptional individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="3466" END="3476">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E22-M2902">
+          <extent>
+              <charseq START="3517" END="3536">no natural predators</charseq>
+          </extent>
+          <head>
+              <charseq START="3528" END="3536">predators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E22-M2903">
+          <extent>
+              <charseq START="3546" END="3549">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3546" END="3549">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E23-M2907">
+          <extent>
+              <charseq START="3578" END="3621">(and may be killed by) other large predators</charseq>
+          </extent>
+          <head>
+              <charseq START="3613" END="3621">predators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E24-M3000">
+          <extent>
+              <charseq START="3648" END="3656">Juveniles</charseq>
+          </extent>
+          <head>
+              <charseq START="3648" END="3656">Juveniles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E25-M3001">
+          <extent>
+              <charseq START="3679" END="3692">infants (kits)</charseq>
+          </extent>
+          <head>
+              <charseq START="3679" END="3685">infants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E26-M3110" ROLE="LOC">
+          <extent>
+              <charseq START="3878" END="3900">Alaska, northern Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="3895" END="3900">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E26-M3403" ROLE="LOC">
+          <extent>
+              <charseq START="4285" END="4290">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="4285" END="4290">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="3895" END="3900">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="4285" END="4290">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E27" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E27-M3111">
+          <extent>
+              <charseq START="3878" END="3883">Alaska</charseq>
+          </extent>
+          <head>
+              <charseq START="3878" END="3883">Alaska</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alaska">
+              <charseq START="3878" END="3883">Alaska</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E28-M3113">
+          <extent>
+              <charseq START="3903" END="3909">Siberia</charseq>
+          </extent>
+          <head>
+              <charseq START="3903" END="3909">Siberia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Siberia">
+              <charseq START="3903" END="3909">Siberia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E29" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E29-M3114">
+          <extent>
+              <charseq START="3915" END="3925">Scandinavia</charseq>
+          </extent>
+          <head>
+              <charseq START="3915" END="3925">Scandinavia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scandinavia">
+              <charseq START="3915" END="3925">Scandinavia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E30-M3117">
+          <extent>
+              <charseq START="3952" END="3957">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="3952" END="3957">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E30-M4602" ROLE="GPE">
+          <extent>
+              <charseq START="5553" END="5559">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="5553" END="5559">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="3952" END="3957">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="5553" END="5559">Russian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E31-M3119" ROLE="GPE">
+          <extent>
+              <charseq START="3964" END="3969">Baltic</charseq>
+          </extent>
+          <head>
+              <charseq START="3964" END="3969">Baltic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E31-M3118" ROLE="LOC">
+          <extent>
+              <charseq START="3960" END="3979">the Baltic countries</charseq>
+          </extent>
+          <head>
+              <charseq START="3971" END="3979">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baltic">
+              <charseq START="3964" END="3969">Baltic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E32" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E32-M3121">
+          <extent>
+              <charseq START="3986" END="3999">Northern China</charseq>
+          </extent>
+          <head>
+              <charseq START="3986" END="3999">Northern China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Northern China">
+              <charseq START="3986" END="3999">Northern China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E33-M3122" ROLE="LOC">
+          <extent>
+              <charseq START="4005" END="4012">Mongolia</charseq>
+          </extent>
+          <head>
+              <charseq START="4005" END="4012">Mongolia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mongolia">
+              <charseq START="4005" END="4012">Mongolia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E34" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E34-M3102">
+          <extent>
+              <charseq START="3808" END="3854">isolated northern areas, for example the arctic</charseq>
+          </extent>
+          <head>
+              <charseq START="3826" END="3830">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E35" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E35-M3106">
+          <extent>
+              <charseq START="3860" END="4012">alpine regions of Alaska, northern Canada, Siberia and Scandinavia; they are also native to Russia, the Baltic countries, and Northern China and Mongolia</charseq>
+          </extent>
+          <head>
+              <charseq START="3867" END="3873">regions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E36" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E36-M3204">
+          <extent>
+              <charseq START="4073" END="4090">the Sierra Nevada,</charseq>
+          </extent>
+          <head>
+              <charseq START="4077" END="4089">Sierra Nevada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sierra Nevada">
+              <charseq START="4077" END="4089">Sierra Nevada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E37-M3207" ROLE="LOC">
+          <extent>
+              <charseq START="4097" END="4106">Lake Tahoe</charseq>
+          </extent>
+          <head>
+              <charseq START="4097" END="4106">Lake Tahoe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lake Tahoe">
+              <charseq START="4097" END="4106">Lake Tahoe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E38" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E38-M3305">
+          <extent>
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+          </extent>
+          <head>
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E38-M3303">
+          <extent>
+              <charseq START="4178" END="4239">the Rocky Mountains and northern Cascades of the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rocky Mountains">
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E39-M3307">
+          <extent>
+              <charseq START="4223" END="4239">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="4227" END="4239">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E39-M5403" ROLE="GPE">
+          <extent>
+              <charseq START="6602" END="6605">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="6602" END="6605">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E39-M5505" ROLE="GPE">
+          <extent>
+              <charseq START="6848" END="6855">American</charseq>
+          </extent>
+          <head>
+              <charseq START="6848" END="6855">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="4227" END="4239">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="6602" END="6605">U.S.</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="6848" END="6855">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E40" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E40-M3501">
+          <extent>
+              <charseq START="4293" END="4301">The world</charseq>
+          </extent>
+          <head>
+              <charseq START="4297" END="4301">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E40-M6106">
+          <extent>
+              <charseq START="7567" END="7575">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="7571" END="7575">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E41-M3709">
+          <extent>
+              <charseq START="4527" END="4541">several females</charseq>
+          </extent>
+          <head>
+              <charseq START="4535" END="4541">females</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E42-M3800">
+          <extent>
+              <charseq START="4608" END="4612">Adult</charseq>
+          </extent>
+          <head>
+              <charseq START="4608" END="4612">Adult</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E43-M3803">
+          <extent>
+              <charseq START="4683" END="4704">adults of the same sex</charseq>
+          </extent>
+          <head>
+              <charseq START="4683" END="4688">adults</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E44" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E44-M4002">
+          <extent>
+              <charseq START="4807" END="4823">large territories</charseq>
+          </extent>
+          <head>
+              <charseq START="4813" END="4823">territories</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E44-M4018">
+          <extent>
+              <charseq START="5019" END="5022">them</charseq>
+          </extent>
+          <head>
+              <charseq START="5019" END="5022">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E45-M4107">
+          <extent>
+              <charseq START="5173" END="5177">Latin</charseq>
+          </extent>
+          <head>
+              <charseq START="5173" END="5177">Latin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Latin">
+              <charseq START="5173" END="5177">Latin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E46-M4204" ROLE="LOC">
+          <extent>
+              <charseq START="5262" END="5268">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="5262" END="5268">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E46-M5214" ROLE="GPE">
+          <extent>
+              <charseq START="6456" END="6462">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="6456" END="6462">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swedish">
+              <charseq START="5262" END="5268">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="6456" END="6462">Swedish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E47-M4205">
+          <extent>
+              <charseq START="5271" END="5279">Fjellfräs</charseq>
+          </extent>
+          <head>
+              <charseq START="5271" END="5279">Fjellfräs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fjellfräs">
+              <charseq START="5271" END="5279">Fjellfräs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E48-M4213">
+          <extent>
+              <charseq START="5344" END="5387">Vielfraß, which means roughly &quot;devours much&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="5344" END="5351">Vielfraß</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E48-M4215">
+          <extent>
+              <charseq START="5354" END="5358">which</charseq>
+          </extent>
+          <head>
+              <charseq START="5354" END="5358">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E48-M4302">
+          <extent>
+              <charseq START="5390" END="5392">Its</charseq>
+          </extent>
+          <head>
+              <charseq START="5390" END="5392">Its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vielfraß">
+              <charseq START="5344" END="5351">Vielfraß</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E49-M4211">
+          <extent>
+              <charseq START="5334" END="5387">German as Vielfraß, which means roughly &quot;devours much&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="5334" END="5339">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E49-M4815">
+          <extent>
+              <charseq START="5928" END="5933">German</charseq>
+          </extent>
+          <head>
+              <charseq START="5928" END="5933">German</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E50" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E50-M4304">
+          <extent>
+              <charseq START="5408" END="5420">West Germanic</charseq>
+          </extent>
+          <head>
+              <charseq START="5408" END="5420">West Germanic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="West Germanic">
+              <charseq START="5408" END="5420">West Germanic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E51-M4400">
+          <extent>
+              <charseq START="5449" END="5464">Dutch Veelvraat)</charseq>
+          </extent>
+          <head>
+              <charseq START="5449" END="5463">Dutch Veelvraat</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dutch Veelvraat">
+              <charseq START="5449" END="5463">Dutch Veelvraat</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E52-M4501" ROLE="GPE">
+          <extent>
+              <charseq START="5471" END="5477">Finnish</charseq>
+          </extent>
+          <head>
+              <charseq START="5471" END="5477">Finnish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Finnish">
+              <charseq START="5471" END="5477">Finnish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E53" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E53-M4604" ROLE="LOC">
+          <extent>
+              <charseq START="5579" END="5584">Polish</charseq>
+          </extent>
+          <head>
+              <charseq START="5579" END="5584">Polish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Polish">
+              <charseq START="5579" END="5584">Polish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E54-M4606" ROLE="GPE">
+          <extent>
+              <charseq START="5590" END="5594">Czech</charseq>
+          </extent>
+          <head>
+              <charseq START="5590" END="5594">Czech</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Czech">
+              <charseq START="5590" END="5594">Czech</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E55-M4608">
+          <extent>
+              <charseq START="5635" END="5668">the Finnish rasva-maha (fat belly)</charseq>
+          </extent>
+          <head>
+              <charseq START="5639" END="5645">Finnish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E55-M4609">
+          <extent>
+              <charseq START="5635" END="5656">the Finnish rasva-maha</charseq>
+          </extent>
+          <head>
+              <charseq START="5639" END="5645">Finnish</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E56" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E56-M4701" ROLE="GPE">
+          <extent>
+              <charseq START="5686" END="5694">Hungarian</charseq>
+          </extent>
+          <head>
+              <charseq START="5686" END="5694">Hungarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hungarian">
+              <charseq START="5686" END="5694">Hungarian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E57" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E57-M4805" ROLE="LOC">
+          <extent>
+              <charseq START="5787" END="5793">Bosnian</charseq>
+          </extent>
+          <head>
+              <charseq START="5787" END="5793">Bosnian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bosnian">
+              <charseq START="5787" END="5793">Bosnian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E58" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E58-M4806" ROLE="LOC">
+          <extent>
+              <charseq START="5799" END="5806">Croatian</charseq>
+          </extent>
+          <head>
+              <charseq START="5799" END="5806">Croatian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Croatian">
+              <charseq START="5799" END="5806">Croatian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E59-M4809">
+          <extent>
+              <charseq START="5843" END="5849">Serbian</charseq>
+          </extent>
+          <head>
+              <charseq START="5843" END="5849">Serbian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E60" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E60-M4906">
+          <extent>
+              <charseq START="6012" END="6022">the Balkans</charseq>
+          </extent>
+          <head>
+              <charseq START="6016" END="6022">Balkans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Balkans">
+              <charseq START="6016" END="6022">Balkans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E61" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E61-M5004" ROLE="LOC">
+          <extent>
+              <charseq START="6173" END="6179">English</charseq>
+          </extent>
+          <head>
+              <charseq START="6173" END="6179">English</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="English">
+              <charseq START="6173" END="6179">English</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E62" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E62-M5007" ROLE="GPE">
+          <extent>
+              <charseq START="6194" END="6205">Scandinavian</charseq>
+          </extent>
+          <head>
+              <charseq START="6194" END="6205">Scandinavian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scandinavian">
+              <charseq START="6194" END="6205">Scandinavian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E63" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E63-M5208" ROLE="GPE">
+          <extent>
+              <charseq START="6397" END="6405">Icelandic</charseq>
+          </extent>
+          <head>
+              <charseq START="6397" END="6405">Icelandic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Icelandic">
+              <charseq START="6397" END="6405">Icelandic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E64" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E64-M5211" ROLE="GPE">
+          <extent>
+              <charseq START="6427" END="6435">Norwegian</charseq>
+          </extent>
+          <head>
+              <charseq START="6427" END="6435">Norwegian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norwegian">
+              <charseq START="6427" END="6435">Norwegian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E65" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E65-M5217" ROLE="GPE">
+          <extent>
+              <charseq START="6486" END="6491">Danish</charseq>
+          </extent>
+          <head>
+              <charseq START="6486" END="6491">Danish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Danish">
+              <charseq START="6486" END="6491">Danish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E66" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E66-M5302" ROLE="LOC">
+          <extent>
+              <charseq START="6516" END="6526">Many cities</charseq>
+          </extent>
+          <head>
+              <charseq START="6521" END="6526">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E67-M5303">
+          <extent>
+              <charseq START="6529" END="6533">teams</charseq>
+          </extent>
+          <head>
+              <charseq START="6529" END="6533">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E68" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E68-M5304">
+          <extent>
+              <charseq START="6536" END="6552">and organizations</charseq>
+          </extent>
+          <head>
+              <charseq START="6540" END="6552">organizations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E69" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E69-M5404" ROLE="GPE">
+          <extent>
+              <charseq START="6616" END="6623">Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="6616" END="6623">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E69-M5401">
+          <extent>
+              <charseq START="6598" END="6623">the U.S. state of Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="6607" END="6611">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E69-M5707" ROLE="LOC">
+          <extent>
+              <charseq START="7159" END="7166">Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="7159" END="7166">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E69-M5911" ROLE="LOC">
+          <extent>
+              <charseq START="7394" END="7401">Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="7394" END="7401">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michigan">
+              <charseq START="6616" END="6623">Michigan</charseq>
+          </name>
+          <name NAME="Michigan">
+              <charseq START="7159" END="7166">Michigan</charseq>
+          </name>
+          <name NAME="Michigan">
+              <charseq START="7394" END="7401">Michigan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E70" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E70-M5408">
+          <extent>
+              <charseq START="6679" END="6704">the University of Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="6683" END="6704">University of Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E70-M5412">
+          <extent>
+              <charseq START="6729" END="6731">its</charseq>
+          </extent>
+          <head>
+              <charseq START="6729" END="6731">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Michigan">
+              <charseq START="6683" END="6704">University of Michigan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E71" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E71-M5502">
+          <extent>
+              <charseq START="6800" END="6814">many Detroiters</charseq>
+          </extent>
+          <head>
+              <charseq START="6805" END="6814">Detroiters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E71-M5512">
+          <extent>
+              <charseq START="6933" END="6936">them</charseq>
+          </extent>
+          <head>
+              <charseq START="6933" END="6936">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroiters">
+              <charseq START="6805" END="6814">Detroiters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E72" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E72-M5507">
+          <extent>
+              <charseq START="6871" END="6924">George Armstrong Custer, who led the Michigan Brigade,</charseq>
+          </extent>
+          <head>
+              <charseq START="6871" END="6893">George Armstrong Custer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wolverine.sentences.sgm-E72-M5509">
+          <extent>
+              <charseq START="6896" END="6898">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6896" END="6898">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Armstrong Custer">
+              <charseq START="6871" END="6893">George Armstrong Custer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E73" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E73-M5510">
+          <extent>
+              <charseq START="6904" END="6923">the Michigan Brigade</charseq>
+          </extent>
+          <head>
+              <charseq START="6908" END="6923">Michigan Brigade</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michigan Brigade">
+              <charseq START="6908" END="6923">Michigan Brigade</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E74" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E74-M5610" ROLE="LOC">
+          <extent>
+              <charseq START="7054" END="7062">Sault Ste</charseq>
+          </extent>
+          <head>
+              <charseq START="7054" END="7062">Sault Ste</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sault Ste">
+              <charseq START="7054" END="7062">Sault Ste</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E75-M5700">
+          <extent>
+              <charseq START="7065" END="7069">Marie</charseq>
+          </extent>
+          <head>
+              <charseq START="7065" END="7069">Marie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marie">
+              <charseq START="7065" END="7069">Marie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E76-M5705">
+          <extent>
+              <charseq START="7141" END="7166">early settlers in Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="7147" END="7154">settlers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E77" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E77-M5904" ROLE="LOC">
+          <extent>
+              <charseq START="7323" END="7326">Ubly</charseq>
+          </extent>
+          <head>
+              <charseq START="7323" END="7326">Ubly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ubly">
+              <charseq START="7323" END="7326">Ubly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E78" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E78-M5903">
+          <extent>
+              <charseq START="7307" END="7316">biologists</charseq>
+          </extent>
+          <head>
+              <charseq START="7307" END="7316">biologists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E79" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E79-M6005" ROLE="GPE">
+          <extent>
+              <charseq START="7475" END="7478">Innu</charseq>
+          </extent>
+          <head>
+              <charseq START="7475" END="7478">Innu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E79-M6101" ROLE="GPE">
+          <extent>
+              <charseq START="7535" END="7538">Innu</charseq>
+          </extent>
+          <head>
+              <charseq START="7535" END="7538">Innu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Innu">
+              <charseq START="7475" END="7478">Innu</charseq>
+          </name>
+          <name NAME="Innu">
+              <charseq START="7535" END="7538">Innu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E80" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E80-M6007" ROLE="GPE">
+          <extent>
+              <charseq START="7498" END="7503">Québec</charseq>
+          </extent>
+          <head>
+              <charseq START="7498" END="7503">Québec</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Québec">
+              <charseq START="7498" END="7503">Québec</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E81" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E81-M6008" ROLE="GPE">
+          <extent>
+              <charseq START="7509" END="7516">Labrador</charseq>
+          </extent>
+          <head>
+              <charseq START="7509" END="7516">Labrador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Labrador">
+              <charseq START="7509" END="7516">Labrador</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E82-M6003">
+          <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+          </extent>
+          <head>
+              <charseq START="7480" END="7485">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wolverine.sentences.sgm-E82-M6104">
+          <extent>
+              <charseq START="7552" END="7575">the creator of the world</charseq>
+          </extent>
+          <head>
+              <charseq START="7556" END="7562">creator</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wolverine.sentences.sgm-E83" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wolverine.sentences.sgm-E83-M6205">
+          <extent>
+              <charseq START="7643" END="7697">Europe: Wolverine: scientific articles about wolverines</charseq>
+          </extent>
+          <head>
+              <charseq START="7643" END="7648">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Europe">
+              <charseq START="7643" END="7648">Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Wolverine.sentences.sgm-T0">
+        <timex2_mention ID="Wolverine.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1154" END="1154">7</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T1" VAL="XXXX-WI">
+        <timex2_mention ID="Wolverine.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1979" END="1984">winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T2" VAL="XXXX-SU">
+        <timex2_mention ID="Wolverine.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="3010" END="3019">the summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T3" VAL="XXXX-WI" MOD="START">
+        <timex2_mention ID="Wolverine.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="3107" END="3118">early winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T4" VAL="P50D">
+        <timex2_mention ID="Wolverine.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="3250" END="3259">30-50 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T5" VAL="XXXX-SP">
+        <timex2_mention ID="Wolverine.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="3323" END="3332">the spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T6" VAL="P1Y">
+        <timex2_mention ID="Wolverine.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="3384" END="3397">the first year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T7" VAL="P13Y">
+        <timex2_mention ID="Wolverine.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="3479" END="3492">thirteen years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T8" VAL="2008">
+        <timex2_mention ID="Wolverine.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="4018" END="4021">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T9" VAL="2009">
+        <timex2_mention ID="Wolverine.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="4027" END="4030">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T10" VAL="1922">
+        <timex2_mention ID="Wolverine.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="4134" END="4137">1922</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T11" VAL="PXM">
+        <timex2_mention ID="Wolverine.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="4772" END="4783">a few months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T12" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Wolverine.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4988" END="4993">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T13" VAL="17">
+        <timex2_mention ID="Wolverine.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="7074" END="7089">the 18th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T14" VAL="2004-02">
+        <timex2_mention ID="Wolverine.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="7277" END="7289">February 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wolverine.sentences.sgm-T15" VAL="P200Y">
+        <timex2_mention ID="Wolverine.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="7406" END="7414">200 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Wolverine.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E15" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R0-M1600">
+          <extent>
+              <charseq START="2115" END="2142">their North American cousins</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E16-M1606" ROLE="Arg-1">
+            <extent>
+              <charseq START="2115" END="2142">their North American cousins</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E15-M1608" ROLE="Arg-2">
+            <extent>
+              <charseq START="2121" END="2134">North American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E35" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R1-M3100">
+          <extent>
+              <charseq START="3878" END="3883">Alaska</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E27-M3111" ROLE="Arg-1">
+            <extent>
+              <charseq START="3878" END="3883">Alaska</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E35-M3106" ROLE="Arg-2">
+            <extent>
+              <charseq START="3860" END="4012">alpine regions of Alaska, northern Canada, Siberia and Scandinavia; they are also native to Russia, the Baltic countries, and Northern China and Mongolia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E31" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R2-M3101">
+          <extent>
+              <charseq START="3860" END="4012">alpine regions of Alaska, northern Canada, Siberia and Scandinavia; they are also native to Russia, the Baltic countries, and Northern China and Mongolia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E35-M3106" ROLE="Arg-1">
+            <extent>
+              <charseq START="3860" END="4012">alpine regions of Alaska, northern Canada, Siberia and Scandinavia; they are also native to Russia, the Baltic countries, and Northern China and Mongolia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E31-M3118" ROLE="Arg-2">
+            <extent>
+              <charseq START="3960" END="3979">the Baltic countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E32" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R3-M3103">
+          <extent>
+              <charseq START="3960" END="3979">the Baltic countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E31-M3118" ROLE="Arg-1">
+            <extent>
+              <charseq START="3960" END="3979">the Baltic countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E32-M3121" ROLE="Arg-2">
+            <extent>
+              <charseq START="3986" END="3999">Northern China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E39" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R4-M3300">
+          <extent>
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E38-M3305" ROLE="Arg-1">
+            <extent>
+              <charseq START="4182" END="4196">Rocky Mountains</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E39-M3307" ROLE="Arg-2">
+            <extent>
+              <charseq START="4223" END="4239">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E76" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E69" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R5-M5700">
+          <extent>
+              <charseq START="7141" END="7166">early settlers in Michigan</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E76-M5705" ROLE="Arg-1">
+            <extent>
+              <charseq START="7141" END="7166">early settlers in Michigan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E69-M5707" ROLE="Arg-2">
+            <extent>
+              <charseq START="7159" END="7166">Michigan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E77" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R6-M5900">
+          <extent>
+              <charseq START="7295" END="7301">hunters</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E10-M5902" ROLE="Arg-1">
+            <extent>
+              <charseq START="7295" END="7301">hunters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E77-M5904" ROLE="Arg-2">
+            <extent>
+              <charseq START="7323" END="7326">Ubly</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R7" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E78" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E77" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R7-M5901">
+          <extent>
+              <charseq START="7307" END="7316">biologists</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E78-M5903" ROLE="Arg-1">
+            <extent>
+              <charseq START="7307" END="7316">biologists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E77-M5904" ROLE="Arg-2">
+            <extent>
+              <charseq START="7323" END="7326">Ubly</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E82" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E79" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R8-M6000">
+          <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E82-M6003" ROLE="Arg-1">
+            <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E79-M6005" ROLE="Arg-2">
+            <extent>
+              <charseq START="7475" END="7478">Innu</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E82" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E80" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R9-M6001">
+          <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E82-M6003" ROLE="Arg-1">
+            <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E80-M6007" ROLE="Arg-2">
+            <extent>
+              <charseq START="7498" END="7503">Québec</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wolverine.sentences.sgm-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wolverine.sentences.sgm-E82" ROLE="Arg-1"/>
+      <relation_argument REFID="Wolverine.sentences.sgm-E81" ROLE="Arg-2"/>
+        <relation_mention ID="Wolverine.sentences.sgm-R10-M6002">
+          <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E82-M6003" ROLE="Arg-1">
+            <extent>
+              <charseq START="7471" END="7516">the Innu people of eastern Québec and Labrador</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wolverine.sentences.sgm-E81-M6008" ROLE="Arg-2">
+            <extent>
+              <charseq START="7509" END="7516">Labrador</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Wolverine.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV0-M1501">
+          <extent>
+              <charseq START="1899" END="1902">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1899" END="1902">kill</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV1-M1700">
+          <extent>
+              <charseq START="2329" END="2332">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2329" END="2332">kill</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV2-M2000">
+          <extent>
+              <charseq START="2629" END="2633">kills</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2629" END="2633">kills</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV3-M2900">
+          <extent>
+              <charseq START="3564" END="3571">conflict</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3564" END="3571">conflict</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV4-M2901">
+          <extent>
+              <charseq START="3590" END="3595">killed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3590" END="3595">killed</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Wolverine.sentences.sgm-EV5-M4000">
+          <extent>
+              <charseq START="4848" END="4855">conflict</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4848" END="4855">conflict</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Wolverine.sentences.sgm-E71" ROLE="Attacker"/>
+      <event_mention ID="Wolverine.sentences.sgm-EV6-M5500">
+          <extent>
+              <charseq START="6831" END="6835">fight</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6831" END="6835">fight</charseq>
+          </anchor>
+        <event_mention_argument REFID="Wolverine.sentences.sgm-E71-M5502" ROLE="Attacker">
+          <extent>
+              <charseq START="6800" END="6814">many Detroiters</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Wolverine.sentences.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Wolverine.sentences.sgm-E39" ROLE="Attacker"/>
+      <event_mention ID="Wolverine.sentences.sgm-EV7-M5501">
+          <extent>
+              <charseq START="6863" END="6865">War</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6863" END="6865">War</charseq>
+          </anchor>
+        <event_mention_argument REFID="Wolverine.sentences.sgm-E39-M5505" ROLE="Attacker">
+          <extent>
+              <charseq START="6848" END="6855">American</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

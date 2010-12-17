@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Simple_Explanation.sentences.sgm">
+  <document DOCID="Simple_Explanation.sentences.sgm">
+
+    <entity ID="Simple_Explanation.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E0-M7">
+          <extent>
+              <charseq START="104" END="108">House</charseq>
+          </extent>
+          <head>
+              <charseq START="104" END="108">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E0-M502">
+          <extent>
+              <charseq START="616" END="620">House</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="620">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="House">
+              <charseq START="104" END="108">House</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="616" END="620">House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E1-M203">
+          <extent>
+              <charseq START="184" END="191">Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="191">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E1-M206">
+          <extent>
+              <charseq START="216" END="259">his character unexpectedly committed suicide</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="228">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E1-M208">
+          <extent>
+              <charseq START="216" END="218">his</charseq>
+          </extent>
+          <head>
+              <charseq START="216" END="218">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E1-M807">
+          <extent>
+              <charseq START="877" END="890">actor Kal Penn</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="890">Kal Penn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E1-M808">
+          <extent>
+              <charseq START="877" END="881">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="881">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E1-M1107">
+          <extent>
+              <charseq START="1499" END="1541">a major character for no discernible reason</charseq>
+          </extent>
+          <head>
+              <charseq START="1507" END="1515">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kal Penn">
+              <charseq START="184" END="191">Kal Penn</charseq>
+          </name>
+          <name NAME="Kal Penn">
+              <charseq START="883" END="890">Kal Penn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M204">
+          <extent>
+              <charseq START="196" END="211">Lawrence Kutner,</charseq>
+          </extent>
+          <head>
+              <charseq START="196" END="210">Lawrence Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M500">
+          <extent>
+              <charseq START="578" END="583">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="583">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M602">
+          <extent>
+              <charseq START="693" END="698">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="693" END="698">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M704">
+          <extent>
+              <charseq START="809" END="814">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="809" END="814">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M802">
+          <extent>
+              <charseq START="825" END="830">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="825" END="830">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M804">
+          <extent>
+              <charseq START="840" END="845">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="845">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E2-M812">
+          <extent>
+              <charseq START="929" END="946">Associate Director</charseq>
+          </extent>
+          <head>
+              <charseq START="939" END="946">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M1001">
+          <extent>
+              <charseq START="1215" END="1220">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="1215" END="1220">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E2-M1414">
+          <extent>
+              <charseq START="1952" END="1957">Kutner</charseq>
+          </extent>
+          <head>
+              <charseq START="1952" END="1957">Kutner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lawrence Kutner">
+              <charseq START="196" END="210">Lawrence Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="578" END="583">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="693" END="698">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="809" END="814">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="825" END="830">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="840" END="845">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="1215" END="1220">Kutner</charseq>
+          </name>
+          <name NAME="Kutner">
+              <charseq START="1952" END="1957">Kutner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="342" END="365">Eddie Novack (Meat Loaf)</charseq>
+          </extent>
+          <head>
+              <charseq START="342" END="353">Eddie Novack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E3-M305">
+          <extent>
+              <charseq START="375" END="377">his</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="377">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E3-M308">
+          <extent>
+              <charseq START="389" END="391">his</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="391">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E3-M403">
+          <extent>
+              <charseq START="489" END="493">Eddie</charseq>
+          </extent>
+          <head>
+              <charseq START="489" END="493">Eddie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E3-M406">
+          <extent>
+              <charseq START="513" END="514">he</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="514">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E3-M409">
+          <extent>
+              <charseq START="544" END="545">he</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="545">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eddie Novack">
+              <charseq START="342" END="353">Eddie Novack</charseq>
+          </name>
+          <name NAME="Eddie">
+              <charseq START="489" END="493">Eddie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E4-M303">
+          <extent>
+              <charseq START="356" END="364">Meat Loaf</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="364">Meat Loaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E4-M400">
+          <extent>
+              <charseq START="446" END="453">The team</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="453">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E4-M700">
+          <extent>
+              <charseq START="734" END="741">The team</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="741">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Meat Loaf">
+              <charseq START="356" END="364">Meat Loaf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E5-M309">
+          <extent>
+              <charseq START="398" END="406">Charlotte</charseq>
+          </extent>
+          <head>
+              <charseq START="398" END="406">Charlotte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E5-M402">
+          <extent>
+              <charseq START="461" END="469">Charlotte</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="469">Charlotte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E5-M405">
+          <extent>
+              <charseq START="500" END="502">her</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="502">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E5-M412">
+          <extent>
+              <charseq START="552" END="554">her</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="554">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E5-M701">
+          <extent>
+              <charseq START="765" END="773">Charlotte</charseq>
+          </extent>
+          <head>
+              <charseq START="765" END="773">Charlotte</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlotte">
+              <charseq START="398" END="406">Charlotte</charseq>
+          </name>
+          <name NAME="Charlotte">
+              <charseq START="461" END="469">Charlotte</charseq>
+          </name>
+          <name NAME="Charlotte">
+              <charseq START="765" END="773">Charlotte</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E6-M306">
+          <extent>
+              <charseq START="389" END="406">his wife Charlotte</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="396">wife</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E7" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E7-M404">
+          <extent>
+              <charseq START="500" END="507">her room</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="507">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E8-M505">
+          <extent>
+              <charseq START="646" END="652">Foreman</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="652">Foreman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreman">
+              <charseq START="646" END="652">Foreman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E9-M504">
+          <extent>
+              <charseq START="633" END="640">Thirteen</charseq>
+          </extent>
+          <head>
+              <charseq START="633" END="640">Thirteen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E9-M507">
+          <extent>
+              <charseq START="663" END="665">his</charseq>
+          </extent>
+          <head>
+              <charseq START="663" END="665">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E9-M600">
+          <extent>
+              <charseq START="678" END="685">Thirteen</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="685">Thirteen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E9-M603">
+          <extent>
+              <charseq START="708" END="709">he</charseq>
+          </extent>
+          <head>
+              <charseq START="708" END="709">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E10" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E10-M506">
+          <extent>
+              <charseq START="663" END="675">his apartment</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="675">apartment</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E11-M814">
+          <extent>
+              <charseq START="951" END="1025">the White House Office of Public Liaison in the Barack Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="955" END="990">White House Office of Public Liaison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E11-M817">
+          <extent>
+              <charseq START="995" END="1025">the Barack Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1012" END="1025">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House Office of Public Liaison">
+              <charseq START="955" END="990">White House Office of Public Liaison</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E12-M818">
+          <extent>
+              <charseq START="999" END="1010">Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="999" END="1010">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="999" END="1010">Barack Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E13-M905">
+          <extent>
+              <charseq START="1099" END="1101">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1101">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox">
+              <charseq START="1099" END="1101">Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E14-M1002">
+          <extent>
+              <charseq START="1248" END="1263">The Star-Ledger,</charseq>
+          </extent>
+          <head>
+              <charseq START="1252" END="1262">Star-Ledger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Star-Ledger">
+              <charseq START="1252" END="1262">Star-Ledger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E15-M1005">
+          <extent>
+              <charseq START="1270" END="1293">columnist Alan Sepinwall</charseq>
+          </extent>
+          <head>
+              <charseq START="1280" END="1293">Alan Sepinwall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Simple_Explanation.sentences.sgm-E15-M1006">
+          <extent>
+              <charseq START="1270" END="1278">columnist</charseq>
+          </extent>
+          <head>
+              <charseq START="1270" END="1278">columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alan Sepinwall">
+              <charseq START="1280" END="1293">Alan Sepinwall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E16-M1100">
+          <extent>
+              <charseq START="1396" END="1409">The A. V. Club</charseq>
+          </extent>
+          <head>
+              <charseq START="1400" END="1409">A. V. Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Simple_Explanation.sentences.sgm-E16-M1104">
+          <extent>
+              <charseq START="1435" END="1437">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1437">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="A. V. Club">
+              <charseq START="1400" END="1409">A. V. Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E17-M1200">
+          <extent>
+              <charseq START="1581" END="1600">Entertainment Weekly</charseq>
+          </extent>
+          <head>
+              <charseq START="1581" END="1600">Entertainment Weekly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Entertainment Weekly">
+              <charseq START="1581" END="1600">Entertainment Weekly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E18-M1304">
+          <extent>
+              <charseq START="1793" END="1801">Pete Yorn</charseq>
+          </extent>
+          <head>
+              <charseq START="1793" END="1801">Pete Yorn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pete Yorn">
+              <charseq START="1793" END="1801">Pete Yorn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Simple_Explanation.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Simple_Explanation.sentences.sgm-E20-M1407">
+          <extent>
+              <charseq START="1872" END="1895">House M.D.
+Guide
+Medical</charseq>
+          </extent>
+          <head>
+              <charseq START="1872" END="1895">House M.D.
+Guide
+Medical</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="House M.D.
+Guide
+Medical">
+              <charseq START="1872" END="1895">House M.D.
+Guide
+Medical</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Simple_Explanation.sentences.sgm-T0" VAL="2009-04-06">
+        <timex2_mention ID="Simple_Explanation.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="129" END="141">April 6, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Simple_Explanation.sentences.sgm-R0" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Simple_Explanation.sentences.sgm-R0-M300">
+          <extent>
+              <charseq START="389" END="391">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E3-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="389" END="391">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E6-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="389" END="406">his wife Charlotte</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Simple_Explanation.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Simple_Explanation.sentences.sgm-R1-M400">
+          <extent>
+              <charseq START="489" END="493">Eddie</charseq>
+          </extent>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E3-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="489" END="493">Eddie</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E7-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="500" END="507">her room</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Simple_Explanation.sentences.sgm-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Simple_Explanation.sentences.sgm-R2-M401">
+          <extent>
+              <charseq START="500" END="502">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E5-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="500" END="502">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E7-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="500" END="507">her room</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Simple_Explanation.sentences.sgm-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Simple_Explanation.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Simple_Explanation.sentences.sgm-R3-M500">
+          <extent>
+              <charseq START="663" END="665">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E9-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="663" END="665">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Simple_Explanation.sentences.sgm-E10-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="663" END="675">his apartment</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Simple_Explanation.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Simple_Explanation.sentences.sgm-E9" ROLE="Victim"/>
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV0-M600">
+          <extent>
+              <charseq START="715" END="723">committed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="715" END="723">committed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Simple_Explanation.sentences.sgm-E9-M603" ROLE="Victim">
+          <extent>
+              <charseq START="708" END="709">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Simple_Explanation.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Simple_Explanation.sentences.sgm-E2" ROLE="Victim"/>
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV1-M701">
+          <extent>
+              <charseq START="818" END="822">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="818" END="822">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Simple_Explanation.sentences.sgm-E2-M704" ROLE="Victim">
+          <extent>
+              <charseq START="809" END="814">Kutner</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV1-M801">
+          <extent>
+              <charseq START="834" END="838">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="834" END="838">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Simple_Explanation.sentences.sgm-E2-M802" ROLE="Victim">
+          <extent>
+              <charseq START="825" END="830">Kutner</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV1-M1001">
+          <extent>
+              <charseq START="1224" END="1228">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1224" END="1228">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Simple_Explanation.sentences.sgm-E2-M1001" ROLE="Victim">
+          <extent>
+              <charseq START="1215" END="1220">Kutner</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Simple_Explanation.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV2-M1002">
+          <extent>
+              <charseq START="1312" END="1316">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1312" END="1316">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Simple_Explanation.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Simple_Explanation.sentences.sgm-E1" ROLE="Victim"/>
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV3-M1101">
+          <extent>
+              <charseq START="1490" END="1494">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1490" END="1494">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Simple_Explanation.sentences.sgm-E1-M1107" ROLE="Victim">
+          <extent>
+              <charseq START="1499" END="1541">a major character for no discernible reason</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Simple_Explanation.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Simple_Explanation.sentences.sgm-EV4-M1200">
+          <extent>
+              <charseq START="1639" END="1643">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1639" END="1643">death</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

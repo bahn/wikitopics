@@ -1,0 +1,2703 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Andrei_Arshavin.sentences.sgm">
+  <document DOCID="Andrei_Arshavin.sentences.sgm">
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="32" END="58">Andrei Sergeyevich Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="32" END="58">Andrei Sergeyevich Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="247" END="254">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="254">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M101">
+          <extent>
+              <charseq START="259" END="340">a versatile second striker who can also play as an attacking midfielder and winger</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="284">striker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M105">
+          <extent>
+              <charseq START="307" END="329">an attacking midfielder</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="329">midfielder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M103">
+          <extent>
+              <charseq START="286" END="288">who</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="288">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="343" END="344">He</charseq>
+          </extent>
+          <head>
+              <charseq START="343" END="344">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="421" END="446">Club career
+Zenit
+Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="446">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M303">
+          <extent>
+              <charseq START="433" END="437">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="437">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M410">
+          <extent>
+              <charseq START="574" END="578">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="578">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="494" END="495">he</charseq>
+          </extent>
+          <head>
+              <charseq START="494" END="495">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M406">
+          <extent>
+              <charseq START="560" END="561">he</charseq>
+          </extent>
+          <head>
+              <charseq START="560" END="561">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M501">
+          <extent>
+              <charseq START="635" END="636">he</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="636">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M507">
+          <extent>
+              <charseq START="689" END="691">his</charseq>
+          </extent>
+          <head>
+              <charseq START="689" END="691">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M606">
+          <extent>
+              <charseq START="856" END="878">an attacking midfielder</charseq>
+          </extent>
+          <head>
+              <charseq START="869" END="878">midfielder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M609">
+          <extent>
+              <charseq START="900" END="917">the second striker</charseq>
+          </extent>
+          <head>
+              <charseq START="911" END="917">striker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M612">
+          <extent>
+              <charseq START="955" END="966">a target man</charseq>
+          </extent>
+          <head>
+              <charseq START="964" END="966">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M600">
+          <extent>
+              <charseq START="771" END="772">He</charseq>
+          </extent>
+          <head>
+              <charseq START="771" END="772">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M704">
+          <extent>
+              <charseq START="1013" END="1080">the player of the season largely because of his ability to play well</charseq>
+          </extent>
+          <head>
+              <charseq START="1017" END="1022">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M713">
+          <extent>
+              <charseq START="1112" END="1120">a striker</charseq>
+          </extent>
+          <head>
+              <charseq START="1114" END="1120">striker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="969" END="970">He</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="970">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M709">
+          <extent>
+              <charseq START="1057" END="1059">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1059">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M803">
+          <extent>
+              <charseq START="1165" END="1172">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1172">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M805">
+          <extent>
+              <charseq START="1181" END="1183">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1181" END="1183">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1002">
+          <extent>
+              <charseq START="1409" END="1457">a key player during Zenit&apos;s 2008 UEFA Cup triumph</charseq>
+          </extent>
+          <head>
+              <charseq START="1415" END="1420">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1005">
+          <extent>
+              <charseq START="1429" END="1433">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="1429" END="1433">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1009">
+          <extent>
+              <charseq START="1473" END="1488">Man of the Match</charseq>
+          </extent>
+          <head>
+              <charseq START="1473" END="1475">Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1402" END="1403">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1402" END="1403">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1101">
+          <extent>
+              <charseq START="1521" END="1528">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="1521" END="1528">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1202">
+          <extent>
+              <charseq START="1639" END="1646">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="1639" END="1646">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1208">
+          <extent>
+              <charseq START="1713" END="1715">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1713" END="1715">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1307">
+          <extent>
+              <charseq START="1812" END="1842">the player turned down by Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="1816" END="1821">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1309">
+          <extent>
+              <charseq START="1838" END="1842">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="1838" END="1842">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1406">
+          <extent>
+              <charseq START="1907" END="1911">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="1907" END="1911">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1510">
+          <extent>
+              <charseq START="2050" END="2135">both Arshavin, who said the 2008 season was definitely going to be his last with Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="2055" END="2062">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1502">
+          <extent>
+              <charseq START="1934" END="1938">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1938">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1503">
+          <extent>
+              <charseq START="1967" END="2024">the player for anything less than the initial asking price</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1976">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1512">
+          <extent>
+              <charseq START="2065" END="2067">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2065" END="2067">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1516">
+          <extent>
+              <charseq START="2117" END="2119">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2117" END="2119">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1520">
+          <extent>
+              <charseq START="2142" END="2144">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2142" END="2144">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1604">
+          <extent>
+              <charseq START="2271" END="2278">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="2271" END="2278">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1705">
+          <extent>
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1814">
+          <extent>
+              <charseq START="2678" END="2682">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="2678" END="2682">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1801">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2523" END="2524">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M1907">
+          <extent>
+              <charseq START="2770" END="2785">Arshavin himself</charseq>
+          </extent>
+          <head>
+              <charseq START="2770" END="2777">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M1911">
+          <extent>
+              <charseq START="2790" END="2794">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="2790" END="2794">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M1901">
+          <extent>
+              <charseq START="2699" END="2700">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2699" END="2700">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M2210">
+          <extent>
+              <charseq START="3322" END="3336">Andrei Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="3322" END="3336">Andrei Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M2202">
+          <extent>
+              <charseq START="3235" END="3239">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="3235" END="3239">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M2204">
+          <extent>
+              <charseq START="3274" END="3278">Zenit</charseq>
+          </extent>
+          <head>
+              <charseq START="3274" END="3278">Zenit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M2211">
+          <extent>
+              <charseq START="3356" END="3387">an English Premier League player</charseq>
+          </extent>
+          <head>
+              <charseq START="3382" END="3387">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2300">
+          <extent>
+              <charseq START="3390" END="3391">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3390" END="3391">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2400">
+          <extent>
+              <charseq START="3459" END="3460">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3460">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2405">
+          <extent>
+              <charseq START="3511" END="3512">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3511" END="3512">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M2500">
+          <extent>
+              <charseq START="3577" END="3605">International career
+Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="3598" END="3605">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M2502">
+          <extent>
+              <charseq START="3591" END="3596">career</charseq>
+          </extent>
+          <head>
+              <charseq START="3591" END="3596">career</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2602">
+          <extent>
+              <charseq START="3688" END="3690">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3688" END="3690">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2609">
+          <extent>
+              <charseq START="3789" END="3790">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3789" END="3790">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2700">
+          <extent>
+              <charseq START="3868" END="3869">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3868" END="3869">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="3934" END="3956">UEFA Euro 2008
+Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="3949" END="3956">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2900">
+          <extent>
+              <charseq START="4103" END="4104">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4103" END="4104">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2904">
+          <extent>
+              <charseq START="4116" END="4118">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4116" END="4118">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M2915">
+          <extent>
+              <charseq START="4262" END="4264">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4262" END="4264">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M3005">
+          <extent>
+              <charseq START="4361" END="4368">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="4361" END="4368">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M3009">
+          <extent>
+              <charseq START="4393" END="4395">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4393" END="4395">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M3020">
+          <extent>
+              <charseq START="4518" END="4520">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4518" END="4520">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E0-M3206">
+          <extent>
+              <charseq START="4652" END="4667">Man of the Match</charseq>
+          </extent>
+          <head>
+              <charseq START="4652" END="4654">Man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E0-M3204">
+          <extent>
+              <charseq START="4648" END="4650">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4648" END="4650">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M3300">
+          <extent>
+              <charseq START="4670" END="4677">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="4670" END="4677">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M3401">
+          <extent>
+              <charseq START="4795" END="4802">Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="4795" END="4802">Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M3748">
+          <extent>
+              <charseq START="5221" END="5235">Andrei Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="5221" END="5235">Andrei Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E0-M3802">
+          <extent>
+              <charseq START="5291" END="5305">Andrei Arshavin</charseq>
+          </extent>
+          <head>
+              <charseq START="5291" END="5305">Andrei Arshavin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrei Sergeyevich Arshavin">
+              <charseq START="32" END="58">Andrei Sergeyevich Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="247" END="254">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="439" END="446">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="1165" END="1172">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="1521" END="1528">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="1639" END="1646">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="2055" END="2062">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="2271" END="2278">Arshavin</charseq>
+          </name>
+          <name NAME="Andrei Arshavin">
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="2770" END="2777">Arshavin</charseq>
+          </name>
+          <name NAME="Andrei Arshavin">
+              <charseq START="3322" END="3336">Andrei Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="3598" END="3605">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="3949" END="3956">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="4361" END="4368">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="4670" END="4677">Arshavin</charseq>
+          </name>
+          <name NAME="Arshavin">
+              <charseq START="4795" END="4802">Arshavin</charseq>
+          </name>
+          <name NAME="Andrei Arshavin">
+              <charseq START="5221" END="5235">Andrei Arshavin</charseq>
+          </name>
+          <name NAME="Andrei Arshavin">
+              <charseq START="5291" END="5305">Andrei Arshavin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E1-M7" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="137">Leningrad</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="137">Leningrad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leningrad">
+              <charseq START="129" END="137">Leningrad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M10" ROLE="GPE">
+          <extent>
+              <charseq START="145" END="151">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="151">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M205" ROLE="GPE">
+          <extent>
+              <charseq START="379" END="384">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="384">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M1804" ROLE="LOC">
+          <extent>
+              <charseq START="2580" END="2585">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="2580" END="2585">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M2506" ROLE="GPE">
+          <extent>
+              <charseq START="3623" END="3629">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="3623" END="3629">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M2614">
+          <extent>
+              <charseq START="3840" END="3845">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="3840" END="3845">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M2704">
+          <extent>
+              <charseq START="3875" END="3880">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="3875" END="3880">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M2806">
+          <extent>
+              <charseq START="3974" END="3979">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="3974" END="3979">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M2908">
+          <extent>
+              <charseq START="4182" END="4187">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="4182" END="4187">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3011">
+          <extent>
+              <charseq START="4405" END="4410">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="4405" END="4410">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3100" ROLE="LOC">
+          <extent>
+              <charseq START="4546" END="4551">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="4546" END="4551">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3307">
+          <extent>
+              <charseq START="4764" END="4769">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="4764" END="4769">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3601">
+          <extent>
+              <charseq START="4890" END="4895">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="4890" END="4895">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3714">
+          <extent>
+              <charseq START="5001" END="5007">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="5001" END="5007">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3720">
+          <extent>
+              <charseq START="5034" END="5040">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="5034" END="5040">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3733">
+          <extent>
+              <charseq START="5108" END="5114">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="5108" END="5114">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E2-M3747" ROLE="GPE">
+          <extent>
+              <charseq START="5221" END="5250">Andrei Arshavin
+Profile
+Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="5245" END="5250">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E2-M3749">
+          <extent>
+              <charseq START="5237" END="5243">Profile</charseq>
+          </extent>
+          <head>
+              <charseq START="5237" END="5243">Profile</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russian">
+              <charseq START="145" END="151">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="379" END="384">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="2580" END="2585">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="3623" END="3629">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="3840" END="3845">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="3875" END="3880">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="3974" END="3979">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="4182" END="4187">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="4405" END="4410">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="4546" END="4551">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="4764" END="4769">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="4890" END="4895">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="5001" END="5007">Russian</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="5034" END="5040">Russian</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="5108" END="5114">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="5245" END="5250">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M12">
+          <extent>
+              <charseq START="208" END="244">Arsenal of the English Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="214">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M204">
+          <extent>
+              <charseq START="375" END="407">the Russia national football team</charseq>
+          </extent>
+          <head>
+              <charseq START="404" END="407">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M503">
+          <extent>
+              <charseq START="654" END="679">the Zenit first-team squad</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="679">squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M1600">
+          <extent>
+              <charseq START="2223" END="2229">Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="2223" END="2229">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M1605">
+          <extent>
+              <charseq START="2308" END="2334">Premier League club Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="2328" END="2334">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M1607">
+          <extent>
+              <charseq START="2323" END="2326">club</charseq>
+          </extent>
+          <head>
+              <charseq START="2323" END="2326">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M1711">
+          <extent>
+              <charseq START="2482" END="2488">Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="2482" END="2488">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M1813">
+          <extent>
+              <charseq START="2654" END="2660">Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="2654" END="2660">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M2110">
+          <extent>
+              <charseq START="3157" END="3163">Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="3157" END="3163">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E3-M2409">
+          <extent>
+              <charseq START="3546" END="3552">Arsenal</charseq>
+          </extent>
+          <head>
+              <charseq START="3546" END="3552">Arsenal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M2504">
+          <extent>
+              <charseq START="3619" END="3658">the Russian national team on 17 May 2002</charseq>
+          </extent>
+          <head>
+              <charseq START="3640" END="3643">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M2603">
+          <extent>
+              <charseq START="3708" END="3716">the squad</charseq>
+          </extent>
+          <head>
+              <charseq START="3712" END="3716">squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M2914">
+          <extent>
+              <charseq START="4262" END="4269">his team</charseq>
+          </extent>
+          <head>
+              <charseq START="4266" END="4269">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M3402">
+          <extent>
+              <charseq START="4817" END="4842">UEFA&apos;s squad for Euro 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="4824" END="4828">squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E3-M3702">
+          <extent>
+              <charseq START="4935" END="5288">Honours
+Club
+FC Zenit St. Petersburg
+Russian Premier League: 2007
+Russian Premier League Cup: 2003
+Russian Super Cup: 2008
+UEFA Cup: 2007/08
+UEFA Super Cup: 2008
+Individual
+Russian Footballer of the Year: 2006
+Euro 2008 Team of the tournament
+References
+External links
+Official Site of Andrei Arshavin
+Profile
+Russia - Record International Players, RSSSF</charseq>
+          </extent>
+          <head>
+              <charseq START="4943" END="4946">Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arsenal">
+              <charseq START="208" END="214">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="2223" END="2229">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="2328" END="2334">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="2482" END="2488">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="2654" END="2660">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="3157" END="3163">Arsenal</charseq>
+          </name>
+          <name NAME="Arsenal">
+              <charseq START="3546" END="3552">Arsenal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E4-M14">
+          <extent>
+              <charseq START="219" END="244">the English Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="244">English Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E4-M1606">
+          <extent>
+              <charseq START="2308" END="2321">Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="2308" END="2321">Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E4-M2006">
+          <extent>
+              <charseq START="2910" END="2927">the Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="2914" END="2927">Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E4-M2009">
+          <extent>
+              <charseq START="2972" END="2981">the league</charseq>
+          </extent>
+          <head>
+              <charseq START="2976" END="2981">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E4-M2212">
+          <extent>
+              <charseq START="3359" END="3380">English Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="3359" END="3380">English Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E4-M2403">
+          <extent>
+              <charseq START="3482" END="3509">the 2008–09 Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="3494" END="3509">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="English Premier League">
+              <charseq START="223" END="244">English Premier League</charseq>
+          </name>
+          <name NAME="Premier League">
+              <charseq START="2308" END="2321">Premier League</charseq>
+          </name>
+          <name NAME="Premier League">
+              <charseq START="2914" END="2927">Premier League</charseq>
+          </name>
+          <name NAME="English Premier League">
+              <charseq START="3359" END="3380">English Premier League</charseq>
+          </name>
+          <name NAME="Champions League">
+              <charseq START="3494" END="3509">Champions League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E5-M106">
+          <extent>
+              <charseq START="335" END="340">winger</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="340">winger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E5-M711">
+          <extent>
+              <charseq START="1085" END="1092">a winger</charseq>
+          </extent>
+          <head>
+              <charseq START="1087" END="1092">winger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E5-M712">
+          <extent>
+              <charseq START="1095" END="1103">playmaker</charseq>
+          </extent>
+          <head>
+              <charseq START="1095" END="1103">playmaker</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E6-M306">
+          <extent>
+              <charseq START="463" END="467">Smena</charseq>
+          </extent>
+          <head>
+              <charseq START="463" END="467">Smena</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Smena">
+              <charseq START="463" END="467">Smena</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E7-M305">
+          <extent>
+              <charseq START="463" END="483">Smena football school</charseq>
+          </extent>
+          <head>
+              <charseq START="478" END="483">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E8-M403">
+          <extent>
+              <charseq START="504" END="528">FC Zenit Saint Petersburg</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="528">FC Zenit Saint Petersburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FC Zenit Saint Petersburg">
+              <charseq START="504" END="528">FC Zenit Saint Petersburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E9-M415">
+          <extent>
+              <charseq START="605" END="623">the Second Division</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="623">Second Division</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Second Division">
+              <charseq START="609" END="623">Second Division</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E10-M409">
+          <extent>
+              <charseq START="574" END="590">Zenit&apos;s farm club</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="590">club</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E11-M510">
+          <extent>
+              <charseq START="722" END="728">English</charseq>
+          </extent>
+          <head>
+              <charseq START="722" END="728">English</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E11-M1706" ROLE="LOC">
+          <extent>
+              <charseq START="2406" END="2412">England</charseq>
+          </extent>
+          <head>
+              <charseq START="2406" END="2412">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E11-M2003" ROLE="LOC">
+          <extent>
+              <charseq START="2884" END="2890">England</charseq>
+          </extent>
+          <head>
+              <charseq START="2884" END="2890">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E11-M3803" ROLE="LOC">
+          <extent>
+              <charseq START="5315" END="5321">English</charseq>
+          </extent>
+          <head>
+              <charseq START="5315" END="5321">English</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="English">
+              <charseq START="722" END="728">English</charseq>
+          </name>
+          <name NAME="England">
+              <charseq START="2406" END="2412">England</charseq>
+          </name>
+          <name NAME="England">
+              <charseq START="2884" END="2890">England</charseq>
+          </name>
+          <name NAME="English">
+              <charseq START="5315" END="5321">English</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E12-M511">
+          <extent>
+              <charseq START="735" END="747">Bradford City</charseq>
+          </extent>
+          <head>
+              <charseq START="735" END="747">Bradford City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bradford City">
+              <charseq START="735" END="747">Bradford City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E13-M604">
+          <extent>
+              <charseq START="805" END="813">the field</charseq>
+          </extent>
+          <head>
+              <charseq START="809" END="813">field</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E14-M605">
+          <extent>
+              <charseq START="828" END="845">a right midfielder</charseq>
+          </extent>
+          <head>
+              <charseq START="836" END="845">midfielder</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E15-M702">
+          <extent>
+              <charseq START="976" END="1007">the Russian Premier League Award</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="1007">Russian Premier League Award</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E15-M802">
+          <extent>
+              <charseq START="1135" END="1156">Russian Premier League</charseq>
+          </extent>
+          <head>
+              <charseq START="1135" END="1156">Russian Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E15-M3705">
+          <extent>
+              <charseq START="4948" END="5288">FC Zenit St. Petersburg
+Russian Premier League: 2007
+Russian Premier League Cup: 2003
+Russian Super Cup: 2008
+UEFA Cup: 2007/08
+UEFA Super Cup: 2008
+Individual
+Russian Footballer of the Year: 2006
+Euro 2008 Team of the tournament
+References
+External links
+Official Site of Andrei Arshavin
+Profile
+Russia - Record International Players, RSSSF</charseq>
+          </extent>
+          <head>
+              <charseq START="4972" END="4993">Russian Premier League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russian Premier League Award">
+              <charseq START="980" END="1007">Russian Premier League Award</charseq>
+          </name>
+          <name NAME="Russian Premier League">
+              <charseq START="1135" END="1156">Russian Premier League</charseq>
+          </name>
+          <name NAME="Russian Premier League">
+              <charseq START="4972" END="4993">Russian Premier League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E16-M806">
+          <extent>
+              <charseq START="1185" END="1203">Zenit St Petersburg</charseq>
+          </extent>
+          <head>
+              <charseq START="1185" END="1203">Zenit St Petersburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zenit St Petersburg">
+              <charseq START="1185" END="1203">Zenit St Petersburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E17-M906">
+          <extent>
+              <charseq START="1359" END="1391">the now defunct Soviet Top League</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1391">Top League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E17-M904">
+          <extent>
+              <charseq START="1314" END="1321">the club</charseq>
+          </extent>
+          <head>
+              <charseq START="1318" END="1321">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E17-M1525">
+          <extent>
+              <charseq START="2181" END="2188">the club</charseq>
+          </extent>
+          <head>
+              <charseq START="2185" END="2188">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Top League">
+              <charseq START="1382" END="1391">Top League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E18-M907">
+          <extent>
+              <charseq START="1375" END="1380">Soviet</charseq>
+          </extent>
+          <head>
+              <charseq START="1375" END="1380">Soviet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Soviet">
+              <charseq START="1375" END="1380">Soviet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E19-M1107">
+          <extent>
+              <charseq START="1614" END="1636">compatriot Yuri Zhirkov</charseq>
+          </extent>
+          <head>
+              <charseq START="1625" END="1636">Yuri Zhirkov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E19-M1108">
+          <extent>
+              <charseq START="1614" END="1623">compatriot</charseq>
+          </extent>
+          <head>
+              <charseq START="1614" END="1623">compatriot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yuri Zhirkov">
+              <charseq START="1625" END="1636">Yuri Zhirkov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E20-M1105">
+          <extent>
+              <charseq START="1594" END="1636">29 others including compatriot Yuri Zhirkov</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1602">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E21-M1207" ROLE="GPE">
+          <extent>
+              <charseq START="1683" END="1690">European</charseq>
+          </extent>
+          <head>
+              <charseq START="1683" END="1690">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E21-M1213" ROLE="GPE">
+          <extent>
+              <charseq START="1745" END="1752">European</charseq>
+          </extent>
+          <head>
+              <charseq START="1745" END="1752">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="1683" END="1690">European</charseq>
+          </name>
+          <name NAME="European">
+              <charseq START="1745" END="1752">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E22-M1212">
+          <extent>
+              <charseq START="1737" END="1758">several European clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="1754" END="1758">clubs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E23-M1301">
+          <extent>
+              <charseq START="1774" END="1785">FC Barcelona</charseq>
+          </extent>
+          <head>
+              <charseq START="1777" END="1785">Barcelona</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E23-M1302">
+          <extent>
+              <charseq START="1774" END="1775">FC</charseq>
+          </extent>
+          <head>
+              <charseq START="1774" END="1775">FC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E23-M1306">
+          <extent>
+              <charseq START="1791" END="1795">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1791" END="1795">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barcelona">
+              <charseq START="1777" END="1785">Barcelona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E24-M1402">
+          <extent>
+              <charseq START="1845" END="1853">Tottenham</charseq>
+          </extent>
+          <head>
+              <charseq START="1845" END="1853">Tottenham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tottenham">
+              <charseq START="1845" END="1853">Tottenham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E25-M1403">
+          <extent>
+              <charseq START="1857" END="1857">£</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1857">£</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="£">
+              <charseq START="1857" END="1857">£</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E26-M1518">
+          <extent>
+              <charseq START="2142" END="2220">his agent Dennis Lachter who described the club&apos;s transfer policy as &quot;barbaric&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2152" END="2165">Dennis Lachter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E26-M1521">
+          <extent>
+              <charseq START="2146" END="2150">agent</charseq>
+          </extent>
+          <head>
+              <charseq START="2146" END="2150">agent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E26-M1523">
+          <extent>
+              <charseq START="2167" END="2169">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2167" END="2169">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dennis Lachter">
+              <charseq START="2152" END="2165">Dennis Lachter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E27-M1708" ROLE="GPE">
+          <extent>
+              <charseq START="2435" END="2447">Hertfordshire</charseq>
+          </extent>
+          <head>
+              <charseq START="2435" END="2447">Hertfordshire</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hertfordshire">
+              <charseq START="2435" END="2447">Hertfordshire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E28-M1707">
+          <extent>
+              <charseq START="2433" END="2453">a Hertfordshire hotel</charseq>
+          </extent>
+          <head>
+              <charseq START="2449" END="2453">hotel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E28-M1803">
+          <extent>
+              <charseq START="2531" END="2539">the hotel</charseq>
+          </extent>
+          <head>
+              <charseq START="2535" END="2539">hotel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E29-M2307">
+          <extent>
+              <charseq START="3437" END="3448">Sol Campbell</charseq>
+          </extent>
+          <head>
+              <charseq START="3437" END="3448">Sol Campbell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sol Campbell">
+              <charseq START="3437" END="3448">Sol Campbell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E30-M2510">
+          <extent>
+              <charseq START="3679" END="3685">Belarus</charseq>
+          </extent>
+          <head>
+              <charseq START="3679" END="3685">Belarus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belarus">
+              <charseq START="3679" END="3685">Belarus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E31-M2604" ROLE="LOC">
+          <extent>
+              <charseq START="3726" END="3756">a friendly match versus Romania</charseq>
+          </extent>
+          <head>
+              <charseq START="3750" END="3756">Romania</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E31-M2606">
+          <extent>
+              <charseq START="3743" END="3748">versus</charseq>
+          </extent>
+          <head>
+              <charseq START="3743" END="3748">versus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Romania">
+              <charseq START="3750" END="3756">Romania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E32-M2708">
+          <extent>
+              <charseq START="3925" END="3931">Estonia</charseq>
+          </extent>
+          <head>
+              <charseq START="3925" END="3931">Estonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Estonia">
+              <charseq START="3925" END="3931">Estonia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E33-M2702">
+          <extent>
+              <charseq START="3875" END="3931">Russia&apos;s captain in a Euro 2008 qualifier against Estonia</charseq>
+          </extent>
+          <head>
+              <charseq START="3884" END="3890">captain</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E34-M2809">
+          <extent>
+              <charseq START="4002" END="4021">manager Guus Hiddink</charseq>
+          </extent>
+          <head>
+              <charseq START="4010" END="4021">Guus Hiddink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E34-M2810">
+          <extent>
+              <charseq START="4002" END="4008">manager</charseq>
+          </extent>
+          <head>
+              <charseq START="4002" END="4008">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guus Hiddink">
+              <charseq START="4010" END="4021">Guus Hiddink</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E35-M2805">
+          <extent>
+              <charseq START="3974" END="3997">Russia&apos;s Euro 2008 squad</charseq>
+          </extent>
+          <head>
+              <charseq START="3993" END="3997">squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E35-M2813">
+          <extent>
+              <charseq START="4070" END="4074">group</charseq>
+          </extent>
+          <head>
+              <charseq START="4070" END="4074">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E36-M2909">
+          <extent>
+              <charseq START="4216" END="4221">Sweden</charseq>
+          </extent>
+          <head>
+              <charseq START="4216" END="4221">Sweden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sweden">
+              <charseq START="4216" END="4221">Sweden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E37-M2910" ROLE="LOC">
+          <extent>
+              <charseq START="4226" END="4296">Tivoli Neu, Innsbruck, which helped his team qualify for the next round</charseq>
+          </extent>
+          <head>
+              <charseq START="4226" END="4235">Tivoli Neu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E37-M2913">
+          <extent>
+              <charseq START="4249" END="4253">which</charseq>
+          </extent>
+          <head>
+              <charseq START="4249" END="4253">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tivoli Neu">
+              <charseq START="4226" END="4235">Tivoli Neu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E38-M2912">
+          <extent>
+              <charseq START="4238" END="4246">Innsbruck</charseq>
+          </extent>
+          <head>
+              <charseq START="4238" END="4246">Innsbruck</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Innsbruck">
+              <charseq START="4238" END="4246">Innsbruck</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E39-M3003">
+          <extent>
+              <charseq START="4344" END="4358">the Netherlands</charseq>
+          </extent>
+          <head>
+              <charseq START="4348" END="4358">Netherlands</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Netherlands">
+              <charseq START="4348" END="4358">Netherlands</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E40-M3018">
+          <extent>
+              <charseq START="4482" END="4497">Dmitri Torbinski</charseq>
+          </extent>
+          <head>
+              <charseq START="4482" END="4497">Dmitri Torbinski</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dmitri Torbinski">
+              <charseq START="4482" END="4497">Dmitri Torbinski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E41-M3203">
+          <extent>
+              <charseq START="4635" END="4638">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="4635" END="4638">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E41-M3404">
+          <extent>
+              <charseq START="4817" END="4820">UEFA</charseq>
+          </extent>
+          <head>
+              <charseq START="4817" END="4820">UEFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UEFA">
+              <charseq START="4635" END="4638">UEFA</charseq>
+          </name>
+          <name NAME="UEFA">
+              <charseq START="4817" END="4820">UEFA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E42-M3302" ROLE="LOC">
+          <extent>
+              <charseq START="4711" END="4778">the semi-final against eventual winners Spain, which Russia lost 3–0</charseq>
+          </extent>
+          <head>
+              <charseq START="4751" END="4755">Spain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Andrei_Arshavin.sentences.sgm-E42-M3306">
+          <extent>
+              <charseq START="4758" END="4762">which</charseq>
+          </extent>
+          <head>
+              <charseq START="4758" END="4762">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spain">
+              <charseq START="4751" END="4755">Spain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E43-M3304">
+          <extent>
+              <charseq START="4734" END="4749">eventual winners</charseq>
+          </extent>
+          <head>
+              <charseq START="4743" END="4749">winners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Andrei_Arshavin.sentences.sgm-E44-M3710">
+          <extent>
+              <charseq START="4957" END="4970">St. Petersburg</charseq>
+          </extent>
+          <head>
+              <charseq START="4957" END="4970">St. Petersburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Petersburg">
+              <charseq START="4957" END="4970">St. Petersburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E45-M3729">
+          <extent>
+              <charseq START="5092" END="5137">2008
+Individual
+Russian Footballer of the Year</charseq>
+          </extent>
+          <head>
+              <charseq START="5116" END="5125">Footballer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Andrei_Arshavin.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Andrei_Arshavin.sentences.sgm-E46-M3752">
+          <extent>
+              <charseq START="5254" END="5281">Record International Players</charseq>
+          </extent>
+          <head>
+              <charseq START="5275" END="5281">Players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T0" VAL="1981-05">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="117" END="124">May 1981</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="188" END="196">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T2" VAL="2002">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="415" END="418">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T3" VAL="1999">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="489" END="492">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T4" VAL="2000" MOD="START">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="549" END="558">early 2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T5" VAL="2000">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="629" END="632">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T6" VAL="2007">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1126" END="1133">the 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T7" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1363" END="1365">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T8" VAL="1984">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1396" END="1399">1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T9" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1437" END="1440">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T10" VAL="2008-10">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1507" END="1518">October 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T11" VAL="2008-06">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1764" END="1772">June 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T12">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1798" END="1800">15m</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T13" VAL="XXXX-08">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1871" END="1876">August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T14" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2078" END="2081">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T15" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2121" END="2124">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T16" VAL="2009-01">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2242" END="2253">January 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T17" VAL="XXXX-02-02">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2340" END="2372">2 February, transfer deadline day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T18" VAL="T10:00">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2510" END="2520">around 10am</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T19" VAL="T17:00">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3013" END="3015">5pm</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T20" VAL="XXXX-02-02">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3020" END="3029">2 February</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T21" VAL="P1D">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3065" END="3081">the following day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T22" VAL="XXXX-02-03" MOD="AFTER">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3084" END="3129">3 February, nearly 24 hours after the transfer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T23" VAL="P1D">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3222" END="3233">the same day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T24" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3424" END="3427">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T25" VAL="2002-05-17">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="3648" END="3658">17 May 2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T26" VAL="2003-02-13">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="3761" END="3776">13 February 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T27" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="3902" END="3905">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T28" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="3944" END="3947">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T29" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="3988" END="3991">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T30" VAL="XXXX-H2">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="4427" END="4455">the second half of extra time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T31" VAL="PT4M">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="4526" END="4543">four minutes later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T32" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="4839" END="4842">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T33" VAL="2007">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="4996" END="4999">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T34" VAL="2003">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="5029" END="5032">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T35" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="5053" END="5056">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T36" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="5092" END="5095">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T37" VAL="2006">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="5140" END="5143">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Andrei_Arshavin.sentences.sgm-T38" VAL="2008">
+        <timex2_mention ID="Andrei_Arshavin.sentences.sgm-T38-M1">
+            <extent>
+              <charseq START="5150" END="5153">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R0-M200">
+          <extent>
+              <charseq START="375" END="407">the Russia national football team</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E3-M204" ROLE="Arg-1">
+            <extent>
+              <charseq START="375" END="407">the Russia national football team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="379" END="384">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R0-M2500">
+          <extent>
+              <charseq START="3619" END="3658">the Russian national team on 17 May 2002</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E3-M2504" ROLE="Arg-1">
+            <extent>
+              <charseq START="3619" END="3658">the Russian national team on 17 May 2002</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M2506" ROLE="Arg-2">
+            <extent>
+              <charseq START="3623" END="3629">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R1" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R1-M300">
+          <extent>
+              <charseq START="421" END="446">Club career
+Zenit
+Arshavin</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="421" END="446">Club career
+Zenit
+Arshavin</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E7-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="463" END="483">Smena football school</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R2-M400">
+          <extent>
+              <charseq START="560" END="561">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="560" END="561">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E10-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="574" END="590">Zenit&apos;s farm club</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R3-M1200">
+          <extent>
+              <charseq START="1737" END="1758">several European clubs</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E22-M1212" ROLE="Arg-1">
+            <extent>
+              <charseq START="1737" END="1758">several European clubs</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E21-M1213" ROLE="Arg-2">
+            <extent>
+              <charseq START="1745" END="1752">European</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R4" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R4-M1500">
+          <extent>
+              <charseq START="2142" END="2144">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1520" ROLE="Arg-1">
+            <extent>
+              <charseq START="2142" END="2144">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E26-M1521" ROLE="Arg-2">
+            <extent>
+              <charseq START="2146" END="2150">agent</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R5-M1600">
+          <extent>
+              <charseq START="2323" END="2326">club</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E3-M1607" ROLE="Arg-1">
+            <extent>
+              <charseq START="2323" END="2326">club</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E4-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2308" END="2321">Premier League</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R6-M1700">
+          <extent>
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1705" ROLE="Arg-1">
+            <extent>
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E28-M1707" ROLE="Arg-2">
+            <extent>
+              <charseq START="2433" END="2453">a Hertfordshire hotel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R7-M1701">
+          <extent>
+              <charseq START="2433" END="2453">a Hertfordshire hotel</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E28-M1707" ROLE="Arg-1">
+            <extent>
+              <charseq START="2433" END="2453">a Hertfordshire hotel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E27-M1708" ROLE="Arg-2">
+            <extent>
+              <charseq START="2435" END="2447">Hertfordshire</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R8-M1800">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1801" ROLE="Arg-1">
+            <extent>
+              <charseq START="2523" END="2524">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E28-M1803" ROLE="Arg-2">
+            <extent>
+              <charseq START="2531" END="2539">the hotel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R9-M1801">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1801" ROLE="Arg-1">
+            <extent>
+              <charseq START="2523" END="2524">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M1804" ROLE="Arg-2">
+            <extent>
+              <charseq START="2580" END="2585">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R10-M2200">
+          <extent>
+              <charseq START="3356" END="3387">an English Premier League player</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M2211" ROLE="Arg-1">
+            <extent>
+              <charseq START="3356" END="3387">an English Premier League player</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E4-M2212" ROLE="Arg-2">
+            <extent>
+              <charseq START="3359" END="3380">English Premier League</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R11-M2700">
+          <extent>
+              <charseq START="3875" END="3931">Russia&apos;s captain in a Euro 2008 qualifier against Estonia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E33-M2702" ROLE="Arg-1">
+            <extent>
+              <charseq START="3875" END="3931">Russia&apos;s captain in a Euro 2008 qualifier against Estonia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M2704" ROLE="Arg-2">
+            <extent>
+              <charseq START="3875" END="3880">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R12-M2800">
+          <extent>
+              <charseq START="3974" END="3997">Russia&apos;s Euro 2008 squad</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E35-M2805" ROLE="Arg-1">
+            <extent>
+              <charseq START="3974" END="3997">Russia&apos;s Euro 2008 squad</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M2806" ROLE="Arg-2">
+            <extent>
+              <charseq START="3974" END="3979">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E38" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R13-M2900">
+          <extent>
+              <charseq START="4226" END="4296">Tivoli Neu, Innsbruck, which helped his team qualify for the next round</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E37-M2910" ROLE="Arg-1">
+            <extent>
+              <charseq START="4226" END="4296">Tivoli Neu, Innsbruck, which helped his team qualify for the next round</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E38-M2912" ROLE="Arg-2">
+            <extent>
+              <charseq START="4238" END="4246">Innsbruck</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R14-M2901">
+          <extent>
+              <charseq START="4262" END="4264">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M2915" ROLE="Arg-1">
+            <extent>
+              <charseq START="4262" END="4264">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E3-M2914" ROLE="Arg-2">
+            <extent>
+              <charseq START="4262" END="4269">his team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R15" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R15-M3400">
+          <extent>
+              <charseq START="4817" END="4842">UEFA&apos;s squad for Euro 2008</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E3-M3402" ROLE="Arg-1">
+            <extent>
+              <charseq START="4817" END="4842">UEFA&apos;s squad for Euro 2008</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E41-M3404" ROLE="Arg-2">
+            <extent>
+              <charseq START="4817" END="4820">UEFA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R16" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R16-M3700">
+          <extent>
+              <charseq START="5092" END="5137">2008
+Individual
+Russian Footballer of the Year</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E45-M3729" ROLE="Arg-1">
+            <extent>
+              <charseq START="5092" END="5137">2008
+Individual
+Russian Footballer of the Year</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M3733" ROLE="Arg-2">
+            <extent>
+              <charseq START="5108" END="5114">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Andrei_Arshavin.sentences.sgm-R17" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Andrei_Arshavin.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="Andrei_Arshavin.sentences.sgm-R17-M3800">
+          <extent>
+              <charseq START="5291" END="5305">Andrei Arshavin</charseq>
+          </extent>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M3802" ROLE="Arg-1">
+            <extent>
+              <charseq START="5291" END="5305">Andrei Arshavin</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E11-M3803" ROLE="Arg-2">
+            <extent>
+              <charseq START="5315" END="5321">English</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Andrei_Arshavin.sentences.sgm-EV0" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-T3" ROLE="Time-Within"/>
+      <event_mention ID="Andrei_Arshavin.sentences.sgm-EV0-M400">
+          <extent>
+              <charseq START="497" END="502">joined</charseq>
+          </extent>
+          <anchor>
+              <charseq START="497" END="502">joined</charseq>
+          </anchor>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E8-M403" ROLE="Entity">
+          <extent>
+              <charseq START="504" END="528">FC Zenit Saint Petersburg</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M401" ROLE="Person">
+          <extent>
+              <charseq START="494" END="495">he</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-T3-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="489" END="492">1999</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Andrei_Arshavin.sentences.sgm-EV1" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Person"/>
+      <event_mention ID="Andrei_Arshavin.sentences.sgm-EV1-M1500">
+          <extent>
+              <charseq START="1959" END="1965">release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1959" END="1965">release</charseq>
+          </anchor>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1503" ROLE="Person">
+          <extent>
+              <charseq START="1967" END="2024">the player for anything less than the initial asking price</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Andrei_Arshavin.sentences.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E11" ROLE="Destination"/>
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_mention ID="Andrei_Arshavin.sentences.sgm-EV2-M1701">
+          <extent>
+              <charseq START="2395" END="2399">flown</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2395" END="2399">flown</charseq>
+          </anchor>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E11-M1706" ROLE="Destination">
+          <extent>
+              <charseq START="2406" END="2412">England</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1705" ROLE="Artifact">
+          <extent>
+              <charseq START="2375" END="2389">Andrei Arshavin</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Andrei_Arshavin.sentences.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E28" ROLE="Origin"/>
+      <event_mention ID="Andrei_Arshavin.sentences.sgm-EV3-M1800">
+          <extent>
+              <charseq START="2526" END="2529">left</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2526" END="2529">left</charseq>
+          </anchor>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1801" ROLE="Artifact">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E28-M1803" ROLE="Origin">
+          <extent>
+              <charseq START="2531" END="2539">the hotel</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Andrei_Arshavin.sentences.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E2" ROLE="Destination"/>
+      <event_argument REFID="Andrei_Arshavin.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_mention ID="Andrei_Arshavin.sentences.sgm-EV4-M1802">
+          <extent>
+              <charseq START="2564" END="2570">heading</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2564" END="2570">heading</charseq>
+          </anchor>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E2-M1804" ROLE="Destination">
+          <extent>
+              <charseq START="2580" END="2585">Russia</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Andrei_Arshavin.sentences.sgm-E0-M1801" ROLE="Artifact">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

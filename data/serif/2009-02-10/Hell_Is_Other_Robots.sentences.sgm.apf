@@ -1,0 +1,3143 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Hell_Is_Other_Robots.sentences.sgm">
+  <document DOCID="Hell_Is_Other_Robots.sentences.sgm">
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E0-M102" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="141">North America</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="141">North America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North America">
+              <charseq START="129" END="141">North America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E1-M201">
+          <extent>
+              <charseq START="229" END="239">Eric Kaplan</charseq>
+          </extent>
+          <head>
+              <charseq START="229" END="239">Eric Kaplan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E1-M3804">
+          <extent>
+              <charseq START="4148" END="4158">Eric Kaplan</charseq>
+          </extent>
+          <head>
+              <charseq START="4148" END="4158">Eric Kaplan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E1-M4107">
+          <extent>
+              <charseq START="4596" END="4606">Eric Kaplan</charseq>
+          </extent>
+          <head>
+              <charseq START="4596" END="4606">Eric Kaplan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E1-M4500">
+          <extent>
+              <charseq START="5196" END="5201">Kaplan</charseq>
+          </extent>
+          <head>
+              <charseq START="5196" END="5201">Kaplan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eric Kaplan">
+              <charseq START="229" END="239">Eric Kaplan</charseq>
+          </name>
+          <name NAME="Eric Kaplan">
+              <charseq START="4148" END="4158">Eric Kaplan</charseq>
+          </name>
+          <name NAME="Eric Kaplan">
+              <charseq START="4596" END="4606">Eric Kaplan</charseq>
+          </name>
+          <name NAME="Kaplan">
+              <charseq START="5196" END="5201">Kaplan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E2-M202">
+          <extent>
+              <charseq START="257" END="266">Rich Moore</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="266">Rich Moore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rich Moore">
+              <charseq START="257" END="266">Rich Moore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M303">
+          <extent>
+              <charseq START="305" END="320">the Beastie Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="309" END="320">Beastie Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M1002">
+          <extent>
+              <charseq START="1129" END="1140">Beastie Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="1129" END="1140">Beastie Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M1100">
+          <extent>
+              <charseq START="1206" END="1214">the party</charseq>
+          </extent>
+          <head>
+              <charseq START="1210" END="1214">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3105">
+          <extent>
+              <charseq START="3393" END="3408">the Beastie Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="3397" END="3408">Beastie Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3108">
+          <extent>
+              <charseq START="3414" END="3418">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3414" END="3418">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3203">
+          <extent>
+              <charseq START="3453" END="3468">the Beastie Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="3457" END="3468">Beastie Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3200">
+          <extent>
+              <charseq START="3426" END="3429">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3426" END="3429">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3205">
+          <extent>
+              <charseq START="3486" END="3489">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3486" END="3489">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3500">
+          <extent>
+              <charseq START="3813" END="3828">The Beastie Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="3817" END="3828">Beastie Boys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3504">
+          <extent>
+              <charseq START="3838" END="3842">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3838" END="3842">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3516">
+          <extent>
+              <charseq START="3924" END="3928">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3924" END="3928">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3602">
+          <extent>
+              <charseq START="3982" END="3985">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3982" END="3985">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M3609">
+          <extent>
+              <charseq START="4022" END="4025">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4022" END="4025">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E3-M4302">
+          <extent>
+              <charseq START="4930" END="4939">the studio</charseq>
+          </extent>
+          <head>
+              <charseq START="4934" END="4939">studio</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beastie Boys">
+              <charseq START="309" END="320">Beastie Boys</charseq>
+          </name>
+          <name NAME="Beastie Boys">
+              <charseq START="1129" END="1140">Beastie Boys</charseq>
+          </name>
+          <name NAME="Beastie Boys">
+              <charseq START="3397" END="3408">Beastie Boys</charseq>
+          </name>
+          <name NAME="Beastie Boys">
+              <charseq START="3457" END="3468">Beastie Boys</charseq>
+          </name>
+          <name NAME="Beastie Boys">
+              <charseq START="3817" END="3828">Beastie Boys</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E4-M308">
+          <extent>
+              <charseq START="340" END="355">Dan Castellaneta</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="355">Dan Castellaneta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E4-M6702">
+          <extent>
+              <charseq START="8369" END="8384">Dan Castellaneta</charseq>
+          </extent>
+          <head>
+              <charseq START="8369" END="8384">Dan Castellaneta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E4-M6709">
+          <extent>
+              <charseq START="8440" END="8448">The Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="8444" END="8448">Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Castellaneta">
+              <charseq START="340" END="355">Dan Castellaneta</charseq>
+          </name>
+          <name NAME="Dan Castellaneta">
+              <charseq START="8369" END="8384">Dan Castellaneta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M309">
+          <extent>
+              <charseq START="365" END="379">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="379">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M616">
+          <extent>
+              <charseq START="697" END="711">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="711">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M803">
+          <extent>
+              <charseq START="817" END="827">Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="817" END="827">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2002">
+          <extent>
+              <charseq START="2139" END="2153">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2143" END="2153">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2101">
+          <extent>
+              <charseq START="2192" END="2202">Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2202">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2401">
+          <extent>
+              <charseq START="2518" END="2532">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2522" END="2532">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2504">
+          <extent>
+              <charseq START="2634" END="2648">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2638" END="2648">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2600">
+          <extent>
+              <charseq START="2670" END="2684">The Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2674" END="2684">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2602">
+          <extent>
+              <charseq START="2692" END="2695">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2692" END="2695">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2707">
+          <extent>
+              <charseq START="2886" END="2900">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2890" END="2900">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2805">
+          <extent>
+              <charseq START="2958" END="2972">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="2962" END="2972">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M2903">
+          <extent>
+              <charseq START="3144" END="3158">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="3148" END="3158">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M4808">
+          <extent>
+              <charseq START="5582" END="5596">The Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="5586" END="5596">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M5200">
+          <extent>
+              <charseq START="6145" END="6159">The Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="6149" END="6159">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M5307">
+          <extent>
+              <charseq START="6311" END="6325">the Robot Devil</charseq>
+          </extent>
+          <head>
+              <charseq START="6315" END="6325">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E5-M6703">
+          <extent>
+              <charseq START="8403" END="8477">the Robot Devil in this episode and &quot;The Devil&apos;s Hands are Idle Playthings&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="8407" END="8417">Robot Devil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robot Devil">
+              <charseq START="369" END="379">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="701" END="711">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="817" END="827">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2143" END="2153">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2192" END="2202">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2522" END="2532">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2638" END="2648">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2674" END="2684">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2890" END="2900">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="2962" END="2972">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="3148" END="3158">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="5586" END="5596">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="6149" END="6159">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="6315" END="6325">Robot Devil</charseq>
+          </name>
+          <name NAME="Robot Devil">
+              <charseq START="8407" END="8417">Robot Devil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E6-M300">
+          <extent>
+              <charseq START="269" END="295">Guest stars in this episode</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="279">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M405">
+          <extent>
+              <charseq START="434" END="439">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="439">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M501">
+          <extent>
+              <charseq START="457" END="458">he</charseq>
+          </extent>
+          <head>
+              <charseq START="457" END="458">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M601">
+          <extent>
+              <charseq START="539" END="544">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="539" END="544">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M608">
+          <extent>
+              <charseq START="608" END="613">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="608" END="613">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M612">
+          <extent>
+              <charseq START="645" END="646">he</charseq>
+          </extent>
+          <head>
+              <charseq START="645" END="646">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1003">
+          <extent>
+              <charseq START="1151" END="1156">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1151" END="1156">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1008">
+          <extent>
+              <charseq START="1195" END="1200">Fender</charseq>
+          </extent>
+          <head>
+              <charseq START="1195" END="1200">Fender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1006">
+          <extent>
+              <charseq START="1179" END="1192">his old friend</charseq>
+          </extent>
+          <head>
+              <charseq START="1187" END="1192">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1007">
+          <extent>
+              <charseq START="1179" END="1181">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1181">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1102">
+          <extent>
+              <charseq START="1216" END="1221">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1216" END="1221">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1105">
+          <extent>
+              <charseq START="1283" END="1288">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1283" END="1288">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1202">
+          <extent>
+              <charseq START="1380" END="1385">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1380" END="1385">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1203">
+          <extent>
+              <charseq START="1396" END="1397">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1396" END="1397">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1300">
+          <extent>
+              <charseq START="1436" END="1437">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1436" END="1437">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1309">
+          <extent>
+              <charseq START="1536" END="1537">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1537">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1410">
+          <extent>
+              <charseq START="1638" END="1643">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1638" END="1643">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1400">
+          <extent>
+              <charseq START="1560" END="1562">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1560" END="1562">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1500">
+          <extent>
+              <charseq START="1656" END="1661">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1656" END="1661">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1510">
+          <extent>
+              <charseq START="1747" END="1760">the old Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="1755" END="1760">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1502">
+          <extent>
+              <charseq START="1679" END="1681">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1679" END="1681">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1504">
+          <extent>
+              <charseq START="1698" END="1700">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1700">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1605">
+          <extent>
+              <charseq START="1810" END="1834">tempt Bender with alcohol</charseq>
+          </extent>
+          <head>
+              <charseq START="1816" END="1821">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1607">
+          <extent>
+              <charseq START="1810" END="1814">tempt</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1814">tempt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1700">
+          <extent>
+              <charseq START="1877" END="1878">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1877" END="1878">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1801">
+          <extent>
+              <charseq START="2018" END="2023">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2018" END="2023">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1805">
+          <extent>
+              <charseq START="2054" END="2056">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2054" END="2056">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M1900">
+          <extent>
+              <charseq START="2075" END="2076">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2075" END="2076">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2000">
+          <extent>
+              <charseq START="2121" END="2122">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2122">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2100">
+          <extent>
+              <charseq START="2188" END="2217">The Robot Devil reminds Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2212" END="2217">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2103">
+          <extent>
+              <charseq START="2219" END="2220">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2219" END="2220">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2105">
+          <extent>
+              <charseq START="2261" END="2262">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2261" END="2262">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2200">
+          <extent>
+              <charseq START="2301" END="2306">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2301" END="2306">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2204">
+          <extent>
+              <charseq START="2340" END="2342">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2340" END="2342">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2404">
+          <extent>
+              <charseq START="2551" END="2556">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2551" END="2556">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2507">
+          <extent>
+              <charseq START="2653" END="2658">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2653" END="2658">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2607">
+          <extent>
+              <charseq START="2727" END="2732">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2727" END="2732">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2608">
+          <extent>
+              <charseq START="2752" END="2754">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2752" END="2754">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2803">
+          <extent>
+              <charseq START="2946" END="2951">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2946" END="2951">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2807">
+          <extent>
+              <charseq START="2986" END="2991">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="2986" END="2991">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M2814">
+          <extent>
+              <charseq START="3055" END="3057">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3055" END="3057">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M3000">
+          <extent>
+              <charseq START="3204" END="3209">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="3204" END="3209">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M3001">
+          <extent>
+              <charseq START="3270" END="3271">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3270" END="3271">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M3908">
+          <extent>
+              <charseq START="4319" END="4324">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="4319" END="4324">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M3902">
+          <extent>
+              <charseq START="4250" END="4252">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4250" END="4252">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M4202">
+          <extent>
+              <charseq START="4760" END="4765">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="4760" END="4765">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M4217">
+          <extent>
+              <charseq START="4897" END="4913">a human character</charseq>
+          </extent>
+          <head>
+              <charseq START="4905" END="4913">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M4909">
+          <extent>
+              <charseq START="5785" END="5790">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="5785" END="5790">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5111">
+          <extent>
+              <charseq START="6053" END="6058">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="6053" END="6058">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5204">
+          <extent>
+              <charseq START="6181" END="6186">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="6181" END="6186">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5302">
+          <extent>
+              <charseq START="6281" END="6286">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="6281" END="6286">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5304">
+          <extent>
+              <charseq START="6288" END="6290">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6288" END="6290">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5306">
+          <extent>
+              <charseq START="6301" END="6303">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6301" END="6303">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5403">
+          <extent>
+              <charseq START="6413" END="6418">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="6413" END="6418">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5405">
+          <extent>
+              <charseq START="6436" END="6438">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6436" END="6438">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5406">
+          <extent>
+              <charseq START="6465" END="6466">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6465" END="6466">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M5419">
+          <extent>
+              <charseq START="6619" END="6621">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6619" END="6621">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M6509">
+          <extent>
+              <charseq START="8186" END="8191">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="8186" END="8191">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M7208">
+          <extent>
+              <charseq START="9133" END="9138">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="9133" END="9138">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E7-M7306">
+          <extent>
+              <charseq START="9306" END="9311">Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="9306" END="9311">Bender</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bender">
+              <charseq START="434" END="439">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="539" END="544">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="608" END="613">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1151" END="1156">Bender</charseq>
+          </name>
+          <name NAME="Fender">
+              <charseq START="1195" END="1200">Fender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1216" END="1221">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1283" END="1288">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1380" END="1385">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1638" END="1643">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1656" END="1661">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1755" END="1760">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="1816" END="1821">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2018" END="2023">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2212" END="2217">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2301" END="2306">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2551" END="2556">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2653" END="2658">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2727" END="2732">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2946" END="2951">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="2986" END="2991">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="3204" END="3209">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="4319" END="4324">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="4760" END="4765">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="5785" END="5790">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="6053" END="6058">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="6181" END="6186">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="6281" END="6286">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="6413" END="6418">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="8186" END="8191">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="9133" END="9138">Bender</charseq>
+          </name>
+          <name NAME="Bender">
+              <charseq START="9306" END="9311">Bender</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E8" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M602">
+          <extent>
+              <charseq START="552" END="575">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="575">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M614">
+          <extent>
+              <charseq START="654" END="677">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="677">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M808">
+          <extent>
+              <charseq START="879" END="902">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="902">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M1302">
+          <extent>
+              <charseq START="1445" END="1468">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="1449" END="1468">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M1408">
+          <extent>
+              <charseq START="1624" END="1633">Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="1624" END="1633">Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M1703">
+          <extent>
+              <charseq START="1914" END="1923">Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="1914" END="1923">Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M2107">
+          <extent>
+              <charseq START="2271" END="2280">Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="2271" END="2280">Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M3003">
+          <extent>
+              <charseq START="3292" END="3315">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="3296" END="3315">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M6000">
+          <extent>
+              <charseq START="7398" END="7421">The Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="7402" END="7421">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M6206">
+          <extent>
+              <charseq START="7785" END="7808">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="7789" END="7808">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E8-M7307">
+          <extent>
+              <charseq START="9332" END="9355">the Temple of Robotology</charseq>
+          </extent>
+          <head>
+              <charseq START="9336" END="9355">Temple of Robotology</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Temple of Robotology">
+              <charseq START="556" END="575">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="658" END="677">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="883" END="902">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="1449" END="1468">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Robotology">
+              <charseq START="1624" END="1633">Robotology</charseq>
+          </name>
+          <name NAME="Robotology">
+              <charseq START="1914" END="1923">Robotology</charseq>
+          </name>
+          <name NAME="Robotology">
+              <charseq START="2271" END="2280">Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="3296" END="3315">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="7402" END="7421">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="7789" END="7808">Temple of Robotology</charseq>
+          </name>
+          <name NAME="Temple of Robotology">
+              <charseq START="9336" END="9355">Temple of Robotology</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M606">
+          <extent>
+              <charseq START="588" END="590">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="590">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M701">
+          <extent>
+              <charseq START="734" END="736">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="736">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M704">
+          <extent>
+              <charseq START="763" END="765">him</charseq>
+          </extent>
+          <head>
+              <charseq START="763" END="765">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M1506">
+          <extent>
+              <charseq START="1716" END="1718">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="1716" END="1718">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M2202">
+          <extent>
+              <charseq START="2320" END="2322">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="2320" END="2322">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M2502">
+          <extent>
+              <charseq START="2590" END="2592">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="2590" END="2592">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M2801">
+          <extent>
+              <charseq START="2930" END="2932">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="2930" END="2932">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E9-M2816">
+          <extent>
+              <charseq START="3078" END="3080">Fry</charseq>
+          </extent>
+          <head>
+              <charseq START="3078" END="3080">Fry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fry">
+              <charseq START="588" END="590">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="734" END="736">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="1716" END="1718">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="2320" END="2322">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="2590" END="2592">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="2930" END="2932">Fry</charseq>
+          </name>
+          <name NAME="Fry">
+              <charseq START="3078" END="3080">Fry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M607">
+          <extent>
+              <charseq START="596" END="600">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="600">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M702">
+          <extent>
+              <charseq START="742" END="746">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="742" END="746">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M1507">
+          <extent>
+              <charseq START="1724" END="1728">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="1724" END="1728">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2203">
+          <extent>
+              <charseq START="2328" END="2332">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="2328" END="2332">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2503">
+          <extent>
+              <charseq START="2598" END="2602">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="2598" END="2602">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2704">
+          <extent>
+              <charseq START="2834" END="2838">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="2834" END="2838">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2705">
+          <extent>
+              <charseq START="2873" END="2875">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2875">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2802">
+          <extent>
+              <charseq START="2935" END="2939">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2939">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2817">
+          <extent>
+              <charseq START="3086" END="3090">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="3086" END="3090">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E10-M2900">
+          <extent>
+              <charseq START="3103" END="3107">Leela</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3107">Leela</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leela">
+              <charseq START="596" END="600">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="742" END="746">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="1724" END="1728">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="2328" END="2332">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="2598" END="2602">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="2834" END="2838">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="2935" END="2939">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="3086" END="3090">Leela</charseq>
+          </name>
+          <name NAME="Leela">
+              <charseq START="3103" END="3107">Leela</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E11-M611">
+          <extent>
+              <charseq START="632" END="642">prostitutes</charseq>
+          </extent>
+          <head>
+              <charseq START="632" END="642">prostitutes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E11-M1610">
+          <extent>
+              <charseq START="1837" END="1874">prostitutes and easy targets for theft</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1847">prostitutes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E11-M1612">
+          <extent>
+              <charseq START="1837" END="1847">prostitutes</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1847">prostitutes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M805">
+          <extent>
+              <charseq START="839" END="856">Lionel Preacherbot</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="856">Lionel Preacherbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M1403">
+          <extent>
+              <charseq START="1572" END="1602">the Reverend Lionel Preacherbot</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1602">Lionel Preacherbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M1404">
+          <extent>
+              <charseq START="1576" END="1583">Reverend</charseq>
+          </extent>
+          <head>
+              <charseq START="1576" END="1583">Reverend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M4810">
+          <extent>
+              <charseq START="5602" END="5628">Reverend Lionel Preacherbot</charseq>
+          </extent>
+          <head>
+              <charseq START="5611" END="5628">Lionel Preacherbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M4811">
+          <extent>
+              <charseq START="5602" END="5609">Reverend</charseq>
+          </extent>
+          <head>
+              <charseq START="5602" END="5609">Reverend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M4813">
+          <extent>
+              <charseq START="5639" END="5642">whom</charseq>
+          </extent>
+          <head>
+              <charseq START="5639" END="5642">whom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M4900">
+          <extent>
+              <charseq START="5681" END="5774">Preacherbot, who speaks in a manner typical of inner-city African-American pastor stereotypes,</charseq>
+          </extent>
+          <head>
+              <charseq START="5681" END="5691">Preacherbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E12-M4902">
+          <extent>
+              <charseq START="5694" END="5696">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5694" END="5696">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lionel Preacherbot">
+              <charseq START="839" END="856">Lionel Preacherbot</charseq>
+          </name>
+          <name NAME="Lionel Preacherbot">
+              <charseq START="1585" END="1602">Lionel Preacherbot</charseq>
+          </name>
+          <name NAME="Lionel Preacherbot">
+              <charseq START="5611" END="5628">Lionel Preacherbot</charseq>
+          </name>
+          <name NAME="Preacherbot">
+              <charseq START="5681" END="5691">Preacherbot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E13-M813">
+          <extent>
+              <charseq START="925" END="949">the Church of Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="949">Church of Scientology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E13-M6004">
+          <extent>
+              <charseq START="7437" END="7461">the Church of Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="7441" END="7461">Church of Scientology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E13-M6014">
+          <extent>
+              <charseq START="7534" END="7558">the Church of Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="7538" END="7558">Church of Scientology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E13-M6104">
+          <extent>
+              <charseq START="7663" END="7673">Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="7663" END="7673">Scientology</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E13-M6210">
+          <extent>
+              <charseq START="7820" END="7844">the Church of Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="7824" END="7844">Church of Scientology</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Church of Scientology">
+              <charseq START="929" END="949">Church of Scientology</charseq>
+          </name>
+          <name NAME="Church of Scientology">
+              <charseq START="7441" END="7461">Church of Scientology</charseq>
+          </name>
+          <name NAME="Church of Scientology">
+              <charseq START="7538" END="7558">Church of Scientology</charseq>
+          </name>
+          <name NAME="Scientology">
+              <charseq START="7663" END="7673">Scientology</charseq>
+          </name>
+          <name NAME="Church of Scientology">
+              <charseq START="7824" END="7844">Church of Scientology</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E14-M804">
+          <extent>
+              <charseq START="830" END="837">Reverend</charseq>
+          </extent>
+          <head>
+              <charseq START="830" END="837">Reverend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M909">
+          <extent>
+              <charseq START="1044" END="1056">Matt Groening</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1056">Matt Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M904">
+          <extent>
+              <charseq START="1006" END="1009">four</charseq>
+          </extent>
+          <head>
+              <charseq START="1006" END="1009">four</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M4106">
+          <extent>
+              <charseq START="4578" END="4590">Matt Groening</charseq>
+          </extent>
+          <head>
+              <charseq START="4578" END="4590">Matt Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6006">
+          <extent>
+              <charseq START="7481" END="7558">series creator Matt Groening he received a call from the Church of Scientology</charseq>
+          </extent>
+          <head>
+              <charseq START="7496" END="7508">Matt Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6009">
+          <extent>
+              <charseq START="7488" END="7494">creator</charseq>
+          </extent>
+          <head>
+              <charseq START="7488" END="7494">creator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6011">
+          <extent>
+              <charseq START="7510" END="7511">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7510" END="7511">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6100">
+          <extent>
+              <charseq START="7603" END="7610">Groening</charseq>
+          </extent>
+          <head>
+              <charseq START="7603" END="7610">Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6417">
+          <extent>
+              <charseq START="8058" END="8070">Matt Groening</charseq>
+          </extent>
+          <head>
+              <charseq START="8058" END="8070">Matt Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6505">
+          <extent>
+              <charseq START="8145" END="8152">Groening</charseq>
+          </extent>
+          <head>
+              <charseq START="8145" END="8152">Groening</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E15-M6908">
+          <extent>
+              <charseq START="8758" END="8761">four</charseq>
+          </extent>
+          <head>
+              <charseq START="8758" END="8761">four</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Groening">
+              <charseq START="1044" END="1056">Matt Groening</charseq>
+          </name>
+          <name NAME="Matt Groening">
+              <charseq START="4578" END="4590">Matt Groening</charseq>
+          </name>
+          <name NAME="Matt Groening">
+              <charseq START="7496" END="7508">Matt Groening</charseq>
+          </name>
+          <name NAME="Groening">
+              <charseq START="7603" END="7610">Groening</charseq>
+          </name>
+          <name NAME="Matt Groening">
+              <charseq START="8058" END="8070">Matt Groening</charseq>
+          </name>
+          <name NAME="Groening">
+              <charseq START="8145" END="8152">Groening</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E17-M1501">
+          <extent>
+              <charseq START="1679" END="1691">his coworkers</charseq>
+          </extent>
+          <head>
+              <charseq START="1683" END="1691">coworkers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E17-M1508">
+          <extent>
+              <charseq START="1737" END="1740">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1737" END="1740">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E17-M1600">
+          <extent>
+              <charseq START="1768" END="1771">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1768" END="1771">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E18-M1604" ROLE="LOC">
+          <extent>
+              <charseq START="1792" END="1804">Atlantic City</charseq>
+          </extent>
+          <head>
+              <charseq START="1792" END="1804">Atlantic City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Atlantic City">
+              <charseq START="1792" END="1804">Atlantic City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E19-M2208">
+          <extent>
+              <charseq START="2355" END="2361">Nibbler</charseq>
+          </extent>
+          <head>
+              <charseq START="2355" END="2361">Nibbler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nibbler">
+              <charseq START="2355" END="2361">Nibbler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E20-M2303" ROLE="GPE">
+          <extent>
+              <charseq START="2421" END="2430">New Jersey</charseq>
+          </extent>
+          <head>
+              <charseq START="2421" END="2430">New Jersey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E20-M5903" ROLE="LOC">
+          <extent>
+              <charseq START="7300" END="7309">New Jersey</charseq>
+          </extent>
+          <head>
+              <charseq START="7300" END="7309">New Jersey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Jersey">
+              <charseq START="2421" END="2430">New Jersey</charseq>
+          </name>
+          <name NAME="New Jersey">
+              <charseq START="7300" END="7309">New Jersey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E21-M2302">
+          <extent>
+              <charseq START="2408" END="2445">an abandoned New Jersey amusement park</charseq>
+          </extent>
+          <head>
+              <charseq START="2442" END="2445">park</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M3102">
+          <extent>
+              <charseq START="3329" END="3342">David X. Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="3329" END="3342">David X. Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M4105">
+          <extent>
+              <charseq START="4562" END="4575">David X. Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="4562" END="4575">David X. Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M4200">
+          <extent>
+              <charseq START="4743" END="4747">Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="4743" END="4747">Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M4400">
+          <extent>
+              <charseq START="5053" END="5057">Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="5053" END="5057">Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M5906">
+          <extent>
+              <charseq START="7339" END="7352">David X. Cohen</charseq>
+          </extent>
+          <head>
+              <charseq START="7339" END="7352">David X. Cohen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E22-M5907">
+          <extent>
+              <charseq START="7358" END="7362">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="7358" END="7362">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David X. Cohen">
+              <charseq START="3329" END="3342">David X. Cohen</charseq>
+          </name>
+          <name NAME="David X. Cohen">
+              <charseq START="4562" END="4575">David X. Cohen</charseq>
+          </name>
+          <name NAME="Cohen">
+              <charseq START="4743" END="4747">Cohen</charseq>
+          </name>
+          <name NAME="Cohen">
+              <charseq START="5053" END="5057">Cohen</charseq>
+          </name>
+          <name NAME="David X. Cohen">
+              <charseq START="7339" END="7352">David X. Cohen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E23-M3103">
+          <extent>
+              <charseq START="3348" END="3357">Ken Keeler</charseq>
+          </extent>
+          <head>
+              <charseq START="3348" END="3357">Ken Keeler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E23-M3805">
+          <extent>
+              <charseq START="4164" END="4173">Ken Keeler</charseq>
+          </extent>
+          <head>
+              <charseq START="4164" END="4173">Ken Keeler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E23-M3808">
+          <extent>
+              <charseq START="4204" END="4209">Keeler</charseq>
+          </extent>
+          <head>
+              <charseq START="4204" END="4209">Keeler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ken Keeler">
+              <charseq START="3348" END="3357">Ken Keeler</charseq>
+          </name>
+          <name NAME="Ken Keeler">
+              <charseq START="4164" END="4173">Ken Keeler</charseq>
+          </name>
+          <name NAME="Keeler">
+              <charseq START="4204" END="4209">Keeler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E24-M3104" ROLE="LOC">
+          <extent>
+              <charseq START="3371" END="3378">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3378">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="3371" END="3378">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E25-M3208" ROLE="LOC">
+          <extent>
+              <charseq START="3568" END="3578">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="3568" END="3578">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="3568" END="3578">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E26-M3207">
+          <extent>
+              <charseq START="3553" END="3563">the studios</charseq>
+          </extent>
+          <head>
+              <charseq START="3557" END="3563">studios</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E27-M3400">
+          <extent>
+              <charseq START="3625" END="3634">MCA&quot; Yauch</charseq>
+          </extent>
+          <head>
+              <charseq START="3630" END="3634">Yauch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E27-M3414">
+          <extent>
+              <charseq START="3806" END="3810">Yauch</charseq>
+          </extent>
+          <head>
+              <charseq START="3806" END="3810">Yauch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yauch">
+              <charseq START="3630" END="3634">Yauch</charseq>
+          </name>
+          <name NAME="Yauch">
+              <charseq START="3806" END="3810">Yauch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E28-M3407">
+          <extent>
+              <charseq START="3689" END="3698">Adam &quot;King</charseq>
+          </extent>
+          <head>
+              <charseq START="3689" END="3698">Adam &quot;King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam &quot;King">
+              <charseq START="3689" END="3698">Adam &quot;King</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E29-M3408">
+          <extent>
+              <charseq START="3700" END="3715">Adrock&quot; Horovitz</charseq>
+          </extent>
+          <head>
+              <charseq START="3700" END="3715">Adrock&quot; Horovitz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E29-M3413">
+          <extent>
+              <charseq START="3784" END="3791">Horovitz</charseq>
+          </extent>
+          <head>
+              <charseq START="3784" END="3791">Horovitz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adrock&quot; Horovitz">
+              <charseq START="3700" END="3715">Adrock&quot; Horovitz</charseq>
+          </name>
+          <name NAME="Horovitz">
+              <charseq START="3784" END="3791">Horovitz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E30-M3409">
+          <extent>
+              <charseq START="3721" END="3744">Michael &quot;Mike D&quot; Diamond</charseq>
+          </extent>
+          <head>
+              <charseq START="3721" END="3744">Michael &quot;Mike D&quot; Diamond</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael &quot;Mike D&quot; Diamond">
+              <charseq START="3721" END="3744">Michael &quot;Mike D&quot; Diamond</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E32-M3702">
+          <extent>
+              <charseq START="4063" END="4070">Futurama</charseq>
+          </extent>
+          <head>
+              <charseq START="4063" END="4070">Futurama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E32-M7210">
+          <extent>
+              <charseq START="9144" END="9151">Futurama</charseq>
+          </extent>
+          <head>
+              <charseq START="9144" END="9151">Futurama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Futurama">
+              <charseq START="4063" END="4070">Futurama</charseq>
+          </name>
+          <name NAME="Futurama">
+              <charseq START="9144" END="9151">Futurama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E33-M3809">
+          <extent>
+              <charseq START="4215" END="4230">Christopher Tyng</charseq>
+          </extent>
+          <head>
+              <charseq START="4215" END="4230">Christopher Tyng</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christopher Tyng">
+              <charseq START="4215" END="4230">Christopher Tyng</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E34-M3905">
+          <extent>
+              <charseq START="4291" END="4303">John DiMaggio</charseq>
+          </extent>
+          <head>
+              <charseq START="4291" END="4303">John DiMaggio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E34-M3906">
+          <extent>
+              <charseq START="4306" END="4324">the voice of Bender</charseq>
+          </extent>
+          <head>
+              <charseq START="4310" END="4314">voice</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E34-M5908">
+          <extent>
+              <charseq START="7364" END="7376">John DiMaggio</charseq>
+          </extent>
+          <head>
+              <charseq START="7364" END="7376">John DiMaggio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E34-M6506">
+          <extent>
+              <charseq START="8158" END="8170">John DiMaggio</charseq>
+          </extent>
+          <head>
+              <charseq START="8158" END="8170">John DiMaggio</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John DiMaggio">
+              <charseq START="4291" END="4303">John DiMaggio</charseq>
+          </name>
+          <name NAME="John DiMaggio">
+              <charseq START="7364" END="7376">John DiMaggio</charseq>
+          </name>
+          <name NAME="John DiMaggio">
+              <charseq START="8158" END="8170">John DiMaggio</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4112">
+          <extent>
+              <charseq START="4666" END="4688">the Futurama characters</charseq>
+          </extent>
+          <head>
+              <charseq START="4679" END="4688">characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4108">
+          <extent>
+              <charseq START="4624" END="4627">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4624" END="4627">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4114">
+          <extent>
+              <charseq START="4707" END="4710">them</charseq>
+          </extent>
+          <head>
+              <charseq START="4707" END="4710">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4207">
+          <extent>
+              <charseq START="4813" END="4816">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4813" END="4816">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4213">
+          <extent>
+              <charseq START="4856" END="4859">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4856" END="4859">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4304">
+          <extent>
+              <charseq START="4981" END="4984">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4981" END="4984">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4703">
+          <extent>
+              <charseq START="5430" END="5452">the Planet Express crew</charseq>
+          </extent>
+          <head>
+              <charseq START="5449" END="5452">crew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M4705">
+          <extent>
+              <charseq START="5466" END="5493">most beings in the year 3000</charseq>
+          </extent>
+          <head>
+              <charseq START="5471" END="5476">beings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E35-M5008">
+          <extent>
+              <charseq START="5905" END="5933">real world religious converts</charseq>
+          </extent>
+          <head>
+              <charseq START="5926" END="5933">converts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E36-M4218">
+          <extent>
+              <charseq START="4899" END="4903">human</charseq>
+          </extent>
+          <head>
+              <charseq START="4899" END="4903">human</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E37-M4300">
+          <extent>
+              <charseq START="4916" END="4939">One person at the studio</charseq>
+          </extent>
+          <head>
+              <charseq START="4920" END="4925">person</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E38-M4401">
+          <extent>
+              <charseq START="5075" END="5090">the writing team</charseq>
+          </extent>
+          <head>
+              <charseq START="5087" END="5090">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E39-M4605">
+          <extent>
+              <charseq START="5318" END="5388">very few that focuses on the religious aspects of the Futurama universe</charseq>
+          </extent>
+          <head>
+              <charseq START="5323" END="5325">few</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E39-M4607">
+          <extent>
+              <charseq START="5327" END="5330">that</charseq>
+          </extent>
+          <head>
+              <charseq START="5327" END="5330">that</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E41-M4704">
+          <extent>
+              <charseq START="5434" END="5447">Planet Express</charseq>
+          </extent>
+          <head>
+              <charseq START="5434" END="5447">Planet Express</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Planet Express">
+              <charseq START="5434" END="5447">Planet Express</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E42-M4906">
+          <extent>
+              <charseq START="5739" END="5746">African-</charseq>
+          </extent>
+          <head>
+              <charseq START="5739" END="5746">African-</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African-">
+              <charseq START="5739" END="5746">African-</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E43-M4907" ROLE="GPE">
+          <extent>
+              <charseq START="5747" END="5754">American</charseq>
+          </extent>
+          <head>
+              <charseq START="5747" END="5754">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E43-M7005" ROLE="LOC">
+          <extent>
+              <charseq START="8814" END="8830">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="8818" END="8830">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="5747" END="5754">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="8818" END="8830">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E44-M5100">
+          <extent>
+              <charseq START="5936" END="5946">Mark Pinsky</charseq>
+          </extent>
+          <head>
+              <charseq START="5936" END="5946">Mark Pinsky</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Pinsky">
+              <charseq START="5936" END="5946">Mark Pinsky</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E45" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E45-M5313">
+          <extent>
+              <charseq START="6362" END="6383">many Southern Baptists</charseq>
+          </extent>
+          <head>
+              <charseq START="6367" END="6383">Southern Baptists</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southern Baptists">
+              <charseq START="6367" END="6383">Southern Baptists</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E46-M5610">
+          <extent>
+              <charseq START="6852" END="6867">Jean-Paul Sartre</charseq>
+          </extent>
+          <head>
+              <charseq START="6852" END="6867">Jean-Paul Sartre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean-Paul Sartre">
+              <charseq START="6852" END="6867">Jean-Paul Sartre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E47-M5609">
+          <extent>
+              <charseq START="6833" END="6844">other people</charseq>
+          </extent>
+          <head>
+              <charseq START="6839" END="6844">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E48-M5710">
+          <extent>
+              <charseq START="7043" END="7047">Dante</charseq>
+          </extent>
+          <head>
+              <charseq START="7043" END="7047">Dante</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dante">
+              <charseq START="7043" END="7047">Dante</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E49" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E49-M5711">
+          <extent>
+              <charseq START="7051" END="7067">The Divine Comedy</charseq>
+          </extent>
+          <head>
+              <charseq START="7051" END="7067">The Divine Comedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Divine Comedy">
+              <charseq START="7051" END="7067">The Divine Comedy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E50-M5811">
+          <extent>
+              <charseq START="7220" END="7239">Charlie Daniels Band</charseq>
+          </extent>
+          <head>
+              <charseq START="7220" END="7239">Charlie Daniels Band</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Daniels Band">
+              <charseq START="7220" END="7239">Charlie Daniels Band</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E51" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E51-M5815" ROLE="LOC">
+          <extent>
+              <charseq START="7270" END="7276">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="7270" END="7276">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E51-M7613" ROLE="GPE">
+          <extent>
+              <charseq START="9686" END="9692">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="9686" END="9692">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia">
+              <charseq START="7270" END="7276">Georgia</charseq>
+          </name>
+          <name NAME="Georgia">
+              <charseq START="9686" END="9692">Georgia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E52-M6109">
+          <extent>
+              <charseq START="7711" END="7714">Sect</charseq>
+          </extent>
+          <head>
+              <charseq START="7711" END="7714">Sect</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E53-M6203">
+          <extent>
+              <charseq START="7746" END="7753">TV Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="7749" END="7753">Squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E53-M6300">
+          <extent>
+              <charseq START="7855" END="7862">TV Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="7858" END="7862">Squad</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E54-M6302">
+          <extent>
+              <charseq START="7870" END="7885">actor Billy West</charseq>
+          </extent>
+          <head>
+              <charseq START="7876" END="7885">Billy West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E54-M6303">
+          <extent>
+              <charseq START="7870" END="7874">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="7870" END="7874">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E54-M6306">
+          <extent>
+              <charseq START="7899" END="7900">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7899" END="7900">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Billy West">
+              <charseq START="7876" END="7885">Billy West</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E55-M6604">
+          <extent>
+              <charseq START="8278" END="8298">Winston-Salem Journal</charseq>
+          </extent>
+          <head>
+              <charseq START="8278" END="8298">Winston-Salem Journal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Winston-Salem Journal">
+              <charseq START="8278" END="8298">Winston-Salem Journal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E56-M6805">
+          <extent>
+              <charseq START="8572" END="8591">the South Wales Echo</charseq>
+          </extent>
+          <head>
+              <charseq START="8576" END="8591">South Wales Echo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Wales Echo">
+              <charseq START="8576" END="8591">South Wales Echo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E57-M6810">
+          <extent>
+              <charseq START="8637" END="8648">a Bot Planet</charseq>
+          </extent>
+          <head>
+              <charseq START="8639" END="8648">Bot Planet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bot Planet">
+              <charseq START="8639" END="8648">Bot Planet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E58-M6900">
+          <extent>
+              <charseq START="8686" END="8708">Brian Cortis of The Age</charseq>
+          </extent>
+          <head>
+              <charseq START="8686" END="8697">Brian Cortis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian Cortis">
+              <charseq START="8686" END="8697">Brian Cortis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E59" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E59-M6906">
+          <extent>
+              <charseq START="8739" END="8761">three stars out of four</charseq>
+          </extent>
+          <head>
+              <charseq START="8745" END="8749">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E60" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E60-M7009" ROLE="LOC">
+          <extent>
+              <charseq START="8855" END="8872">the United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="8859" END="8872">United Kingdom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Kingdom">
+              <charseq START="8859" END="8872">United Kingdom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E61-M7011">
+          <extent>
+              <charseq START="8875" END="8888">Andrew Collins</charseq>
+          </extent>
+          <head>
+              <charseq START="8875" END="8888">Andrew Collins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E61-M7000">
+          <extent>
+              <charseq START="8775" END="8872">The Observer after Futurama&apos;s debut in the United States but before it aired in the United Kingdom</charseq>
+          </extent>
+          <head>
+              <charseq START="8779" END="8786">Observer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Hell_Is_Other_Robots.sentences.sgm-E61-M7100">
+          <extent>
+              <charseq START="8994" END="8995">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8994" END="8995">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew Collins">
+              <charseq START="8875" END="8888">Andrew Collins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E62-M7200">
+          <extent>
+              <charseq START="9041" END="9069">John G. Nettles of PopMatters</charseq>
+          </extent>
+          <head>
+              <charseq START="9041" END="9055">John G. Nettles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John G. Nettles">
+              <charseq START="9041" END="9055">John G. Nettles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E63-M7202">
+          <extent>
+              <charseq START="9060" END="9069">PopMatters</charseq>
+          </extent>
+          <head>
+              <charseq START="9060" END="9069">PopMatters</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PopMatters">
+              <charseq START="9060" END="9069">PopMatters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E64-M7300">
+          <extent>
+              <charseq START="9226" END="9233">TV Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="9226" END="9233">TV Squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TV Squad">
+              <charseq START="9226" END="9233">TV Squad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E65-M7400">
+          <extent>
+              <charseq START="9359" END="9386">David Johnson of DVD Verdict</charseq>
+          </extent>
+          <head>
+              <charseq START="9359" END="9371">David Johnson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Johnson">
+              <charseq START="9359" END="9371">David Johnson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E67-M7508">
+          <extent>
+              <charseq START="9542" END="9547">People</charseq>
+          </extent>
+          <head>
+              <charseq START="9542" END="9547">People</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E68-M7621">
+          <extent>
+              <charseq START="9779" END="9786">Yahoo TV</charseq>
+          </extent>
+          <head>
+              <charseq START="9779" END="9786">Yahoo TV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yahoo TV">
+              <charseq START="9779" END="9786">Yahoo TV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Hell_Is_Other_Robots.sentences.sgm-E69-M7624">
+          <extent>
+              <charseq START="9814" END="9822">About.com</charseq>
+          </extent>
+          <head>
+              <charseq START="9814" END="9822">About.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="About.com">
+              <charseq START="9814" END="9822">About.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Hell_Is_Other_Robots.sentences.sgm-E70" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Hell_Is_Other_Robots.sentences.sgm-E70-M7606">
+          <extent>
+              <charseq START="9637" END="9654">Futurama
+Religious</charseq>
+          </extent>
+          <head>
+              <charseq START="9646" END="9654">Religious</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T0" VAL="1999-05-18">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="146" END="157">May 18, 1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T1">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="184" END="199">the first season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T2" VAL="P3D">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="3438" END="3447">three days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T3" VAL="1998">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="3844" END="3847">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T4" VAL="3000">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="5481" END="5493">the year 3000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T5" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="5664" END="5669">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Hell_Is_Other_Robots.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Hell_Is_Other_Robots.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="7631" END="7640">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Hell_Is_Other_Robots.sentences.sgm-V7" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Hell_Is_Other_Robots.sentences.sgm-V7-M1">
+            <extent>
+              <charseq START="9746" END="9751">TV.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Hell_Is_Other_Robots.sentences.sgm-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Hell_Is_Other_Robots.sentences.sgm-V8-M1">
+            <extent>
+              <charseq START="9814" END="9822">About.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R0-M1100">
+          <extent>
+              <charseq START="1216" END="1221">Bender</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1216" END="1221">Bender</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E3-M1100" ROLE="Arg-2">
+            <extent>
+              <charseq START="1206" END="1214">the party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R1" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R1-M1500">
+          <extent>
+              <charseq START="1679" END="1681">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M1502" ROLE="Arg-1">
+            <extent>
+              <charseq START="1679" END="1681">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E17-M1501" ROLE="Arg-2">
+            <extent>
+              <charseq START="1679" END="1691">his coworkers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R2-M2300">
+          <extent>
+              <charseq START="2408" END="2445">an abandoned New Jersey amusement park</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E21-M2302" ROLE="Arg-1">
+            <extent>
+              <charseq START="2408" END="2445">an abandoned New Jersey amusement park</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E20-M2303" ROLE="Arg-2">
+            <extent>
+              <charseq START="2421" END="2430">New Jersey</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R3-M3200">
+          <extent>
+              <charseq START="3553" END="3563">the studios</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E26-M3207" ROLE="Arg-1">
+            <extent>
+              <charseq START="3553" END="3563">the studios</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E25-M3208" ROLE="Arg-2">
+            <extent>
+              <charseq START="3568" END="3578">Los Angeles</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R4-M4300">
+          <extent>
+              <charseq START="4916" END="4939">One person at the studio</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E37-M4300" ROLE="Arg-1">
+            <extent>
+              <charseq START="4916" END="4939">One person at the studio</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E3-M4302" ROLE="Arg-2">
+            <extent>
+              <charseq START="4930" END="4939">the studio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R5-M4700">
+          <extent>
+              <charseq START="5430" END="5452">the Planet Express crew</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E35-M4703" ROLE="Arg-1">
+            <extent>
+              <charseq START="5430" END="5452">the Planet Express crew</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E41-M4704" ROLE="Arg-2">
+            <extent>
+              <charseq START="5434" END="5447">Planet Express</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Hell_Is_Other_Robots.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Hell_Is_Other_Robots.sentences.sgm-R6-M6000">
+          <extent>
+              <charseq START="7510" END="7511">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E15-M6011" ROLE="Arg-1">
+            <extent>
+              <charseq START="7510" END="7511">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E13-M6014" ROLE="Arg-2">
+            <extent>
+              <charseq START="7534" END="7558">the Church of Scientology</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV0" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV0-M600">
+          <extent>
+              <charseq START="546" END="550">joins</charseq>
+          </extent>
+          <anchor>
+              <charseq START="546" END="550">joins</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8-M602" ROLE="Entity">
+          <extent>
+              <charseq START="552" END="575">the Temple of Robotology</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M601" ROLE="Person">
+          <extent>
+              <charseq START="539" END="544">Bender</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV1-M601">
+          <extent>
+              <charseq START="648" END="652">quits</charseq>
+          </extent>
+          <anchor>
+              <charseq START="648" END="652">quits</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M612" ROLE="Person">
+          <extent>
+              <charseq START="645" END="646">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E5" ROLE="Entity"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV2-M602">
+          <extent>
+              <charseq START="686" END="692">visited</charseq>
+          </extent>
+          <anchor>
+              <charseq START="686" END="692">visited</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E5-M616" ROLE="Entity">
+          <extent>
+              <charseq START="697" END="711">the Robot Devil</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV3-M1300">
+          <extent>
+              <charseq START="1439" END="1443">joins</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1439" END="1443">joins</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8-M1302" ROLE="Entity">
+          <extent>
+              <charseq START="1445" END="1468">the Temple of Robotology</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M1300" ROLE="Person">
+          <extent>
+              <charseq START="1436" END="1437">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Victim"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV4-M1900">
+          <extent>
+              <charseq START="2100" END="2106">knocked</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2100" END="2106">knocked</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M1900" ROLE="Victim">
+          <extent>
+              <charseq START="2075" END="2076">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV5" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV5-M2100">
+          <extent>
+              <charseq START="2264" END="2269">joined</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2264" END="2269">joined</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8-M2107" ROLE="Entity">
+          <extent>
+              <charseq START="2271" END="2280">Robotology</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M2105" ROLE="Person">
+          <extent>
+              <charseq START="2261" END="2262">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E21" ROLE="Destination"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV6-M2300">
+          <extent>
+              <charseq START="2398" END="2403">arrive</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2398" END="2403">arrive</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E21-M2302" ROLE="Destination">
+          <extent>
+              <charseq START="2408" END="2445">an abandoned New Jersey amusement park</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV7-M2801">
+          <extent>
+              <charseq START="3023" END="3029">torture</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3023" END="3029">torture</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV8" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8" ROLE="Entity"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV8-M3000">
+          <extent>
+              <charseq START="3284" END="3290">joining</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3284" END="3290">joining</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E8-M3003" ROLE="Entity">
+          <extent>
+              <charseq START="3292" END="3315">the Temple of Robotology</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M3001" ROLE="Person">
+          <extent>
+              <charseq START="3270" END="3271">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E24" ROLE="Destination"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E23" ROLE="Artifact"/>
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E22" ROLE="Artifact"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV9-M3101">
+          <extent>
+              <charseq START="3359" END="3366">traveled</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3359" END="3366">traveled</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E24-M3104" ROLE="Destination">
+          <extent>
+              <charseq START="3371" END="3378">New York</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E23-M3103" ROLE="Artifact">
+          <extent>
+              <charseq START="3348" END="3357">Ken Keeler</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E22-M3102" ROLE="Artifact">
+          <extent>
+              <charseq START="3329" END="3342">David X. Cohen</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E26" ROLE="Destination"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV10-M3200">
+          <extent>
+              <charseq START="3541" END="3548">returned</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3541" END="3548">returned</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E26-M3207" ROLE="Destination">
+          <extent>
+              <charseq START="3553" END="3563">the studios</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV11-M5800">
+          <extent>
+              <charseq START="7165" END="7170">battle</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7165" END="7170">battle</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV12" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E15" ROLE="Entity"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV12-M6000">
+          <extent>
+              <charseq START="7524" END="7527">call</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7524" END="7527">call</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E15-M6011" ROLE="Entity">
+          <extent>
+              <charseq START="7510" END="7511">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Hell_Is_Other_Robots.sentences.sgm-EV13" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7" ROLE="Person"/>
+      <event_mention ID="Hell_Is_Other_Robots.sentences.sgm-EV13-M7301">
+          <extent>
+              <charseq START="9317" END="9320">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9317" END="9320">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Hell_Is_Other_Robots.sentences.sgm-E7-M7306" ROLE="Person">
+          <extent>
+              <charseq START="9306" END="9311">Bender</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

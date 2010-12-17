@@ -1,0 +1,1700 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="DJ_Khaled.sentences.sgm">
+  <document DOCID="DJ_Khaled.sentences.sgm">
+
+    <entity ID="DJ_Khaled.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="26" END="57">Khaled Khaled (born November 26,</charseq>
+          </extent>
+          <head>
+              <charseq START="26" END="38">Khaled Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E0-M14">
+          <extent>
+              <charseq START="138" END="145">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="138" END="145">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="82" END="84">his</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="84">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="221" END="222">He</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="222">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="332" END="333">He</charseq>
+          </extent>
+          <head>
+              <charseq START="332" END="333">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E0-M400">
+          <extent>
+              <charseq START="410" END="411">he</charseq>
+          </extent>
+          <head>
+              <charseq START="410" END="411">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E0-M415">
+          <extent>
+              <charseq START="541" END="542">he</charseq>
+          </extent>
+          <head>
+              <charseq START="541" END="542">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khaled Khaled">
+              <charseq START="26" END="38">Khaled Khaled</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M3">
+          <extent>
+              <charseq START="66" END="105">better known by his stage name DJ Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="105">DJ Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E1-M102">
+          <extent>
+              <charseq START="232" END="273">a member of the hip hop group Terror Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="239">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M200">
+          <extent>
+              <charseq START="276" END="294">Biography
+DJ Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="294">DJ Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E1-M201">
+          <extent>
+              <charseq START="276" END="284">Biography</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="284">Biography</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M414">
+          <extent>
+              <charseq START="522" END="527">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="527">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M501">
+          <extent>
+              <charseq START="607" END="612">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="607" END="612">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M602">
+          <extent>
+              <charseq START="744" END="749">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="744" END="749">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M601">
+          <extent>
+              <charseq START="732" END="734">his</charseq>
+          </extent>
+          <head>
+              <charseq START="732" END="734">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M608">
+          <extent>
+              <charseq START="792" END="794">his</charseq>
+          </extent>
+          <head>
+              <charseq START="792" END="794">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M625">
+          <extent>
+              <charseq START="981" END="983">his</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="983">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M700">
+          <extent>
+              <charseq START="1013" END="1014">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1013" END="1014">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M704">
+          <extent>
+              <charseq START="1071" END="1072">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1071" END="1072">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M706">
+          <extent>
+              <charseq START="1091" END="1092">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1092">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M802">
+          <extent>
+              <charseq START="1131" END="1136">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1136">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E1-M902">
+          <extent>
+              <charseq START="1290" END="1292">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1290" END="1292">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M1200">
+          <extent>
+              <charseq START="1777" END="1782">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="1777" END="1782">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M1301">
+          <extent>
+              <charseq START="1953" END="1958">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="1953" END="1958">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M1321">
+          <extent>
+              <charseq START="2060" END="2065">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2065">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E1-M1501">
+          <extent>
+              <charseq START="2333" END="2338">Khaled</charseq>
+          </extent>
+          <head>
+              <charseq START="2333" END="2338">Khaled</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DJ Khaled">
+              <charseq START="97" END="105">DJ Khaled</charseq>
+          </name>
+          <name NAME="DJ Khaled">
+              <charseq START="286" END="294">DJ Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="522" END="527">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="607" END="612">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="744" END="749">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="1131" END="1136">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="1777" END="1782">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="1953" END="1958">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="2060" END="2065">Khaled</charseq>
+          </name>
+          <name NAME="Khaled">
+              <charseq START="2333" END="2338">Khaled</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E2-M10" ROLE="GPE">
+          <extent>
+              <charseq START="113" END="123">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="113" END="123">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E2-M303" ROLE="GPE">
+          <extent>
+              <charseq START="341" END="351">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="351">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Palestinian">
+              <charseq START="113" END="123">Palestinian</charseq>
+          </name>
+          <name NAME="Palestinian">
+              <charseq START="341" END="351">Palestinian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E3-M11" ROLE="GPE">
+          <extent>
+              <charseq START="125" END="132">American</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="132">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="125" END="132">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E4-M17">
+          <extent>
+              <charseq START="173" END="218">the Miami-based urban music radio station WEDR</charseq>
+          </extent>
+          <head>
+              <charseq START="215" END="218">WEDR</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E4-M21">
+          <extent>
+              <charseq START="207" END="213">station</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="213">station</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E4-M405">
+          <extent>
+              <charseq START="453" END="494">Miami-based urban music radio station WEDR</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="494">WEDR</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E4-M409">
+          <extent>
+              <charseq START="483" END="489">station</charseq>
+          </extent>
+          <head>
+              <charseq START="483" END="489">station</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WEDR">
+              <charseq START="215" END="218">WEDR</charseq>
+          </name>
+          <name NAME="WEDR">
+              <charseq START="491" END="494">WEDR</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E5-M18" ROLE="LOC">
+          <extent>
+              <charseq START="177" END="181">Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="181">Miami</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E5-M406" ROLE="LOC">
+          <extent>
+              <charseq START="453" END="457">Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="457">Miami</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E5-M504">
+          <extent>
+              <charseq START="641" END="645">Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="645">Miami</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miami">
+              <charseq START="177" END="181">Miami</charseq>
+          </name>
+          <name NAME="Miami">
+              <charseq START="453" END="457">Miami</charseq>
+          </name>
+          <name NAME="Miami">
+              <charseq START="641" END="645">Miami</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E6-M9">
+          <extent>
+              <charseq START="111" END="135">a Palestinian-American DJ</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="135">DJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E6-M12">
+          <extent>
+              <charseq START="138" END="218">producer and radio personality for the Miami-based urban music radio station WEDR</charseq>
+          </extent>
+          <head>
+              <charseq START="138" END="145">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E6-M1502">
+          <extent>
+              <charseq START="2344" END="2364">DJ of the Year awards</charseq>
+          </extent>
+          <head>
+              <charseq START="2344" END="2345">DJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E6-M1640">
+          <extent>
+              <charseq START="2682" END="2701">DJ of the Year [Won]</charseq>
+          </extent>
+          <head>
+              <charseq START="2682" END="2683">DJ</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E7-M104">
+          <extent>
+              <charseq START="244" END="273">the hip hop group Terror Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="273">Terror Squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E7-M107">
+          <extent>
+              <charseq START="256" END="260">group</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="260">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E7-M812">
+          <extent>
+              <charseq START="1203" END="1214">Terror Squad</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1214">Terror Squad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Terror Squad">
+              <charseq START="262" END="273">Terror Squad</charseq>
+          </name>
+          <name NAME="Terror Squad">
+              <charseq START="1203" END="1214">Terror Squad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E8-M203" ROLE="LOC">
+          <extent>
+              <charseq START="308" END="329">New Orleans, Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="308" END="318">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Orleans">
+              <charseq START="308" END="318">New Orleans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E9-M205" ROLE="LOC">
+          <extent>
+              <charseq START="321" END="329">Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="329">Louisiana</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louisiana">
+              <charseq START="321" END="329">Louisiana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E10-M304" ROLE="LOC">
+          <extent>
+              <charseq START="374" END="396">Pembroke Pines, Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="387">Pembroke Pines</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pembroke Pines">
+              <charseq START="374" END="387">Pembroke Pines</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E11" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E11-M306" ROLE="LOC">
+          <extent>
+              <charseq START="390" END="396">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="396">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="390" END="396">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E12-M402">
+          <extent>
+              <charseq START="419" END="448">the weeknight program TakeOver</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="448">TakeOver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E12-M403">
+          <extent>
+              <charseq START="433" END="439">program</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="439">program</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E12-M417">
+          <extent>
+              <charseq START="559" END="569">the station</charseq>
+          </extent>
+          <head>
+              <charseq START="563" END="569">station</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TakeOver">
+              <charseq START="441" END="448">TakeOver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E13-M411">
+          <extent>
+              <charseq START="501" END="519">fellow host K. Foxx</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="519">K. Foxx</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E13-M412">
+          <extent>
+              <charseq START="508" END="511">host</charseq>
+          </extent>
+          <head>
+              <charseq START="508" END="511">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="K. Foxx">
+              <charseq START="513" END="519">K. Foxx</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E14-M503">
+          <extent>
+              <charseq START="641" END="668">Miami rapper Luther Campbell</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="668">Luther Campbell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E14-M508">
+          <extent>
+              <charseq START="674" END="681">Campbell</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="681">Campbell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luther Campbell">
+              <charseq START="654" END="668">Luther Campbell</charseq>
+          </name>
+          <name NAME="Campbell">
+              <charseq START="674" END="681">Campbell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E15-M502">
+          <extent>
+              <charseq START="624" END="634">a &quot;sidekick</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="634">sidekick</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E16-M610">
+          <extent>
+              <charseq START="810" END="813">fans</charseq>
+          </extent>
+          <head>
+              <charseq START="810" END="813">fans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E16-M620">
+          <extent>
+              <charseq START="902" END="914">not the fans)</charseq>
+          </extent>
+          <head>
+              <charseq START="910" END="913">fans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E16-M623">
+          <extent>
+              <charseq START="948" END="951">fans</charseq>
+          </extent>
+          <head>
+              <charseq START="948" END="951">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E17-M615">
+          <extent>
+              <charseq START="857" END="996">reassure listeners that &quot;they&quot; (the artists, not the fans) are in fact &quot;the best&quot; and urge fans to &quot;listennnnnn&quot; instead of his old shoutout</charseq>
+          </extent>
+          <head>
+              <charseq START="866" END="874">listeners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E17-M617">
+          <extent>
+              <charseq START="882" END="885">they</charseq>
+          </extent>
+          <head>
+              <charseq START="882" END="885">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E18-M619">
+          <extent>
+              <charseq START="889" END="899">the artists</charseq>
+          </extent>
+          <head>
+              <charseq START="893" END="899">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E19-M806">
+          <extent>
+              <charseq START="1179" END="1186">Fabolous</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1186">Fabolous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="DJ_Khaled.sentences.sgm-E19-M807">
+          <extent>
+              <charseq START="1189" END="1273">True Story by Terror Squad, All or Nothing by Fat Joe, and Me, Myself, &amp; I by Fat Joe</charseq>
+          </extent>
+          <head>
+              <charseq START="1262" END="1262">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fabolous">
+              <charseq START="1179" END="1186">Fabolous</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E20-M823">
+          <extent>
+              <charseq START="1267" END="1273">Fat Joe</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1273">Fat Joe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fat Joe">
+              <charseq START="1267" END="1273">Fat Joe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E21-M907">
+          <extent>
+              <charseq START="1344" END="1355">Koch Records</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1355">Koch Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Koch Records">
+              <charseq START="1344" END="1355">Koch Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1017">
+          <extent>
+              <charseq START="1499" END="1507">Rick Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="1499" END="1507">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1024">
+          <extent>
+              <charseq START="1547" END="1555">Rick Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="1547" END="1555">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1215">
+          <extent>
+              <charseq START="1899" END="1912">Rick Ross, Dre</charseq>
+          </extent>
+          <head>
+              <charseq START="1899" END="1912">Rick Ross, Dre</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1328">
+          <extent>
+              <charseq START="2143" END="2151">Rick Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="2143" END="2151">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1635">
+          <extent>
+              <charseq START="2635" END="2643">Rick Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="2635" END="2643">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1672">
+          <extent>
+              <charseq START="2870" END="3135">Rick Ross [Won]
+2007, People&apos;s Choice Award (&quot;We Takin&apos; Over&quot;) with Akon, T.I., Rick Ross, Fat Joe, Birdman, &amp; Lil Wayne [Nominated]
+2007, Best Hip-Hop Collabo (&quot;We Takin&apos; Over&quot;) with Akon, T.I., Rick Ross, Fat Joe, Birdman, &amp; Lil Wayne [Nominated]
+Ozone Awards
+2008</charseq>
+          </extent>
+          <head>
+              <charseq START="2870" END="2878">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E22-M1689">
+          <extent>
+              <charseq START="2950" END="2958">Rick Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="2950" END="2958">Rick Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rick Ross">
+              <charseq START="1499" END="1507">Rick Ross</charseq>
+          </name>
+          <name NAME="Rick Ross">
+              <charseq START="1547" END="1555">Rick Ross</charseq>
+          </name>
+          <name NAME="Rick Ross, Dre">
+              <charseq START="1899" END="1912">Rick Ross, Dre</charseq>
+          </name>
+          <name NAME="Rick Ross">
+              <charseq START="2143" END="2151">Rick Ross</charseq>
+          </name>
+          <name NAME="Rick Ross">
+              <charseq START="2635" END="2643">Rick Ross</charseq>
+          </name>
+          <name NAME="Rick Ross">
+              <charseq START="2870" END="2878">Rick Ross</charseq>
+          </name>
+          <name NAME="Rick Ross">
+              <charseq START="2950" END="2958">Rick Ross</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E23-M1022">
+          <extent>
+              <charseq START="1535" END="1538">Akon</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1538">Akon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E23-M1327">
+          <extent>
+              <charseq START="2137" END="2140">Akon</charseq>
+          </extent>
+          <head>
+              <charseq START="2137" END="2140">Akon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E23-M1687">
+          <extent>
+              <charseq START="2938" END="2941">Akon</charseq>
+          </extent>
+          <head>
+              <charseq START="2938" END="2941">Akon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Akon">
+              <charseq START="1535" END="1538">Akon</charseq>
+          </name>
+          <name NAME="Akon">
+              <charseq START="2137" END="2140">Akon</charseq>
+          </name>
+          <name NAME="Akon">
+              <charseq START="2938" END="2941">Akon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E24-M1023">
+          <extent>
+              <charseq START="1541" END="1544">T.I.</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1544">T.I.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E24-M1688">
+          <extent>
+              <charseq START="2944" END="2947">T.I.</charseq>
+          </extent>
+          <head>
+              <charseq START="2944" END="2947">T.I.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="T.I.">
+              <charseq START="1541" END="1544">T.I.</charseq>
+          </name>
+          <name NAME="T.I.">
+              <charseq START="2944" END="2947">T.I.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E25-M1029">
+          <extent>
+              <charseq START="1580" END="1588">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="1580" END="1588">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E25-M1217">
+          <extent>
+              <charseq START="1931" END="1939">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="1931" END="1939">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E25-M1632">
+          <extent>
+              <charseq START="2604" END="2612">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="2604" END="2612">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E25-M1669">
+          <extent>
+              <charseq START="2839" END="2847">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="2839" END="2847">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E25-M1693">
+          <extent>
+              <charseq START="2981" END="3001">Lil Wayne [Nominated]</charseq>
+          </extent>
+          <head>
+              <charseq START="2985" END="2989">Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lil Wayne">
+              <charseq START="1580" END="1588">Lil Wayne</charseq>
+          </name>
+          <name NAME="Lil Wayne">
+              <charseq START="1931" END="1939">Lil Wayne</charseq>
+          </name>
+          <name NAME="Lil Wayne">
+              <charseq START="2604" END="2612">Lil Wayne</charseq>
+          </name>
+          <name NAME="Lil Wayne">
+              <charseq START="2839" END="2847">Lil Wayne</charseq>
+          </name>
+          <name NAME="Wayne">
+              <charseq START="2985" END="2989">Wayne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E26-M1013">
+          <extent>
+              <charseq START="1469" END="1485">Pain, Trick Daddy</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1485">Daddy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E26-M1331">
+          <extent>
+              <charseq START="2167" END="2177">Trick Daddy</charseq>
+          </extent>
+          <head>
+              <charseq START="2173" END="2177">Daddy</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E27-M1028">
+          <extent>
+              <charseq START="1567" END="1573">Birdman</charseq>
+          </extent>
+          <head>
+              <charseq START="1567" END="1573">Birdman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E27-M1208">
+          <extent>
+              <charseq START="1841" END="1847">Birdman</charseq>
+          </extent>
+          <head>
+              <charseq START="1841" END="1847">Birdman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E27-M1634">
+          <extent>
+              <charseq START="2624" END="2630">Birdman</charseq>
+          </extent>
+          <head>
+              <charseq START="2624" END="2630">Birdman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E27-M1671">
+          <extent>
+              <charseq START="2859" END="2865">Birdman</charseq>
+          </extent>
+          <head>
+              <charseq START="2859" END="2865">Birdman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E27-M1691">
+          <extent>
+              <charseq START="2970" END="2976">Birdman</charseq>
+          </extent>
+          <head>
+              <charseq START="2970" END="2976">Birdman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E29-M1111">
+          <extent>
+              <charseq START="1709" END="1753">the Recording Industry Association of America</charseq>
+          </extent>
+          <head>
+              <charseq START="1713" END="1753">Recording Industry Association of America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E29-M1400">
+          <extent>
+              <charseq START="2256" END="2259">RIAA</charseq>
+          </extent>
+          <head>
+              <charseq START="2256" END="2259">RIAA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Recording Industry Association of America">
+              <charseq START="1713" END="1753">Recording Industry Association of America</charseq>
+          </name>
+          <name NAME="RIAA">
+              <charseq START="2256" END="2259">RIAA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E30-M1210">
+          <extent>
+              <charseq START="1862" END="1871">5 * Stunna</charseq>
+          </extent>
+          <head>
+              <charseq START="1866" END="1871">Stunna</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E30-M1211">
+          <extent>
+              <charseq START="1864" END="1864">*</charseq>
+          </extent>
+          <head>
+              <charseq START="1864" END="1864">*</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stunna">
+              <charseq START="1866" END="1871">Stunna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E31-M1216">
+          <extent>
+              <charseq START="1915" END="1925">Young Jeezy</charseq>
+          </extent>
+          <head>
+              <charseq START="1915" END="1925">Young Jeezy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E31-M1628">
+          <extent>
+              <charseq START="2558" END="2568">Young Jeezy</charseq>
+          </extent>
+          <head>
+              <charseq START="2558" END="2568">Young Jeezy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E31-M1665">
+          <extent>
+              <charseq START="2793" END="2803">Young Jeezy</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2803">Young Jeezy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Young Jeezy">
+              <charseq START="1915" END="1925">Young Jeezy</charseq>
+          </name>
+          <name NAME="Young Jeezy">
+              <charseq START="2558" END="2568">Young Jeezy</charseq>
+          </name>
+          <name NAME="Young Jeezy">
+              <charseq START="2793" END="2803">Young Jeezy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E32-M1333">
+          <extent>
+              <charseq START="2180" END="2187">Ace Hood</charseq>
+          </extent>
+          <head>
+              <charseq START="2180" END="2187">Ace Hood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ace Hood">
+              <charseq START="2180" END="2187">Ace Hood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E33-M1334">
+          <extent>
+              <charseq START="2194" END="2198">Plies</charseq>
+          </extent>
+          <head>
+              <charseq START="2194" END="2198">Plies</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Plies">
+              <charseq START="2194" END="2198">Plies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E34-M1339">
+          <extent>
+              <charseq START="2233" END="2242">Kanye West</charseq>
+          </extent>
+          <head>
+              <charseq START="2233" END="2242">Kanye West</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kanye West">
+              <charseq START="2233" END="2242">Kanye West</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E35-M1315">
+          <extent>
+              <charseq START="2036" END="2049">Best Radio DJ.</charseq>
+          </extent>
+          <head>
+              <charseq START="2047" END="2049">DJ.</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E36-M1629">
+          <extent>
+              <charseq START="2571" END="2578">Ludacris</charseq>
+          </extent>
+          <head>
+              <charseq START="2571" END="2578">Ludacris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E36-M1666">
+          <extent>
+              <charseq START="2806" END="2813">Ludacris</charseq>
+          </extent>
+          <head>
+              <charseq START="2806" END="2813">Ludacris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ludacris">
+              <charseq START="2571" END="2578">Ludacris</charseq>
+          </name>
+          <name NAME="Ludacris">
+              <charseq START="2806" END="2813">Ludacris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E37-M1630">
+          <extent>
+              <charseq START="2581" END="2592">Busta Rhymes</charseq>
+          </extent>
+          <head>
+              <charseq START="2581" END="2592">Busta Rhymes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E37-M1667">
+          <extent>
+              <charseq START="2816" END="2827">Busta Rhymes</charseq>
+          </extent>
+          <head>
+              <charseq START="2816" END="2827">Busta Rhymes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Busta Rhymes">
+              <charseq START="2581" END="2592">Busta Rhymes</charseq>
+          </name>
+          <name NAME="Busta Rhymes">
+              <charseq START="2816" END="2827">Busta Rhymes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E38-M1631">
+          <extent>
+              <charseq START="2595" END="2601">Big Boi</charseq>
+          </extent>
+          <head>
+              <charseq START="2595" END="2601">Big Boi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="DJ_Khaled.sentences.sgm-E38-M1668">
+          <extent>
+              <charseq START="2830" END="2836">Big Boi</charseq>
+          </extent>
+          <head>
+              <charseq START="2830" END="2836">Big Boi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Big Boi">
+              <charseq START="2595" END="2601">Big Boi</charseq>
+          </name>
+          <name NAME="Big Boi">
+              <charseq START="2830" END="2836">Big Boi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E39-M1647">
+          <extent>
+              <charseq START="2709" END="2711">MVP</charseq>
+          </extent>
+          <head>
+              <charseq START="2709" END="2711">MVP</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="DJ_Khaled.sentences.sgm-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="DJ_Khaled.sentences.sgm-E40-M1680">
+          <extent>
+              <charseq START="2892" END="2897">People</charseq>
+          </extent>
+          <head>
+              <charseq START="2892" END="2897">People</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T0" VAL="1975-11-26">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="46" END="62">November 26, 1975</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="399" END="407">Currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T2" VAL="2003">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="592" END="595">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T3" VAL="1998">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="601" END="604">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T4" VAL="TNI">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="685" END="696">Friday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T5" VAL="2004T20:06">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1117" END="1128">2004 to 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T6" VAL="2006-06">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1279" END="1287">June 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T7" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1430" END="1433">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T8" VAL="2007-11-20">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1758" END="1774">November 20, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T9" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1851" END="1854">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T10" VAL="P1Y">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1942" END="1950">That year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T11" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2054" END="2057">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T12" VAL="2008-06-04">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2308" END="2319">June 4, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T13" VAL="P1Y">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2322" END="2330">That year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T14" VAL="2006">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2424" END="2427">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T15" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2452" END="2455">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T16" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2470" END="2473">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T17" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2504" END="2507">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T18" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2676" END="2679">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T19" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2703" END="2706">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T20" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2737" END="2740">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T21" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="2886" END="2889">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T22" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3003" END="3006">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T23" VAL="2008">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3132" END="3135">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T24" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3159" END="3162">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="DJ_Khaled.sentences.sgm-T25" VAL="2007">
+        <timex2_mention ID="DJ_Khaled.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="3258" END="3261">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="111" END="135">a Palestinian-American DJ</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E6-M9" ROLE="Arg-1">
+            <extent>
+              <charseq START="111" END="135">a Palestinian-American DJ</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E2-M10" ROLE="Arg-2">
+            <extent>
+              <charseq START="113" END="123">Palestinian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R1-M1">
+          <extent>
+              <charseq START="111" END="135">a Palestinian-American DJ</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E6-M9" ROLE="Arg-1">
+            <extent>
+              <charseq START="111" END="135">a Palestinian-American DJ</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E3-M11" ROLE="Arg-2">
+            <extent>
+              <charseq START="125" END="132">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R2-M2">
+          <extent>
+              <charseq START="138" END="145">producer</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E0-M14" ROLE="Arg-1">
+            <extent>
+              <charseq START="138" END="145">producer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E4-M17" ROLE="Arg-2">
+            <extent>
+              <charseq START="173" END="218">the Miami-based urban music radio station WEDR</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R3-M3">
+          <extent>
+              <charseq START="207" END="213">station</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E4-M21" ROLE="Arg-1">
+            <extent>
+              <charseq START="207" END="213">station</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E5-M18" ROLE="Arg-2">
+            <extent>
+              <charseq START="177" END="181">Miami</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R3-M400">
+          <extent>
+              <charseq START="483" END="489">station</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E4-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="483" END="489">station</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E5-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="453" END="457">Miami</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R4-M100">
+          <extent>
+              <charseq START="232" END="273">a member of the hip hop group Terror Squad</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E1-M102" ROLE="Arg-1">
+            <extent>
+              <charseq START="232" END="273">a member of the hip hop group Terror Squad</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E7-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="244" END="273">the hip hop group Terror Squad</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R5-M200">
+          <extent>
+              <charseq START="276" END="294">Biography
+DJ Khaled</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E1-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="276" END="294">Biography
+DJ Khaled</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E8-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="308" END="329">New Orleans, Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R6-M201">
+          <extent>
+              <charseq START="308" END="329">New Orleans, Louisiana</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E8-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="308" END="329">New Orleans, Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E9-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="321" END="329">Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E10" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R7-M300">
+          <extent>
+              <charseq START="332" END="333">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E0-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="332" END="333">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E10-M304" ROLE="Arg-2">
+            <extent>
+              <charseq START="374" END="396">Pembroke Pines, Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="DJ_Khaled.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="DJ_Khaled.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="DJ_Khaled.sentences.sgm-R8-M301">
+          <extent>
+              <charseq START="374" END="396">Pembroke Pines, Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E10-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="374" END="396">Pembroke Pines, Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="DJ_Khaled.sentences.sgm-E11-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="390" END="396">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="DJ_Khaled.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="DJ_Khaled.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="DJ_Khaled.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="DJ_Khaled.sentences.sgm-EV0-M1">
+          <extent>
+              <charseq START="41" END="44">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="41" END="44">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="DJ_Khaled.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="26" END="57">Khaled Khaled (born November 26,</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="DJ_Khaled.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="46" END="62">November 26, 1975</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="DJ_Khaled.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="DJ_Khaled.sentences.sgm-E8" ROLE="Place"/>
+      <event_argument REFID="DJ_Khaled.sentences.sgm-E1" ROLE="Person"/>
+      <event_mention ID="DJ_Khaled.sentences.sgm-EV1-M201">
+          <extent>
+              <charseq START="300" END="303">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="300" END="303">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="DJ_Khaled.sentences.sgm-E8-M203" ROLE="Place">
+          <extent>
+              <charseq START="308" END="329">New Orleans, Louisiana</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="DJ_Khaled.sentences.sgm-E1-M200" ROLE="Person">
+          <extent>
+              <charseq START="276" END="294">Biography
+DJ Khaled</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

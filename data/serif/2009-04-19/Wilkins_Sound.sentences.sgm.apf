@@ -1,0 +1,1535 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Wilkins_Sound.sentences.sgm">
+  <document DOCID="Wilkins_Sound.sentences.sgm">
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E0" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="30" END="42">Wilkins Sound</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="42">Wilkins Sound</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E0-M1">
+          <extent>
+              <charseq START="47" END="118">a seaway in Antarctica that is largely occupied by the Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="49" END="54">seaway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E0-M4">
+          <extent>
+              <charseq START="70" END="73">that</charseq>
+          </extent>
+          <head>
+              <charseq START="70" END="73">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E0-M1003">
+          <extent>
+              <charseq START="1542" END="1584">Wilkins Sound, from which it takes its name</charseq>
+          </extent>
+          <head>
+              <charseq START="1542" END="1554">Wilkins Sound</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E0-M1005">
+          <extent>
+              <charseq START="1562" END="1566">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1562" END="1566">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E0-M1216">
+          <extent>
+              <charseq START="1808" END="1814">Wilkins</charseq>
+          </extent>
+          <head>
+              <charseq START="1808" END="1814">Wilkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E0-M1504">
+          <extent>
+              <charseq START="2440" END="2446">Wilkins</charseq>
+          </extent>
+          <head>
+              <charseq START="2440" END="2446">Wilkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E0-M1802">
+          <extent>
+              <charseq START="2859" END="2865">Wilkins</charseq>
+          </extent>
+          <head>
+              <charseq START="2859" END="2865">Wilkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wilkins Sound">
+              <charseq START="30" END="42">Wilkins Sound</charseq>
+          </name>
+          <name NAME="Wilkins Sound">
+              <charseq START="1542" END="1554">Wilkins Sound</charseq>
+          </name>
+          <name NAME="Wilkins">
+              <charseq START="1808" END="1814">Wilkins</charseq>
+          </name>
+          <name NAME="Wilkins">
+              <charseq START="2440" END="2446">Wilkins</charseq>
+          </name>
+          <name NAME="Wilkins">
+              <charseq START="2859" END="2865">Wilkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E1-M3" ROLE="LOC">
+          <extent>
+              <charseq START="59" END="68">Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="59" END="68">Antarctica</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E1-M610" ROLE="GPE">
+          <extent>
+              <charseq START="1117" END="1126">Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1126">Antarctica</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E1-M608">
+          <extent>
+              <charseq START="1104" END="1126">the coast of Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="1108" END="1112">coast</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E1-M1707" ROLE="LOC">
+          <extent>
+              <charseq START="2824" END="2836">the continent</charseq>
+          </extent>
+          <head>
+              <charseq START="2828" END="2836">continent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E1-M3604" ROLE="GPE">
+          <extent>
+              <charseq START="5164" END="5173">Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="5164" END="5173">Antarctica</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E1-M3602">
+          <extent>
+              <charseq START="5149" END="5173">this region of Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="5154" END="5159">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antarctica">
+              <charseq START="59" END="68">Antarctica</charseq>
+          </name>
+          <name NAME="Antarctica">
+              <charseq START="1117" END="1126">Antarctica</charseq>
+          </name>
+          <name NAME="Antarctica">
+              <charseq START="5164" END="5173">Antarctica</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M5">
+          <extent>
+              <charseq START="98" END="118">the Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="102" END="118">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M605">
+          <extent>
+              <charseq START="1078" END="1126">the Wilkins Ice Shelf off the coast of Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="1082" END="1098">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M900">
+          <extent>
+              <charseq START="1372" END="1410">Wilkins Ice Shelf
+The Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="1394" END="1410">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M901">
+          <extent>
+              <charseq START="1372" END="1388">Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="1372" END="1388">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E2-M902">
+          <extent>
+              <charseq START="1390" END="1392">The</charseq>
+          </extent>
+          <head>
+              <charseq START="1390" END="1392">The</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E2-M1009">
+          <extent>
+              <charseq START="1577" END="1579">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1579">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M2100">
+          <extent>
+              <charseq START="3141" END="3161">The Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="3145" END="3161">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M2104">
+          <extent>
+              <charseq START="3218" END="3239">the Larsen B Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="3229" END="3239">B Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E2-M2105">
+          <extent>
+              <charseq START="3222" END="3227">Larsen</charseq>
+          </extent>
+          <head>
+              <charseq START="3222" END="3227">Larsen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M2203">
+          <extent>
+              <charseq START="3351" END="3371">the Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="3355" END="3371">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E2-M2201">
+          <extent>
+              <charseq START="3329" END="3330">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3329" END="3330">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M3302">
+          <extent>
+              <charseq START="4857" END="4877">the Wilkins Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="4861" END="4877">Wilkins Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E2-M3802">
+          <extent>
+              <charseq START="5372" END="5387">Larsen Ice Shelf</charseq>
+          </extent>
+          <head>
+              <charseq START="5372" END="5387">Larsen Ice Shelf</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="102" END="118">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="1082" END="1098">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="1394" END="1410">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="1372" END="1388">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="3145" END="3161">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="B Ice Shelf">
+              <charseq START="3229" END="3239">B Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="3355" END="3371">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Wilkins Ice Shelf">
+              <charseq START="4861" END="4877">Wilkins Ice Shelf</charseq>
+          </name>
+          <name NAME="Larsen Ice Shelf">
+              <charseq START="5372" END="5387">Larsen Ice Shelf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E3" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E3-M106">
+          <extent>
+              <charseq START="164" END="291">Antarctic Peninsula between the concave western coastline of Alexander Island and the shores of Charcot Island and Latady Island</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="182">Antarctic Peninsula</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M112">
+          <extent>
+              <charseq START="246" END="291">the shores of Charcot Island and Latady Island</charseq>
+          </extent>
+          <head>
+              <charseq START="250" END="255">shores</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E3-M1309">
+          <extent>
+              <charseq START="2060" END="2078">Antarctic Peninsula</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2078">Antarctic Peninsula</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M1308">
+          <extent>
+              <charseq START="2056" END="2085">the Antarctic Peninsula region</charseq>
+          </extent>
+          <head>
+              <charseq START="2080" END="2085">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M1313">
+          <extent>
+              <charseq START="2160" END="2179">these surface waters</charseq>
+          </extent>
+          <head>
+              <charseq START="2174" END="2179">waters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E3-M1610">
+          <extent>
+              <charseq START="2674" END="2688">Antarctic Ridge</charseq>
+          </extent>
+          <head>
+              <charseq START="2674" END="2688">Antarctic Ridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M2404">
+          <extent>
+              <charseq START="3700" END="3708">the ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="3704" END="3708">ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M2607">
+          <extent>
+              <charseq START="3976" END="4030">the area of the state of Connecticut (about 14,000 km²)</charseq>
+          </extent>
+          <head>
+              <charseq START="3980" END="3983">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E3-M2601">
+          <extent>
+              <charseq START="3930" END="3931">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3930" END="3931">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E3-M2714">
+          <extent>
+              <charseq START="4179" END="4201">the Antarctic Peninsula</charseq>
+          </extent>
+          <head>
+              <charseq START="4183" END="4201">Antarctic Peninsula</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M2804">
+          <extent>
+              <charseq START="4290" END="4297">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="4294" END="4297">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E3-M3004">
+          <extent>
+              <charseq START="4479" END="4486">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="4483" END="4486">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antarctic Peninsula">
+              <charseq START="164" END="182">Antarctic Peninsula</charseq>
+          </name>
+          <name NAME="Antarctic Peninsula">
+              <charseq START="2060" END="2078">Antarctic Peninsula</charseq>
+          </name>
+          <name NAME="Antarctic Ridge">
+              <charseq START="2674" END="2688">Antarctic Ridge</charseq>
+          </name>
+          <name NAME="Antarctic Peninsula">
+              <charseq START="4183" END="4201">Antarctic Peninsula</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E4-M111" ROLE="GPE">
+          <extent>
+              <charseq START="225" END="240">Alexander Island</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="240">Alexander Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E4-M109">
+          <extent>
+              <charseq START="192" END="240">the concave western coastline of Alexander Island</charseq>
+          </extent>
+          <head>
+              <charseq START="212" END="220">coastline</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexander Island">
+              <charseq START="225" END="240">Alexander Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E5-M115" ROLE="GPE">
+          <extent>
+              <charseq START="260" END="273">Charcot Island</charseq>
+          </extent>
+          <head>
+              <charseq START="260" END="273">Charcot Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E5-M415">
+          <extent>
+              <charseq START="724" END="737">Charcot Island</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="737">Charcot Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E5-M3108" ROLE="LOC">
+          <extent>
+              <charseq START="4628" END="4641">Charcot Island</charseq>
+          </extent>
+          <head>
+              <charseq START="4628" END="4641">Charcot Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charcot Island">
+              <charseq START="260" END="273">Charcot Island</charseq>
+          </name>
+          <name NAME="Charcot Island">
+              <charseq START="724" END="737">Charcot Island</charseq>
+          </name>
+          <name NAME="Charcot Island">
+              <charseq START="4628" END="4641">Charcot Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E6-M116" ROLE="GPE">
+          <extent>
+              <charseq START="279" END="291">Latady Island</charseq>
+          </extent>
+          <head>
+              <charseq START="279" END="291">Latady Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E6-M502" ROLE="GPE">
+          <extent>
+              <charseq START="805" END="817">Latady Island</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="817">Latady Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E6-M3401">
+          <extent>
+              <charseq START="4962" END="4974">Latady Island</charseq>
+          </extent>
+          <head>
+              <charseq START="4962" END="4974">Latady Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Latady Island">
+              <charseq START="279" END="291">Latady Island</charseq>
+          </name>
+          <name NAME="Latady Island">
+              <charseq START="805" END="817">Latady Island</charseq>
+          </name>
+          <name NAME="Latady Island">
+              <charseq START="4962" END="4974">Latady Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E7" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E7-M203">
+          <extent>
+              <charseq START="380" END="438">the French Antarctic Expedition under Jean-Baptiste Charcot</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="410">Antarctic Expedition</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antarctic Expedition">
+              <charseq START="391" END="410">Antarctic Expedition</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E8-M205">
+          <extent>
+              <charseq START="384" END="389">French</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="389">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="384" END="389">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E9-M207">
+          <extent>
+              <charseq START="418" END="438">Jean-Baptiste Charcot</charseq>
+          </extent>
+          <head>
+              <charseq START="418" END="438">Jean-Baptiste Charcot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean-Baptiste Charcot">
+              <charseq START="418" END="438">Jean-Baptiste Charcot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E10-M210">
+          <extent>
+              <charseq START="481" END="498">Sir Hubert Wilkins</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="498">Hubert Wilkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E10-M211">
+          <extent>
+              <charseq START="481" END="483">Sir</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="483">Sir</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E10-M404">
+          <extent>
+              <charseq START="643" END="785">Sir Hubert Wilkins, who in 1929 first proved &quot;Charcot Land&quot; to be an island (see Charcot Island) and thereby indirectly discovered this feature</charseq>
+          </extent>
+          <head>
+              <charseq START="647" END="660">Hubert Wilkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E10-M406">
+          <extent>
+              <charseq START="643" END="645">Sir</charseq>
+          </extent>
+          <head>
+              <charseq START="643" END="645">Sir</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E10-M408">
+          <extent>
+              <charseq START="663" END="665">who</charseq>
+          </extent>
+          <head>
+              <charseq START="663" END="665">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hubert Wilkins">
+              <charseq START="485" END="498">Hubert Wilkins</charseq>
+          </name>
+          <name NAME="Hubert Wilkins">
+              <charseq START="647" END="660">Hubert Wilkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E11-M306">
+          <extent>
+              <charseq START="581" END="611">the US Antarctic Service (USAS)</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="604">US Antarctic Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US Antarctic Service">
+              <charseq START="585" END="604">US Antarctic Service</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E12-M402">
+          <extent>
+              <charseq START="630" END="637">the USAS</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="637">USAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="USAS">
+              <charseq START="634" END="637">USAS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E13" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E13-M414">
+          <extent>
+              <charseq START="709" END="717">an island</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="717">island</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E14-M507">
+          <extent>
+              <charseq START="880" END="939">D.J.H.
+Searle of Falkland Islands Dependencies Survey (FIDS)</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="892">D.J.H.
+Searle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="D.J.H.
+Searle">
+              <charseq START="880" END="892">D.J.H.
+Searle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E15-M511" ROLE="GPE">
+          <extent>
+              <charseq START="897" END="912">Falkland Islands</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="912">Falkland Islands</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Falkland Islands">
+              <charseq START="897" END="912">Falkland Islands</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E16-M521">
+          <extent>
+              <charseq START="983" END="1017">Ronne Antarctic Research Expedition</charseq>
+          </extent>
+          <head>
+              <charseq START="983" END="1017">Ronne Antarctic Research Expedition</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ronne Antarctic Research Expedition">
+              <charseq START="983" END="1017">Ronne Antarctic Research Expedition</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E17" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E17-M601">
+          <extent>
+              <charseq START="1052" END="1126">the thin bridge of ice to the Wilkins Ice Shelf off the coast of Antarctica</charseq>
+          </extent>
+          <head>
+              <charseq START="1061" END="1066">bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E17-M3101">
+          <extent>
+              <charseq START="4577" END="4641">the ice bridge connecting part of the ice shelf to Charcot Island</charseq>
+          </extent>
+          <head>
+              <charseq START="4585" END="4590">bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E17-M3202">
+          <extent>
+              <charseq START="4698" END="4714">the   long bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4709" END="4714">bridge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E18-M611">
+          <extent>
+              <charseq START="1144" END="1153">scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="1144" END="1153">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E19-M800">
+          <extent>
+              <charseq START="1279" END="1323">David Vaughan of the British Antarctic Survey</charseq>
+          </extent>
+          <head>
+              <charseq START="1279" END="1291">David Vaughan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E19-M1205">
+          <extent>
+              <charseq START="1706" END="1766">Professor David Vaughan of the British Antarctic Survey (BAS)</charseq>
+          </extent>
+          <head>
+              <charseq START="1716" END="1728">David Vaughan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E19-M1207">
+          <extent>
+              <charseq START="1706" END="1714">Professor</charseq>
+          </extent>
+          <head>
+              <charseq START="1706" END="1714">Professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E19-M1401">
+          <extent>
+              <charseq START="2270" END="2282">David Vaughan</charseq>
+          </extent>
+          <head>
+              <charseq START="2270" END="2282">David Vaughan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E19-M1403">
+          <extent>
+              <charseq START="2293" END="2295">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2293" END="2295">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E19-M1407">
+          <extent>
+              <charseq START="2390" END="2391">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2390" END="2391">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Vaughan">
+              <charseq START="1279" END="1291">David Vaughan</charseq>
+          </name>
+          <name NAME="David Vaughan">
+              <charseq START="1716" END="1728">David Vaughan</charseq>
+          </name>
+          <name NAME="David Vaughan">
+              <charseq START="2270" END="2282">David Vaughan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E20-M802">
+          <extent>
+              <charseq START="1296" END="1323">the British Antarctic Survey</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1323">British Antarctic Survey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E20-M1209">
+          <extent>
+              <charseq START="1733" END="1766">the British Antarctic Survey (BAS)</charseq>
+          </extent>
+          <head>
+              <charseq START="1737" END="1760">British Antarctic Survey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Antarctic Survey">
+              <charseq START="1300" END="1323">British Antarctic Survey</charseq>
+          </name>
+          <name NAME="British Antarctic Survey">
+              <charseq START="1737" END="1760">British Antarctic Survey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E21-M1001">
+          <extent>
+              <charseq START="1522" END="1584">the central part of Wilkins Sound, from which it takes its name</charseq>
+          </extent>
+          <head>
+              <charseq START="1534" END="1537">part</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E22-M1102">
+          <extent>
+              <charseq START="1616" END="1649">UK Antarctic Place-Names Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1616" END="1649">UK Antarctic Place-Names Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UK Antarctic Place-Names Committee">
+              <charseq START="1616" END="1649">UK Antarctic Place-Names Committee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E23-M1103">
+          <extent>
+              <charseq START="1652" END="1657">UK-APC</charseq>
+          </extent>
+          <head>
+              <charseq START="1652" END="1657">UK-APC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UK-APC">
+              <charseq START="1652" END="1657">UK-APC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E24" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E24-M1222">
+          <extent>
+              <charseq START="1886" END="1898">the Peninsula</charseq>
+          </extent>
+          <head>
+              <charseq START="1890" END="1898">Peninsula</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peninsula">
+              <charseq START="1890" END="1898">Peninsula</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E25" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E25-M1302">
+          <extent>
+              <charseq START="1946" END="1985">the National Academy of Sciences in 2002</charseq>
+          </extent>
+          <head>
+              <charseq START="1950" END="1977">National Academy of Sciences</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Academy of Sciences">
+              <charseq START="1950" END="1977">National Academy of Sciences</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E26" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E26-M1608">
+          <extent>
+              <charseq START="2666" END="2672">Pacific</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2672">Pacific</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pacific">
+              <charseq START="2666" END="2672">Pacific</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E27-M1700">
+          <extent>
+              <charseq START="2717" END="2726">Scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="2717" END="2726">Scientists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Wilkins_Sound.sentences.sgm-E27-M1701">
+          <extent>
+              <charseq START="2748" END="2751">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2748" END="2751">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E28-M2206">
+          <extent>
+              <charseq START="3407" END="3413">the ESA</charseq>
+          </extent>
+          <head>
+              <charseq START="3411" END="3413">ESA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E28-M2317">
+          <extent>
+              <charseq START="3610" END="3616">the ESA</charseq>
+          </extent>
+          <head>
+              <charseq START="3614" END="3616">ESA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E28-M2706">
+          <extent>
+              <charseq START="4074" END="4076">ESA</charseq>
+          </extent>
+          <head>
+              <charseq START="4074" END="4076">ESA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E28-M2802">
+          <extent>
+              <charseq START="4253" END="4255">ESA</charseq>
+          </extent>
+          <head>
+              <charseq START="4253" END="4255">ESA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ESA">
+              <charseq START="3411" END="3413">ESA</charseq>
+          </name>
+          <name NAME="ESA">
+              <charseq START="3614" END="3616">ESA</charseq>
+          </name>
+          <name NAME="ESA">
+              <charseq START="4074" END="4076">ESA</charseq>
+          </name>
+          <name NAME="ESA">
+              <charseq START="4253" END="4255">ESA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E29" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E29-M2313">
+          <extent>
+              <charseq START="3564" END="3582">ice—and the islands</charseq>
+          </extent>
+          <head>
+              <charseq START="3576" END="3582">islands</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E29-M3212">
+          <extent>
+              <charseq START="4776" END="4787">the mainland</charseq>
+          </extent>
+          <head>
+              <charseq START="4780" END="4787">mainland</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E30-M2401">
+          <extent>
+              <charseq START="3644" END="3650">Reuters</charseq>
+          </extent>
+          <head>
+              <charseq START="3644" END="3650">Reuters</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reuters">
+              <charseq START="3644" END="3650">Reuters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E31" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E31-M2611" ROLE="GPE">
+          <extent>
+              <charseq START="4001" END="4030">Connecticut (about 14,000 km²)</charseq>
+          </extent>
+          <head>
+              <charseq START="4001" END="4011">Connecticut</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Connecticut">
+              <charseq START="4001" END="4011">Connecticut</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E32" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E32-M2600">
+          <extent>
+              <charseq START="3905" END="3913">the strip</charseq>
+          </extent>
+          <head>
+              <charseq START="3909" END="3913">strip</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E33-M2705">
+          <extent>
+              <charseq START="4074" END="4085">ESA analysts</charseq>
+          </extent>
+          <head>
+              <charseq START="4078" END="4085">analysts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E34-M3001">
+          <extent>
+              <charseq START="4438" END="4441">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="4438" END="4441">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NASA">
+              <charseq START="4438" END="4441">NASA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E35-M3002">
+          <extent>
+              <charseq START="4445" END="4449">Terra</charseq>
+          </extent>
+          <head>
+              <charseq START="4445" END="4449">Terra</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Terra">
+              <charseq START="4445" END="4449">Terra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Wilkins_Sound.sentences.sgm-E36-M3301">
+          <extent>
+              <charseq START="4828" END="4842">some scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="4833" END="4842">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E37-M3705" ROLE="GPE">
+          <extent>
+              <charseq START="5275" END="5281">Jamaica</charseq>
+          </extent>
+          <head>
+              <charseq START="5275" END="5281">Jamaica</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jamaica">
+              <charseq START="5275" END="5281">Jamaica</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Wilkins_Sound.sentences.sgm-E38" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Wilkins_Sound.sentences.sgm-E38-M3807">
+          <extent>
+              <charseq START="5419" END="5451">Pine Island Bay
+Rothschild Island</charseq>
+          </extent>
+          <head>
+              <charseq START="5419" END="5451">Pine Island Bay
+Rothschild Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pine Island Bay
+Rothschild Island">
+              <charseq START="5419" END="5451">Pine Island Bay
+Rothschild Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T0" VAL="1910">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="372" END="375">1910</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T1" VAL="1929">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="473" END="476">1929</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T2" VAL="1940">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="550" END="553">1940</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T3" VAL="1929">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="670" END="673">1929</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T4" VAL="1960">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="872" END="875">1960</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T5" VAL="1947">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1027" END="1033">1947–48</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T6" VAL="2009-04-05">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1039" END="1050">5 April 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T7" VAL="1971">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1663" END="1666">1971</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T8" VAL="1993">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1700" END="1703">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T9" VAL="P30Y">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1855" END="1862">30 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T10" VAL="2002">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1982" END="1985">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T11" VAL="2008">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2265" END="2268">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T12" VAL="2008-03-25">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2409" END="2421">25 March 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T13" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2611" END="2616">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T14" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2880" END="2882">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T15" VAL="XXXX-05" MOD="END">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2927" END="2940">the end of May</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T16" VAL="XXXX-WI">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3133" END="3138">winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T17" VAL="2008-11-29">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="3312" END="3327">29 November 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T18" VAL="2008">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3401" END="3404">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T19" VAL="2008-11">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3451" END="3463">November 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T20" VAL="2009-01-20">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3627" END="3641">20 January 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T21" VAL="PXM">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3717" END="3732">&quot;weeks or months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T22" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3968" END="3970">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T23" VAL="2009-04-02">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4057" END="4068">2 April 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T24">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4304" END="4308">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T25" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="4398" END="4408">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T26" VAL="P1D">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="4502" END="4506">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T27" VAL="2009-04-05">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="4563" END="4574">5 April 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T28" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="4882" END="4884">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T29" VAL="PXD">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="4891" END="4894">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Wilkins_Sound.sentences.sgm-T30" VAL="195">
+        <timex2_mention ID="Wilkins_Sound.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="5215" END="5223">the 1950s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="47" END="118">a seaway in Antarctica that is largely occupied by the Wilkins Ice Shelf</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E0-M1" ROLE="Arg-1">
+            <extent>
+              <charseq START="47" END="118">a seaway in Antarctica that is largely occupied by the Wilkins Ice Shelf</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E1-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="59" END="68">Antarctica</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E4" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="164" END="291">Antarctic Peninsula between the concave western coastline of Alexander Island and the shores of Charcot Island and Latady Island</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E3-M106" ROLE="Arg-1">
+            <extent>
+              <charseq START="164" END="291">Antarctic Peninsula between the concave western coastline of Alexander Island and the shores of Charcot Island and Latady Island</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E4-M109" ROLE="Arg-2">
+            <extent>
+              <charseq START="192" END="240">the concave western coastline of Alexander Island</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E5" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R2-M101">
+          <extent>
+              <charseq START="246" END="291">the shores of Charcot Island and Latady Island</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E3-M112" ROLE="Arg-1">
+            <extent>
+              <charseq START="246" END="291">the shores of Charcot Island and Latady Island</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E5-M115" ROLE="Arg-2">
+            <extent>
+              <charseq START="260" END="273">Charcot Island</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R3-M800">
+          <extent>
+              <charseq START="1279" END="1323">David Vaughan of the British Antarctic Survey</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E19-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="1279" END="1323">David Vaughan of the British Antarctic Survey</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E20-M802" ROLE="Arg-2">
+            <extent>
+              <charseq START="1296" END="1323">the British Antarctic Survey</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R3-M1200">
+          <extent>
+              <charseq START="1706" END="1766">Professor David Vaughan of the British Antarctic Survey (BAS)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E19-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1706" END="1766">Professor David Vaughan of the British Antarctic Survey (BAS)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E20-M1209" ROLE="Arg-2">
+            <extent>
+              <charseq START="1733" END="1766">the British Antarctic Survey (BAS)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R4-M1000">
+          <extent>
+              <charseq START="1522" END="1584">the central part of Wilkins Sound, from which it takes its name</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E21-M1001" ROLE="Arg-1">
+            <extent>
+              <charseq START="1522" END="1584">the central part of Wilkins Sound, from which it takes its name</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E0-M1003" ROLE="Arg-2">
+            <extent>
+              <charseq START="1542" END="1584">Wilkins Sound, from which it takes its name</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Wilkins_Sound.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Wilkins_Sound.sentences.sgm-E28" ROLE="Arg-2"/>
+        <relation_mention ID="Wilkins_Sound.sentences.sgm-R5-M2700">
+          <extent>
+              <charseq START="4074" END="4085">ESA analysts</charseq>
+          </extent>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E33-M2705" ROLE="Arg-1">
+            <extent>
+              <charseq START="4074" END="4085">ESA analysts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Wilkins_Sound.sentences.sgm-E28-M2706" ROLE="Arg-2">
+            <extent>
+              <charseq START="4074" END="4076">ESA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Wilkins_Sound.sentences.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Wilkins_Sound.sentences.sgm-E3" ROLE="Origin"/>
+      <event_mention ID="Wilkins_Sound.sentences.sgm-EV0-M2700">
+          <extent>
+              <charseq START="4163" END="4172">break-away</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4163" END="4172">break-away</charseq>
+          </anchor>
+        <event_mention_argument REFID="Wilkins_Sound.sentences.sgm-E3-M2714" ROLE="Origin">
+          <extent>
+              <charseq START="4179" END="4201">the Antarctic Peninsula</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

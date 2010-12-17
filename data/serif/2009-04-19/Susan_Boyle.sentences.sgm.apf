@@ -1,0 +1,4512 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Susan_Boyle.sentences.sgm">
+  <document DOCID="Susan_Boyle.sentences.sgm">
+
+    <entity ID="Susan_Boyle.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="28" END="50">Susan Boyle (born 1961)</charseq>
+          </extent>
+          <head>
+              <charseq START="28" END="38">Susan Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="55" END="81">a Scottish church volunteer</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="81">volunteer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M8">
+          <extent>
+              <charseq START="87" END="100">amateur singer</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="100">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="55" END="207">a Scottish church volunteer and amateur singer who came to public attention when she appeared as a contestant on the third series of Britain&apos;s Got Talent</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="81">volunteer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M10">
+          <extent>
+              <charseq START="102" END="104">who</charseq>
+          </extent>
+          <head>
+              <charseq START="102" END="104">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M12">
+          <extent>
+              <charseq START="136" END="138">she</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="138">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="210" END="214">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="214">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="259" END="261">she</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="261">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="349" END="351">she</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="351">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M209">
+          <extent>
+              <charseq START="432" END="434">her</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="434">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M306">
+          <extent>
+              <charseq START="571" END="579">The Woman</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="579">Woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M302">
+          <extent>
+              <charseq START="502" END="504">her</charseq>
+          </extent>
+          <head>
+              <charseq START="502" END="504">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="550" END="552">she</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="552">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M400">
+          <extent>
+              <charseq START="608" END="610">She</charseq>
+          </extent>
+          <head>
+              <charseq START="608" END="610">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M605">
+          <extent>
+              <charseq START="909" END="911">her</charseq>
+          </extent>
+          <head>
+              <charseq START="909" END="911">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M609">
+          <extent>
+              <charseq START="959" END="961">her</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="961">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M702">
+          <extent>
+              <charseq START="1005" END="1007">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1005" END="1007">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M710">
+          <extent>
+              <charseq START="1075" END="1077">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1075" END="1077">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M804">
+          <extent>
+              <charseq START="1189" END="1193">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1189" END="1193">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M809">
+          <extent>
+              <charseq START="1230" END="1255">a subsidiary of Sony Music</charseq>
+          </extent>
+          <head>
+              <charseq START="1232" END="1241">subsidiary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M900">
+          <extent>
+              <charseq START="1258" END="1276">Personal life
+Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1276">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M902">
+          <extent>
+              <charseq START="1267" END="1270">life</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1270">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M904">
+          <extent>
+              <charseq START="1281" END="1309">the youngest of nine children</charseq>
+          </extent>
+          <head>
+              <charseq START="1285" END="1292">youngest</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M912">
+          <extent>
+              <charseq START="1353" END="1355">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1353" END="1355">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1393" END="1395">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1393" END="1395">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M1105">
+          <extent>
+              <charseq START="1513" END="1562">her sick mother, who died in 2007 at the age of 91</charseq>
+          </extent>
+          <head>
+              <charseq START="1522" END="1527">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1100">
+          <extent>
+              <charseq START="1464" END="1466">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1464" END="1466">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1104">
+          <extent>
+              <charseq START="1476" END="1478">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1476" END="1478">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1107">
+          <extent>
+              <charseq START="1513" END="1515">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1513" END="1515">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1108">
+          <extent>
+              <charseq START="1530" END="1532">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1530" END="1532">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M1210">
+          <extent>
+              <charseq START="1647" END="1651">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1647" END="1651">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M1212">
+          <extent>
+              <charseq START="1668" END="1677">her mother</charseq>
+          </extent>
+          <head>
+              <charseq START="1672" END="1677">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1202">
+          <extent>
+              <charseq START="1565" END="1567">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1565" END="1567">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1213">
+          <extent>
+              <charseq START="1668" END="1670">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1668" END="1670">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M1300">
+          <extent>
+              <charseq START="1688" END="1692">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="1688" END="1692">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M1308">
+          <extent>
+              <charseq START="1770" END="1883">her late mother, who urged her to &quot;take the risk&quot; of singing in front of an audience larger than her parish church</charseq>
+          </extent>
+          <head>
+              <charseq START="1779" END="1784">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1303">
+          <extent>
+              <charseq START="1729" END="1731">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1731">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1310">
+          <extent>
+              <charseq START="1770" END="1772">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1770" END="1772">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1311">
+          <extent>
+              <charseq START="1787" END="1789">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1789">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1312">
+          <extent>
+              <charseq START="1797" END="1799">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1797" END="1799">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1321">
+          <extent>
+              <charseq START="1867" END="1869">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1867" END="1869">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1400">
+          <extent>
+              <charseq START="1886" END="1888">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1886" END="1888">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1501">
+          <extent>
+              <charseq START="1936" END="1938">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1938">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1503">
+          <extent>
+              <charseq START="1955" END="1957">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1957">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1505">
+          <extent>
+              <charseq START="1964" END="1966">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1966">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1507">
+          <extent>
+              <charseq START="2003" END="2005">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2003" END="2005">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M1602">
+          <extent>
+              <charseq START="2072" END="2123">a musical theatre singer in the vein of Elaine Paige</charseq>
+          </extent>
+          <head>
+              <charseq START="2090" END="2095">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1600">
+          <extent>
+              <charseq START="2050" END="2052">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2050" END="2052">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M1700">
+          <extent>
+              <charseq START="2126" END="2153">Television performance
+Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="2149" END="2153">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M1702">
+          <extent>
+              <charseq START="2137" END="2147">performance</charseq>
+          </extent>
+          <head>
+              <charseq START="2137" END="2147">performance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M1804">
+          <extent>
+              <charseq START="2370" END="2372">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2370" END="2372">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M1900">
+          <extent>
+              <charseq START="2447" END="2451">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2451">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M2008">
+          <extent>
+              <charseq START="2576" END="2580">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="2576" END="2580">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M2404">
+          <extent>
+              <charseq START="3149" END="3153">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="3149" END="3153">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M2413">
+          <extent>
+              <charseq START="3253" END="3286">The Woman Who Shut Up Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="3257" END="3261">Woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2415">
+          <extent>
+              <charseq START="3263" END="3265">Who</charseq>
+          </extent>
+          <head>
+              <charseq START="3263" END="3265">Who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M2505">
+          <extent>
+              <charseq START="3339" END="3343">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="3339" END="3343">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M2517">
+          <extent>
+              <charseq START="3496" END="3500">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="3496" END="3500">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2603">
+          <extent>
+              <charseq START="3624" END="3626">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3624" END="3626">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M2709">
+          <extent>
+              <charseq START="3813" END="3820">his wife</charseq>
+          </extent>
+          <head>
+              <charseq START="3817" END="3820">wife</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2700">
+          <extent>
+              <charseq START="3702" END="3704">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3702" END="3704">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2708">
+          <extent>
+              <charseq START="3792" END="3794">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3792" END="3794">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M2807">
+          <extent>
+              <charseq START="3883" END="3887">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="3883" END="3887">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M2808">
+          <extent>
+              <charseq START="3893" END="3929">a guest on STV&apos;s The Five Thirty Show</charseq>
+          </extent>
+          <head>
+              <charseq START="3895" END="3899">guest</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2803">
+          <extent>
+              <charseq START="3842" END="3844">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3842" END="3844">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M2900">
+          <extent>
+              <charseq START="3932" END="3934">She</charseq>
+          </extent>
+          <head>
+              <charseq START="3932" END="3934">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3002">
+          <extent>
+              <charseq START="4127" END="4131">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="4127" END="4131">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3011">
+          <extent>
+              <charseq START="4255" END="4265">Susan Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="4255" END="4265">Susan Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M3007">
+          <extent>
+              <charseq START="4218" END="4220">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4218" END="4220">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3117">
+          <extent>
+              <charseq START="4498" END="4502">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="4498" END="4502">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M3205">
+          <extent>
+              <charseq START="4571" END="4573">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4571" END="4573">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3701">
+          <extent>
+              <charseq START="5172" END="5182">Susan Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="5172" END="5182">Susan Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3801">
+          <extent>
+              <charseq START="5335" END="5339">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="5335" END="5339">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3903">
+          <extent>
+              <charseq START="5429" END="5433">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="5429" END="5433">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M3915">
+          <extent>
+              <charseq START="5502" END="5517">Charity CD
+Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="5513" END="5517">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M3917">
+          <extent>
+              <charseq START="5510" END="5511">CD</charseq>
+          </extent>
+          <head>
+              <charseq START="5510" END="5511">CD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M3906">
+          <extent>
+              <charseq START="5453" END="5462">her either</charseq>
+          </extent>
+          <head>
+              <charseq START="5453" END="5455">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4006">
+          <extent>
+              <charseq START="5768" END="5772">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="5768" END="5772">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4110">
+          <extent>
+              <charseq START="6044" END="6048">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6044" END="6048">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M4116">
+          <extent>
+              <charseq START="6116" END="6129">a singing star</charseq>
+          </extent>
+          <head>
+              <charseq START="6126" END="6129">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4115">
+          <extent>
+              <charseq START="6101" END="6103">her</charseq>
+          </extent>
+          <head>
+              <charseq START="6101" END="6103">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4203">
+          <extent>
+              <charseq START="6141" END="6145">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6141" END="6145">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4216">
+          <extent>
+              <charseq START="6308" END="6310">her</charseq>
+          </extent>
+          <head>
+              <charseq START="6308" END="6310">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4306">
+          <extent>
+              <charseq START="6405" END="6409">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6405" END="6409">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4407">
+          <extent>
+              <charseq START="6605" END="6609">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6605" END="6609">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4505">
+          <extent>
+              <charseq START="6829" END="6833">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6829" END="6833">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4507">
+          <extent>
+              <charseq START="6849" END="6853">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="6849" END="6853">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4503">
+          <extent>
+              <charseq START="6808" END="6810">she</charseq>
+          </extent>
+          <head>
+              <charseq START="6808" END="6810">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4601">
+          <extent>
+              <charseq START="7180" END="7184">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="7180" END="7184">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4605">
+          <extent>
+              <charseq START="7216" END="7218">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7216" END="7218">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4610">
+          <extent>
+              <charseq START="7310" END="7312">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7310" END="7312">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M4717">
+          <extent>
+              <charseq START="7488" END="7492">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="7488" END="7492">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M4714">
+          <extent>
+              <charseq START="7466" END="7468">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7466" END="7468">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5011">
+          <extent>
+              <charseq START="8136" END="8140">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="8136" END="8140">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5105">
+          <extent>
+              <charseq START="8249" END="8251">her</charseq>
+          </extent>
+          <head>
+              <charseq START="8249" END="8251">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5201">
+          <extent>
+              <charseq START="8304" END="8308">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="8304" END="8308">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5203">
+          <extent>
+              <charseq START="8316" END="8318">her</charseq>
+          </extent>
+          <head>
+              <charseq START="8316" END="8318">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5310">
+          <extent>
+              <charseq START="8543" END="8547">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="8543" END="8547">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5403">
+          <extent>
+              <charseq START="8668" END="8672">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="8668" END="8672">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5407">
+          <extent>
+              <charseq START="8710" END="8712">she</charseq>
+          </extent>
+          <head>
+              <charseq START="8710" END="8712">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5411">
+          <extent>
+              <charseq START="8750" END="8752">she</charseq>
+          </extent>
+          <head>
+              <charseq START="8750" END="8752">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5511">
+          <extent>
+              <charseq START="8967" END="8971">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="8967" END="8971">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M5501">
+          <extent>
+              <charseq START="8872" END="8898">a columnist in The Guardian</charseq>
+          </extent>
+          <head>
+              <charseq START="8874" END="8882">columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5505">
+          <extent>
+              <charseq START="8917" END="8919">she</charseq>
+          </extent>
+          <head>
+              <charseq START="8917" END="8919">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5519">
+          <extent>
+              <charseq START="9066" END="9068">she</charseq>
+          </extent>
+          <head>
+              <charseq START="9066" END="9068">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5605">
+          <extent>
+              <charseq START="9260" END="9264">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="9260" END="9264">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5612">
+          <extent>
+              <charseq START="9382" END="9386">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="9382" END="9386">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M5601">
+          <extent>
+              <charseq START="9224" END="9247">a columnist on Salon.com</charseq>
+          </extent>
+          <head>
+              <charseq START="9226" END="9234">columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5614">
+          <extent>
+              <charseq START="9412" END="9414">her</charseq>
+          </extent>
+          <head>
+              <charseq START="9412" END="9414">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5616">
+          <extent>
+              <charseq START="9434" END="9436">her</charseq>
+          </extent>
+          <head>
+              <charseq START="9434" END="9436">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5619">
+          <extent>
+              <charseq START="9464" END="9466">she</charseq>
+          </extent>
+          <head>
+              <charseq START="9464" END="9466">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5626">
+          <extent>
+              <charseq START="9557" END="9559">who</charseq>
+          </extent>
+          <head>
+              <charseq START="9557" END="9559">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5629">
+          <extent>
+              <charseq START="9609" END="9611">her</charseq>
+          </extent>
+          <head>
+              <charseq START="9609" END="9611">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5703">
+          <extent>
+              <charseq START="9662" END="9666">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="9662" END="9666">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5809">
+          <extent>
+              <charseq START="9827" END="9831">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="9827" END="9831">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E0-M5803">
+          <extent>
+              <charseq START="9779" END="9925">a U.S. entertainment correspondent who compared Boyle&apos;s story to the American Dream, in that it represented talent overcoming adversity and poverty</charseq>
+          </extent>
+          <head>
+              <charseq START="9800" END="9812">correspondent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5807">
+          <extent>
+              <charseq START="9814" END="9816">who</charseq>
+          </extent>
+          <head>
+              <charseq START="9814" END="9816">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M5904">
+          <extent>
+              <charseq START="9967" END="9971">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="9967" END="9971">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5907">
+          <extent>
+              <charseq START="10009" END="10011">her</charseq>
+          </extent>
+          <head>
+              <charseq START="10009" END="10011">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E0-M5914">
+          <extent>
+              <charseq START="10072" END="10074">her</charseq>
+          </extent>
+          <head>
+              <charseq START="10072" END="10074">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E0-M6203">
+          <extent>
+              <charseq START="10510" END="10514">Boyle</charseq>
+          </extent>
+          <head>
+              <charseq START="10510" END="10514">Boyle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Susan Boyle">
+              <charseq START="28" END="38">Susan Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="210" END="214">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="1189" END="1193">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="1272" END="1276">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="1647" END="1651">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="1688" END="1692">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="2149" END="2153">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="2447" END="2451">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="2576" END="2580">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="3149" END="3153">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="3339" END="3343">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="3496" END="3500">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="3883" END="3887">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="4127" END="4131">Boyle</charseq>
+          </name>
+          <name NAME="Susan Boyle">
+              <charseq START="4255" END="4265">Susan Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="4498" END="4502">Boyle</charseq>
+          </name>
+          <name NAME="Susan Boyle">
+              <charseq START="5172" END="5182">Susan Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="5335" END="5339">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="5429" END="5433">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="5513" END="5517">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="5768" END="5772">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6044" END="6048">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6141" END="6145">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6405" END="6409">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6605" END="6609">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6829" END="6833">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="6849" END="6853">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="7180" END="7184">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="7488" END="7492">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="8136" END="8140">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="8304" END="8308">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="8543" END="8547">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="8668" END="8672">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="8967" END="8971">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="9260" END="9264">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="9382" END="9386">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="9662" END="9666">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="9827" END="9831">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="9967" END="9971">Boyle</charseq>
+          </name>
+          <name NAME="Boyle">
+              <charseq START="10510" END="10514">Boyle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E1-M6" ROLE="GPE">
+          <extent>
+              <charseq START="57" END="64">Scottish</charseq>
+          </extent>
+          <head>
+              <charseq START="57" END="64">Scottish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E1-M506" ROLE="LOC">
+          <extent>
+              <charseq START="861" END="868">Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="868">Scotland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E1-M1006" ROLE="LOC">
+          <extent>
+              <charseq START="1454" END="1461">Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="1454" END="1461">Scotland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E1-M4302">
+          <extent>
+              <charseq START="6350" END="6357">Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="6350" END="6357">Scotland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scottish">
+              <charseq START="57" END="64">Scottish</charseq>
+          </name>
+          <name NAME="Scotland">
+              <charseq START="861" END="868">Scotland</charseq>
+          </name>
+          <name NAME="Scotland">
+              <charseq START="1454" END="1461">Scotland</charseq>
+          </name>
+          <name NAME="Scotland">
+              <charseq START="6350" END="6357">Scotland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M19">
+          <extent>
+              <charseq START="188" END="194">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="194">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M1206">
+          <extent>
+              <charseq START="1607" END="1613">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="1607" END="1613">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M1717">
+          <extent>
+              <charseq START="2262" END="2268">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="2262" END="2268">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M2004" ROLE="GPE">
+          <extent>
+              <charseq START="2537" END="2543">British</charseq>
+          </extent>
+          <head>
+              <charseq START="2537" END="2543">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M2406">
+          <extent>
+              <charseq START="3163" END="3169">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="3163" END="3169">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M2513" ROLE="GPE">
+          <extent>
+              <charseq START="3431" END="3437">British</charseq>
+          </extent>
+          <head>
+              <charseq START="3431" END="3437">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M2609" ROLE="GPE">
+          <extent>
+              <charseq START="3671" END="3677">British</charseq>
+          </extent>
+          <head>
+              <charseq START="3671" END="3677">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M2805">
+          <extent>
+              <charseq START="3861" END="3867">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="3861" END="3867">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M4518">
+          <extent>
+              <charseq START="6993" END="6999">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="6993" END="6999">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M5701" ROLE="GPE">
+          <extent>
+              <charseq START="9628" END="9634">British</charseq>
+          </extent>
+          <head>
+              <charseq START="9628" END="9634">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E2-M6301">
+          <extent>
+              <charseq START="10664" END="10670">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="10664" END="10670">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="188" END="194">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="1607" END="1613">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="2262" END="2268">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="2537" END="2543">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="3163" END="3169">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="3431" END="3437">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="3671" END="3677">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="3861" END="3867">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="6993" END="6999">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="9628" END="9634">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="10664" END="10670">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E3-M7">
+          <extent>
+              <charseq START="66" END="71">church</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="71">church</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E4-M14">
+          <extent>
+              <charseq START="152" END="207">a contestant on the third series of Britain&apos;s Got Talent</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="163">contestant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E5-M107">
+          <extent>
+              <charseq START="293" END="339">Les Misérables in the competition&apos;s first round</charseq>
+          </extent>
+          <head>
+              <charseq START="293" END="306">Les Misérables</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E5-M1709">
+          <extent>
+              <charseq START="2205" END="2315">Les Misérables in the first round of the third series of Britain&apos;s Got Talent, which was aired on 11 April 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="2205" END="2218">Les Misérables</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E5-M1719">
+          <extent>
+              <charseq START="2284" END="2288">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2284" END="2288">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Les Misérables">
+              <charseq START="293" END="306">Les Misérables</charseq>
+          </name>
+          <name NAME="Les Misérables">
+              <charseq START="2205" END="2218">Les Misérables</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M203">
+          <extent>
+              <charseq START="364" END="375">the audience</charseq>
+          </extent>
+          <head>
+              <charseq START="368" END="375">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M204">
+          <extent>
+              <charseq START="381" END="390">the judges</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="390">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M608">
+          <extent>
+              <charseq START="924" END="935">the audience</charseq>
+          </extent>
+          <head>
+              <charseq START="928" END="935">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M4502">
+          <extent>
+              <charseq START="6776" END="6787">the audience</charseq>
+          </extent>
+          <head>
+              <charseq START="6780" END="6787">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M4608">
+          <extent>
+              <charseq START="7267" END="7276">the judges</charseq>
+          </extent>
+          <head>
+              <charseq START="7271" END="7276">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M4709">
+          <extent>
+              <charseq START="7415" END="7426">the audience</charseq>
+          </extent>
+          <head>
+              <charseq START="7419" END="7426">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E7-M6104">
+          <extent>
+              <charseq START="10339" END="10355">the show&apos;s judges</charseq>
+          </extent>
+          <head>
+              <charseq START="10350" END="10355">judges</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E8-M408">
+          <extent>
+              <charseq START="690" END="695">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="695">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E8-M800">
+          <extent>
+              <charseq START="1137" END="1142">Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="1137" END="1142">Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E8-M806">
+          <extent>
+              <charseq START="1200" END="1202">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1200" END="1202">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E8-M2416">
+          <extent>
+              <charseq START="3275" END="3286">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="3275" END="3286">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E8-M3001">
+          <extent>
+              <charseq START="4109" END="4120">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="4109" END="4120">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cowell">
+              <charseq START="690" END="695">Cowell</charseq>
+          </name>
+          <name NAME="Cowell">
+              <charseq START="1137" END="1142">Cowell</charseq>
+          </name>
+          <name NAME="Simon Cowell">
+              <charseq START="3275" END="3286">Simon Cowell</charseq>
+          </name>
+          <name NAME="Simon Cowell">
+              <charseq START="4109" END="4120">Simon Cowell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E9-M409">
+          <extent>
+              <charseq START="701" END="713">Amanda Holden</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="713">Amanda Holden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E9-M4508">
+          <extent>
+              <charseq START="6870" END="6875">Holden</charseq>
+          </extent>
+          <head>
+              <charseq START="6870" END="6875">Holden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E9-M4511">
+          <extent>
+              <charseq START="6911" END="6916">Holden</charseq>
+          </extent>
+          <head>
+              <charseq START="6911" END="6916">Holden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amanda Holden">
+              <charseq START="701" END="713">Amanda Holden</charseq>
+          </name>
+          <name NAME="Holden">
+              <charseq START="6870" END="6875">Holden</charseq>
+          </name>
+          <name NAME="Holden">
+              <charseq START="6911" END="6916">Holden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E10-M416">
+          <extent>
+              <charseq START="769" END="780">Piers Morgan</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="780">Piers Morgan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E10-M6101">
+          <extent>
+              <charseq START="10318" END="10329">Piers Morgan</charseq>
+          </extent>
+          <head>
+              <charseq START="10318" END="10329">Piers Morgan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E10-M6102">
+          <extent>
+              <charseq START="10332" END="10355">one of the show&apos;s judges</charseq>
+          </extent>
+          <head>
+              <charseq START="10332" END="10334">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E10-M6200">
+          <extent>
+              <charseq START="10499" END="10500">He</charseq>
+          </extent>
+          <head>
+              <charseq START="10499" END="10500">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Piers Morgan">
+              <charseq START="769" END="780">Piers Morgan</charseq>
+          </name>
+          <name NAME="Piers Morgan">
+              <charseq START="10318" END="10329">Piers Morgan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E11-M403">
+          <extent>
+              <charseq START="645" END="661">the live audience</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="661">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E12" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E12-M414">
+          <extent>
+              <charseq START="755" END="780">anybody&quot; from Piers Morgan</charseq>
+          </extent>
+          <head>
+              <charseq START="755" END="761">anybody</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E13-M502">
+          <extent>
+              <charseq START="828" END="847">the Clyde Auditorium</charseq>
+          </extent>
+          <head>
+              <charseq START="832" END="847">Clyde Auditorium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clyde Auditorium">
+              <charseq START="832" END="847">Clyde Auditorium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E14-M504" ROLE="LOC">
+          <extent>
+              <charseq START="852" END="868">Glasgow, Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="852" END="858">Glasgow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glasgow">
+              <charseq START="852" END="858">Glasgow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E15" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E15-M706">
+          <extent>
+              <charseq START="1041" END="1049">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1045" END="1049">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E16-M807">
+          <extent>
+              <charseq START="1204" END="1213">Syco Music</charseq>
+          </extent>
+          <head>
+              <charseq START="1204" END="1213">Syco Music</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Syco Music">
+              <charseq START="1204" END="1213">Syco Music</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E17-M811">
+          <extent>
+              <charseq START="1246" END="1255">Sony Music</charseq>
+          </extent>
+          <head>
+              <charseq START="1246" END="1255">Sony Music</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sony Music">
+              <charseq START="1246" END="1255">Sony Music</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E18-M908" ROLE="LOC">
+          <extent>
+              <charseq START="1324" END="1332">Blackburn</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1332">Blackburn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Blackburn">
+              <charseq START="1324" END="1332">Blackburn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E19-M909" ROLE="LOC">
+          <extent>
+              <charseq START="1335" END="1372">West Lothian with her ten-year-old cat</charseq>
+          </extent>
+          <head>
+              <charseq START="1335" END="1346">West Lothian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E19-M3933" ROLE="LOC">
+          <extent>
+              <charseq START="5617" END="5628">West Lothian</charseq>
+          </extent>
+          <head>
+              <charseq START="5617" END="5628">West Lothian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="West Lothian">
+              <charseq START="1335" END="1346">West Lothian</charseq>
+          </name>
+          <name NAME="West Lothian">
+              <charseq START="5617" END="5628">West Lothian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E20-M906">
+          <extent>
+              <charseq START="1297" END="1309">nine children</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1309">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E21-M1004" ROLE="LOC">
+          <extent>
+              <charseq START="1442" END="1461">Livingston, Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="1442" END="1451">Livingston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Livingston">
+              <charseq START="1442" END="1451">Livingston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E22-M1301">
+          <extent>
+              <charseq START="1704" END="1722">The Washington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="1708" END="1722">Washington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E22-M4513">
+          <extent>
+              <charseq START="6943" END="6961">The Washington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="6943" END="6961">The Washington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington Post">
+              <charseq START="1708" END="1722">Washington Post</charseq>
+          </name>
+          <name NAME="The Washington Post">
+              <charseq START="6943" END="6961">The Washington Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E23-M1318">
+          <extent>
+              <charseq START="1843" END="1883">an audience larger than her parish church</charseq>
+          </extent>
+          <head>
+              <charseq START="1878" END="1883">church</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E24-M1319">
+          <extent>
+              <charseq START="1843" END="1853">an audience</charseq>
+          </extent>
+          <head>
+              <charseq START="1846" END="1853">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E25-M1320">
+          <extent>
+              <charseq START="1867" END="1876">her parish</charseq>
+          </extent>
+          <head>
+              <charseq START="1871" END="1876">parish</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E26-M1607">
+          <extent>
+              <charseq START="2112" END="2123">Elaine Paige</charseq>
+          </extent>
+          <head>
+              <charseq START="2112" END="2123">Elaine Paige</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elaine Paige">
+              <charseq START="2112" END="2123">Elaine Paige</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E27-M1809">
+          <extent>
+              <charseq START="2416" END="2444">people on the website YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="2416" END="2421">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E28-M2000">
+          <extent>
+              <charseq START="2521" END="2554">News media
+Many British newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="2526" END="2530">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E29-M2003">
+          <extent>
+              <charseq START="2537" END="2554">British newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="2545" END="2554">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E30-M2100">
+          <extent>
+              <charseq START="2630" END="2659">The Sun writer Colin Robertson</charseq>
+          </extent>
+          <head>
+              <charseq START="2645" END="2659">Colin Robertson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E30-M2102">
+          <extent>
+              <charseq START="2638" END="2643">writer</charseq>
+          </extent>
+          <head>
+              <charseq START="2638" END="2643">writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E30-M2104">
+          <extent>
+              <charseq START="2666" END="2668">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2668">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E30-M2204">
+          <extent>
+              <charseq START="2825" END="2827">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2825" END="2827">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colin Robertson">
+              <charseq START="2645" END="2659">Colin Robertson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E31-M2101">
+          <extent>
+              <charseq START="2634" END="2636">Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="2634" END="2636">Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sun">
+              <charseq START="2634" END="2636">Sun</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2108">
+          <extent>
+              <charseq START="2684" END="2694">Paula Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="2684" END="2694">Paula Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2114">
+          <extent>
+              <charseq START="2757" END="2766">Paul Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="2757" END="2766">Paul Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2508">
+          <extent>
+              <charseq START="3371" END="3380">Paul Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3380">Paul Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2519">
+          <extent>
+              <charseq START="3518" END="3522">Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="3518" END="3522">Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2602">
+          <extent>
+              <charseq START="3607" END="3611">Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="3607" END="3611">Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M2607">
+          <extent>
+              <charseq START="3642" END="3652">Paula Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="3642" END="3652">Paula Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E32-M5514">
+          <extent>
+              <charseq START="9026" END="9057">Paul Potts in his first audition</charseq>
+          </extent>
+          <head>
+              <charseq START="9026" END="9035">Paul Potts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paula Potts">
+              <charseq START="2684" END="2694">Paula Potts</charseq>
+          </name>
+          <name NAME="Paul Potts">
+              <charseq START="2757" END="2766">Paul Potts</charseq>
+          </name>
+          <name NAME="Paul Potts">
+              <charseq START="3371" END="3380">Paul Potts</charseq>
+          </name>
+          <name NAME="Potts">
+              <charseq START="3518" END="3522">Potts</charseq>
+          </name>
+          <name NAME="Potts">
+              <charseq START="3607" END="3611">Potts</charseq>
+          </name>
+          <name NAME="Paula Potts">
+              <charseq START="3642" END="3652">Paula Potts</charseq>
+          </name>
+          <name NAME="Paul Potts">
+              <charseq START="9026" END="9035">Paul Potts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E33-M2111">
+          <extent>
+              <charseq START="2713" END="2766">the contest&apos;s previous opera-singing winner Paul Potts</charseq>
+          </extent>
+          <head>
+              <charseq START="2750" END="2755">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E34-M2207">
+          <extent>
+              <charseq START="2839" END="2861">the New York Daily News</charseq>
+          </extent>
+          <head>
+              <charseq START="2843" END="2861">New York Daily News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E34-M4700">
+          <extent>
+              <charseq START="7346" END="7366">New York&apos;s Daily News</charseq>
+          </extent>
+          <head>
+              <charseq START="7357" END="7366">Daily News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Daily News">
+              <charseq START="2843" END="2861">New York Daily News</charseq>
+          </name>
+          <name NAME="Daily News">
+              <charseq START="7357" END="7366">Daily News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E35-M2210">
+          <extent>
+              <charseq START="2864" END="2885">Australia&apos;s Herald Sun</charseq>
+          </extent>
+          <head>
+              <charseq START="2876" END="2885">Herald Sun</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Herald Sun">
+              <charseq START="2876" END="2885">Herald Sun</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E36-M2211">
+          <extent>
+              <charseq START="2864" END="2872">Australia</charseq>
+          </extent>
+          <head>
+              <charseq START="2864" END="2872">Australia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australia">
+              <charseq START="2864" END="2872">Australia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E37-M2213">
+          <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+          </extent>
+          <head>
+              <charseq START="2897" END="2903">Maclean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maclean">
+              <charseq START="2897" END="2903">Maclean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E38-M2214">
+          <extent>
+              <charseq START="2888" END="2893">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2888" END="2893">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="2888" END="2893">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E39-M2216">
+          <extent>
+              <charseq START="2908" END="2928">Germany&apos;s Der Spiegel</charseq>
+          </extent>
+          <head>
+              <charseq START="2918" END="2928">Der Spiegel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Der Spiegel">
+              <charseq START="2918" END="2928">Der Spiegel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E40" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E40-M2217">
+          <extent>
+              <charseq START="2908" END="2914">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="2908" END="2914">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Germany">
+              <charseq START="2908" END="2914">Germany</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E41-M2219">
+          <extent>
+              <charseq START="2931" END="2956">China&apos;s Xinhua News Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2939" END="2956">Xinhua News Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua News Agency">
+              <charseq START="2939" END="2956">Xinhua News Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E42-M2220">
+          <extent>
+              <charseq START="2931" END="2935">China</charseq>
+          </extent>
+          <head>
+              <charseq START="2931" END="2935">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="2931" END="2935">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E43-M2222">
+          <extent>
+              <charseq START="2959" END="2986">Macau&apos;s The Macau Post Daily</charseq>
+          </extent>
+          <head>
+              <charseq START="2967" END="2986">The Macau Post Daily</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Macau Post Daily">
+              <charseq START="2967" END="2986">The Macau Post Daily</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E44-M2223">
+          <extent>
+              <charseq START="2959" END="2963">Macau</charseq>
+          </extent>
+          <head>
+              <charseq START="2959" END="2963">Macau</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Macau">
+              <charseq START="2959" END="2963">Macau</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E45-M2225">
+          <extent>
+              <charseq START="2989" END="3015">Portugal&apos;s Correio da Manhã</charseq>
+          </extent>
+          <head>
+              <charseq START="3000" END="3015">Correio da Manhã</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Correio da Manhã">
+              <charseq START="3000" END="3015">Correio da Manhã</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E46" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E46-M2226">
+          <extent>
+              <charseq START="2989" END="2996">Portugal</charseq>
+          </extent>
+          <head>
+              <charseq START="2989" END="2996">Portugal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Portugal">
+              <charseq START="2989" END="2996">Portugal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E47-M2228">
+          <extent>
+              <charseq START="3019" END="3042">Korea&apos;s The Chosun Ilbo,</charseq>
+          </extent>
+          <head>
+              <charseq START="3031" END="3041">Chosun Ilbo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E47-M2231">
+          <extent>
+              <charseq START="3027" END="3029">The</charseq>
+          </extent>
+          <head>
+              <charseq START="3027" END="3029">The</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chosun Ilbo">
+              <charseq START="3031" END="3041">Chosun Ilbo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E48" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E48-M2230">
+          <extent>
+              <charseq START="3019" END="3023">Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="3019" END="3023">Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Korea">
+              <charseq START="3019" END="3023">Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E49-M2233">
+          <extent>
+              <charseq START="3045" END="3066">Holland&apos;s De Telegraaf</charseq>
+          </extent>
+          <head>
+              <charseq START="3055" END="3066">De Telegraaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="De Telegraaf">
+              <charseq START="3055" END="3066">De Telegraaf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E50" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E50-M2234">
+          <extent>
+              <charseq START="3045" END="3051">Holland</charseq>
+          </extent>
+          <head>
+              <charseq START="3045" END="3051">Holland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Holland">
+              <charseq START="3045" END="3051">Holland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E51-M2200">
+          <extent>
+              <charseq START="2769" END="2799">Many international news outlets</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2799">outlets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E52-M2300">
+          <extent>
+              <charseq START="3069" END="3101">and Belgium&apos;s Het Laatste Nieuws.</charseq>
+          </extent>
+          <head>
+              <charseq START="3083" END="3100">Het Laatste Nieuws</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Het Laatste Nieuws">
+              <charseq START="3083" END="3100">Het Laatste Nieuws</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E53" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E53-M2302">
+          <extent>
+              <charseq START="3073" END="3079">Belgium</charseq>
+          </extent>
+          <head>
+              <charseq START="3073" END="3079">Belgium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgium">
+              <charseq START="3073" END="3079">Belgium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E54" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M2400" ROLE="LOC">
+          <extent>
+              <charseq START="3106" END="3113">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="3110" END="3113">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M2920">
+          <extent>
+              <charseq START="4072" END="4078">America</charseq>
+          </extent>
+          <head>
+              <charseq START="4072" END="4078">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M3015" ROLE="LOC">
+          <extent>
+              <charseq START="4301" END="4307">America</charseq>
+          </extent>
+          <head>
+              <charseq START="4301" END="4307">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M5706" ROLE="LOC">
+          <extent>
+              <charseq START="9717" END="9733">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="9721" END="9733">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M5805" ROLE="GPE">
+          <extent>
+              <charseq START="9781" END="9784">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="9781" END="9784">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M6004">
+          <extent>
+              <charseq START="10162" END="10168">America</charseq>
+          </extent>
+          <head>
+              <charseq START="10162" END="10168">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E54-M6005">
+          <extent>
+              <charseq START="10173" END="10315">a country that will always respond to &quot;the fairy tale where the apparently unprepossessing suddenly becomes pretty, from Shrek to My Fair Lady&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="10175" END="10181">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E54-M6007">
+          <extent>
+              <charseq START="10183" END="10186">that</charseq>
+          </extent>
+          <head>
+              <charseq START="10183" END="10186">that</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E54-M6010">
+          <extent>
+              <charseq START="10227" END="10231">where</charseq>
+          </extent>
+          <head>
+              <charseq START="10227" END="10231">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E54-M6109" ROLE="LOC">
+          <extent>
+              <charseq START="10423" END="10430">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="10427" END="10430">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="3110" END="3113">U.S.</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4072" END="4078">America</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4301" END="4307">America</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="9721" END="9733">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="9781" END="9784">U.S.</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="10162" END="10168">America</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="10427" END="10430">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E55" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E55-M2403">
+          <extent>
+              <charseq START="3116" END="3123">ABC News</charseq>
+          </extent>
+          <head>
+              <charseq START="3116" END="3123">ABC News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E55-M2910">
+          <extent>
+              <charseq START="3987" END="3989">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="3987" END="3989">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ABC News">
+              <charseq START="3116" END="3123">ABC News</charseq>
+          </name>
+          <name NAME="ABC">
+              <charseq START="3987" END="3989">ABC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E56-M2410">
+          <extent>
+              <charseq START="3214" END="3226">Entertainment</charseq>
+          </extent>
+          <head>
+              <charseq START="3214" END="3226">Entertainment</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E56-M2409">
+          <extent>
+              <charseq START="3200" END="3210">the network</charseq>
+          </extent>
+          <head>
+              <charseq START="3204" END="3210">network</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Entertainment">
+              <charseq START="3214" END="3226">Entertainment</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E57-M2516">
+          <extent>
+              <charseq START="3464" END="3469">Forbes</charseq>
+          </extent>
+          <head>
+              <charseq START="3464" END="3469">Forbes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E57-M2515">
+          <extent>
+              <charseq START="3464" END="3478">Forbes magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="3471" END="3478">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Forbes">
+              <charseq START="3464" END="3469">Forbes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E58" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E58-M2500">
+          <extent>
+              <charseq START="3289" END="3308">Several commentators</charseq>
+          </extent>
+          <head>
+              <charseq START="3297" END="3308">commentators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E59" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E59-M2608">
+          <extent>
+              <charseq START="3658" END="3685">at least one British tabloid</charseq>
+          </extent>
+          <head>
+              <charseq START="3679" END="3685">tabloid</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E60-M2702">
+          <extent>
+              <charseq START="3718" END="3820">CNN&apos;s Larry King Live opposite Ashton Kutcher, who had previously watched her performance with his wife</charseq>
+          </extent>
+          <head>
+              <charseq START="3724" END="3762">Larry King Live opposite Ashton Kutcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E60-M2706">
+          <extent>
+              <charseq START="3765" END="3767">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3765" END="3767">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E60-M2710">
+          <extent>
+              <charseq START="3813" END="3815">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3813" END="3815">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E60-M3711">
+          <extent>
+              <charseq START="5282" END="5295">Ashton Kutcher</charseq>
+          </extent>
+          <head>
+              <charseq START="5282" END="5295">Ashton Kutcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E60-M3802">
+          <extent>
+              <charseq START="5376" END="5382">Kutcher</charseq>
+          </extent>
+          <head>
+              <charseq START="5376" END="5382">Kutcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Larry King Live opposite Ashton Kutcher">
+              <charseq START="3724" END="3762">Larry King Live opposite Ashton Kutcher</charseq>
+          </name>
+          <name NAME="Ashton Kutcher">
+              <charseq START="5282" END="5295">Ashton Kutcher</charseq>
+          </name>
+          <name NAME="Kutcher">
+              <charseq START="5376" END="5382">Kutcher</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E61-M2704">
+          <extent>
+              <charseq START="3718" END="3720">CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="3718" END="3720">CNN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNN">
+              <charseq START="3718" END="3720">CNN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E62" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E62-M2811">
+          <extent>
+              <charseq START="3904" END="3906">STV</charseq>
+          </extent>
+          <head>
+              <charseq START="3904" END="3906">STV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="STV">
+              <charseq START="3904" END="3906">STV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E63" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E63-M2907">
+          <extent>
+              <charseq START="3969" END="3971">CBS</charseq>
+          </extent>
+          <head>
+              <charseq START="3969" END="3971">CBS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CBS">
+              <charseq START="3969" END="3971">CBS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E64-M2909">
+          <extent>
+              <charseq START="3987" END="4012">ABC&apos;s Good Morning America</charseq>
+          </extent>
+          <head>
+              <charseq START="3993" END="4012">Good Morning America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Good Morning America">
+              <charseq START="3993" END="4012">Good Morning America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E65-M2913">
+          <extent>
+              <charseq START="4020" END="4022">NBC</charseq>
+          </extent>
+          <head>
+              <charseq START="4020" END="4022">NBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NBC">
+              <charseq START="4020" END="4022">NBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E66-M3104">
+          <extent>
+              <charseq START="4335" END="4361">The Guardian Leigh Holmwood</charseq>
+          </extent>
+          <head>
+              <charseq START="4339" END="4361">Guardian Leigh Holmwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guardian Leigh Holmwood">
+              <charseq START="4339" END="4361">Guardian Leigh Holmwood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E67-M3111">
+          <extent>
+              <charseq START="4398" END="4404">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="4398" END="4404">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E67-M3202">
+          <extent>
+              <charseq START="4543" END="4549">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="4543" END="4549">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E67-M3404">
+          <extent>
+              <charseq START="4808" END="4814">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="4808" END="4814">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YouTube">
+              <charseq START="4398" END="4404">YouTube</charseq>
+          </name>
+          <name NAME="YouTube">
+              <charseq START="4543" END="4549">YouTube</charseq>
+          </name>
+          <name NAME="YouTube">
+              <charseq START="4808" END="4814">YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E68-M3114">
+          <extent>
+              <charseq START="4442" END="4449">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="4442" END="4449">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Facebook">
+              <charseq START="4442" END="4449">Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E69-M3115">
+          <extent>
+              <charseq START="4455" END="4461">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="4455" END="4461">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E69-M3705">
+          <extent>
+              <charseq START="5226" END="5232">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="5226" END="5232">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twitter">
+              <charseq START="4455" END="4461">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="5226" END="5232">Twitter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E70-M3407">
+          <extent>
+              <charseq START="4854" END="4857">Digg</charseq>
+          </extent>
+          <head>
+              <charseq START="4854" END="4857">Digg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Digg">
+              <charseq START="4854" END="4857">Digg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E71" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E71-M3501">
+          <extent>
+              <charseq START="4895" END="4900">Reddit</charseq>
+          </extent>
+          <head>
+              <charseq START="4895" END="4900">Reddit</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reddit">
+              <charseq START="4895" END="4900">Reddit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E72-M3600">
+          <extent>
+              <charseq START="4952" END="4972">The Los Angeles Times</charseq>
+          </extent>
+          <head>
+              <charseq START="4956" END="4972">Los Angeles Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles Times">
+              <charseq START="4956" END="4972">Los Angeles Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E73-M3712">
+          <extent>
+              <charseq START="5301" END="5310">Demi Moore</charseq>
+          </extent>
+          <head>
+              <charseq START="5301" END="5310">Demi Moore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E73-M3900">
+          <extent>
+              <charseq START="5406" END="5426">the name &apos;Demi Moore&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="5416" END="5425">Demi Moore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Demi Moore">
+              <charseq START="5301" END="5310">Demi Moore</charseq>
+          </name>
+          <name NAME="Demi Moore">
+              <charseq START="5416" END="5425">Demi Moore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E74" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E74-M3931" ROLE="LOC">
+          <extent>
+              <charseq START="5607" END="5628">Whitburn, West Lothian</charseq>
+          </extent>
+          <head>
+              <charseq START="5607" END="5614">Whitburn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whitburn">
+              <charseq START="5607" END="5614">Whitburn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E75" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E75-M3923">
+          <extent>
+              <charseq START="5549" END="5590">a River&quot; for a charity CD produced in 1999</charseq>
+          </extent>
+          <head>
+              <charseq START="5551" END="5555">River</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E76-M3929">
+          <extent>
+              <charseq START="5595" END="5628">a school in Whitburn, West Lothian</charseq>
+          </extent>
+          <head>
+              <charseq START="5597" END="5602">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E78" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E78-M4003">
+          <extent>
+              <charseq START="5721" END="5737">the New York Post</charseq>
+          </extent>
+          <head>
+              <charseq START="5725" END="5737">New York Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Post">
+              <charseq START="5725" END="5737">New York Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E79-M4016">
+          <extent>
+              <charseq START="5881" END="5898">valuable collector</charseq>
+          </extent>
+          <head>
+              <charseq START="5890" END="5898">collector</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E80" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E80-M4103">
+          <extent>
+              <charseq START="5959" END="5964">Hello!</charseq>
+          </extent>
+          <head>
+              <charseq START="5959" END="5964">Hello!</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E80-M4102">
+          <extent>
+              <charseq START="5959" END="5973">Hello!
+magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="5966" END="5973">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hello!">
+              <charseq START="5959" END="5964">Hello!</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E81-M4210">
+          <extent>
+              <charseq START="6255" END="6260">others</charseq>
+          </extent>
+          <head>
+              <charseq START="6255" END="6260">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E82-M4214">
+          <extent>
+              <charseq START="6286" END="6291">people</charseq>
+          </extent>
+          <head>
+              <charseq START="6286" END="6291">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E83" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E83-M4301">
+          <extent>
+              <charseq START="6350" END="6370">Scotland&apos;s The Herald</charseq>
+          </extent>
+          <head>
+              <charseq START="6361" END="6370">The Herald</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Herald">
+              <charseq START="6361" END="6370">The Herald</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E84-M4304">
+          <extent>
+              <charseq START="6373" END="6393">Collette Douglas-Home</charseq>
+          </extent>
+          <head>
+              <charseq START="6373" END="6393">Collette Douglas-Home</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Collette Douglas-Home">
+              <charseq START="6373" END="6393">Collette Douglas-Home</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E85" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E85-M4311">
+          <extent>
+              <charseq START="6455" END="6460">people</charseq>
+          </extent>
+          <head>
+              <charseq START="6455" END="6460">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E85-M4315">
+          <extent>
+              <charseq START="6498" END="6502">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6498" END="6502">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E86" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E86-M4312">
+          <extent>
+              <charseq START="6482" END="6522">others based on their physical appearance</charseq>
+          </extent>
+          <head>
+              <charseq START="6482" END="6487">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E87-M4400">
+          <extent>
+              <charseq START="6536" END="6591">Lisa Schwarzbaum, in an article in Entertainment Weekly,</charseq>
+          </extent>
+          <head>
+              <charseq START="6536" END="6551">Lisa Schwarzbaum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lisa Schwarzbaum">
+              <charseq START="6536" END="6551">Lisa Schwarzbaum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E88" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E88-M4404">
+          <extent>
+              <charseq START="6571" END="6591">Entertainment Weekly,</charseq>
+          </extent>
+          <head>
+              <charseq START="6571" END="6590">Entertainment Weekly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Entertainment Weekly">
+              <charseq START="6571" END="6590">Entertainment Weekly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E89-M4512">
+          <extent>
+              <charseq START="6919" END="6932">Jeanne McManus</charseq>
+          </extent>
+          <head>
+              <charseq START="6919" END="6932">Jeanne McManus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E89-M4602">
+          <extent>
+              <charseq START="7194" END="7200">McManus</charseq>
+          </extent>
+          <head>
+              <charseq START="7194" END="7200">McManus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jeanne McManus">
+              <charseq START="6919" END="6932">Jeanne McManus</charseq>
+          </name>
+          <name NAME="McManus">
+              <charseq START="7194" END="7200">McManus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E90-M4517">
+          <extent>
+              <charseq START="6993" END="7012">Britain&apos;s Got Talent</charseq>
+          </extent>
+          <head>
+              <charseq START="7003" END="7012">Got Talent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Got Talent">
+              <charseq START="7003" END="7012">Got Talent</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E91" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E91-M4530">
+          <extent>
+              <charseq START="7073" END="7082">performers</charseq>
+          </extent>
+          <head>
+              <charseq START="7073" END="7082">performers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E91-M4537">
+          <extent>
+              <charseq START="7161" END="7165">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7161" END="7165">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E92" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E92-M4536">
+          <extent>
+              <charseq START="7161" END="7174">their audience</charseq>
+          </extent>
+          <head>
+              <charseq START="7167" END="7174">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E93" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E93-M4609">
+          <extent>
+              <charseq START="7282" END="7289">audience</charseq>
+          </extent>
+          <head>
+              <charseq START="7282" END="7289">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E94" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E94-M4701">
+          <extent>
+              <charseq START="7346" END="7353">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="7346" END="7353">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="7346" END="7353">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E95" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E95-M4803">
+          <extent>
+              <charseq START="7587" END="7667">an underdog being ridiculed or humiliated but then enjoying an unexpected triumph</charseq>
+          </extent>
+          <head>
+              <charseq START="7590" END="7597">underdog</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E96" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E96-M5000">
+          <extent>
+              <charseq START="7945" END="7963">The Huffington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="7949" END="7963">Huffington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E96-M5301">
+          <extent>
+              <charseq START="8408" END="8422">Huffington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="8408" END="8422">Huffington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Huffington Post">
+              <charseq START="7949" END="7963">Huffington Post</charseq>
+          </name>
+          <name NAME="Huffington Post">
+              <charseq START="8408" END="8422">Huffington Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E97" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E97-M5002">
+          <extent>
+              <charseq START="7966" END="7981">Mark Blankenship</charseq>
+          </extent>
+          <head>
+              <charseq START="7966" END="7981">Mark Blankenship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E97-M5003">
+          <extent>
+              <charseq START="7994" END="8018">the producers of the show</charseq>
+          </extent>
+          <head>
+              <charseq START="7998" END="8006">producers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E97-M5100">
+          <extent>
+              <charseq START="8196" END="8197">He</charseq>
+          </extent>
+          <head>
+              <charseq START="8196" END="8197">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Blankenship">
+              <charseq START="7966" END="7981">Mark Blankenship</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E98" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E98-M5302">
+          <extent>
+              <charseq START="8433" END="8453">Letty Cottin Pogrebin</charseq>
+          </extent>
+          <head>
+              <charseq START="8433" END="8453">Letty Cottin Pogrebin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E98-M5400">
+          <extent>
+              <charseq START="8645" END="8652">Pogrebin</charseq>
+          </extent>
+          <head>
+              <charseq START="8645" END="8652">Pogrebin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Letty Cottin Pogrebin">
+              <charseq START="8433" END="8453">Letty Cottin Pogrebin</charseq>
+          </name>
+          <name NAME="Pogrebin">
+              <charseq START="8645" END="8652">Pogrebin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E99" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E99-M5303">
+          <extent>
+              <charseq START="8466" END="8471">people</charseq>
+          </extent>
+          <head>
+              <charseq START="8466" END="8471">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E100" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E100-M5409">
+          <extent>
+              <charseq START="8722" END="8726">women</charseq>
+          </extent>
+          <head>
+              <charseq START="8722" END="8726">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E100-M5421">
+          <extent>
+              <charseq START="8829" END="8845">middle-aged women</charseq>
+          </extent>
+          <head>
+              <charseq START="8841" END="8845">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E100-M5522">
+          <extent>
+              <charseq START="9116" END="9120">women</charseq>
+          </extent>
+          <head>
+              <charseq START="9116" END="9120">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E101" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E101-M5503">
+          <extent>
+              <charseq START="8887" END="8898">The Guardian</charseq>
+          </extent>
+          <head>
+              <charseq START="8887" END="8898">The Guardian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Guardian">
+              <charseq START="8887" END="8898">The Guardian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E102" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E102-M5524">
+          <extent>
+              <charseq START="9200" END="9202">men</charseq>
+          </extent>
+          <head>
+              <charseq START="9200" END="9202">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E103" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E103-M5603" ROLE="GPE">
+          <extent>
+              <charseq START="9239" END="9247">Salon.com</charseq>
+          </extent>
+          <head>
+              <charseq START="9239" END="9247">Salon.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salon.com">
+              <charseq START="9239" END="9247">Salon.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E104" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E104-M5606">
+          <extent>
+              <charseq START="9289" END="9294">people</charseq>
+          </extent>
+          <head>
+              <charseq START="9289" END="9294">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E105" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E105-M5607">
+          <extent>
+              <charseq START="9302" END="9329">not all fortysomething women</charseq>
+          </extent>
+          <head>
+              <charseq START="9325" END="9329">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E106" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E106-M5615">
+          <extent>
+              <charseq START="9434" END="9445">her audience</charseq>
+          </extent>
+          <head>
+              <charseq START="9438" END="9445">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E106-M5617">
+          <extent>
+              <charseq START="9458" END="9461">them</charseq>
+          </extent>
+          <head>
+              <charseq START="9458" END="9461">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E107" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E107-M5621">
+          <extent>
+              <charseq START="9471" END="9550">a normal, flawed and vulnerable person, familiar with disappointment and mockery</charseq>
+          </extent>
+          <head>
+              <charseq START="9503" END="9508">person</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E108" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E108-M5700">
+          <extent>
+              <charseq START="9620" END="9645">Several British newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="9636" END="9645">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E109" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E109-M5800">
+          <extent>
+              <charseq START="9747" END="9770">The Scotsman Craig Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="9760" END="9770">Craig Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E109-M5801">
+          <extent>
+              <charseq START="9751" END="9758">Scotsman</charseq>
+          </extent>
+          <head>
+              <charseq START="9751" END="9758">Scotsman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Craig Brown">
+              <charseq START="9760" END="9770">Craig Brown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E110" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E110-M5810">
+          <extent>
+              <charseq START="9844" END="9861">the American Dream</charseq>
+          </extent>
+          <head>
+              <charseq START="9848" END="9861">American Dream</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Dream">
+              <charseq START="9848" END="9861">American Dream</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E111" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E111-M5900">
+          <extent>
+              <charseq START="9928" END="9947">The Associated Press</charseq>
+          </extent>
+          <head>
+              <charseq START="9932" END="9947">Associated Press</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E111-M5909">
+          <extent>
+              <charseq START="10039" END="10042">they</charseq>
+          </extent>
+          <head>
+              <charseq START="10039" END="10042">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Associated Press">
+              <charseq START="9932" END="9947">Associated Press</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E112" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E112-M5913" ROLE="LOC">
+          <extent>
+              <charseq START="10072" END="10084">her home town</charseq>
+          </extent>
+          <head>
+              <charseq START="10081" END="10084">town</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E113" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E113-M6000">
+          <extent>
+              <charseq START="10098" END="10149">The Independent New York correspondent David Usborne</charseq>
+          </extent>
+          <head>
+              <charseq START="10137" END="10149">David Usborne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E113-M6002">
+          <extent>
+              <charseq START="10123" END="10135">correspondent</charseq>
+          </extent>
+          <head>
+              <charseq START="10123" END="10135">correspondent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Usborne">
+              <charseq START="10137" END="10149">David Usborne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E114" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E114-M6001">
+          <extent>
+              <charseq START="10102" END="10121">Independent New York</charseq>
+          </extent>
+          <head>
+              <charseq START="10102" END="10121">Independent New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Independent New York">
+              <charseq START="10102" END="10121">Independent New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E115" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E115-M6111">
+          <extent>
+              <charseq START="10447" END="10455">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="10447" END="10455">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E116" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E116-M6209">
+          <extent>
+              <charseq START="10569" END="10652">the fictional boxer Rocky Balboa, who was the subject of a series of Hollywood films</charseq>
+          </extent>
+          <head>
+              <charseq START="10589" END="10600">Rocky Balboa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E116-M6211">
+          <extent>
+              <charseq START="10583" END="10587">boxer</charseq>
+          </extent>
+          <head>
+              <charseq START="10583" END="10587">boxer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Susan_Boyle.sentences.sgm-E116-M6213">
+          <extent>
+              <charseq START="10603" END="10605">who</charseq>
+          </extent>
+          <head>
+              <charseq START="10603" END="10605">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rocky Balboa">
+              <charseq START="10589" END="10600">Rocky Balboa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E117" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E117-M6219" ROLE="GPE">
+          <extent>
+              <charseq START="10638" END="10646">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="10638" END="10646">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="10638" END="10646">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Susan_Boyle.sentences.sgm-E118" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Susan_Boyle.sentences.sgm-E118-M6300">
+          <extent>
+              <charseq START="10664" END="10705">Britain&apos;s Got Talent
+Paul Potts
+References</charseq>
+          </extent>
+          <head>
+              <charseq START="10678" END="10705">Talent
+Paul Potts
+References</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Susan_Boyle.sentences.sgm-E118-M6302">
+          <extent>
+              <charseq START="10674" END="10676">Got</charseq>
+          </extent>
+          <head>
+              <charseq START="10674" END="10676">Got</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Talent
+Paul Potts
+References">
+              <charseq START="10678" END="10705">Talent
+Paul Potts
+References</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T0" VAL="1961">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="46" END="49">1961</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T1" VAL="2009-01">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="812" END="823">January 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T2" VAL="P1W">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1129" END="1134">a week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T3" VAL="P10Y">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1357" END="1368">ten-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T4" VAL="2007">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1542" END="1545">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T5" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1907" END="1915">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T6" VAL="2009-04-11">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="2303" END="2315">11 April 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T7" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="3773" END="3782">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T8">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="4026" END="4030">Today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T9" VAL="PT72H">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="4621" END="4638">the first 72 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T10" VAL="P1W">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="4648" END="4653">a week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T11">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="4745" END="4753">the month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T12">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4769" END="4775">the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T13" VAL="1999">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="5587" END="5590">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T14" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="5650" END="5652">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T15" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="6424" END="6429">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T16" VAL="PXY">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="8500" END="8518">the years of wasted</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Susan_Boyle.sentences.sgm-T17" VAL="PXY">
+        <timex2_mention ID="Susan_Boyle.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="8588" END="8605">those wasted years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Susan_Boyle.sentences.sgm-V18" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Susan_Boyle.sentences.sgm-V18-M1">
+            <extent>
+              <charseq START="9239" END="9247">Salon.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="55" END="207">a Scottish church volunteer and amateur singer who came to public attention when she appeared as a contestant on the third series of Britain&apos;s Got Talent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="55" END="207">a Scottish church volunteer and amateur singer who came to public attention when she appeared as a contestant on the third series of Britain&apos;s Got Talent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E3-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="66" END="71">church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R0-M1">
+          <extent>
+              <charseq START="55" END="81">a Scottish church volunteer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M5" ROLE="Arg-1">
+            <extent>
+              <charseq START="55" END="81">a Scottish church volunteer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E3-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="66" END="71">church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E14" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R1-M500">
+          <extent>
+              <charseq START="828" END="847">the Clyde Auditorium</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E13-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="828" END="847">the Clyde Auditorium</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E14-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="852" END="868">Glasgow, Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R2-M501">
+          <extent>
+              <charseq START="852" END="868">Glasgow, Scotland</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E14-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="852" END="868">Glasgow, Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E1-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="861" END="868">Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E17" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R3-M800">
+          <extent>
+              <charseq START="1230" END="1255">a subsidiary of Sony Music</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1230" END="1255">a subsidiary of Sony Music</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E17-M811" ROLE="Arg-2">
+            <extent>
+              <charseq START="1246" END="1255">Sony Music</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R4-M900">
+          <extent>
+              <charseq START="1258" END="1276">Personal life
+Boyle</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M900" ROLE="Arg-1">
+            <extent>
+              <charseq START="1258" END="1276">Personal life
+Boyle</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E18-M908" ROLE="Arg-2">
+            <extent>
+              <charseq START="1324" END="1332">Blackburn</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R5-M901">
+          <extent>
+              <charseq START="1258" END="1276">Personal life
+Boyle</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M900" ROLE="Arg-1">
+            <extent>
+              <charseq START="1258" END="1276">Personal life
+Boyle</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E19-M909" ROLE="Arg-2">
+            <extent>
+              <charseq START="1335" END="1372">West Lothian with her ten-year-old cat</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E20" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R6-M902">
+          <extent>
+              <charseq START="1281" END="1309">the youngest of nine children</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M904" ROLE="Arg-1">
+            <extent>
+              <charseq START="1281" END="1309">the youngest of nine children</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E20-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1297" END="1309">nine children</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R7-M1000">
+          <extent>
+              <charseq START="1442" END="1461">Livingston, Scotland</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E21-M1004" ROLE="Arg-1">
+            <extent>
+              <charseq START="1442" END="1461">Livingston, Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E1-M1006" ROLE="Arg-2">
+            <extent>
+              <charseq START="1454" END="1461">Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R8-M2000">
+          <extent>
+              <charseq START="2537" END="2554">British newspapers</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E29-M2003" ROLE="Arg-1">
+            <extent>
+              <charseq START="2537" END="2554">British newspapers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E2-M2004" ROLE="Arg-2">
+            <extent>
+              <charseq START="2537" END="2543">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R9" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E31" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R9-M2100">
+          <extent>
+              <charseq START="2638" END="2643">writer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E30-M2102" ROLE="Arg-1">
+            <extent>
+              <charseq START="2638" END="2643">writer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E31-M2101" ROLE="Arg-2">
+            <extent>
+              <charseq START="2634" END="2636">Sun</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R10" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E36" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R10-M2200">
+          <extent>
+              <charseq START="2864" END="2885">Australia&apos;s Herald Sun</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E35-M2210" ROLE="Arg-1">
+            <extent>
+              <charseq START="2864" END="2885">Australia&apos;s Herald Sun</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E36-M2211" ROLE="Arg-2">
+            <extent>
+              <charseq START="2864" END="2872">Australia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E38" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R11-M2201">
+          <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E37-M2213" ROLE="Arg-1">
+            <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E38-M2214" ROLE="Arg-2">
+            <extent>
+              <charseq START="2888" END="2893">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E39" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R12-M2202">
+          <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E37-M2213" ROLE="Arg-1">
+            <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E39-M2216" ROLE="Arg-2">
+            <extent>
+              <charseq START="2908" END="2928">Germany&apos;s Der Spiegel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R13" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E41" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R13-M2203">
+          <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E37-M2213" ROLE="Arg-1">
+            <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E41-M2219" ROLE="Arg-2">
+            <extent>
+              <charseq START="2931" END="2956">China&apos;s Xinhua News Agency</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R14-M2204">
+          <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E37-M2213" ROLE="Arg-1">
+            <extent>
+              <charseq START="2888" END="2903">Canada&apos;s Maclean</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E43-M2222" ROLE="Arg-2">
+            <extent>
+              <charseq START="2959" END="2986">Macau&apos;s The Macau Post Daily</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R15" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R15-M2205">
+          <extent>
+              <charseq START="2908" END="2928">Germany&apos;s Der Spiegel</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E39-M2216" ROLE="Arg-1">
+            <extent>
+              <charseq START="2908" END="2928">Germany&apos;s Der Spiegel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E40-M2217" ROLE="Arg-2">
+            <extent>
+              <charseq START="2908" END="2914">Germany</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R16-M2206">
+          <extent>
+              <charseq START="2931" END="2956">China&apos;s Xinhua News Agency</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E41-M2219" ROLE="Arg-1">
+            <extent>
+              <charseq START="2931" END="2956">China&apos;s Xinhua News Agency</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E42-M2220" ROLE="Arg-2">
+            <extent>
+              <charseq START="2931" END="2935">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R17" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E44" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R17-M2207">
+          <extent>
+              <charseq START="2959" END="2986">Macau&apos;s The Macau Post Daily</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E43-M2222" ROLE="Arg-1">
+            <extent>
+              <charseq START="2959" END="2986">Macau&apos;s The Macau Post Daily</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E44-M2223" ROLE="Arg-2">
+            <extent>
+              <charseq START="2959" END="2963">Macau</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R18-M2208">
+          <extent>
+              <charseq START="2989" END="3015">Portugal&apos;s Correio da Manhã</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E45-M2225" ROLE="Arg-1">
+            <extent>
+              <charseq START="2989" END="3015">Portugal&apos;s Correio da Manhã</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E46-M2226" ROLE="Arg-2">
+            <extent>
+              <charseq START="2989" END="2996">Portugal</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R19" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E50" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R19-M2209">
+          <extent>
+              <charseq START="2989" END="3015">Portugal&apos;s Correio da Manhã</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E45-M2225" ROLE="Arg-1">
+            <extent>
+              <charseq START="2989" END="3015">Portugal&apos;s Correio da Manhã</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E50-M2234" ROLE="Arg-2">
+            <extent>
+              <charseq START="3045" END="3051">Holland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R20" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E50" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R20-M2210">
+          <extent>
+              <charseq START="3045" END="3066">Holland&apos;s De Telegraaf</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E49-M2233" ROLE="Arg-1">
+            <extent>
+              <charseq START="3045" END="3066">Holland&apos;s De Telegraaf</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E50-M2234" ROLE="Arg-2">
+            <extent>
+              <charseq START="3045" END="3051">Holland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R21" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E52" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E53" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R21-M2300">
+          <extent>
+              <charseq START="3069" END="3101">and Belgium&apos;s Het Laatste Nieuws.</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E52-M2300" ROLE="Arg-1">
+            <extent>
+              <charseq START="3069" END="3101">and Belgium&apos;s Het Laatste Nieuws.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E53-M2302" ROLE="Arg-2">
+            <extent>
+              <charseq START="3073" END="3079">Belgium</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R22" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E59" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R22-M2600">
+          <extent>
+              <charseq START="3658" END="3685">at least one British tabloid</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E59-M2608" ROLE="Arg-1">
+            <extent>
+              <charseq START="3658" END="3685">at least one British tabloid</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E2-M2609" ROLE="Arg-2">
+            <extent>
+              <charseq START="3671" END="3677">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R23" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E61" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R23-M2700">
+          <extent>
+              <charseq START="3718" END="3820">CNN&apos;s Larry King Live opposite Ashton Kutcher, who had previously watched her performance with his wife</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E60-M2702" ROLE="Arg-1">
+            <extent>
+              <charseq START="3718" END="3820">CNN&apos;s Larry King Live opposite Ashton Kutcher, who had previously watched her performance with his wife</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E61-M2704" ROLE="Arg-2">
+            <extent>
+              <charseq START="3718" END="3720">CNN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R24" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R24-M2701">
+          <extent>
+              <charseq START="3813" END="3815">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E60-M2710" ROLE="Arg-1">
+            <extent>
+              <charseq START="3813" END="3815">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M2709" ROLE="Arg-2">
+            <extent>
+              <charseq START="3813" END="3820">his wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R25" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E64" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E55" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R25-M2900">
+          <extent>
+              <charseq START="3987" END="4012">ABC&apos;s Good Morning America</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E64-M2909" ROLE="Arg-1">
+            <extent>
+              <charseq START="3987" END="4012">ABC&apos;s Good Morning America</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E55-M2910" ROLE="Arg-2">
+            <extent>
+              <charseq START="3987" END="3989">ABC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R26" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E76" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E74" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R26-M3900">
+          <extent>
+              <charseq START="5595" END="5628">a school in Whitburn, West Lothian</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E76-M3929" ROLE="Arg-1">
+            <extent>
+              <charseq START="5595" END="5628">a school in Whitburn, West Lothian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E74-M3931" ROLE="Arg-2">
+            <extent>
+              <charseq START="5607" END="5628">Whitburn, West Lothian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R27" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E74" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R27-M3901">
+          <extent>
+              <charseq START="5607" END="5628">Whitburn, West Lothian</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E74-M3931" ROLE="Arg-1">
+            <extent>
+              <charseq START="5607" END="5628">Whitburn, West Lothian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E19-M3933" ROLE="Arg-2">
+            <extent>
+              <charseq START="5617" END="5628">West Lothian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R28" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E83" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R28-M4300">
+          <extent>
+              <charseq START="6350" END="6370">Scotland&apos;s The Herald</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E83-M4301" ROLE="Arg-1">
+            <extent>
+              <charseq START="6350" END="6370">Scotland&apos;s The Herald</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E1-M4302" ROLE="Arg-2">
+            <extent>
+              <charseq START="6350" END="6357">Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R29" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E90" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R29-M4500">
+          <extent>
+              <charseq START="6993" END="7012">Britain&apos;s Got Talent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E90-M4517" ROLE="Arg-1">
+            <extent>
+              <charseq START="6993" END="7012">Britain&apos;s Got Talent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E2-M4518" ROLE="Arg-2">
+            <extent>
+              <charseq START="6993" END="6999">Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R30" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E94" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R30-M4700">
+          <extent>
+              <charseq START="7346" END="7366">New York&apos;s Daily News</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E34-M4700" ROLE="Arg-1">
+            <extent>
+              <charseq START="7346" END="7366">New York&apos;s Daily News</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E94-M4701" ROLE="Arg-2">
+            <extent>
+              <charseq START="7346" END="7353">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R31" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E101" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R31-M5500">
+          <extent>
+              <charseq START="8872" END="8898">a columnist in The Guardian</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M5501" ROLE="Arg-1">
+            <extent>
+              <charseq START="8872" END="8898">a columnist in The Guardian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E101-M5503" ROLE="Arg-2">
+            <extent>
+              <charseq START="8887" END="8898">The Guardian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R32" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E112" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R32-M5900">
+          <extent>
+              <charseq START="10072" END="10074">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M5914" ROLE="Arg-1">
+            <extent>
+              <charseq START="10072" END="10074">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E112-M5913" ROLE="Arg-2">
+            <extent>
+              <charseq START="10072" END="10084">her home town</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R33" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E113" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E114" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R33-M6000">
+          <extent>
+              <charseq START="10123" END="10135">correspondent</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E113-M6002" ROLE="Arg-1">
+            <extent>
+              <charseq START="10123" END="10135">correspondent</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E114-M6001" ROLE="Arg-2">
+            <extent>
+              <charseq START="10102" END="10121">Independent New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Susan_Boyle.sentences.sgm-R34" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E118" ROLE="Arg-1"/>
+      <relation_argument REFID="Susan_Boyle.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Susan_Boyle.sentences.sgm-R34-M6300">
+          <extent>
+              <charseq START="10674" END="10676">Got</charseq>
+          </extent>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E118-M6302" ROLE="Arg-1">
+            <extent>
+              <charseq START="10674" END="10676">Got</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Susan_Boyle.sentences.sgm-E2-M6301" ROLE="Arg-2">
+            <extent>
+              <charseq START="10664" END="10670">Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Susan_Boyle.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Susan_Boyle.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Susan_Boyle.sentences.sgm-EV0-M0">
+          <extent>
+              <charseq START="41" END="44">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="41" END="44">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="28" END="50">Susan Boyle (born 1961)</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Susan_Boyle.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="46" END="49">1961</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Susan_Boyle.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Susan_Boyle.sentences.sgm-E0" ROLE="Victim"/>
+      <event_argument REFID="Susan_Boyle.sentences.sgm-T4" ROLE="Time-Within"/>
+      <event_mention ID="Susan_Boyle.sentences.sgm-EV1-M1101">
+          <extent>
+              <charseq START="1534" END="1537">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1534" END="1537">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M1108" ROLE="Victim">
+          <extent>
+              <charseq START="1530" END="1532">who</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Susan_Boyle.sentences.sgm-T4-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1542" END="1545">2007</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Susan_Boyle.sentences.sgm-EV1-M1201">
+          <extent>
+              <charseq START="1681" END="1685">death</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1681" END="1685">death</charseq>
+          </anchor>
+        <event_mention_argument REFID="Susan_Boyle.sentences.sgm-E0-M1212" ROLE="Victim">
+          <extent>
+              <charseq START="1668" END="1677">her mother</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Susan_Boyle.sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Susan_Boyle.sentences.sgm-E100" ROLE="Person"/>
+      <event_mention ID="Susan_Boyle.sentences.sgm-EV2-M5401">
+          <extent>
+              <charseq START="8819" END="8827">dismisses</charseq>
+          </extent>
+          <anchor>
+              <charseq START="8819" END="8827">dismisses</charseq>
+          </anchor>
+        <event_mention_argument REFID="Susan_Boyle.sentences.sgm-E100-M5421" ROLE="Person">
+          <extent>
+              <charseq START="8829" END="8845">middle-aged women</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Susan_Boyle.sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Susan_Boyle.sentences.sgm-EV3-M5600">
+          <extent>
+              <charseq START="9599" END="9603">fight</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9599" END="9603">fight</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

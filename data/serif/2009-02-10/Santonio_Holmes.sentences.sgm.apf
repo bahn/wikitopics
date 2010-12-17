@@ -1,0 +1,2766 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Santonio_Holmes.sentences.sgm">
+  <document DOCID="Santonio_Holmes.sentences.sgm">
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="32" END="71">Santonio Holmes, Jr. (born March 3, 1984</charseq>
+          </extent>
+          <head>
+              <charseq START="32" END="51">Santonio Holmes, Jr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="198" END="199">He</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="199">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="266" END="289">High school years
+Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="289">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M203">
+          <extent>
+              <charseq START="278" END="282">years</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="282">years</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M301">
+          <extent>
+              <charseq START="411" END="412">he</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="412">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="426" END="428">his</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="428">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="501" END="502">he</charseq>
+          </extent>
+          <head>
+              <charseq START="501" END="502">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M404">
+          <extent>
+              <charseq START="516" END="518">his</charseq>
+          </extent>
+          <head>
+              <charseq START="516" END="518">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M502">
+          <extent>
+              <charseq START="576" END="578">his</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="578">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M506">
+          <extent>
+              <charseq START="612" END="614">his</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="614">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M507">
+          <extent>
+              <charseq START="633" END="634">he</charseq>
+          </extent>
+          <head>
+              <charseq START="633" END="634">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M600">
+          <extent>
+              <charseq START="706" END="713">Santonio</charseq>
+          </extent>
+          <head>
+              <charseq START="706" END="713">Santonio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M700">
+          <extent>
+              <charseq START="791" END="811">College career
+Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="811">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M702">
+          <extent>
+              <charseq START="799" END="804">career</charseq>
+          </extent>
+          <head>
+              <charseq START="799" END="804">career</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M802">
+          <extent>
+              <charseq START="961" END="963">His</charseq>
+          </extent>
+          <head>
+              <charseq START="961" END="963">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M811">
+          <extent>
+              <charseq START="1070" END="1071">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1071">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M901">
+          <extent>
+              <charseq START="1100" END="1102">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1102">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M902">
+          <extent>
+              <charseq START="1132" END="1134">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1132" END="1134">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="1143" END="1144">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1143" END="1144">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1100">
+          <extent>
+              <charseq START="1174" END="1211">Professional career
+2006 season
+Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="1206" END="1211">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M1104">
+          <extent>
+              <charseq START="1199" END="1204">season</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1204">season</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1201">
+          <extent>
+              <charseq START="1318" END="1319">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1318" END="1319">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1300">
+          <extent>
+              <charseq START="1395" END="1492">Holmes, who wore number 4 at Ohio State (a number that isn&apos;t issued to wide receivers in the NFL),</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1400">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1302">
+          <extent>
+              <charseq START="1403" END="1405">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1403" END="1405">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1404">
+          <extent>
+              <charseq START="1660" END="1665">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1665">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1407">
+          <extent>
+              <charseq START="1686" END="1688">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1686" END="1688">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1415">
+          <extent>
+              <charseq START="1755" END="1756">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1755" END="1756">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1500">
+          <extent>
+              <charseq START="1787" END="1792">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1792">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1506">
+          <extent>
+              <charseq START="1839" END="1841">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1839" END="1841">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1600">
+          <extent>
+              <charseq START="1900" END="1901">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1900" END="1901">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1611">
+          <extent>
+              <charseq START="1958" END="1960">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1958" END="1960">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1701">
+          <extent>
+              <charseq START="2087" END="2092">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="2087" END="2092">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M1816">
+          <extent>
+              <charseq START="2368" END="2373">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="2368" END="2373">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1802">
+          <extent>
+              <charseq START="2229" END="2231">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2231">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M1900">
+          <extent>
+              <charseq START="2496" END="2497">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2496" END="2497">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M2002">
+          <extent>
+              <charseq START="2603" END="2608">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="2603" END="2608">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="2680" END="2681">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2680" END="2681">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2105">
+          <extent>
+              <charseq START="2720" END="2721">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2720" END="2721">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M2206">
+          <extent>
+              <charseq START="2900" END="2905">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="2900" END="2905">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2306">
+          <extent>
+              <charseq START="3054" END="3055">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3054" END="3055">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2312">
+          <extent>
+              <charseq START="3090" END="3092">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3090" END="3092">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2313">
+          <extent>
+              <charseq START="3114" END="3115">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3114" END="3115">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2401">
+          <extent>
+              <charseq START="3201" END="3202">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3201" END="3202">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2500">
+          <extent>
+              <charseq START="3325" END="3326">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3325" END="3326">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M2603">
+          <extent>
+              <charseq START="3405" END="3419">Santonio Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="3405" END="3419">Santonio Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2608">
+          <extent>
+              <charseq START="3467" END="3469">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3467" END="3469">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2609">
+          <extent>
+              <charseq START="3482" END="3483">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3482" END="3483">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2700">
+          <extent>
+              <charseq START="3556" END="3557">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3556" END="3557">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="3627" END="3628">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3627" END="3628">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2902">
+          <extent>
+              <charseq START="3668" END="3670">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3668" END="3670">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M2909">
+          <extent>
+              <charseq START="3741" END="3742">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3741" END="3742">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3006">
+          <extent>
+              <charseq START="3872" END="3877">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="3872" END="3877">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3100">
+          <extent>
+              <charseq START="3925" END="3930">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="3925" END="3930">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M3107">
+          <extent>
+              <charseq START="4005" END="4007">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4005" END="4007">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3200">
+          <extent>
+              <charseq START="4064" END="4069">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4064" END="4069">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3304">
+          <extent>
+              <charseq START="4209" END="4214">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4209" END="4214">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M3404">
+          <extent>
+              <charseq START="4316" END="4317">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4316" END="4317">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3500">
+          <extent>
+              <charseq START="4355" END="4360">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4355" END="4360">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M3502">
+          <extent>
+              <charseq START="4366" END="4368">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4366" END="4368">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3601">
+          <extent>
+              <charseq START="4529" END="4534">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4529" END="4534">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3700">
+          <extent>
+              <charseq START="4621" END="4626">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4621" END="4626">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M3800">
+          <extent>
+              <charseq START="4694" END="4695">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4694" END="4695">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M3903">
+          <extent>
+              <charseq START="4863" END="4868">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="4863" END="4868">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4100">
+          <extent>
+              <charseq START="5100" END="5101">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5100" END="5101">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4200">
+          <extent>
+              <charseq START="5198" END="5217">Legal trouble
+Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5212" END="5217">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M4202">
+          <extent>
+              <charseq START="5204" END="5210">trouble</charseq>
+          </extent>
+          <head>
+              <charseq START="5204" END="5210">trouble</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M4213">
+          <extent>
+              <charseq START="5314" END="5323">a teenager</charseq>
+          </extent>
+          <head>
+              <charseq START="5316" END="5323">teenager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4210">
+          <extent>
+              <charseq START="5274" END="5276">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5274" END="5276">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4214">
+          <extent>
+              <charseq START="5326" END="5327">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5326" END="5327">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4219">
+          <extent>
+              <charseq START="5339" END="5341">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5339" END="5341">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4222">
+          <extent>
+              <charseq START="5410" END="5412">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5410" END="5412">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4300">
+          <extent>
+              <charseq START="5430" END="5435">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5430" END="5435">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4401">
+          <extent>
+              <charseq START="5554" END="5559">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5554" END="5559">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4500">
+          <extent>
+              <charseq START="5574" END="5579">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5574" END="5579">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4601">
+          <extent>
+              <charseq START="5699" END="5704">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5699" END="5704">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M4700">
+          <extent>
+              <charseq START="5849" END="5850">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5849" END="5850">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4806">
+          <extent>
+              <charseq START="5951" END="5956">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="5951" END="5956">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M4807">
+          <extent>
+              <charseq START="5972" END="6001">the victim in the assault case</charseq>
+          </extent>
+          <head>
+              <charseq START="5976" END="5981">victim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E0-M4815">
+          <extent>
+              <charseq START="6073" END="6086">the prosecutor</charseq>
+          </extent>
+          <head>
+              <charseq START="6077" END="6086">prosecutor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M4904">
+          <extent>
+              <charseq START="6134" END="6139">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="6134" END="6139">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M5101">
+          <extent>
+              <charseq START="6204" END="6209">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="6204" END="6209">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E0-M5200">
+          <extent>
+              <charseq START="6289" END="6294">Holmes</charseq>
+          </extent>
+          <head>
+              <charseq START="6289" END="6294">Holmes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M5203">
+          <extent>
+              <charseq START="6351" END="6352">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6351" END="6352">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E0-M5208">
+          <extent>
+              <charseq START="6379" END="6381">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6379" END="6381">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Santonio Holmes, Jr.">
+              <charseq START="32" END="51">Santonio Holmes, Jr.</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="284" END="289">Holmes</charseq>
+          </name>
+          <name NAME="Santonio">
+              <charseq START="706" END="713">Santonio</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="806" END="811">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="1206" END="1211">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="1395" END="1400">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="1660" END="1665">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="1787" END="1792">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="2087" END="2092">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="2368" END="2373">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="2603" END="2608">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="2900" END="2905">Holmes</charseq>
+          </name>
+          <name NAME="Santonio Holmes">
+              <charseq START="3405" END="3419">Santonio Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="3872" END="3877">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="3925" END="3930">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4064" END="4069">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4209" END="4214">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4355" END="4360">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4529" END="4534">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4621" END="4626">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="4863" END="4868">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5212" END="5217">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5430" END="5435">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5554" END="5559">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5574" END="5579">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5699" END="5704">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="5951" END="5956">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="6134" END="6139">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="6204" END="6209">Holmes</charseq>
+          </name>
+          <name NAME="Holmes">
+              <charseq START="6289" END="6294">Holmes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E1-M3" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="77" END="87">Belle Glade</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="87">Belle Glade</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E1-M4211" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5290" END="5300">Belle Glade</charseq>
+          </extent>
+          <head>
+              <charseq START="5290" END="5300">Belle Glade</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E2-M4" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="90" END="96">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="90" END="96">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E2-M5">
+          <extent>
+              <charseq START="102" END="195">an American football wide receiver for the Pittsburgh Steelers of the National Football League</charseq>
+          </extent>
+          <head>
+              <charseq START="128" END="135">receiver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E2-M4212" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5303" END="5309">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="5303" END="5309">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E2-M4303" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5466" END="5482">Florida on May 27</charseq>
+          </extent>
+          <head>
+              <charseq START="5466" END="5472">Florida</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E3-M7" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="105" END="112">American</charseq>
+          </extent>
+          <head>
+              <charseq START="105" END="112">American</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M9">
+          <extent>
+              <charseq START="141" END="195">the Pittsburgh Steelers of the National Football League</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="163">Pittsburgh Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M1401">
+          <extent>
+              <charseq START="1619" END="1630">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="1623" END="1630">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M1511">
+          <extent>
+              <charseq START="1879" END="1890">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="1883" END="1890">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M1810">
+          <extent>
+              <charseq START="2297" END="2308">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="2301" END="2308">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M1823">
+          <extent>
+              <charseq START="2482" END="2493">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="2486" END="2493">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M2004">
+          <extent>
+              <charseq START="2620" END="2631">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="2624" END="2631">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E4-M2107">
+          <extent>
+              <charseq START="2727" END="2738">the Steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="2731" END="2738">Steelers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pittsburgh Steelers">
+              <charseq START="145" END="163">Pittsburgh Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="1623" END="1630">Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="1883" END="1890">Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="2301" END="2308">Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="2486" END="2493">Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="2624" END="2631">Steelers</charseq>
+          </name>
+          <name NAME="Steelers">
+              <charseq START="2731" END="2738">Steelers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E5-M12">
+          <extent>
+              <charseq START="168" END="195">the National Football League</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="195">National Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E5-M1112">
+          <extent>
+              <charseq START="1284" END="1286">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="1284" END="1286">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E5-M1312">
+          <extent>
+              <charseq START="1484" END="1490">the NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1490">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E5-M2115">
+          <extent>
+              <charseq START="2837" END="2843">the NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="2841" END="2843">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E5-M2802">
+          <extent>
+              <charseq START="3634" END="3643">the league</charseq>
+          </extent>
+          <head>
+              <charseq START="3638" END="3643">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E5-M3907">
+          <extent>
+              <charseq START="4892" END="4894">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="4892" END="4894">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Football League">
+              <charseq START="172" END="195">National Football League</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="1284" END="1286">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="1488" END="1490">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="2841" END="2843">NFL</charseq>
+          </name>
+          <name NAME="NFL">
+              <charseq START="4892" END="4894">NFL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E6" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E6-M104">
+          <extent>
+              <charseq START="241" END="263">the Ohio State Buckeyes</charseq>
+          </extent>
+          <head>
+              <charseq START="245" END="263">Ohio State Buckeyes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E6-M705">
+          <extent>
+              <charseq START="837" END="846">Ohio State</charseq>
+          </extent>
+          <head>
+              <charseq START="837" END="846">Ohio State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E6-M813">
+          <extent>
+              <charseq START="1078" END="1089">the Buckeyes</charseq>
+          </extent>
+          <head>
+              <charseq START="1082" END="1089">Buckeyes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E6-M1307">
+          <extent>
+              <charseq START="1424" END="1433">Ohio State</charseq>
+          </extent>
+          <head>
+              <charseq START="1424" END="1433">Ohio State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ohio State Buckeyes">
+              <charseq START="245" END="263">Ohio State Buckeyes</charseq>
+          </name>
+          <name NAME="Ohio State">
+              <charseq START="837" END="846">Ohio State</charseq>
+          </name>
+          <name NAME="Buckeyes">
+              <charseq START="1082" END="1089">Buckeyes</charseq>
+          </name>
+          <name NAME="Ohio State">
+              <charseq START="1424" END="1433">Ohio State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E7-M205">
+          <extent>
+              <charseq START="300" END="340">Glades Central High School in Belle Glade</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="325">Glades Central High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glades Central High School">
+              <charseq START="300" END="325">Glades Central High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E8-M207" ROLE="LOC">
+          <extent>
+              <charseq START="330" END="340">Belle Glade</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="340">Belle Glade</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belle Glade">
+              <charseq START="330" END="340">Belle Glade</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E9-M303">
+          <extent>
+              <charseq START="426" END="433">his team</charseq>
+          </extent>
+          <head>
+              <charseq START="430" END="433">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E9-M403">
+          <extent>
+              <charseq START="516" END="523">his team</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="523">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E9-M501">
+          <extent>
+              <charseq START="576" END="583">his team</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="583">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E10-M310">
+          <extent>
+              <charseq START="476" END="483">a senior</charseq>
+          </extent>
+          <head>
+              <charseq START="478" END="483">senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E10-M407">
+          <extent>
+              <charseq START="556" END="563">a senior</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="563">senior</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E11-M509">
+          <extent>
+              <charseq START="640" END="677">the member of a 4x400 meter relay team</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="649">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E12-M511">
+          <extent>
+              <charseq START="654" END="677">a 4x400 meter relay team</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="677">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E13-M601">
+          <extent>
+              <charseq START="730" END="773">Glades Central Community High School in 2002</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="765">Glades Central Community High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glades Central Community High School">
+              <charseq START="730" END="765">Glades Central Community High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E14-M704">
+          <extent>
+              <charseq START="824" END="831">receiver</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="831">receiver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E14-M1203">
+          <extent>
+              <charseq START="1325" END="1392">the first and only receiver taken in the first round by the steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1351">receiver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E14-M1207">
+          <extent>
+              <charseq START="1381" END="1392">the steelers</charseq>
+          </extent>
+          <head>
+              <charseq START="1385" END="1392">steelers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E15-M1106">
+          <extent>
+              <charseq START="1218" END="1224">college</charseq>
+          </extent>
+          <head>
+              <charseq START="1218" END="1224">college</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E16-M1317" ROLE="LOC">
+          <extent>
+              <charseq START="1535" END="1544">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1544">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E16-M5102" ROLE="LOC">
+          <extent>
+              <charseq START="6227" END="6236">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="6227" END="6236">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pittsburgh">
+              <charseq START="1535" END="1544">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="6227" END="6236">Pittsburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E17-M1319">
+          <extent>
+              <charseq START="1549" END="1572">former kicker Roy Gerela</charseq>
+          </extent>
+          <head>
+              <charseq START="1563" END="1572">Roy Gerela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E17-M1320">
+          <extent>
+              <charseq START="1556" END="1561">kicker</charseq>
+          </extent>
+          <head>
+              <charseq START="1556" END="1561">kicker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roy Gerela">
+              <charseq START="1563" END="1572">Roy Gerela</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E18-M1322">
+          <extent>
+              <charseq START="1578" END="1604">quarterback Kordell Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1604">Kordell Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E18-M1323">
+          <extent>
+              <charseq START="1578" END="1588">quarterback</charseq>
+          </extent>
+          <head>
+              <charseq START="1578" END="1588">quarterback</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kordell Stewart">
+              <charseq START="1590" END="1604">Kordell Stewart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E19-M1311">
+          <extent>
+              <charseq START="1466" END="1479">wide receivers</charseq>
+          </extent>
+          <head>
+              <charseq START="1471" END="1479">receivers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E20-M1408">
+          <extent>
+              <charseq START="1710" END="1775">special teams as a returner, a role in which he fumbled frequently</charseq>
+          </extent>
+          <head>
+              <charseq START="1718" END="1722">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E20-M1414">
+          <extent>
+              <charseq START="1749" END="1753">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1749" END="1753">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E21-M1411">
+          <extent>
+              <charseq START="1727" END="1736">a returner</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1736">returner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E22-M1502">
+          <extent>
+              <charseq START="1816" END="1825">a receiver</charseq>
+          </extent>
+          <head>
+              <charseq START="1818" END="1825">receiver</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E23-M1613">
+          <extent>
+              <charseq START="1993" END="2064">the Kansas City Chiefs, totaling 58 yards receiving and 13 yards rushing</charseq>
+          </extent>
+          <head>
+              <charseq START="1997" END="2014">Kansas City Chiefs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kansas City Chiefs">
+              <charseq START="1997" END="2014">Kansas City Chiefs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E24-M1602">
+          <extent>
+              <charseq START="1910" END="1972">Week 6 Diet Pepsi Rookie of the Week honors for his performance</charseq>
+          </extent>
+          <head>
+              <charseq START="1928" END="1933">Rookie</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E25-M1702">
+          <extent>
+              <charseq START="2103" END="2116">Cedrick Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="2103" END="2116">Cedrick Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cedrick Wilson">
+              <charseq START="2103" END="2116">Cedrick Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E26-M1814">
+          <extent>
+              <charseq START="2344" END="2365">the Cincinnati Bengals</charseq>
+          </extent>
+          <head>
+              <charseq START="2348" END="2365">Cincinnati Bengals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E26-M3608">
+          <extent>
+              <charseq START="4588" END="4609">the Cincinnati Bengals</charseq>
+          </extent>
+          <head>
+              <charseq START="4592" END="4609">Cincinnati Bengals</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cincinnati Bengals">
+              <charseq START="2348" END="2365">Cincinnati Bengals</charseq>
+          </name>
+          <name NAME="Cincinnati Bengals">
+              <charseq START="4592" END="4609">Cincinnati Bengals</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E27-M1818">
+          <extent>
+              <charseq START="2394" END="2411">Ben Roethlisberger</charseq>
+          </extent>
+          <head>
+              <charseq START="2394" END="2411">Ben Roethlisberger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E27-M2209">
+          <extent>
+              <charseq START="2944" END="2961">Ben Roethlisberger</charseq>
+          </extent>
+          <head>
+              <charseq START="2944" END="2961">Ben Roethlisberger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E27-M3913">
+          <extent>
+              <charseq START="4966" END="4983">Ben Roethlisberger</charseq>
+          </extent>
+          <head>
+              <charseq START="4966" END="4983">Ben Roethlisberger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben Roethlisberger">
+              <charseq START="2394" END="2411">Ben Roethlisberger</charseq>
+          </name>
+          <name NAME="Ben Roethlisberger">
+              <charseq START="2944" END="2961">Ben Roethlisberger</charseq>
+          </name>
+          <name NAME="Ben Roethlisberger">
+              <charseq START="4966" END="4983">Ben Roethlisberger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E28-M1908">
+          <extent>
+              <charseq START="2568" END="2588">the Carolina Panthers</charseq>
+          </extent>
+          <head>
+              <charseq START="2572" END="2588">Carolina Panthers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carolina Panthers">
+              <charseq START="2572" END="2588">Carolina Panthers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E29-M2008">
+          <extent>
+              <charseq START="2665" END="2677">training camp</charseq>
+          </extent>
+          <head>
+              <charseq START="2674" END="2677">camp</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E30-M2204">
+          <extent>
+              <charseq START="2878" END="2897">the Cleveland Browns</charseq>
+          </extent>
+          <head>
+              <charseq START="2882" END="2897">Cleveland Browns</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E30-M2213">
+          <extent>
+              <charseq START="2993" END="2998">Browns</charseq>
+          </extent>
+          <head>
+              <charseq START="2993" END="2998">Browns</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E30-M3302">
+          <extent>
+              <charseq START="4187" END="4206">the Cleveland Browns</charseq>
+          </extent>
+          <head>
+              <charseq START="4191" END="4206">Cleveland Browns</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cleveland Browns">
+              <charseq START="2882" END="2897">Cleveland Browns</charseq>
+          </name>
+          <name NAME="Browns">
+              <charseq START="2993" END="2998">Browns</charseq>
+          </name>
+          <name NAME="Cleveland Browns">
+              <charseq START="4191" END="4206">Cleveland Browns</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E31" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E31-M2304">
+          <extent>
+              <charseq START="3031" END="3051">the Arizona Cardinals</charseq>
+          </extent>
+          <head>
+              <charseq START="3035" END="3051">Arizona Cardinals</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arizona Cardinals">
+              <charseq START="3035" END="3051">Arizona Cardinals</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E32-M2404">
+          <extent>
+              <charseq START="3247" END="3266">the Baltimore Ravens</charseq>
+          </extent>
+          <head>
+              <charseq START="3251" END="3266">Baltimore Ravens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E32-M3507">
+          <extent>
+              <charseq START="4428" END="4447">the Baltimore Ravens</charseq>
+          </extent>
+          <head>
+              <charseq START="4432" END="4447">Baltimore Ravens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baltimore Ravens">
+              <charseq START="3251" END="3266">Baltimore Ravens</charseq>
+          </name>
+          <name NAME="Baltimore Ravens">
+              <charseq START="4432" END="4447">Baltimore Ravens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E33-M2613">
+          <extent>
+              <charseq START="3536" END="3553">the St. Louis Rams</charseq>
+          </extent>
+          <head>
+              <charseq START="3540" END="3553">St. Louis Rams</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Louis Rams">
+              <charseq START="3540" END="3553">St. Louis Rams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E34-M2907">
+          <extent>
+              <charseq START="3715" END="3738">the Jacksonville Jaguars</charseq>
+          </extent>
+          <head>
+              <charseq START="3719" END="3738">Jacksonville Jaguars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jacksonville Jaguars">
+              <charseq START="3719" END="3738">Jacksonville Jaguars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E35-M3208">
+          <extent>
+              <charseq START="4136" END="4153">the Houston Texans</charseq>
+          </extent>
+          <head>
+              <charseq START="4140" END="4153">Houston Texans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Houston Texans">
+              <charseq START="4140" END="4153">Houston Texans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E36-M3402">
+          <extent>
+              <charseq START="4304" END="4313">the Eagles</charseq>
+          </extent>
+          <head>
+              <charseq START="4308" END="4313">Eagles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eagles">
+              <charseq START="4308" END="4313">Eagles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E37" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E37-M3803">
+          <extent>
+              <charseq START="4738" END="4756">the New York Giants</charseq>
+          </extent>
+          <head>
+              <charseq START="4742" END="4756">New York Giants</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Giants">
+              <charseq START="4742" END="4756">New York Giants</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E38-M3808">
+          <extent>
+              <charseq START="4817" END="4839">the Washington Redskins</charseq>
+          </extent>
+          <head>
+              <charseq START="4821" END="4839">Washington Redskins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington Redskins">
+              <charseq START="4821" END="4839">Washington Redskins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E39-M3905">
+          <extent>
+              <charseq START="4878" END="4888">the Steeler</charseq>
+          </extent>
+          <head>
+              <charseq START="4882" END="4888">Steeler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steeler">
+              <charseq START="4882" END="4888">Steeler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E40-M4001">
+          <extent>
+              <charseq START="5046" END="5069">the booth within seconds</charseq>
+          </extent>
+          <head>
+              <charseq START="5050" END="5054">booth</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E41-M4102">
+          <extent>
+              <charseq START="5113" END="5126">the game&apos;s MVP</charseq>
+          </extent>
+          <head>
+              <charseq START="5124" END="5126">MVP</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E42-M4208" ROLE="GPE">
+          <extent>
+              <charseq START="5274" END="5300">his hometown of Belle Glade</charseq>
+          </extent>
+          <head>
+              <charseq START="5278" END="5285">hometown</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E43-M4218">
+          <extent>
+              <charseq START="5339" END="5348">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="5343" END="5348">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E44-M4302">
+          <extent>
+              <charseq START="5453" END="5463">Miami Beach</charseq>
+          </extent>
+          <head>
+              <charseq START="5453" END="5463">Miami Beach</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miami Beach">
+              <charseq START="5453" END="5463">Miami Beach</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E45-M4510" ROLE="LOC">
+          <extent>
+              <charseq START="5666" END="5679">Columbus, Ohio</charseq>
+          </extent>
+          <head>
+              <charseq START="5666" END="5673">Columbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E45-M4604" ROLE="LOC">
+          <extent>
+              <charseq START="5743" END="5750">Columbus</charseq>
+          </extent>
+          <head>
+              <charseq START="5743" END="5750">Columbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Columbus">
+              <charseq START="5666" END="5673">Columbus</charseq>
+          </name>
+          <name NAME="Columbus">
+              <charseq START="5743" END="5750">Columbus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E46" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E46-M4512" ROLE="LOC">
+          <extent>
+              <charseq START="5676" END="5679">Ohio</charseq>
+          </extent>
+          <head>
+              <charseq START="5676" END="5679">Ohio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E46-M4605" ROLE="LOC">
+          <extent>
+              <charseq START="5753" END="5846">Ohio for both a pre-trial regarding the domestic case and hearing regarding the traffic ticket</charseq>
+          </extent>
+          <head>
+              <charseq START="5753" END="5756">Ohio</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ohio">
+              <charseq START="5676" END="5679">Ohio</charseq>
+          </name>
+          <name NAME="Ohio">
+              <charseq START="5753" END="5756">Ohio</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E47-M4602">
+          <extent>
+              <charseq START="5718" END="5738">Franklin County Court</charseq>
+          </extent>
+          <head>
+              <charseq START="5718" END="5738">Franklin County Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E47-M4905">
+          <extent>
+              <charseq START="6144" END="6148">court</charseq>
+          </extent>
+          <head>
+              <charseq START="6144" END="6148">court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Franklin County Court">
+              <charseq START="5718" END="5738">Franklin County Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E48-M4801">
+          <extent>
+              <charseq START="5923" END="5934">Lashae Boone</charseq>
+          </extent>
+          <head>
+              <charseq START="5923" END="5934">Lashae Boone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E48-M4802">
+          <extent>
+              <charseq START="5937" END="6002">the mother of Holmes&apos; daughter and the victim in the assault case,</charseq>
+          </extent>
+          <head>
+              <charseq START="5941" END="5946">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E48-M4901">
+          <extent>
+              <charseq START="6097" END="6101">Boone</charseq>
+          </extent>
+          <head>
+              <charseq START="6097" END="6101">Boone</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lashae Boone">
+              <charseq START="5923" END="5934">Lashae Boone</charseq>
+          </name>
+          <name NAME="Boone">
+              <charseq START="6097" END="6101">Boone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E49-M4805">
+          <extent>
+              <charseq START="5951" END="5966">Holmes&apos; daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="5959" END="5966">daughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E49-M4902">
+          <extent>
+              <charseq START="6107" END="6120">their daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="6113" END="6120">daughter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E50-M5103">
+          <extent>
+              <charseq START="6251" END="6286">officers for possession of marijuana</charseq>
+          </extent>
+          <head>
+              <charseq START="6251" END="6258">officers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E51" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E51-M5209">
+          <extent>
+              <charseq START="6403" END="6410">our team</charseq>
+          </extent>
+          <head>
+              <charseq START="6407" END="6410">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Santonio_Holmes.sentences.sgm-E51-M5214">
+          <extent>
+              <charseq START="6441" END="6443">its</charseq>
+          </extent>
+          <head>
+              <charseq START="6441" END="6443">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E52" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Santonio_Holmes.sentences.sgm-E52-M5211">
+          <extent>
+              <charseq START="6419" END="6427">the field</charseq>
+          </extent>
+          <head>
+              <charseq START="6423" END="6427">field</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Santonio_Holmes.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Santonio_Holmes.sentences.sgm-E54-M5309">
+          <extent>
+              <charseq START="6523" END="6552">Steelers Player Bio
+References</charseq>
+          </extent>
+          <head>
+              <charseq START="6523" END="6552">Steelers Player Bio
+References</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steelers Player Bio
+References">
+              <charseq START="6523" END="6552">Steelers Player Bio
+References</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T0" VAL="1984-03-03">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="59" END="71">March 3, 1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="201" END="210">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T2" VAL="PXY">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="266" END="282">High school years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T3" VAL="P1Y">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="612" END="626">his junior year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T4" VAL="2002">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="770" END="773">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T5" VAL="2003">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="853" END="856">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T6" VAL="2005">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="861" END="864">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T7" VAL="2005">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1094" END="1097">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T8" VAL="P1Y" MOD="START">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1194" END="1237">2006 season
+Holmes left college a year early</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T9" VAL="2006">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1279" END="1282">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T10" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1516" END="1525">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T11" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1549" END="1554">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T12" VAL="2006">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1647" END="1657">2006 season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T13" VAL="XXXX-10-15">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1974" END="1983">October 15</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T14">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2067" END="2084">Late in the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T15" VAL="2006">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2158" END="2176">2006 regular season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T16" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2270" END="2273">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T17" VAL="XXXX-12-17">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2548" END="2558">December 17</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T18" VAL="2007">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2591" END="2594">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T19">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2691" END="2707">a breakout season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T20" VAL="2007">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2712" END="2715">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T21" VAL="P1W">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="2849" END="2868">Week 1 of the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T22" VAL="P1W">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3190" END="3198">In week 9</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T23" VAL="P1W">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3393" END="3402">In week 16</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T24">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3568" END="3575">the year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T25" VAL="2008">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="3805" END="3815">2008 season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T26" VAL="2007">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="3859" END="3869">2007 season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T27" VAL="2008">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="3912" END="3915">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T28">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="3982" END="3991">the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T29">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="4049" END="4061">the offseason</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T30">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="4077" END="4086">the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T31" VAL="P1W">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="4382" END="4399">the following week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T32" VAL="P1W">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="4523" END="4526">week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T33">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="4791" END="4796">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T34" VAL="PT36S">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="4990" END="4999">36 seconds</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T35" VAL="2006-05-27">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="5477" END="5488">May 27, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T36" VAL="2006-06-18">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="5615" END="5627">June 18, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T37" VAL="2006-07-07">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="5685" END="5696">July 7, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Santonio_Holmes.sentences.sgm-T38" VAL="2008-10-23">
+        <timex2_mention ID="Santonio_Holmes.sentences.sgm-T38-M1">
+            <extent>
+              <charseq START="6186" END="6201">October 23, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Santonio_Holmes.sentences.sgm-V39" TYPE="Crime">
+        <value_mention ID="Santonio_Holmes.sentences.sgm-V39-M1">
+            <extent>
+              <charseq START="4669" END="4691">possession of marijuana</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Santonio_Holmes.sentences.sgm-V40" TYPE="Crime">
+        <value_mention ID="Santonio_Holmes.sentences.sgm-V40-M1">
+            <extent>
+              <charseq START="5598" END="5610">a second time</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="198" END="199">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="198" END="199">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E6-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="241" END="263">the Ohio State Buckeyes</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R1-M200">
+          <extent>
+              <charseq START="300" END="340">Glades Central High School in Belle Glade</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E7-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="300" END="340">Glades Central High School in Belle Glade</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E8-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="330" END="340">Belle Glade</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R2-M300">
+          <extent>
+              <charseq START="426" END="428">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="426" END="428">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E9-M303" ROLE="Arg-2">
+            <extent>
+              <charseq START="426" END="433">his team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R2-M400">
+          <extent>
+              <charseq START="516" END="518">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="516" END="518">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E9-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="516" END="523">his team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R2-M500">
+          <extent>
+              <charseq START="576" END="578">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="576" END="578">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E9-M501" ROLE="Arg-2">
+            <extent>
+              <charseq START="576" END="583">his team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R3-M501">
+          <extent>
+              <charseq START="640" END="677">the member of a 4x400 meter relay team</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E11-M509" ROLE="Arg-1">
+            <extent>
+              <charseq START="640" END="677">the member of a 4x400 meter relay team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E12-M511" ROLE="Arg-2">
+            <extent>
+              <charseq START="654" END="677">a 4x400 meter relay team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R4-M600">
+          <extent>
+              <charseq START="706" END="713">Santonio</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="706" END="713">Santonio</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E13-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="730" END="773">Glades Central Community High School in 2002</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R5-M700">
+          <extent>
+              <charseq START="824" END="831">receiver</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E14-M704" ROLE="Arg-1">
+            <extent>
+              <charseq START="824" END="831">receiver</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E6-M705" ROLE="Arg-2">
+            <extent>
+              <charseq START="837" END="846">Ohio State</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R6-M2000">
+          <extent>
+              <charseq START="2603" END="2608">Holmes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M2002" ROLE="Arg-1">
+            <extent>
+              <charseq START="2603" END="2608">Holmes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E29-M2008" ROLE="Arg-2">
+            <extent>
+              <charseq START="2665" END="2677">training camp</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R7-M4200">
+          <extent>
+              <charseq START="5274" END="5276">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4210" ROLE="Arg-1">
+            <extent>
+              <charseq START="5274" END="5276">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E42-M4208" ROLE="Arg-2">
+            <extent>
+              <charseq START="5274" END="5300">his hometown of Belle Glade</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R8-M4201">
+          <extent>
+              <charseq START="5339" END="5341">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4219" ROLE="Arg-1">
+            <extent>
+              <charseq START="5339" END="5341">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E43-M4218" ROLE="Arg-2">
+            <extent>
+              <charseq START="5339" END="5348">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E44" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R9-M4300">
+          <extent>
+              <charseq START="5430" END="5435">Holmes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4300" ROLE="Arg-1">
+            <extent>
+              <charseq START="5430" END="5435">Holmes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E44-M4302" ROLE="Arg-2">
+            <extent>
+              <charseq START="5453" END="5463">Miami Beach</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R10-M4500">
+          <extent>
+              <charseq START="5666" END="5679">Columbus, Ohio</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E45-M4510" ROLE="Arg-1">
+            <extent>
+              <charseq START="5666" END="5679">Columbus, Ohio</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E46-M4512" ROLE="Arg-2">
+            <extent>
+              <charseq START="5676" END="5679">Ohio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R10-M4601">
+          <extent>
+              <charseq START="5743" END="5750">Columbus</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E45-M4604" ROLE="Arg-1">
+            <extent>
+              <charseq START="5743" END="5750">Columbus</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E46-M4605" ROLE="Arg-2">
+            <extent>
+              <charseq START="5753" END="5846">Ohio for both a pre-trial regarding the domestic case and hearing regarding the traffic ticket</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R11" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E47" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R11-M4600">
+          <extent>
+              <charseq START="5718" END="5738">Franklin County Court</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E47-M4602" ROLE="Arg-1">
+            <extent>
+              <charseq START="5718" END="5738">Franklin County Court</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E45-M4604" ROLE="Arg-2">
+            <extent>
+              <charseq START="5743" END="5750">Columbus</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R12" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E49" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R12-M4800">
+          <extent>
+              <charseq START="5937" END="6002">the mother of Holmes&apos; daughter and the victim in the assault case,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E48-M4802" ROLE="Arg-1">
+            <extent>
+              <charseq START="5937" END="6002">the mother of Holmes&apos; daughter and the victim in the assault case,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E49-M4805" ROLE="Arg-2">
+            <extent>
+              <charseq START="5951" END="5966">Holmes&apos; daughter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R13" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R13-M4801">
+          <extent>
+              <charseq START="5937" END="6002">the mother of Holmes&apos; daughter and the victim in the assault case,</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E48-M4802" ROLE="Arg-1">
+            <extent>
+              <charseq START="5937" END="6002">the mother of Holmes&apos; daughter and the victim in the assault case,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4807" ROLE="Arg-2">
+            <extent>
+              <charseq START="5972" END="6001">the victim in the assault case</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R14" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E49" ROLE="Arg-2"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R14-M4802">
+          <extent>
+              <charseq START="5951" END="5956">Holmes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4806" ROLE="Arg-1">
+            <extent>
+              <charseq START="5951" END="5956">Holmes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E49-M4805" ROLE="Arg-2">
+            <extent>
+              <charseq START="5951" END="5966">Holmes&apos; daughter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Santonio_Holmes.sentences.sgm-R15" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-E16" ROLE="Arg-2"/>
+      <relation_argument REFID="Santonio_Holmes.sentences.sgm-T38" ROLE="Time-Starting"/>
+        <relation_mention ID="Santonio_Holmes.sentences.sgm-R15-M5100">
+          <extent>
+              <charseq START="6204" END="6209">Holmes</charseq>
+          </extent>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M5101" ROLE="Arg-1">
+            <extent>
+              <charseq START="6204" END="6209">Holmes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-E16-M5102" ROLE="Arg-2">
+            <extent>
+              <charseq START="6227" END="6236">Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Santonio_Holmes.sentences.sgm-T38-M1" ROLE="Time-Starting">
+            <extent>
+              <charseq START="6186" END="6201">October 23, 2008</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Santonio_Holmes.sentences.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E29" ROLE="Destination"/>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV0-M2000">
+          <extent>
+              <charseq START="2653" END="2658">coming</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2653" END="2658">coming</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M2002" ROLE="Artifact">
+          <extent>
+              <charseq START="2603" END="2608">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E29-M2008" ROLE="Destination">
+          <extent>
+              <charseq START="2665" END="2677">training camp</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Santonio_Holmes.sentences.sgm-EV1" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-V39" ROLE="Crime"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E44" ROLE="Place"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-V40" ROLE="Crime"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E16" ROLE="Place"/>
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-T38" ROLE="Time-Within"/>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV1-M3700">
+          <extent>
+              <charseq START="4656" END="4663">arrested</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4656" END="4663">arrested</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M3700" ROLE="Person">
+          <extent>
+              <charseq START="4621" END="4626">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-V39-M1" ROLE="Crime">
+            <extent>
+              <charseq START="4669" END="4691">possession of marijuana</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV1-M4300">
+          <extent>
+              <charseq START="5441" END="5448">arrested</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5441" END="5448">arrested</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E44-M4302" ROLE="Place">
+          <extent>
+              <charseq START="5453" END="5463">Miami Beach</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4300" ROLE="Person">
+          <extent>
+              <charseq START="5430" END="5435">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV1-M4501">
+          <extent>
+              <charseq START="5585" END="5592">arrested</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5585" END="5592">arrested</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4500" ROLE="Person">
+          <extent>
+              <charseq START="5574" END="5579">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-V40-M1" ROLE="Crime">
+            <extent>
+              <charseq START="5598" END="5610">a second time</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV1-M5100">
+          <extent>
+              <charseq START="6215" END="6222">arrested</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6215" END="6222">arrested</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M5101" ROLE="Person">
+          <extent>
+              <charseq START="6204" END="6209">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E16-M5102" ROLE="Place">
+          <extent>
+              <charseq START="6227" END="6236">Pittsburgh</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-T38-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="6186" END="6201">October 23, 2008</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Santonio_Holmes.sentences.sgm-EV2" TYPE="Justice" SUBTYPE="Fine" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Santonio_Holmes.sentences.sgm-E0" ROLE="Entity"/>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV2-M4400">
+          <extent>
+              <charseq START="5568" END="5571">fine</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5568" END="5571">fine</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4401" ROLE="Entity">
+          <extent>
+              <charseq START="5554" END="5559">Holmes</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV2-M4700">
+          <extent>
+              <charseq START="5911" END="5914">fine</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5911" END="5914">fine</charseq>
+          </anchor>
+        <event_mention_argument REFID="Santonio_Holmes.sentences.sgm-E0-M4700" ROLE="Entity">
+          <extent>
+              <charseq START="5849" END="5850">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Santonio_Holmes.sentences.sgm-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV3-M4801">
+          <extent>
+              <charseq START="6053" END="6059">charges</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6053" END="6059">charges</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Santonio_Holmes.sentences.sgm-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Santonio_Holmes.sentences.sgm-EV4-M5000">
+          <extent>
+              <charseq START="6155" END="6161">charges</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6155" END="6161">charges</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

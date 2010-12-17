@@ -8,7 +8,9 @@ The gold standard is Ben's sentence selection.
 The kinds of selection scheme:
 
 First: Select the first sentence.
-Recent: Select the most recent sentence.
+Recent: Select the sentence with the most recent date.
+Self: Select the sentence with the most recent date and a refernce to itself.
+Edit: Select the sentence in the recent edit history.
 
 Data
 ====
@@ -19,6 +21,8 @@ Scripts
 =======
 
 There are three kinds of scripts: data generation, preprocess, and evaluation.
+There is a script to see if an apf file is parsable with Python's xml.dom.parse:
+non_parsable.py
 
 Data Generation
 ---------------
@@ -29,7 +33,30 @@ First:
 src/serif/batch_pick_first.sh ../../data/sent/manual/2009-01-27 ../../data/sent/auto-first/2009-01-27
 
 Recent:
-src/serif/batch_pick_recent_dates.sh ../../data/serif/2009-01-27 2009-01-27 ../../data/sent/auto-recent/2009-01-27
+I ran the command line below to generate the test data for the first date.
+cd src/serif; ./batch_pick_recent_dates.sh ../../data/serif/2009-01-27 2009-01-27 ../../data/sent/auto-recent/2009-01-27
+
+The following command line is for the remaining four dates.
+The error & warning messages occurred. I have to find for which file the error occurred.
+cd src/serif; for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent/$DATE; done
+
+These are the list of what there were not.
+# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
+# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
+# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
+# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
+# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
+# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
+
+This file was not parsable with Python's xml.dom.minidom.parse module:
+data/serif/2009-04-19/Fast_&_Furious.sentences.sgm.apf
+
+Self:
+The script was to select the sentence with both the most recent date and a self reference.
+cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self/$DATE; done
+
+But it did not perform well, so I changed the script so that if there is no such sentence, it backs off to RECENT.
+cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self2/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self2/$DATE; done
 
 Preprocess
 ----------
@@ -47,13 +74,30 @@ src/sent_eval/number_sents.py ../../data/sent/auto-first/2009-01-27 ../../data/s
 Recent:
 src/sent_eval/number_sents.py ../../data/sent/auto-recent/2009-01-27 ../../data/sent/manual/2009-01-27 ../../data/sent_eval/auto-recent/2009-01-27
 
+Self:
+cd src/sent_eval; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./number_sents.py ../../data/sent/auto-self/$DATE ../../data/sent/manual/$DATE ../../data/sent_eval/auto-self/$DATE; done
+
+and for the second round:
+
+cd src/sent_eval; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./number_sents.py ../../data/sent/auto-self2/$DATE ../../data/sent/manual/$DATE ../../data/sent_eval/auto-self2/$DATE; done
+
+to see the results:
+
+cat ../../data/sent_eval/auto-self2/*/* | less
+
 Evaluation
 ----------
 First:
-src/sent_eval/eval_sents.py data/sent_eval/auto-first data/sent_eval/ben
+cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-first ../../data/sent_eval/ben
 
 Recent:
-src/sent_eval/eval_sents.py data/sent_eval/auto-recent data/sent_eval/ben
+cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-recent ../../data/sent_eval/ben
+
+Self:
+cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-self ../../data/sent_eval/ben
+
+For the second round:
+cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-self2 ../../data/sent_eval/ben
 
 Result
 ======
@@ -73,6 +117,8 @@ r = a/c = 0.208333333333
 f = 2pr / (p+r) = 0.294117647059
 
 Recent:
+These are the result for the ten articles of the first date.
+
 item_counts: 10
 a best_correct: 2
 b best_guess: 10
@@ -87,10 +133,207 @@ p = a/b = 0.2
 r = a/c = 0.0833333333333
 f = 2pr / (p+r) = 0.117647058824
 
+And this is the result for all the fifty articles.
+item_counts: 50
+a best_correct: 16
+b best_guess: 49
+c best_answer: 33
+p = a/b = 0.326530612245
+r = a/c = 0.484848484848
+f = 2pr / (p+r) = 0.390243902439
+a second_correct: 27
+b second_guess: 49
+c second_answer: 107
+p = a/b = 0.551020408163
+r = a/c = 0.252336448598
+f = 2pr / (p+r) = 0.346153846154
+
+Self:
+item_counts: 50
+a best_correct: 12
+b best_guess: 41
+c best_answer: 33
+p = a/b = 0.292682926829
+r = a/c = 0.363636363636
+f = 2pr / (p+r) = 0.324324324324
+a second_correct: 20
+b second_guess: 41
+c second_answer: 107
+p = a/b = 0.487804878049
+r = a/c = 0.18691588785
+f = 2pr / (p+r) = 0.27027027027
+
+Back-off version:
+item_counts: 50
+a best_correct: 16
+b best_guess: 49
+c best_answer: 33
+p = a/b = 0.326530612245
+r = a/c = 0.484848484848
+f = 2pr / (p+r) = 0.390243902439
+a second_correct: 26
+b second_guess: 49
+c second_answer: 107
+p = a/b = 0.530612244898
+r = a/c = 0.242990654206
+f = 2pr / (p+r) = 0.333333333333
+
+For the qualitative analysis:
+There are 16 files different from RECENT:
+SELF did better: 
+$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff
+diff ../../data/sent_eval/auto-self2/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences ../../data/sent_eval/auto-recent/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
+diff ../../data/sent_eval/auto-self2/2009-02-10/Fernando_Verdasco.sentences ../../data/sent_eval/auto-recent/2009-02-10/Fernando_Verdasco.sentences
+diff ../../data/sent_eval/auto-self2/2009-02-10/The_Uninvited_(2009_film).sentences ../../data/sent_eval/auto-recent/2009-02-10/The_Uninvited_(2009_film).sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/Easter.sentences ../../data/sent_eval/auto-recent/2009-04-19/Easter.sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/F.C._Porto.sentences ../../data/sent_eval/auto-recent/2009-04-19/F.C._Porto.sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/Mad_World.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mad_World.sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/Manchester_United_F.C..sentences ../../data/sent_eval/auto-recent/2009-04-19/Manchester_United_F.C..sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/Mark_Fidrych.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mark_Fidrych.sentences
+diff ../../data/sent_eval/auto-self2/2009-04-19/Wilkins_Sound.sentences ../../data/sent_eval/auto-recent/2009-04-19/Wilkins_Sound.sentences
+diff ../../data/sent_eval/auto-self2/2009-05-12/Cassie_(singer).sentences ../../data/sent_eval/auto-recent/2009-05-12/Cassie_(singer).sentences
+diff ../../data/sent_eval/auto-self2/2009-05-12/The_Million_Dollar_Homepage.sentences ../../data/sent_eval/auto-recent/2009-05-12/The_Million_Dollar_Homepage.sentences
+diff ../../data/sent_eval/auto-self2/2009-05-12/X2_(film).sentences ../../data/sent_eval/auto-recent/2009-05-12/X2_(film).sentences
+diff ../../data/sent_eval/auto-self2/2009-10-12/2009_FIFA_U-20_World_Cup.sentences ../../data/sent_eval/auto-recent/2009-10-12/2009_FIFA_U-20_World_Cup.sentences
+diff ../../data/sent_eval/auto-self2/2009-10-12/2010_FIFA_World_Cup_qualification.sentences ../../data/sent_eval/auto-recent/2009-10-12/2010_FIFA_World_Cup_qualification.sentences
+diff ../../data/sent_eval/auto-self2/2009-10-12/Treaty_of_Lisbon.sentences ../../data/sent_eval/auto-recent/2009-10-12/Treaty_of_Lisbon.sentences
+diff ../../data/sent_eval/auto-self2/2009-10-12/Zombieland.sentences ../../data/sent_eval/auto-recent/2009-10-12/Zombieland.sentences
+
+$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff | wc -l
+      16
+
+$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done
+
+# For the first two examples, SELF did really well.
+diff ../../data/sent_eval/auto-self2/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences ../../data/sent_eval/auto-recent/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
+1c1
+< 1 The snowfall across Great Britain and Ireland in February 2009 is a prolonged period of snowfall that began on 1 February 2009.
+---
+> 133 BBC regional summary - 4 February 2009
+# I think the sentence SELF found as good as Ben's gold standard. The match was January 11.
+diff ../../data/sent_eval/auto-self2/2009-02-10/Fernando_Verdasco.sentences ../../data/sent_eval/auto-recent/2009-02-10/Fernando_Verdasco.sentences
+1c1
+< 78 Fernando started his 2009 season at the Brisbane International where he entered the tournament as the number 3 seed.
+---
+> 117 Statistics correct as of February 2, 2009.
+# Ben's gold standard.
+$ cat ../../data/sent_eval/ben/2009-02-10/Fernando_Verdasco.sentences
+-1 -
+87 He then went on to beat Jo-Wilfried Tsonga, a finalist in the 2008 Australian Open, 7-6(7-2), 3-6, 6-3, 6-2 in the quarterfinals, taking him through to his first Grand Slam semifinal.
+# For the below article, SELF found a secondary sentence. I think "the film" was a mention of the same entity, SERIF failed to find that The Uninvited and the film was same.
+diff ../../data/sent_eval/auto-self2/2009-02-10/The_Uninvited_(2009_film).sentences ../../data/sent_eval/auto-recent/2009-02-10/The_Uninvited_(2009_film).sentences
+1c1
+< 1 The Uninvited is a 2009 American remake of the 2003 South Korean horror film A Tale of Two Sisters.
+---
+> 85 The film was released to theaters on January 30, 2009.
+# For the following article, I think my script might have an error that makes the script unable to find the closest date:
+diff ../../data/sent_eval/auto-self2/2009-04-19/Easter.sentences ../../data/sent_eval/auto-recent/2009-04-19/Easter.sentences
+1c1
+< 149 In applying the ecclesiastical rules, Christian Churches use March 21 as the starting point in determining the date of Easter, from which they find the next full moon, etc.
+---
+> 165 It fell on March 23 in 2008, but will not do so again until 2160.
+# For the following article, FC Porto was the second entity. :(
+diff ../../data/sent_eval/auto-self2/2009-04-19/F.C._Porto.sentences ../../data/sent_eval/auto-recent/2009-04-19/F.C._Porto.sentences
+1c1
+< 99 Built as a replacement for Porto's old ground, Estadio das Antas, and as a venue for EURO 2004, Estádio do Dragão has an all-seated capacity of 50,948.
+---
+> 106 The following players will join FC Porto as of 1st July,2009.
+# SERIF did not find the song as entity.
+diff ../../data/sent_eval/auto-self2/2009-04-19/Mad_World.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mad_World.sentences
+1c1
+< 110 British dubstep artist The Bug, with vocalist Warrior Queen, included the song "Insane" on the album London Zoo (2008).
+---
+> 105 American Idol Season 8 contestant Adam Lambert performed the song on the show on April 7, 2009.
+# SELF did worse.
+diff ../../data/sent_eval/auto-self2/2009-04-19/Manchester_United_F.C..sentences ../../data/sent_eval/auto-recent/2009-04-19/Manchester_United_F.C..sentences
+1c1
+< 191 On 21 December 2008, United added more silverware to their trophy cabinet with a win in the 2008 FIFA Club World Cup Final, defeating the Ecuadorian side LDU Quito 1–0 in Japan, Wayne Rooney scoring the winning goal.
+---
+> 238 As of match played 15 April 2009 and according to the official statistics website.
+# SERIF failed to mark MARK as a mention of Mark Steven. But the sentence SELF found is in the secondary sentences.
+diff ../../data/sent_eval/auto-self2/2009-04-19/Mark_Fidrych.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mark_Fidrych.sentences
+1c1
+< 1 Mark Steven "The Bird" Fidrych (  (August 14, 1954 – April 13, 2009), was a Major League Baseball player for the Detroit Tigers from 1976-1980.
+---
+> 181 "Former Tigers pitcher Mark 'The Bird' Fidrych dies at 54," The Detroit News, Tuesday, April 14, 2009.
+# SERIF thought that the Wilkins Ice Shelf and the Wilkins ice shelf are different. He thought the format is an commercial organization. Probably because of the capitalization.
+diff ../../data/sent_eval/auto-self2/2009-04-19/Wilkins_Sound.sentences ../../data/sent_eval/auto-recent/2009-04-19/Wilkins_Sound.sentences
+1c1
+< 19 On 25 March 2008 a   chunk of the Wilkins ice shelf disintegrated, putting an even larger portion of the glacial ice shelf at risk.
+---
+> 8 On 5 April 2009 the thin bridge of ice to the Wilkins Ice Shelf off the coast of Antarctica splintered, and scientists expect it could cause the collapse of the Shelf.
+# The best sentence did not have the singer's name.
+diff ../../data/sent_eval/auto-self2/2009-05-12/Cassie_(singer).sentences ../../data/sent_eval/auto-recent/2009-05-12/Cassie_(singer).sentences
+1c1
+< 1 Cassandra Ventura (born August 26, 1986), known by her stage name Cassie, is an American model, hip hop singer-songwriter, dancer, actress and occasional music video actress.
+---
+> 8 The album's official first single, "Must Be Love", featuring Diddy, was sent to radio in April 2009 with a digital release on April 14th, 2009.
+# Ben found nothing for this.
+diff ../../data/sent_eval/auto-self2/2009-05-12/The_Million_Dollar_Homepage.sentences ../../data/sent_eval/auto-recent/2009-05-12/The_Million_Dollar_Homepage.sentences
+1c1
+< 63 On 7 January 2006, three days before the auction of the final 1,000 pixels was due to end, Tew received an e-mail from an organisation called The Dark Group, and was told The Million Dollar Homepage would become the victim of a distributed denial-of-service attack (DDoS) if a ransom of $5,000 was not paid by 10 January.
+---
+> 21 Tew promised customers that the site would remain online for five years – that is, until at least 26 August 2010.
+# Ben found nothing. But I think RECENT did well. SERIF thought X2 (also known...) and X2 are different.
+diff ../../data/sent_eval/auto-self2/2009-05-12/X2_(film).sentences ../../data/sent_eval/auto-recent/2009-05-12/X2_(film).sentences
+1c1
+< 1 X2 (also known as X2: X-Men United, X-Men 2: X-Men United and X-Men 2) is a 2003 superhero film based on the fictional characters the X-Men.
+---
+> 207 In May 2007, Rotten Tomatoes listed X2 as the fifth greatest comic book film of all time.
+# SELF did well!
+diff ../../data/sent_eval/auto-self2/2009-10-12/2009_FIFA_U-20_World_Cup.sentences ../../data/sent_eval/auto-recent/2009-10-12/2009_FIFA_U-20_World_Cup.sentences
+1c1
+< 1 The 2009 FIFA U-20 World Cup, the 17th tournament to be contested, is being hosted by Egypt from September 24 to October 16, in the cities of Cairo, Alexandria, Port Said, Suez and Ismaïlia.
+---
+> 59 The draw for the group stages was held  on April 5, 2009 at Luxor Temple .
+# Ben and SELF agreed. But is it not that RECENT was right?
+diff ../../data/sent_eval/auto-self2/2009-10-12/2010_FIFA_World_Cup_qualification.sentences ../../data/sent_eval/auto-recent/2009-10-12/2010_FIFA_World_Cup_qualification.sentences
+1c1
+< 1 A total of 197 teams entered the qualification process for the 2010 FIFA World Cup, competing for a total of 32 spots in the final tournament.
+---
+> 75 The group stage will be completed on 14 October 2009.
+# SELF failed. It was Lisbon that was the first entity. RECENT disagreed with Ben, but aren't the sentences RECENT found still good?
+diff ../../data/sent_eval/auto-self2/2009-10-12/Treaty_of_Lisbon.sentences ../../data/sent_eval/auto-recent/2009-10-12/Treaty_of_Lisbon.sentences
+1c1
+< 233 A draft decision fixing the apportionment of MEPs was annexed to the treaty itself and had Lisbon been in force at the time of 2009 European Parliament elections the apportionment would have been:
+---
+> 130 The President signed Poland's instrument of ratification of the Lisbon Treaty on 10 October 2009, after the Irish electorate had approved the treaty in the second referendum.
+# Ben and SELF agreed. But is it not that RECENT was right?
+diff ../../data/sent_eval/auto-self2/2009-10-12/Zombieland.sentences ../../data/sent_eval/auto-recent/2009-10-12/Zombieland.sentences
+1c1
+< 3 Distributed by Columbia Pictures, Zombieland  was released on October 2, 2009 in the US and Canada, with an R rating for horror violence/gore and language in the US.
+---
+> 141 As of October 11, 2009, the film has grossed $47,801,000.
+
+More comparison:
+$ cat >> a
+2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
+2009-02-10/Fernando_Verdasco.sentences
+2009-02-10/The_Uninvited_(2009_film).sentences
+2009-04-19/Easter.sentences
+2009-04-19/F.C._Porto.sentences
+2009-04-19/Mad_World.sentences
+2009-04-19/Manchester_United_F.C..sentences
+2009-04-19/Mark_Fidrych.sentences
+2009-04-19/Wilkins_Sound.sentences
+2009-05-12/Cassie_(singer).sentences
+2009-05-12/The_Million_Dollar_Homepage.sentences
+2009-05-12/X2_(film).sentences
+2009-10-12/2009_FIFA_U-20_World_Cup.sentences
+2009-10-12/2010_FIFA_World_Cup_qualification.sentences
+2009-10-12/Treaty_of_Lisbon.sentences
+2009-10-12/Zombieland.sentences
+
+$ cat a | perl -lane 'print $_; s/\(/\\\(/; s/\)/\\\)/; system("echo RECENT; cat ../../data/sent_eval/auto-recent/$_; echo SELF; cat ../../data/sent_eval/auto-self/$_; echo BEN; cat ../../data/sent_eval/ben/$_; echo");' | less
+
+SELF was better than RECENT: 1, 13, 14, 16
+RECENT was better than SELF: 3, 6, 9, 10
+If Serif had done well, SELF would have been better at: 3, 6, 9.
+
 Future Work
 ===========
 * Find Ben's other gold standard files
-* Add features and combinatinos of features:
+* Add features and combinations of features:
   - Edit history
   - topic of the article
   - link structure

@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Rebirth_(Lil_Wayne_album).sentences.sgm">
+  <document DOCID="Rebirth_(Lil_Wayne_album).sentences.sgm">
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M4">
+          <extent>
+              <charseq START="90" END="114">American rapper Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="114">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M102">
+          <extent>
+              <charseq START="136" END="138">his</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="138">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M304">
+          <extent>
+              <charseq START="270" END="272">his</charseq>
+          </extent>
+          <head>
+              <charseq START="270" END="272">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M401">
+          <extent>
+              <charseq START="335" END="343">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="343">Lil Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M406">
+          <extent>
+              <charseq START="407" END="409">his</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="409">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M500">
+          <extent>
+              <charseq START="429" END="430">He</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="430">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M805">
+          <extent>
+              <charseq START="750" END="758">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="754" END="758">Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M806">
+          <extent>
+              <charseq START="750" END="752">Lil</charseq>
+          </extent>
+          <head>
+              <charseq START="750" END="752">Lil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M1000">
+          <extent>
+              <charseq START="843" END="851">Lil Wayne</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="851">Wayne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M1001">
+          <extent>
+              <charseq START="843" END="845">Lil</charseq>
+          </extent>
+          <head>
+              <charseq START="843" END="845">Lil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lil Wayne">
+              <charseq START="106" END="114">Lil Wayne</charseq>
+          </name>
+          <name NAME="Lil Wayne">
+              <charseq START="335" END="343">Lil Wayne</charseq>
+          </name>
+          <name NAME="Wayne">
+              <charseq START="754" END="758">Wayne</charseq>
+          </name>
+          <name NAME="Wayne">
+              <charseq START="847" END="851">Wayne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E1-M5">
+          <extent>
+              <charseq START="90" END="97">American</charseq>
+          </extent>
+          <head>
+              <charseq START="90" END="97">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="90" END="97">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M303">
+          <extent>
+              <charseq START="270" END="309">his triple-platinum album Tha Carter III</charseq>
+          </extent>
+          <head>
+              <charseq START="296" END="309">Tha Carter III</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M305">
+          <extent>
+              <charseq START="290" END="294">album</charseq>
+          </extent>
+          <head>
+              <charseq START="290" END="294">album</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M606">
+          <extent>
+              <charseq START="540" END="553">Tha Carter III</charseq>
+          </extent>
+          <head>
+              <charseq START="540" END="553">Tha Carter III</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M1211">
+          <extent>
+              <charseq START="1237" END="1250">Tha Carter III</charseq>
+          </extent>
+          <head>
+              <charseq START="1237" END="1250">Tha Carter III</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M1212">
+          <extent>
+              <charseq START="1253" END="1264">&quot;Mr. Carter&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1258" END="1263">Carter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E2-M1214">
+          <extent>
+              <charseq START="1254" END="1256">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="1254" END="1256">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tha Carter III">
+              <charseq START="296" END="309">Tha Carter III</charseq>
+          </name>
+          <name NAME="Tha Carter III">
+              <charseq START="540" END="553">Tha Carter III</charseq>
+          </name>
+          <name NAME="Tha Carter III">
+              <charseq START="1237" END="1250">Tha Carter III</charseq>
+          </name>
+          <name NAME="Carter">
+              <charseq START="1258" END="1263">Carter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E3-M402">
+          <extent>
+              <charseq START="350" END="352">MTV</charseq>
+          </extent>
+          <head>
+              <charseq START="350" END="352">MTV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV">
+              <charseq START="350" END="352">MTV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E4-M705">
+          <extent>
+              <charseq START="654" END="661">Infamous</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="661">Infamous</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Infamous">
+              <charseq START="654" END="661">Infamous</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E5-M706">
+          <extent>
+              <charseq START="667" END="686">Andrew &quot;Drew&quot; Correa</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="686">Andrew &quot;Drew&quot; Correa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E5-M1208">
+          <extent>
+              <charseq START="1170" END="1180">Drew Correa</charseq>
+          </extent>
+          <head>
+              <charseq START="1170" END="1180">Drew Correa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E5-M1203">
+          <extent>
+              <charseq START="1143" END="1264">the duo of DJ Infamous and Drew Correa, notable for producing the Grammy nominated track from Tha Carter III, &quot;Mr. Carter&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1147" END="1149">duo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew &quot;Drew&quot; Correa">
+              <charseq START="667" END="686">Andrew &quot;Drew&quot; Correa</charseq>
+          </name>
+          <name NAME="Drew Correa">
+              <charseq START="1170" END="1180">Drew Correa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E6-M702">
+          <extent>
+              <charseq START="613" END="623">Prom Queen&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="618" END="622">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E6-M900">
+          <extent>
+              <charseq START="777" END="787">Prom Queen&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="782" END="786">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E6-M1100">
+          <extent>
+              <charseq START="1026" END="1037">&quot;Prom Queen&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1027" END="1036">Prom Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E6-M1202">
+          <extent>
+              <charseq START="1095" END="1124">The first single, &quot;Prom Queen&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1119" END="1123">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Prom Queen">
+              <charseq START="1027" END="1036">Prom Queen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E7-M808">
+          <extent>
+              <charseq START="762" END="768">MySpace</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="768">MySpace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MySpace">
+              <charseq START="762" END="768">MySpace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E8-M903">
+          <extent>
+              <charseq START="818" END="840">all online music stores</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="840">stores</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E9-M1007" ROLE="LOC">
+          <extent>
+              <charseq START="917" END="1023">San Diego, which was streamed live on AT&amp;T’s FREEdom of Choice and Mobile Music Facebook pages that evening</charseq>
+          </extent>
+          <head>
+              <charseq START="917" END="925">San Diego</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E9-M1009">
+          <extent>
+              <charseq START="928" END="932">which</charseq>
+          </extent>
+          <head>
+              <charseq START="928" END="932">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Diego">
+              <charseq START="917" END="925">San Diego</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E10-M1011">
+          <extent>
+              <charseq START="955" END="958">AT&amp;T</charseq>
+          </extent>
+          <head>
+              <charseq START="955" END="958">AT&amp;T</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AT&amp;T">
+              <charseq START="955" END="958">AT&amp;T</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E11-M1012">
+          <extent>
+              <charseq START="962" END="1004">FREEdom of Choice and Mobile Music Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="962" END="1004">FREEdom of Choice and Mobile Music Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FREEdom of Choice and Mobile Music Facebook">
+              <charseq START="962" END="1004">FREEdom of Choice and Mobile Music Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E12-M1207">
+          <extent>
+              <charseq START="1154" END="1164">DJ Infamous</charseq>
+          </extent>
+          <head>
+              <charseq START="1154" END="1164">DJ Infamous</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DJ Infamous">
+              <charseq START="1154" END="1164">DJ Infamous</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Rebirth_(Lil_Wayne_album).sentences.sgm-E13-M1302">
+          <extent>
+              <charseq START="1308" END="1317">Cool &amp; Dre</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1317">Cool &amp; Dre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cool &amp; Dre">
+              <charseq START="1308" END="1317">Cool &amp; Dre</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T0" VAL="2009-04-07">
+        <timex2_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="187" END="199">April 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T1" VAL="XXXX-01-23">
+        <timex2_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="323" END="332">January 23</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T2" VAL="2009-04-07">
+        <timex2_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="474" END="486">April 7, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T3" VAL="XXXX-01-27">
+        <timex2_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="725" END="734">January 27</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T4" VAL="TEV">
+        <timex2_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1012" END="1023">that evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Rebirth_(Lil_Wayne_album).sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Rebirth_(Lil_Wayne_album).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Rebirth_(Lil_Wayne_album).sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="90" END="114">American rapper Lil Wayne</charseq>
+          </extent>
+          <relation_mention_argument REFID="Rebirth_(Lil_Wayne_album).sentences.sgm-E0-M4" ROLE="Arg-1">
+            <extent>
+              <charseq START="90" END="114">American rapper Lil Wayne</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Rebirth_(Lil_Wayne_album).sentences.sgm-E1-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="90" END="97">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

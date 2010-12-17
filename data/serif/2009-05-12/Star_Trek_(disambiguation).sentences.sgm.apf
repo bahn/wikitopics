@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Star_Trek_(disambiguation).sentences.sgm">
+  <document DOCID="Star_Trek_(disambiguation).sentences.sgm">
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Star_Trek_(disambiguation).sentences.sgm-E0-M49">
+          <extent>
+              <charseq START="432" END="434">Mac</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="434">Mac</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mac">
+              <charseq START="432" END="434">Mac</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Star_Trek_(disambiguation).sentences.sgm-E1-M62">
+          <extent>
+              <charseq START="531" END="538">American</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="538">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Star_Trek_(disambiguation).sentences.sgm-E1-M69" ROLE="GPE">
+          <extent>
+              <charseq START="584" END="591">American</charseq>
+          </extent>
+          <head>
+              <charseq START="584" END="591">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="531" END="538">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="584" END="591">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Star_Trek_(disambiguation).sentences.sgm-E2-M11">
+          <extent>
+              <charseq START="121" END="135">media franchise</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="135">franchise</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Star_Trek_(disambiguation).sentences.sgm-E3-M38">
+          <extent>
+              <charseq START="356" END="403">The Original Series characters
+Star Trek project</charseq>
+          </extent>
+          <head>
+              <charseq START="376" END="385">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Star_Trek_(disambiguation).sentences.sgm-E4-M45">
+          <extent>
+              <charseq START="406" END="464">the cancelled port of the Mac OS operating system
+Star Trek</charseq>
+          </extent>
+          <head>
+              <charseq START="420" END="423">port</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Star_Trek_(disambiguation).sentences.sgm-E5-M66">
+          <extent>
+              <charseq START="562" END="595">the television series American Dad</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="595">Dad</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Star_Trek_(disambiguation).sentences.sgm-E6-M113">
+          <extent>
+              <charseq START="696" END="734">Star Trek films
+Star Trak Entertainment</charseq>
+          </extent>
+          <head>
+              <charseq START="717" END="734">Trak Entertainment</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Star_Trek_(disambiguation).sentences.sgm-E6-M117">
+          <extent>
+              <charseq START="712" END="715">Star</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="715">Star</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trak Entertainment">
+              <charseq START="717" END="734">Trak Entertainment</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Star_Trek_(disambiguation).sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Star_Trek_(disambiguation).sentences.sgm-E7-M123">
+          <extent>
+              <charseq START="766" END="787">Star Trak
+HTC Startrek</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="787">Star Trak
+HTC Startrek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Star Trak
+HTC Startrek">
+              <charseq START="766" END="787">Star Trak
+HTC Startrek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Star_Trek_(disambiguation).sentences.sgm-T0" VAL="2009">
+        <timex2_mention ID="Star_Trek_(disambiguation).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="336" END="339">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Star_Trek_(disambiguation).sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Star_Trek_(disambiguation).sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Star_Trek_(disambiguation).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Star_Trek_(disambiguation).sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="562" END="595">the television series American Dad</charseq>
+          </extent>
+          <relation_mention_argument REFID="Star_Trek_(disambiguation).sentences.sgm-E5-M66" ROLE="Arg-1">
+            <extent>
+              <charseq START="562" END="595">the television series American Dad</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Star_Trek_(disambiguation).sentences.sgm-E1-M69" ROLE="Arg-2">
+            <extent>
+              <charseq START="584" END="591">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

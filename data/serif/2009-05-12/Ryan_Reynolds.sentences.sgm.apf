@@ -1,0 +1,2261 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Ryan_Reynolds.sentences.sgm">
+  <document DOCID="Ryan_Reynolds.sentences.sgm">
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E0-M3" ROLE="GPE">
+          <extent>
+              <charseq START="36" END="43">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="36" END="43">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E0-M106">
+          <extent>
+              <charseq START="378" END="473">Canada to James—a former Royal Canadian Mounted Policeman who later became a food wholesaler—and</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="383">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E0-M409">
+          <extent>
+              <charseq START="874" END="881">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="874" END="881">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E0-M612" ROLE="GPE">
+          <extent>
+              <charseq START="1306" END="1313">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="1306" END="1313">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E0-M1704" ROLE="GPE">
+          <extent>
+              <charseq START="2873" END="2880">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2880">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian">
+              <charseq START="36" END="43">Canadian</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="378" END="383">Canada</charseq>
+          </name>
+          <name NAME="Canadian">
+              <charseq START="874" END="881">Canadian</charseq>
+          </name>
+          <name NAME="Canadian">
+              <charseq START="1306" END="1313">Canadian</charseq>
+          </name>
+          <name NAME="Canadian">
+              <charseq START="2873" END="2880">Canadian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E1-M22">
+          <extent>
+              <charseq START="181" END="185">Blade</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="185">Blade</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Blade">
+              <charseq START="181" END="185">Blade</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E2-M24">
+          <extent>
+              <charseq START="188" END="194">Trinity</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="194">Trinity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E2-M1211">
+          <extent>
+              <charseq START="2102" END="2159">Trinity, which also starred Wesley Snipes and Jessica Biel</charseq>
+          </extent>
+          <head>
+              <charseq START="2102" END="2108">Trinity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E2-M1213">
+          <extent>
+              <charseq START="2111" END="2115">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2111" END="2115">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trinity">
+              <charseq START="188" END="194">Trinity</charseq>
+          </name>
+          <name NAME="Trinity">
+              <charseq START="2102" END="2108">Trinity</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E3-M26">
+          <extent>
+              <charseq START="204" END="231">The Amityville Horror (2005)</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="224">The Amityville Horror</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Amityville Horror">
+              <charseq START="204" END="224">The Amityville Horror</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E4-M4">
+          <extent>
+              <charseq START="60" END="69">film actor</charseq>
+          </extent>
+          <head>
+              <charseq START="65" END="69">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E4-M8">
+          <extent>
+              <charseq START="81" END="83">his</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="83">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E4-M18">
+          <extent>
+              <charseq START="156" END="158">his</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="158">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E5-M12">
+          <extent>
+              <charseq START="115" END="122">Two Guys</charseq>
+          </extent>
+          <head>
+              <charseq START="119" END="122">Guys</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E5-M510">
+          <extent>
+              <charseq START="1079" END="1086">Two Guys</charseq>
+          </extent>
+          <head>
+              <charseq START="1083" END="1086">Guys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E6-M13">
+          <extent>
+              <charseq START="128" END="145">a Girl (1998–2001)</charseq>
+          </extent>
+          <head>
+              <charseq START="130" END="133">Girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E6-M511">
+          <extent>
+              <charseq START="1089" END="1094">A Girl</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1094">Girl</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M101">
+          <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="328" END="335">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M105">
+          <extent>
+              <charseq START="378" END="488">Canada to James—a former Royal Canadian Mounted Policeman who later became a food wholesaler—and Tammy Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="488">Tammy Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M112">
+          <extent>
+              <charseq START="436" END="438">who</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="438">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M203">
+          <extent>
+              <charseq START="544" END="551">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="551">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E7-M200">
+          <extent>
+              <charseq START="513" END="541">The youngest of four brothers</charseq>
+          </extent>
+          <head>
+              <charseq START="517" END="524">youngest</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M300">
+          <extent>
+              <charseq START="627" END="634">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="634">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M316">
+          <extent>
+              <charseq START="789" END="790">he</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="790">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M404">
+          <extent>
+              <charseq START="847" END="848">he</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="848">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M501">
+          <extent>
+              <charseq START="985" END="992">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="985" END="992">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E7-M500">
+          <extent>
+              <charseq START="975" END="982">an adult</charseq>
+          </extent>
+          <head>
+              <charseq START="978" END="982">adult</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M600">
+          <extent>
+              <charseq START="1162" END="1163">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1163">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M701">
+          <extent>
+              <charseq START="1345" END="1346">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1345" END="1346">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1001">
+          <extent>
+              <charseq START="1714" END="1721">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="1714" END="1721">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1103">
+          <extent>
+              <charseq START="1877" END="1884">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="1877" END="1884">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M1100">
+          <extent>
+              <charseq START="1837" END="1838">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1838">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1201">
+          <extent>
+              <charseq START="1981" END="1988">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="1981" END="1988">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M1300">
+          <extent>
+              <charseq START="2162" END="2163">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2163">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1402">
+          <extent>
+              <charseq START="2285" END="2292">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2285" END="2292">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M1406">
+          <extent>
+              <charseq START="2303" END="2305">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2303" END="2305">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1500">
+          <extent>
+              <charseq START="2573" END="2580">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2573" END="2580">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M1510">
+          <extent>
+              <charseq START="2664" END="2666">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2664" END="2666">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M1515">
+          <extent>
+              <charseq START="2719" END="2721">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2719" END="2721">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1600">
+          <extent>
+              <charseq START="2734" END="2741">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2734" END="2741">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1702">
+          <extent>
+              <charseq START="2851" END="2858">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2851" END="2858">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M1905">
+          <extent>
+              <charseq START="2995" END="3002">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2995" END="3002">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M2006">
+          <extent>
+              <charseq START="3126" END="3133">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="3126" END="3133">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M2004">
+          <extent>
+              <charseq START="3092" END="3094">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3092" END="3094">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M2201">
+          <extent>
+              <charseq START="3331" END="3338">Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="3331" END="3338">Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E7-M2216">
+          <extent>
+              <charseq START="3473" END="3516">his father who died with Parkinson&apos;s Disease</charseq>
+          </extent>
+          <head>
+              <charseq START="3477" END="3482">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M2205">
+          <extent>
+              <charseq START="3380" END="3382">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3380" END="3382">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M2212">
+          <extent>
+              <charseq START="3445" END="3446">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3445" END="3446">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M2218">
+          <extent>
+              <charseq START="3473" END="3475">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3473" END="3475">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E7-M2219">
+          <extent>
+              <charseq START="3484" END="3486">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3484" END="3486">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E7-M2360">
+          <extent>
+              <charseq START="3938" END="3950">Ryan Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="3938" END="3950">Ryan Reynolds</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reynolds">
+              <charseq START="328" END="335">Reynolds</charseq>
+          </name>
+          <name NAME="Tammy Reynolds">
+              <charseq START="475" END="488">Tammy Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="544" END="551">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="627" END="634">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="985" END="992">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="1714" END="1721">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="1877" END="1884">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="1981" END="1988">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="2285" END="2292">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="2573" END="2580">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="2734" END="2741">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="2851" END="2858">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="2995" END="3002">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="3126" END="3133">Reynolds</charseq>
+          </name>
+          <name NAME="Reynolds">
+              <charseq START="3331" END="3338">Reynolds</charseq>
+          </name>
+          <name NAME="Ryan Reynolds">
+              <charseq START="3938" END="3950">Ryan Reynolds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E8-M103" ROLE="LOC">
+          <extent>
+              <charseq START="349" END="357">Vancouver</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="357">Vancouver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E8-M206" ROLE="LOC">
+          <extent>
+              <charseq START="607" END="616">Vancouver,</charseq>
+          </extent>
+          <head>
+              <charseq START="607" END="615">Vancouver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E8-M314" ROLE="LOC">
+          <extent>
+              <charseq START="755" END="763">Vancouver</charseq>
+          </extent>
+          <head>
+              <charseq START="755" END="763">Vancouver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E8-M1008" ROLE="LOC">
+          <extent>
+              <charseq START="1791" END="1798">the City</charseq>
+          </extent>
+          <head>
+              <charseq START="1795" END="1798">City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vancouver">
+              <charseq START="349" END="357">Vancouver</charseq>
+          </name>
+          <name NAME="Vancouver">
+              <charseq START="607" END="615">Vancouver</charseq>
+          </name>
+          <name NAME="Vancouver">
+              <charseq START="755" END="763">Vancouver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E9-M104" ROLE="LOC">
+          <extent>
+              <charseq START="360" END="375">British Columbia</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="375">British Columbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E9-M2107" ROLE="LOC">
+          <extent>
+              <charseq START="3296" END="3311">British Columbia</charseq>
+          </extent>
+          <head>
+              <charseq START="3296" END="3311">British Columbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Columbia">
+              <charseq START="360" END="375">British Columbia</charseq>
+          </name>
+          <name NAME="British Columbia">
+              <charseq START="3296" END="3311">British Columbia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E10-M108">
+          <extent>
+              <charseq START="388" END="473">James—a former Royal Canadian Mounted Policeman who later became a food wholesaler—and</charseq>
+          </extent>
+          <head>
+              <charseq START="403" END="434">Royal Canadian Mounted Policeman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E10-M116">
+          <extent>
+              <charseq START="491" END="510">a retail salesperson</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="510">salesperson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Canadian Mounted Policeman">
+              <charseq START="403" END="434">Royal Canadian Mounted Policeman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E11-M110">
+          <extent>
+              <charseq START="388" END="392">James</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="392">James</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James">
+              <charseq START="388" END="392">James</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E12" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E12-M204">
+          <extent>
+              <charseq START="568" END="624">Kitsilano Secondary School, located in Vancouver, in 1994</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="593">Kitsilano Secondary School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kitsilano Secondary School">
+              <charseq START="568" END="593">Kitsilano Secondary School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E13-M202">
+          <extent>
+              <charseq START="529" END="541">four brothers</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="541">brothers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E14-M315">
+          <extent>
+              <charseq START="772" END="782">Yellow Snow</charseq>
+          </extent>
+          <head>
+              <charseq START="772" END="782">Yellow Snow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E14-M311">
+          <extent>
+              <charseq START="729" END="782">an improv comedy group in Vancouver called Yellow Snow</charseq>
+          </extent>
+          <head>
+              <charseq START="746" END="750">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yellow Snow">
+              <charseq START="772" END="782">Yellow Snow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E15-M306">
+          <extent>
+              <charseq START="672" END="682">yacht clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="682">clubs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E16" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E16-M307">
+          <extent>
+              <charseq START="672" END="676">yacht</charseq>
+          </extent>
+          <head>
+              <charseq START="672" END="676">yacht</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E17" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E17-M308">
+          <extent>
+              <charseq START="685" END="694">nightclubs</charseq>
+          </extent>
+          <head>
+              <charseq START="685" END="694">nightclubs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E18-M309">
+          <extent>
+              <charseq START="701" END="714">grocery stores</charseq>
+          </extent>
+          <head>
+              <charseq START="709" END="714">stores</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E19-M318">
+          <extent>
+              <charseq START="796" END="802">a child</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="802">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E20-M406">
+          <extent>
+              <charseq START="861" END="865">Billy</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="865">Billy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Billy">
+              <charseq START="861" END="865">Billy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E21-M412" ROLE="LOC">
+          <extent>
+              <charseq START="927" END="943">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="931" END="943">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E21-M507" ROLE="GPE">
+          <extent>
+              <charseq START="1052" END="1059">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1052" END="1059">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="931" END="943">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1052" END="1059">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E22-M414">
+          <extent>
+              <charseq START="948" END="958">Nickelodeon</charseq>
+          </extent>
+          <head>
+              <charseq START="948" END="958">Nickelodeon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nickelodeon">
+              <charseq START="948" END="958">Nickelodeon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E23-M411">
+          <extent>
+              <charseq START="902" END="909">Hillside</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="909">Hillside</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E24-M504">
+          <extent>
+              <charseq START="1009" END="1024">National Lampoon</charseq>
+          </extent>
+          <head>
+              <charseq START="1009" END="1024">National Lampoon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Lampoon">
+              <charseq START="1009" END="1024">National Lampoon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E25-M505">
+          <extent>
+              <charseq START="1032" END="1041">Van Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1041">Van Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E25-M514">
+          <extent>
+              <charseq START="1131" END="1137">student</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1137">student</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Van Wilder">
+              <charseq START="1032" END="1041">Van Wilder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E26-M513">
+          <extent>
+              <charseq START="1102" END="1112">Pizza Place</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1112">Pizza Place</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pizza Place">
+              <charseq START="1102" END="1112">Pizza Place</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E27-M515">
+          <extent>
+              <charseq START="1139" END="1159">Michael &quot;Berg&quot; Bergen</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1159">Michael &quot;Berg&quot; Bergen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael &quot;Berg&quot; Bergen">
+              <charseq START="1139" END="1159">Michael &quot;Berg&quot; Bergen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E28-M602">
+          <extent>
+              <charseq START="1181" END="1197">Harold &amp; Kumar Go</charseq>
+          </extent>
+          <head>
+              <charseq START="1181" END="1197">Harold &amp; Kumar Go</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harold &amp; Kumar Go">
+              <charseq START="1181" END="1197">Harold &amp; Kumar Go</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E29-M603">
+          <extent>
+              <charseq START="1202" END="1213">White Castle</charseq>
+          </extent>
+          <head>
+              <charseq START="1202" END="1213">White Castle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White Castle">
+              <charseq START="1202" END="1213">White Castle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E30-M609">
+          <extent>
+              <charseq START="1256" END="1270">Michael Douglas</charseq>
+          </extent>
+          <head>
+              <charseq START="1256" END="1270">Michael Douglas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Douglas">
+              <charseq START="1256" END="1270">Michael Douglas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E31-M610">
+          <extent>
+              <charseq START="1276" END="1288">Albert Brooks</charseq>
+          </extent>
+          <head>
+              <charseq START="1276" END="1288">Albert Brooks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Albert Brooks">
+              <charseq START="1276" END="1288">Albert Brooks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E32-M611">
+          <extent>
+              <charseq START="1302" END="1334">the Canadian production Foolproof</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1334">Foolproof</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E32-M613">
+          <extent>
+              <charseq START="1315" END="1324">production</charseq>
+          </extent>
+          <head>
+              <charseq START="1315" END="1324">production</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foolproof">
+              <charseq START="1326" END="1334">Foolproof</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E33-M604">
+          <extent>
+              <charseq START="1218" END="1224">a nurse</charseq>
+          </extent>
+          <head>
+              <charseq START="1220" END="1224">nurse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E34-M709">
+          <extent>
+              <charseq START="1414" END="1426">Chris Brander</charseq>
+          </extent>
+          <head>
+              <charseq START="1414" END="1426">Chris Brander</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E34-M703">
+          <extent>
+              <charseq START="1355" END="1374">a waiter named Monty</charseq>
+          </extent>
+          <head>
+              <charseq START="1357" END="1362">waiter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Brander">
+              <charseq START="1414" END="1426">Chris Brander</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E35-M714">
+          <extent>
+              <charseq START="1474" END="1482">Amy Smart</charseq>
+          </extent>
+          <head>
+              <charseq START="1474" END="1482">Amy Smart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amy Smart">
+              <charseq START="1474" END="1482">Amy Smart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E36-M715">
+          <extent>
+              <charseq START="1488" END="1497">Anna Faris</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1497">Anna Faris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anna Faris">
+              <charseq START="1488" END="1497">Anna Faris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E37-M707">
+          <extent>
+              <charseq START="1395" END="1412">as music executive</charseq>
+          </extent>
+          <head>
+              <charseq START="1404" END="1412">executive</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E38-M800">
+          <extent>
+              <charseq START="1500" END="1503">Ryan</charseq>
+          </extent>
+          <head>
+              <charseq START="1500" END="1503">Ryan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E38-M801">
+          <extent>
+              <charseq START="1512" END="1543">the protagonist of the 2008 film</charseq>
+          </extent>
+          <head>
+              <charseq START="1516" END="1526">protagonist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E38-M900">
+          <extent>
+              <charseq START="1564" END="1565">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1565">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E38-M909">
+          <extent>
+              <charseq START="1652" END="1653">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1652" END="1653">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan">
+              <charseq START="1500" END="1503">Ryan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E39-M912">
+          <extent>
+              <charseq START="1662" END="1667">Spence</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1667">Spence</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E39-M913">
+          <extent>
+              <charseq START="1670" END="1702">a college friend of J.D.
+and Turk</charseq>
+          </extent>
+          <head>
+              <charseq START="1680" END="1685">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spence">
+              <charseq START="1662" END="1667">Spence</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E40-M917">
+          <extent>
+              <charseq START="1690" END="1693">J.D.</charseq>
+          </extent>
+          <head>
+              <charseq START="1690" END="1693">J.D.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="J.D.">
+              <charseq START="1690" END="1693">J.D.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E41-M918">
+          <extent>
+              <charseq START="1699" END="1702">Turk</charseq>
+          </extent>
+          <head>
+              <charseq START="1699" END="1702">Turk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turk">
+              <charseq START="1699" END="1702">Turk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E42-M915">
+          <extent>
+              <charseq START="1672" END="1678">college</charseq>
+          </extent>
+          <head>
+              <charseq START="1672" END="1678">college</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E43-M1002">
+          <extent>
+              <charseq START="1740" END="1760">Brendan&apos;s friend Hams</charseq>
+          </extent>
+          <head>
+              <charseq START="1757" END="1760">Hams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E43-M1004">
+          <extent>
+              <charseq START="1750" END="1755">friend</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1755">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hams">
+              <charseq START="1757" END="1760">Hams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E44-M1003">
+          <extent>
+              <charseq START="1740" END="1746">Brendan</charseq>
+          </extent>
+          <head>
+              <charseq START="1740" END="1746">Brendan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brendan">
+              <charseq START="1740" END="1746">Brendan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E45-M1010">
+          <extent>
+              <charseq START="1808" END="1810">TBS</charseq>
+          </extent>
+          <head>
+              <charseq START="1808" END="1810">TBS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TBS">
+              <charseq START="1808" END="1810">TBS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E46-M1009">
+          <extent>
+              <charseq START="1804" END="1825">the TBS sitcom My Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="1822" END="1825">Boys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E48-M1104">
+          <extent>
+              <charseq START="1893" END="1922">the dark character George Lutz</charseq>
+          </extent>
+          <head>
+              <charseq START="1912" END="1922">George Lutz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E48-M1105">
+          <extent>
+              <charseq START="1902" END="1910">character</charseq>
+          </extent>
+          <head>
+              <charseq START="1902" END="1910">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E48-M1204">
+          <extent>
+              <charseq START="2052" END="2159">the character of Hannibal King in the film Blade: Trinity, which also starred Wesley Snipes and Jessica Biel</charseq>
+          </extent>
+          <head>
+              <charseq START="2056" END="2064">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E48-M1424">
+          <extent>
+              <charseq START="2510" END="2570">the popular DC Comics character in the upcoming movie project</charseq>
+          </extent>
+          <head>
+              <charseq START="2532" END="2540">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Lutz">
+              <charseq START="1912" END="1922">George Lutz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E49-M1206">
+          <extent>
+              <charseq START="2069" END="2159">Hannibal King in the film Blade: Trinity, which also starred Wesley Snipes and Jessica Biel</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2081">Hannibal King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hannibal King">
+              <charseq START="2069" END="2081">Hannibal King</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E50-M1215">
+          <extent>
+              <charseq START="2130" END="2142">Wesley Snipes</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2142">Wesley Snipes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wesley Snipes">
+              <charseq START="2130" END="2142">Wesley Snipes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E51-M1216">
+          <extent>
+              <charseq START="2148" END="2159">Jessica Biel</charseq>
+          </extent>
+          <head>
+              <charseq START="2148" END="2159">Jessica Biel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jessica Biel">
+              <charseq START="2148" END="2159">Jessica Biel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E52" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E52-M1304">
+          <extent>
+              <charseq START="2187" END="2189">FBI</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2189">FBI</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FBI">
+              <charseq START="2187" END="2189">FBI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E53-M1306">
+          <extent>
+              <charseq START="2207" END="2236">Ray Liotta in the crime action</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2216">Ray Liotta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ray Liotta">
+              <charseq START="2207" END="2216">Ray Liotta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E54-M1302">
+          <extent>
+              <charseq START="2184" END="2255">an FBI agent alongside Ray Liotta in the crime action movie Smokin&apos; Aces</charseq>
+          </extent>
+          <head>
+              <charseq START="2191" END="2195">agent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E55-M1413">
+          <extent>
+              <charseq START="2379" END="2405">screenwriter David S. Goyer</charseq>
+          </extent>
+          <head>
+              <charseq START="2392" END="2405">David S. Goyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E55-M1414">
+          <extent>
+              <charseq START="2379" END="2390">screenwriter</charseq>
+          </extent>
+          <head>
+              <charseq START="2379" END="2390">screenwriter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David S. Goyer">
+              <charseq START="2392" END="2405">David S. Goyer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E56-M1421">
+          <extent>
+              <charseq START="2481" END="2490">Wally West</charseq>
+          </extent>
+          <head>
+              <charseq START="2481" END="2490">Wally West</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wally West">
+              <charseq START="2481" END="2490">Wally West</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E57-M1426">
+          <extent>
+              <charseq START="2522" END="2530">DC Comics</charseq>
+          </extent>
+          <head>
+              <charseq START="2522" END="2530">DC Comics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DC Comics">
+              <charseq START="2522" END="2530">DC Comics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E58-M1501">
+          <extent>
+              <charseq START="2592" END="2599">Deadpool</charseq>
+          </extent>
+          <head>
+              <charseq START="2592" END="2599">Deadpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Deadpool">
+              <charseq START="2592" END="2599">Deadpool</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E59-M1703">
+          <extent>
+              <charseq START="2873" END="2906">Canadian singer Alanis Morrissette</charseq>
+          </extent>
+          <head>
+              <charseq START="2889" END="2906">Alanis Morrissette</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E59-M1705">
+          <extent>
+              <charseq START="2882" END="2887">singer</charseq>
+          </extent>
+          <head>
+              <charseq START="2882" END="2887">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alanis Morrissette">
+              <charseq START="2889" END="2906">Alanis Morrissette</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E60" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E60-M1904">
+          <extent>
+              <charseq START="2980" END="2989">Morissette</charseq>
+          </extent>
+          <head>
+              <charseq START="2980" END="2989">Morissette</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E60-M2005">
+          <extent>
+              <charseq START="3114" END="3123">Morissette</charseq>
+          </extent>
+          <head>
+              <charseq START="3114" END="3123">Morissette</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Morissette">
+              <charseq START="2980" END="2989">Morissette</charseq>
+          </name>
+          <name NAME="Morissette">
+              <charseq START="3114" END="3123">Morissette</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E61-M1901">
+          <extent>
+              <charseq START="2960" END="3002">representatives for Morissette and Reynolds</charseq>
+          </extent>
+          <head>
+              <charseq START="2960" END="2974">representatives</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E61-M1906">
+          <extent>
+              <charseq START="3019" END="3022">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3019" END="3022">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E61-M1909">
+          <extent>
+              <charseq START="3052" END="3056">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3052" END="3056">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E62-M2010">
+          <extent>
+              <charseq START="3156" END="3173">Scarlett Johansson</charseq>
+          </extent>
+          <head>
+              <charseq START="3156" END="3173">Scarlett Johansson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scarlett Johansson">
+              <charseq START="3156" END="3173">Scarlett Johansson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E63-M2007">
+          <extent>
+              <charseq START="3148" END="3230">actress Scarlett Johansson and the couple announced their engagement on May 5, 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="3148" END="3154">actress</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E64" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E64-M2011">
+          <extent>
+              <charseq START="3179" END="3188">the couple</charseq>
+          </extent>
+          <head>
+              <charseq START="3183" END="3188">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E64-M2014">
+          <extent>
+              <charseq START="3200" END="3204">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3200" END="3204">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Ryan_Reynolds.sentences.sgm-E64-M2100">
+          <extent>
+              <charseq START="3233" END="3236">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3233" END="3236">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E65" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E65-M2105" ROLE="LOC">
+          <extent>
+              <charseq START="3288" END="3311">Tofino, British Columbia</charseq>
+          </extent>
+          <head>
+              <charseq START="3288" END="3293">Tofino</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tofino">
+              <charseq START="3288" END="3293">Tofino</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E66-M2202">
+          <extent>
+              <charseq START="3350" END="3368">The Huffington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="3354" END="3368">Huffington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Huffington Post">
+              <charseq START="3354" END="3368">Huffington Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E67" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E67-M2206">
+          <extent>
+              <charseq START="3396" END="3458">the New York City Marathon as a way to show that he was running</charseq>
+          </extent>
+          <head>
+              <charseq START="3414" END="3421">Marathon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marathon">
+              <charseq START="3414" END="3421">Marathon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E68" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E68-M2208">
+          <extent>
+              <charseq START="3400" END="3412">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="3400" END="3412">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York City">
+              <charseq START="3400" END="3412">New York City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E69-M2339">
+          <extent>
+              <charseq START="3794" END="3841">&quot;Best Young Actor Co-starring in a Cable Series&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3812" END="3822">Co-starring</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Ryan_Reynolds.sentences.sgm-E69-M2343">
+          <extent>
+              <charseq START="3806" END="3810">Actor</charseq>
+          </extent>
+          <head>
+              <charseq START="3806" END="3810">Actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Co-starring">
+              <charseq START="3812" END="3822">Co-starring</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Ryan_Reynolds.sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Ryan_Reynolds.sentences.sgm-E70-M2361">
+          <extent>
+              <charseq START="3965" END="3972">HuffPost</charseq>
+          </extent>
+          <head>
+              <charseq START="3965" END="3972">HuffPost</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HuffPost">
+              <charseq START="3965" END="3972">HuffPost</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T0" VAL="1998T20:01">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="136" END="144">1998–2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T1" VAL="2004">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="197" END="200">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T2" VAL="2005">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="227" END="230">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T3" VAL="2006">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="248" END="251">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T4" VAL="2008">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="274" END="277">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T5" VAL="2009">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="310" END="313">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="396" END="401">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T7" VAL="1994">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="621" END="624">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T8" VAL="1990">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="837" END="840">1990</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T9" VAL="2005">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1340" END="1343">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T10" VAL="2008">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1535" END="1538">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T11" VAL="2007">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1708" END="1711">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T12" VAL="2005-03-01">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2261" END="2282">a March 2005 interview</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T13" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2679" END="2686">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T14" VAL="2007-FA">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2810" END="2825">the fall of 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T15" VAL="2002">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2845" END="2848">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T16" VAL="2004-06">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2931" END="2939">June 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T17" VAL="2007-02">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2945" END="2957">February 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T18" VAL="2008-05-05">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3220" END="3230">May 5, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T19" VAL="2008-09-27">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3249" END="3266">September 27, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T20" VAL="2008-10">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3317" END="3328">October 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T21" VAL="2003">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3596" END="3599">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T22" VAL="2005">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3696" END="3699">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T23" VAL="1993">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3777" END="3780">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Ryan_Reynolds.sentences.sgm-T24" VAL="2003">
+        <timex2_mention ID="Ryan_Reynolds.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3876" END="3879">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R0-M100">
+          <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M101" ROLE="Arg-1">
+            <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E8-M103" ROLE="Arg-2">
+            <extent>
+              <charseq START="349" END="357">Vancouver</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R1-M101">
+          <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M101" ROLE="Arg-1">
+            <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E9-M104" ROLE="Arg-2">
+            <extent>
+              <charseq START="360" END="375">British Columbia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R2-M200">
+          <extent>
+              <charseq START="544" END="551">Reynolds</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="544" END="551">Reynolds</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E12-M204" ROLE="Arg-2">
+            <extent>
+              <charseq START="568" END="624">Kitsilano Secondary School, located in Vancouver, in 1994</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R3-M201">
+          <extent>
+              <charseq START="568" END="624">Kitsilano Secondary School, located in Vancouver, in 1994</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E12-M204" ROLE="Arg-1">
+            <extent>
+              <charseq START="568" END="624">Kitsilano Secondary School, located in Vancouver, in 1994</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E8-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="607" END="616">Vancouver,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R4-M300">
+          <extent>
+              <charseq START="729" END="782">an improv comedy group in Vancouver called Yellow Snow</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E14-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="729" END="782">an improv comedy group in Vancouver called Yellow Snow</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E8-M314" ROLE="Arg-2">
+            <extent>
+              <charseq START="755" END="763">Vancouver</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R5-M600">
+          <extent>
+              <charseq START="1315" END="1324">production</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E32-M613" ROLE="Arg-1">
+            <extent>
+              <charseq START="1315" END="1324">production</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E0-M612" ROLE="Arg-2">
+            <extent>
+              <charseq START="1306" END="1313">Canadian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R6" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E42" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R6-M900">
+          <extent>
+              <charseq START="1670" END="1702">a college friend of J.D.
+and Turk</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E39-M913" ROLE="Arg-1">
+            <extent>
+              <charseq START="1670" END="1702">a college friend of J.D.
+and Turk</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E42-M915" ROLE="Arg-2">
+            <extent>
+              <charseq START="1672" END="1678">college</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R7" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E40" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R7-M901">
+          <extent>
+              <charseq START="1670" END="1702">a college friend of J.D.
+and Turk</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E39-M913" ROLE="Arg-1">
+            <extent>
+              <charseq START="1670" END="1702">a college friend of J.D.
+and Turk</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E40-M917" ROLE="Arg-2">
+            <extent>
+              <charseq START="1690" END="1693">J.D.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R8" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R8-M1000">
+          <extent>
+              <charseq START="1740" END="1746">Brendan</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E44-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1740" END="1746">Brendan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E43-M1004" ROLE="Arg-2">
+            <extent>
+              <charseq START="1750" END="1755">friend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E45" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R9-M1001">
+          <extent>
+              <charseq START="1804" END="1825">the TBS sitcom My Boys</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E46-M1009" ROLE="Arg-1">
+            <extent>
+              <charseq START="1804" END="1825">the TBS sitcom My Boys</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E45-M1010" ROLE="Arg-2">
+            <extent>
+              <charseq START="1808" END="1810">TBS</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E54" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E52" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R10-M1300">
+          <extent>
+              <charseq START="2184" END="2255">an FBI agent alongside Ray Liotta in the crime action movie Smokin&apos; Aces</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E54-M1302" ROLE="Arg-1">
+            <extent>
+              <charseq START="2184" END="2255">an FBI agent alongside Ray Liotta in the crime action movie Smokin&apos; Aces</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E52-M1304" ROLE="Arg-2">
+            <extent>
+              <charseq START="2187" END="2189">FBI</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E59" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R11-M1700">
+          <extent>
+              <charseq START="2882" END="2887">singer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E59-M1705" ROLE="Arg-1">
+            <extent>
+              <charseq START="2882" END="2887">singer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E0-M1704" ROLE="Arg-2">
+            <extent>
+              <charseq START="2873" END="2880">Canadian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E61" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E60" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R12-M1900">
+          <extent>
+              <charseq START="2960" END="3002">representatives for Morissette and Reynolds</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E61-M1901" ROLE="Arg-1">
+            <extent>
+              <charseq START="2960" END="3002">representatives for Morissette and Reynolds</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E60-M1904" ROLE="Arg-2">
+            <extent>
+              <charseq START="2980" END="2989">Morissette</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E65" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R13-M2100">
+          <extent>
+              <charseq START="3288" END="3311">Tofino, British Columbia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E65-M2105" ROLE="Arg-1">
+            <extent>
+              <charseq START="3288" END="3311">Tofino, British Columbia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E9-M2107" ROLE="Arg-2">
+            <extent>
+              <charseq START="3296" END="3311">British Columbia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Ryan_Reynolds.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Ryan_Reynolds.sentences.sgm-E66" ROLE="Arg-2"/>
+        <relation_mention ID="Ryan_Reynolds.sentences.sgm-R14-M2200">
+          <extent>
+              <charseq START="3331" END="3338">Reynolds</charseq>
+          </extent>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M2201" ROLE="Arg-1">
+            <extent>
+              <charseq START="3331" END="3338">Reynolds</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E66-M2202" ROLE="Arg-2">
+            <extent>
+              <charseq START="3350" END="3368">The Huffington Post</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Ryan_Reynolds.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Person"/>
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E8" ROLE="Place"/>
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E9" ROLE="Place"/>
+      <event_mention ID="Ryan_Reynolds.sentences.sgm-EV0-M101">
+          <extent>
+              <charseq START="341" END="344">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="341" END="344">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M101" ROLE="Person">
+          <extent>
+              <charseq START="328" END="335">Reynolds</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E8-M103" ROLE="Place">
+          <extent>
+              <charseq START="349" END="357">Vancouver</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E9-M104" ROLE="Place">
+          <extent>
+              <charseq START="360" END="375">British Columbia</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ryan_Reynolds.sentences.sgm-EV1" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E14" ROLE="Org"/>
+      <event_mention ID="Ryan_Reynolds.sentences.sgm-EV1-M300">
+          <extent>
+              <charseq START="721" END="727">created</charseq>
+          </extent>
+          <anchor>
+              <charseq START="721" END="727">created</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E14-M311" ROLE="Org">
+          <extent>
+              <charseq START="729" END="782">an improv comedy group in Vancouver called Yellow Snow</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ryan_Reynolds.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E64" ROLE="Person"/>
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E65" ROLE="Place"/>
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-T19" ROLE="Time-Within"/>
+      <event_mention ID="Ryan_Reynolds.sentences.sgm-EV2-M2101">
+          <extent>
+              <charseq START="3238" END="3244">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3238" END="3244">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E64-M2100" ROLE="Person">
+          <extent>
+              <charseq START="3233" END="3236">They</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E65-M2105" ROLE="Place">
+          <extent>
+              <charseq START="3288" END="3311">Tofino, British Columbia</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-T19-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3249" END="3266">September 27, 2008</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Ryan_Reynolds.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Ryan_Reynolds.sentences.sgm-E7" ROLE="Victim"/>
+      <event_mention ID="Ryan_Reynolds.sentences.sgm-EV3-M2201">
+          <extent>
+              <charseq START="3488" END="3491">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3488" END="3491">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Ryan_Reynolds.sentences.sgm-E7-M2219" ROLE="Victim">
+          <extent>
+              <charseq START="3484" END="3486">who</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

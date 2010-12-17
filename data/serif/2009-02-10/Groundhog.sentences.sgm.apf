@@ -1,0 +1,1253 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Groundhog.sentences.sgm">
+  <document DOCID="Groundhog.sentences.sgm">
+
+    <entity ID="Groundhog.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E0-M2">
+          <extent>
+              <charseq START="41" END="53">Marmota monax</charseq>
+          </extent>
+          <head>
+              <charseq START="41" END="53">Marmota monax</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marmota monax">
+              <charseq START="41" END="53">Marmota monax</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E1" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E1-M203">
+          <extent>
+              <charseq START="315" END="341">rocky and mountainous areas</charseq>
+          </extent>
+          <head>
+              <charseq START="337" END="341">areas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E1-M4415">
+          <extent>
+              <charseq START="5514" END="5525">a hard place</charseq>
+          </extent>
+          <head>
+              <charseq START="5521" END="5525">place</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E2-M302" ROLE="LOC">
+          <extent>
+              <charseq START="413" END="425">North America</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="425">North America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E2-M3914" ROLE="LOC">
+          <extent>
+              <charseq START="4929" END="4941">North America</charseq>
+          </extent>
+          <head>
+              <charseq START="4929" END="4941">North America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North America">
+              <charseq START="413" END="425">North America</charseq>
+          </name>
+          <name NAME="North America">
+              <charseq START="4929" END="4941">North America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E3-M305" ROLE="LOC">
+          <extent>
+              <charseq START="462" END="482">central United States</charseq>
+          </extent>
+          <head>
+              <charseq START="470" END="482">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E3-M3105" ROLE="GPE">
+          <extent>
+              <charseq START="4112" END="4121">the colony</charseq>
+          </extent>
+          <head>
+              <charseq START="4116" END="4121">colony</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E3-M3801">
+          <extent>
+              <charseq START="4666" END="4703">open country and the edges of woodland</charseq>
+          </extent>
+          <head>
+              <charseq START="4671" END="4677">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E3-M3803" ROLE="LOC">
+          <extent>
+              <charseq START="4666" END="4677">open country</charseq>
+          </extent>
+          <head>
+              <charseq START="4671" END="4677">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E3-M4207" ROLE="LOC">
+          <extent>
+              <charseq START="5206" END="5218">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="5206" END="5218">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E3-M4703" ROLE="LOC">
+          <extent>
+              <charseq START="5671" END="5683">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="5671" END="5683">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="470" END="482">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="5206" END="5218">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="5671" END="5683">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E4-M401">
+          <extent>
+              <charseq START="522" END="528">Alaska,</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="527">Alaska</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alaska">
+              <charseq START="522" END="527">Alaska</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E5-M407" ROLE="LOC">
+          <extent>
+              <charseq START="572" END="578">Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="572" END="578">Alabama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alabama">
+              <charseq START="572" END="578">Alabama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E6" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E6-M601">
+          <extent>
+              <charseq START="787" END="820">areas with fewer natural predators</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="791">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E7-M603">
+          <extent>
+              <charseq START="798" END="820">fewer natural predators</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="820">predators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E7-M1907">
+          <extent>
+              <charseq START="2503" END="2511">predators</charseq>
+          </extent>
+          <head>
+              <charseq START="2503" END="2511">predators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E7-M2608">
+          <extent>
+              <charseq START="3532" END="3540">predators</charseq>
+          </extent>
+          <head>
+              <charseq START="3532" END="3540">predators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E8-M805">
+          <extent>
+              <charseq START="1081" END="1086">a mole</charseq>
+          </extent>
+          <head>
+              <charseq START="1083" END="1086">mole</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E9-M1104">
+          <extent>
+              <charseq START="1530" END="1559">the 22-year-old Wiarton Willie</charseq>
+          </extent>
+          <head>
+              <charseq START="1546" END="1559">Wiarton Willie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wiarton Willie">
+              <charseq START="1546" END="1559">Wiarton Willie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E10-M1200">
+          <extent>
+              <charseq START="1596" END="1626">Common predators for groundhogs</charseq>
+          </extent>
+          <head>
+              <charseq START="1603" END="1611">predators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E11-M1500">
+          <extent>
+              <charseq START="1921" END="1930">Groundhogs</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1930">Groundhogs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E11-M4300">
+          <extent>
+              <charseq START="5232" END="5261">Groundhogs raised in captivity</charseq>
+          </extent>
+          <head>
+              <charseq START="5232" END="5241">Groundhogs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E11-M4304">
+          <extent>
+              <charseq START="5309" END="5313">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5309" END="5313">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Groundhogs">
+              <charseq START="1921" END="1930">Groundhogs</charseq>
+          </name>
+          <name NAME="Groundhogs">
+              <charseq START="5232" END="5241">Groundhogs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E12-M1804">
+          <extent>
+              <charseq START="2345" END="2363">several individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="2353" END="2363">individuals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E12-M1905">
+          <extent>
+              <charseq START="2468" END="2472">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2468" END="2472">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E13-M2000">
+          <extent>
+              <charseq START="2514" END="2520">Burrows</charseq>
+          </extent>
+          <head>
+              <charseq START="2514" END="2520">Burrows</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Burrows">
+              <charseq START="2514" END="2520">Burrows</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E14-M2001">
+          <extent>
+              <charseq START="2562" END="2595">tunnels buried up to   underground</charseq>
+          </extent>
+          <head>
+              <charseq START="2562" END="2568">tunnels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E15-M2003">
+          <extent>
+              <charseq START="2585" END="2595">underground</charseq>
+          </extent>
+          <head>
+              <charseq START="2585" END="2595">underground</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E16-M2201">
+          <extent>
+              <charseq START="2901" END="2923">a wooded or brushy area</charseq>
+          </extent>
+          <head>
+              <charseq START="2920" END="2923">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E17-M2300">
+          <extent>
+              <charseq START="3042" END="3051">most areas</charseq>
+          </extent>
+          <head>
+              <charseq START="3047" END="3051">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E18-M2306">
+          <extent>
+              <charseq START="3114" END="3133">more temperate areas</charseq>
+          </extent>
+          <head>
+              <charseq START="3129" END="3133">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E19-M2603">
+          <extent>
+              <charseq START="3470" END="3503">accomplished swimmers and climbers</charseq>
+          </extent>
+          <head>
+              <charseq START="3483" END="3490">swimmers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E19-M2605">
+          <extent>
+              <charseq START="3483" END="3490">swimmers</charseq>
+          </extent>
+          <head>
+              <charseq START="3483" END="3490">swimmers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E19-M2610">
+          <extent>
+              <charseq START="3552" END="3556">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3552" END="3556">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E19-M2700">
+          <extent>
+              <charseq START="3572" END="3575">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3572" END="3575">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E19-M2703">
+          <extent>
+              <charseq START="3598" END="3602">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3598" END="3602">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E19-M2802">
+          <extent>
+              <charseq START="3798" END="3802">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3798" END="3802">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E19-M2901">
+          <extent>
+              <charseq START="3866" END="3870">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3866" END="3870">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E20-M2606">
+          <extent>
+              <charseq START="3496" END="3503">climbers</charseq>
+          </extent>
+          <head>
+              <charseq START="3496" END="3503">climbers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E21-M2902">
+          <extent>
+              <charseq START="3880" END="3890">individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="3880" END="3890">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E22-M3002">
+          <extent>
+              <charseq START="3949" END="3989">one or more nearly-motionless individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="3979" END="3989">individuals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E22-M3005">
+          <extent>
+              <charseq START="4009" END="4013">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4009" END="4013">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E22-M3100">
+          <extent>
+              <charseq START="4060" END="4063">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4060" END="4063">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E22-M3203">
+          <extent>
+              <charseq START="4152" END="4156">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4152" END="4156">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E22-M3206">
+          <extent>
+              <charseq START="4207" END="4211">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4207" END="4211">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E24" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E24-M3401">
+          <extent>
+              <charseq START="4331" END="4342">the same den</charseq>
+          </extent>
+          <head>
+              <charseq START="4340" END="4342">den</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E24-M3508">
+          <extent>
+              <charseq START="4453" END="4459">the den</charseq>
+          </extent>
+          <head>
+              <charseq START="4457" END="4459">den</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E25-M3507">
+          <extent>
+              <charseq START="4437" END="4444">the male</charseq>
+          </extent>
+          <head>
+              <charseq START="4441" END="4444">male</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E26" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E26-M3701">
+          <extent>
+              <charseq START="4600" END="4613">their own dens</charseq>
+          </extent>
+          <head>
+              <charseq START="4610" END="4613">dens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E27" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E27-M3913" ROLE="GPE">
+          <extent>
+              <charseq START="4908" END="4915">European</charseq>
+          </extent>
+          <head>
+              <charseq START="4908" END="4915">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="4908" END="4915">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E28-M3902">
+          <extent>
+              <charseq START="4773" END="4823">forests provided it with much more suitable habitat</charseq>
+          </extent>
+          <head>
+              <charseq START="4773" END="4779">forests</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E29-M3907">
+          <extent>
+              <charseq START="4826" END="4849">the groundhog population</charseq>
+          </extent>
+          <head>
+              <charseq START="4840" END="4849">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E30-M3912">
+          <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+          </extent>
+          <head>
+              <charseq START="4917" END="4924">settlers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E30-M4005">
+          <extent>
+              <charseq START="5006" END="5010">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5006" END="5010">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E31-M4208" ROLE="LOC">
+          <extent>
+              <charseq START="5224" END="5229">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="5224" END="5229">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E31-M4704" ROLE="LOC">
+          <extent>
+              <charseq START="5689" END="5694">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="5689" END="5694">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canada">
+              <charseq START="5224" END="5229">Canada</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="5689" END="5694">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E32-M4204">
+          <extent>
+              <charseq START="5187" END="5229">many people in the United States and Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="5192" END="5197">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E33-M4401">
+          <extent>
+              <charseq START="5352" END="5364">Doug Schwartz</charseq>
+          </extent>
+          <head>
+              <charseq START="5352" END="5364">Doug Schwartz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E33-M4402">
+          <extent>
+              <charseq START="5367" END="5424">a zookeeper and groundhog trainer at the Staten Island Zoo</charseq>
+          </extent>
+          <head>
+              <charseq START="5369" END="5377">zookeeper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E33-M4404">
+          <extent>
+              <charseq START="5367" END="5377">a zookeeper</charseq>
+          </extent>
+          <head>
+              <charseq START="5369" END="5377">zookeeper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E33-M4405">
+          <extent>
+              <charseq START="5383" END="5399">groundhog trainer</charseq>
+          </extent>
+          <head>
+              <charseq START="5393" END="5399">trainer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E33-M5202">
+          <extent>
+              <charseq START="6324" END="6325">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6324" END="6325">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Doug Schwartz">
+              <charseq START="5352" END="5364">Doug Schwartz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E34-M4407">
+          <extent>
+              <charseq START="5404" END="5424">the Staten Island Zoo</charseq>
+          </extent>
+          <head>
+              <charseq START="5408" END="5424">Staten Island Zoo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Staten Island Zoo">
+              <charseq START="5408" END="5424">Staten Island Zoo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E36" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E36-M4503">
+          <extent>
+              <charseq START="5579" END="5581">God</charseq>
+          </extent>
+          <head>
+              <charseq START="5579" END="5581">God</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="God">
+              <charseq START="5579" END="5581">God</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E37-M4804">
+          <extent>
+              <charseq START="5869" END="5885">Punxsutawney Phil</charseq>
+          </extent>
+          <head>
+              <charseq START="5882" END="5885">Phil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Groundhog.sentences.sgm-E37-M4805">
+          <extent>
+              <charseq START="5869" END="5880">Punxsutawney</charseq>
+          </extent>
+          <head>
+              <charseq START="5869" END="5880">Punxsutawney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phil">
+              <charseq START="5882" END="5885">Phil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E38" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E38-M4815" ROLE="LOC">
+          <extent>
+              <charseq START="5945" END="5956">Punxsutawney</charseq>
+          </extent>
+          <head>
+              <charseq START="5945" END="5956">Punxsutawney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Punxsutawney">
+              <charseq START="5945" END="5956">Punxsutawney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E39" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E39-M4816" ROLE="LOC">
+          <extent>
+              <charseq START="5959" END="5970">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="5959" END="5970">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania">
+              <charseq START="5959" END="5970">Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E40-M5004">
+          <extent>
+              <charseq START="6060" END="6069">Algonquian</charseq>
+          </extent>
+          <head>
+              <charseq START="6060" END="6069">Algonquian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Algonquian">
+              <charseq START="6060" END="6069">Algonquian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E41-M5606">
+          <extent>
+              <charseq START="6703" END="6727">Canadian Wildlife Service</charseq>
+          </extent>
+          <head>
+              <charseq START="6703" END="6727">Canadian Wildlife Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian Wildlife Service">
+              <charseq START="6703" END="6727">Canadian Wildlife Service</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Groundhog.sentences.sgm-E42-M5611">
+          <extent>
+              <charseq START="6751" END="6782">Missouri Conservation Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="6751" END="6782">Missouri Conservation Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Missouri Conservation Commission">
+              <charseq START="6751" END="6782">Missouri Conservation Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Groundhog.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Groundhog.sentences.sgm-E43-M5605">
+          <extent>
+              <charseq START="6697" END="6699">Who</charseq>
+          </extent>
+          <head>
+              <charseq START="6697" END="6699">Who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Groundhog.sentences.sgm-T0">
+        <timex2_mention ID="Groundhog.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1408" END="1410">two</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T1" VAL="P3Y">
+        <timex2_mention ID="Groundhog.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1415" END="1425">three years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T2" VAL="P6Y">
+        <timex2_mention ID="Groundhog.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1447" END="1455">six years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T3" VAL="P22Y">
+        <timex2_mention ID="Groundhog.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1534" END="1544">22-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T4" VAL="XXXX-WI">
+        <timex2_mention ID="Groundhog.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="2842" END="2847">winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T5" VAL="XXXX-WI">
+        <timex2_mention ID="Groundhog.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="3020" END="3036">the winter months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T6" VAL="XXXX-10">
+        <timex2_mention ID="Groundhog.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="3080" END="3095">October to March</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T7" VAL="XXXX-04">
+        <timex2_mention ID="Groundhog.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="3100" END="3104">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T8" VAL="P3M">
+        <timex2_mention ID="Groundhog.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="3168" END="3175">3 months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T9" VAL="XXXX-WI">
+        <timex2_mention ID="Groundhog.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="3189" END="3198">the winter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T10" VAL="XXXX-SP">
+        <timex2_mention ID="Groundhog.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3357" END="3362">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T11" VAL="P2Y">
+        <timex2_mention ID="Groundhog.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="4152" END="4168">their second year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T12" VAL="XXXX-03" MOD="START">
+        <timex2_mention ID="Groundhog.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4253" END="4271">early March to mid-</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T13" VAL="XXXX-04" MOD="END">
+        <timex2_mention ID="Groundhog.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="4276" END="4285">late April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T14" VAL="P32D">
+        <timex2_mention ID="Groundhog.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="4359" END="4384">28-32 day gestation period</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T15" VAL="XXXX-04">
+        <timex2_mention ID="Groundhog.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="4423" END="4427">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T16" VAL="XXXX-05">
+        <timex2_mention ID="Groundhog.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="4432" END="4434">May</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T17">
+        <timex2_mention ID="Groundhog.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="4618" END="4621">five</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T18" VAL="P6W">
+        <timex2_mention ID="Groundhog.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="4626" END="4641">six weeks of age</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Groundhog.sentences.sgm-T19" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Groundhog.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="4870" END="4872">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Groundhog.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E24" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R0-M3500">
+          <extent>
+              <charseq START="4437" END="4444">the male</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E25-M3507" ROLE="Arg-1">
+            <extent>
+              <charseq START="4437" END="4444">the male</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E24-M3508" ROLE="Arg-2">
+            <extent>
+              <charseq START="4453" END="4459">the den</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R1-M3900">
+          <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E30-M3912" ROLE="Arg-1">
+            <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E27-M3913" ROLE="Arg-2">
+            <extent>
+              <charseq START="4908" END="4915">European</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R2-M3901">
+          <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E30-M3912" ROLE="Arg-1">
+            <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E2-M3914" ROLE="Arg-2">
+            <extent>
+              <charseq START="4929" END="4941">North America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R3-M4200">
+          <extent>
+              <charseq START="5187" END="5229">many people in the United States and Canada</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E32-M4204" ROLE="Arg-1">
+            <extent>
+              <charseq START="5187" END="5229">many people in the United States and Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E3-M4207" ROLE="Arg-2">
+            <extent>
+              <charseq START="5206" END="5218">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E31" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R4-M4201">
+          <extent>
+              <charseq START="5187" END="5229">many people in the United States and Canada</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E32-M4204" ROLE="Arg-1">
+            <extent>
+              <charseq START="5187" END="5229">many people in the United States and Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E31-M4208" ROLE="Arg-2">
+            <extent>
+              <charseq START="5224" END="5229">Canada</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R5-M4400">
+          <extent>
+              <charseq START="5367" END="5377">a zookeeper</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E33-M4404" ROLE="Arg-1">
+            <extent>
+              <charseq START="5367" END="5377">a zookeeper</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E34-M4407" ROLE="Arg-2">
+            <extent>
+              <charseq START="5404" END="5424">the Staten Island Zoo</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Groundhog.sentences.sgm-R5-M4401">
+          <extent>
+              <charseq START="5383" END="5399">groundhog trainer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E33-M4405" ROLE="Arg-1">
+            <extent>
+              <charseq START="5383" END="5399">groundhog trainer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E34-M4407" ROLE="Arg-2">
+            <extent>
+              <charseq START="5404" END="5424">the Staten Island Zoo</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Groundhog.sentences.sgm-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Groundhog.sentences.sgm-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="Groundhog.sentences.sgm-E39" ROLE="Arg-2"/>
+        <relation_mention ID="Groundhog.sentences.sgm-R6-M4800">
+          <extent>
+              <charseq START="5945" END="5956">Punxsutawney</charseq>
+          </extent>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E38-M4815" ROLE="Arg-1">
+            <extent>
+              <charseq START="5945" END="5956">Punxsutawney</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Groundhog.sentences.sgm-E39-M4816" ROLE="Arg-2">
+            <extent>
+              <charseq START="5959" END="5970">Pennsylvania</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Groundhog.sentences.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Groundhog.sentences.sgm-EV0-M2701">
+          <extent>
+              <charseq START="3646" END="3652">invaded</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3646" END="3652">invaded</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Groundhog.sentences.sgm-T16" ROLE="Time-Within"/>
+      <event_mention ID="Groundhog.sentences.sgm-EV1-M3501">
+          <extent>
+              <charseq START="4390" END="4394">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4390" END="4394">birth</charseq>
+          </anchor>
+          <event_mention_argument REFID="Groundhog.sentences.sgm-T16-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4432" END="4434">May</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Groundhog.sentences.sgm-E25" ROLE="Person"/>
+      <event_argument REFID="Groundhog.sentences.sgm-E24" ROLE="Entity"/>
+      <event_argument REFID="Groundhog.sentences.sgm-T16" ROLE="Time-Within"/>
+      <event_mention ID="Groundhog.sentences.sgm-EV2-M3502">
+          <extent>
+              <charseq START="4446" END="4451">leaves</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4446" END="4451">leaves</charseq>
+          </anchor>
+        <event_mention_argument REFID="Groundhog.sentences.sgm-E25-M3507" ROLE="Person">
+          <extent>
+              <charseq START="4437" END="4444">the male</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Groundhog.sentences.sgm-E24-M3508" ROLE="Entity">
+          <extent>
+              <charseq START="4453" END="4459">the den</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Groundhog.sentences.sgm-T16-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4432" END="4434">May</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Groundhog.sentences.sgm-E2" ROLE="Destination"/>
+      <event_argument REFID="Groundhog.sentences.sgm-E30" ROLE="Artifact"/>
+      <event_mention ID="Groundhog.sentences.sgm-EV3-M3901">
+          <extent>
+              <charseq START="4897" END="4903">arrival</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4897" END="4903">arrival</charseq>
+          </anchor>
+        <event_mention_argument REFID="Groundhog.sentences.sgm-E2-M3914" ROLE="Destination">
+          <extent>
+              <charseq START="4929" END="4941">North America</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Groundhog.sentences.sgm-E30-M3912" ROLE="Artifact">
+          <extent>
+              <charseq START="4908" END="4924">European settlers</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Groundhog.sentences.sgm-E1" ROLE="Origin"/>
+      <event_mention ID="Groundhog.sentences.sgm-EV4-M4400">
+          <extent>
+              <charseq START="5500" END="5507">starting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5500" END="5507">starting</charseq>
+          </anchor>
+        <event_mention_argument REFID="Groundhog.sentences.sgm-E1-M4415" ROLE="Origin">
+          <extent>
+              <charseq START="5514" END="5525">a hard place</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Groundhog.sentences.sgm-EV5-M4401">
+          <extent>
+              <charseq START="5478" END="5487">aggression</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5478" END="5487">aggression</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Groundhog.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Groundhog.sentences.sgm-EV6-M4501">
+          <extent>
+              <charseq START="5558" END="5561">kill</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5558" END="5561">kill</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

@@ -1,0 +1,274 @@
+<DOC>
+<DOCID>The_Pirate_Bay.sentences.sgm</DOCID>
+<TEXT>
+The Pirate Bay is a Swedish website that indexes and tracks BitTorrent (.torrent) files.
+It bills itself as "the world's largest BitTorrent tracker" and is ranked as the 104th most popular website by Alexa Internet.
+The website is primarily funded with advertisements shown next to torrent listings.
+Initially established in November 2003 by the Swedish anti-copyright organisation Piratbyrån (The Piracy Bureau) the website is run as a separate organisation since October 2004.
+The website is run by Gottfrid Svartholm (anakata) and Fredrik Neij (TiAMO), who have both been charged with "assisting in making copyrighted content available" due to their involvement in The Pirate Bay.
+On 31 May 2006, the website's servers in Stockholm were raided by Swedish police, causing it to go offline for three days.
+According to the Los Angeles Times, The Pirate Bay is "one of the world's largest facilitators of illegal downloading", and "the most visible member of a burgeoning international anti-copyright or pro-piracy-movement".
+On 15 November 2008, The Pirate Bay announced that it had reached over 25 million unique peers.
+The Pirate Bay has about 3,600,000 registered users, although registration is not necessary to download torrents.
+The Pirate Bay has been involved in a number of lawsuits, both as the plaintiff and as the defendant.
+On 17 April 2009, Peter Sunde, Fredrik Neij, Gottfrid Svartholm and Carl Lundström were found guilty of assistance to copyright infringement and sentenced to one year in prison and payment of a fine of 30 million SEK (app.
+3,620,000 USD; 2,385,000 GBP; or 2,684,000 EUR), after a trial of nine days.
+The defendants have appealed against the verdict and the judge was accused of bias.
+Despite the trial the website remained unaffected until 24 August 2009.
+Website setup
+The Pirate Bay is a website which allows users to search for and download BitTorrent files (torrents), small files that contain metadata necessary to download the data files from other users.
+The torrents are organized into categories: "Audio", "Video", "Applications", "Games", "Other" and "Porn".
+The "Porn" category is only visible for registered and logged in users and if they select the "show pornographic torrents" option in their settings page.
+Registration requires an email address and is free; registered users may upload their own torrents and comment on torrents.
+Downloading data files from other users is facilitated by the BitTorrent trackers that also run on The Pirate Bay servers.
+The website features a browse function that enables users to see what is available in broad categories like Audio, Video, and Games, as well as sub-categories like Audio books, High-res Movies, and Comics.
+The contents of a category can be sorted by file name, number of seeds or leechers, date posted, etc.
+According to Piratbyrån, The Pirate Bay is a long-running project of performance art.
+Normally the front page of The Pirate Bay features a drawing of a pirate ship with the logo of the 80s anti-copyright infringement campaign, Home Taping Is Killing Music, on its sails.
+Technical details
+Initially, The Pirate Bay's four Linux servers ran a custom web server called Hypercube.
+An old version is open source.
+On 1 June 2005, The Pirate Bay updated its website in an effort to reduce bandwidth usage, which was reported to be at 2,000 HTTP requests per second on each of the four web servers, as well as to create a more user friendly interface for the front-end of the website.
+The website now runs Lighttpd and PHP on its dynamic front ends, MySQL at the database back end, Sphinx on the two search systems, memcached for caching SQL queries and PHP-sessions, and Varnish in front of Lighttpd for caching static content.
+The Pirate Bay consists of 31 dedicated servers including nine dynamic web fronts, a database, two search engines, and eight BitTorrent trackers.
+On 7 December 2007, The Pirate Bay finished the move from Hypercube to Opentracker as its BitTorrent tracking software, also enabling the use of the UDP tracker protocol for which Hypercube lacked support.
+The Pirate Bay also announced that their servers would support SSL encryption, in response to Sweden's new wiretapping law.
+Opentracker is free software.
+On 19 January 2009 The Pirate Bay launched IPv6 support for their tracker system, using an IPv6 only version of Opentracker.
+Funding
+Petter Nilsson, a candidate on the Swedish political reality show Toppkandidaterna (The Top Candidates), donated 35,000 SEK (US$3,800) to The Pirate Bay, which they used to buy new servers.
+As of June 2006, the website is financed through advertisements on their result pages.
+According to speculations by Svenska Dagbladet, the advertisements generate about 600,000 SEK (US$65,000) per month.
+In an investigation in 2006, the police concluded that The Pirate Bay brings in 1.2 million SEK (US$150,000) per year from advertisements.
+The prosecution estimated in the 2009 trial from emails and screenshots that the advertisements pay over 10 million SEK (US$1.2M) a year, but in the indictment used the estimate from the police investigation.
+The lawyers of the site's administrators counted the 2006 revenue closer to 725,000 SEK (US$100,000).
+The verdict of the trial however quoted the estimate from the preliminary investigation.
+In April 2007, a rumor was confirmed on the Swedish talk show Bert that The Pirate Bay had received financial support from right-wing entrepreneur Carl Lundström.
+This caused some furor since Lundström, an heir to the Wasabröd fortune, is known for financing several far-right political parties and movements like Sverigedemokraterna and Bevara Sverige Svenskt (Keep Sweden Swedish).
+The size of Lundström's contributions is unknown, as are his motives.
+During the talk show, Piratbyrån spokesman Tobias Andersson acknowledged that "without Lundström's support, Pirate Bay would not have been able to start" and claimed that most of the money went towards acquiring servers and bandwidth.
+The International Federation of the Phonographic Industry (IFPI) claims that the website is extremely profitable, and that The Pirate Bay is more engaged in making profit than supporting people's rights.
+The website has insisted that these allegations are not true, stating, "It's not free to operate a Web Site on this scale," and, "If we were making lots of money I [Svartholm] wouldn't be working late at the office tonight, I'd be sitting on a beach somewhere, working on my tan".
+In response to claims of annual revenue exceeding US$3 million made by the IFPI, the site's spokesman Peter Sunde argues that the website's high bandwidth, power, and hardware costs eliminate the potential for profit.
+The Pirate Bay, he says, may ultimately be operating at a loss.
+In the 2009 trial, the defense estimated the site's yearly expenses to be 800,000 SEK (US$110,000).
+It is possible to make donations to the Pirate Bay and the site also ran a fund intended to buy Sealand, a platform with debated micro-nation status.
+Incidents
+Raid
+On 31 May 2006, a raid against The Pirate Bay and people involved with the website took place as ordered by judge Tomas Norström, later the presiding judge of the 2009 trial, prompted by allegations of copyright violations.
+Police officers shut down the website and confiscated its servers, as well as all other servers hosted by The Pirate Bay's Internet service provider, PRQ.
+The company is owned by two operators of The Pirate Bay.
+Three people - Gottfrid Svartholm, Mikael Viborg, and Fredrik Neij - were held by the police for questioning, but were released later that evening.
+All servers in the room were seized, including those running the website of Piratbyrån, an independent organisation fighting for file sharing rights, as well as servers unrelated to The Pirate Bay or other file sharing activities, including a Russian opposition news agency.
+Equipment such as hardware routers, switches, blank CDs, and fax machines were also seized.
+The Motion Picture Association of America (MPAA) wrote in a press release: "Since filing a criminal complaint in Sweden in November 2004, the film industry has worked vigorously with Swedish and U.S. government officials in Sweden to shut this illegal website down".
+MPAA CEO Dan Glickman also stated, "Intellectual property theft is a problem for film industries all over the world and we are glad that the local government in Sweden has helped stop The Pirate Bay from continuing to enable rampant copyright theft on the Internet".
+The MPAA press release set forth its justification for the raid and claimed that there were three arrests; however, the individuals were not actually arrested, only held for questioning.
+The release also reprinted John G. Malcolm's allegation that The Pirate Bay was making money from the distribution of copyrighted material, a criticism denied by the Pirate Bay.
+After the raid, The Pirate Bay displayed a message that confirmed that the Swedish police had executed search warrants for breach of copyright law or assisting such a breach.
+The closure message initially caused some confusion because on 1 April 2005, April Fool's Day, The Pirate Bay had posted a similar message as a prank, stating that they were unavailable due to a raid by the Swedish Anti-Piracy Bureau and IFPI.
+Piratbyrån set up a temporary news blog to inform the public about the incident.
+On 2 June 2006, The Pirate Bay was available once again, with their logo depicting a pirate ship firing cannon balls at the Hollywood sign.
+The Pirate Bay has servers in both Belgium and Russia which may be used in the future in case of another raid.
+Following the raid, the number of The Pirate Bay registered users grew from one million to 2.7 million.
+The number of peers grew almost five times, from 2.5 million to 12 million.
+The Pirate Bay now claims more than twenty-five million active users.
+Sweden's largest technology museum, the Swedish National Museum of Science and Technology, acquired one of the confiscated servers in 2009 and placed it in an exhibit for having great symbolic value as a "big problem or a big opportunity".
+Purchases
+In January 2007, when the micronation of Sealand was put up for "sale", the ACFI and The Pirate Bay tried to buy it.
+The Sealand government however did not want to be involved with The Pirate Bay, as it in their opinion represented "theft of proprietary rights".
+A new plan was formed to buy an island instead, but this too was never implemented, despite the website having raised $20,000 in donations for this cause.
+The BitTorrent news blog, TorrentFreak, reported on 12 October 2007 that the Internet domain ifpi.com, which previously belonged to the International Federation of the Phonographic Industry, an anti-piracy organisation, had been acquired by The Pirate Bay.
+When asked about how they got hold of the domain, Sunde told TorrentFreak, "It's not a hack, someone just gave us the domain name.
+We have no idea how they got it, but it's ours and we're keeping it".
+The website was renamed "The International Federation of Pirates Interests".
+However, the IFPI filed a complaint with the World Intellectual Property Organisation shortly thereafter, which subsequently ordered The Pirate Bay to return the domain name to the IFPI.
+Autopsy photos
+In September 2008, the Swedish media reported that the public preliminary investigation protocols concerning a child murder case known as the Arboga case had been made available through a torrent on The Pirate Bay.
+In Sweden, preliminary investigations become publicly available the moment a lawsuit is filed and can be ordered from the court by any individual.
+The document included pictures from the autopsy of the two murdered children, which caused their father Nicklas Jangestig to urge the website to have the pictures removed.
+The Pirate Bay refused to remove the torrent.
+The number of downloads increased to about 50,000 a few days later.
+On 11 September 2008, the website's press contact Peter Sunde participated in the debate programme Debatt on the public broadcaster SVT.
+Sunde had agreed to participate on the condition that the father Nicklas Jangestig would not take part in the debate.
+Jangestig did, however, end up participating in the programme, by telephone, which made Sunde feel betrayed by SVT.
+This caused The Pirate Bay to suspend all of its press contacts the following day.
+“I don’t think it’s our job to judge if something is ethical or unethical or what other people want to put out on the internet,” said The Pirate Bay’s spokesperson Peter Sunde to TV4.
+Legal issues
+In September 2007, a large number of internal emails were leaked from anti-piracy company MediaDefender by an anonymous hacker.
+Some of the leaked emails discussed hiring hackers to perform DDOS attacks on The Pirate Bay's servers and trackers.
+In response to the leak, The Pirate Bay filed charges in Sweden against MediaDefender clients Twentieth Century Fox Sweden AB, EMI Sweden AB, Universal Music Group Sweden AB, Universal Pictures Nordic AB, Paramount Home Entertainment (Sweden) AB, Atari Nordic AB, Activision Nordic, Ubisoft Sweden AB, Sony BMG Music Entertainment (Sweden) AB, and Sony Pictures Home Entertainment Nordic AB, but the charges were not pursued.
+MediaDefender's stocks fell sharply after this incident, and several media companies withdrew from the service after the company announced the leak had caused $825,000 in losses.
+Later, The Pirate Bay co-founder Peter Sunde accused police investigator Jim Keyzer of a conflict of interest when he declined to investigate MediaDefender.
+Keyzer later accepted a job for MPAA member studio Warner Brothers.
+The leaked emails revealed that other MPAA member studios hired MediaDefender to pollute The Pirate Bay's torrent database, contradicting the MPAA's earlier claim that its member studios were not MediaDefender clients.
+The Swedish online business newspaper E24 Näringsliv reported on 15 February 2008 that the British anti-piracy firm Web Sheriff intended to file lawsuits in the United States and Sweden against The Pirate Bay on behalf of Prince, the Village People, Van Morrison, and the estate of Chet Baker.
+Lars Sandberg, Web Sheriff's local counsel in Sweden, told E24 that Web Sheriff had not yet determined whether to sue the individuals or the companies associated with the website.
+Peter Sunde dismissed the threats as relying on American law inapplicable in Sweden.
+In an official letter to the Swedish Minister of Justice, the International Olympic Committee (IOC) requested assistance from the Swedish government to prevent video clips from the Beijing Olympics from being distributed via The Pirate Bay.
+The IOC claimed there were more than one million downloads of footage from the Olympics — mostly of the opening ceremony.
+The Pirate Bay, however, did not take anything down, and temporarily renamed the website to The Beijing Bay.
+The trial against the men behind the Pirate Bay started in Sweden on 16 February 2009.
+They are accused of breaking Swedish copyright law.
+The defendants, however, continued to be confident about the outcome.
+Half the charges against the Pirate Bay were dropped on the second day of the trial.
+The four operators of the site were convicted in Stockholm district court on 17 April 2009 and sentenced to one year in jail each and a total of 30 million SEK (3.6 million USD, 2.7 million EUR, 2.4 million GBP) in fines and damages.
+The defendants' lawyers have appealed to the Svea Court of Appeal and have requested a retrial in the district court, alleging bias on behalf of judge Tomas Norström, the same judge who ordered the 2006 raid.
+Under Swedish law, the verdict is not lawful until all appeals have been processed.
+The case will likely be appealed to the Supreme Court of Sweden (and parts of the case may be remitted to the European Court of Justice), and thus the appeal process could take several years before a verdict is final.
+On 13 May 2009 several record companies again sued Neij, Svartholm, Sunde and also The Pirate Bay's main internet service provider Black Internet.
+They required enforcement for ending The Pirate Bay's accessory to copyright infringement that hadn't stopped despite the court order in April, and in the complaint listed several pages of works being shared with the help of the site.
+The suit was joined by several major film companies on 30 July.
+The Stockholm district court ruled on 21 August that Black Internet must stop making available the specific works mentioned in the judgment, or face a 500,000 SEK fine.
+The company was notified of the order on 24 August, and they complied with it on the same day by disconnecting The Pirate Bay.
+Computer Sweden noted that the judgment did not order The Pirate Bay to be disconnected, but the ISP had no other option for stopping the activity on the site.
+It is the first time in Sweden for an ISP to be forced to stop providing access for a website, and the ISP is appealing the ruling.
+Due to the cost of the appeal process, a public support fund fronted by the CEO of the ISP was set up to cover the legal fees.
+Pirate Party leader Rickard Falkvinge submitted the case for Parliamentary Ombudsman review, criticising the court's order to make intermediaries responsible for relayed content and to assign active crime prevention tasks to a private party.
+Service issues
+In May 2007, The Pirate Bay was attacked by a group of hackers.
+They copied the user database, which included over 1.5 million users.
+The Pirate Bay reassured its users that the data was of no value and that passwords and e-mails were encrypted and hashed.
+Some blogs stated that a group known as the AUH (Arga Unga Hackare, Swedish for "Angry Young Hackers") were suspected of executing the attack, however the AUH stated on the Computer Sweden newspaper that they were not involved and would take revenge on those responsible for the attack.
+On 27 April 2009 the website of The Pirate Bay had fiber IPv4 connectivity issues.
+There was widespread speculation this was a forced outage from the Swedish antipiracy group, accelerated somewhat by TPB adding contact details for the Swedish antipiracy group's lawyers to its RIPE database record.
+The site and its forums were still available via IPv6 at the time.
+On 24 August 2009 one of The Pirate Bay's upstream providers were ordered to discontinue service for the website by a Swedish court in response to a civil action brought by several entertainment companies including Disney, Universal, Time Warner, Columbia, Sony, NBC, and Paramount.
+According to the Pirate Bay blog, this caused a downtime of 3 hours, however some users were unable to access the site immediately following the relocation due to unrelated technical difficulties.
+The site was fully operational again for everyone within 24 hours.
+Support campaign
+On 18 February 2009 the Norwegian socialist party Red began a global campaign in support of The Pirate Bay and filesharers worldwide that lasted until 1 May.
+Through the website  filesharer.org filesharers are encouraged to upload their photographs as 'mugshots' to 'let the music and movie industry know who the file-sharers are'.
+The site encourages participation urging people to "Upload a picture of yourself and show them what a criminal looks like!".
+Red politician Elin Volder Rutle is the initiator of the campaign and she states to the media that "If the guys behind Pirate Bay are criminals, then so am I, and so are most other Norwegians".
+The campaign was timed to coincide with the trial against the founders of The Pirate Bay which began on 16 February.
+The Pirate Bay have also been shown support from people all over the world, with more than 200,000 (as of June 2009) members currently joined to the support group on Facebook.
+Recent incidents
+On 15 August 2009, an anonymous uploader started to share a BitTorrent file containing the whole index for The Pirate Bay.
+On 24 August 2009 a Swedish court ordered the upstream provider Black Internet to block traffic to the site.
+Black Internet complied.
+After a break of at least 3 hours, Pirate Bay staff announced that the site had been relocated, but technical difficulties prevented it from going online immediately.
+The website was inaccessible, but a few areas reported services restored within 3 hours and it was claimed that all services were restored within 24 hours.
+On 5 October 2009, one of the IP transit providers to The Pirate Bay blocked all Pirate Bay traffic causing an outage for most users around the world.
+On 6 October 2009, the site was back online from CyberBunker located in a NATO territory surrounded by the Netherlands.
+Projects
+The team behind The Pirate Bay has worked on several websites, including BayImg, an image hosting website similar to TinyPic and a video-sharing website called The Video Bay, similar to the video-sharing website YouTube.
+The VideoBay is currently up and running but can only be viewed via most beta browsers as the site uses HTML 5.
+The site currently features nothing but copyrighted material and has been self dubbed "The Youtube Killer".
+Another one of their projects is SlopsBox, a disposable e-mail address service.
+The SlopsBox site was recently re-launched.
+On 16 April 2008, Baywords was launched as a free blogging service that lets users of the site blog about anything as long as it does not break any Swedish laws.
+As of 7 August 2008 registration to the site was closed preventing new blogs being created.
+In mid-2007 The Pirate Bay relaunched the BitTorrent website Suprnova.org, to perform the same functions as The Pirate Bay but using different torrent trackers.
+As of early 2009 the site has had no news updates for a year.
+Pastebay, similar to Pastebin, was made available to the public as of 23 March.
+"Boink" was created by The Pirate Bay in response to the raid on Oink's Pink Palace, a music-oriented BitTorrent website.
+Sunde announced on 26 October 2007 that the website would launch within a few days.
+On 24 November 2007, Sunde said that he decided to cancel BOiNK, seeing as many new websites have been created since the downfall of OiNK.
+On December 2008 The Pirate Bay resurrected ShareReactor as a combined eD2k and BitTorrent site.
+Suprbay.org is the official forum for thepiratebay and the various sites connected to it.
+It is where users can request reseeding of a torrent, report malware within torrent files or illegal material on thepiratebay.
+Blocking
+Denmark
+On 5 February 2008, the district court of Frederiksberg, Copenhagen ruled that one of Denmark's largest ISPs, DMT2-Tele2, is assisting its customers in copyright infringement by allowing the use of The Pirate Bay, and that they are to block access to the site.
+Although the ISP had decided to challenge the verdict with support from the Danish Telecommunication Industries Association, they complied with it and blocked access to The Pirate Bay.
+The Pirate Bay reacted by creating an alternate site with instructions on how to work around the block, while the IFPI welcomed the block and encouraged other ISPs to follow suit.
+The verdict was affirmed in the Eastern High Court of Denmark on 26 November 2008.
+Following the court's decision, TDC, Denmark's largest ISP and owner of most of the cables, decided to block access to The Pirate Bay as a preventive measure.
+Other Danish ISPs have commented that they would prefer not to intervene in their customers' communication, but have reluctantly put the block in effect in order to avoid fines.
+Tele2's owner Telenor in turn appealed the high court verdict to the Supreme Court of Denmark, which in April 2009 accepted the case for processing.
+Italy
+In mid 2008, following the criminal charges raised in Sweden, the Italian Federation against Musical Piracy in Milan requested action in Italy.
+The deputy public prosecutor pursued the complaint in the Bergamo Court for Preliminary Investigations, which on 1 August 2008 decreed to block access from Italian ISPs to all Pirate Bay addresses.
+The ruling was based on prevention of copyright violations by the site's users in Italian territory.
+Once the block had been put in effect, The Pirate Bay responded on 10 August 2008 by posting instructions to work around the block and later by creating a separate site for Italians, but shortly afterwards the ISPs also blocked the alternate site.
+Some ISPs had implemented the block by redirecting The Pirate Bay traffic to a site owned by the IFPI.
+Italian security expert Matteo Flora suggested that by having the page redirected this way, IFPI could access Italian users' cookies and impersonate them on the official The Pirate Bay website.
+Two Italian IT lawyers Giovanni Battista Gallus and Francesco Micozzi together with Matteo Flora appealed to the Bergamo court, which reviewed the case and on 24 September 2008 quashed the original ruling.
+The decision lifting the block was based on the applicability of the "preventive seizure" section of the Italian Code of Criminal Procedure, which cannot force actions on parties unrelated to the potential offence (ISPs to filter users' traffic).
+With the April 2009 verdict in Sweden as a precedent, the Bergamo prosecutor appealed the Italian ruling in the Supreme Court of Cassation to reinstate the block.
+In September 2009, the Supreme Court annulled the decision to overturn the block, and the case will again be reviewed in the Bergamo court.
+Ireland
+In January 2009, the Irish ISP Eircom was taken to court by the four large music labels EMI, Sony, Universal Music Group and Warner Music Group in order to have the ISP monitor its customers and spot illegal file sharing.
+After eight court days, the parties reached a settlement to introduce a three strikes policy to disconnect customers involved in copyright infringing activity.
+The Irish Recorded Music Association continues to negotiate with other ISPs for a similar agreement.
+On 21 February 2009, Eircom however declared that access to The Pirate Bay would soon be blocked altogether, but retracted on 24 February 2009 with a statement saying that they would not block the Pirate Bay without a court order.
+Eircom appears to have taken yet another turn in their decision on The Pirate Bay with news breaking on 20 August 2009 that they will indeed commence blocking of the website from next month (September 2009).
+As of 1 September 2009 Eircom has blocked access to The Pirate Bay.
+United Kingdom
+In the UK, The Pirate Bay is blocked by default by BT Mobile Broadband and other mobile broadband providers, as part of a blocking system that blocks access to sites considered to be "over 18" status.
+Customers can remove the block by contacting their ISP.
+Mainland China
+The site has been blocked since 2005.
+Such bans are usually permanent.
+The Netherlands
+On 21 July 2009, the Amsterdam district court held a preliminary injunction hearing against the persons thought responsible for The Pirate Bay.
+The hearing followed a subpoena from the Dutch record industry trade association BREIN, who had an urgent complaint of intermediary copyright infringement.
+The defendants did not attend the hearing and hadn't arranged representation, so on 30 July 2009 the court entered an in absentia default judgment against them, accepting the complainants demands.
+It ruled that Neij, Kolmisoppi and Warg are "to stop and keep stopped the infringements on copyright and related rights of Stichting Brein in the Netherlands" within 9 August 2009, or face daily penalties of EUR 30,000, up to a maximum total of EUR 3,000,000.
+They were also ordered to pay the cost of the proceedings.
+In a separate case handled at the same time, the court ordered the same fines for the expected new owner of The Pirate Bay, Global Gaming Factory X, were it not to stop the copyright infringements after the site's takeover.
+According to BREIN director Tim Kuik, it is the first time a foreign website has been ordered to block access from the Netherlands.
+The BREIN however waived the payment of damages for August and allowed the site to stay online until its expected change of owners at the end of August 2009.
+On 2 October 2009, The Pirate Bay's hosting services moved to Ukraine and their traffic was routed through The Netherlands, but BREIN contacted the ISP NForce and service was stopped.
+In return, The Pirate Bay moved their hosting location to a nuclear bunker owned by CyberBunker just outside Kloetinge in the south of the Netherlands.
+Facebook
+After The Pirate Bay introduced a feature in March 2009 to easily share links to torrents on the popular social networking site Facebook, Wired found in May that Facebook had started blocking the links.
+On further inspection, they discovered that all messages containing links to The Pirate Bay in both public and in private messages, regardless of content, were being blocked.
+Electronic Frontier Foundation lawyers commented that Facebook might be working against the US Electronic Communications Privacy Act by intercepting user messages, but Facebook chief privacy officer Chris Kelly said that they have the right to use blocks on links where there is a "demonstrated disregard for intellectual property rights", following users' agreement on their terms of service.
+Links to other similar sites have not been blocked.
+In media
+Pirate Bay is featured in Steal This Film (2006), a documentary series about society and filesharing, produced by The League of Noble Peers and also in the Danish Documentary Good Copy Bad Copy, which explores the issues surrounding file copyright.
+The Pirate Bay has also been a frequent topic on the nationally syndicated NPR radio show On The Media.
+Björn Ulvaeus, former member of the Swedish pop music group ABBA, criticised copyright infringing activities of The Pirate Bay supporters as "lazy and mean".
+In contrast, bestselling author Paulo Coelho has embraced free sharing online.
+Coelho supports The Pirate Bay and offered to be a witness in the 2009 trial.
+He accounts much of his growing sales to his work shared on the Internet and comments that "a person who does not share is not only selfish, but bitter and alone".
+Trial
+The Pirate Bay trial was a joint criminal and civil prosecution in Sweden of four individuals charged for promoting the copyright infringement of others with The Pirate Bay site.
+The criminal charges were supported by a consortium of intellectual rights holders led by the International Federation of the Phonographic Industry IFPI, who filed individual civil compensation claims against the owners of The Pirate Bay.
+Swedish prosecutors filed charges on 31 January 2008 against Fredrik Neij, Gottfrid Svartholm, and Peter Sunde; and Carl Lundström, a Swedish businessman who through his businesses sold services to the site.
+The prosecutor claimed the four worked together to administer, host, and develop the site and thereby facilitated other people's breach of copyright law.
+Some 34 cases of copyright infringements were originally listed, of which 21 were related to music files, 9 to movies, and 4 to games.
+One case involving music files was later dropped by the copyright holder who made the file available again on The Pirate Bay site.
+In addition, claims for damages of 117 million kronor (US$13 million) were filed.
+The case was decided jointly by a judge who was a member of several pro-copyright organisations and three appointed laymen.
+The trial started on 16 February 2009 in the district court (tingsrätt) of Stockholm, Sweden.
+The hearings ended on 3 March 2009 and the verdict was announced at 11:00 AM on Friday 17 April 2009: Peter Sunde, Fredrik Neij, Gottfrid Svartholm and Carl Lundström were all found guilty and sentenced to serve one year in prison and pay a fine of 30 million Swedish krona (app.
+€2.7 million or USD 3.5 million).
+All the defendants have appealed the verdict.
+Relations to other Swedish pirate organisations
+There are three major pirate organisations in Sweden: the political Pirate Party, which won 7.1 % of the Swedish votes and one seat in 2009 European Parliament election, the NGO Piratbyrån, and the BitTorrent tracker The Pirate Bay.
+Of these three, Piratbyrån and The Pirate Bay share a common history but are now separate, whereas the Pirate Party developed on a completely separate though parallel track and is unrelated to the other two.
+Video streaming
+Peter Sunde announced in June 2009 a video streaming venture "The Video Bay".
+The Video Bay is still in an "Extreme Beta" phase, posting a message on the homepage telling the user "not to expect anything to work at all".
+Acquisition announcement
+On 30 June 2009 Swedish advertising company Global Gaming Factory X AB announced their intention to buy the site for SEK 60 million (approximately $8,350,500 USD) (30m SEK in cash, 30m SEK in GGF stock).
+The Pirate Bay founders stated that the profits from the sale would be placed in an offshore account where it would be used to fund projects pertaining to 'freedom of speech, freedom of information, and the openness of the Internet'.
+Assurances were made that "no personal data will be transferred in the eventual sale (since no personal data is kept)".
+Global Gaming Chief Executive Hans Pandeya commented on the site's future by saying "We would like to introduce models which entail that content providers and copyright owners get paid for content that is downloaded via the site," and announced that users would be charged a monthly fee for access to The Pirate Bay.
+Global Gaming Factory's letter of intent expired at the end of September 2009, without the transaction having taking place.
+This may be due to the company's current financial difficulties, though some sources suggest that the deal may have been largely a publicity stunt from the start.
+PC World magazine regards the deal's future as "doomed".
+See also
+Anti-copyright
+Comparison of BitTorrent sites
+IPREDator
+TV Links
+Network neutrality
+The Pirate Bay Trial
+Warez
+References
+External links
+Official website
+The views from The Pirate Bay at BBC
+Spanish Movement, Bahia Pirata
+Letters and memos
+Letter from John G. Malcolm, Executive Vice President of the MPA, to the former State Secretary, Jan Eliasson
+Response from Dan Eliasson
+The Swedish Governments "orders" to the authorities (in Swedish)
+Håkan Roswalls (prosecutor) memo (in Swedish)
+Video from thepiratebay meeting (in Swedish)
+</TEXT>
+</DOC>

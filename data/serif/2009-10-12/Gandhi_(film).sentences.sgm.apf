@@ -1,0 +1,3379 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Gandhi_(film).sentences.sgm">
+  <document DOCID="Gandhi_(film).sentences.sgm">
+
+    <entity ID="Gandhi_(film).sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="30" END="35">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="35">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M7">
+          <extent>
+              <charseq START="86" END="225">Mohandas Gandhi, who led the nonviolent resistance movement against British colonial rule in India during the first half of the 20th century</charseq>
+          </extent>
+          <head>
+              <charseq START="86" END="100">Mohandas Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M9">
+          <extent>
+              <charseq START="103" END="105">who</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="105">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M107">
+          <extent>
+              <charseq START="300" END="305">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="305">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M611">
+          <extent>
+              <charseq START="718" END="723">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="718" END="723">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M617">
+          <extent>
+              <charseq START="768" END="773">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="768" END="773">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M620">
+          <extent>
+              <charseq START="816" END="818">his</charseq>
+          </extent>
+          <head>
+              <charseq START="816" END="818">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M702">
+          <extent>
+              <charseq START="854" END="870">an elderly Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="870">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M706">
+          <extent>
+              <charseq START="890" END="892">his</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="892">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M805">
+          <extent>
+              <charseq START="1000" END="1002">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1002">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M902">
+          <extent>
+              <charseq START="1030" END="1035">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1035">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M1105">
+          <extent>
+              <charseq START="1150" END="1152">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1150" END="1152">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1202">
+          <extent>
+              <charseq START="1237" END="1242">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1237" END="1242">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1304">
+          <extent>
+              <charseq START="1349" END="1354">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1349" END="1354">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1400">
+          <extent>
+              <charseq START="1492" END="1497">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1497">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1602">
+          <extent>
+              <charseq START="1858" END="1863">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1858" END="1863">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E0-M1610">
+          <extent>
+              <charseq START="1931" END="1945">a national hero</charseq>
+          </extent>
+          <head>
+              <charseq START="1942" END="1945">hero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M1606">
+          <extent>
+              <charseq START="1897" END="1898">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1897" END="1898">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M1700">
+          <extent>
+              <charseq START="1948" END="1949">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1948" END="1949">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="2031" END="2036">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="2031" END="2036">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M1908">
+          <extent>
+              <charseq START="2234" END="2239">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="2234" END="2239">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M2400">
+          <extent>
+              <charseq START="2627" END="2632">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="2627" END="2632">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M2402">
+          <extent>
+              <charseq START="2667" END="2668">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2667" END="2668">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="3108" END="3113">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3108" END="3113">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M2900">
+          <extent>
+              <charseq START="3289" END="3294">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3289" END="3294">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M2902">
+          <extent>
+              <charseq START="3303" END="3305">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3303" END="3305">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M3000">
+          <extent>
+              <charseq START="3367" END="3368">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3367" END="3368">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E0-M3006">
+          <extent>
+              <charseq START="3469" END="3471">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3469" END="3471">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3101">
+          <extent>
+              <charseq START="3549" END="3554">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3549" END="3554">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3104">
+          <extent>
+              <charseq START="3585" END="3590">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3585" END="3590">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3203">
+          <extent>
+              <charseq START="3657" END="3662">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3657" END="3662">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3209">
+          <extent>
+              <charseq START="3709" END="3714">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3709" END="3714">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3303">
+          <extent>
+              <charseq START="3784" END="3810">Gandhi in another voiceover</charseq>
+          </extent>
+          <head>
+              <charseq START="3784" END="3789">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3400">
+          <extent>
+              <charseq START="3903" END="3908">gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="3903" END="3908">gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3412">
+          <extent>
+              <charseq START="4010" END="4015">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="4010" END="4015">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3708">
+          <extent>
+              <charseq START="4437" END="4442">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="4437" END="4442">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3809">
+          <extent>
+              <charseq START="4560" END="4565">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="4560" END="4565">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M3901">
+          <extent>
+              <charseq START="4663" END="4668">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="4663" END="4668">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4206">
+          <extent>
+              <charseq START="5020" END="5025">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="5020" END="5025">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4526">
+          <extent>
+              <charseq START="5629" END="5634">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="5629" END="5634">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4719">
+          <extent>
+              <charseq START="6044" END="6058">Frontier Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="6044" END="6058">Frontier Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4741">
+          <extent>
+              <charseq START="6299" END="6304">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="6299" END="6304">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4743">
+          <extent>
+              <charseq START="6336" END="6341">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="6336" END="6341">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M4747">
+          <extent>
+              <charseq START="6374" END="6379">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="6374" END="6379">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M5203">
+          <extent>
+              <charseq START="6742" END="6764">Villains
+Mahatma Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="6751" END="6764">Mahatma Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E0-M5204">
+          <extent>
+              <charseq START="6742" END="6749">Villains</charseq>
+          </extent>
+          <head>
+              <charseq START="6742" END="6749">Villains</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E0-M5206">
+          <extent>
+              <charseq START="6768" END="6810">Hero #21
+2003 AFI&apos;s 100 Years... 100 Cheers</charseq>
+          </extent>
+          <head>
+              <charseq START="6768" END="6771">Hero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M5312">
+          <extent>
+              <charseq START="7073" END="7078">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7073" END="7078">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M5505">
+          <extent>
+              <charseq START="7215" END="7220">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7215" END="7220">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M5513">
+          <extent>
+              <charseq START="7309" END="7314">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7309" END="7314">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M6116">
+          <extent>
+              <charseq START="7798" END="7803">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7798" END="7803">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M6134">
+          <extent>
+              <charseq START="7943" END="7955">Gandhi
+Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7943" END="7955">Gandhi
+Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E0-M6142">
+          <extent>
+              <charseq START="8030" END="8035">Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="8030" END="8035">Gandhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gandhi">
+              <charseq START="30" END="35">Gandhi</charseq>
+          </name>
+          <name NAME="Mohandas Gandhi">
+              <charseq START="86" END="100">Mohandas Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="300" END="305">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="718" END="723">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="768" END="773">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="865" END="870">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="1030" END="1035">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="1237" END="1242">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="1349" END="1354">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="1492" END="1497">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="1858" END="1863">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="2031" END="2036">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="2234" END="2239">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="2627" END="2632">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3108" END="3113">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3289" END="3294">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3549" END="3554">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3585" END="3590">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3657" END="3662">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3709" END="3714">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="3784" END="3789">Gandhi</charseq>
+          </name>
+          <name NAME="gandhi">
+              <charseq START="3903" END="3908">gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="4010" END="4015">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="4437" END="4442">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="4560" END="4565">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="4663" END="4668">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="5020" END="5025">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="5629" END="5634">Gandhi</charseq>
+          </name>
+          <name NAME="Frontier Gandhi">
+              <charseq START="6044" END="6058">Frontier Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="6299" END="6304">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="6336" END="6341">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="6374" END="6379">Gandhi</charseq>
+          </name>
+          <name NAME="Mahatma Gandhi">
+              <charseq START="6751" END="6764">Mahatma Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="7073" END="7078">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="7215" END="7220">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="7309" END="7314">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="7798" END="7803">Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi
+Gandhi">
+              <charseq START="7943" END="7955">Gandhi
+Gandhi</charseq>
+          </name>
+          <name NAME="Gandhi">
+              <charseq START="8030" END="8035">Gandhi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E1-M14" ROLE="GPE">
+          <extent>
+              <charseq START="154" END="160">British</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="160">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E1-M409" ROLE="LOC">
+          <extent>
+              <charseq START="543" END="548">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="547" END="548">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E1-M2002">
+          <extent>
+              <charseq START="2326" END="2332">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="2326" END="2332">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E1-M2106">
+          <extent>
+              <charseq START="2433" END="2439">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="2433" END="2439">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E1-M2104">
+          <extent>
+              <charseq START="2414" END="2416">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2414" END="2416">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="154" END="160">British</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="547" END="548">UK</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="2326" END="2332">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="2433" END="2439">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M16" ROLE="LOC">
+          <extent>
+              <charseq START="179" END="183">India</charseq>
+          </extent>
+          <head>
+              <charseq START="179" END="183">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M408" ROLE="LOC">
+          <extent>
+              <charseq START="533" END="537">India</charseq>
+          </extent>
+          <head>
+              <charseq START="533" END="537">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M1603" ROLE="LOC">
+          <extent>
+              <charseq START="1884" END="1945">India, where he is now considered something of a national hero</charseq>
+          </extent>
+          <head>
+              <charseq START="1884" END="1888">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E2-M1605">
+          <extent>
+              <charseq START="1891" END="1895">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1891" END="1895">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M1706">
+          <extent>
+              <charseq START="1985" END="1989">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1985" END="1989">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2105" ROLE="LOC">
+          <extent>
+              <charseq START="2426" END="2430">India</charseq>
+          </extent>
+          <head>
+              <charseq START="2426" END="2430">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2108">
+          <extent>
+              <charseq START="2456" END="2460">India</charseq>
+          </extent>
+          <head>
+              <charseq START="2456" END="2460">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2605" ROLE="GPE">
+          <extent>
+              <charseq START="2825" END="2829">India</charseq>
+          </extent>
+          <head>
+              <charseq START="2825" END="2829">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2609" ROLE="LOC">
+          <extent>
+              <charseq START="2852" END="2856">India</charseq>
+          </extent>
+          <head>
+              <charseq START="2852" END="2856">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E2-M2603">
+          <extent>
+              <charseq START="2803" END="2829">the northwest area of India</charseq>
+          </extent>
+          <head>
+              <charseq START="2817" END="2820">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E2-M2618">
+          <extent>
+              <charseq START="2943" END="3009">a new country called Pakistan (West and East Pakistan respectively)</charseq>
+          </extent>
+          <head>
+              <charseq START="2949" END="2955">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E2-M2704" ROLE="LOC">
+          <extent>
+              <charseq START="3067" END="3084">a separate country</charseq>
+          </extent>
+          <head>
+              <charseq START="3078" END="3084">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2805" ROLE="GPE">
+          <extent>
+              <charseq START="3226" END="3230">India</charseq>
+          </extent>
+          <head>
+              <charseq START="3226" END="3230">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M2809">
+          <extent>
+              <charseq START="3254" END="3258">India</charseq>
+          </extent>
+          <head>
+              <charseq START="3254" END="3258">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M3415" ROLE="GPE">
+          <extent>
+              <charseq START="4032" END="4037">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="4032" END="4037">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E2-M3408">
+          <extent>
+              <charseq START="3978" END="3980">its</charseq>
+          </extent>
+          <head>
+              <charseq START="3978" END="3980">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M4305" ROLE="GPE">
+          <extent>
+              <charseq START="5073" END="5078">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="5073" END="5078">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M4407" ROLE="GPE">
+          <extent>
+              <charseq START="5205" END="5210">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="5205" END="5210">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E2-M5307" ROLE="GPE">
+          <extent>
+              <charseq START="7031" END="7035">India</charseq>
+          </extent>
+          <head>
+              <charseq START="7031" END="7035">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="India">
+              <charseq START="179" END="183">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="533" END="537">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1884" END="1888">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1985" END="1989">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="2426" END="2430">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="2456" END="2460">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="2825" END="2829">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="2852" END="2856">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="3226" END="3230">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="3254" END="3258">India</charseq>
+          </name>
+          <name NAME="Indian">
+              <charseq START="4032" END="4037">Indian</charseq>
+          </name>
+          <name NAME="Indian">
+              <charseq START="5073" END="5078">Indian</charseq>
+          </name>
+          <name NAME="Indian">
+              <charseq START="5205" END="5210">Indian</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="7031" END="7035">India</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E3-M102">
+          <extent>
+              <charseq START="253" END="272">Richard Attenborough</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="272">Richard Attenborough</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E3-M4757">
+          <extent>
+              <charseq START="6470" END="6489">Richard Attenborough</charseq>
+          </extent>
+          <head>
+              <charseq START="6470" END="6489">Richard Attenborough</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E3-M5215">
+          <extent>
+              <charseq START="6848" END="6867">Richard Attenborough</charseq>
+          </extent>
+          <head>
+              <charseq START="6848" END="6867">Richard Attenborough</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E3-M5200">
+          <extent>
+              <charseq START="6727" END="6812">100 Heroes and Villains
+Mahatma Gandhi — Hero #21
+2003 AFI&apos;s 100 Years... 100 Cheers —</charseq>
+          </extent>
+          <head>
+              <charseq START="6731" END="6736">Heroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E3-M5202">
+          <extent>
+              <charseq START="6727" END="6736">100 Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="6731" END="6736">Heroes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Attenborough">
+              <charseq START="253" END="272">Richard Attenborough</charseq>
+          </name>
+          <name NAME="Richard Attenborough">
+              <charseq START="6470" END="6489">Richard Attenborough</charseq>
+          </name>
+          <name NAME="Richard Attenborough">
+              <charseq START="6848" END="6867">Richard Attenborough</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E4-M103">
+          <extent>
+              <charseq START="278" END="305">stars Ben Kingsley as Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="295">Ben Kingsley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E4-M4301">
+          <extent>
+              <charseq START="5043" END="5054">Ben Kingsley</charseq>
+          </extent>
+          <head>
+              <charseq START="5043" END="5054">Ben Kingsley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E4-M4307">
+          <extent>
+              <charseq START="5090" END="5092">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5090" END="5092">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E4-M4500">
+          <extent>
+              <charseq START="5302" END="5651">Ben Kingsley as Mahatma Gandhi
+Rohini Hattangadi as Kasturba Gandhi
+Roshan Seth as Pandit Jawaharlal Nehru
+Saeed Jaffrey as Sardar Vallabhbhai Patel
+Candice Bergen as Margaret Bourke-White
+Edward Fox as Brigadier General Reginald Dyer
+John Gielgud as Baron Irwin
+Trevor Howard as Judge R. S. Broomfield, the presiding judge in Gandhi&apos;s sedition trial</charseq>
+          </extent>
+          <head>
+              <charseq START="5302" END="5313">Ben Kingsley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E4-M4758">
+          <extent>
+              <charseq START="6495" END="6506">Ben Kingsley</charseq>
+          </extent>
+          <head>
+              <charseq START="6495" END="6506">Ben Kingsley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E4-M4723">
+          <extent>
+              <charseq START="6082" END="6088">Officer</charseq>
+          </extent>
+          <head>
+              <charseq START="6082" END="6088">Officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E4-M5901">
+          <extent>
+              <charseq START="7534" END="7545">Ben Kingsley</charseq>
+          </extent>
+          <head>
+              <charseq START="7534" END="7545">Ben Kingsley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben Kingsley">
+              <charseq START="284" END="295">Ben Kingsley</charseq>
+          </name>
+          <name NAME="Ben Kingsley">
+              <charseq START="5043" END="5054">Ben Kingsley</charseq>
+          </name>
+          <name NAME="Ben Kingsley">
+              <charseq START="5302" END="5313">Ben Kingsley</charseq>
+          </name>
+          <name NAME="Ben Kingsley">
+              <charseq START="6495" END="6506">Ben Kingsley</charseq>
+          </name>
+          <name NAME="Ben Kingsley">
+              <charseq START="7534" END="7545">Ben Kingsley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E5-M104">
+          <extent>
+              <charseq START="278" END="282">stars</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="282">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E6-M303">
+          <extent>
+              <charseq START="411" END="422">Best Picture</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="422">Best Picture</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E6-M4801">
+          <extent>
+              <charseq START="6527" END="6538">Best Picture</charseq>
+          </extent>
+          <head>
+              <charseq START="6527" END="6538">Best Picture</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Best Picture">
+              <charseq START="411" END="422">Best Picture</charseq>
+          </name>
+          <name NAME="Best Picture">
+              <charseq START="6527" END="6538">Best Picture</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E7-M404">
+          <extent>
+              <charseq START="509" END="548">production companies in India and the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="528">companies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E8-M501" ROLE="LOC">
+          <extent>
+              <charseq START="573" END="581">New Delhi</charseq>
+          </extent>
+          <head>
+              <charseq START="573" END="581">New Delhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Delhi">
+              <charseq START="573" END="581">New Delhi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E9-M605">
+          <extent>
+              <charseq START="651" END="664">the filmmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="655" END="664">filmmakers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E9-M607">
+          <extent>
+              <charseq START="677" END="681">their</charseq>
+          </extent>
+          <head>
+              <charseq START="677" END="681">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E9-M1906">
+          <extent>
+              <charseq START="2215" END="2228">the protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="2219" END="2228">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E9-M3200">
+          <extent>
+              <charseq START="3634" END="3645">The audience</charseq>
+          </extent>
+          <head>
+              <charseq START="3638" END="3645">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E9-M3605">
+          <extent>
+              <charseq START="4242" END="4255">the filmmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="4246" END="4255">filmmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E10-M712">
+          <extent>
+              <charseq START="946" END="953">admirers</charseq>
+          </extent>
+          <head>
+              <charseq START="946" END="953">admirers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E11-M804">
+          <extent>
+              <charseq START="978" END="991">Nathuram Godse</charseq>
+          </extent>
+          <head>
+              <charseq START="978" END="991">Nathuram Godse</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E11-M3100">
+          <extent>
+              <charseq START="3536" END="3540">Godse</charseq>
+          </extent>
+          <head>
+              <charseq START="3536" END="3540">Godse</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nathuram Godse">
+              <charseq START="978" END="991">Nathuram Godse</charseq>
+          </name>
+          <name NAME="Godse">
+              <charseq START="3536" END="3540">Godse</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E12-M1107">
+          <extent>
+              <charseq START="1184" END="1216">dignitaries from around the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1184" END="1194">dignitaries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E13" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E13-M1109">
+          <extent>
+              <charseq START="1208" END="1216">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1216">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E13-M1504">
+          <extent>
+              <charseq START="1711" END="1719">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1715" END="1719">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E14-M1306" ROLE="GPE">
+          <extent>
+              <charseq START="1372" END="1384">South African</charseq>
+          </extent>
+          <head>
+              <charseq START="1372" END="1384">South African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E14-M1409" ROLE="LOC">
+          <extent>
+              <charseq START="1634" END="1645">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1634" END="1645">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E14-M1511" ROLE="GPE">
+          <extent>
+              <charseq START="1824" END="1835">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1835">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E14-M1505" ROLE="ORG">
+          <extent>
+              <charseq START="1722" END="1735">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1726" END="1735">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E14-M2501">
+          <extent>
+              <charseq START="2748" END="2758">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2752" END="2758">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E14-M3810" ROLE="LOC">
+          <extent>
+              <charseq START="4583" END="4594">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="4583" END="4594">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South African">
+              <charseq START="1372" END="1384">South African</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="1634" END="1645">South Africa</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="1824" END="1835">South Africa</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="4583" END="4594">South Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E15" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E15-M1305">
+          <extent>
+              <charseq START="1370" END="1390">a South African train</charseq>
+          </extent>
+          <head>
+              <charseq START="1386" END="1390">train</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M1308">
+          <extent>
+              <charseq START="1405" END="1410">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="1405" END="1410">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M1402">
+          <extent>
+              <charseq START="1541" END="1547">Indians</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1547">Indians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M1407">
+          <extent>
+              <charseq START="1619" END="1629">all Indians</charseq>
+          </extent>
+          <head>
+              <charseq START="1623" END="1629">Indians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M1508">
+          <extent>
+              <charseq START="1779" END="1785">Indians</charseq>
+          </extent>
+          <head>
+              <charseq START="1779" END="1785">Indians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M1806">
+          <extent>
+              <charseq START="2145" END="2151">Indians</charseq>
+          </extent>
+          <head>
+              <charseq START="2145" END="2151">Indians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E16-M2200">
+          <extent>
+              <charseq START="2478" END="2484">Indians</charseq>
+          </extent>
+          <head>
+              <charseq START="2478" END="2484">Indians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E16-M2203">
+          <extent>
+              <charseq START="2514" END="2518">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2514" END="2518">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E17-M1509">
+          <extent>
+              <charseq START="1803" END="1835">the native blacks of South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1814" END="1819">blacks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E18-M1707" ROLE="LOC">
+          <extent>
+              <charseq START="2011" END="2028">the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="2015" END="2028">British Empire</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Empire">
+              <charseq START="2015" END="2028">British Empire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E20-M2303">
+          <extent>
+              <charseq START="2575" END="2580">Hindus</charseq>
+          </extent>
+          <head>
+              <charseq START="2575" END="2580">Hindus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hindus">
+              <charseq START="2575" END="2580">Hindus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E21-M2304">
+          <extent>
+              <charseq START="2586" END="2592">Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2592">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E21-M2616">
+          <extent>
+              <charseq START="2902" END="2908">Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="2902" END="2908">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E21-M2702">
+          <extent>
+              <charseq START="3044" END="3054">the Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="3048" END="3054">Muslims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E22-M2610">
+          <extent>
+              <charseq START="2859" END="2880">current day Bangladesh</charseq>
+          </extent>
+          <head>
+              <charseq START="2871" END="2880">Bangladesh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E22-M2611">
+          <extent>
+              <charseq START="2867" END="2869">day</charseq>
+          </extent>
+          <head>
+              <charseq START="2867" END="2869">day</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bangladesh">
+              <charseq START="2871" END="2880">Bangladesh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E23-M2620">
+          <extent>
+              <charseq START="2964" END="3009">Pakistan (West and East Pakistan respectively)</charseq>
+          </extent>
+          <head>
+              <charseq START="2964" END="2971">Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pakistan">
+              <charseq START="2964" END="2971">Pakistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E24-M2622">
+          <extent>
+              <charseq START="2974" END="3008">West and East Pakistan respectively</charseq>
+          </extent>
+          <head>
+              <charseq START="2974" END="2995">West and East Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="West and East Pakistan">
+              <charseq START="2974" END="2995">West and East Pakistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E25-M2802">
+          <extent>
+              <charseq START="3168" END="3186">Muhammad Ali Jinnah</charseq>
+          </extent>
+          <head>
+              <charseq START="3168" END="3186">Muhammad Ali Jinnah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E25-M2803">
+          <extent>
+              <charseq START="3198" END="3230">the first prime minister of India</charseq>
+          </extent>
+          <head>
+              <charseq START="3214" END="3221">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E25-M3703">
+          <extent>
+              <charseq START="4379" END="4384">Jinnah</charseq>
+          </extent>
+          <head>
+              <charseq START="4379" END="4384">Jinnah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad Ali Jinnah">
+              <charseq START="3168" END="3186">Muhammad Ali Jinnah</charseq>
+          </name>
+          <name NAME="Jinnah">
+              <charseq START="4379" END="4384">Jinnah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E26-M2806">
+          <extent>
+              <charseq START="3237" END="3258">the Partition of India</charseq>
+          </extent>
+          <head>
+              <charseq START="3241" END="3249">Partition</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E26-M2905">
+          <extent>
+              <charseq START="3353" END="3364">both nations</charseq>
+          </extent>
+          <head>
+              <charseq START="3358" END="3364">nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Partition">
+              <charseq START="3241" END="3249">Partition</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E27-M3002">
+          <extent>
+              <charseq START="3385" END="3399">many dissidents</charseq>
+          </extent>
+          <head>
+              <charseq START="3390" END="3399">dissidents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E27-M3005">
+          <extent>
+              <charseq START="3423" END="3426">whom</charseq>
+          </extent>
+          <head>
+              <charseq START="3423" END="3426">whom</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E28-M3210">
+          <extent>
+              <charseq START="3743" END="3756">the holy Ganga</charseq>
+          </extent>
+          <head>
+              <charseq START="3752" END="3756">Ganga</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E28-M3211">
+          <extent>
+              <charseq START="3747" END="3750">holy</charseq>
+          </extent>
+          <head>
+              <charseq START="3747" END="3750">holy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ganga">
+              <charseq START="3752" END="3756">Ganga</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E29-M3310">
+          <extent>
+              <charseq START="3855" END="3891">the hymn &quot;Raghupati Raghava Raja Ram&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3865" END="3890">Raghupati Raghava Raja Ram</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raghupati Raghava Raja Ram">
+              <charseq START="3865" END="3890">Raghupati Raghava Raja Ram</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E30-M3308">
+          <extent>
+              <charseq START="3828" END="3833">actors</charseq>
+          </extent>
+          <head>
+              <charseq START="3828" END="3833">actors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E32-M3502">
+          <extent>
+              <charseq START="4074" END="4105">the major characters in the film</charseq>
+          </extent>
+          <head>
+              <charseq START="4084" END="4093">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E34-M3701">
+          <extent>
+              <charseq START="4332" END="4343">some critics</charseq>
+          </extent>
+          <head>
+              <charseq START="4337" END="4343">critics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E35-M4107">
+          <extent>
+              <charseq START="4907" END="4928">Guinness World Records</charseq>
+          </extent>
+          <head>
+              <charseq START="4907" END="4928">Guinness World Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guinness World Records">
+              <charseq START="4907" END="4928">Guinness World Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E36-M4100">
+          <extent>
+              <charseq START="4825" END="4838">400,000 extras</charseq>
+          </extent>
+          <head>
+              <charseq START="4833" END="4838">extras</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E37-M4308">
+          <extent>
+              <charseq START="5105" END="5112">Gujarati</charseq>
+          </extent>
+          <head>
+              <charseq START="5105" END="5112">Gujarati</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E37-M4306">
+          <extent>
+              <charseq START="5090" END="5099">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="5094" END="5099">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E37-M4302">
+          <extent>
+              <charseq START="5056" END="5058">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5056" END="5058">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E37-M4310">
+          <extent>
+              <charseq START="5118" END="5120">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5118" END="5120">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gujarati">
+              <charseq START="5105" END="5112">Gujarati</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E38-M4312">
+          <extent>
+              <charseq START="5136" END="5149">Krishna Bhanji</charseq>
+          </extent>
+          <head>
+              <charseq START="5136" END="5149">Krishna Bhanji</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Krishna Bhanji">
+              <charseq START="5136" END="5149">Krishna Bhanji</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E39-M4404">
+          <extent>
+              <charseq START="5187" END="5199">Dolly Thakore</charseq>
+          </extent>
+          <head>
+              <charseq START="5187" END="5199">Dolly Thakore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E39-M4405">
+          <extent>
+              <charseq START="5202" END="5299">an Indian theatre actress who later went on to be casting director in several British Indian films</charseq>
+          </extent>
+          <head>
+              <charseq START="5220" END="5226">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E39-M4400">
+          <extent>
+              <charseq START="5161" END="5181">director for the film</charseq>
+          </extent>
+          <head>
+              <charseq START="5161" END="5168">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E39-M4410">
+          <extent>
+              <charseq START="5260" END="5267">director</charseq>
+          </extent>
+          <head>
+              <charseq START="5260" END="5267">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E39-M4409">
+          <extent>
+              <charseq START="5228" END="5230">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5230">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dolly Thakore">
+              <charseq START="5187" END="5199">Dolly Thakore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E40-M4412" ROLE="GPE">
+          <extent>
+              <charseq START="5280" END="5293">British Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="5280" END="5293">British Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Indian">
+              <charseq START="5280" END="5293">British Indian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E41-M4503">
+          <extent>
+              <charseq START="5318" END="5349">Mahatma Gandhi
+Rohini Hattangadi</charseq>
+          </extent>
+          <head>
+              <charseq START="5318" END="5349">Mahatma Gandhi
+Rohini Hattangadi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mahatma Gandhi
+Rohini Hattangadi">
+              <charseq START="5318" END="5349">Mahatma Gandhi
+Rohini Hattangadi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E42-M4504">
+          <extent>
+              <charseq START="5354" END="5380">Kasturba Gandhi
+Roshan Seth</charseq>
+          </extent>
+          <head>
+              <charseq START="5354" END="5380">Kasturba Gandhi
+Roshan Seth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kasturba Gandhi
+Roshan Seth">
+              <charseq START="5354" END="5380">Kasturba Gandhi
+Roshan Seth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E43-M4505">
+          <extent>
+              <charseq START="5385" END="5421">Pandit Jawaharlal Nehru
+Saeed Jaffrey</charseq>
+          </extent>
+          <head>
+              <charseq START="5385" END="5421">Pandit Jawaharlal Nehru
+Saeed Jaffrey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E43-M5308">
+          <extent>
+              <charseq START="7038" END="7049">Pandit Nehru</charseq>
+          </extent>
+          <head>
+              <charseq START="7038" END="7049">Pandit Nehru</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pandit Jawaharlal Nehru
+Saeed Jaffrey">
+              <charseq START="5385" END="5421">Pandit Jawaharlal Nehru
+Saeed Jaffrey</charseq>
+          </name>
+          <name NAME="Pandit Nehru">
+              <charseq START="7038" END="7049">Pandit Nehru</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E44-M4506">
+          <extent>
+              <charseq START="5426" END="5464">Sardar Vallabhbhai Patel
+Candice Bergen</charseq>
+          </extent>
+          <head>
+              <charseq START="5426" END="5464">Sardar Vallabhbhai Patel
+Candice Bergen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sardar Vallabhbhai Patel
+Candice Bergen">
+              <charseq START="5426" END="5464">Sardar Vallabhbhai Patel
+Candice Bergen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E45-M4507">
+          <extent>
+              <charseq START="5469" END="5651">Margaret Bourke-White
+Edward Fox as Brigadier General Reginald Dyer
+John Gielgud as Baron Irwin
+Trevor Howard as Judge R. S. Broomfield, the presiding judge in Gandhi&apos;s sedition trial</charseq>
+          </extent>
+          <head>
+              <charseq START="5469" END="5500">Margaret Bourke-White
+Edward Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Margaret Bourke-White
+Edward Fox">
+              <charseq START="5469" END="5500">Margaret Bourke-White
+Edward Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E46-M4509">
+          <extent>
+              <charseq START="5505" END="5651">Brigadier General Reginald Dyer
+John Gielgud as Baron Irwin
+Trevor Howard as Judge R. S. Broomfield, the presiding judge in Gandhi&apos;s sedition trial</charseq>
+          </extent>
+          <head>
+              <charseq START="5523" END="5548">Reginald Dyer
+John Gielgud</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E46-M4512">
+          <extent>
+              <charseq START="5515" END="5521">General</charseq>
+          </extent>
+          <head>
+              <charseq START="5515" END="5521">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reginald Dyer
+John Gielgud">
+              <charseq START="5523" END="5548">Reginald Dyer
+John Gielgud</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E47-M4514">
+          <extent>
+              <charseq START="5553" END="5651">Baron Irwin
+Trevor Howard as Judge R. S. Broomfield, the presiding judge in Gandhi&apos;s sedition trial</charseq>
+          </extent>
+          <head>
+              <charseq START="5559" END="5577">Irwin
+Trevor Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E47-M4516">
+          <extent>
+              <charseq START="5553" END="5557">Baron</charseq>
+          </extent>
+          <head>
+              <charseq START="5553" END="5557">Baron</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Irwin
+Trevor Howard">
+              <charseq START="5559" END="5577">Irwin
+Trevor Howard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E48-M4519">
+          <extent>
+              <charseq START="5582" END="5603">Judge R. S. Broomfield</charseq>
+          </extent>
+          <head>
+              <charseq START="5588" END="5603">R. S. Broomfield</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E48-M4520">
+          <extent>
+              <charseq START="5582" END="5586">Judge</charseq>
+          </extent>
+          <head>
+              <charseq START="5582" END="5586">Judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E48-M4522">
+          <extent>
+              <charseq START="5606" END="5651">the presiding judge in Gandhi&apos;s sedition trial</charseq>
+          </extent>
+          <head>
+              <charseq START="5620" END="5624">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="R. S. Broomfield">
+              <charseq START="5588" END="5603">R. S. Broomfield</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E49-M4600">
+          <extent>
+              <charseq START="5654" END="5768">John Mills as  Lord Chelmsford
+Martin Sheen as Vince Walker, a fictional journalist based partially on Webb Miller.</charseq>
+          </extent>
+          <head>
+              <charseq START="5654" END="5663">John Mills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Mills">
+              <charseq START="5654" END="5663">John Mills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E50-M4602">
+          <extent>
+              <charseq START="5669" END="5767">Lord Chelmsford
+Martin Sheen as Vince Walker, a fictional journalist based partially on Webb Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="5669" END="5696">Lord Chelmsford
+Martin Sheen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lord Chelmsford
+Martin Sheen">
+              <charseq START="5669" END="5696">Lord Chelmsford
+Martin Sheen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E51-M4605">
+          <extent>
+              <charseq START="5701" END="5712">Vince Walker</charseq>
+          </extent>
+          <head>
+              <charseq START="5701" END="5712">Vince Walker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E51-M4606">
+          <extent>
+              <charseq START="5715" END="5767">a fictional journalist based partially on Webb Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="5727" END="5736">journalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vince Walker">
+              <charseq START="5701" END="5712">Vince Walker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E52-M4608">
+          <extent>
+              <charseq START="5757" END="5767">Webb Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="5757" END="5767">Webb Miller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Webb Miller">
+              <charseq START="5757" END="5767">Webb Miller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E53-M4701">
+          <extent>
+              <charseq START="5770" END="6489">Ian Charleson as Reverend Charles Freer Andrews
+Athol Fugard as General Jan Smuts
+Günther Maria Halmer as Dr. Herman Kallenbach
+Geraldine James as Mirabehn (Madeleine Slade)
+Alyque Padamsee as Muhammad Ali Jinnah
+Amrish Puri as Khan
+Dilsher Singh as Khan Abdul Ghaffar Khan(Frontier Gandhi)
+Ian Bannen as Senior Officer Fields
+Richard Griffiths as Collins
+Nigel Hawthorne as Kinnoch
+Michael Hordern as Sir George Hodge
+Shreeram Lagoo as Gopal Krishna Gokhale
+Om Puri as Nahari
+Daniel Day-Lewis as Colin, a young man who harasses Gandhi and Andrews
+Awards and honors
+Gandhi received eight Academy Awards:
+Gandhi won five BAFTAs at the British Academy Film Awards in 1983 including two awards for both Richard Attenborough</charseq>
+          </extent>
+          <head>
+              <charseq START="5770" END="5782">Ian Charleson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ian Charleson">
+              <charseq START="5770" END="5782">Ian Charleson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E54-M4706">
+          <extent>
+              <charseq START="5796" END="5829">Charles Freer Andrews
+Athol Fugard</charseq>
+          </extent>
+          <head>
+              <charseq START="5796" END="5829">Charles Freer Andrews
+Athol Fugard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charles Freer Andrews
+Athol Fugard">
+              <charseq START="5796" END="5829">Charles Freer Andrews
+Athol Fugard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E55-M4708">
+          <extent>
+              <charseq START="5842" END="5871">Jan Smuts
+Günther Maria Halmer</charseq>
+          </extent>
+          <head>
+              <charseq START="5842" END="5871">Jan Smuts
+Günther Maria Halmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jan Smuts
+Günther Maria Halmer">
+              <charseq START="5842" END="5871">Jan Smuts
+Günther Maria Halmer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E56-M4710">
+          <extent>
+              <charseq START="5880" END="5912">Herman Kallenbach
+Geraldine James</charseq>
+          </extent>
+          <head>
+              <charseq START="5880" END="5912">Herman Kallenbach
+Geraldine James</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Herman Kallenbach
+Geraldine James">
+              <charseq START="5880" END="5912">Herman Kallenbach
+Geraldine James</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E57-M4711">
+          <extent>
+              <charseq START="5917" END="5924">Mirabehn</charseq>
+          </extent>
+          <head>
+              <charseq START="5917" END="5924">Mirabehn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mirabehn">
+              <charseq START="5917" END="5924">Mirabehn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E58-M4712">
+          <extent>
+              <charseq START="5927" END="6070">Madeleine Slade)
+Alyque Padamsee as Muhammad Ali Jinnah
+Amrish Puri as Khan
+Dilsher Singh as Khan Abdul Ghaffar Khan(Frontier Gandhi)
+Ian Bannen</charseq>
+          </extent>
+          <head>
+              <charseq START="6061" END="6070">Ian Bannen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ian Bannen">
+              <charseq START="6061" END="6070">Ian Bannen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E59-M4713">
+          <extent>
+              <charseq START="5927" END="6059">Madeleine Slade)
+Alyque Padamsee as Muhammad Ali Jinnah
+Amrish Puri as Khan
+Dilsher Singh as Khan Abdul Ghaffar Khan(Frontier Gandhi)</charseq>
+          </extent>
+          <head>
+              <charseq START="5927" END="5958">Madeleine Slade)
+Alyque Padamsee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madeleine Slade)
+Alyque Padamsee">
+              <charseq START="5927" END="5958">Madeleine Slade)
+Alyque Padamsee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E60-M4716">
+          <extent>
+              <charseq START="5963" END="5993">Muhammad Ali Jinnah
+Amrish Puri</charseq>
+          </extent>
+          <head>
+              <charseq START="5963" END="5993">Muhammad Ali Jinnah
+Amrish Puri</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad Ali Jinnah
+Amrish Puri">
+              <charseq START="5963" END="5993">Muhammad Ali Jinnah
+Amrish Puri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E61-M4717">
+          <extent>
+              <charseq START="5998" END="6015">Khan
+Dilsher Singh</charseq>
+          </extent>
+          <head>
+              <charseq START="5998" END="6015">Khan
+Dilsher Singh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khan
+Dilsher Singh">
+              <charseq START="5998" END="6015">Khan
+Dilsher Singh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E62-M4718">
+          <extent>
+              <charseq START="6020" END="6042">Khan Abdul Ghaffar Khan</charseq>
+          </extent>
+          <head>
+              <charseq START="6020" END="6042">Khan Abdul Ghaffar Khan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khan Abdul Ghaffar Khan">
+              <charseq START="6020" END="6042">Khan Abdul Ghaffar Khan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E63-M4721">
+          <extent>
+              <charseq START="6075" END="6489">Senior Officer Fields
+Richard Griffiths as Collins
+Nigel Hawthorne as Kinnoch
+Michael Hordern as Sir George Hodge
+Shreeram Lagoo as Gopal Krishna Gokhale
+Om Puri as Nahari
+Daniel Day-Lewis as Colin, a young man who harasses Gandhi and Andrews
+Awards and honors
+Gandhi received eight Academy Awards:
+Gandhi won five BAFTAs at the British Academy Film Awards in 1983 including two awards for both Richard Attenborough</charseq>
+          </extent>
+          <head>
+              <charseq START="6090" END="6113">Fields
+Richard Griffiths</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fields
+Richard Griffiths">
+              <charseq START="6090" END="6113">Fields
+Richard Griffiths</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E64" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E64-M4726">
+          <extent>
+              <charseq START="6118" END="6140">Collins
+Nigel Hawthorne</charseq>
+          </extent>
+          <head>
+              <charseq START="6118" END="6140">Collins
+Nigel Hawthorne</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Collins
+Nigel Hawthorne">
+              <charseq START="6118" END="6140">Collins
+Nigel Hawthorne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E65-M4728">
+          <extent>
+              <charseq START="6153" END="6167">Michael Hordern</charseq>
+          </extent>
+          <head>
+              <charseq START="6153" END="6167">Michael Hordern</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Hordern">
+              <charseq START="6153" END="6167">Michael Hordern</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E66-M4730">
+          <extent>
+              <charseq START="6176" END="6202">George Hodge
+Shreeram Lagoo</charseq>
+          </extent>
+          <head>
+              <charseq START="6176" END="6202">George Hodge
+Shreeram Lagoo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Hodge
+Shreeram Lagoo">
+              <charseq START="6176" END="6202">George Hodge
+Shreeram Lagoo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E67-M4731">
+          <extent>
+              <charseq START="6207" END="6235">Gopal Krishna Gokhale
+Om Puri</charseq>
+          </extent>
+          <head>
+              <charseq START="6207" END="6235">Gopal Krishna Gokhale
+Om Puri</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gopal Krishna Gokhale
+Om Puri">
+              <charseq START="6207" END="6235">Gopal Krishna Gokhale
+Om Puri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E68-M4733">
+          <extent>
+              <charseq START="6247" END="6468">Daniel Day-Lewis as Colin, a young man who harasses Gandhi and Andrews
+Awards and honors
+Gandhi received eight Academy Awards:
+Gandhi won five BAFTAs at the British Academy Film Awards in 1983 including two awards for both</charseq>
+          </extent>
+          <head>
+              <charseq START="6247" END="6262">Daniel Day-Lewis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daniel Day-Lewis">
+              <charseq START="6247" END="6262">Daniel Day-Lewis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E69-M4736">
+          <extent>
+              <charseq START="6267" END="6271">Colin</charseq>
+          </extent>
+          <head>
+              <charseq START="6267" END="6271">Colin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E69-M4737">
+          <extent>
+              <charseq START="6274" END="6468">a young man who harasses Gandhi and Andrews
+Awards and honors
+Gandhi received eight Academy Awards:
+Gandhi won five BAFTAs at the British Academy Film Awards in 1983 including two awards for both</charseq>
+          </extent>
+          <head>
+              <charseq START="6282" END="6284">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E69-M4739">
+          <extent>
+              <charseq START="6286" END="6288">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6286" END="6288">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colin">
+              <charseq START="6267" END="6271">Colin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E70-M4742">
+          <extent>
+              <charseq START="6310" END="6323">Andrews
+Awards</charseq>
+          </extent>
+          <head>
+              <charseq START="6310" END="6323">Andrews
+Awards</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrews
+Awards">
+              <charseq START="6310" END="6323">Andrews
+Awards</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E71" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E71-M4750">
+          <extent>
+              <charseq START="6400" END="6438">the British Academy Film Awards in 1983</charseq>
+          </extent>
+          <head>
+              <charseq START="6404" END="6430">British Academy Film Awards</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Academy Film Awards">
+              <charseq START="6404" END="6430">British Academy Film Awards</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E72-M4803">
+          <extent>
+              <charseq START="6545" END="6568">National Board of Review</charseq>
+          </extent>
+          <head>
+              <charseq START="6545" END="6568">National Board of Review</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Board of Review">
+              <charseq START="6545" END="6568">National Board of Review</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E73" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E73-M5100">
+          <extent>
+              <charseq START="6660" END="6689">Others
+American Film Institute</charseq>
+          </extent>
+          <head>
+              <charseq START="6667" END="6689">American Film Institute</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E73-M5104">
+          <extent>
+              <charseq START="6708" END="6710">AFI</charseq>
+          </extent>
+          <head>
+              <charseq START="6708" END="6710">AFI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E73-M5101">
+          <extent>
+              <charseq START="6660" END="6665">Others</charseq>
+          </extent>
+          <head>
+              <charseq START="6660" END="6665">Others</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E73-M5209">
+          <extent>
+              <charseq START="6782" END="6784">AFI</charseq>
+          </extent>
+          <head>
+              <charseq START="6782" END="6784">AFI</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Film Institute">
+              <charseq START="6667" END="6689">American Film Institute</charseq>
+          </name>
+          <name NAME="AFI">
+              <charseq START="6708" END="6710">AFI</charseq>
+          </name>
+          <name NAME="AFI">
+              <charseq START="6782" END="6784">AFI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E74-M5301">
+          <extent>
+              <charseq START="6968" END="6981">Gabriel Pascal</charseq>
+          </extent>
+          <head>
+              <charseq START="6968" END="6981">Gabriel Pascal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E74-M5304">
+          <extent>
+              <charseq START="7009" END="7050">the Prime Minister of India (Pandit Nehru)</charseq>
+          </extent>
+          <head>
+              <charseq START="7019" END="7026">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E74-M5400">
+          <extent>
+              <charseq START="7097" END="7102">Pascal</charseq>
+          </extent>
+          <head>
+              <charseq START="7097" END="7102">Pascal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gabriel Pascal">
+              <charseq START="6968" END="6981">Gabriel Pascal</charseq>
+          </name>
+          <name NAME="Pascal">
+              <charseq START="7097" END="7102">Pascal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E75-M5501">
+          <extent>
+              <charseq START="7159" END="7168">David Lean</charseq>
+          </extent>
+          <head>
+              <charseq START="7159" END="7168">David Lean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Lean">
+              <charseq START="7159" END="7168">David Lean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E76" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E76-M5502">
+          <extent>
+              <charseq START="7174" END="7184">Sam Spiegel</charseq>
+          </extent>
+          <head>
+              <charseq START="7174" END="7184">Sam Spiegel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sam Spiegel">
+              <charseq START="7174" END="7184">Sam Spiegel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E77" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E77-M5508">
+          <extent>
+              <charseq START="7253" END="7273">the River Kwai (1957)</charseq>
+          </extent>
+          <head>
+              <charseq START="7257" END="7266">River Kwai</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="River Kwai">
+              <charseq START="7257" END="7266">River Kwai</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E78-M5512">
+          <extent>
+              <charseq START="7292" END="7304">Alec Guinness</charseq>
+          </extent>
+          <head>
+              <charseq START="7292" END="7304">Alec Guinness</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alec Guinness">
+              <charseq START="7292" END="7304">Alec Guinness</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E79" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E79-M5506">
+          <extent>
+              <charseq START="7239" END="7273">The Bridge on the River Kwai (1957)</charseq>
+          </extent>
+          <head>
+              <charseq START="7243" END="7248">Bridge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E80" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E80-M5603" ROLE="GPE">
+          <extent>
+              <charseq START="7368" END="7392">Lawrence of Arabia (1962)</charseq>
+          </extent>
+          <head>
+              <charseq START="7368" END="7385">Lawrence of Arabia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lawrence of Arabia">
+              <charseq START="7368" END="7385">Lawrence of Arabia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E81" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E81-M6000">
+          <extent>
+              <charseq START="7585" END="7608">Historian Lawrence James</charseq>
+          </extent>
+          <head>
+              <charseq START="7595" END="7608">Lawrence James</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E81-M6001">
+          <extent>
+              <charseq START="7585" END="7593">Historian</charseq>
+          </extent>
+          <head>
+              <charseq START="7585" END="7593">Historian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E81-M6003">
+          <extent>
+              <charseq START="7614" END="7669">one of the few who took a more negative view of the film</charseq>
+          </extent>
+          <head>
+              <charseq START="7614" END="7616">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E81-M6005">
+          <extent>
+              <charseq START="7621" END="7669">the few who took a more negative view of the film</charseq>
+          </extent>
+          <head>
+              <charseq START="7625" END="7627">few</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Gandhi_(film).sentences.sgm-E81-M6007">
+          <extent>
+              <charseq START="7629" END="7631">who</charseq>
+          </extent>
+          <head>
+              <charseq START="7629" END="7631">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lawrence James">
+              <charseq START="7595" END="7608">Lawrence James</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E82" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E82-M6107">
+          <extent>
+              <charseq START="7723" END="7757">Mohandas Karamchand Gandhi
+External</charseq>
+          </extent>
+          <head>
+              <charseq START="7723" END="7757">Mohandas Karamchand Gandhi
+External</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mohandas Karamchand Gandhi
+External">
+              <charseq START="7723" END="7757">Mohandas Karamchand Gandhi
+External</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E83" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Gandhi_(film).sentences.sgm-E83-M6136">
+          <extent>
+              <charseq START="7981" END="7985">BAFTA</charseq>
+          </extent>
+          <head>
+              <charseq START="7981" END="7985">BAFTA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BAFTA">
+              <charseq START="7981" END="7985">BAFTA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E84" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E84-M6120">
+          <extent>
+              <charseq START="7843" END="7971">Video from AmericanRhetoric.com
+Trailer of the movie
+Movie script
+Gallery of photos from the set of Gandhi
+Gandhi 25 Year Reunion</charseq>
+          </extent>
+          <head>
+              <charseq START="7909" END="7915">Gallery</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E85" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E85-M6123">
+          <extent>
+              <charseq START="7854" END="7894">AmericanRhetoric.com
+Trailer of the movie</charseq>
+          </extent>
+          <head>
+              <charseq START="7875" END="7881">Trailer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E86-M6137">
+          <extent>
+              <charseq START="7998" END="8035">cast and crew (3 December 2007)
+Gandhi</charseq>
+          </extent>
+          <head>
+              <charseq START="7998" END="8001">cast</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E86-M6139">
+          <extent>
+              <charseq START="7998" END="8001">cast</charseq>
+          </extent>
+          <head>
+              <charseq START="7998" END="8001">cast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Gandhi_(film).sentences.sgm-E87" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Gandhi_(film).sentences.sgm-E87-M6140">
+          <extent>
+              <charseq START="8007" END="8010">crew</charseq>
+          </extent>
+          <head>
+              <charseq START="8007" END="8010">crew</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T0" VAL="1982">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="42" END="45">1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T1" VAL="19-H1">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="192" END="225">the first half of the 20th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T2" VAL="1982-11-30">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="586" END="602">November 30, 1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T3" VAL="1948-01-30">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="794" END="809">January 30, 1948</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T4" VAL="TEV">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="835" END="844">an evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T5" VAL="TEV">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="890" END="900">his evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T6" VAL="P55Y">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1305" END="1312">55 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T7" VAL="1893">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1343" END="1346">1893</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T8" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1903" END="1905">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T9" VAL="P1D">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2859" END="2880">current day Bangladesh</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T10" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="3307" END="3315">last days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T11" VAL="1980-11-26">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="4766" END="4782">November 26, 1980</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T12" VAL="1981-05-10">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="4797" END="4808">May 10, 1981</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T13" VAL="1983">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="6435" END="6438">1983</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T14" VAL="1982">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="6638" END="6641">1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T15" VAL="1983">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="6654" END="6657">1983</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T16" VAL="2002">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="6703" END="6706">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T17" VAL="2003">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="6773" END="6780">#21
+2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T18" VAL="1952">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="6962" END="6965">1952</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T19" VAL="1954">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="7112" END="7115">1954</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T20" VAL="1957">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="7269" END="7272">1957</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T21" VAL="1962">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="7388" END="7391">1962</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T22" VAL="PXY">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="7444" END="7459">Many years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Gandhi_(film).sentences.sgm-V23" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="Gandhi_(film).sentences.sgm-V23-M1">
+            <extent>
+              <charseq START="7483" END="7485">85%</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Gandhi_(film).sentences.sgm-V24" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Gandhi_(film).sentences.sgm-V24-M1">
+            <extent>
+              <charseq START="7854" END="7873">AmericanRhetoric.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Gandhi_(film).sentences.sgm-T25" VAL="2007-12-03">
+        <timex2_mention ID="Gandhi_(film).sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="8013" END="8027">3 December 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R0-M400">
+          <extent>
+              <charseq START="509" END="548">production companies in India and the UK</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E7-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="509" END="548">production companies in India and the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M408" ROLE="Arg-2">
+            <extent>
+              <charseq START="533" END="537">India</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R1-M401">
+          <extent>
+              <charseq START="509" END="548">production companies in India and the UK</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E7-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="509" END="548">production companies in India and the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E1-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="543" END="548">the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E13" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R2-M1100">
+          <extent>
+              <charseq START="1184" END="1216">dignitaries from around the world</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E12-M1107" ROLE="Arg-1">
+            <extent>
+              <charseq START="1184" END="1216">dignitaries from around the world</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E13-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1208" END="1216">the world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R3-M1600">
+          <extent>
+              <charseq START="1897" END="1898">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M1606" ROLE="Arg-1">
+            <extent>
+              <charseq START="1897" END="1898">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M1605" ROLE="Arg-2">
+            <extent>
+              <charseq START="1891" END="1895">where</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R4-M2700">
+          <extent>
+              <charseq START="3044" END="3054">the Muslims</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E21-M2702" ROLE="Arg-1">
+            <extent>
+              <charseq START="3044" END="3054">the Muslims</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M2704" ROLE="Arg-2">
+            <extent>
+              <charseq START="3067" END="3084">a separate country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R5-M2800">
+          <extent>
+              <charseq START="3198" END="3230">the first prime minister of India</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E25-M2803" ROLE="Arg-1">
+            <extent>
+              <charseq START="3198" END="3230">the first prime minister of India</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M2805" ROLE="Arg-2">
+            <extent>
+              <charseq START="3226" END="3230">India</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R6-M4300">
+          <extent>
+              <charseq START="5090" END="5092">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E4-M4307" ROLE="Arg-1">
+            <extent>
+              <charseq START="5090" END="5092">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E37-M4306" ROLE="Arg-2">
+            <extent>
+              <charseq START="5090" END="5099">his father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Gandhi_(film).sentences.sgm-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Gandhi_(film).sentences.sgm-R7-M4400">
+          <extent>
+              <charseq START="5202" END="5299">an Indian theatre actress who later went on to be casting director in several British Indian films</charseq>
+          </extent>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E39-M4405" ROLE="Arg-1">
+            <extent>
+              <charseq START="5202" END="5299">an Indian theatre actress who later went on to be casting director in several British Indian films</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M4407" ROLE="Arg-2">
+            <extent>
+              <charseq START="5205" END="5210">Indian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Victim"/>
+      <event_argument REFID="Gandhi_(film).sentences.sgm-T3" ROLE="Time-Within"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV0-M601">
+          <extent>
+              <charseq START="777" END="789">assassination</charseq>
+          </extent>
+          <anchor>
+              <charseq START="777" END="789">assassination</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M617" ROLE="Victim">
+          <extent>
+              <charseq START="768" END="773">Gandhi</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Gandhi_(film).sentences.sgm-T3-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="794" END="809">January 30, 1948</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV1-M1000">
+          <extent>
+              <charseq START="1101" END="1104">dead</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1101" END="1104">dead</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV2" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Gandhi_(film).sentences.sgm-T7" ROLE="Time-Within"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV2-M1300">
+          <extent>
+              <charseq START="1359" END="1364">thrown</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1359" END="1364">thrown</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M1304" ROLE="Person">
+          <extent>
+              <charseq START="1349" END="1354">Gandhi</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Gandhi_(film).sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1343" END="1346">1893</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV3" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV3-M1400">
+          <extent>
+              <charseq START="1584" END="1590">protest</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1584" END="1590">protest</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV4-M1500">
+          <extent>
+              <charseq START="1663" END="1669">arrests</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1663" END="1669">arrests</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV5-M1700">
+          <extent>
+              <charseq START="1975" END="1979">fight</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1975" END="1979">fight</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E9" ROLE="Target"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV6-M1900">
+          <extent>
+              <charseq START="2198" END="2205">violence</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2198" END="2205">violence</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E9-M1906" ROLE="Target">
+          <extent>
+              <charseq START="2215" END="2228">the protesters</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV7-M2300">
+          <extent>
+              <charseq START="2617" END="2624">violence</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2617" END="2624">violence</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV8" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV8-M2401">
+          <extent>
+              <charseq START="2652" END="2657">strike</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2652" END="2657">strike</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV9-M2402">
+          <extent>
+              <charseq START="2693" END="2700">fighting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2693" END="2700">fighting</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV10-M2500">
+          <extent>
+              <charseq START="2713" END="2720">fighting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2713" END="2720">fighting</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E2" ROLE="Place"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV11-M2700">
+          <extent>
+              <charseq START="3087" END="3094">violence</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3087" END="3094">violence</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E2-M2704" ROLE="Place">
+          <extent>
+              <charseq START="3067" END="3084">a separate country</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Victim"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV12-M3001">
+          <extent>
+              <charseq START="3457" END="3467">assassinate</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3457" END="3467">assassinate</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M3006" ROLE="Victim">
+          <extent>
+              <charseq START="3469" END="3471">him</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV13" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E11" ROLE="Attacker"/>
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Target"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV13-M3100">
+          <extent>
+              <charseq START="3542" END="3547">shoots</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3542" END="3547">shoots</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E11-M3100" ROLE="Attacker">
+          <extent>
+              <charseq START="3536" END="3540">Godse</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M3101" ROLE="Target">
+          <extent>
+              <charseq START="3549" END="3554">Gandhi</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV14" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV14-M3901">
+          <extent>
+              <charseq START="4636" END="4642">protest</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4636" END="4642">protest</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-T11" ROLE="Time-Within"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV15-M4001">
+          <extent>
+              <charseq START="4748" END="4755">Shooting</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4748" END="4755">Shooting</charseq>
+          </anchor>
+          <event_mention_argument REFID="Gandhi_(film).sentences.sgm-T11-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4766" END="4782">November 26, 1980</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV16" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV16-M4300">
+          <extent>
+              <charseq START="5122" END="5126">birth</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5122" END="5126">birth</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV17" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Defendant"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV17-M4501">
+          <extent>
+              <charseq START="5647" END="5651">trial</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5647" END="5651">trial</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M4526" ROLE="Defendant">
+          <extent>
+              <charseq START="5629" END="5634">Gandhi</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV18" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E74" ROLE="Victim"/>
+      <event_argument REFID="Gandhi_(film).sentences.sgm-T19" ROLE="Time-Within"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV18-M5401">
+          <extent>
+              <charseq START="7104" END="7107">died</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7104" END="7107">died</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E74-M5400" ROLE="Victim">
+          <extent>
+              <charseq START="7097" END="7102">Pascal</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Gandhi_(film).sentences.sgm-T19-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="7112" END="7115">1954</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Gandhi_(film).sentences.sgm-EV19" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Gandhi_(film).sentences.sgm-E0" ROLE="Entity"/>
+      <event_argument REFID="Gandhi_(film).sentences.sgm-T25" ROLE="Time-Within"/>
+      <event_mention ID="Gandhi_(film).sentences.sgm-EV19-M6100">
+          <extent>
+              <charseq START="7965" END="7971">Reunion</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7965" END="7971">Reunion</charseq>
+          </anchor>
+        <event_mention_argument REFID="Gandhi_(film).sentences.sgm-E0-M6134" ROLE="Entity">
+          <extent>
+              <charseq START="7943" END="7955">Gandhi
+Gandhi</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Gandhi_(film).sentences.sgm-T25-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="8013" END="8027">3 December 2007</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

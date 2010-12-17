@@ -1,0 +1,3139 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Randy_Jackson.sentences.sgm">
+  <document DOCID="Randy_Jackson.sentences.sgm">
+
+    <entity ID="Randy_Jackson.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="30" END="73">Randall Darius &quot;Randy&quot; Jackson (born June 23</charseq>
+          </extent>
+          <head>
+              <charseq START="30" END="59">Randall Darius &quot;Randy&quot; Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M100">
+          <extent>
+              <charseq START="192" END="193">He</charseq>
+          </extent>
+          <head>
+              <charseq START="192" END="193">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M200">
+          <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="252" END="258">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M202">
+          <extent>
+              <charseq START="247" END="250">life</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="250">life</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M207">
+          <extent>
+              <charseq START="296" END="311">the son of Julia</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="302">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M300">
+          <extent>
+              <charseq START="364" END="365">He</charseq>
+          </extent>
+          <head>
+              <charseq START="364" END="365">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M402">
+          <extent>
+              <charseq START="391" END="393">His</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="393">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M604">
+          <extent>
+              <charseq START="645" END="651">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="645" END="651">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M904">
+          <extent>
+              <charseq START="948" END="954">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="948" END="954">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M1002">
+          <extent>
+              <charseq START="1028" END="1029">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1029">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M1100">
+          <extent>
+              <charseq START="1071" END="1077">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1071" END="1077">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M1200">
+          <extent>
+              <charseq START="1152" END="1153">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1153">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M1800">
+          <extent>
+              <charseq START="1831" END="1837">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1837">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M1801">
+          <extent>
+              <charseq START="1843" END="2042">the bass guitarist on the 1991 self-titled Divinyls album (which features the song &quot;I Touch Myself&quot;) as well as featured bassist on several tracks of Tracy Chapman&apos;s 1992 release, Matters of the Heart</charseq>
+          </extent>
+          <head>
+              <charseq START="1852" END="1860">guitarist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M1900">
+          <extent>
+              <charseq START="2045" END="2046">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2045" END="2046">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2001">
+          <extent>
+              <charseq START="2147" END="2153">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="2147" END="2153">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2100">
+          <extent>
+              <charseq START="2214" END="2220">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="2214" END="2220">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M2108">
+          <extent>
+              <charseq START="2335" END="2380">her musical director for a number of her tours</charseq>
+          </extent>
+          <head>
+              <charseq START="2347" END="2354">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2106">
+          <extent>
+              <charseq START="2323" END="2324">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2323" END="2324">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2115">
+          <extent>
+              <charseq START="2383" END="2384">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2383" END="2384">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2147">
+          <extent>
+              <charseq START="2624" END="2625">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2624" END="2625">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2151">
+          <extent>
+              <charseq START="2663" END="2665">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2663" END="2665">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2159">
+          <extent>
+              <charseq START="2721" END="2722">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2721" END="2722">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2200">
+          <extent>
+              <charseq START="2816" END="2822">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="2816" END="2822">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2302">
+          <extent>
+              <charseq START="2880" END="2882">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2880" END="2882">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2412">
+          <extent>
+              <charseq START="3334" END="3340">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3334" END="3340">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2500">
+          <extent>
+              <charseq START="3381" END="3382">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3381" END="3382">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2601">
+          <extent>
+              <charseq START="3563" END="3569">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3563" END="3569">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2602">
+          <extent>
+              <charseq START="3580" END="3761">one of the three panel judges on the Fox Network reality television series American Idol, along with Paula Abdul and Simon Cowell, and on Season 8 with the addition of Kara DioGuardi</charseq>
+          </extent>
+          <head>
+              <charseq START="3580" END="3582">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2700">
+          <extent>
+              <charseq START="3764" END="3784">Radio program
+Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3778" END="3784">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M2702">
+          <extent>
+              <charseq START="3770" END="3776">program</charseq>
+          </extent>
+          <head>
+              <charseq START="3770" END="3776">program</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2800">
+          <extent>
+              <charseq START="3896" END="3913">Every week Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3907" END="3913">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M2801">
+          <extent>
+              <charseq START="3902" END="3905">week</charseq>
+          </extent>
+          <head>
+              <charseq START="3902" END="3905">week</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E0-M2805">
+          <extent>
+              <charseq START="3927" END="3929">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3927" END="3929">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M2901">
+          <extent>
+              <charseq START="4079" END="4085">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4085">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M3100">
+          <extent>
+              <charseq START="4279" END="4285">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4279" END="4285">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E0-M3101">
+          <extent>
+              <charseq START="4290" END="4440">the manager for the Charlotte, North Carolina based band Papertongues, with Aswan North as lead vocalist and song writer and Brian West as the producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4294" END="4300">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M3204">
+          <extent>
+              <charseq START="4470" END="4476">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4470" END="4476">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E0-M3308">
+          <extent>
+              <charseq START="4609" END="4615">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4609" END="4615">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Randall Darius &quot;Randy&quot; Jackson">
+              <charseq START="30" END="59">Randall Darius &quot;Randy&quot; Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="252" END="258">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="645" END="651">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="948" END="954">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="1071" END="1077">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="1831" END="1837">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="2147" END="2153">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="2214" END="2220">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="2816" END="2822">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="3334" END="3340">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="3563" END="3569">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="3778" END="3784">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="3907" END="3913">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4079" END="4085">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4279" END="4285">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4470" END="4476">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4609" END="4615">Jackson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M6">
+          <extent>
+              <charseq START="108" END="115">American</charseq>
+          </extent>
+          <head>
+              <charseq START="108" END="115">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M105">
+          <extent>
+              <charseq START="223" END="230">American</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="230">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M805">
+          <extent>
+              <charseq START="839" END="846">American</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="846">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M2612" ROLE="GPE">
+          <extent>
+              <charseq START="3655" END="3662">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3655" END="3662">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M2814">
+          <extent>
+              <charseq START="4014" END="4021">American</charseq>
+          </extent>
+          <head>
+              <charseq START="4014" END="4021">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M2817">
+          <extent>
+              <charseq START="4033" END="4040">American</charseq>
+          </extent>
+          <head>
+              <charseq START="4033" END="4040">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E1-M3301">
+          <extent>
+              <charseq START="4520" END="4526">America</charseq>
+          </extent>
+          <head>
+              <charseq START="4520" END="4526">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="108" END="115">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="223" END="230">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="839" END="846">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3655" END="3662">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="4014" END="4021">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="4033" END="4040">American</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="4520" END="4526">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E2-M11">
+          <extent>
+              <charseq START="177" END="179">A&amp;R</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="179">A&amp;R</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E2-M2515">
+          <extent>
+              <charseq START="3531" END="3533">A&amp;R</charseq>
+          </extent>
+          <head>
+              <charseq START="3531" END="3533">A&amp;R</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="A&amp;R">
+              <charseq START="177" END="179">A&amp;R</charseq>
+          </name>
+          <name NAME="A&amp;R">
+              <charseq START="3531" END="3533">A&amp;R</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E3-M8">
+          <extent>
+              <charseq START="151" END="163">music manager</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="163">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E3-M10">
+          <extent>
+              <charseq START="170" END="189">former A&amp;R executive</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="189">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E3-M2502">
+          <extent>
+              <charseq START="3403" END="3414">an executive</charseq>
+          </extent>
+          <head>
+              <charseq START="3406" END="3414">executive</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E4-M104">
+          <extent>
+              <charseq START="223" END="235">American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="232" END="235">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E4-M804">
+          <extent>
+              <charseq START="839" END="851">American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="851">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E4-M2607">
+          <extent>
+              <charseq START="3613" END="3667">the Fox Network reality television series American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="3664" END="3667">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E4-M2604">
+          <extent>
+              <charseq START="3587" END="3761">the three panel judges on the Fox Network reality television series American Idol, along with Paula Abdul and Simon Cowell, and on Season 8 with the addition of Kara DioGuardi</charseq>
+          </extent>
+          <head>
+              <charseq START="3603" END="3608">judges</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E4-M2812">
+          <extent>
+              <charseq START="4014" END="4057">American Idol with American Idol Underground</charseq>
+          </extent>
+          <head>
+              <charseq START="4023" END="4026">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Idol">
+              <charseq START="232" END="235">Idol</charseq>
+          </name>
+          <name NAME="Idol">
+              <charseq START="848" END="851">Idol</charseq>
+          </name>
+          <name NAME="Idol">
+              <charseq START="3664" END="3667">Idol</charseq>
+          </name>
+          <name NAME="Idol">
+              <charseq START="4023" END="4026">Idol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E5-M102">
+          <extent>
+              <charseq START="212" END="235">a judge on American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="218">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E6-M205" ROLE="LOC">
+          <extent>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+          </extent>
+          <head>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baton Rouge">
+              <charseq START="272" END="282">Baton Rouge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E7-M206" ROLE="LOC">
+          <extent>
+              <charseq START="285" END="293">Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="285" END="293">Louisiana</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louisiana">
+              <charseq START="285" END="293">Louisiana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E8-M209">
+          <extent>
+              <charseq START="307" END="311">Julia</charseq>
+          </extent>
+          <head>
+              <charseq START="307" END="311">Julia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Julia">
+              <charseq START="307" END="311">Julia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E9-M211">
+          <extent>
+              <charseq START="331" END="344">Herman Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="344">Herman Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Herman Jackson">
+              <charseq START="331" END="344">Herman Jackson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E10-M210">
+          <extent>
+              <charseq START="314" END="324">a homemaker</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="324">homemaker</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E11-M212">
+          <extent>
+              <charseq START="347" END="361">a plant foreman</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="361">foreman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E12-M213">
+          <extent>
+              <charseq START="349" END="353">plant</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="353">plant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E13-M403">
+          <extent>
+              <charseq START="414" END="431">Elizabeth Jackson,</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="430">Elizabeth Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elizabeth Jackson">
+              <charseq START="414" END="430">Elizabeth Jackson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E14-M411">
+          <extent>
+              <charseq START="479" END="484">Taylor</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="484">Taylor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E14-M501">
+          <extent>
+              <charseq START="509" END="510">he</charseq>
+          </extent>
+          <head>
+              <charseq START="509" END="510">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E14-M505">
+          <extent>
+              <charseq START="555" END="556">he</charseq>
+          </extent>
+          <head>
+              <charseq START="555" END="556">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E14-M515">
+          <extent>
+              <charseq START="592" END="594">his</charseq>
+          </extent>
+          <head>
+              <charseq START="592" END="594">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E14-M700">
+          <extent>
+              <charseq START="708" END="709">He</charseq>
+          </extent>
+          <head>
+              <charseq START="708" END="709">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E14-M705">
+          <extent>
+              <charseq START="764" END="765">he</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="765">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taylor">
+              <charseq START="479" END="484">Taylor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E15-M409">
+          <extent>
+              <charseq START="468" END="494">one child (Taylor) together</charseq>
+          </extent>
+          <head>
+              <charseq START="472" END="476">child</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E16-M503">
+          <extent>
+              <charseq START="532" END="542">Erika Riker</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="542">Erika Riker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E16-M504">
+          <extent>
+              <charseq START="550" END="553">whom</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="553">whom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Erika Riker">
+              <charseq START="532" END="542">Erika Riker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E17-M510">
+          <extent>
+              <charseq START="575" END="586">Zoe (age 13)</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="577">Zoe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zoe">
+              <charseq START="575" END="577">Zoe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E18-M513">
+          <extent>
+              <charseq START="592" END="614">his son Jordan (age 11)</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="605">Jordan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E18-M516">
+          <extent>
+              <charseq START="596" END="598">son</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="598">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jordan">
+              <charseq START="600" END="605">Jordan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E19-M507">
+          <extent>
+              <charseq START="562" END="614">two children Zoe (age 13) and his son Jordan (age 11)</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="573">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E20-M800">
+          <extent>
+              <charseq START="788" END="801">===Religion===</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="801">===Religion===</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="===Religion===">
+              <charseq START="788" END="801">===Religion===</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E21-M807">
+          <extent>
+              <charseq START="861" END="864">Palo</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="864">Palo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Palo">
+              <charseq START="861" END="864">Palo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E22-M808">
+          <extent>
+              <charseq START="870" END="888">Las Reglas de Congo</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="888">Las Reglas de Congo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Las Reglas de Congo">
+              <charseq START="870" END="888">Las Reglas de Congo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E23-M902">
+          <extent>
+              <charseq START="934" END="945">the Bay Area</charseq>
+          </extent>
+          <head>
+              <charseq START="938" END="945">Bay Area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E23-M2406">
+          <extent>
+              <charseq START="3254" END="3279">the San Francisco Bay Area</charseq>
+          </extent>
+          <head>
+              <charseq START="3258" END="3279">San Francisco Bay Area</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bay Area">
+              <charseq START="938" END="945">Bay Area</charseq>
+          </name>
+          <name NAME="San Francisco Bay Area">
+              <charseq START="3258" END="3279">San Francisco Bay Area</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E24-M908">
+          <extent>
+              <charseq START="977" END="990">Carlos Santana</charseq>
+          </extent>
+          <head>
+              <charseq START="977" END="990">Carlos Santana</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E24-M1004">
+          <extent>
+              <charseq START="1035" END="1068">a member of the rock group Journey</charseq>
+          </extent>
+          <head>
+              <charseq START="1037" END="1042">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carlos Santana">
+              <charseq START="977" END="990">Carlos Santana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E25-M909">
+          <extent>
+              <charseq START="996" END="1007">Jerry Garcia</charseq>
+          </extent>
+          <head>
+              <charseq START="996" END="1007">Jerry Garcia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jerry Garcia">
+              <charseq START="996" END="1007">Jerry Garcia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E26-M905">
+          <extent>
+              <charseq START="966" END="1007">bands with Carlos Santana and Jerry Garcia</charseq>
+          </extent>
+          <head>
+              <charseq START="966" END="970">bands</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E26-M2104">
+          <extent>
+              <charseq START="2289" END="2293">bands</charseq>
+          </extent>
+          <head>
+              <charseq START="2289" END="2293">bands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E27-M1202" ROLE="LOC">
+          <extent>
+              <charseq START="1164" END="1168">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="1164" END="1168">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E27-M1207" ROLE="GPE">
+          <extent>
+              <charseq START="1214" END="1220">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="1214" END="1220">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="1164" END="1168">Italy</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="1214" END="1220">Italian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E28-M1206">
+          <extent>
+              <charseq START="1214" END="1238">Italian pop star Zucchero</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1238">Zucchero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E28-M1209">
+          <extent>
+              <charseq START="1226" END="1229">star</charseq>
+          </extent>
+          <head>
+              <charseq START="1226" END="1229">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E28-M1302">
+          <extent>
+              <charseq START="1253" END="1260">Zucchero</charseq>
+          </extent>
+          <head>
+              <charseq START="1253" END="1260">Zucchero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E28-M1318">
+          <extent>
+              <charseq START="1399" END="1406">Zucchero</charseq>
+          </extent>
+          <head>
+              <charseq START="1399" END="1406">Zucchero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E28-M1322">
+          <extent>
+              <charseq START="1441" END="1448">Zucchero</charseq>
+          </extent>
+          <head>
+              <charseq START="1441" END="1448">Zucchero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E28-M1324">
+          <extent>
+              <charseq START="1470" END="1472">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1472">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zucchero">
+              <charseq START="1231" END="1238">Zucchero</charseq>
+          </name>
+          <name NAME="Zucchero">
+              <charseq START="1253" END="1260">Zucchero</charseq>
+          </name>
+          <name NAME="Zucchero">
+              <charseq START="1399" END="1406">Zucchero</charseq>
+          </name>
+          <name NAME="Zucchero">
+              <charseq START="1441" END="1448">Zucchero</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E29" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M1303">
+          <extent>
+              <charseq START="1266" END="1287">the Randy Jackson Band</charseq>
+          </extent>
+          <head>
+              <charseq START="1270" END="1287">Randy Jackson Band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M1511">
+          <extent>
+              <charseq START="1691" END="1703">Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1691" END="1703">Randy Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E29-M1501">
+          <extent>
+              <charseq START="1614" END="1703">an all-star band which included Aretha Franklin on piano and lead vocals and Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1629">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E29-M1503">
+          <extent>
+              <charseq START="1631" END="1635">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1631" END="1635">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E29-M2117">
+          <extent>
+              <charseq START="2393" END="2429">her band at Live 8 in London in 2005)</charseq>
+          </extent>
+          <head>
+              <charseq START="2397" END="2400">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E29-M2202">
+          <extent>
+              <charseq START="2849" END="2877">Jean-Luc Ponty&apos;s backing band</charseq>
+          </extent>
+          <head>
+              <charseq START="2874" END="2877">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M2708">
+          <extent>
+              <charseq START="3832" END="3844">Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3832" END="3844">Randy Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M2908">
+          <extent>
+              <charseq START="4142" END="4154">Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4142" END="4154">Randy Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M3706">
+          <extent>
+              <charseq START="4866" END="4878">Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4866" END="4878">Randy Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E29-M3710">
+          <extent>
+              <charseq START="4900" END="4912">Randy Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4900" END="4912">Randy Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Randy Jackson Band">
+              <charseq START="1270" END="1287">Randy Jackson Band</charseq>
+          </name>
+          <name NAME="Randy Jackson">
+              <charseq START="1691" END="1703">Randy Jackson</charseq>
+          </name>
+          <name NAME="Randy Jackson">
+              <charseq START="3832" END="3844">Randy Jackson</charseq>
+          </name>
+          <name NAME="Randy Jackson">
+              <charseq START="4142" END="4154">Randy Jackson</charseq>
+          </name>
+          <name NAME="Randy Jackson">
+              <charseq START="4866" END="4878">Randy Jackson</charseq>
+          </name>
+          <name NAME="Randy Jackson">
+              <charseq START="4900" END="4912">Randy Jackson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E30-M1305">
+          <extent>
+              <charseq START="1306" END="1479">Corrado Rustici who played guitar with Randy on many albums in the early 80&apos;s and who became Zucchero&apos;s producer for 15 years creating Zucchero&apos;s biggest albums of his career</charseq>
+          </extent>
+          <head>
+              <charseq START="1306" END="1320">Corrado Rustici</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E30-M1316">
+          <extent>
+              <charseq START="1399" END="1430">Zucchero&apos;s producer for 15 years</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1417">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E30-M1307">
+          <extent>
+              <charseq START="1322" END="1324">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1322" END="1324">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E30-M1315">
+          <extent>
+              <charseq START="1388" END="1390">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1388" END="1390">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E30-M2415">
+          <extent>
+              <charseq START="3361" END="3370">a producer</charseq>
+          </extent>
+          <head>
+              <charseq START="3363" END="3370">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E30-M3120">
+          <extent>
+              <charseq START="4429" END="4440">the producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4433" END="4440">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Corrado Rustici">
+              <charseq START="1306" END="1320">Corrado Rustici</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E31-M1309">
+          <extent>
+              <charseq START="1345" END="1380">Randy on many albums in the early 80</charseq>
+          </extent>
+          <head>
+              <charseq START="1345" END="1349">Randy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E31-M1700">
+          <extent>
+              <charseq START="1792" END="1796">Randy</charseq>
+          </extent>
+          <head>
+              <charseq START="1792" END="1796">Randy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Randy">
+              <charseq START="1345" END="1349">Randy</charseq>
+          </name>
+          <name NAME="Randy">
+              <charseq START="1792" END="1796">Randy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E32-M1401">
+          <extent>
+              <charseq START="1491" END="1504">Keith Richards</charseq>
+          </extent>
+          <head>
+              <charseq START="1491" END="1504">Keith Richards</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E32-M1500">
+          <extent>
+              <charseq START="1595" END="1602">Richards</charseq>
+          </extent>
+          <head>
+              <charseq START="1595" END="1602">Richards</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keith Richards">
+              <charseq START="1491" END="1504">Keith Richards</charseq>
+          </name>
+          <name NAME="Richards">
+              <charseq START="1595" END="1602">Richards</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E33-M1405">
+          <extent>
+              <charseq START="1541" END="1555">Whoopi Goldberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1555">Whoopi Goldberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whoopi Goldberg">
+              <charseq START="1541" END="1555">Whoopi Goldberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E34" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E34-M1404">
+          <extent>
+              <charseq START="1537" END="1570">the Whoopi Goldberg comedy vehicle</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1570">vehicle</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E35-M1505">
+          <extent>
+              <charseq START="1646" END="1685">Aretha Franklin on piano and lead vocals</charseq>
+          </extent>
+          <head>
+              <charseq START="1646" END="1660">Aretha Franklin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E35-M1605">
+          <extent>
+              <charseq START="1755" END="1760">Aretha</charseq>
+          </extent>
+          <head>
+              <charseq START="1755" END="1760">Aretha</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E35-M2306">
+          <extent>
+              <charseq START="2938" END="2952">Aretha Franklin</charseq>
+          </extent>
+          <head>
+              <charseq START="2938" END="2952">Aretha Franklin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aretha Franklin">
+              <charseq START="1646" END="1660">Aretha Franklin</charseq>
+          </name>
+          <name NAME="Aretha">
+              <charseq START="1755" END="1760">Aretha</charseq>
+          </name>
+          <name NAME="Aretha Franklin">
+              <charseq START="2938" END="2952">Aretha Franklin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E36-M1819">
+          <extent>
+              <charseq START="1993" END="2005">Tracy Chapman</charseq>
+          </extent>
+          <head>
+              <charseq START="1993" END="2005">Tracy Chapman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tracy Chapman">
+              <charseq START="1993" END="2005">Tracy Chapman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E37-M1814">
+          <extent>
+              <charseq START="1955" END="2020">featured bassist on several tracks of Tracy Chapman&apos;s 1992 release</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1970">bassist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E37-M2149">
+          <extent>
+              <charseq START="2642" END="2655">former bassist</charseq>
+          </extent>
+          <head>
+              <charseq START="2649" END="2655">bassist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E39" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E39-M1908">
+          <extent>
+              <charseq START="2092" END="2101">Open Arms&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2097" END="2100">Arms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E40-M2004">
+          <extent>
+              <charseq START="2175" END="2191">Bruce Springsteen</charseq>
+          </extent>
+          <head>
+              <charseq START="2175" END="2191">Bruce Springsteen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E40-M2308">
+          <extent>
+              <charseq START="2969" END="2985">Bruce Springsteen</charseq>
+          </extent>
+          <head>
+              <charseq START="2969" END="2985">Bruce Springsteen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bruce Springsteen">
+              <charseq START="2175" END="2191">Bruce Springsteen</charseq>
+          </name>
+          <name NAME="Bruce Springsteen">
+              <charseq START="2969" END="2985">Bruce Springsteen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E41-M2105">
+          <extent>
+              <charseq START="2309" END="2320">Mariah Carey</charseq>
+          </extent>
+          <head>
+              <charseq START="2309" END="2320">Mariah Carey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E41-M2110">
+          <extent>
+              <charseq START="2335" END="2337">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2335" END="2337">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E41-M2114">
+          <extent>
+              <charseq START="2372" END="2374">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2372" END="2374">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E41-M2119">
+          <extent>
+              <charseq START="2393" END="2395">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2393" END="2395">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mariah Carey">
+              <charseq START="2309" END="2320">Mariah Carey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E42-M2123" ROLE="LOC">
+          <extent>
+              <charseq START="2415" END="2420">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2415" END="2420">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="2415" END="2420">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E43-M2126">
+          <extent>
+              <charseq START="2434" END="2439">*NSYNC</charseq>
+          </extent>
+          <head>
+              <charseq START="2434" END="2439">*NSYNC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="*NSYNC">
+              <charseq START="2434" END="2439">*NSYNC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E44-M2127">
+          <extent>
+              <charseq START="2442" END="2456">Whitney Houston</charseq>
+          </extent>
+          <head>
+              <charseq START="2442" END="2456">Whitney Houston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whitney Houston">
+              <charseq START="2442" END="2456">Whitney Houston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E45-M2130">
+          <extent>
+              <charseq START="2459" END="2483">(produced) Dionne Farris&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="2470" END="2482">Dionne Farris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dionne Farris">
+              <charseq START="2470" END="2482">Dionne Farris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E46-M2138">
+          <extent>
+              <charseq START="2541" END="2551">Céline Dion</charseq>
+          </extent>
+          <head>
+              <charseq START="2541" END="2551">Céline Dion</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E46-M2142">
+          <extent>
+              <charseq START="2577" END="2579">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2577" END="2579">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E46-M2164">
+          <extent>
+              <charseq START="2744" END="2746">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2744" END="2746">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Céline Dion">
+              <charseq START="2541" END="2551">Céline Dion</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E47-M2140">
+          <extent>
+              <charseq START="2554" END="2559">Fergie</charseq>
+          </extent>
+          <head>
+              <charseq START="2554" END="2559">Fergie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fergie">
+              <charseq START="2554" END="2559">Fergie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E48" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E48-M2143">
+          <extent>
+              <charseq START="2589" END="2599">Wild Orchid</charseq>
+          </extent>
+          <head>
+              <charseq START="2589" END="2599">Wild Orchid</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wild Orchid">
+              <charseq START="2589" END="2599">Wild Orchid</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E49-M2144">
+          <extent>
+              <charseq START="2603" END="2609">Stryper</charseq>
+          </extent>
+          <head>
+              <charseq START="2603" END="2609">Stryper</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stryper">
+              <charseq START="2603" END="2609">Stryper</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E50-M2145">
+          <extent>
+              <charseq START="2612" END="2705">Whitesnake (he took over when former bassist broke his arm for a couple shows in the late 80s)</charseq>
+          </extent>
+          <head>
+              <charseq START="2612" END="2621">Whitesnake</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Whitesnake">
+              <charseq START="2612" END="2621">Whitesnake</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E51-M2157">
+          <extent>
+              <charseq START="2712" END="2813">Madonna (he played some bass on her album &quot;Like a Prayer&quot; although not on the single of the same name)</charseq>
+          </extent>
+          <head>
+              <charseq START="2712" END="2718">Madonna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madonna">
+              <charseq START="2712" END="2718">Madonna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E52-M2101">
+          <extent>
+              <charseq START="2261" END="2380">many well-known artists and bands, ranging from Mariah Carey (he has been her musical director for a number of her tours</charseq>
+          </extent>
+          <head>
+              <charseq START="2277" END="2283">artists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E52-M2103">
+          <extent>
+              <charseq START="2261" END="2283">many well-known artists</charseq>
+          </extent>
+          <head>
+              <charseq START="2277" END="2283">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E53-M2203">
+          <extent>
+              <charseq START="2849" END="2862">Jean-Luc Ponty</charseq>
+          </extent>
+          <head>
+              <charseq START="2849" END="2862">Jean-Luc Ponty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jean-Luc Ponty">
+              <charseq START="2849" END="2862">Jean-Luc Ponty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E54-M2307">
+          <extent>
+              <charseq START="2955" END="2966">Roger Waters</charseq>
+          </extent>
+          <head>
+              <charseq START="2955" END="2966">Roger Waters</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Waters">
+              <charseq START="2955" END="2966">Roger Waters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E55" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E55-M2310">
+          <extent>
+              <charseq START="2997" END="3010">George Michael</charseq>
+          </extent>
+          <head>
+              <charseq START="2997" END="3010">George Michael</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Michael">
+              <charseq START="2997" END="3010">George Michael</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E56-M2311">
+          <extent>
+              <charseq START="3013" END="3038">Clarence &quot;Gatemouth&quot; Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="3013" END="3038">Clarence &quot;Gatemouth&quot; Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clarence &quot;Gatemouth&quot; Brown">
+              <charseq START="3013" END="3038">Clarence &quot;Gatemouth&quot; Brown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E57-M2312">
+          <extent>
+              <charseq START="3041" END="3052">Billy Cobham</charseq>
+          </extent>
+          <head>
+              <charseq START="3041" END="3052">Billy Cobham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Billy Cobham">
+              <charseq START="3041" END="3052">Billy Cobham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E58" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E58-M2316">
+          <extent>
+              <charseq START="3073" END="3086">Herbie Hancock</charseq>
+          </extent>
+          <head>
+              <charseq START="3073" END="3086">Herbie Hancock</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Herbie Hancock">
+              <charseq START="3073" END="3086">Herbie Hancock</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E59-M2317">
+          <extent>
+              <charseq START="3089" END="3100">Richard Marx</charseq>
+          </extent>
+          <head>
+              <charseq START="3089" END="3100">Richard Marx</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Randy_Jackson.sentences.sgm-E59-M2402">
+          <extent>
+              <charseq START="3219" END="3221">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3219" END="3221">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Marx">
+              <charseq START="3089" END="3100">Richard Marx</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E60-M2318">
+          <extent>
+              <charseq START="3103" END="3112">Billy Joel</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3112">Billy Joel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Billy Joel">
+              <charseq START="3103" END="3112">Billy Joel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E61-M2319">
+          <extent>
+              <charseq START="3115" END="3122">Bon Jovi</charseq>
+          </extent>
+          <head>
+              <charseq START="3115" END="3122">Bon Jovi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bon Jovi">
+              <charseq START="3115" END="3122">Bon Jovi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E62-M2320">
+          <extent>
+              <charseq START="3125" END="3138">Michael Bolton</charseq>
+          </extent>
+          <head>
+              <charseq START="3125" END="3138">Michael Bolton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Bolton">
+              <charseq START="3125" END="3138">Michael Bolton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E63-M2321">
+          <extent>
+              <charseq START="3145" END="3153">Bob Dylan</charseq>
+          </extent>
+          <head>
+              <charseq START="3145" END="3153">Bob Dylan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob Dylan">
+              <charseq START="3145" END="3153">Bob Dylan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E64" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E64-M2322">
+          <extent>
+              <charseq START="3169" END="3216">the Grand Ole Opry with The Charlie Daniels Band</charseq>
+          </extent>
+          <head>
+              <charseq START="3173" END="3186">Grand Ole Opry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grand Ole Opry">
+              <charseq START="3173" END="3186">Grand Ole Opry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E65-M2325">
+          <extent>
+              <charseq START="3193" END="3216">The Charlie Daniels Band</charseq>
+          </extent>
+          <head>
+              <charseq START="3197" END="3216">Charlie Daniels Band</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Daniels Band">
+              <charseq START="3197" END="3216">Charlie Daniels Band</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E66-M2410">
+          <extent>
+              <charseq START="3293" END="3306">Michael Walden</charseq>
+          </extent>
+          <head>
+              <charseq START="3293" END="3306">Michael Walden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Walden">
+              <charseq START="3293" END="3306">Michael Walden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E67-M2411">
+          <extent>
+              <charseq START="3312" END="3328">Walter Afanasieff</charseq>
+          </extent>
+          <head>
+              <charseq START="3312" END="3328">Walter Afanasieff</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walter Afanasieff">
+              <charseq START="3312" END="3328">Walter Afanasieff</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E68" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E68-M2513">
+          <extent>
+              <charseq START="3491" END="3506">Columbia Records</charseq>
+          </extent>
+          <head>
+              <charseq START="3491" END="3506">Columbia Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Columbia Records">
+              <charseq START="3491" END="3506">Columbia Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E69-M2516">
+          <extent>
+              <charseq START="3538" END="3548">MCA Records</charseq>
+          </extent>
+          <head>
+              <charseq START="3538" END="3548">MCA Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MCA Records">
+              <charseq START="3538" END="3548">MCA Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E70" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E70-M2504">
+          <extent>
+              <charseq START="3441" END="3521">vice president of artists and repertoire (A&amp;R) at Columbia Records and four years</charseq>
+          </extent>
+          <head>
+              <charseq START="3446" END="3454">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E71-M2507">
+          <extent>
+              <charseq START="3459" END="3486">artists and repertoire (A&amp;R)</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3465">artists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E71-M2509">
+          <extent>
+              <charseq START="3459" END="3465">artists</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3465">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E72-M2608">
+          <extent>
+              <charseq START="3617" END="3627">Fox Network</charseq>
+          </extent>
+          <head>
+              <charseq START="3617" END="3627">Fox Network</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox Network">
+              <charseq START="3617" END="3627">Fox Network</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E73" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E73-M2615">
+          <extent>
+              <charseq START="3681" END="3691">Paula Abdul</charseq>
+          </extent>
+          <head>
+              <charseq START="3681" END="3691">Paula Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E73-M3007">
+          <extent>
+              <charseq START="4266" END="4276">Paula Abdul</charseq>
+          </extent>
+          <head>
+              <charseq START="4266" END="4276">Paula Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paula Abdul">
+              <charseq START="3681" END="3691">Paula Abdul</charseq>
+          </name>
+          <name NAME="Paula Abdul">
+              <charseq START="4266" END="4276">Paula Abdul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E74-M2616">
+          <extent>
+              <charseq START="3697" END="3708">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="3697" END="3708">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Simon Cowell">
+              <charseq START="3697" END="3708">Simon Cowell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E75-M2622">
+          <extent>
+              <charseq START="3748" END="3761">Kara DioGuardi</charseq>
+          </extent>
+          <head>
+              <charseq START="3748" END="3761">Kara DioGuardi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kara DioGuardi">
+              <charseq START="3748" END="3761">Kara DioGuardi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E76" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E76-M2711">
+          <extent>
+              <charseq START="3882" END="3893">Westwood One</charseq>
+          </extent>
+          <head>
+              <charseq START="3882" END="3893">Westwood One</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E76-M3712">
+          <extent>
+              <charseq START="4930" END="4941">Westwood One</charseq>
+          </extent>
+          <head>
+              <charseq START="4930" END="4941">Westwood One</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Westwood One">
+              <charseq START="3882" END="3893">Westwood One</charseq>
+          </name>
+          <name NAME="Westwood One">
+              <charseq START="4930" END="4941">Westwood One</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E77-M2816">
+          <extent>
+              <charseq START="4033" END="4057">American Idol Underground</charseq>
+          </extent>
+          <head>
+              <charseq START="4042" END="4057">Idol Underground</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Idol Underground">
+              <charseq START="4042" END="4057">Idol Underground</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E78" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E78-M2907">
+          <extent>
+              <charseq START="4142" END="4167">Randy Jackson&apos;s Music Club</charseq>
+          </extent>
+          <head>
+              <charseq START="4158" END="4167">Music Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E78-M3707">
+          <extent>
+              <charseq START="4882" END="4891">Music Club</charseq>
+          </extent>
+          <head>
+              <charseq START="4882" END="4891">Music Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Music Club">
+              <charseq START="4158" END="4167">Music Club</charseq>
+          </name>
+          <name NAME="Music Club">
+              <charseq START="4882" END="4891">Music Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E79" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E79-M3104" ROLE="LOC">
+          <extent>
+              <charseq START="4306" END="4318">the Charlotte</charseq>
+          </extent>
+          <head>
+              <charseq START="4310" END="4318">Charlotte</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlotte">
+              <charseq START="4310" END="4318">Charlotte</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E80" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E80-M3108" ROLE="LOC">
+          <extent>
+              <charseq START="4321" END="4334">North Carolina</charseq>
+          </extent>
+          <head>
+              <charseq START="4321" END="4334">North Carolina</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North Carolina">
+              <charseq START="4321" END="4334">North Carolina</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E81" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E81-M3109">
+          <extent>
+              <charseq START="4347" END="4358">Papertongues</charseq>
+          </extent>
+          <head>
+              <charseq START="4347" END="4358">Papertongues</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E81-M3107">
+          <extent>
+              <charseq START="4321" END="4345">North Carolina based band</charseq>
+          </extent>
+          <head>
+              <charseq START="4342" END="4345">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E81-M3200">
+          <extent>
+              <charseq START="4443" END="4517">The band, with the help of Jackson, signed with a major label, A&amp;M&apos;s Octone</charseq>
+          </extent>
+          <head>
+              <charseq START="4447" END="4450">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Papertongues">
+              <charseq START="4347" END="4358">Papertongues</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E82" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E82-M3110">
+          <extent>
+              <charseq START="4366" END="4440">Aswan North as lead vocalist and song writer and Brian West as the producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4366" END="4376">Aswan North</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aswan North">
+              <charseq START="4366" END="4376">Aswan North</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E83-M3118">
+          <extent>
+              <charseq START="4415" END="4424">Brian West</charseq>
+          </extent>
+          <head>
+              <charseq START="4415" END="4424">Brian West</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian West">
+              <charseq START="4415" END="4424">Brian West</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E84-M3112">
+          <extent>
+              <charseq START="4381" END="4424">lead vocalist and song writer and Brian West</charseq>
+          </extent>
+          <head>
+              <charseq START="4386" END="4393">vocalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Randy_Jackson.sentences.sgm-E84-M3114">
+          <extent>
+              <charseq START="4386" END="4393">vocalist</charseq>
+          </extent>
+          <head>
+              <charseq START="4386" END="4393">vocalist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E85" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E85-M3206" ROLE="LOC">
+          <extent>
+              <charseq START="4506" END="4517">A&amp;M&apos;s Octone</charseq>
+          </extent>
+          <head>
+              <charseq START="4512" END="4517">Octone</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Octone">
+              <charseq START="4512" END="4517">Octone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E86" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E86-M3207">
+          <extent>
+              <charseq START="4506" END="4508">A&amp;M</charseq>
+          </extent>
+          <head>
+              <charseq START="4506" END="4508">A&amp;M</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="A&amp;M">
+              <charseq START="4506" END="4508">A&amp;M</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Randy_Jackson.sentences.sgm-E87" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E87-M3300">
+          <extent>
+              <charseq START="4520" END="4570">America&apos;s Best Dance Crew
+America&apos;s Best Dance Crew</charseq>
+          </extent>
+          <head>
+              <charseq START="4556" END="4570">Best Dance Crew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Randy_Jackson.sentences.sgm-E87-M3302">
+          <extent>
+              <charseq START="4530" END="4552">Best Dance Crew
+America</charseq>
+          </extent>
+          <head>
+              <charseq START="4530" END="4552">Best Dance Crew
+America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Best Dance Crew">
+              <charseq START="4556" END="4570">Best Dance Crew</charseq>
+          </name>
+          <name NAME="Best Dance Crew
+America">
+              <charseq START="4530" END="4552">Best Dance Crew
+America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T0" VAL="1956-06-23">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="67" END="79">June 23, 1956</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T1" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="170" END="175">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T2" VAL="1990">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="453" END="456">1990</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T3" VAL="1995">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="503" END="506">1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T4" VAL="2003">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="639" END="642">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T5" VAL="2008-02">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="723" END="735">February 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T6" VAL="2009">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="824" END="827">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T7" VAL="1986">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1015" END="1018">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T8" VAL="1987">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1023" END="1026">1987</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T9" VAL="1986">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1104" END="1107">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T10" VAL="198" MOD="END">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1173" END="1186">the late 1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T11" VAL="P15Y">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="1423" END="1430">15 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T12" VAL="1985">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="1485" END="1488">1985</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T13" VAL="1986">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="1764" END="1767">1986</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T14" VAL="1991">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="1869" END="1872">1991</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T15" VAL="1992">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="2009" END="2012">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T16" VAL="P1Y">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="2131" END="2144">That same year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T17" VAL="2005">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="2425" END="2428">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T18" VAL="PXD">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="2581" END="2584">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T19" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="2642" END="2647">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T20" VAL="198" MOD="END">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="2693" END="2704">the late 80s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T21" VAL="P8Y">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="3426" END="3436">eight years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T22" VAL="P4Y">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="3512" END="3521">four years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T23" VAL="2002">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="3557" END="3560">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T24" SET="YES">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="3896" END="3905">Every week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T25" VAL="2008-03-11">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="4063" END="4076">March 11, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T26" VAL="2008-02-07">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="4632" END="4647">February 7, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T27" VAL="2008-03-27">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="4668" END="4681">March 27, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T28" VAL="2008-06-07">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="4704" END="4715">June 7, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T29" VAL="2008-08-19">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="4731" END="4745">August 19, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Randy_Jackson.sentences.sgm-T30" VAL="2009-01-15">
+        <timex2_mention ID="Randy_Jackson.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="4793" END="4810">January 15th, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="170" END="189">former A&amp;R executive</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E3-M10" ROLE="Arg-1">
+            <extent>
+              <charseq START="170" END="189">former A&amp;R executive</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E2-M11" ROLE="Arg-2">
+            <extent>
+              <charseq START="177" END="179">A&amp;R</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="223" END="235">American Idol</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E4-M104" ROLE="Arg-1">
+            <extent>
+              <charseq START="223" END="235">American Idol</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E1-M105" ROLE="Arg-2">
+            <extent>
+              <charseq START="223" END="230">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R1-M800">
+          <extent>
+              <charseq START="839" END="851">American Idol</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E4-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="839" END="851">American Idol</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E1-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="839" END="846">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R2-M200">
+          <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E6-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R3-M201">
+          <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E7-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="285" END="293">Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E7" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R4-M202">
+          <extent>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E6-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E7-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="285" END="293">Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R5-M203">
+          <extent>
+              <charseq START="296" END="311">the son of Julia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="296" END="311">the son of Julia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E8-M209" ROLE="Arg-2">
+            <extent>
+              <charseq START="307" END="311">Julia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R6-M500">
+          <extent>
+              <charseq START="592" END="594">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E14-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="592" END="594">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E18-M516" ROLE="Arg-2">
+            <extent>
+              <charseq START="596" END="598">son</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E26" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R7-M900">
+          <extent>
+              <charseq START="977" END="990">Carlos Santana</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E24-M908" ROLE="Arg-1">
+            <extent>
+              <charseq START="977" END="990">Carlos Santana</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E26-M905" ROLE="Arg-2">
+            <extent>
+              <charseq START="966" END="1007">bands with Carlos Santana and Jerry Garcia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R8-M1200">
+          <extent>
+              <charseq START="1152" END="1153">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1152" END="1153">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E27-M1202" ROLE="Arg-2">
+            <extent>
+              <charseq START="1164" END="1168">Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E27" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R9-M1201">
+          <extent>
+              <charseq START="1226" END="1229">star</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E28-M1209" ROLE="Arg-1">
+            <extent>
+              <charseq START="1226" END="1229">star</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E27-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="1214" END="1220">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R10" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R10-M1300">
+          <extent>
+              <charseq START="1399" END="1406">Zucchero</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E28-M1318" ROLE="Arg-1">
+            <extent>
+              <charseq START="1399" END="1406">Zucchero</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E30-M1316" ROLE="Arg-2">
+            <extent>
+              <charseq START="1399" END="1430">Zucchero&apos;s producer for 15 years</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E34" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R11-M1400">
+          <extent>
+              <charseq START="1541" END="1555">Whoopi Goldberg</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E33-M1405" ROLE="Arg-1">
+            <extent>
+              <charseq START="1541" END="1555">Whoopi Goldberg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E34-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="1537" END="1570">the Whoopi Goldberg comedy vehicle</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R12-M1500">
+          <extent>
+              <charseq START="1646" END="1685">Aretha Franklin on piano and lead vocals</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E35-M1505" ROLE="Arg-1">
+            <extent>
+              <charseq START="1646" END="1685">Aretha Franklin on piano and lead vocals</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E29-M1503" ROLE="Arg-2">
+            <extent>
+              <charseq START="1631" END="1635">which</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R13" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R13-M2100">
+          <extent>
+              <charseq START="2335" END="2337">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E41-M2110" ROLE="Arg-1">
+            <extent>
+              <charseq START="2335" END="2337">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M2108" ROLE="Arg-2">
+            <extent>
+              <charseq START="2335" END="2380">her musical director for a number of her tours</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R14-M2101">
+          <extent>
+              <charseq START="2383" END="2384">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M2115" ROLE="Arg-1">
+            <extent>
+              <charseq START="2383" END="2384">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E29-M2117" ROLE="Arg-2">
+            <extent>
+              <charseq START="2393" END="2429">her band at Live 8 in London in 2005)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R15" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E70" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E68" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R15-M2500">
+          <extent>
+              <charseq START="3441" END="3521">vice president of artists and repertoire (A&amp;R) at Columbia Records and four years</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E70-M2504" ROLE="Arg-1">
+            <extent>
+              <charseq START="3441" END="3521">vice president of artists and repertoire (A&amp;R) at Columbia Records and four years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E68-M2513" ROLE="Arg-2">
+            <extent>
+              <charseq START="3491" END="3506">Columbia Records</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E77" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R16-M2800">
+          <extent>
+              <charseq START="4033" END="4057">American Idol Underground</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E77-M2816" ROLE="Arg-1">
+            <extent>
+              <charseq START="4033" END="4057">American Idol Underground</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E1-M2817" ROLE="Arg-2">
+            <extent>
+              <charseq START="4033" END="4040">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R17" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E78" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E29" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R17-M2900">
+          <extent>
+              <charseq START="4142" END="4167">Randy Jackson&apos;s Music Club</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E78-M2907" ROLE="Arg-1">
+            <extent>
+              <charseq START="4142" END="4167">Randy Jackson&apos;s Music Club</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E29-M2908" ROLE="Arg-2">
+            <extent>
+              <charseq START="4142" END="4154">Randy Jackson</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E81" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R18-M3100">
+          <extent>
+              <charseq START="4290" END="4440">the manager for the Charlotte, North Carolina based band Papertongues, with Aswan North as lead vocalist and song writer and Brian West as the producer</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M3101" ROLE="Arg-1">
+            <extent>
+              <charseq START="4290" END="4440">the manager for the Charlotte, North Carolina based band Papertongues, with Aswan North as lead vocalist and song writer and Brian West as the producer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E81-M3109" ROLE="Arg-2">
+            <extent>
+              <charseq START="4347" END="4358">Papertongues</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Randy_Jackson.sentences.sgm-R19" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E87" ROLE="Arg-1"/>
+      <relation_argument REFID="Randy_Jackson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Randy_Jackson.sentences.sgm-R19-M3300">
+          <extent>
+              <charseq START="4520" END="4570">America&apos;s Best Dance Crew
+America&apos;s Best Dance Crew</charseq>
+          </extent>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E87-M3300" ROLE="Arg-1">
+            <extent>
+              <charseq START="4520" END="4570">America&apos;s Best Dance Crew
+America&apos;s Best Dance Crew</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Randy_Jackson.sentences.sgm-E1-M3301" ROLE="Arg-2">
+            <extent>
+              <charseq START="4520" END="4526">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E6" ROLE="Place"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E7" ROLE="Place"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV0-M0">
+          <extent>
+              <charseq START="62" END="65">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="62" END="65">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="30" END="73">Randall Darius &quot;Randy&quot; Jackson (born June 23</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Randy_Jackson.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="67" END="79">June 23, 1956</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV0-M201">
+          <extent>
+              <charseq START="264" END="267">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="264" END="267">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M200" ROLE="Person">
+          <extent>
+              <charseq START="238" END="258">Personal life
+Jackson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E6-M205" ROLE="Place">
+          <extent>
+              <charseq START="272" END="282">Baton Rouge</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E7-M206" ROLE="Place">
+          <extent>
+              <charseq START="285" END="293">Louisiana</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E13" ROLE="Person"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV1-M300">
+          <extent>
+              <charseq START="376" END="382">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="376" END="382">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M300" ROLE="Person">
+          <extent>
+              <charseq START="364" END="365">He</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV1-M401">
+          <extent>
+              <charseq START="401" END="408">marriage</charseq>
+          </extent>
+          <anchor>
+              <charseq START="401" END="408">marriage</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M402" ROLE="Person">
+          <extent>
+              <charseq START="391" END="393">His</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E13-M403" ROLE="Person">
+          <extent>
+              <charseq START="414" END="431">Elizabeth Jackson,</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Divorce" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV2-M402">
+          <extent>
+              <charseq START="442" END="448">divorce</charseq>
+          </extent>
+          <anchor>
+              <charseq START="442" END="448">divorce</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV3" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E16" ROLE="Person"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E14" ROLE="Person"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV3-M501">
+          <extent>
+              <charseq START="521" END="527">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="521" END="527">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E16-M503" ROLE="Person">
+          <extent>
+              <charseq START="532" END="542">Erika Riker</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E14-M501" ROLE="Person">
+          <extent>
+              <charseq START="509" END="510">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E27" ROLE="Destination"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Artifact"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-T10" ROLE="Time-Within"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV4-M1201">
+          <extent>
+              <charseq START="1155" END="1159">moved</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1155" END="1159">moved</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E27-M1202" ROLE="Destination">
+          <extent>
+              <charseq START="1164" END="1168">Italy</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M1200" ROLE="Artifact">
+          <extent>
+              <charseq START="1152" END="1153">He</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Randy_Jackson.sentences.sgm-T10-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1173" END="1186">the late 1980s</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV5" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E36" ROLE="Person"/>
+      <event_argument REFID="Randy_Jackson.sentences.sgm-T15" ROLE="Time-Within"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV5-M1800">
+          <extent>
+              <charseq START="2014" END="2020">release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2014" END="2020">release</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E36-M1819" ROLE="Person">
+          <extent>
+              <charseq START="1993" END="2005">Tracy Chapman</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Randy_Jackson.sentences.sgm-T15-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2009" END="2012">1992</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Randy_Jackson.sentences.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Randy_Jackson.sentences.sgm-E0" ROLE="Victim"/>
+      <event_mention ID="Randy_Jackson.sentences.sgm-EV6-M2100">
+          <extent>
+              <charseq START="2657" END="2661">broke</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2657" END="2661">broke</charseq>
+          </anchor>
+        <event_mention_argument REFID="Randy_Jackson.sentences.sgm-E0-M2151" ROLE="Victim">
+          <extent>
+              <charseq START="2663" END="2665">his</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

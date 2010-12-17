@@ -1,0 +1,3339 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Samantha_Ronson.sentences.sgm">
+  <document DOCID="Samantha_Ronson.sentences.sgm">
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="32" END="67">Samantha Ronson (born 7 August 1977)</charseq>
+          </extent>
+          <head>
+              <charseq START="32" END="46">Samantha Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E0-M3">
+          <extent>
+              <charseq START="72" END="156">a female English singer-songwriter and disc jockey who currently lives in Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="121">jockey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E0-M6">
+          <extent>
+              <charseq START="123" END="125">who</charseq>
+          </extent>
+          <head>
+              <charseq START="123" END="125">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E0-M3407">
+          <extent>
+              <charseq START="4550" END="4557">Samantha</charseq>
+          </extent>
+          <head>
+              <charseq START="4550" END="4557">Samantha</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E0-M4021">
+          <extent>
+              <charseq START="5488" END="5495">Samantha</charseq>
+          </extent>
+          <head>
+              <charseq START="5488" END="5495">Samantha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Samantha Ronson">
+              <charseq START="32" END="46">Samantha Ronson</charseq>
+          </name>
+          <name NAME="Samantha">
+              <charseq START="4550" END="4557">Samantha</charseq>
+          </name>
+          <name NAME="Samantha">
+              <charseq START="5488" END="5495">Samantha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E1-M7" ROLE="LOC">
+          <extent>
+              <charseq START="146" END="156">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="156">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E1-M2605">
+          <extent>
+              <charseq START="3466" END="3483">Los Angeles County</charseq>
+          </extent>
+          <head>
+              <charseq START="3466" END="3483">Los Angeles County</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="146" END="156">Los Angeles</charseq>
+          </name>
+          <name NAME="Los Angeles County">
+              <charseq START="3466" END="3483">Los Angeles County</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E2-M105" ROLE="LOC">
+          <extent>
+              <charseq START="211" END="216">London</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="216">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="211" END="216">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E3-M110">
+          <extent>
+              <charseq START="252" END="267">Ann Dexter-Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="252" END="267">Ann Dexter-Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ann Dexter-Jones">
+              <charseq START="252" END="267">Ann Dexter-Jones</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M115">
+          <extent>
+              <charseq START="299" END="338">real estate entrepreneur Laurence Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="338">Laurence Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M117">
+          <extent>
+              <charseq START="311" END="322">entrepreneur</charseq>
+          </extent>
+          <head>
+              <charseq START="311" END="322">entrepreneur</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M300">
+          <extent>
+              <charseq START="481" END="486">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="486">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M306">
+          <extent>
+              <charseq START="555" END="659">the younger sister of music producer Mark Ronson and the twin sister of fashion designer Charlotte Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="567" END="572">sister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M313">
+          <extent>
+              <charseq START="608" END="659">the twin sister of fashion designer Charlotte Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="617" END="622">sister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M401">
+          <extent>
+              <charseq START="668" END="670">her</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="670">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M403">
+          <extent>
+              <charseq START="690" END="692">her</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="692">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M501">
+          <extent>
+              <charseq START="804" END="809">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="809">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M801">
+          <extent>
+              <charseq START="1077" END="1079">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1077" END="1079">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M900">
+          <extent>
+              <charseq START="1129" END="1134">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="1129" END="1134">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M904">
+          <extent>
+              <charseq START="1194" END="1196">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1194" END="1196">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M922">
+          <extent>
+              <charseq START="1370" END="1372">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1370" END="1372">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M1104">
+          <extent>
+              <charseq START="1573" END="1575">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1573" END="1575">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M1200">
+          <extent>
+              <charseq START="1591" END="1596">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="1591" END="1596">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M1309">
+          <extent>
+              <charseq START="1782" END="1784">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1782" END="1784">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M1400">
+          <extent>
+              <charseq START="1828" END="1833">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="1828" END="1833">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M1401">
+          <extent>
+              <charseq START="1838" END="1928">co-owner of the New York City nightclub The Plumm, along with actor Chris Noth among others</charseq>
+          </extent>
+          <head>
+              <charseq START="1838" END="1845">co-owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M1505">
+          <extent>
+              <charseq START="1983" END="1985">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1983" END="1985">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M1614">
+          <extent>
+              <charseq START="2140" END="2145">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="2140" END="2145">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M1608">
+          <extent>
+              <charseq START="2061" END="2063">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2061" END="2063">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M1800">
+          <extent>
+              <charseq START="2305" END="2310">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="2305" END="2310">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M1911">
+          <extent>
+              <charseq START="2559" END="2561">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2559" END="2561">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2010">
+          <extent>
+              <charseq START="2848" END="2853">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="2848" END="2853">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2100">
+          <extent>
+              <charseq START="2883" END="2888">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="2883" END="2888">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2310">
+          <extent>
+              <charseq START="3150" END="3155">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="3150" END="3155">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2319">
+          <extent>
+              <charseq START="3260" END="3265">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="3260" END="3265">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2402">
+          <extent>
+              <charseq START="3331" END="3336">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="3331" END="3336">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2601">
+          <extent>
+              <charseq START="3430" END="3435">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="3430" END="3435">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M2705">
+          <extent>
+              <charseq START="3683" END="3694">her attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="3687" END="3694">attorney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M2706">
+          <extent>
+              <charseq START="3683" END="3685">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3683" END="3685">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M2803">
+          <extent>
+              <charseq START="3758" END="3763">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="3758" END="3763">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M3202">
+          <extent>
+              <charseq START="4323" END="4328">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="4323" END="4328">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M3200">
+          <extent>
+              <charseq START="4291" END="4301">a paparazzo</charseq>
+          </extent>
+          <head>
+              <charseq START="4293" END="4301">paparazzo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M3726">
+          <extent>
+              <charseq START="5049" END="5054">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="5049" END="5054">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M3801">
+          <extent>
+              <charseq START="5226" END="5231">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="5226" END="5231">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E4-M3802">
+          <extent>
+              <charseq START="5249" END="5251">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5249" END="5251">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E4-M3800">
+          <extent>
+              <charseq START="5213" END="5223">a paparazzo</charseq>
+          </extent>
+          <head>
+              <charseq START="5215" END="5223">paparazzo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M4010">
+          <extent>
+              <charseq START="5389" END="5394">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="5389" END="5394">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M4204">
+          <extent>
+              <charseq START="5637" END="5642">Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="5637" END="5642">Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E4-M4718">
+          <extent>
+              <charseq START="6089" END="6255">Samantha Ronson - vocals, guitar
+Luke Sundquist - guitar
+Milo DeCruz - bass
+Clive Tucker - drums
+Past members
+Max Leroy - lead guitar
+Nigel Mogg - bass
+Mike Williams -</charseq>
+          </extent>
+          <head>
+              <charseq START="6089" END="6103">Samantha Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Laurence Ronson">
+              <charseq START="324" END="338">Laurence Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="481" END="486">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="804" END="809">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="1129" END="1134">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="1591" END="1596">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="1828" END="1833">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="2140" END="2145">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="2305" END="2310">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="2848" END="2853">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="2883" END="2888">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="3150" END="3155">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="3260" END="3265">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="3331" END="3336">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="3430" END="3435">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="3758" END="3763">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="4323" END="4328">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="5049" END="5054">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="5226" END="5231">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="5389" END="5394">Ronson</charseq>
+          </name>
+          <name NAME="Ronson">
+              <charseq START="5637" END="5642">Ronson</charseq>
+          </name>
+          <name NAME="Samantha Ronson">
+              <charseq START="6089" END="6103">Samantha Ronson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E5-M102">
+          <extent>
+              <charseq START="191" END="338">a wealthy family in London, the daughter of writer-socialite Ann Dexter-Jones and one-time band manager and real estate entrepreneur Laurence Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="206">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E6-M106">
+          <extent>
+              <charseq START="219" END="293">the daughter of writer-socialite Ann Dexter-Jones and one-time band manager</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="230">daughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E6-M201">
+          <extent>
+              <charseq START="341" END="343">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="343">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E6-M211">
+          <extent>
+              <charseq START="441" END="443">she</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="443">she</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E7-M203" ROLE="GPE">
+          <extent>
+              <charseq START="360" END="368">Ashkenazi</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="368">Ashkenazi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ashkenazi">
+              <charseq START="360" END="368">Ashkenazi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E8-M204">
+          <extent>
+              <charseq START="370" END="375">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="370" END="375">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish">
+              <charseq START="370" END="375">Jewish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E9-M208" ROLE="LOC">
+          <extent>
+              <charseq START="406" END="411">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="411">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="406" END="411">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E10-M209" ROLE="LOC">
+          <extent>
+              <charseq START="414" END="422">Lithuania</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="422">Lithuania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lithuania">
+              <charseq START="414" END="422">Lithuania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E11-M210" ROLE="LOC">
+          <extent>
+              <charseq START="428" END="434">Austria</charseq>
+          </extent>
+          <head>
+              <charseq START="428" END="434">Austria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austria">
+              <charseq START="428" END="434">Austria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E12-M200">
+          <extent>
+              <charseq START="341" END="351">Her parents</charseq>
+          </extent>
+          <head>
+              <charseq START="345" END="351">parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E12-M400">
+          <extent>
+              <charseq START="668" END="678">her parents</charseq>
+          </extent>
+          <head>
+              <charseq START="672" END="678">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E13-M205">
+          <extent>
+              <charseq START="391" END="434">ancestors from Russia, Lithuania and Austria</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="399">ancestors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E14-M304">
+          <extent>
+              <charseq START="514" END="528">Malcolm Rifkind</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="528">Malcolm Rifkind</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malcolm Rifkind">
+              <charseq START="514" END="528">Malcolm Rifkind</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E15-M305">
+          <extent>
+              <charseq START="534" END="545">Leon Brittan</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="545">Leon Brittan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leon Brittan">
+              <charseq START="534" END="545">Leon Brittan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E16-M309">
+          <extent>
+              <charseq START="577" END="602">music producer Mark Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="592" END="602">Mark Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E16-M311">
+          <extent>
+              <charseq START="583" END="590">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="590">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Ronson">
+              <charseq START="592" END="602">Mark Ronson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E17-M315">
+          <extent>
+              <charseq START="627" END="659">fashion designer Charlotte Ronson</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="659">Charlotte Ronson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E17-M317">
+          <extent>
+              <charseq START="635" END="642">designer</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="642">designer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlotte Ronson">
+              <charseq START="644" END="659">Charlotte Ronson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E18-M404">
+          <extent>
+              <charseq START="709" END="790">Foreigner guitarist Mick Jones, who contributed to a childhood surrounded by music</charseq>
+          </extent>
+          <head>
+              <charseq START="729" END="738">Mick Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E18-M407">
+          <extent>
+              <charseq START="719" END="727">guitarist</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="727">guitarist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E18-M409">
+          <extent>
+              <charseq START="741" END="743">who</charseq>
+          </extent>
+          <head>
+              <charseq START="741" END="743">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mick Jones">
+              <charseq START="729" END="738">Mick Jones</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E19-M406">
+          <extent>
+              <charseq START="709" END="717">Foreigner</charseq>
+          </extent>
+          <head>
+              <charseq START="709" END="717">Foreigner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E19-M402">
+          <extent>
+              <charseq START="690" END="699">her mother</charseq>
+          </extent>
+          <head>
+              <charseq START="694" END="699">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreigner">
+              <charseq START="709" END="717">Foreigner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E20-M505">
+          <extent>
+              <charseq START="836" END="848">the Low Lifes</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="848">Low Lifes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Low Lifes">
+              <charseq START="840" END="848">Low Lifes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E21" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E21-M502">
+          <extent>
+              <charseq START="818" END="848">a rap band called the Low Lifes</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="827">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E21-M4716">
+          <extent>
+              <charseq START="6060" END="6063">Band</charseq>
+          </extent>
+          <head>
+              <charseq START="6060" END="6063">Band</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Band">
+              <charseq START="6060" END="6063">Band</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E22-M605">
+          <extent>
+              <charseq START="879" END="881">MTV</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="881">MTV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV">
+              <charseq START="879" END="881">MTV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E23-M611">
+          <extent>
+              <charseq START="940" END="951">Times Square</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="951">Times Square</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Times Square">
+              <charseq START="940" END="951">Times Square</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E24-M609">
+          <extent>
+              <charseq START="915" END="935">the network&apos;s studios</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="935">studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E24-M610">
+          <extent>
+              <charseq START="915" END="925">the network</charseq>
+          </extent>
+          <head>
+              <charseq START="919" END="925">network</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E25-M703">
+          <extent>
+              <charseq START="980" END="991">Duncan Sheik</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="991">Duncan Sheik</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Duncan Sheik">
+              <charseq START="980" END="991">Duncan Sheik</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E26-M803">
+          <extent>
+              <charseq START="1092" END="1100">JC Chasez</charseq>
+          </extent>
+          <head>
+              <charseq START="1092" END="1100">JC Chasez</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E26-M805">
+          <extent>
+              <charseq START="1105" END="1107">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1107">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JC Chasez">
+              <charseq START="1092" END="1100">JC Chasez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E27-M806">
+          <extent>
+              <charseq START="1109" END="1121">Schizophrenic</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1121">Schizophrenic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Schizophrenic">
+              <charseq START="1109" END="1121">Schizophrenic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E28-M903">
+          <extent>
+              <charseq START="1172" END="1182">Roc-A-Fella</charseq>
+          </extent>
+          <head>
+              <charseq START="1172" END="1182">Roc-A-Fella</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E28-M1210">
+          <extent>
+              <charseq START="1676" END="1686">Roc-A-Fella</charseq>
+          </extent>
+          <head>
+              <charseq START="1676" END="1686">Roc-A-Fella</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roc-A-Fella">
+              <charseq START="1172" END="1182">Roc-A-Fella</charseq>
+          </name>
+          <name NAME="Roc-A-Fella">
+              <charseq START="1676" END="1686">Roc-A-Fella</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E29-M909">
+          <extent>
+              <charseq START="1282" END="1301">My Hair Out&quot;, &quot;Fool&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1297" END="1300">Fool</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E29-M4712">
+          <extent>
+              <charseq START="6047" END="6050">Fool</charseq>
+          </extent>
+          <head>
+              <charseq START="6047" END="6050">Fool</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M1008">
+          <extent>
+              <charseq START="1456" END="1468">Lindsay Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1468">Lindsay Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M1502">
+          <extent>
+              <charseq START="1956" END="1973">2007 Lindsay Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="1961" END="1973">Lindsay Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M2902">
+          <extent>
+              <charseq START="3838" END="3850">Lindsay Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="3838" END="3850">Lindsay Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M2908">
+          <extent>
+              <charseq START="3906" END="3926">actress Lindsay Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="3914" END="3926">Lindsay Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M2910">
+          <extent>
+              <charseq START="3929" END="3931">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3929" END="3931">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3100">
+          <extent>
+              <charseq START="4114" END="4118">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="4114" END="4118">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3104">
+          <extent>
+              <charseq START="4174" END="4178">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4174" END="4178">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3106">
+          <extent>
+              <charseq START="4210" END="4212">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4210" END="4212">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3107">
+          <extent>
+              <charseq START="4229" END="4231">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4229" END="4231">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3110">
+          <extent>
+              <charseq START="4248" END="4250">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4248" END="4250">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3303">
+          <extent>
+              <charseq START="4412" END="4416">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="4412" END="4416">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3304">
+          <extent>
+              <charseq START="4428" END="4430">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4428" END="4430">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3507">
+          <extent>
+              <charseq START="4661" END="4665">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="4661" END="4665">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3704">
+          <extent>
+              <charseq START="4826" END="4830">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="4826" END="4830">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3713">
+          <extent>
+              <charseq START="4883" END="4887">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="4883" END="4887">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3725">
+          <extent>
+              <charseq START="5039" END="5043">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5039" END="5043">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M3729">
+          <extent>
+              <charseq START="5091" END="5095">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5091" END="5095">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M3707">
+          <extent>
+              <charseq START="4862" END="4864">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4862" END="4864">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M4001">
+          <extent>
+              <charseq START="5280" END="5284">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5280" END="5284">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M4009">
+          <extent>
+              <charseq START="5355" END="5359">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5355" END="5359">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M4012">
+          <extent>
+              <charseq START="5424" END="5428">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5424" END="5428">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E31-M4028">
+          <extent>
+              <charseq START="5545" END="5560">a wonderful girl</charseq>
+          </extent>
+          <head>
+              <charseq START="5557" END="5560">girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4024">
+          <extent>
+              <charseq START="5521" END="5523">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5521" END="5523">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4026">
+          <extent>
+              <charseq START="5539" END="5541">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5539" END="5541">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4100">
+          <extent>
+              <charseq START="5565" END="5567">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5565" END="5567">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4106">
+          <extent>
+              <charseq START="5587" END="5589">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5587" END="5589">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M4200">
+          <extent>
+              <charseq START="5593" END="5597">Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5593" END="5597">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4203">
+          <extent>
+              <charseq START="5615" END="5617">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5615" END="5617">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4300">
+          <extent>
+              <charseq START="5700" END="5702">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5700" END="5702">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4306">
+          <extent>
+              <charseq START="5741" END="5743">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5741" END="5743">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4500">
+          <extent>
+              <charseq START="5838" END="5840">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5838" END="5840">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4505">
+          <extent>
+              <charseq START="5874" END="5876">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5874" END="5876">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E31-M4601">
+          <extent>
+              <charseq START="5902" END="5911">2009 Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5907" END="5911">Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E31-M4604">
+          <extent>
+              <charseq START="5928" END="5930">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5928" END="5930">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lindsay Lohan">
+              <charseq START="1456" END="1468">Lindsay Lohan</charseq>
+          </name>
+          <name NAME="Lindsay Lohan">
+              <charseq START="1961" END="1973">Lindsay Lohan</charseq>
+          </name>
+          <name NAME="Lindsay Lohan">
+              <charseq START="3838" END="3850">Lindsay Lohan</charseq>
+          </name>
+          <name NAME="Lindsay Lohan">
+              <charseq START="3914" END="3926">Lindsay Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="4114" END="4118">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="4412" END="4416">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="4661" END="4665">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="4826" END="4830">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="4883" END="4887">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5039" END="5043">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5091" END="5095">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5280" END="5284">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5355" END="5359">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5424" END="5428">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5593" END="5597">Lohan</charseq>
+          </name>
+          <name NAME="Lohan">
+              <charseq START="5907" END="5911">Lohan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E32-M1009">
+          <extent>
+              <charseq START="1474" END="1487">Rachel McAdams</charseq>
+          </extent>
+          <head>
+              <charseq START="1474" END="1487">Rachel McAdams</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rachel McAdams">
+              <charseq START="1474" END="1487">Rachel McAdams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E33-M1003">
+          <extent>
+              <charseq START="1426" END="1487">the movie Mean Girls starring Lindsay Lohan and Rachel McAdams</charseq>
+          </extent>
+          <head>
+              <charseq START="1441" END="1445">Girls</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E34-M1105">
+          <extent>
+              <charseq START="1577" END="1583">MySpace</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1583">MySpace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MySpace">
+              <charseq START="1577" END="1583">MySpace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E35-M1207">
+          <extent>
+              <charseq START="1661" END="1692">artists on the Roc-A-Fella label</charseq>
+          </extent>
+          <head>
+              <charseq START="1661" END="1667">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E36-M1303">
+          <extent>
+              <charseq START="1728" END="1735">MTV News</charseq>
+          </extent>
+          <head>
+              <charseq START="1728" END="1735">MTV News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV News">
+              <charseq START="1728" END="1735">MTV News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E37-M1406" ROLE="GPE">
+          <extent>
+              <charseq START="1854" END="1866">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1854" END="1866">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E37-M2403" ROLE="LOC">
+          <extent>
+              <charseq START="3341" END="3348">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="3341" END="3348">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York City">
+              <charseq START="1854" END="1866">New York City</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="3341" END="3348">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E38" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E38-M1407">
+          <extent>
+              <charseq START="1878" END="1886">The Plumm</charseq>
+          </extent>
+          <head>
+              <charseq START="1882" END="1886">Plumm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Plumm">
+              <charseq START="1882" END="1886">Plumm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E39-M1409">
+          <extent>
+              <charseq START="1900" END="1928">actor Chris Noth among others</charseq>
+          </extent>
+          <head>
+              <charseq START="1906" END="1915">Chris Noth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E39-M1411">
+          <extent>
+              <charseq START="1900" END="1904">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1900" END="1904">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Noth">
+              <charseq START="1906" END="1915">Chris Noth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E40" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E40-M1403">
+          <extent>
+              <charseq START="1850" END="1928">the New York City nightclub The Plumm, along with actor Chris Noth among others</charseq>
+          </extent>
+          <head>
+              <charseq START="1868" END="1876">nightclub</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E41-M1413">
+          <extent>
+              <charseq START="1923" END="1928">others</charseq>
+          </extent>
+          <head>
+              <charseq START="1923" END="1928">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E42-M1507">
+          <extent>
+              <charseq START="1987" END="2016">Mercedes-Benz in Beverly Hills</charseq>
+          </extent>
+          <head>
+              <charseq START="1987" END="1999">Mercedes-Benz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mercedes-Benz">
+              <charseq START="1987" END="1999">Mercedes-Benz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E43-M1509" ROLE="LOC">
+          <extent>
+              <charseq START="2004" END="2016">Beverly Hills</charseq>
+          </extent>
+          <head>
+              <charseq START="2004" END="2016">Beverly Hills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beverly Hills">
+              <charseq START="2004" END="2016">Beverly Hills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E44" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M1610">
+          <extent>
+              <charseq START="2081" END="2092">Perez Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2081" END="2092">Perez Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E44-M1612">
+          <extent>
+              <charseq START="2104" END="2106">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2104" END="2106">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E44-M1701">
+          <extent>
+              <charseq START="2227" END="2228">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2228">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M1808">
+          <extent>
+              <charseq START="2387" END="2398">Perez Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2387" END="2398">Perez Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M1914">
+          <extent>
+              <charseq START="2570" END="2581">Perez Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2570" END="2581">Perez Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E44-M1921">
+          <extent>
+              <charseq START="2666" END="2668">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2668">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2004">
+          <extent>
+              <charseq START="2760" END="2765">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2760" END="2765">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2008">
+          <extent>
+              <charseq START="2819" END="2824">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2819" END="2824">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E44-M2012">
+          <extent>
+              <charseq START="2867" END="2869">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2867" END="2869">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2102">
+          <extent>
+              <charseq START="2897" END="2902">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="2897" END="2902">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2312">
+          <extent>
+              <charseq START="3169" END="3174">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="3169" END="3174">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2317">
+          <extent>
+              <charseq START="3212" END="3217">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="3212" END="3217">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2321">
+          <extent>
+              <charseq START="3274" END="3279">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="3274" END="3279">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E44-M2611">
+          <extent>
+              <charseq START="3560" END="3565">Hilton</charseq>
+          </extent>
+          <head>
+              <charseq START="3560" END="3565">Hilton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E44-M4502">
+          <extent>
+              <charseq START="5844" END="5861">a wonderful person</charseq>
+          </extent>
+          <head>
+              <charseq START="5856" END="5861">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Perez Hilton">
+              <charseq START="2081" END="2092">Perez Hilton</charseq>
+          </name>
+          <name NAME="Perez Hilton">
+              <charseq START="2387" END="2398">Perez Hilton</charseq>
+          </name>
+          <name NAME="Perez Hilton">
+              <charseq START="2570" END="2581">Perez Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="2760" END="2765">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="2819" END="2824">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="2897" END="2902">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="3169" END="3174">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="3212" END="3217">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="3274" END="3279">Hilton</charseq>
+          </name>
+          <name NAME="Hilton">
+              <charseq START="3560" END="3565">Hilton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E45-M1600">
+          <extent>
+              <charseq START="2019" END="2079">Police found a small amount of cocaine in her car and blogger</charseq>
+          </extent>
+          <head>
+              <charseq START="2019" END="2024">Police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E46" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E46-M1607">
+          <extent>
+              <charseq START="2061" END="2067">her car</charseq>
+          </extent>
+          <head>
+              <charseq START="2065" END="2067">car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E47-M1609">
+          <extent>
+              <charseq START="2073" END="2079">blogger</charseq>
+          </extent>
+          <head>
+              <charseq START="2073" END="2079">blogger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E48-M1707">
+          <extent>
+              <charseq START="2290" END="2302">a &quot;lezbot dj&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2300" END="2301">dj</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M1801">
+          <extent>
+              <charseq START="2318" END="2330">Martin Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="2318" END="2330">Martin Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2000">
+          <extent>
+              <charseq START="2692" END="2697">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="2692" END="2697">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2202">
+          <extent>
+              <charseq START="2963" END="2968">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="2963" END="2968">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2204">
+          <extent>
+              <charseq START="2980" END="2982">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2980" END="2982">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2208">
+          <extent>
+              <charseq START="3035" END="3037">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3035" END="3037">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2300">
+          <extent>
+              <charseq START="3049" END="3054">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="3049" END="3054">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2303">
+          <extent>
+              <charseq START="3095" END="3096">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3095" END="3096">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2306">
+          <extent>
+              <charseq START="3109" END="3111">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3109" END="3111">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2308">
+          <extent>
+              <charseq START="3143" END="3144">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3143" END="3144">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2401">
+          <extent>
+              <charseq START="3319" END="3324">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="3319" END="3324">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2500">
+          <extent>
+              <charseq START="3394" END="3395">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3394" END="3395">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2603">
+          <extent>
+              <charseq START="3456" END="3461">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="3456" END="3461">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2608">
+          <extent>
+              <charseq START="3517" END="3519">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3517" END="3519">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E49-M2701">
+          <extent>
+              <charseq START="3644" END="3649">Garbus</charseq>
+          </extent>
+          <head>
+              <charseq START="3644" END="3649">Garbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2704">
+          <extent>
+              <charseq START="3669" END="3671">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3669" END="3671">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2707">
+          <extent>
+              <charseq START="3704" END="3705">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3704" END="3705">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2710">
+          <extent>
+              <charseq START="3733" END="3735">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3733" END="3735">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2805">
+          <extent>
+              <charseq START="3784" END="3785">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3784" END="3785">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E49-M2808">
+          <extent>
+              <charseq START="3810" END="3812">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3810" END="3812">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martin Garbus">
+              <charseq START="2318" END="2330">Martin Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="2692" END="2697">Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="2963" END="2968">Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="3049" END="3054">Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="3319" END="3324">Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="3456" END="3461">Garbus</charseq>
+          </name>
+          <name NAME="Garbus">
+              <charseq START="3644" END="3649">Garbus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E50-M1813">
+          <extent>
+              <charseq START="2447" END="2463">Celebrity Babylon</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2463">Celebrity Babylon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Celebrity Babylon">
+              <charseq START="2447" END="2463">Celebrity Babylon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E51-M1900">
+          <extent>
+              <charseq START="2466" END="2482">Celebrity Babylon</charseq>
+          </extent>
+          <head>
+              <charseq START="2476" END="2482">Babylon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E51-M1901">
+          <extent>
+              <charseq START="2466" END="2474">Celebrity</charseq>
+          </extent>
+          <head>
+              <charseq START="2466" END="2474">Celebrity</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Babylon">
+              <charseq START="2476" END="2482">Babylon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E52" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E52-M1912">
+          <extent>
+              <charseq START="2570" END="2609">Perez Hilton&apos;s lawyers on the other side</charseq>
+          </extent>
+          <head>
+              <charseq START="2585" END="2591">lawyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E53-M1916">
+          <extent>
+              <charseq START="2617" END="2625">the judge</charseq>
+          </extent>
+          <head>
+              <charseq START="2621" END="2625">judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E53-M2314">
+          <extent>
+              <charseq START="3193" END="3201">the judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3197" END="3201">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E54" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E54-M2604">
+          <extent>
+              <charseq START="3466" END="3498">Los Angeles County Superior Court</charseq>
+          </extent>
+          <head>
+              <charseq START="3485" END="3498">Superior Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Superior Court">
+              <charseq START="3485" END="3498">Superior Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E55" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E55-M2904">
+          <extent>
+              <charseq START="3861" END="3873">media outlets</charseq>
+          </extent>
+          <head>
+              <charseq START="3867" END="3873">outlets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E56-M3004">
+          <extent>
+              <charseq START="4013" END="4021">The Times</charseq>
+          </extent>
+          <head>
+              <charseq START="4013" END="4021">The Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Times">
+              <charseq START="4013" END="4021">The Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E57" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E57-M3005">
+          <extent>
+              <charseq START="4027" END="4043">Los Angeles Times</charseq>
+          </extent>
+          <head>
+              <charseq START="4027" END="4043">Los Angeles Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles Times">
+              <charseq START="4027" END="4043">Los Angeles Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E58" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E58-M3000">
+          <extent>
+              <charseq START="3983" END="4044">Several newspapers, including The Times and Los Angeles Times,</charseq>
+          </extent>
+          <head>
+              <charseq START="3991" END="4000">newspapers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E58-M3010">
+          <extent>
+              <charseq START="4082" END="4086">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4082" END="4086">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E59-M3105">
+          <extent>
+              <charseq START="4210" END="4222">her publicist</charseq>
+          </extent>
+          <head>
+              <charseq START="4214" END="4222">publicist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E61" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E61-M3308">
+          <extent>
+              <charseq START="4465" END="4501">the syndicated radio program Loveline</charseq>
+          </extent>
+          <head>
+              <charseq START="4494" END="4501">Loveline</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E61-M3310">
+          <extent>
+              <charseq START="4486" END="4492">program</charseq>
+          </extent>
+          <head>
+              <charseq START="4486" END="4492">program</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Loveline">
+              <charseq START="4494" END="4501">Loveline</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E62-M3401">
+          <extent>
+              <charseq START="4524" END="4533">DJ Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="4527" END="4533">Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E62-M3402">
+          <extent>
+              <charseq START="4524" END="4525">DJ</charseq>
+          </extent>
+          <head>
+              <charseq START="4524" END="4525">DJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E62-M3600">
+          <extent>
+              <charseq START="4712" END="4718">Stryker</charseq>
+          </extent>
+          <head>
+              <charseq START="4712" END="4718">Stryker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stryker">
+              <charseq START="4527" END="4533">Stryker</charseq>
+          </name>
+          <name NAME="Stryker">
+              <charseq START="4712" END="4718">Stryker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E63-M3603">
+          <extent>
+              <charseq START="4754" END="4761">you guys</charseq>
+          </extent>
+          <head>
+              <charseq START="4758" END="4761">guys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E64-M3720">
+          <extent>
+              <charseq START="5005" END="5024">Britain&apos;s Daily Mail</charseq>
+          </extent>
+          <head>
+              <charseq START="5015" END="5024">Daily Mail</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daily Mail">
+              <charseq START="5015" END="5024">Daily Mail</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E65" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E65-M3721">
+          <extent>
+              <charseq START="5005" END="5011">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="5005" END="5011">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="5005" END="5011">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E66" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E66-M3730">
+          <extent>
+              <charseq START="5114" END="5129">Access Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="5114" END="5129">Access Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Access Hollywood">
+              <charseq START="5114" END="5129">Access Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E67-M3702">
+          <extent>
+              <charseq START="4786" END="4813">a very lovely looking couple</charseq>
+          </extent>
+          <head>
+              <charseq START="4808" END="4813">couple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E67-M3732">
+          <extent>
+              <charseq START="5172" END="5175">They</charseq>
+          </extent>
+          <head>
+              <charseq START="5172" END="5175">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E68" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E68-M3711">
+          <extent>
+              <charseq START="4883" END="5088">Lohan&apos;s publicist originally stated that there was no confession; however, on October 14th, following a tabloid report by Britain&apos;s Daily Mail that claimed Lohan and Ronson&apos;s relationship was &quot;on the rocks&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="4891" END="4899">publicist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E68-M3728">
+          <extent>
+              <charseq START="5091" END="5107">Lohan&apos;s publicist</charseq>
+          </extent>
+          <head>
+              <charseq START="5099" END="5107">publicist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E69-M4000">
+          <extent>
+              <charseq START="5280" END="5307">Lohan&apos;s father Michael Lohan</charseq>
+          </extent>
+          <head>
+              <charseq START="5295" END="5307">Michael Lohan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E69-M4002">
+          <extent>
+              <charseq START="5288" END="5293">father</charseq>
+          </extent>
+          <head>
+              <charseq START="5288" END="5293">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E69-M4006">
+          <extent>
+              <charseq START="5336" END="5338">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5336" END="5338">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E69-M4016">
+          <extent>
+              <charseq START="5450" END="5452">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5450" END="5452">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Lohan">
+              <charseq START="5295" END="5307">Michael Lohan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E70" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E70-M4019">
+          <extent>
+              <charseq START="5468" END="5484">the New York Post</charseq>
+          </extent>
+          <head>
+              <charseq START="5472" END="5484">New York Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Post">
+              <charseq START="5472" END="5484">New York Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E71-M4209">
+          <extent>
+              <charseq START="5674" END="5679">Harper</charseq>
+          </extent>
+          <head>
+              <charseq START="5674" END="5679">Harper</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harper">
+              <charseq START="5674" END="5679">Harper</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E72-M4210">
+          <extent>
+              <charseq START="5683" END="5688">Bazaar</charseq>
+          </extent>
+          <head>
+              <charseq START="5683" END="5688">Bazaar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bazaar">
+              <charseq START="5683" END="5688">Bazaar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E73" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Samantha_Ronson.sentences.sgm-E73-M4406">
+          <extent>
+              <charseq START="5784" END="5833">anyone that it&apos;s been going on for quite some time</charseq>
+          </extent>
+          <head>
+              <charseq START="5784" END="5789">anyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E74-M4722">
+          <extent>
+              <charseq START="6115" END="6232">guitar
+Luke Sundquist - guitar
+Milo DeCruz - bass
+Clive Tucker - drums
+Past members
+Max Leroy - lead guitar
+Nigel Mogg</charseq>
+          </extent>
+          <head>
+              <charseq START="6122" END="6135">Luke Sundquist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luke Sundquist">
+              <charseq START="6122" END="6135">Luke Sundquist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E75" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E75-M4725">
+          <extent>
+              <charseq START="6139" END="6178">guitar
+Milo DeCruz - bass
+Clive Tucker -</charseq>
+          </extent>
+          <head>
+              <charseq START="6146" END="6156">Milo DeCruz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E75-M4727">
+          <extent>
+              <charseq START="6139" END="6144">guitar</charseq>
+          </extent>
+          <head>
+              <charseq START="6139" END="6144">guitar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Milo DeCruz">
+              <charseq START="6146" END="6156">Milo DeCruz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E76" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E76-M4729">
+          <extent>
+              <charseq START="6165" END="6176">Clive Tucker</charseq>
+          </extent>
+          <head>
+              <charseq START="6165" END="6176">Clive Tucker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clive Tucker">
+              <charseq START="6165" END="6176">Clive Tucker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E77" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E77-M4730">
+          <extent>
+              <charseq START="6186" END="6207">Past members
+Max Leroy</charseq>
+          </extent>
+          <head>
+              <charseq START="6199" END="6207">Max Leroy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E77-M4732">
+          <extent>
+              <charseq START="6191" END="6197">members</charseq>
+          </extent>
+          <head>
+              <charseq START="6191" END="6197">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E77-M4717">
+          <extent>
+              <charseq START="6081" END="6087">members</charseq>
+          </extent>
+          <head>
+              <charseq START="6081" END="6087">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Max Leroy">
+              <charseq START="6199" END="6207">Max Leroy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E78-M4734">
+          <extent>
+              <charseq START="6211" END="6232">lead guitar
+Nigel Mogg</charseq>
+          </extent>
+          <head>
+              <charseq START="6223" END="6232">Nigel Mogg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E78-M4735">
+          <extent>
+              <charseq START="6216" END="6221">guitar</charseq>
+          </extent>
+          <head>
+              <charseq START="6216" END="6221">guitar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nigel Mogg">
+              <charseq START="6223" END="6232">Nigel Mogg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E79-M4737">
+          <extent>
+              <charseq START="6236" END="6253">bass
+Mike Williams</charseq>
+          </extent>
+          <head>
+              <charseq START="6241" END="6253">Mike Williams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E79-M4738">
+          <extent>
+              <charseq START="6236" END="6239">bass</charseq>
+          </extent>
+          <head>
+              <charseq START="6236" END="6239">bass</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Williams">
+              <charseq START="6241" END="6253">Mike Williams</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Samantha_Ronson.sentences.sgm-E80-M4740">
+          <extent>
+              <charseq START="6263" END="6323">References
+External links
+DJ Samantha Ronson Official Booking</charseq>
+          </extent>
+          <head>
+              <charseq START="6292" END="6323">Samantha Ronson Official Booking</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E80-M4744">
+          <extent>
+              <charseq START="6289" END="6290">DJ</charseq>
+          </extent>
+          <head>
+              <charseq START="6289" END="6290">DJ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Samantha Ronson Official Booking">
+              <charseq START="6292" END="6323">Samantha Ronson Official Booking</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Samantha_Ronson.sentences.sgm-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Samantha_Ronson.sentences.sgm-E81-M4714">
+          <extent>
+              <charseq START="6060" END="6087">Band members
+Current members</charseq>
+          </extent>
+          <head>
+              <charseq START="6065" END="6071">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T0" VAL="1977-08-07">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="54" END="66">7 August 1977</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="127" END="135">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T2" VAL="P1Y">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="885" END="903">New Year&apos;s Eve 2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T3" VAL="2002">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="957" END="960">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T4" VAL="XXXX-SP">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1056" END="1065">the spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T5" VAL="2004">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1071" END="1074">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T6" VAL="2008-01">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1700" END="1711">January 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T7" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1799" END="1807">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T8" VAL="2007-05-26">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1948" END="1959">May 26, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T9" VAL="P2W">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="2211" END="2225">Two weeks later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V10" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V10-M1">
+            <extent>
+              <charseq START="2336" END="2339">$750</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T11" VAL="PT1H">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2341" END="2347">an hour</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V12-M1">
+            <extent>
+              <charseq START="3002" END="3008">$25,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T13" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="3026" END="3028">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V14" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V14-M1">
+            <extent>
+              <charseq START="3039" END="3046">$100,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V15" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V15-M1">
+            <extent>
+              <charseq START="3283" END="3289">$85,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T16" VAL="P2W">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3303" END="3317">Two weeks later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V17" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V17-M1">
+            <extent>
+              <charseq START="3354" END="3370">close to $142,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T18" VAL="XXXX-05">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3425" END="3427">May</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V19" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V19-M1">
+            <extent>
+              <charseq START="3603" END="3610">$300,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T20" VAL="2008">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="3855" END="3858">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T21" VAL="2008-09-22">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="4365" END="4381">22 September 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T22" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="4592" END="4594">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T23" VAL="P2Y">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4604" END="4612">two years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T24" VAL="P1Y">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4615" END="4622">one year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T25">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="4625" END="4647">five months, two months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T26" VAL="XXXX-10-14">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="4961" END="4972">October 14th</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T27" VAL="2008-09-24">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="5404" END="5421">September 24, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T28" VAL="2008-12">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="5647" END="5663">the December 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T29" VAL="2009-04-06">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="5893" END="5905">April 6, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T30" VAL="2004">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="6016" END="6019">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T31" VAL="2004">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="6040" END="6043">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Samantha_Ronson.sentences.sgm-T32" VAL="2000">
+        <timex2_mention ID="Samantha_Ronson.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="6054" END="6057">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Samantha_Ronson.sentences.sgm-V33" TYPE="Crime">
+        <value_mention ID="Samantha_Ronson.sentences.sgm-V33-M1">
+            <extent>
+              <charseq START="3354" END="3391">close to $142,000 in fees and services</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="123" END="125">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E0-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="123" END="125">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E1-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="146" END="156">Los Angeles</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R1-M100">
+          <extent>
+              <charseq START="191" END="338">a wealthy family in London, the daughter of writer-socialite Ann Dexter-Jones and one-time band manager and real estate entrepreneur Laurence Ronson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E5-M102" ROLE="Arg-1">
+            <extent>
+              <charseq START="191" END="338">a wealthy family in London, the daughter of writer-socialite Ann Dexter-Jones and one-time band manager and real estate entrepreneur Laurence Ronson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E2-M105" ROLE="Arg-2">
+            <extent>
+              <charseq START="211" END="216">London</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R2-M101">
+          <extent>
+              <charseq START="219" END="293">the daughter of writer-socialite Ann Dexter-Jones and one-time band manager</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E6-M106" ROLE="Arg-1">
+            <extent>
+              <charseq START="219" END="293">the daughter of writer-socialite Ann Dexter-Jones and one-time band manager</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E3-M110" ROLE="Arg-2">
+            <extent>
+              <charseq START="252" END="267">Ann Dexter-Jones</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E12" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R3-M200">
+          <extent>
+              <charseq START="341" END="343">Her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E6-M201" ROLE="Arg-1">
+            <extent>
+              <charseq START="341" END="343">Her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E12-M200" ROLE="Arg-2">
+            <extent>
+              <charseq START="341" END="351">Her parents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R4-M201">
+          <extent>
+              <charseq START="391" END="434">ancestors from Russia, Lithuania and Austria</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E13-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="391" END="434">ancestors from Russia, Lithuania and Austria</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E9-M208" ROLE="Arg-2">
+            <extent>
+              <charseq START="406" END="411">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E11" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R5-M202">
+          <extent>
+              <charseq START="391" END="434">ancestors from Russia, Lithuania and Austria</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E13-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="391" END="434">ancestors from Russia, Lithuania and Austria</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E11-M210" ROLE="Arg-2">
+            <extent>
+              <charseq START="428" END="434">Austria</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E19" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R6-M401">
+          <extent>
+              <charseq START="690" END="692">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="690" END="692">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E19-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="690" END="699">her mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R7-M500">
+          <extent>
+              <charseq START="804" END="809">Ronson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M501" ROLE="Arg-1">
+            <extent>
+              <charseq START="804" END="809">Ronson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E21-M502" ROLE="Arg-2">
+            <extent>
+              <charseq START="818" END="848">a rap band called the Low Lifes</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R8-M1400">
+          <extent>
+              <charseq START="1850" END="1928">the New York City nightclub The Plumm, along with actor Chris Noth among others</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E40-M1403" ROLE="Arg-1">
+            <extent>
+              <charseq START="1850" END="1928">the New York City nightclub The Plumm, along with actor Chris Noth among others</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E37-M1406" ROLE="Arg-2">
+            <extent>
+              <charseq START="1854" END="1866">New York City</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E43" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R9-M1500">
+          <extent>
+              <charseq START="1987" END="2016">Mercedes-Benz in Beverly Hills</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E42-M1507" ROLE="Arg-1">
+            <extent>
+              <charseq START="1987" END="2016">Mercedes-Benz in Beverly Hills</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E43-M1509" ROLE="Arg-2">
+            <extent>
+              <charseq START="2004" END="2016">Beverly Hills</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R10-M1600">
+          <extent>
+              <charseq START="2061" END="2063">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M1608" ROLE="Arg-1">
+            <extent>
+              <charseq START="2061" END="2063">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E46-M1607" ROLE="Arg-2">
+            <extent>
+              <charseq START="2061" END="2067">her car</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E52" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R11-M1900">
+          <extent>
+              <charseq START="2570" END="2581">Perez Hilton</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E44-M1914" ROLE="Arg-1">
+            <extent>
+              <charseq START="2570" END="2581">Perez Hilton</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E52-M1912" ROLE="Arg-2">
+            <extent>
+              <charseq START="2570" END="2609">Perez Hilton&apos;s lawyers on the other side</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R12" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E37" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R12-M2400">
+          <extent>
+              <charseq START="3331" END="3336">Ronson</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M2402" ROLE="Arg-1">
+            <extent>
+              <charseq START="3331" END="3336">Ronson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E37-M2403" ROLE="Arg-2">
+            <extent>
+              <charseq START="3341" END="3348">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R13" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E54" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R13-M2600">
+          <extent>
+              <charseq START="3456" END="3461">Garbus</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E49-M2603" ROLE="Arg-1">
+            <extent>
+              <charseq START="3456" END="3461">Garbus</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E54-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="3466" END="3498">Los Angeles County Superior Court</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R14" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E54" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E1" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R14-M2601">
+          <extent>
+              <charseq START="3466" END="3498">Los Angeles County Superior Court</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E54-M2604" ROLE="Arg-1">
+            <extent>
+              <charseq START="3466" END="3498">Los Angeles County Superior Court</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E1-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="3466" END="3483">Los Angeles County</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R15" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E59" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R15-M3100">
+          <extent>
+              <charseq START="4210" END="4212">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E31-M3106" ROLE="Arg-1">
+            <extent>
+              <charseq START="4210" END="4212">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E59-M3105" ROLE="Arg-2">
+            <extent>
+              <charseq START="4210" END="4222">her publicist</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E64" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E65" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R16-M3700">
+          <extent>
+              <charseq START="5005" END="5024">Britain&apos;s Daily Mail</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E64-M3720" ROLE="Arg-1">
+            <extent>
+              <charseq START="5005" END="5024">Britain&apos;s Daily Mail</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E65-M3721" ROLE="Arg-2">
+            <extent>
+              <charseq START="5005" END="5011">Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R17" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E69" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R17-M4000">
+          <extent>
+              <charseq START="5280" END="5284">Lohan</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E31-M4001" ROLE="Arg-1">
+            <extent>
+              <charseq START="5280" END="5284">Lohan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E69-M4002" ROLE="Arg-2">
+            <extent>
+              <charseq START="5288" END="5293">father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Samantha_Ronson.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E81" ROLE="Arg-1"/>
+      <relation_argument REFID="Samantha_Ronson.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Samantha_Ronson.sentences.sgm-R18-M4700">
+          <extent>
+              <charseq START="6060" END="6087">Band members
+Current members</charseq>
+          </extent>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E81-M4714" ROLE="Arg-1">
+            <extent>
+              <charseq START="6060" END="6087">Band members
+Current members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Samantha_Ronson.sentences.sgm-E21-M4716" ROLE="Arg-2">
+            <extent>
+              <charseq START="6060" END="6063">Band</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV0" TYPE="Life" SUBTYPE="Be-Born" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E0" ROLE="Person"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV0-M0">
+          <extent>
+              <charseq START="49" END="52">born</charseq>
+          </extent>
+          <anchor>
+              <charseq START="49" END="52">born</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E0-M0" ROLE="Person">
+          <extent>
+              <charseq START="32" END="67">Samantha Ronson (born 7 August 1977)</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="54" END="66">7 August 1977</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV1" TYPE="Life" SUBTYPE="Divorce" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E12" ROLE="Person"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV1-M402">
+          <extent>
+              <charseq START="680" END="687">divorced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="680" END="687">divorced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E12-M400" ROLE="Person">
+          <extent>
+              <charseq START="668" END="678">her parents</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV2" TYPE="Life" SUBTYPE="Marry" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E18" ROLE="Person"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E19" ROLE="Person"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV2-M403">
+          <extent>
+              <charseq START="701" END="707">married</charseq>
+          </extent>
+          <anchor>
+              <charseq START="701" END="707">married</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E18-M404" ROLE="Person">
+          <extent>
+              <charseq START="709" END="790">Foreigner guitarist Mick Jones, who contributed to a childhood surrounded by music</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E19-M402" ROLE="Person">
+          <extent>
+              <charseq START="690" END="699">her mother</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E49" ROLE="Person"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV3-M1801">
+          <extent>
+              <charseq START="2312" END="2316">hired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2312" END="2316">hired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E49-M1801" ROLE="Person">
+          <extent>
+              <charseq START="2318" END="2330">Martin Garbus</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV4" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E44" ROLE="Defendant"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV4-M1802">
+          <extent>
+              <charseq START="2374" END="2377">suit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2374" END="2377">suit</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E44-M1808" ROLE="Defendant">
+          <extent>
+              <charseq START="2387" END="2398">Perez Hilton</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV5-M1901">
+          <extent>
+              <charseq START="2655" END="2661">assault</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2655" END="2661">assault</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV6" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E49" ROLE="Defendant"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Defendant"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E44" ROLE="Defendant"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV6-M2301">
+          <extent>
+              <charseq START="3178" END="3184">hearing</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3178" END="3184">hearing</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E49-M2308" ROLE="Defendant">
+          <extent>
+              <charseq START="3143" END="3144">he</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M2310" ROLE="Defendant">
+          <extent>
+              <charseq START="3150" END="3155">Ronson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E44-M2312" ROLE="Defendant">
+          <extent>
+              <charseq START="3169" END="3174">Hilton</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV7" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Defendant"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E49" ROLE="Plaintiff"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E37" ROLE="Place"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-V33" ROLE="Crime"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV7-M2401">
+          <extent>
+              <charseq START="3326" END="3329">sued</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3326" END="3329">sued</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M2402" ROLE="Defendant">
+          <extent>
+              <charseq START="3331" END="3336">Ronson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E49-M2401" ROLE="Plaintiff">
+          <extent>
+              <charseq START="3319" END="3324">Garbus</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E37-M2403" ROLE="Place">
+          <extent>
+              <charseq START="3341" END="3348">New York</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-V33-M1" ROLE="Crime">
+            <extent>
+              <charseq START="3354" END="3391">close to $142,000 in fees and services</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Samantha_Ronson.sentences.sgm-EV8" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E4" ROLE="Plaintiff"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-E49" ROLE="Defendant"/>
+      <event_argument REFID="Samantha_Ronson.sentences.sgm-T18" ROLE="Time-Within"/>
+      <event_mention ID="Samantha_Ronson.sentences.sgm-EV8-M2601">
+          <extent>
+              <charseq START="3443" END="3446">suit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3443" END="3446">suit</charseq>
+          </anchor>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E4-M2601" ROLE="Plaintiff">
+          <extent>
+              <charseq START="3430" END="3435">Ronson</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-E49-M2603" ROLE="Defendant">
+          <extent>
+              <charseq START="3456" END="3461">Garbus</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Samantha_Ronson.sentences.sgm-T18-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="3425" END="3427">May</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

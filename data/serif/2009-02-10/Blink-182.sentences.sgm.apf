@@ -1,0 +1,4878 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Blink-182.sentences.sgm">
+  <document DOCID="Blink-182.sentences.sgm">
+
+    <entity ID="Blink-182.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M3" ROLE="GPE">
+          <extent>
+              <charseq START="43" END="50">American</charseq>
+          </extent>
+          <head>
+              <charseq START="43" END="50">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M202" ROLE="GPE">
+          <extent>
+              <charseq START="313" END="316">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="316">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M3903" ROLE="GPE">
+          <extent>
+              <charseq START="4396" END="4399">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="4396" END="4399">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M4005" ROLE="GPE">
+          <extent>
+              <charseq START="4525" END="4528">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="4525" END="4528">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M7417" ROLE="GPE">
+          <extent>
+              <charseq START="8640" END="8643">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="8640" END="8643">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E0-M8603" ROLE="LOC">
+          <extent>
+              <charseq START="9942" END="9958">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="9946" END="9958">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="43" END="50">American</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="313" END="316">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="4396" END="4399">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="4525" END="4528">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="8640" END="8643">U.S.</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="9946" END="9958">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E1-M6" ROLE="LOC">
+          <extent>
+              <charseq START="80" END="84">Poway</charseq>
+          </extent>
+          <head>
+              <charseq START="80" END="84">Poway</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Poway">
+              <charseq START="80" END="84">Poway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E2-M7">
+          <extent>
+              <charseq START="87" END="96">California</charseq>
+          </extent>
+          <head>
+              <charseq START="87" END="96">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E2-M3607" ROLE="LOC">
+          <extent>
+              <charseq START="4042" END="4051">California</charseq>
+          </extent>
+          <head>
+              <charseq START="4042" END="4051">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E2-M5924" ROLE="GPE">
+          <extent>
+              <charseq START="6898" END="6906">the State</charseq>
+          </extent>
+          <head>
+              <charseq START="6902" END="6906">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="87" END="96">California</charseq>
+          </name>
+          <name NAME="California">
+              <charseq START="4042" END="4051">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1">
+          <extent>
+              <charseq START="40" END="84">an American rock trio formed in 1992 in Poway</charseq>
+          </extent>
+          <head>
+              <charseq START="57" END="60">trio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M100">
+          <extent>
+              <charseq START="139" END="175">The band, then known simply as Blink,</charseq>
+          </extent>
+          <head>
+              <charseq START="143" END="146">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M301">
+          <extent>
+              <charseq START="376" END="384">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="384">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M609">
+          <extent>
+              <charseq START="688" END="695">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="695">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M703">
+          <extent>
+              <charseq START="783" END="787">their</charseq>
+          </extent>
+          <head>
+              <charseq START="783" END="787">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M709">
+          <extent>
+              <charseq START="858" END="862">their</charseq>
+          </extent>
+          <head>
+              <charseq START="858" END="862">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1001">
+          <extent>
+              <charseq START="1263" END="1268">a band</charseq>
+          </extent>
+          <head>
+              <charseq START="1265" END="1268">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1012">
+          <extent>
+              <charseq START="1362" END="1367">a band</charseq>
+          </extent>
+          <head>
+              <charseq START="1364" END="1367">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1304">
+          <extent>
+              <charseq START="1628" END="1633">a band</charseq>
+          </extent>
+          <head>
+              <charseq START="1630" END="1633">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1500">
+          <extent>
+              <charseq START="1849" END="1856">The band</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1856">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1607">
+          <extent>
+              <charseq START="1953" END="1960">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="1957" END="1960">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1612">
+          <extent>
+              <charseq START="1982" END="1989">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="1986" END="1989">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M1901">
+          <extent>
+              <charseq START="2237" END="2244">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="2241" END="2244">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M1904">
+          <extent>
+              <charseq START="2255" END="2259">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2255" END="2259">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M2201">
+          <extent>
+              <charseq START="2509" END="2516">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="2513" END="2516">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M2311">
+          <extent>
+              <charseq START="2738" END="2745">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="2742" END="2745">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M2605">
+          <extent>
+              <charseq START="3082" END="3089">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="3086" END="3089">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M2608">
+          <extent>
+              <charseq START="3128" END="3132">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3128" END="3132">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3003">
+          <extent>
+              <charseq START="3479" END="3486">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="3483" END="3486">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3006">
+          <extent>
+              <charseq START="3524" END="3557">an Irish pop band of the same name</charseq>
+          </extent>
+          <head>
+              <charseq START="3537" END="3540">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3102">
+          <extent>
+              <charseq START="3589" END="3596">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="3593" END="3596">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M3108">
+          <extent>
+              <charseq START="3627" END="3631">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3627" END="3631">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3301">
+          <extent>
+              <charseq START="3837" END="3844">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="3841" END="3844">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M3401">
+          <extent>
+              <charseq START="3916" END="3919">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3916" END="3919">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3608">
+          <extent>
+              <charseq START="4054" END="4061">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="4058" END="4061">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M3905">
+          <extent>
+              <charseq START="4425" END="4432">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="4429" END="4432">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M4010">
+          <extent>
+              <charseq START="4570" END="4577">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="4574" END="4577">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M4405">
+          <extent>
+              <charseq START="5140" END="5147">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="5144" END="5147">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M4620">
+          <extent>
+              <charseq START="5331" END="5338">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="5335" END="5338">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M4701">
+          <extent>
+              <charseq START="5390" END="5397">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="5394" END="5397">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M4909">
+          <extent>
+              <charseq START="5645" END="5652">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="5649" END="5652">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M5301">
+          <extent>
+              <charseq START="6050" END="6057">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="6054" END="6057">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M5401">
+          <extent>
+              <charseq START="6161" END="6168">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="6165" END="6168">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M5507">
+          <extent>
+              <charseq START="6368" END="6372">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6368" END="6372">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M5511">
+          <extent>
+              <charseq START="6415" END="6419">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6415" END="6419">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M5908">
+          <extent>
+              <charseq START="6753" END="6760">The band</charseq>
+          </extent>
+          <head>
+              <charseq START="6757" END="6760">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M5922">
+          <extent>
+              <charseq START="6870" END="6874">their</charseq>
+          </extent>
+          <head>
+              <charseq START="6870" END="6874">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M6701">
+          <extent>
+              <charseq START="7513" END="7520">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="7517" END="7520">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M7203">
+          <extent>
+              <charseq START="8245" END="8252">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="8249" END="8252">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M7504">
+          <extent>
+              <charseq START="8779" END="8786">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="8783" END="8786">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M7602">
+          <extent>
+              <charseq START="8839" END="8846">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="8843" END="8846">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M7703">
+          <extent>
+              <charseq START="9034" END="9038">their</charseq>
+          </extent>
+          <head>
+              <charseq START="9034" END="9038">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M7714">
+          <extent>
+              <charseq START="9114" END="9118">their</charseq>
+          </extent>
+          <head>
+              <charseq START="9114" END="9118">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M7812">
+          <extent>
+              <charseq START="9298" END="9305">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="9302" END="9305">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M7804">
+          <extent>
+              <charseq START="9219" END="9223">their</charseq>
+          </extent>
+          <head>
+              <charseq START="9219" END="9223">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M7809">
+          <extent>
+              <charseq START="9271" END="9274">them</charseq>
+          </extent>
+          <head>
+              <charseq START="9271" END="9274">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M8105">
+          <extent>
+              <charseq START="9454" END="9461">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="9458" END="9461">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M8800">
+          <extent>
+              <charseq START="10119" END="10126">The band</charseq>
+          </extent>
+          <head>
+              <charseq START="10123" END="10126">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M8803">
+          <extent>
+              <charseq START="10137" END="10141">their</charseq>
+          </extent>
+          <head>
+              <charseq START="10137" END="10141">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M8900">
+          <extent>
+              <charseq START="10186" END="10189">They</charseq>
+          </extent>
+          <head>
+              <charseq START="10186" END="10189">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E3-M9007">
+          <extent>
+              <charseq START="10365" END="10369">their</charseq>
+          </extent>
+          <head>
+              <charseq START="10365" END="10369">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M9909">
+          <extent>
+              <charseq START="11467" END="11474">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="11471" END="11474">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M10002">
+          <extent>
+              <charseq START="11589" END="11596">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="11593" END="11596">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M10103">
+          <extent>
+              <charseq START="11782" END="11789">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="11786" END="11789">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E3-M10106">
+          <extent>
+              <charseq START="11855" END="11862">the band</charseq>
+          </extent>
+          <head>
+              <charseq START="11859" END="11862">band</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M102">
+          <extent>
+              <charseq START="170" END="175">Blink,</charseq>
+          </extent>
+          <head>
+              <charseq START="170" END="174">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M501">
+          <extent>
+              <charseq START="556" END="564">Blink-182</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="560">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M503">
+          <extent>
+              <charseq START="581" END="584">they</charseq>
+          </extent>
+          <head>
+              <charseq START="581" END="584">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E4-M1100">
+          <extent>
+              <charseq START="1370" END="1376">The two</charseq>
+          </extent>
+          <head>
+              <charseq START="1374" END="1376">two</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M1104">
+          <extent>
+              <charseq START="1424" END="1433">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="1429" END="1433">other</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M1107">
+          <extent>
+              <charseq START="1441" END="1444">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1441" END="1444">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E4-M1301">
+          <extent>
+              <charseq START="1580" END="1586">the two</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1586">two</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M1302">
+          <extent>
+              <charseq START="1596" END="1599">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1596" END="1599">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M1406">
+          <extent>
+              <charseq START="1833" END="1846">the name Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="1842" END="1846">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E4-M1407">
+          <extent>
+              <charseq START="1837" END="1840">name</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1840">name</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M1806">
+          <extent>
+              <charseq START="2217" END="2221">Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="2217" END="2221">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M6805">
+          <extent>
+              <charseq START="7579" END="7583">Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="7579" END="7583">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M6810">
+          <extent>
+              <charseq START="7598" END="7602">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7598" END="7602">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M7016">
+          <extent>
+              <charseq START="8001" END="8005">their</charseq>
+          </extent>
+          <head>
+              <charseq START="8001" END="8005">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M7106">
+          <extent>
+              <charseq START="8156" END="8160">Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="8156" END="8160">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M8508">
+          <extent>
+              <charseq START="9855" END="9859">Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="9855" END="9859">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M8910">
+          <extent>
+              <charseq START="10272" END="10276">Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="10272" END="10276">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E4-M9807">
+          <extent>
+              <charseq START="11345" END="11354">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="11350" END="11354">other</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E4-M10253">
+          <extent>
+              <charseq START="12320" END="12403">Awards
+References
+External links
+Official website
+Official YouTube channel
+Blink-182</charseq>
+          </extent>
+          <head>
+              <charseq START="12395" END="12399">Blink</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Blink">
+              <charseq START="170" END="174">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="556" END="560">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="1842" END="1846">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="2217" END="2221">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="7579" END="7583">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="8156" END="8160">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="9855" END="9859">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="10272" END="10276">Blink</charseq>
+          </name>
+          <name NAME="Blink">
+              <charseq START="12395" END="12399">Blink</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M105">
+          <extent>
+              <charseq START="204" END="231">Tom DeLonge (vocals, guitar)</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="214">Tom DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M300">
+          <extent>
+              <charseq START="363" END="369">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="363" END="369">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M400">
+          <extent>
+              <charseq START="434" END="440">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="440">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M600">
+          <extent>
+              <charseq START="600" END="606">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="606">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M906">
+          <extent>
+              <charseq START="1133" END="1143">Tom DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1143">Tom DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E5-M909">
+          <extent>
+              <charseq START="1188" END="1189">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1188" END="1189">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M1000">
+          <extent>
+              <charseq START="1224" END="1230">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="1224" END="1230">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E5-M1004">
+          <extent>
+              <charseq START="1305" END="1307">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1305" END="1307">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M1103">
+          <extent>
+              <charseq START="1398" END="1404">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="1398" END="1404">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M1405">
+          <extent>
+              <charseq START="1814" END="1820">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="1814" END="1820">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M1700">
+          <extent>
+              <charseq START="2016" END="2022">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="2016" END="2022">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M4205">
+          <extent>
+              <charseq START="4834" END="4840">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="4834" END="4840">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M4302">
+          <extent>
+              <charseq START="4938" END="4944">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="4938" END="4944">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M4403">
+          <extent>
+              <charseq START="5094" END="5100">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="5094" END="5100">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M6305">
+          <extent>
+              <charseq START="7238" END="7244">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="7238" END="7244">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M6602">
+          <extent>
+              <charseq START="7421" END="7427">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="7421" END="7427">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M7407">
+          <extent>
+              <charseq START="8522" END="8528">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="8522" END="8528">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E5-M7413">
+          <extent>
+              <charseq START="8603" END="8605">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8603" END="8605">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M7811">
+          <extent>
+              <charseq START="9281" END="9287">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="9281" END="9287">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M8701">
+          <extent>
+              <charseq START="9961" END="9967">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="9961" END="9967">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M9611">
+          <extent>
+              <charseq START="10972" END="10978">DeLonge</charseq>
+          </extent>
+          <head>
+              <charseq START="10972" END="10978">DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E5-M10200">
+          <extent>
+              <charseq START="11947" END="12156">Band members
+Tom DeLonge – guitars, vocals (1992–2005, 2009–present)
+Mark Hoppus – bass guitar, vocals (1992–2005, 2009–present)
+Travis Barker – drums, percussion (1998–2005, 2009–present)
+Former
+Scott Raynor –</charseq>
+          </extent>
+          <head>
+              <charseq START="11960" END="11970">Tom DeLonge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E5-M10203">
+          <extent>
+              <charseq START="11952" END="11958">members</charseq>
+          </extent>
+          <head>
+              <charseq START="11952" END="11958">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom DeLonge">
+              <charseq START="204" END="214">Tom DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="363" END="369">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="434" END="440">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="600" END="606">DeLonge</charseq>
+          </name>
+          <name NAME="Tom DeLonge">
+              <charseq START="1133" END="1143">Tom DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="1224" END="1230">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="1398" END="1404">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="1814" END="1820">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="2016" END="2022">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="4834" END="4840">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="4938" END="4944">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="5094" END="5100">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="7238" END="7244">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="7421" END="7427">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="8522" END="8528">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="9281" END="9287">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="9961" END="9967">DeLonge</charseq>
+          </name>
+          <name NAME="DeLonge">
+              <charseq START="10972" END="10978">DeLonge</charseq>
+          </name>
+          <name NAME="Tom DeLonge">
+              <charseq START="11960" END="11970">Tom DeLonge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M108">
+          <extent>
+              <charseq START="234" END="259">Mark Hoppus (vocals, bass)</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="244">Mark Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M403">
+          <extent>
+              <charseq START="483" END="488">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="483" END="488">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M1006">
+          <extent>
+              <charseq START="1312" END="1367">her brother Mark Hoppus, who also wanted to be in a band</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1334">Mark Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E6-M1009">
+          <extent>
+              <charseq START="1316" END="1322">brother</charseq>
+          </extent>
+          <head>
+              <charseq START="1316" END="1322">brother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1011">
+          <extent>
+              <charseq START="1337" END="1339">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1337" END="1339">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M1503">
+          <extent>
+              <charseq START="1894" END="1899">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="1894" END="1899">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1602">
+          <extent>
+              <charseq START="1924" END="1926">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1924" END="1926">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1604">
+          <extent>
+              <charseq START="1928" END="1929">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1928" END="1929">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1610">
+          <extent>
+              <charseq START="1974" END="1975">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1974" END="1975">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M1701">
+          <extent>
+              <charseq START="2038" END="2043">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="2038" END="2043">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1702">
+          <extent>
+              <charseq START="2050" END="2051">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2050" END="2051">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1707">
+          <extent>
+              <charseq START="2090" END="2091">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2090" END="2091">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M1801">
+          <extent>
+              <charseq START="2158" END="2163">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2163">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1802">
+          <extent>
+              <charseq START="2173" END="2174">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2173" END="2174">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M1805">
+          <extent>
+              <charseq START="2188" END="2190">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2188" END="2190">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M2100">
+          <extent>
+              <charseq START="2403" END="2408">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="2403" END="2408">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M2413">
+          <extent>
+              <charseq START="2944" END="2949">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="2944" END="2949">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M4206">
+          <extent>
+              <charseq START="4846" END="4851">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="4846" END="4851">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M4208">
+          <extent>
+              <charseq START="4870" END="4872">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4870" END="4872">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M4209">
+          <extent>
+              <charseq START="4907" END="4909">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4907" END="4909">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M4301">
+          <extent>
+              <charseq START="4927" END="4932">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="4927" END="4932">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M4402">
+          <extent>
+              <charseq START="5083" END="5088">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="5083" END="5088">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M4501">
+          <extent>
+              <charseq START="5163" END="5164">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5163" END="5164">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M5017">
+          <extent>
+              <charseq START="5822" END="5824">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5822" END="5824">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M7420">
+          <extent>
+              <charseq START="8664" END="8669">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="8664" END="8669">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M7807">
+          <extent>
+              <charseq START="9245" END="9250">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="9245" END="9250">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9003">
+          <extent>
+              <charseq START="10320" END="10325">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="10320" END="10325">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9201">
+          <extent>
+              <charseq START="10498" END="10503">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="10498" END="10503">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9601">
+          <extent>
+              <charseq START="10894" END="10904">2008 Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="10899" END="10904">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9618">
+          <extent>
+              <charseq START="11061" END="11071">Mark Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="11061" END="11071">Mark Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M9606">
+          <extent>
+              <charseq START="10916" END="10918">his</charseq>
+          </extent>
+          <head>
+              <charseq START="10916" END="10918">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M9608">
+          <extent>
+              <charseq START="10934" END="10936">him</charseq>
+          </extent>
+          <head>
+              <charseq START="10934" END="10936">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9703">
+          <extent>
+              <charseq START="11092" END="11097">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="11092" END="11097">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9714">
+          <extent>
+              <charseq START="11217" END="11222">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="11217" END="11222">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M9717">
+          <extent>
+              <charseq START="11234" END="11236">his</charseq>
+          </extent>
+          <head>
+              <charseq START="11234" END="11236">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M9800">
+          <extent>
+              <charseq START="11263" END="11268">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="11263" END="11268">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E6-M9803">
+          <extent>
+              <charseq START="11304" END="11305">he</charseq>
+          </extent>
+          <head>
+              <charseq START="11304" END="11305">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M10011">
+          <extent>
+              <charseq START="11722" END="11727">Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="11722" END="11727">Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E6-M10210">
+          <extent>
+              <charseq START="12002" END="12026">2009–present)
+Mark Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="12016" END="12026">Mark Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Hoppus">
+              <charseq START="234" END="244">Mark Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="483" END="488">Hoppus</charseq>
+          </name>
+          <name NAME="Mark Hoppus">
+              <charseq START="1324" END="1334">Mark Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="1894" END="1899">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="2038" END="2043">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="2158" END="2163">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="2403" END="2408">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="2944" END="2949">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="4846" END="4851">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="4927" END="4932">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="5083" END="5088">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="8664" END="8669">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="9245" END="9250">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="10320" END="10325">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="10498" END="10503">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="10899" END="10904">Hoppus</charseq>
+          </name>
+          <name NAME="Mark Hoppus">
+              <charseq START="11061" END="11071">Mark Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="11092" END="11097">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="11217" END="11222">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="11263" END="11268">Hoppus</charseq>
+          </name>
+          <name NAME="Hoppus">
+              <charseq START="11722" END="11727">Hoppus</charseq>
+          </name>
+          <name NAME="Mark Hoppus">
+              <charseq START="12016" END="12026">Mark Hoppus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M111">
+          <extent>
+              <charseq START="265" END="284">Scott Raynor (drums)</charseq>
+          </extent>
+          <head>
+              <charseq START="265" END="276">Scott Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M206">
+          <extent>
+              <charseq START="355" END="360">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="360">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M1306">
+          <extent>
+              <charseq START="1657" END="1739">friend Scott Raynor, who he had met at his school&apos;s Battle of the Bands competition</charseq>
+          </extent>
+          <head>
+              <charseq START="1664" END="1675">Scott Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E7-M1308">
+          <extent>
+              <charseq START="1657" END="1662">friend</charseq>
+          </extent>
+          <head>
+              <charseq START="1657" END="1662">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M1310">
+          <extent>
+              <charseq START="1678" END="1680">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1680">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M1311">
+          <extent>
+              <charseq START="1682" END="1683">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1682" END="1683">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M1315">
+          <extent>
+              <charseq START="1696" END="1698">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1696" END="1698">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M1709">
+          <extent>
+              <charseq START="2097" END="2102">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="2097" END="2102">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E7-M1705">
+          <extent>
+              <charseq START="2077" END="2084">a friend</charseq>
+          </extent>
+          <head>
+              <charseq START="2079" END="2084">friend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M1908">
+          <extent>
+              <charseq START="2291" END="2296">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="2291" END="2296">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M4007">
+          <extent>
+              <charseq START="4544" END="4563">drummer Scott Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="4552" END="4563">Scott Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E7-M4008">
+          <extent>
+              <charseq START="4544" END="4550">drummer</charseq>
+          </extent>
+          <head>
+              <charseq START="4544" END="4550">drummer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M4106">
+          <extent>
+              <charseq START="4637" END="4642">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="4637" END="4642">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M4105">
+          <extent>
+              <charseq START="4618" END="4620">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4618" END="4620">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M4113">
+          <extent>
+              <charseq START="4745" END="4746">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4745" END="4746">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M4200">
+          <extent>
+              <charseq START="4785" END="4790">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="4785" END="4790">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E7-M4201">
+          <extent>
+              <charseq START="4799" END="4800">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4799" END="4800">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M4312">
+          <extent>
+              <charseq START="5030" END="5035">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="5030" END="5035">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M5308">
+          <extent>
+              <charseq START="6144" END="6149">Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="6144" END="6149">Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E7-M10225">
+          <extent>
+              <charseq START="12122" END="12154">2009–present)
+Former
+Scott Raynor</charseq>
+          </extent>
+          <head>
+              <charseq START="12143" END="12154">Scott Raynor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E7-M10227">
+          <extent>
+              <charseq START="12136" END="12141">Former</charseq>
+          </extent>
+          <head>
+              <charseq START="12136" END="12141">Former</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scott Raynor">
+              <charseq START="265" END="276">Scott Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="355" END="360">Raynor</charseq>
+          </name>
+          <name NAME="Scott Raynor">
+              <charseq START="1664" END="1675">Scott Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="2097" END="2102">Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="2291" END="2296">Raynor</charseq>
+          </name>
+          <name NAME="Scott Raynor">
+              <charseq START="4552" END="4563">Scott Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="4637" END="4642">Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="4785" END="4790">Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="5030" END="5035">Raynor</charseq>
+          </name>
+          <name NAME="Raynor">
+              <charseq START="6144" END="6149">Raynor</charseq>
+          </name>
+          <name NAME="Scott Raynor">
+              <charseq START="12143" END="12154">Scott Raynor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M203">
+          <extent>
+              <charseq START="324" END="344">drummer Travis Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="332" END="344">Travis Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E8-M204">
+          <extent>
+              <charseq START="324" END="330">drummer</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="330">drummer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M404">
+          <extent>
+              <charseq START="494" END="499">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="494" END="499">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M4303">
+          <extent>
+              <charseq START="4952" END="5013">drummer Travis Barker of Blink-182&apos;s support band The Aquabats</charseq>
+          </extent>
+          <head>
+              <charseq START="4960" END="4972">Travis Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E8-M4305">
+          <extent>
+              <charseq START="4952" END="4958">drummer</charseq>
+          </extent>
+          <head>
+              <charseq START="4952" END="4958">drummer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M4404">
+          <extent>
+              <charseq START="5125" END="5130">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="5125" END="5130">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M5307">
+          <extent>
+              <charseq START="6113" END="6118">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="6113" END="6118">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M6603">
+          <extent>
+              <charseq START="7433" END="7438">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="7433" END="7438">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E8-M6606">
+          <extent>
+              <charseq START="7466" END="7470">their</charseq>
+          </extent>
+          <head>
+              <charseq START="7466" END="7470">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M6900">
+          <extent>
+              <charseq START="7728" END="7733">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="7728" END="7733">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M7808">
+          <extent>
+              <charseq START="9256" END="9261">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="9256" END="9261">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M8406">
+          <extent>
+              <charseq START="9748" END="9753">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="9748" END="9753">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E8-M8409">
+          <extent>
+              <charseq START="9783" END="9793">the Barkers</charseq>
+          </extent>
+          <head>
+              <charseq START="9787" END="9793">Barkers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M9004">
+          <extent>
+              <charseq START="10331" END="10336">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="10331" END="10336">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M9610">
+          <extent>
+              <charseq START="10942" END="10947">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="10942" END="10947">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M9805">
+          <extent>
+              <charseq START="11311" END="11316">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="11311" END="11316">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M10000">
+          <extent>
+              <charseq START="11572" END="11577">Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="11572" END="11577">Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E8-M10218">
+          <extent>
+              <charseq START="12062" END="12088">2009–present)
+Travis Barker</charseq>
+          </extent>
+          <head>
+              <charseq START="12076" END="12088">Travis Barker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Travis Barker">
+              <charseq START="332" END="344">Travis Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="494" END="499">Barker</charseq>
+          </name>
+          <name NAME="Travis Barker">
+              <charseq START="4960" END="4972">Travis Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="5125" END="5130">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="6113" END="6118">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="7433" END="7438">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="7728" END="7733">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="9256" END="9261">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="9748" END="9753">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="10331" END="10336">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="10942" END="10947">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="11311" END="11316">Barker</charseq>
+          </name>
+          <name NAME="Barker">
+              <charseq START="11572" END="11577">Barker</charseq>
+          </name>
+          <name NAME="Travis Barker">
+              <charseq START="12076" END="12088">Travis Barker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E9-M401">
+          <extent>
+              <charseq START="458" END="474">Angels &amp; Airwaves</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="474">Angels &amp; Airwaves</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E9-M8702">
+          <extent>
+              <charseq START="9981" END="9997">Angels &amp; Airwaves</charseq>
+          </extent>
+          <head>
+              <charseq START="9981" END="9997">Angels &amp; Airwaves</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E9-M8914">
+          <extent>
+              <charseq START="10301" END="10317">Angels &amp; Airwaves</charseq>
+          </extent>
+          <head>
+              <charseq START="10301" END="10317">Angels &amp; Airwaves</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Angels &amp; Airwaves">
+              <charseq START="458" END="474">Angels &amp; Airwaves</charseq>
+          </name>
+          <name NAME="Angels &amp; Airwaves">
+              <charseq START="9981" END="9997">Angels &amp; Airwaves</charseq>
+          </name>
+          <name NAME="Angels &amp; Airwaves">
+              <charseq START="10301" END="10317">Angels &amp; Airwaves</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E10-M604">
+          <extent>
+              <charseq START="630" END="640">Descendents</charseq>
+          </extent>
+          <head>
+              <charseq START="630" END="640">Descendents</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Descendents">
+              <charseq START="630" END="640">Descendents</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E11-M605">
+          <extent>
+              <charseq START="646" END="662">Screeching Weasel</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="662">Screeching Weasel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Screeching Weasel">
+              <charseq START="646" END="662">Screeching Weasel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E13-M802">
+          <extent>
+              <charseq START="935" END="938">Adam</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="938">Adam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam">
+              <charseq START="935" END="938">Adam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E14-M807">
+          <extent>
+              <charseq START="999" END="1007">the Kids,</charseq>
+          </extent>
+          <head>
+              <charseq START="1003" END="1006">Kids</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E15-M813">
+          <extent>
+              <charseq START="1030" END="1039">I Miss You</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1035">Miss</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E17" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E17-M905">
+          <extent>
+              <charseq START="1114" END="1130">Poway High School</charseq>
+          </extent>
+          <head>
+              <charseq START="1114" END="1130">Poway High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Poway High School">
+              <charseq START="1114" END="1130">Poway High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E18" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E18-M907">
+          <extent>
+              <charseq START="1154" END="1180">Rancho Bernardo High School</charseq>
+          </extent>
+          <head>
+              <charseq START="1154" END="1180">Rancho Bernardo High School</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E18-M908">
+          <extent>
+              <charseq START="1182" END="1186">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1186">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E18-M1314">
+          <extent>
+              <charseq START="1696" END="1705">his school</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1705">school</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rancho Bernardo High School">
+              <charseq START="1154" END="1180">Rancho Bernardo High School</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E19-M913">
+          <extent>
+              <charseq START="1211" END="1221">Anne Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="1211" END="1221">Anne Hoppus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E19-M1003">
+          <extent>
+              <charseq START="1289" END="1292">Anne</charseq>
+          </extent>
+          <head>
+              <charseq START="1289" END="1292">Anne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E19-M1008">
+          <extent>
+              <charseq START="1312" END="1314">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1312" END="1314">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anne Hoppus">
+              <charseq START="1211" END="1221">Anne Hoppus</charseq>
+          </name>
+          <name NAME="Anne">
+              <charseq START="1289" END="1292">Anne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E20-M911">
+          <extent>
+              <charseq START="1198" END="1221">friends with Anne Hoppus</charseq>
+          </extent>
+          <head>
+              <charseq START="1198" END="1204">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E20-M2107">
+          <extent>
+              <charseq START="2485" END="2491">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="2485" END="2491">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E21-M1102">
+          <extent>
+              <charseq START="1398" END="1413">DeLonge&apos;s garage</charseq>
+          </extent>
+          <head>
+              <charseq START="1408" END="1413">garage</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E21-M5013">
+          <extent>
+              <charseq START="5808" END="5838">the garage of his family&apos;s home</charseq>
+          </extent>
+          <head>
+              <charseq START="5812" END="5817">garage</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E21-M5015">
+          <extent>
+              <charseq START="5822" END="5838">his family&apos;s home</charseq>
+          </extent>
+          <head>
+              <charseq START="5835" END="5838">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E22-M1317">
+          <extent>
+              <charseq START="1719" END="1727">the Bands</charseq>
+          </extent>
+          <head>
+              <charseq START="1723" END="1727">Bands</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bands">
+              <charseq START="1723" END="1727">Bands</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E23-M1403">
+          <extent>
+              <charseq START="1797" END="1846">Duck Tape, until DeLonge thought of the name Blink</charseq>
+          </extent>
+          <head>
+              <charseq START="1797" END="1805">Duck Tape</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Duck Tape">
+              <charseq START="1797" END="1805">Duck Tape</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E24-M1502">
+          <extent>
+              <charseq START="1894" END="1912">Hoppus&apos;s girlfriend</charseq>
+          </extent>
+          <head>
+              <charseq START="1903" END="1912">girlfriend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E24-M1600">
+          <extent>
+              <charseq START="1915" END="1917">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1915" END="1917">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E24-M1608">
+          <extent>
+              <charseq START="1966" END="1968">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1966" END="1968">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E24-M1804">
+          <extent>
+              <charseq START="2188" END="2201">his girlfriend</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2201">girlfriend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E25" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E25-M1907">
+          <extent>
+              <charseq START="2291" END="2306">Raynor&apos;s bedroom</charseq>
+          </extent>
+          <head>
+              <charseq START="2300" END="2306">bedroom</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E26-M2103">
+          <extent>
+              <charseq START="2434" END="2438">demos</charseq>
+          </extent>
+          <head>
+              <charseq START="2434" END="2438">demos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E26-M2106">
+          <extent>
+              <charseq START="2468" END="2472">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2468" END="2472">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E26-M5100">
+          <extent>
+              <charseq START="5841" END="5859">Demos for the album</charseq>
+          </extent>
+          <head>
+              <charseq START="5841" END="5845">Demos</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E27-M2105">
+          <extent>
+              <charseq START="2468" END="2479">their family</charseq>
+          </extent>
+          <head>
+              <charseq START="2474" END="2479">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E29-M2312">
+          <extent>
+              <charseq START="2756" END="2761">Buddha</charseq>
+          </extent>
+          <head>
+              <charseq START="2756" END="2761">Buddha</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E29-M2400">
+          <extent>
+              <charseq START="2793" END="2798">Buddha</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2798">Buddha</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E29-M3210">
+          <extent>
+              <charseq START="3764" END="3769">Buddha</charseq>
+          </extent>
+          <head>
+              <charseq START="3764" END="3769">Buddha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buddha">
+              <charseq START="2756" END="2761">Buddha</charseq>
+          </name>
+          <name NAME="Buddha">
+              <charseq START="2793" END="2798">Buddha</charseq>
+          </name>
+          <name NAME="Buddha">
+              <charseq START="3764" END="3769">Buddha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E30-M2313">
+          <extent>
+              <charseq START="2764" END="2775">Cheshire Cat</charseq>
+          </extent>
+          <head>
+              <charseq START="2764" END="2775">Cheshire Cat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E30-M2607">
+          <extent>
+              <charseq START="3128" END="3164">their debut studio album Cheshire Cat</charseq>
+          </extent>
+          <head>
+              <charseq START="3153" END="3164">Cheshire Cat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E30-M2611">
+          <extent>
+              <charseq START="3147" END="3151">album</charseq>
+          </extent>
+          <head>
+              <charseq START="3147" END="3151">album</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E30-M3002">
+          <extent>
+              <charseq START="3465" END="3476">Cheshire Cat</charseq>
+          </extent>
+          <head>
+              <charseq START="3465" END="3476">Cheshire Cat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E30-M3202">
+          <extent>
+              <charseq START="3660" END="3671">Cheshire Cat</charseq>
+          </extent>
+          <head>
+              <charseq START="3660" END="3671">Cheshire Cat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E30-M10229">
+          <extent>
+              <charseq START="12165" END="12263">percussion  (1992–1998)
+Discography
+Cheshire Cat (1994)
+Dude Ranch (1997)
+Enema of the State (1999)</charseq>
+          </extent>
+          <head>
+              <charseq START="12201" END="12212">Cheshire Cat</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cheshire Cat">
+              <charseq START="2764" END="2775">Cheshire Cat</charseq>
+          </name>
+          <name NAME="Cheshire Cat">
+              <charseq START="3153" END="3164">Cheshire Cat</charseq>
+          </name>
+          <name NAME="Cheshire Cat">
+              <charseq START="3465" END="3476">Cheshire Cat</charseq>
+          </name>
+          <name NAME="Cheshire Cat">
+              <charseq START="3660" END="3671">Cheshire Cat</charseq>
+          </name>
+          <name NAME="Cheshire Cat">
+              <charseq START="12201" END="12212">Cheshire Cat</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E31-M2314">
+          <extent>
+              <charseq START="2781" END="2790">Dude Ranch</charseq>
+          </extent>
+          <head>
+              <charseq START="2781" END="2790">Dude Ranch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E31-M3602">
+          <extent>
+              <charseq START="3986" END="3995">Dude Ranch</charseq>
+          </extent>
+          <head>
+              <charseq START="3986" END="3995">Dude Ranch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E31-M3609">
+          <extent>
+              <charseq START="4072" END="4091">the album Dude Ranch</charseq>
+          </extent>
+          <head>
+              <charseq START="4082" END="4091">Dude Ranch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E31-M3610">
+          <extent>
+              <charseq START="4076" END="4080">album</charseq>
+          </extent>
+          <head>
+              <charseq START="4076" END="4080">album</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dude Ranch">
+              <charseq START="2781" END="2790">Dude Ranch</charseq>
+          </name>
+          <name NAME="Dude Ranch">
+              <charseq START="3986" END="3995">Dude Ranch</charseq>
+          </name>
+          <name NAME="Dude Ranch">
+              <charseq START="4082" END="4091">Dude Ranch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E32-M2408">
+          <extent>
+              <charseq START="2888" END="2901">Filter Records</charseq>
+          </extent>
+          <head>
+              <charseq START="2888" END="2901">Filter Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E32-M2409">
+          <extent>
+              <charseq START="2904" END="2956">an independent record company headed by Hoppus&apos;s boss</charseq>
+          </extent>
+          <head>
+              <charseq START="2926" END="2932">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Filter Records">
+              <charseq START="2888" END="2901">Filter Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E33-M2412">
+          <extent>
+              <charseq START="2944" END="2956">Hoppus&apos;s boss</charseq>
+          </extent>
+          <head>
+              <charseq START="2953" END="2956">boss</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E34-M2600">
+          <extent>
+              <charseq START="3049" END="3071">1994-1995: Cheshire Cat</charseq>
+          </extent>
+          <head>
+              <charseq START="3049" END="3057">1994-1995</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="1994-1995">
+              <charseq START="3049" END="3057">1994-1995</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E35" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E35-M2606">
+          <extent>
+              <charseq START="3103" END="3113">Cargo Music</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3113">Cargo Music</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cargo Music">
+              <charseq START="3103" END="3113">Cargo Music</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E36-M3008" ROLE="GPE">
+          <extent>
+              <charseq START="3527" END="3531">Irish</charseq>
+          </extent>
+          <head>
+              <charseq START="3527" END="3531">Irish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E36-M7712" ROLE="LOC">
+          <extent>
+              <charseq START="9105" END="9111">Ireland</charseq>
+          </extent>
+          <head>
+              <charseq START="9105" END="9111">Ireland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Irish">
+              <charseq START="3527" END="3531">Irish</charseq>
+          </name>
+          <name NAME="Ireland">
+              <charseq START="9105" END="9111">Ireland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E37-M3205">
+          <extent>
+              <charseq START="3693" END="3704">Buddha Promo</charseq>
+          </extent>
+          <head>
+              <charseq START="3693" END="3704">Buddha Promo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buddha Promo">
+              <charseq START="3693" END="3704">Buddha Promo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E38-M3304">
+          <extent>
+              <charseq START="3871" END="3881">Iconoclasts</charseq>
+          </extent>
+          <head>
+              <charseq START="3871" END="3881">Iconoclasts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E39" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E39-M3305">
+          <extent>
+              <charseq START="3890" END="3898">Short Bus</charseq>
+          </extent>
+          <head>
+              <charseq START="3896" END="3898">Bus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E40-M3500">
+          <extent>
+              <charseq START="3940" END="3945">Uranus</charseq>
+          </extent>
+          <head>
+              <charseq START="3940" END="3945">Uranus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uranus">
+              <charseq START="3940" END="3945">Uranus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E41-M3601" ROLE="LOC">
+          <extent>
+              <charseq START="3975" END="3983">1996-1998</charseq>
+          </extent>
+          <head>
+              <charseq START="3975" END="3983">1996-1998</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="1996-1998">
+              <charseq START="3975" END="3983">1996-1998</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E42" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E42-M3605" ROLE="LOC">
+          <extent>
+              <charseq START="4031" END="4051">Encinitas, California</charseq>
+          </extent>
+          <head>
+              <charseq START="4031" END="4039">Encinitas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Encinitas">
+              <charseq START="4031" END="4039">Encinitas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E43-M3613">
+          <extent>
+              <charseq START="4106" END="4127">producer Mark Trombino</charseq>
+          </extent>
+          <head>
+              <charseq START="4115" END="4127">Mark Trombino</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E43-M3614">
+          <extent>
+              <charseq START="4106" END="4113">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4106" END="4113">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E43-M4608">
+          <extent>
+              <charseq START="5261" END="5268">The Mark</charseq>
+          </extent>
+          <head>
+              <charseq START="5265" END="5268">Mark</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E43-M4622">
+          <extent>
+              <charseq START="5360" END="5367">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="5360" END="5367">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E43-M5411">
+          <extent>
+              <charseq START="6259" END="6266">The Mark</charseq>
+          </extent>
+          <head>
+              <charseq START="6263" END="6266">Mark</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Trombino">
+              <charseq START="4115" END="4127">Mark Trombino</charseq>
+          </name>
+          <name NAME="Mark">
+              <charseq START="5265" END="5268">Mark</charseq>
+          </name>
+          <name NAME="Mark">
+              <charseq START="6263" END="6266">Mark</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E44-M3704">
+          <extent>
+              <charseq START="4196" END="4198">MCA</charseq>
+          </extent>
+          <head>
+              <charseq START="4196" END="4198">MCA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MCA">
+              <charseq START="4196" END="4198">MCA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E45" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E45-M4116">
+          <extent>
+              <charseq START="4776" END="4782">college</charseq>
+          </extent>
+          <head>
+              <charseq START="4776" END="4782">college</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E46-M4309">
+          <extent>
+              <charseq START="4977" END="4985">Blink-182</charseq>
+          </extent>
+          <head>
+              <charseq START="4977" END="4985">Blink-182</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E46-M9705">
+          <extent>
+              <charseq START="11118" END="11126">Blink-182</charseq>
+          </extent>
+          <head>
+              <charseq START="11118" END="11126">Blink-182</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Blink-182">
+              <charseq START="4977" END="4985">Blink-182</charseq>
+          </name>
+          <name NAME="Blink-182">
+              <charseq START="11118" END="11126">Blink-182</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E47" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E47-M4311">
+          <extent>
+              <charseq START="5002" END="5013">The Aquabats</charseq>
+          </extent>
+          <head>
+              <charseq START="5002" END="5013">The Aquabats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E47-M4505">
+          <extent>
+              <charseq START="5195" END="5224">consequently left The Aquabats</charseq>
+          </extent>
+          <head>
+              <charseq START="5213" END="5224">The Aquabats</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Aquabats">
+              <charseq START="5002" END="5013">The Aquabats</charseq>
+          </name>
+          <name NAME="The Aquabats">
+              <charseq START="5213" END="5224">The Aquabats</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E48" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E48-M4307">
+          <extent>
+              <charseq START="4977" END="5013">Blink-182&apos;s support band The Aquabats</charseq>
+          </extent>
+          <head>
+              <charseq START="4997" END="5000">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E48-M8700">
+          <extent>
+              <charseq START="9961" END="9978">DeLonge&apos;s new band</charseq>
+          </extent>
+          <head>
+              <charseq START="9975" END="9978">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E48-M8705">
+          <extent>
+              <charseq START="10008" END="10012">their</charseq>
+          </extent>
+          <head>
+              <charseq START="10008" END="10012">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E49-M4600">
+          <extent>
+              <charseq START="5227" END="5328">1999-2000: Enema of the State and The Mark, Tom, and Travis Show
+For the 1999 album Enema of the State</charseq>
+          </extent>
+          <head>
+              <charseq START="5227" END="5235">1999-2000</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="1999-2000">
+              <charseq START="5227" END="5235">1999-2000</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E50" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M4605">
+          <extent>
+              <charseq START="5247" END="5255">the State</charseq>
+          </extent>
+          <head>
+              <charseq START="5251" END="5255">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M4618">
+          <extent>
+              <charseq START="5320" END="5328">the State</charseq>
+          </extent>
+          <head>
+              <charseq START="5324" END="5328">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M4902">
+          <extent>
+              <charseq START="5576" END="5584">the State</charseq>
+          </extent>
+          <head>
+              <charseq START="5580" END="5584">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M5105">
+          <extent>
+              <charseq START="5889" END="5902">the State Demo</charseq>
+          </extent>
+          <head>
+              <charseq START="5893" END="5902">State Demo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M5806">
+          <extent>
+              <charseq START="6670" END="6679">State Demo</charseq>
+          </extent>
+          <head>
+              <charseq START="6670" END="6679">State Demo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E50-M10241">
+          <extent>
+              <charseq START="12248" END="12256">the State</charseq>
+          </extent>
+          <head>
+              <charseq START="12252" END="12256">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State">
+              <charseq START="5251" END="5255">State</charseq>
+          </name>
+          <name NAME="State">
+              <charseq START="5324" END="5328">State</charseq>
+          </name>
+          <name NAME="State">
+              <charseq START="5580" END="5584">State</charseq>
+          </name>
+          <name NAME="State Demo">
+              <charseq START="5893" END="5902">State Demo</charseq>
+          </name>
+          <name NAME="State Demo">
+              <charseq START="6670" END="6679">State Demo</charseq>
+          </name>
+          <name NAME="State">
+              <charseq START="12252" END="12256">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E51-M4610">
+          <extent>
+              <charseq START="5271" END="5273">Tom</charseq>
+          </extent>
+          <head>
+              <charseq START="5271" END="5273">Tom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E51-M5413">
+          <extent>
+              <charseq START="6269" END="6271">Tom</charseq>
+          </extent>
+          <head>
+              <charseq START="6269" END="6271">Tom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom">
+              <charseq START="5271" END="5273">Tom</charseq>
+          </name>
+          <name NAME="Tom">
+              <charseq START="6269" END="6271">Tom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E52-M4621">
+          <extent>
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+          </extent>
+          <head>
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jerry Finn">
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E53-M4810">
+          <extent>
+              <charseq START="5562" END="5564">MTV</charseq>
+          </extent>
+          <head>
+              <charseq START="5562" END="5564">MTV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV">
+              <charseq START="5562" END="5564">MTV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E54-M5009">
+          <extent>
+              <charseq START="5766" END="5788">17-year-old Greg Barnes</charseq>
+          </extent>
+          <head>
+              <charseq START="5778" END="5788">Greg Barnes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greg Barnes">
+              <charseq START="5778" END="5788">Greg Barnes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E55-M5016">
+          <extent>
+              <charseq START="5822" END="5831">his family</charseq>
+          </extent>
+          <head>
+              <charseq START="5826" END="5831">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E55-M7412">
+          <extent>
+              <charseq START="8603" END="8612">his family</charseq>
+          </extent>
+          <head>
+              <charseq START="8607" END="8612">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E56" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E56-M5306">
+          <extent>
+              <charseq START="6095" END="6106">American Pie</charseq>
+          </extent>
+          <head>
+              <charseq START="6095" END="6106">American Pie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Pie">
+              <charseq START="6095" END="6106">American Pie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E57-M5900">
+          <extent>
+              <charseq START="6691" END="6760">2001-2004: Take Off Your Pants and Jacket and eponymous album
+The band</charseq>
+          </extent>
+          <head>
+              <charseq START="6691" END="6699">2001-2004</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="2001-2004">
+              <charseq START="6691" END="6699">2001-2004</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E58" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E58-M6202" ROLE="GPE">
+          <extent>
+              <charseq START="7093" END="7100">European</charseq>
+          </extent>
+          <head>
+              <charseq START="7093" END="7100">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="7093" END="7100">European</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E59" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E59-M6503" ROLE="LOC">
+          <extent>
+              <charseq START="7377" END="7380">Vans</charseq>
+          </extent>
+          <head>
+              <charseq START="7377" END="7380">Vans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vans">
+              <charseq START="7377" END="7380">Vans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E60" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E60-M6504">
+          <extent>
+              <charseq START="7387" END="7390">Boys</charseq>
+          </extent>
+          <head>
+              <charseq START="7387" END="7390">Boys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E61-M7100">
+          <extent>
+              <charseq START="8104" END="8186">Robert Smith, whose band The Cure is often cited by Blink-182 as a major influence,</charseq>
+          </extent>
+          <head>
+              <charseq START="8104" END="8115">Robert Smith</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Blink-182.sentences.sgm-E61-M7102">
+          <extent>
+              <charseq START="8118" END="8122">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="8118" END="8122">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Smith">
+              <charseq START="8104" END="8115">Robert Smith</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E62-M7400">
+          <extent>
+              <charseq START="8459" END="8728">2005-2009: Hiatus
+Tensions between the band members arose when DeLonge found the desire for a half-year respite from touring to spend time with his family, despite a planned spring U.S. tour, coupled with Hoppus&apos; feelings of betrayal after the formation of Box Car Racer</charseq>
+          </extent>
+          <head>
+              <charseq START="8459" END="8467">2005-2009</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="2005-2009">
+              <charseq START="8459" END="8467">2005-2009</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E63" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E63-M7405">
+          <extent>
+              <charseq START="8494" END="8509">the band members</charseq>
+          </extent>
+          <head>
+              <charseq START="8503" END="8509">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E64" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E64-M7425">
+          <extent>
+              <charseq START="8716" END="8728">Box Car Racer</charseq>
+          </extent>
+          <head>
+              <charseq START="8724" END="8728">Racer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E64-M7427">
+          <extent>
+              <charseq START="8720" END="8722">Car</charseq>
+          </extent>
+          <head>
+              <charseq START="8720" END="8722">Car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E65" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E65-M7606">
+          <extent>
+              <charseq START="8897" END="8927">Relief&apos;s Concert for South Asia</charseq>
+          </extent>
+          <head>
+              <charseq START="8906" END="8927">Concert for South Asia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Concert for South Asia">
+              <charseq START="8906" END="8927">Concert for South Asia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E66" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E66-M7611">
+          <extent>
+              <charseq START="8947" END="8957">Linkin Park</charseq>
+          </extent>
+          <head>
+              <charseq START="8947" END="8957">Linkin Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Linkin Park">
+              <charseq START="8947" END="8957">Linkin Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E67" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E67-M7616">
+          <extent>
+              <charseq START="8998" END="9009">Indian Ocean</charseq>
+          </extent>
+          <head>
+              <charseq START="8998" END="9009">Indian Ocean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indian Ocean">
+              <charseq START="8998" END="9009">Indian Ocean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E68-M7612">
+          <extent>
+              <charseq START="8966" END="9020">victims of the devastating 2004 Indian Ocean earthquake</charseq>
+          </extent>
+          <head>
+              <charseq START="8966" END="8972">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E69" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E69-M7707">
+          <extent>
+              <charseq START="9078" END="9140">the Point Depot in Dublin, Ireland, their last live performance</charseq>
+          </extent>
+          <head>
+              <charseq START="9082" END="9092">Point Depot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Point Depot">
+              <charseq START="9082" END="9092">Point Depot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E70" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E70-M7711" ROLE="LOC">
+          <extent>
+              <charseq START="9097" END="9102">Dublin</charseq>
+          </extent>
+          <head>
+              <charseq START="9097" END="9102">Dublin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dublin">
+              <charseq START="9097" END="9102">Dublin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E71-M7803">
+          <extent>
+              <charseq START="9219" END="9236">their band manager</charseq>
+          </extent>
+          <head>
+              <charseq START="9230" END="9236">manager</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E72-M8000">
+          <extent>
+              <charseq START="9347" END="9360">Geffen Records</charseq>
+          </extent>
+          <head>
+              <charseq START="9347" END="9360">Geffen Records</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Geffen Records">
+              <charseq START="9347" END="9360">Geffen Records</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E73-M8205">
+          <extent>
+              <charseq START="9525" END="9541">disappointed fans</charseq>
+          </extent>
+          <head>
+              <charseq START="9538" END="9541">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E74-M8304">
+          <extent>
+              <charseq START="9630" END="9641">Another Girl</charseq>
+          </extent>
+          <head>
+              <charseq START="9638" END="9641">Girl</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E75" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E75-M8305">
+          <extent>
+              <charseq START="9644" END="9701">Another Planet&quot; (a cover song originally by The Only Ones)</charseq>
+          </extent>
+          <head>
+              <charseq START="9652" END="9657">Planet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E76" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E76-M8510" ROLE="GPE">
+          <extent>
+              <charseq START="9865" END="9866">UK</charseq>
+          </extent>
+          <head>
+              <charseq START="9865" END="9866">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UK">
+              <charseq START="9865" END="9866">UK</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E77" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E77-M9303">
+          <extent>
+              <charseq START="10584" END="10592">the bands</charseq>
+          </extent>
+          <head>
+              <charseq START="10588" END="10592">bands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E79" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E79-M9402">
+          <extent>
+              <charseq START="10670" END="10688">One Nine Nine Four,</charseq>
+          </extent>
+          <head>
+              <charseq START="10679" END="10687">Nine Four</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E79-M9404">
+          <extent>
+              <charseq START="10674" END="10677">Nine</charseq>
+          </extent>
+          <head>
+              <charseq START="10674" END="10677">Nine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nine Four">
+              <charseq START="10679" END="10687">Nine Four</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E80-M9500">
+          <extent>
+              <charseq START="10727" END="10761">Professional skateboarder Tony Hawk</charseq>
+          </extent>
+          <head>
+              <charseq START="10753" END="10761">Tony Hawk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E80-M9502">
+          <extent>
+              <charseq START="10740" END="10751">skateboarder</charseq>
+          </extent>
+          <head>
+              <charseq START="10740" END="10751">skateboarder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tony Hawk">
+              <charseq START="10753" END="10761">Tony Hawk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E81" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E81-M9511">
+          <extent>
+              <charseq START="10834" END="10839">Rancid</charseq>
+          </extent>
+          <head>
+              <charseq START="10834" END="10839">Rancid</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rancid">
+              <charseq START="10834" END="10839">Rancid</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E82" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E82-M9613">
+          <extent>
+              <charseq START="11009" END="11015">MTV.com</charseq>
+          </extent>
+          <head>
+              <charseq START="11009" END="11015">MTV.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E82-M9709">
+          <extent>
+              <charseq START="11159" END="11165">MTV.com</charseq>
+          </extent>
+          <head>
+              <charseq START="11159" END="11165">MTV.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MTV.com">
+              <charseq START="11009" END="11015">MTV.com</charseq>
+          </name>
+          <name NAME="MTV.com">
+              <charseq START="11159" END="11165">MTV.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E83-M9907">
+          <extent>
+              <charseq START="11446" END="11474">all three members of the band</charseq>
+          </extent>
+          <head>
+              <charseq START="11456" END="11462">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E84" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Blink-182.sentences.sgm-E84-M10261" ROLE="GPE">
+          <extent>
+              <charseq START="12379" END="12385">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="12379" END="12385">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YouTube">
+              <charseq START="12379" END="12385">YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Blink-182.sentences.sgm-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Blink-182.sentences.sgm-E85-M10233">
+          <extent>
+              <charseq START="12189" END="12199">Discography</charseq>
+          </extent>
+          <head>
+              <charseq START="12189" END="12199">Discography</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Blink-182.sentences.sgm-T0" VAL="1992">
+        <timex2_mention ID="Blink-182.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="72" END="75">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T1" VAL="1998">
+        <timex2_mention ID="Blink-182.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="290" END="293">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T2" VAL="2005" MOD="START">
+        <timex2_mention ID="Blink-182.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="389" END="398">early 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T3" VAL="2009-02-08">
+        <timex2_mention ID="Blink-182.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="538" END="553">February 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T4" VAL="1992">
+        <timex2_mention ID="Blink-182.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1051" END="1059">1992–1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T5" VAL="PXY" MOD="START">
+        <timex2_mention ID="Blink-182.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1076" END="1086">early years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T6" VAL="1992-08">
+        <timex2_mention ID="Blink-182.sentences.sgm-T6-M1">
+            <extent>
+              <charseq START="1277" END="1287">August 1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T7" VAL="PTXH">
+        <timex2_mention ID="Blink-182.sentences.sgm-T7-M1">
+            <extent>
+              <charseq START="1389" END="1393">hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T8" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T8-M1">
+            <extent>
+              <charseq START="1450" END="1459">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T9" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Blink-182.sentences.sgm-T9-M1">
+            <extent>
+              <charseq START="1553" END="1555">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T10" VAL="TNI">
+        <timex2_mention ID="Blink-182.sentences.sgm-T10-M1">
+            <extent>
+              <charseq START="1569" END="1578">That night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T11" VAL="1993-05">
+        <timex2_mention ID="Blink-182.sentences.sgm-T11-M1">
+            <extent>
+              <charseq START="2227" END="2234">May 1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T12" VAL="P1Y">
+        <timex2_mention ID="Blink-182.sentences.sgm-T12-M1">
+            <extent>
+              <charseq START="2494" END="2506">The same year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T13" VAL="1993">
+        <timex2_mention ID="Blink-182.sentences.sgm-T13-M1">
+            <extent>
+              <charseq START="2828" END="2831">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T14" VAL="1998">
+        <timex2_mention ID="Blink-182.sentences.sgm-T14-M1">
+            <extent>
+              <charseq START="2987" END="2990">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T15" VAL="1994">
+        <timex2_mention ID="Blink-182.sentences.sgm-T15-M1">
+            <extent>
+              <charseq START="3049" END="3057">1994-1995</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T16" VAL="1994">
+        <timex2_mention ID="Blink-182.sentences.sgm-T16-M1">
+            <extent>
+              <charseq START="3076" END="3079">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T17" VAL="P3D">
+        <timex2_mention ID="Blink-182.sentences.sgm-T17-M1">
+            <extent>
+              <charseq START="3169" END="3178">three days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T18" VAL="1994">
+        <timex2_mention ID="Blink-182.sentences.sgm-T18-M1">
+            <extent>
+              <charseq START="3831" END="3834">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T19" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T19-M1">
+            <extent>
+              <charseq START="3960" END="3972">the next year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T20" VAL="1996">
+        <timex2_mention ID="Blink-182.sentences.sgm-T20-M1">
+            <extent>
+              <charseq START="4096" END="4099">1996</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T21" VAL="1998">
+        <timex2_mention ID="Blink-182.sentences.sgm-T21-M1">
+            <extent>
+              <charseq START="4203" END="4206">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T22" VAL="1997">
+        <timex2_mention ID="Blink-182.sentences.sgm-T22-M1">
+            <extent>
+              <charseq START="4277" END="4280">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T23" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Blink-182.sentences.sgm-T23-M1">
+            <extent>
+              <charseq START="4401" END="4406">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T24" VAL="1998">
+        <timex2_mention ID="Blink-182.sentences.sgm-T24-M1">
+            <extent>
+              <charseq START="4538" END="4541">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T25" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T25-M1">
+            <extent>
+              <charseq START="5150" END="5161">The next day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T26" VAL="1999">
+        <timex2_mention ID="Blink-182.sentences.sgm-T26-M1">
+            <extent>
+              <charseq START="5300" END="5303">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T27" VAL="2000">
+        <timex2_mention ID="Blink-182.sentences.sgm-T27-M1">
+            <extent>
+              <charseq START="5707" END="5710">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T28" VAL="P17Y">
+        <timex2_mention ID="Blink-182.sentences.sgm-T28-M1">
+            <extent>
+              <charseq START="5766" END="5776">17-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T29" VAL="1999">
+        <timex2_mention ID="Blink-182.sentences.sgm-T29-M1">
+            <extent>
+              <charseq START="6044" END="6047">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T30" VAL="2000">
+        <timex2_mention ID="Blink-182.sentences.sgm-T30-M1">
+            <extent>
+              <charseq START="6155" END="6158">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T31" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T31-M1">
+            <extent>
+              <charseq START="6448" END="6457">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T32" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T32-M1">
+            <extent>
+              <charseq START="6630" END="6639">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T33" VAL="2001">
+        <timex2_mention ID="Blink-182.sentences.sgm-T33-M1">
+            <extent>
+              <charseq START="6834" END="6837">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T34" VAL="P1W">
+        <timex2_mention ID="Blink-182.sentences.sgm-T34-M1">
+            <extent>
+              <charseq START="6952" END="6965">the first week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T35" VAL="2001-WI">
+        <timex2_mention ID="Blink-182.sentences.sgm-T35-M1">
+            <extent>
+              <charseq START="7110" END="7120">winter 2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T36" VAL="XXXX-09-11">
+        <timex2_mention ID="Blink-182.sentences.sgm-T36-M1">
+            <extent>
+              <charseq START="7158" END="7169">September 11</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T37" VAL="2002" MOD="START">
+        <timex2_mention ID="Blink-182.sentences.sgm-T37-M1">
+            <extent>
+              <charseq START="7201" END="7210">early 2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T38" VAL="2002">
+        <timex2_mention ID="Blink-182.sentences.sgm-T38-M1">
+            <extent>
+              <charseq START="7326" END="7329">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T39" VAL="2003" MOD="START">
+        <timex2_mention ID="Blink-182.sentences.sgm-T39-M1">
+            <extent>
+              <charseq START="7545" END="7554">early 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T40" VAL="2003-11-18">
+        <timex2_mention ID="Blink-182.sentences.sgm-T40-M1">
+            <extent>
+              <charseq START="7560" END="7576">November 18, 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T41" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T41-M1">
+            <extent>
+              <charseq START="7895" END="7898">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T42" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T42-M1">
+            <extent>
+              <charseq START="8007" END="8010">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T43" VAL="2003" MOD="END">
+        <timex2_mention ID="Blink-182.sentences.sgm-T43-M1">
+            <extent>
+              <charseq START="8222" END="8230">late 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T44" VAL="2004">
+        <timex2_mention ID="Blink-182.sentences.sgm-T44-M1">
+            <extent>
+              <charseq START="8240" END="8243">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T45" VAL="2004-SU">
+        <timex2_mention ID="Blink-182.sentences.sgm-T45-M1">
+            <extent>
+              <charseq START="8414" END="8431">the summer of 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T46" VAL="2005T20:09">
+        <timex2_mention ID="Blink-182.sentences.sgm-T46-M1">
+            <extent>
+              <charseq START="8459" END="8467">2005-2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T47" VAL="XXXX-SP">
+        <timex2_mention ID="Blink-182.sentences.sgm-T47-M1">
+            <extent>
+              <charseq START="8633" END="8638">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T48" VAL="FUTURE_REF" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="Blink-182.sentences.sgm-T48-M1">
+            <extent>
+              <charseq START="8790" END="8795">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T49" VAL="2005-02" MOD="MID">
+        <timex2_mention ID="Blink-182.sentences.sgm-T49-M1">
+            <extent>
+              <charseq START="8821" END="8837">mid-February 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T50" VAL="2004">
+        <timex2_mention ID="Blink-182.sentences.sgm-T50-M1">
+            <extent>
+              <charseq START="8993" END="8996">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T51" VAL="2004-12-16">
+        <timex2_mention ID="Blink-182.sentences.sgm-T51-M1">
+            <extent>
+              <charseq START="9057" END="9073">December 16, 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T52" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T52-M1">
+            <extent>
+              <charseq START="9120" END="9123">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T53" VAL="2005-02-22">
+        <timex2_mention ID="Blink-182.sentences.sgm-T53-M1">
+            <extent>
+              <charseq START="9180" END="9196">February 22, 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T54" VAL="P4Y" MOD="LESS_THAN">
+        <timex2_mention ID="Blink-182.sentences.sgm-T54-M1">
+            <extent>
+              <charseq START="9322" END="9337">almost four year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T55" VAL="2005-11-01">
+        <timex2_mention ID="Blink-182.sentences.sgm-T55-M1">
+            <extent>
+              <charseq START="9402" END="9417">November 1, 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T56" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T56-M1">
+            <extent>
+              <charseq START="9577" END="9586">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T57" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T57-M1">
+            <extent>
+              <charseq START="9813" END="9822">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T58" VAL="2006-05-23">
+        <timex2_mention ID="Blink-182.sentences.sgm-T58-M1">
+            <extent>
+              <charseq START="10054" END="10065">May 23, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T59" VAL="2007-11-06">
+        <timex2_mention ID="Blink-182.sentences.sgm-T59-M1">
+            <extent>
+              <charseq START="10168" END="10183">November 6, 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T60" VAL="PXD">
+        <timex2_mention ID="Blink-182.sentences.sgm-T60-M1">
+            <extent>
+              <charseq START="10254" END="10280">the final days of Blink-182</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T61" VAL="2006-11-14">
+        <timex2_mention ID="Blink-182.sentences.sgm-T61-M1">
+            <extent>
+              <charseq START="10416" END="10432">November 14, 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T62" VAL="2008-05-25">
+        <timex2_mention ID="Blink-182.sentences.sgm-T62-M1">
+            <extent>
+              <charseq START="10484" END="10495">May 25, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T63" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Blink-182.sentences.sgm-T63-M1">
+            <extent>
+              <charseq START="10632" END="10637">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T64" VAL="2009" MOD="START">
+        <timex2_mention ID="Blink-182.sentences.sgm-T64-M1">
+            <extent>
+              <charseq START="10715" END="10724">early 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T65" VAL="2008-11-18">
+        <timex2_mention ID="Blink-182.sentences.sgm-T65-M1">
+            <extent>
+              <charseq START="10881" END="10897">November 18, 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T66" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Blink-182.sentences.sgm-T66-M1">
+            <extent>
+              <charseq START="10949" END="10956">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T67" VAL="2009-01-09">
+        <timex2_mention ID="Blink-182.sentences.sgm-T67-M1">
+            <extent>
+              <charseq START="10992" END="11006">January 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Blink-182.sentences.sgm-V68" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Blink-182.sentences.sgm-V68-M1">
+            <extent>
+              <charseq START="11009" END="11015">MTV.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Blink-182.sentences.sgm-T69" VAL="2009-01-13">
+        <timex2_mention ID="Blink-182.sentences.sgm-T69-M1">
+            <extent>
+              <charseq START="11141" END="11156">January 13, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Blink-182.sentences.sgm-V70" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="Blink-182.sentences.sgm-V70-M1">
+            <extent>
+              <charseq START="11159" END="11165">MTV.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="Blink-182.sentences.sgm-T71" VAL="2009">
+        <timex2_mention ID="Blink-182.sentences.sgm-T71-M1">
+            <extent>
+              <charseq START="11372" END="11375">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T72" VAL="2009-02-08">
+        <timex2_mention ID="Blink-182.sentences.sgm-T72-M1">
+            <extent>
+              <charseq START="11428" END="11443">February 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T73" VAL="2004-12">
+        <timex2_mention ID="Blink-182.sentences.sgm-T73-M1">
+            <extent>
+              <charseq START="11518" END="11530">December 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T74">
+        <timex2_mention ID="Blink-182.sentences.sgm-T74-M1">
+            <extent>
+              <charseq START="11562" END="11569">the year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T75" VAL="P1D">
+        <timex2_mention ID="Blink-182.sentences.sgm-T75-M1">
+            <extent>
+              <charseq START="11801" END="11812">the same day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T76" VAL="1994">
+        <timex2_mention ID="Blink-182.sentences.sgm-T76-M1">
+            <extent>
+              <charseq START="12215" END="12218">1994</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T77" VAL="1997">
+        <timex2_mention ID="Blink-182.sentences.sgm-T77-M1">
+            <extent>
+              <charseq START="12233" END="12236">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T78" VAL="1999">
+        <timex2_mention ID="Blink-182.sentences.sgm-T78-M1">
+            <extent>
+              <charseq START="12259" END="12262">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T79" VAL="2001">
+        <timex2_mention ID="Blink-182.sentences.sgm-T79-M1">
+            <extent>
+              <charseq START="12297" END="12300">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Blink-182.sentences.sgm-T80" VAL="2003">
+        <timex2_mention ID="Blink-182.sentences.sgm-T80-M1">
+            <extent>
+              <charseq START="12314" END="12317">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="Blink-182.sentences.sgm-V81" TYPE="Job-Title">
+        <value_mention ID="Blink-182.sentences.sgm-V81-M1">
+            <extent>
+              <charseq START="5360" END="5367">producer</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="Blink-182.sentences.sgm-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E0" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R0-M0">
+          <extent>
+              <charseq START="40" END="84">an American rock trio formed in 1992 in Poway</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M1" ROLE="Arg-1">
+            <extent>
+              <charseq START="40" END="84">an American rock trio formed in 1992 in Poway</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E0-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="43" END="50">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R1-M1">
+          <extent>
+              <charseq START="80" END="84">Poway</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E1-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="80" END="84">Poway</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E2-M7" ROLE="Arg-2">
+            <extent>
+              <charseq START="87" END="96">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R2-M100">
+          <extent>
+              <charseq START="204" END="231">Tom DeLonge (vocals, guitar)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E5-M105" ROLE="Arg-1">
+            <extent>
+              <charseq START="204" END="231">Tom DeLonge (vocals, guitar)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M100" ROLE="Arg-2">
+            <extent>
+              <charseq START="139" END="175">The band, then known simply as Blink,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R3-M101">
+          <extent>
+              <charseq START="234" END="259">Mark Hoppus (vocals, bass)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M108" ROLE="Arg-1">
+            <extent>
+              <charseq START="234" END="259">Mark Hoppus (vocals, bass)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M100" ROLE="Arg-2">
+            <extent>
+              <charseq START="139" END="175">The band, then known simply as Blink,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R4-M102">
+          <extent>
+              <charseq START="265" END="284">Scott Raynor (drums)</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E7-M111" ROLE="Arg-1">
+            <extent>
+              <charseq START="265" END="284">Scott Raynor (drums)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M100" ROLE="Arg-2">
+            <extent>
+              <charseq START="139" END="175">The band, then known simply as Blink,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R5" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E9" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R5-M400">
+          <extent>
+              <charseq START="434" END="440">DeLonge</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E5-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="434" END="440">DeLonge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E9-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="458" END="474">Angels &amp; Airwaves</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R6-M1000">
+          <extent>
+              <charseq START="1312" END="1314">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E19-M1008" ROLE="Arg-1">
+            <extent>
+              <charseq START="1312" END="1314">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M1009" ROLE="Arg-2">
+            <extent>
+              <charseq START="1316" END="1322">brother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R7-M1001">
+          <extent>
+              <charseq START="1337" END="1339">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M1011" ROLE="Arg-1">
+            <extent>
+              <charseq START="1337" END="1339">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="1362" END="1367">a band</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E21" ROLE="Arg-2"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-T7" ROLE="Time-Within"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R8-M1100">
+          <extent>
+              <charseq START="1370" END="1376">The two</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E4-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1370" END="1376">The two</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E21-M1102" ROLE="Arg-2">
+            <extent>
+              <charseq START="1398" END="1413">DeLonge&apos;s garage</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-T7-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1389" END="1393">hours</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R9-M1101">
+          <extent>
+              <charseq START="1398" END="1404">DeLonge</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E5-M1103" ROLE="Arg-1">
+            <extent>
+              <charseq START="1398" END="1404">DeLonge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E21-M1102" ROLE="Arg-2">
+            <extent>
+              <charseq START="1398" END="1413">DeLonge&apos;s garage</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R10" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E18" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R10-M1300">
+          <extent>
+              <charseq START="1696" END="1698">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E7-M1315" ROLE="Arg-1">
+            <extent>
+              <charseq START="1696" END="1698">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E18-M1314" ROLE="Arg-2">
+            <extent>
+              <charseq START="1696" END="1705">his school</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R11" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E24" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R11-M1500">
+          <extent>
+              <charseq START="1894" END="1899">Hoppus</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M1503" ROLE="Arg-1">
+            <extent>
+              <charseq START="1894" END="1899">Hoppus</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E24-M1502" ROLE="Arg-2">
+            <extent>
+              <charseq START="1894" END="1912">Hoppus&apos;s girlfriend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="Blink-182.sentences.sgm-R11-M1800">
+          <extent>
+              <charseq START="2188" END="2190">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M1805" ROLE="Arg-1">
+            <extent>
+              <charseq START="2188" END="2190">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E24-M1804" ROLE="Arg-2">
+            <extent>
+              <charseq START="2188" END="2201">his girlfriend</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E25" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R12-M1900">
+          <extent>
+              <charseq START="2291" END="2296">Raynor</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E7-M1908" ROLE="Arg-1">
+            <extent>
+              <charseq START="2291" END="2296">Raynor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E25-M1907" ROLE="Arg-2">
+            <extent>
+              <charseq START="2291" END="2306">Raynor&apos;s bedroom</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E31" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R13-M2300">
+          <extent>
+              <charseq START="2738" END="2745">the band</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M2311" ROLE="Arg-1">
+            <extent>
+              <charseq START="2738" END="2745">the band</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E31-M2314" ROLE="Arg-2">
+            <extent>
+              <charseq START="2781" END="2790">Dude Ranch</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E30" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R14-M2301">
+          <extent>
+              <charseq START="2756" END="2761">Buddha</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E29-M2312" ROLE="Arg-1">
+            <extent>
+              <charseq START="2756" END="2761">Buddha</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E30-M2313" ROLE="Arg-2">
+            <extent>
+              <charseq START="2764" END="2775">Cheshire Cat</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R15" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E33" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R15-M2400">
+          <extent>
+              <charseq START="2944" END="2949">Hoppus</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M2413" ROLE="Arg-1">
+            <extent>
+              <charseq START="2944" END="2949">Hoppus</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E33-M2412" ROLE="Arg-2">
+            <extent>
+              <charseq START="2944" END="2956">Hoppus&apos;s boss</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R16" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E36" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R16-M3000">
+          <extent>
+              <charseq START="3524" END="3557">an Irish pop band of the same name</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M3006" ROLE="Arg-1">
+            <extent>
+              <charseq START="3524" END="3557">an Irish pop band of the same name</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E36-M3008" ROLE="Arg-2">
+            <extent>
+              <charseq START="3527" END="3531">Irish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E2" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R17-M3600">
+          <extent>
+              <charseq START="4031" END="4051">Encinitas, California</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E42-M3605" ROLE="Arg-1">
+            <extent>
+              <charseq START="4031" END="4051">Encinitas, California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E2-M3607" ROLE="Arg-2">
+            <extent>
+              <charseq START="4042" END="4051">California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R18" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E48" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R18-M4300">
+          <extent>
+              <charseq START="4952" END="5013">drummer Travis Barker of Blink-182&apos;s support band The Aquabats</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E8-M4303" ROLE="Arg-1">
+            <extent>
+              <charseq START="4952" END="5013">drummer Travis Barker of Blink-182&apos;s support band The Aquabats</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E48-M4307" ROLE="Arg-2">
+            <extent>
+              <charseq START="4977" END="5013">Blink-182&apos;s support band The Aquabats</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R19" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E46" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R19-M4301">
+          <extent>
+              <charseq START="4977" END="5013">Blink-182&apos;s support band The Aquabats</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E48-M4307" ROLE="Arg-1">
+            <extent>
+              <charseq START="4977" END="5013">Blink-182&apos;s support band The Aquabats</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E46-M4309" ROLE="Arg-2">
+            <extent>
+              <charseq START="4977" END="4985">Blink-182</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R20" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E52" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R20-M4600">
+          <extent>
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E52-M4621" ROLE="Arg-1">
+            <extent>
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M4620" ROLE="Arg-2">
+            <extent>
+              <charseq START="5331" END="5338">the band</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R21" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E55" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E21" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R21-M5001">
+          <extent>
+              <charseq START="5822" END="5831">his family</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E55-M5016" ROLE="Arg-1">
+            <extent>
+              <charseq START="5822" END="5831">his family</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E21-M5015" ROLE="Arg-2">
+            <extent>
+              <charseq START="5822" END="5838">his family&apos;s home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R22" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E55" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R22-M5002">
+          <extent>
+              <charseq START="5822" END="5824">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E6-M5017" ROLE="Arg-1">
+            <extent>
+              <charseq START="5822" END="5824">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E55-M5016" ROLE="Arg-2">
+            <extent>
+              <charseq START="5822" END="5831">his family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R23" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E70" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R23-M7700">
+          <extent>
+              <charseq START="9078" END="9140">the Point Depot in Dublin, Ireland, their last live performance</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E69-M7707" ROLE="Arg-1">
+            <extent>
+              <charseq START="9078" END="9140">the Point Depot in Dublin, Ireland, their last live performance</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E70-M7711" ROLE="Arg-2">
+            <extent>
+              <charseq START="9097" END="9102">Dublin</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R24" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E69" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E36" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R24-M7701">
+          <extent>
+              <charseq START="9078" END="9140">the Point Depot in Dublin, Ireland, their last live performance</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E69-M7707" ROLE="Arg-1">
+            <extent>
+              <charseq START="9078" END="9140">the Point Depot in Dublin, Ireland, their last live performance</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E36-M7712" ROLE="Arg-2">
+            <extent>
+              <charseq START="9105" END="9111">Ireland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R25" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E71" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R25-M7800">
+          <extent>
+              <charseq START="9219" END="9236">their band manager</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E71-M7803" ROLE="Arg-1">
+            <extent>
+              <charseq START="9219" END="9236">their band manager</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M7804" ROLE="Arg-2">
+            <extent>
+              <charseq START="9219" END="9223">their</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R26" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E74" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E75" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R26-M8300">
+          <extent>
+              <charseq START="9630" END="9641">Another Girl</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E74-M8304" ROLE="Arg-1">
+            <extent>
+              <charseq START="9630" END="9641">Another Girl</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E75-M8305" ROLE="Arg-2">
+            <extent>
+              <charseq START="9644" END="9701">Another Planet&quot; (a cover song originally by The Only Ones)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Blink-182.sentences.sgm-R27" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Blink-182.sentences.sgm-E83" ROLE="Arg-1"/>
+      <relation_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Arg-2"/>
+        <relation_mention ID="Blink-182.sentences.sgm-R27-M9900">
+          <extent>
+              <charseq START="11446" END="11474">all three members of the band</charseq>
+          </extent>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E83-M9907" ROLE="Arg-1">
+            <extent>
+              <charseq START="11446" END="11474">all three members of the band</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Blink-182.sentences.sgm-E3-M9909" ROLE="Arg-2">
+            <extent>
+              <charseq START="11467" END="11474">the band</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <event ID="Blink-182.sentences.sgm-EV0" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Org"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E1" ROLE="Place"/>
+      <event_argument REFID="Blink-182.sentences.sgm-T0" ROLE="Time-Within"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV0-M0">
+          <extent>
+              <charseq START="62" END="67">formed</charseq>
+          </extent>
+          <anchor>
+              <charseq START="62" END="67">formed</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M1" ROLE="Org">
+          <extent>
+              <charseq START="40" END="84">an American rock trio formed in 1992 in Poway</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E1-M6" ROLE="Place">
+          <extent>
+              <charseq START="80" END="84">Poway</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-T0-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="72" END="75">1992</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV1" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E8" ROLE="Person"/>
+      <event_argument REFID="Blink-182.sentences.sgm-T1" ROLE="Time-Within"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV1-M200">
+          <extent>
+              <charseq START="346" END="353">replaced</charseq>
+          </extent>
+          <anchor>
+              <charseq START="346" END="353">replaced</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E8-M203" ROLE="Person">
+          <extent>
+              <charseq START="324" END="344">drummer Travis Barker</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="290" END="293">1998</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV2" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E9" ROLE="Org"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E5" ROLE="Agent"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV2-M400">
+          <extent>
+              <charseq START="453" END="456">form</charseq>
+          </extent>
+          <anchor>
+              <charseq START="453" END="456">form</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E9-M401" ROLE="Org">
+          <extent>
+              <charseq START="458" END="474">Angels &amp; Airwaves</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E5-M400" ROLE="Agent">
+          <extent>
+              <charseq START="434" END="440">DeLonge</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV3" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E4" ROLE="Entity"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV3-M500">
+          <extent>
+              <charseq START="590" END="597">reunited</charseq>
+          </extent>
+          <anchor>
+              <charseq START="590" END="597">reunited</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E4-M503" ROLE="Entity">
+          <extent>
+              <charseq START="581" END="584">they</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV4" TYPE="Business" SUBTYPE="Start-Org" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Org"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E4" ROLE="Agent"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV4-M1300">
+          <extent>
+              <charseq START="1622" END="1626">start</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1622" END="1626">start</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M1304" ROLE="Org">
+          <extent>
+              <charseq START="1628" END="1633">a band</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E4-M1302" ROLE="Agent">
+          <extent>
+              <charseq START="1596" END="1599">they</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E7" ROLE="Entity"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV5-M1302">
+          <extent>
+              <charseq START="1689" END="1691">met</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1689" END="1691">met</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E7-M1311" ROLE="Entity">
+          <extent>
+              <charseq START="1682" END="1683">he</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_mention ID="Blink-182.sentences.sgm-EV6-M1303">
+          <extent>
+              <charseq START="1709" END="1714">Battle</charseq>
+          </extent>
+          <anchor>
+              <charseq START="1709" END="1714">Battle</charseq>
+          </anchor>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV7" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E29" ROLE="Person"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV7-M2401">
+          <extent>
+              <charseq START="2804" END="2811">released</charseq>
+          </extent>
+          <anchor>
+              <charseq START="2804" END="2811">released</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E29-M2400" ROLE="Person">
+          <extent>
+              <charseq START="2793" END="2798">Buddha</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV8" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E37" ROLE="Person"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E29" ROLE="Person"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV8-M3200">
+          <extent>
+              <charseq START="3684" END="3691">released</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3684" END="3691">released</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E37-M3205" ROLE="Person">
+          <extent>
+              <charseq START="3693" END="3704">Buddha Promo</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+      <event_mention ID="Blink-182.sentences.sgm-EV8-M3202">
+          <extent>
+              <charseq START="3753" END="3759">release</charseq>
+          </extent>
+          <anchor>
+              <charseq START="3753" END="3759">release</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E29-M3210" ROLE="Person">
+          <extent>
+              <charseq START="3764" END="3769">Buddha</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E42" ROLE="Destination"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Artifact"/>
+      <event_argument REFID="Blink-182.sentences.sgm-T20" ROLE="Time-Within"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV9-M3600">
+          <extent>
+              <charseq START="4021" END="4026">moving</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4021" END="4026">moving</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E42-M3605" ROLE="Destination">
+          <extent>
+              <charseq START="4031" END="4051">Encinitas, California</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M3608" ROLE="Artifact">
+          <extent>
+              <charseq START="4054" END="4061">the band</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-T20-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="4096" END="4099">1996</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV10" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E6" ROLE="Person"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV10-M4201">
+          <extent>
+              <charseq START="4901" END="4905">fired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="4901" END="4905">fired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E6-M4209" ROLE="Person">
+          <extent>
+              <charseq START="4907" END="4909">him</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV11" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Entity"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E8" ROLE="Person"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV11-M4400">
+          <extent>
+              <charseq START="5132" END="5138">joining</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5132" END="5138">joining</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M4405" ROLE="Entity">
+          <extent>
+              <charseq START="5140" END="5147">the band</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E8-M4404" ROLE="Person">
+          <extent>
+              <charseq START="5125" END="5130">Barker</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV12" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E52" ROLE="Person"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Entity"/>
+      <event_argument REFID="Blink-182.sentences.sgm-V81" ROLE="Position"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV12-M4601">
+          <extent>
+              <charseq START="5340" END="5344">hired</charseq>
+          </extent>
+          <anchor>
+              <charseq START="5340" END="5344">hired</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E52-M4621" ROLE="Person">
+          <extent>
+              <charseq START="5346" END="5355">Jerry Finn</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M4620" ROLE="Entity">
+          <extent>
+              <charseq START="5331" END="5338">the band</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-V81-M1" ROLE="Position">
+            <extent>
+              <charseq START="5360" END="5367">producer</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV13" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E3" ROLE="Entity"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E43" ROLE="Person"/>
+      <event_argument REFID="Blink-182.sentences.sgm-E51" ROLE="Person"/>
+      <event_argument REFID="Blink-182.sentences.sgm-T30" ROLE="Time-Within"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV13-M5400">
+          <extent>
+              <charseq START="6170" END="6177">released</charseq>
+          </extent>
+          <anchor>
+              <charseq START="6170" END="6177">released</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E3-M5401" ROLE="Entity">
+          <extent>
+              <charseq START="6161" END="6168">the band</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E43-M5411" ROLE="Person">
+          <extent>
+              <charseq START="6259" END="6266">The Mark</charseq>
+          </extent>
+        </event_mention_argument>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E51-M5413" ROLE="Person">
+          <extent>
+              <charseq START="6269" END="6271">Tom</charseq>
+          </extent>
+        </event_mention_argument>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-T30-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="6155" END="6158">2000</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-T36" ROLE="Time-Within"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV14-M6201">
+          <extent>
+              <charseq START="7171" END="7177">attacks</charseq>
+          </extent>
+          <anchor>
+              <charseq START="7171" END="7177">attacks</charseq>
+          </anchor>
+          <event_mention_argument REFID="Blink-182.sentences.sgm-T36-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="7158" END="7169">September 11</charseq>
+            </extent>
+          </event_mention_argument>
+        </event_mention>
+    </event>
+
+    <event ID="Blink-182.sentences.sgm-EV15" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Unspecified">
+      <event_argument REFID="Blink-182.sentences.sgm-E5" ROLE="Person"/>
+      <event_mention ID="Blink-182.sentences.sgm-EV15-M7800">
+          <extent>
+              <charseq START="9293" END="9296">quit</charseq>
+          </extent>
+          <anchor>
+              <charseq START="9293" END="9296">quit</charseq>
+          </anchor>
+        <event_mention_argument REFID="Blink-182.sentences.sgm-E5-M7811" ROLE="Person">
+          <extent>
+              <charseq START="9281" END="9287">DeLonge</charseq>
+          </extent>
+        </event_mention_argument>
+        </event_mention>
+    </event>
+
+  </document>
+</source_file>

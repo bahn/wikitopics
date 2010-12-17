@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Titanoboa.sentences.sgm">
+  <document DOCID="Titanoboa.sentences.sgm">
+
+    <entity ID="Titanoboa.sentences.sgm-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E0-M0">
+          <extent>
+              <charseq START="26" END="35">Titanoboa,</charseq>
+          </extent>
+          <head>
+              <charseq START="26" END="34">Titanoboa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Titanoboa">
+              <charseq START="26" END="34">Titanoboa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E1-M11">
+          <extent>
+              <charseq START="146" END="154">Paleocene</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="154">Paleocene</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paleocene">
+              <charseq START="146" END="154">Paleocene</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E2-M102">
+          <extent>
+              <charseq START="267" END="293">the Titanoboa cerrejonensis</charseq>
+          </extent>
+          <head>
+              <charseq START="271" END="293">Titanoboa cerrejonensis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E2-M304">
+          <extent>
+              <charseq START="621" END="650">28 individual T. cerrejonensis</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="650">T. cerrejonensis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E2-M706">
+          <extent>
+              <charseq START="1354" END="1362">Titanoboa</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1362">Titanoboa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Titanoboa cerrejonensis">
+              <charseq START="271" END="293">Titanoboa cerrejonensis</charseq>
+          </name>
+          <name NAME="T. cerrejonensis">
+              <charseq START="635" END="650">T. cerrejonensis</charseq>
+          </name>
+          <name NAME="Titanoboa">
+              <charseq START="1354" END="1362">Titanoboa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E3-M212">
+          <extent>
+              <charseq START="456" END="457">T.</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="457">T.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="T.">
+              <charseq START="456" END="457">T.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Titanoboa.sentences.sgm-E4-M207">
+          <extent>
+              <charseq START="401" END="422">those of extant snakes</charseq>
+          </extent>
+          <head>
+              <charseq START="401" END="405">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Titanoboa.sentences.sgm-E5-M210">
+          <extent>
+              <charseq START="425" END="435">researchers</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="435">researchers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E6-M310" ROLE="GPE">
+          <extent>
+              <charseq START="707" END="714">Cerrejón</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="714">Cerrejón</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cerrejón">
+              <charseq START="707" END="714">Cerrejón</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E7-M311" ROLE="GPE">
+          <extent>
+              <charseq START="717" END="726">La Guajira</charseq>
+          </extent>
+          <head>
+              <charseq START="717" END="726">La Guajira</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="La Guajira">
+              <charseq START="717" END="726">La Guajira</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E8-M312" ROLE="GPE">
+          <extent>
+              <charseq START="729" END="736">Colombia</charseq>
+          </extent>
+          <head>
+              <charseq START="729" END="736">Colombia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colombia">
+              <charseq START="729" END="736">Colombia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Titanoboa.sentences.sgm-E9-M306">
+          <extent>
+              <charseq START="689" END="736">the coal mines of Cerrejón, La Guajira, Colombia</charseq>
+          </extent>
+          <head>
+              <charseq START="698" END="702">mines</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E10-M404" ROLE="GPE">
+          <extent>
+              <charseq START="779" END="793">Paleocene-epoch</charseq>
+          </extent>
+          <head>
+              <charseq START="779" END="793">Paleocene-epoch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paleocene-epoch">
+              <charseq START="779" END="793">Paleocene-epoch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E11" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E11-M407" ROLE="GPE">
+          <extent>
+              <charseq START="858" END="870">South America</charseq>
+          </extent>
+          <head>
+              <charseq START="858" END="870">South America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South America">
+              <charseq START="858" END="870">South America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E12-M507">
+          <extent>
+              <charseq START="960" END="973">Jonathan Bloch</charseq>
+          </extent>
+          <head>
+              <charseq START="960" END="973">Jonathan Bloch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Titanoboa.sentences.sgm-E12-M508">
+          <extent>
+              <charseq START="976" END="1024">a University of Florida vertebrate paleontologist</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1024">paleontologist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jonathan Bloch">
+              <charseq START="960" END="973">Jonathan Bloch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E13-M509">
+          <extent>
+              <charseq START="978" END="998">University of Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="978" END="998">University of Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of Florida">
+              <charseq START="978" END="998">University of Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E14-M511">
+          <extent>
+              <charseq START="1031" END="1046">Carlos Jaramillo</charseq>
+          </extent>
+          <head>
+              <charseq START="1031" END="1046">Carlos Jaramillo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carlos Jaramillo">
+              <charseq START="1031" END="1046">Carlos Jaramillo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E15-M514">
+          <extent>
+              <charseq START="1070" END="1122">the Smithsonian Tropical Research Institute in Panama</charseq>
+          </extent>
+          <head>
+              <charseq START="1074" END="1112">Smithsonian Tropical Research Institute</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Smithsonian Tropical Research Institute">
+              <charseq START="1074" END="1112">Smithsonian Tropical Research Institute</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E16-M517" ROLE="LOC">
+          <extent>
+              <charseq START="1117" END="1122">Panama</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1122">Panama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Titanoboa.sentences.sgm-E16-M811" ROLE="LOC">
+          <extent>
+              <charseq START="1581" END="1591">the equator</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1591">equator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Panama">
+              <charseq START="1117" END="1122">Panama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Titanoboa.sentences.sgm-E17-M504">
+          <extent>
+              <charseq START="928" END="951">international scientists</charseq>
+          </extent>
+          <head>
+              <charseq START="942" END="951">scientists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E19" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E19-M702">
+          <extent>
+              <charseq START="1325" END="1333">the Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="1329" END="1333">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Titanoboa.sentences.sgm-E19-M1011">
+          <extent>
+              <charseq START="1878" END="1882">Earth</charseq>
+          </extent>
+          <head>
+              <charseq START="1878" END="1882">Earth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Earth">
+              <charseq START="1329" END="1333">Earth</charseq>
+          </name>
+          <name NAME="Earth">
+              <charseq START="1878" END="1882">Earth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Titanoboa.sentences.sgm-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="Titanoboa.sentences.sgm-E20-M803">
+          <extent>
+              <charseq START="1483" END="1493">larger ones</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1493">ones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Titanoboa.sentences.sgm-E20-M808">
+          <extent>
+              <charseq START="1545" END="1556">smaller ones</charseq>
+          </extent>
+          <head>
+              <charseq START="1553" END="1556">ones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T0" VAL="PXY">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="117" END="136">58 million years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="188" END="198">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T2" VAL="2009">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="600" END="603">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T3" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1256" END="1265">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T4-M1">
+            <extent>
+              <charseq START="1425" END="1430">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Titanoboa.sentences.sgm-T5">
+        <timex2_mention ID="Titanoboa.sentences.sgm-T5-M1">
+            <extent>
+              <charseq START="1476" END="1480">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Titanoboa.sentences.sgm-R0" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Titanoboa.sentences.sgm-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="Titanoboa.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Titanoboa.sentences.sgm-R0-M300">
+          <extent>
+              <charseq START="689" END="736">the coal mines of Cerrejón, La Guajira, Colombia</charseq>
+          </extent>
+          <relation_mention_argument REFID="Titanoboa.sentences.sgm-E9-M306" ROLE="Arg-1">
+            <extent>
+              <charseq START="689" END="736">the coal mines of Cerrejón, La Guajira, Colombia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Titanoboa.sentences.sgm-E8-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="729" END="736">Colombia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="Titanoboa.sentences.sgm-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Titanoboa.sentences.sgm-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="Titanoboa.sentences.sgm-E16" ROLE="Arg-2"/>
+        <relation_mention ID="Titanoboa.sentences.sgm-R1-M500">
+          <extent>
+              <charseq START="1070" END="1122">the Smithsonian Tropical Research Institute in Panama</charseq>
+          </extent>
+          <relation_mention_argument REFID="Titanoboa.sentences.sgm-E15-M514" ROLE="Arg-1">
+            <extent>
+              <charseq START="1070" END="1122">the Smithsonian Tropical Research Institute in Panama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Titanoboa.sentences.sgm-E16-M517" ROLE="Arg-2">
+            <extent>
+              <charseq START="1117" END="1122">Panama</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

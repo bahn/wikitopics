@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.2.dtd">
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="Thyrotropin-releasing_hormone.sentences.sgm">
+  <document DOCID="Thyrotropin-releasing_hormone.sentences.sgm">
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E0-M5">
+          <extent>
+              <charseq START="125" END="127">TRF</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="127">TRF</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TRF">
+              <charseq START="125" END="127">TRF</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E1-M317">
+          <extent>
+              <charseq START="795" END="818">cells called thyrotropes</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="799">cells</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E2-M403">
+          <extent>
+              <charseq START="847" END="849">TRH</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="849">TRH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E2-M1701">
+          <extent>
+              <charseq START="2668" END="2670">TRH</charseq>
+          </extent>
+          <head>
+              <charseq START="2668" END="2670">TRH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TRH">
+              <charseq START="847" END="849">TRH</charseq>
+          </name>
+          <name NAME="TRH">
+              <charseq START="2668" END="2670">TRH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E3" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E3-M404">
+          <extent>
+              <charseq START="875" END="897">other areas of the body</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="885">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E4-M409" ROLE="LOC">
+          <extent>
+              <charseq START="941" END="957">pancreatic islets</charseq>
+          </extent>
+          <head>
+              <charseq START="952" END="957">islets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E5-M505">
+          <extent>
+              <charseq START="1040" END="1054">Roger Guillemin</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1054">Roger Guillemin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E5-M612">
+          <extent>
+              <charseq START="1211" END="1219">Guillemin</charseq>
+          </extent>
+          <head>
+              <charseq START="1211" END="1219">Guillemin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E5-M701">
+          <extent>
+              <charseq START="1262" END="1270">Guillemin</charseq>
+          </extent>
+          <head>
+              <charseq START="1262" END="1270">Guillemin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E5-M700">
+          <extent>
+              <charseq START="1262" END="1280">Guillemin&apos;s chemist</charseq>
+          </extent>
+          <head>
+              <charseq START="1274" END="1280">chemist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E5-M809">
+          <extent>
+              <charseq START="1502" END="1510">Guillemin</charseq>
+          </extent>
+          <head>
+              <charseq START="1502" END="1510">Guillemin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Guillemin">
+              <charseq START="1040" END="1054">Roger Guillemin</charseq>
+          </name>
+          <name NAME="Guillemin">
+              <charseq START="1211" END="1219">Guillemin</charseq>
+          </name>
+          <name NAME="Guillemin">
+              <charseq START="1262" END="1270">Guillemin</charseq>
+          </name>
+          <name NAME="Guillemin">
+              <charseq START="1502" END="1510">Guillemin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E6-M506">
+          <extent>
+              <charseq START="1060" END="1076">Andrew V. Schally</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1076">Andrew V. Schally</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E6-M606">
+          <extent>
+              <charseq START="1139" END="1145">Schally</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1145">Schally</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E6-M808">
+          <extent>
+              <charseq START="1490" END="1496">Schally</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1496">Schally</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew V. Schally">
+              <charseq START="1060" END="1076">Andrew V. Schally</charseq>
+          </name>
+          <name NAME="Schally">
+              <charseq START="1139" END="1145">Schally</charseq>
+          </name>
+          <name NAME="Schally">
+              <charseq START="1490" END="1496">Schally</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E7-M600">
+          <extent>
+              <charseq START="1087" END="1098">Both parties</charseq>
+          </extent>
+          <head>
+              <charseq START="1092" END="1098">parties</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thyrotropin-releasing_hormone.sentences.sgm-E7-M603">
+          <extent>
+              <charseq START="1107" END="1111">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1107" END="1111">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E7-M709">
+          <extent>
+              <charseq START="1389" END="1400">both parties</charseq>
+          </extent>
+          <head>
+              <charseq START="1394" END="1400">parties</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E8-M601">
+          <extent>
+              <charseq START="1107" END="1136">their labs determined it first</charseq>
+          </extent>
+          <head>
+              <charseq START="1113" END="1116">labs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E9-M705">
+          <extent>
+              <charseq START="1330" END="1332">NIH</charseq>
+          </extent>
+          <head>
+              <charseq START="1330" END="1332">NIH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NIH">
+              <charseq START="1330" END="1332">NIH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E10-M806" ROLE="LOC">
+          <extent>
+              <charseq START="1466" END="1473">Medicine</charseq>
+          </extent>
+          <head>
+              <charseq START="1466" END="1473">Medicine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Medicine">
+              <charseq START="1466" END="1473">Medicine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E11-M1005">
+          <extent>
+              <charseq START="1769" END="1776">359.5 Da</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1776">Da</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="Thyrotropin-releasing_hormone.sentences.sgm-E11-M1102">
+          <extent>
+              <charseq START="1818" END="1820">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1818" END="1820">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Da">
+              <charseq START="1775" END="1776">Da</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E12-M1111">
+          <extent>
+              <charseq START="1880" END="1902">brand name Relefact TRH</charseq>
+          </extent>
+          <head>
+              <charseq START="1891" END="1902">Relefact TRH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E12-M1113">
+          <extent>
+              <charseq START="1886" END="1889">name</charseq>
+          </extent>
+          <head>
+              <charseq START="1886" END="1889">name</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E12-M2000">
+          <extent>
+              <charseq START="3124" END="3126">TRH</charseq>
+          </extent>
+          <head>
+              <charseq START="3124" END="3126">TRH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Relefact TRH">
+              <charseq START="1891" END="1902">Relefact TRH</charseq>
+          </name>
+          <name NAME="TRH">
+              <charseq START="3124" END="3126">TRH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E13-M1400">
+          <extent>
+              <charseq START="2126" END="2138">Some patients</charseq>
+          </extent>
+          <head>
+              <charseq START="2131" END="2138">patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E13-M2001">
+          <extent>
+              <charseq START="3159" END="3171">some patients</charseq>
+          </extent>
+          <head>
+              <charseq START="3164" END="3171">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E14-M1702">
+          <extent>
+              <charseq START="2686" END="2872">administration of a small amount of TRH intravenously, following which levels of TSH will be measured at several subsequent time points using samples of blood taken from a peripheral vein</charseq>
+          </extent>
+          <head>
+              <charseq START="2686" END="2699">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E14-M1906">
+          <extent>
+              <charseq START="3104" END="3121">TRH administration</charseq>
+          </extent>
+          <head>
+              <charseq START="3108" END="3121">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E15-M1806">
+          <extent>
+              <charseq START="2941" END="2943">HPA</charseq>
+          </extent>
+          <head>
+              <charseq START="2941" END="2943">HPA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E15-M1903">
+          <extent>
+              <charseq START="3037" END="3039">HPA</charseq>
+          </extent>
+          <head>
+              <charseq START="3037" END="3039">HPA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HPA">
+              <charseq START="2941" END="2943">HPA</charseq>
+          </name>
+          <name NAME="HPA">
+              <charseq START="3037" END="3039">HPA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E16-M1800">
+          <extent>
+              <charseq START="2875" END="2944">Patients with normal function of the hypothalamic-pituitary axis (HPA)</charseq>
+          </extent>
+          <head>
+              <charseq START="2875" END="2882">Patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E16-M1900">
+          <extent>
+              <charseq START="3011" END="3048">Patients with compromised HPA function</charseq>
+          </extent>
+          <head>
+              <charseq START="3011" END="3018">Patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E16-M2105">
+          <extent>
+              <charseq START="3277" END="3284">patients</charseq>
+          </extent>
+          <head>
+              <charseq START="3277" END="3284">patients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E16-M2200">
+          <extent>
+              <charseq START="3335" END="3342">patients</charseq>
+          </extent>
+          <head>
+              <charseq START="3335" END="3342">patients</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="Thyrotropin-releasing_hormone.sentences.sgm-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="Thyrotropin-releasing_hormone.sentences.sgm-E17-M1804" ROLE="GPE">
+          <extent>
+              <charseq START="2908" END="2944">the hypothalamic-pituitary axis (HPA)</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2938">axis</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="Thyrotropin-releasing_hormone.sentences.sgm-T0" VAL="1969">
+        <timex2_mention ID="Thyrotropin-releasing_hormone.sentences.sgm-T0-M1">
+            <extent>
+              <charseq START="1081" END="1084">1969</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thyrotropin-releasing_hormone.sentences.sgm-T1" VAL="1966">
+        <timex2_mention ID="Thyrotropin-releasing_hormone.sentences.sgm-T1-M1">
+            <extent>
+              <charseq START="1182" END="1185">1966</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thyrotropin-releasing_hormone.sentences.sgm-T2" VAL="1969">
+        <timex2_mention ID="Thyrotropin-releasing_hormone.sentences.sgm-T2-M1">
+            <extent>
+              <charseq START="1321" END="1324">1969</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="Thyrotropin-releasing_hormone.sentences.sgm-T3" VAL="1977">
+        <timex2_mention ID="Thyrotropin-releasing_hormone.sentences.sgm-T3-M1">
+            <extent>
+              <charseq START="1446" END="1449">1977</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="Thyrotropin-releasing_hormone.sentences.sgm-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="Thyrotropin-releasing_hormone.sentences.sgm-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="Thyrotropin-releasing_hormone.sentences.sgm-E8" ROLE="Arg-2"/>
+        <relation_mention ID="Thyrotropin-releasing_hormone.sentences.sgm-R0-M600">
+          <extent>
+              <charseq START="1107" END="1111">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="Thyrotropin-releasing_hormone.sentences.sgm-E7-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="1107" END="1111">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="Thyrotropin-releasing_hormone.sentences.sgm-E8-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="1107" END="1136">their labs determined it first</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>
