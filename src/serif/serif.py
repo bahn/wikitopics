@@ -83,7 +83,10 @@ class Timex:
 		self.start = start
 		self.end = end
 	def __str__(self):
-		return self.val
+		if self.val:
+			return self.val
+		else:
+			return "<NONE>"
 
 
 class Entity:

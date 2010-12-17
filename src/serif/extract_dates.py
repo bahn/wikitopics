@@ -14,10 +14,12 @@ import sys
 def check_apf(text, data):
     for timex in data.timexList:
 		substr = text.substr(timex.start, timex.end)
-		line = text.expandstr(timex.start, timex.end)
+		start, end = text.expand(timex.start, timex.end)
+		line = text.substr(start, end)
+		out = line[:timex.start - start] + '[' + substr + ']' + line[timex.end - start + 1:]
 		#print (u"VAL=%s STR=%s LINE=%s" % (timex.val, substr, line)).encode('utf-8')
 		#print substr.encode('utf-8') + '\t"' + line.encode('utf-8') + '"'
-		print (timex.val + '\t"' + substr + '"').encode('utf-8')
+		print ('  - %s "%s" : %s' % (str(timex), substr, out)).encode('utf8')
 
 
 if __name__ == '__main__':
