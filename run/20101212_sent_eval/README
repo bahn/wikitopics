@@ -119,6 +119,7 @@ cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-self2 ../../data/sen
 Result
 ======
 First:
+evaluation for the first date.
 item_counts: 10
 a best_correct: 1
 b best_guess: 10
@@ -132,6 +133,21 @@ c second_answer: 24
 p = a/b = 0.5
 r = a/c = 0.208333333333
 f = 2pr / (p+r) = 0.294117647059
+
+evaluation for all the five dates.
+item_counts: 50
+a best_correct: 7
+b best_guess: 50
+c best_answer: 33
+p = a/b = 0.14
+r = a/c = 0.212121212121
+f = 2pr / (p+r) = 0.168674698795
+a second_correct: 17
+b second_guess: 50
+c second_answer: 107
+p = a/b = 0.34
+r = a/c = 0.158878504673
+f = 2pr / (p+r) = 0.216560509554
 
 Recent:
 These are the result for the ten articles of the first date.

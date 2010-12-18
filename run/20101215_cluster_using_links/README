@@ -34,6 +34,10 @@ To evaluate:
 	$ ./eval_onehop.sh -min | ./tabularize.perl
 	$ ./eval_onehop.sh -max | ./tabularize.perl
 
+To find files that are missing in the link structures.
+$ grep -A 100 "new and not found" * | grep -v "new and not found" | grep -v 'clusters-$' | grep -v '^--$' | wc -l
+      66
+
 Results
 =======
 ONEHOP:
@@ -106,6 +110,57 @@ bahn	auto-onehop-max	0210	0.4571	0.4208	0.4382
 bahn	auto-onehop-max	0419	0.5858	0.5649	0.5752
 bahn	auto-onehop-max	0512	0.7697	0.6292	0.6924
 bahn	auto-onehop-max	1012	0.4126	0.3488	0.3780
+
+For comparison:
+Manual:
+ccb	bahn	0127	0.8121	0.7372	0.7728
+ccb	bahn	0210	0.8736	0.5517	0.6763
+ccb	bahn	0419	1.0000	0.7083	0.8293
+ccb	bahn	0512	0.6936	0.8909	0.7799
+ccb	bahn	1012	0.7037	0.5524	0.6190
+ccb	ben	0127	0.4881	0.8831	0.6287
+ccb	ben	0210	0.7429	0.6110	0.6705
+ccb	ben	0419	0.7778	0.6642	0.7165
+ccb	ben	0512	0.6607	0.9253	0.7709
+ccb	ben	1012	0.7372	0.4691	0.5734
+ben	bahn	0127	0.9324	0.4453	0.6028
+ben	bahn	0210	0.7647	0.5940	0.6687
+ben	bahn	0419	0.8947	0.7556	0.8193
+ben	bahn	0512	0.9714	0.8938	0.9310
+ben	bahn	1012	0.6677	0.7692	0.7149
+ben	ccb	0127	0.8831	0.4881	0.6287
+ben	ccb	0210	0.6110	0.7429	0.6705
+ben	ccb	0419	0.6642	0.7778	0.7165
+ben	ccb	0512	0.9253	0.6607	0.7709
+ben	ccb	1012	0.4691	0.7372	0.5734
+bahn	ben	0127	0.4453	0.9324	0.6028
+bahn	ben	0210	0.5940	0.7647	0.6687
+bahn	ben	0419	0.7556	0.8947	0.8193
+bahn	ben	0512	0.8938	0.9714	0.9310
+bahn	ben	1012	0.7692	0.6677	0.7149
+bahn	ccb	0127	0.7372	0.8121	0.7728
+bahn	ccb	0210	0.5517	0.8736	0.6763
+bahn	ccb	0419	0.7083	1.0000	0.8293
+bahn	ccb	0512	0.8909	0.6936	0.7799
+bahn	ccb	1012	0.5524	0.7037	0.6190
+
+K-Means:
+ccb	kmeans	0127	0.5830	0.4438	0.5040
+ccb	kmeans	0210	0.5635	0.5125	0.5368
+ccb	kmeans	0419	0.6431	0.5451	0.5901
+ccb	kmeans	0512	0.7369	0.4118	0.5283
+ccb	kmeans	1012	0.5172	0.5051	0.5111
+ben	kmeans	0127	0.7976	0.2983	0.4342
+ben	kmeans	0210	0.4746	0.5611	0.5143
+ben	kmeans	0419	0.5009	0.5156	0.5081
+ben	kmeans	0512	0.8923	0.3672	0.5203
+ben	kmeans	1012	0.4195	0.5962	0.4925
+bahn	kmeans	0127	0.4626	0.4467	0.4545
+bahn	kmeans	0210	0.4508	0.6383	0.5284
+bahn	kmeans	0419	0.5276	0.6684	0.5897
+bahn	kmeans	0512	0.8615	0.3938	0.5405
+bahn	kmeans	1012	0.5006	0.6235	0.5553
+
 
 Logs
 ====
