@@ -126,7 +126,7 @@ To select sentences we may want to make use of NLP technologies such as corefere
 What are interesting topics? In an online encyclopedia such as Wikipedia, the page view counts for each article reflects the popularity of the article. Each article has a different level of popularity: some have high page views, and others low page views. This tendency maintains throughout the year, but sometimes, a external newsworthy event such as a major political or sports event, a natural disaster or a pandemic, occurs and incur that many articles related to that specific event has a significant increase in page views.
 
 Wikipedia has a section called ``current events'', in which the recently occurred events are listed manually by Wikipedia editors.
-Figure~\ref{fig:obama-sparkline} shows the page views of the articles related to the inauguration of Barack Obama, as are manually listed in the Wikipedia current event section.
+Figure~\ref{fig:obama-sparkline} shows the page views of the articles related to the inauguration of Barack Obama, as are manually listed in the Wikipedia current events section.
 Each event may have a hierarchical structure--there may be a major event and minor events related to the major events.
 Each event is described in a line of text with a possibly multiple links to the related Wikipedia articles.
 The figure shows the spikes in page views of the related articles around the date on which the event took place--January 20th, 2009.
@@ -286,7 +286,7 @@ The link structure is downloaded from the website of Henry Haselgrove\footnote{S
 We also perforemd K-means clustering on the set of articles, treating the article texts as bag of words.
 For 100 automatically selected articles on each of the five selected dates,
 the number of clusters $K$ was set to 50.
-We used the Mallet \cite{McCallumMALLET} software to run K-means software.
+We used the Mallet \cite{McCallumMALLET} software to run K-means clustering.
 Normalization and tokenization are not performed before running K-means.
 The algorithm calculates the mean of each cluster in word-vector space,
 and we chose the centroid article that is closest to the center in the vector space.
@@ -586,6 +586,14 @@ it is not comparable but a binary feature.
 \label{sec:related-work}
 
 There should be lots of citation to related work here. Examples are NewsBlaster by McKeown and Barzilay; Snippet Selection by Lapata, and a list of ACL/EMNLP papers that study wikipedia.
+
+The similar approach was done by Newsblaster and NewsInEssence before. They were the systems that combine various human language techonologies into a pipeline.
+
+Summarization was done by both the systems. Newsblaster used the ones...
+
+Multilingual system was tried by Newsblaster. They first tried...
+
+
 
 \section{Future work}
 

@@ -1,0 +1,20 @@
+Columbia's Newsblaster has a pipeline that is similar to ours except that it is using newswire,
+not Wikipedia pages. Two features seems promising: automatic crawling of news articles
+by predicting which is title, article text, pub date and so on from arbitrary news web sites.
+They also tried to build a multilanguage system by translating articles in foreign languages
+first into English. It made me think about the possibility to exploit the inter-language of
+Wikipedia pages that Chris once mentioned.
+
+It seems that we tried to do is very similar to what Newsblaster and NewsInEssence tried to do,
+except for the dataset (Wikipedia vs newswire). NewsInEssence is similar to Newsblaster.
+NIE's feature is that it allows various customization. Would there be room for customization
+in our Wikitopics project?
+
+As for Lydia, as far as I have seen, it seems not to be quite as completed a system as the others.
+But it has interesting analysis feature: It creates knowledge base analyzing the spatial and temporal
+relationships of named entities, news articles and sources and it also tried to figure
+the influence power of each news source.
+
+Sasa's paper is probably the first and only system that applied topic detection and tracking
+to Twitter. It is based on streaming and LSH which allows scalability. It is much faster but has
+similar precision scores to the state-of-the-art system.
