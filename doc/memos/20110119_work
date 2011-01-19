@@ -1,0 +1,37 @@
+Probably I will do something more than the work already done:
+
+	* Better clustering using LDA.
+	* Better sentence selection taking the edit history into consideration.
+
+Read more related work:
+
+	* Read snippet selection paper by lapata and the papers citing the snippet selection paper.
+	* Read the previous work using Wikipedia.
+
+So what I want to do today is:
+	* finish the sentence selection seciton, related work section, and the conclusion section.
+	* make a list of the papers I want to read that are about snippet selection and Wikipedia.
+	* Run LDA model.
+	* Run K-means with tf-idf term weights and with a limit on the dimensionality with a variety of distance metric such as cosine, etc.
+	
+Some questions I have got are:
+	* Both K-means and LDA need K for the number of clusters that they cluster articlces into. Clustering the tagged web paper set K as the number of different categories of web page directory. Drawing a curve with different values of K will be appropriate for a scientific paper.
+
+Around 1:30. Chris and I agreed that running LDA is one of the most simple and basic thing to do. Chris wanted me to stop working on mini-scale (at least for a while) and start working on AAAI.
+
+Around 5:00.
+
+The list of papers related to snippet selection:
+
+Caroline Sporleder and Mirella Lapata, Discourse Chunking and its Application to Sentence Compression
+http://www.aclweb.org/anthology/H/H05/H05-1033.pdf
+
+Ani Nenkova and Rebecca Passonneau, Evaluating Content Selection in Summarization: The Pyramid Method
+http://www.cs.columbia.edu/~ani/papers/pyramid.pdf
+
+* RST-DT: Rhetorical Structure Theory Discourse Treebank
+
+Iraklis Varlamisa and Sofia Stamou, Semantically driven snippet selection for supporting focused web searches
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TYX-4TTMJK3-2&_user=75682&_coverDate=02%2F28%2F2009&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1612990192&_rerunOrigin=scholar.google&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=1eb4296154748531df5a7f28867c3fd2&searchtype=a
+
+Around 6:00. I asked what is Lapata's paper about snippet selection. Luckily, it turned out to be one of the papers I read before.

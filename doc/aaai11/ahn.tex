@@ -120,7 +120,7 @@ the hand-curated method of selecting current events that is currently done by Wi
 \war{Arizona Cardinals} \\
 \hline
 \end{tabular}
-\caption{The automatically selected articles for January 27th, 2009. The underscores are used in place of spaces by Wikipedia.}
+\caption{The automatically selected articles for January 27, 2009. The underscores are used in place of spaces by Wikipedia.}
 \label{fig:topics-jan-27}
 \end{figure}
 
@@ -603,17 +603,11 @@ it is not comparable but a binary feature.
 \section{Related work}
 \label{sec:related-work}
 
-There should be lots of citation to related work here. Examples are NewsBlaster by McKeown and Barzilay; Snippet Selection by Lapata, and a list of ACL/EMNLP papers that study wikipedia.
+News summarization systems such as Google News and Columbia Newsblaster are probably the most famous efforts that applies techniques in topic detection and tracking along with various techniques of natural language processing into a big pipeline. Google News "group news articles into clusters of articles about related events and categorize each event into predetermined top-level categories, finally selecting a single representative article for each cluster." (copied from Lydia paper. Need paraphrasing.) Newsblaster "goes further in providing computer-generated summaries of the day's news from the articles in a given cluster." (copied from Lydia paper. Need paraphrasing.) NewsInEssence from University of Michigan follows the same line of news summarization but allows users to provide an example news and keywords to make a customized cluster of news articles. Lydia project analyzes entities such as people, places, and things that appear in news articles as well as news sources to find relationships between entities and between entities and news sources.
 
-The similar approach was done by Newsblaster and NewsInEssence before. They were the systems that combine various human language techonologies into a pipeline.
+\citeauthor{petrovic10} \shortcite{petrovic10} is the first attempt to do first story detection on Twitter in a streaming setting. It does not cluster the articles, and just finds the closest nearest neighbor of a new post in approximate fashion using locality sensitive hash that guarantees the probabilty it misses the nearest neighbor to be under a given limit and says that if the distance is under a given threshold, they are about the same event. They use cosine metric as a similarity measure and tf-idf as Allan's paper suggest them to be the best settings for FSD task.
 
-Summarization was done by both the systems. Newsblaster used the ones...
-
-Multilingual system was tried by Newsblaster. They first tried...
-
-
-
-\section{Future work}
+\section{Conclusion}
 
 Each step of the WikiTopics system can be developed further.
 
