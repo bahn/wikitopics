@@ -1,9 +1,10 @@
-This experiment is meant to i) explore the value of LDA in
-clustering Wikipedia pages into groups of related pages
-about events in real life and ii) explore the value of using
-different term weights such as tf and tf-idf and different
-metrics as a similarity measure such as cosine distance,
-KL divergence, weighted sum, and language models.
+This experiment is meant to 
+	i) explore the value of LDA in clustering Wikipedia pages
+	into groups of related pages about events in real life and
+	ii) explore the value of using different term weights
+	such as tf and tf-idf and different metrics as a similarity
+	measure such as cosine distance, KL divergence, weighted sum,
+	and language models.
 
 I. LDA.
 

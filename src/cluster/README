@@ -1,5 +1,9 @@
 Scripts to cluster articles.
 
+The first two scripts, cluster_onehop.pl and cluster_onehop_greedy.pl,
+are the best scripts among them. The other scripts are not used in the paper,
+and not even mentioned because they are highly tentative and resulted in a very bad result.
+
 cluster_onehop.pl
 =================
 The script to cluster articles using the link structure.
@@ -13,6 +17,11 @@ Usage: cluster_using_links.pl article_list
 	article_list
 		the file that includes the list of articles.
 
+cluster_onehop_greedy.pl
+========================
+At each round, find the article that has the maximum links
+and is not yet added to a cluster.
+
 cluster_onehop_min.pl
 =====================
 Clusters articles only one hop away,
@@ -25,4 +34,3 @@ Same as above except in the opposite order.
 cluster_onehop_for_all.pl
 =========================
 Make every article a cluster with all its neighbors.
-

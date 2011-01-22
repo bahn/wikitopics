@@ -1,0 +1,38 @@
+What I did today:
+	* I finished reading Lapata's story highlights paper and added the summary of it into the related section of my AAAI paper.
+
+To do today:
+	* Write the rest of the sentence selection section and the conclusion section.
+	* Polish the related work section
+	* Make a list of papers on Wikipedia.
+To do today, which are transferred from yesterday:
+	* Run LDA model.
+	* Run K-means with tf-idf term weights and with a limit on the dimensionality with a variety of distance metric such as cosine, etc.
+	* Improve the sentence selection model incorporating more features.
+
+=======================================================================
+Logs:
+
+11:30. According to the provided formatting guide, tried to change the paper's style so that it can have more text in it, but gave up.
+	* Tried to change line spacing from 12pt to 11pt. But I was not sure I found the right place to set the line spacing, and not so even that the style had been using the line spacing of 12pt.
+
+12:00 Read from the sentence selection section to the conclusin and revise.
+5:50 Finished the sentence selection section.
+
+Friday, 1/21
+Continuing working on the conclusion section to finish the paper.
+Other things to do:
+	* Read the paper from cover to cover and polish any sentence that looks weird to me.
+	* Read the reply from Kristian Woodsend
+	* Run LDA and K-means.
+
+Reading my paper, certain things came up.
+	* To make motivation more persuadable, my argument might need to be backed up by some specific figures such as the number of geopolitical names in the Wikipedia current events.
+	* If each line of wikistats file has the size of the page in bytes, it may be used to check if it is an existing page.
+
+Read Kristian's e-mail. It was easy to understand and clear. The programs Kristian has used:
+	* megam. ML software for maximum entropy model.
+	* SVMOOPS. ML software for SVM. http://www.maths.ed.ac.uk/ERGO/svm-oops/
+	He said while megam duplicates the examples of the underrepresented category ("yes" in this case), his SVM can set different penalties for misclassification. I wonder what role the penalties play in SVM while using penalties for the same purpose in maximum-entropy model is impossible.
+
+I gooled LDA software and summarize the findings at: memos/20110121_LDA_software

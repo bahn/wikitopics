@@ -4,6 +4,8 @@
 \usepackage{times}
 \usepackage{helvet}
 \usepackage{courier}
+
+% The packages I added.
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage{multicol}
@@ -12,6 +14,8 @@
 \usepackage{threeparttable}
 
 \newcommand{\war}[1]{{\sf\small #1}}
+\frenchspacing
+
 %%%%%%%%%%
 % PDFMARK for TeX and GhostScript
 % Uncomment and complete the following for
@@ -86,18 +90,18 @@ The result shows promise for explaining what is currently popular on Wikipedia a
 In this paper we analyze a novel data set: we have collected the hourly page view statistics for every Wikipedia page in every language for a three year period.
 We show how these page view statistics--along with a whole host of other features like inter-page links, edit histories, mentions in contemporaneous news stories--can be used to identify and explain popular trends, including political elections, natural disasters, sports championships, popular films and music, and other current events.
 
-Our approach is to select a set of articles whose daily page views increase above their average from the previous two week period.
+Our approach is to select a set of articles whose daily page views increase above their average from the previous fifteen days period.
 Rather than simply selecting the most popular articles for a given day, this selects articles whose popularity is rapidly increasing.
 These popularity spikes are presumably due to some external current events in the real world.
 On any given day, there are many articles whose popularity is spiking:
-while some of articles are related to each other, many of them are a concidence.
+while some of the articles are related to each other, many of them are a coincidence.
 
 In this paper we attempt to select 100 such articles from each of 5 randomly selected days in 2009
-and cluster the articles such that the clusters coherently correspond to current events.
+and group the articles into clusters such that the clusters coherently correspond to current events.
 Quantitative and qualitative analyses are provided along with the evaluation data set.
 
-We compared our automatically collected clusters to the Wikipedia current events.
-Wikipedia editors compile current events every day, which mainly consist of social and political events,
+We compared our automatically collected articles to those in the current events portal
+of Wikipedia where Wikipedia editors compile current events every day, which mainly consist of social and political events,
 traffic accidents and disasters. More often than not, they do not generate much traffic,
 and link to pages that are too general like ``United States'' or ``Israel''.
 We view this work as an automatic mechanism that could potentially supplant
@@ -128,7 +132,7 @@ For instance, we would attempt to cluster the articles in Figure~\ref{fig:topics
 
 We further try to explain the clusters by selecting sentences from the revision of the Wikipedia articles on that date. For the first cluster, a good selection might be ``the inauguration of Barack Obama as the 44th president of the United States took place on Jan 20, 2009''. For the second cluster, ``Chesley Burnett ``Sully'' Sullenberger III (born January 23, 1951)  is an American commercial airline pilot, \ldots, who successfully carried out the emergency water landing of US Airways Flight 1549 on the Hudson River, offshore from Manhattan, New York City, on January 15, 2009, \ldots.''. For the third cluster, ``[Superbowl XLIII] will feature the American Football Conference champion Pittsburgh Steelers (14-4) and the National Football Conference champion Arizona Cardinals (12-7) .'', which makes clear the relationship with \war{Arizona Cardinals}.
 
-To generate the clusters we can make use of the text of the articles on that date, versions of the articles from previous dates, the link structure and category info from Wikipedia, and potentially external info like newspaper articles published before the date.
+To generate the clusters we can make use of the text of the articles on that date, versions of the articles from previous dates, the link structure and category information from Wikipedia, and potentially external information like newspaper articles published before the date.
 
 To select sentences we may want to make use of NLP technologies such as coreference resolution, named entity and date taggers, and dependency parsers to identify subjects of sentences.
 
@@ -136,16 +140,16 @@ To select sentences we may want to make use of NLP technologies such as corefere
 
 \begin{figure}
 \centering
-\includegraphics[width=0.5\textwidth]{figures/obama.pdf}
-\caption{Page views for the articles related to the inauguration of Barack Obama. The articles are linked from an item in the Wikipedia current events. Interestingly, the list does not include the article \war{Inauguration of Barack Obama}, the very page about the event that has a spiking page views.}
+\includegraphics[width=0.4\textwidth]{figures/obama.pdf}
+\caption{Page views for the articles related to the inauguration of Barack Obama. The articles are linked from an item in the current events portal in Wikipedia. Interestingly, the list does not include the article \war{Inauguration of Barack Obama}, the very page about the event that has a spiking page views.}
 \label{fig:obama-sparkline}
 \end{figure}
 
-What are interesting topics? In an online encyclopedia such as Wikipedia, the page view counts for each article reflects the popularity of the article. Each article has a different level of popularity: some have high page views, and others low page views. This tendency maintains throughout the year, but sometimes, a external newsworthy event such as a major political or sports event, a natural disaster or a pandemic, occurs and incur that many articles related to that specific event has a significant increase in page views.
+What are interesting topics? In an online encyclopedia such as Wikipedia, the page view counts for each article reflects the popularity of the article. Each article has a different level of popularity: some have high page views, and others low page views on average. This tendency maintains throughout the year, but sometimes, a external newsworthy event such as a major political or sports event, a natural disaster or a pandemic, occurs and incur that many articles related to that specific event has a significant increase in page views.
 
 Wikipedia has a section called ``current events'', in which the recently occurred events are listed manually by Wikipedia editors.
 Figure~\ref{fig:obama-sparkline} shows the page views of the articles related to the inauguration of Barack Obama, as are manually listed in the Wikipedia current events section.
-Each event may have a hierarchical structure--there may be a major event and minor events related to the major events.
+Each event may have a hierarchical structure--there may be multiple minor events related to a given major event.
 Each event is described in a line of text with a possibly multiple links to the related Wikipedia articles.
 The figure shows the spikes in page views of the related articles around the date on which the event took place--January 20th, 2009.
 
@@ -198,7 +202,7 @@ WikiTopics \\
 \war{Notorious (2009 film)} \\
 \war{The Notorious B.I.G.} \\
 \war{Lost (TV series)} \\
-ldots \\
+\ldots \\
 \\
 Wikipedia current events \\
 \hline
@@ -208,7 +212,7 @@ Wikipedia current events \\
 \war{Arthur Nadel} \\
 \war{Federal Bureau of Investigation} \\
 \end{tabular}
-\caption{ The example articles for January 27th. These are the articles that do not have a counterpart with a window size of 15 days. The hand-selected articles are linked from an event ``Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud.'' \\ }
+\caption{ The example articles for January 27, 2009. These are the articles that do not have a counterpart in the other side in a window size of 15 days. The hand-selected articles are linked from a single event ``Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud.'' \\ }
 \label{fig:comparison-articles}
 \end{figure}
 
@@ -237,7 +241,7 @@ Our system pipeline and this paper are organized as follows. First, the most pop
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.9\textwidth]{figures/WikiTopicsPipeline.pdf}
+\includegraphics[width=0.8\textwidth]{figures/WikiTopicsPipeline.pdf}
 \caption{Process diagram.
 (a) Topic selection: select interesting articles based on increase in page views.
 (b) Clustering: cluster the articles according to relevent events using K-means or the link structure.
@@ -250,16 +254,16 @@ Our system pipeline and this paper are organized as follows. First, the most pop
 \paragraph{Dataset}
 The Wikipedia Traffic Statistics dataset is originally made available\footnote{See \url{http://dammit.lt/wikistats}.} by a Wikipedian Domas Mituzas.
 This data is only kept up to a several months that the space allows.
-For the previous statistics, two sets of the statistics are published at Amazon Public Datasets\footnote{See \url{http://aws.amazon.com/datasets/2596} and \url{http://aws.amazon.com/datasets/4182}.}).
+For the previous statistics, two sets of the statistics are published at Amazon Public Datasets\footnote{See \url{http://aws.amazon.com/datasets/2596} and \url{http://aws.amazon.com/datasets/4182}.}.
 This dataset consists of the files that each has hourly page view statistics for every article in every language.
 Each line of the files contains the language or the project name, the title, the hourly page views, and the numbers of bytes of the text of an Wikipedia article.
 We limited the work only to the English Wikipedia.
 
 \paragraph{Preprocess}
 These statistics are collected from the Wikipedia cache server as requested by users, and it includes many wrongful or malicious requests.
-Many requested pages are also redirect pages that automatically refer the requester into another page.
+Also, many requested pages are redirect pages that automatically refer the requester into another page.
 The redirect pages are usually the ones that are different names of an entity.
-To process these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump\footnote{See \url{http://download.wikipedia.org}.} and from the database dump extracted the list of the titles of all articles and the redirect articles.
+To address these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump\footnote{See \url{http://download.wikipedia.org}.} and from the database dump extracted the list of the titles of all articles and the redirect articles.
 Using these data, we filtered out the request for non-existing articles and merged the page views for the redirect pages into the main articles.
 Also the title of the Wikipedia articles has to be normalized according to a specific format, that is, the first letter of each title are capitalized and a space in it has to be replaced with an underscore, and so on.
 
@@ -271,7 +275,7 @@ and the articles are sorted in the order of decreasing difference.
 To facilitate the process, the articles with too small page views are ignored.
 
 \paragraph{Evaluation}
-We do not attempt to evaluate the selected articles against the Wikipedia current events for the reasons in the previous section.
+We do not attempt to evaluate the selected articles against the Wikipedia current events for the reasons described in the previous section.
 
 \section{Clustering}
 \label{sec:clustering}
@@ -301,10 +305,10 @@ Instead of attempting to find the optimal clusters,
 we just tried to cluster in the descreasing order of the number of links: With most links, first clustered.
 The link structure is downloaded from the website of Henry Haselgrove\footnote{See \url{http://users.on.net/~henry/home/wikipedia.htm}.}.
 
-We also perforemd K-means clustering on the set of articles, treating the article texts as bag of words.
+We also performed K-means clustering on the set of articles, treating article text as a bag of words.
 For 100 automatically selected articles on each of the five selected dates,
 the number of clusters $K$ was set to 50.
-We used the Mallet \cite{McCallumMALLET} software to run K-means clustering.
+We used the Mallet software \cite{McCallumMALLET} to run K-means clustering.
 Normalization and tokenization are not performed before running K-means.
 The algorithm calculates the mean of each cluster in word-vector space,
 and we chose the centroid article that is closest to the center in the vector space.
@@ -372,8 +376,8 @@ manual clustering.
 There are two main reason that the link structure performed worse.
 First, the link structure was too old. The link structure was generated on
 January 28, 2009 and 13.2\% of the WikiTopics articles were created after the date,
-thus missing from the link structure. Second, there are a few ``octopos'' articles
-that have links to many articles, and group them into one large cluster.
+thus missing from the link structure. Second, there are a few ``octopus'' articles
+that have links to many articles, and cause grouping them into one large cluster.
 \war{The United States} on January 27, 2009 was particularly harmful,
 grouping 79 articles into a single cluster.
 
@@ -405,16 +409,16 @@ select the best sentence that describes the relevant events,
 but it could be future work to descibe the relationships of the articles to the relevant event,
 and summarize the description using sentence fusion or paraphrasing.
 Often, some articles are directly connected to an external event
-while others are subsidiary topics that show vague connection.
+while others are subsidiary topics about the event and may not be relevant to the reason why the event is popular.
 
 %Specifically, the textual description for each cluster may consist of the sentences (1) that describe why the cluster is popular at the time and (2) that describe why each topic in the cluster is popular.
 %The concepts of central and peripheral topics (\S\ref{ssec:clustering}) are important in that different types of topics contribute to the description in different ways.
-%Often, the central topics are directly related to the event that caused the recent popularity and often includes a direct explanation of the recent event. 
+%Often, the central topics are directly related to the event that caused the recent popularity and often includes a direct explanation of the recent event.
 
 \paragraph {Preprocess}
 We preprocess the Wikipedia articles using the SERIF system \cite{BoscheeSerif} for date tagging and coreference resolution.
-The identified temporal expressions are in various formats such as exact date (``February 12, 1809''), a season (``spring''), a month (``December 1808''), a date without a specific year (``November 19''), and even ralative time (``now'', ``later that year'', ``The following year''). Some examples are showed in Figure~\ref{fig:temporal-expressions-examples}.
-The coreferences are analyzed into a list of the entities in the article and all the mentions of each entity in the article are compiled as co-ref chains.
+The identified temporal expressions are in various formats such as exact date (``February 12, 1809''), a season (``spring''), a month (``December 1808''), a date without a specific year (``November 19''), and even relative time (``now'', ``later that year'', ``The following year''). Some examples are showed in Figure~\ref{fig:temporal-expressions}.
+The entities mentioned in a given article are compiled into a list and the mentions of each entity are linked to the entity as a coreference chain.
 
 \begin{figure}
 \centering
@@ -439,20 +443,19 @@ The following year \\
 April 1865 \\
 late 1863 \\
 \end{multicols}
-\label{fig:temporal-expressions-examples}
+\label{fig:temporal-expressions}
 \caption{Examples of temporal expressions identified by the SERIF system in the preprocess step,
 selected from 247 such date and time expressions extracted from the article \war{Abraham Lincoln}.}
 \end{figure}
 
 \paragraph {Design}
-As a baseline, we picked the first sentence for each article because the first sentence generally explains the article.
-The first sentence usually summarizes the topic of the article and is often relevant to the external event.
+As a baseline, we picked the first sentence for each article because the first sentence usually is an ovewview of the topic of the article and often relevant to the external event.
 We refer to this as \textsc{First}.
 
 As a second baseline, we picked the sentence with the most closest date to the date on which the article was selected.
 Closeness refers to the difference in days between the dates.
-The dates in sentences could vary in their formats, so we put precedence over the formats so that
-more exact date i.e. ``Feburary 20, 2009'' has precedence over more vague date formats such as ``February 2009'' or ``2009''.
+The dates in sentences may vary in their formats, so we put precedence over the formats so that
+more specific date i.e. ``Feburary 20, 2009'' has precedence over more vague date formats such as ``February 2009'' or ``2009''.
 We refer to this scheme as \textsc{Recent}.
 
 For the third data set, we picked the sentence both with the most recent date and with the reference to the article's topic.
@@ -488,9 +491,10 @@ and the personal pronouns are substituted with their proper names,
 which are typed \textbf{bold}.}
 \end{figure*}
 
-The SERIF system finds the chain of coreference and tags the type of each reference
+The SERIF system tags the type of each entity mention
 as proper name, nominal position, or pronoun.
-There may be more than one proper name for each chain and to choose the best one
+There may be more than one proper name for each entity
+and to choose the best one
 is not a trivial task: proper names vary from \textit{John} to \textit{John Kennedy} to \textit{John Fitzgerald ``Jack'' Kennedy}.
 Our algorithm chose the most frequent proper name to substitute with.
 
@@ -498,7 +502,7 @@ Our algorithm chose the most frequent proper name to substitute with.
 For ten articles on each of five selected dates, an annotator selected sentences that describes why each article gains in popularity,
 among 289 sentences per each article on average.
 The annotator picked the one best sentence, and the possible multiple second best sentences.
-In the case there are no best sentence among them, he marked none as the best sentence,
+In the case there is no best sentence among them, he marked none as the best sentence,
 and listed all the partially explaning sentence as second best sentencess.
 
 To see inter-annotator agreement, another annotator selected the best sentence for the ten articles of the first date.
@@ -538,34 +542,40 @@ propagates to the sentential selection. The best sentence manually selected
 was the first sentence in the article ``Serena Jameka Williams \ldots
 , as of February 2, 2009, is ranked World No. 1 by the Women's Tennis
 Association \dots .'' The sentence was disastrously divided into two sentences
-right after ``No.'' by the NLTK splitter through our preprocess.
-It means no matter how well the sentential selection is done,
-it cannot choose the gold standard sentence. We ran the splitta
+right after ``No.'' by the NLTK splitter during the preprocess.
+In other words, the gold standard sentence cannot be selected
+no matter how well the selection performed. We ran the splitta
 \cite{dgillick09sbd} over the article text and found that it does not
-split the first sentence at the wrong position. The better the splitting is,
-The better the sentential selection works.
+split the first sentence at the wrong position.
 
 Selection of the best sentence with a \textsc{Recent} date seems to work well,
-with some problems.  \war{Farrah Fawcett} is a nice example of multiple sentences
+with its own problems.  \war{Farrah Fawcett} is a nice example of multiple sentences
 with dates, in a single section, that could potentially be spliced
 together into a timeline (the final event, that she was released from
 the hospital, makes more sense if we included why she was there).
 Furthermore, the sentence describing the most recent event contains
-a date without the year, which has less precedence over the other dates with the year
-even when it is closer to the date of interest than the others are.
-So having precedence over the date forms might not always work well.
+a date without year, which is overshadowed by the other dates
+with year describing prior events in our scheme where
+more specific dates have precedence over less specific ones.
 
-The baseline, selection of the \textsc{First} sentence, performs badly,
-but in 1/3 of the articles they are at least secondary articles, if not best.
+The selection of the \textsc{First} sentence performs worst,
+but in a third of the articles the first sentences are either best or second best.
 It is because the first sentence is an overall introduction about the topic,
-often including its recent achivement or a person's death.
+often including a person's recent achievement or death
+if the topic is about a person.
 
-The feature of selecting the sentence with a reference to the topic
+The \textsc{Self} feature, which is about
+if a sentence has a self reference to the topic,
 must be used another feature such as \textsc{Recent} because
-it is not comparable but a binary feature.
-
-- summarizing/sentence fusion
-
+it is a binary feature and cannot be used to select
+a sentence among the sentences all having a self reference.
+When it was forced to select among sentences that have self reference,
+a different sentence is selected for about a third of data ($18$ out of $50$).
+Only half of the difference selections ($8$ out of $18$) contributed to make
+the selection better of worse. Exactly half of them made it better and the other half
+made it worse. For three out of four cases, selecting a sentence
+with self reference failed because SERIF failed to find self reference
+that is in fact in the sentence.
 
 %An improved baseline for sentence selection would include the opening
 %sentence of the page from which the date-stamped sentence comes from.
@@ -617,27 +627,28 @@ the words with the most tf-idf scores.
 
 \section{Conclusion}
 
-Each step of the WikiTopics system can be developed further.
-
-First, article selection.
-Should we predict what the Wikipedia current events will be?
-No.
-But if we can predict which will come next before any newspaper or traditional media, it would be awesome.
-But should we be? The point is in automaticity anyway.
-We currently use the absolute difference in page views with the window of size 15-days.
-Using relative difference might be useful.
-
-Second, clustering.
-Hierarchical clustering... There a lot of clusters that have hierarchical structures. For example, on the day of the
-inauguration of Barack Obama, the automatically selected articles include
-the former presidents of the United States, family of Barack Obama,
-and the appointed staff in the new goverment.
-Using hierarchical clustering, the summary of each cluster will be better.
-
-Third, sentence selection. Sentence fusion could be useful. Most of the Wikipedia current events 
-contain more than two links to articles. We currently select one sentence per each article,
-but it might be true sometimes that fewer sentences can well explain the events.
-We can use hierarchical clustering to summarize the clusters with fewer sentences.
+We aim to automatize locating recent
+popular events and describing the events.
+We presented a novel data set and provides the baseline results to improve upon.
+It is shown that the topics that are automatically selected
+are very different from Wikipedia's
+current events that are hand-curated.
+We could go even further by predicting some novel events' happening
+using social media such as Twitter before the news hit the
+traditional newspaper or magazine.
+We used famous clustering such as K-means and LDA
+and compared the performance to manual clustering.
+We provides the gold standard for clustering for
+evaluation of different clustering methods.
+We want to discover the best way to take advantage of
+the page text, link structure, and edit history of the selected
+Wikipedia articles to find clustering.
+We did flat clustering but hierarchical clustering is always an option.
+We showed the value of date taggers and coreference resolution
+to extract best sentences and revise them to improve readability.
+We can use hierarchical clustering jointly with 
+to summarize the clusters with fewer sentences and
+to clearly show the associations between the selected Wikipedia articles.
 
 %\section*{Acknowledgments}
 

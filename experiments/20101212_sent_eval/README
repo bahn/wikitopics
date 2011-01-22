@@ -2,7 +2,8 @@ Overview
 ========
 
 This experiment is to evaluate the varioius sentence selection scheme.
-The description about this experiment is in the readme.tex file.
+#The description about this experiment is in the readme.tex file.
+#which readme.tex file?
 The gold standard is Ben's sentence selection.
 
 The kinds of selection scheme:
@@ -16,11 +17,25 @@ Future Work
 ===========
 - take care of 'him'.
 - Implement Edit.
+- Add features and combinations of features:
+  - Edit history
+  - topic of the article
+  - link structure
 
 Data
 ====
 Note that Ben did not select any sentence for the
 data/manual/2009-02-10/Jessica_Simpson.sentences file.
+
+There are some files that the corresponding APF files do not exist.
+# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
+# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
+# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
+# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
+# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
+# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
+
+There are some APF files that Python's XML module cannot parse. These are probably caused by the files' being terminated in an immature fashion.
 
 Scripts
 =======
@@ -28,6 +43,8 @@ Scripts
 There are three kinds of scripts: data generation, preprocess, and evaluation.
 There is a script to see if an apf file is parsable with Python's xml.dom.parse:
 non_parsable.py
+	An example usage of this script:
+		$ for file in ../../data/serif/2009-01-27/*.apf; do ./non_parsable.py $file; done
 
 Data Generation
 ---------------
@@ -69,7 +86,7 @@ Only in ../auto-recent3/2009-01-27: Bill_Clinton.sentences
 Only in ../auto-recent3/2009-01-27: Franklin_D._Roosevelt.sentences
 Only in ../auto-recent3/2009-01-27: Theodore_Roosevelt.sentences
 
-Later, delete auto-recent2 and renamed auto-recent3 to auto-recent2.
+Later, deleted auto-recent2 and renamed auto-recent3 to auto-recent2.
 $ rm -rf auto-recent2
 $ git mv auto-recent3 auto-recent2
 
@@ -124,255 +141,282 @@ cd src/sent_eval; ./eval_sents.py ../../data/sent_eval/auto-self2 ../../data/sen
 Result
 ======
 First:
-evaluation for the first date.
-item_counts: 10
-a best_correct: 1
-b best_guess: 10
-c best_answer: 5
-p = a/b = 0.1
-r = a/c = 0.2
-f = 2pr / (p+r) = 0.133333333333
-a second_correct: 5
-b second_guess: 10
-c second_answer: 24
-p = a/b = 0.5
-r = a/c = 0.208333333333
-f = 2pr / (p+r) = 0.294117647059
-
-evaluation for all the five dates.
-item_counts: 50
-a best_correct: 7
-b best_guess: 50
-c best_answer: 33
-p = a/b = 0.14
-r = a/c = 0.212121212121
-f = 2pr / (p+r) = 0.168674698795
-a second_correct: 17
-b second_guess: 50
-c second_answer: 107
-p = a/b = 0.34
-r = a/c = 0.158878504673
-f = 2pr / (p+r) = 0.216560509554
+	evaluation for the first date.
+		item_counts: 10
+		a best_correct: 1
+		b best_guess: 10
+		c best_answer: 5
+		p = a/b = 0.1
+		r = a/c = 0.2
+		f = 2pr / (p+r) = 0.133333333333
+		a second_correct: 5
+		b second_guess: 10
+		c second_answer: 24
+		p = a/b = 0.5
+		r = a/c = 0.208333333333
+		f = 2pr / (p+r) = 0.294117647059
+	
+	evaluation for all the five dates.
+		item_counts: 50
+		a best_correct: 7
+		b best_guess: 50
+		c best_answer: 33
+		p = a/b = 0.14
+		r = a/c = 0.212121212121
+		f = 2pr / (p+r) = 0.168674698795
+		a second_correct: 17
+		b second_guess: 50
+		c second_answer: 107
+		p = a/b = 0.34
+		r = a/c = 0.158878504673
+		f = 2pr / (p+r) = 0.216560509554
 
 Recent:
-These are the result for the ten articles of the first date.
-
-item_counts: 10
-a best_correct: 2
-b best_guess: 10
-c best_answer: 5
-p = a/b = 0.2
-r = a/c = 0.4
-f = 2pr / (p+r) = 0.266666666667
-a second_correct: 2
-b second_guess: 10
-c second_answer: 24
-p = a/b = 0.2
-r = a/c = 0.0833333333333
-f = 2pr / (p+r) = 0.117647058824
-
-And this is the result for all the fifty articles.
-item_counts: 50
-a best_correct: 16
-b best_guess: 49
-c best_answer: 33
-p = a/b = 0.326530612245
-r = a/c = 0.484848484848
-f = 2pr / (p+r) = 0.390243902439
-a second_correct: 27
-b second_guess: 49
-c second_answer: 107
-p = a/b = 0.551020408163
-r = a/c = 0.252336448598
-f = 2pr / (p+r) = 0.346153846154
+	These are the result for the ten articles of the first date.	
+		item_counts: 10
+		a best_correct: 2
+		b best_guess: 10
+		c best_answer: 5
+		p = a/b = 0.2
+		r = a/c = 0.4
+		f = 2pr / (p+r) = 0.266666666667
+		a second_correct: 2
+		b second_guess: 10
+		c second_answer: 24
+		p = a/b = 0.2
+		r = a/c = 0.0833333333333
+		f = 2pr / (p+r) = 0.117647058824
+	
+	And this is the result for all the fifty articles.
+		item_counts: 50
+		a best_correct: 16
+		b best_guess: 49
+		c best_answer: 33
+		p = a/b = 0.326530612245
+		r = a/c = 0.484848484848
+		f = 2pr / (p+r) = 0.390243902439
+		a second_correct: 27
+		b second_guess: 49
+		c second_answer: 107
+		p = a/b = 0.551020408163
+		r = a/c = 0.252336448598
+		f = 2pr / (p+r) = 0.346153846154
 
 Self:
-item_counts: 50
-a best_correct: 12
-b best_guess: 41
-c best_answer: 33
-p = a/b = 0.292682926829
-r = a/c = 0.363636363636
-f = 2pr / (p+r) = 0.324324324324
-a second_correct: 20
-b second_guess: 41
-c second_answer: 107
-p = a/b = 0.487804878049
-r = a/c = 0.18691588785
-f = 2pr / (p+r) = 0.27027027027
+	item_counts: 50
+	a best_correct: 12
+	b best_guess: 41
+	c best_answer: 33
+	p = a/b = 0.292682926829
+	r = a/c = 0.363636363636
+	f = 2pr / (p+r) = 0.324324324324
+	a second_correct: 20
+	b second_guess: 41
+	c second_answer: 107
+	p = a/b = 0.487804878049
+	r = a/c = 0.18691588785
+	f = 2pr / (p+r) = 0.27027027027
 
-Back-off version:
-item_counts: 50
-a best_correct: 16
-b best_guess: 49
-c best_answer: 33
-p = a/b = 0.326530612245
-r = a/c = 0.484848484848
-f = 2pr / (p+r) = 0.390243902439
-a second_correct: 26
-b second_guess: 49
-c second_answer: 107
-p = a/b = 0.530612244898
-r = a/c = 0.242990654206
-f = 2pr / (p+r) = 0.333333333333
+Self (Back-off version):
+	item_counts: 50
+	a best_correct: 16
+	b best_guess: 49
+	c best_answer: 33
+	p = a/b = 0.326530612245
+	r = a/c = 0.484848484848
+	f = 2pr / (p+r) = 0.390243902439
+	a second_correct: 26
+	b second_guess: 49
+	c second_answer: 107
+	p = a/b = 0.530612244898
+	r = a/c = 0.242990654206
+	f = 2pr / (p+r) = 0.333333333333
 
-For the qualitative analysis:
-There are 16 files different from RECENT:
-SELF did better: 
-$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff
-diff ../../data/sent_eval/auto-self2/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences ../../data/sent_eval/auto-recent/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
-diff ../../data/sent_eval/auto-self2/2009-02-10/Fernando_Verdasco.sentences ../../data/sent_eval/auto-recent/2009-02-10/Fernando_Verdasco.sentences
-diff ../../data/sent_eval/auto-self2/2009-02-10/The_Uninvited_(2009_film).sentences ../../data/sent_eval/auto-recent/2009-02-10/The_Uninvited_(2009_film).sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/Easter.sentences ../../data/sent_eval/auto-recent/2009-04-19/Easter.sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/F.C._Porto.sentences ../../data/sent_eval/auto-recent/2009-04-19/F.C._Porto.sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/Mad_World.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mad_World.sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/Manchester_United_F.C..sentences ../../data/sent_eval/auto-recent/2009-04-19/Manchester_United_F.C..sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/Mark_Fidrych.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mark_Fidrych.sentences
-diff ../../data/sent_eval/auto-self2/2009-04-19/Wilkins_Sound.sentences ../../data/sent_eval/auto-recent/2009-04-19/Wilkins_Sound.sentences
-diff ../../data/sent_eval/auto-self2/2009-05-12/Cassie_(singer).sentences ../../data/sent_eval/auto-recent/2009-05-12/Cassie_(singer).sentences
-diff ../../data/sent_eval/auto-self2/2009-05-12/The_Million_Dollar_Homepage.sentences ../../data/sent_eval/auto-recent/2009-05-12/The_Million_Dollar_Homepage.sentences
-diff ../../data/sent_eval/auto-self2/2009-05-12/X2_(film).sentences ../../data/sent_eval/auto-recent/2009-05-12/X2_(film).sentences
-diff ../../data/sent_eval/auto-self2/2009-10-12/2009_FIFA_U-20_World_Cup.sentences ../../data/sent_eval/auto-recent/2009-10-12/2009_FIFA_U-20_World_Cup.sentences
-diff ../../data/sent_eval/auto-self2/2009-10-12/2010_FIFA_World_Cup_qualification.sentences ../../data/sent_eval/auto-recent/2009-10-12/2010_FIFA_World_Cup_qualification.sentences
-diff ../../data/sent_eval/auto-self2/2009-10-12/Treaty_of_Lisbon.sentences ../../data/sent_eval/auto-recent/2009-10-12/Treaty_of_Lisbon.sentences
-diff ../../data/sent_eval/auto-self2/2009-10-12/Zombieland.sentences ../../data/sent_eval/auto-recent/2009-10-12/Zombieland.sentences
-
-$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff | wc -l
-      16
-
-$ for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done
-
-# For the first two examples, SELF did really well.
-diff ../../data/sent_eval/auto-self2/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences ../../data/sent_eval/auto-recent/2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
-1c1
-< 1 The snowfall across Great Britain and Ireland in February 2009 is a prolonged period of snowfall that began on 1 February 2009.
----
-> 133 BBC regional summary - 4 February 2009
-# I think the sentence SELF found as good as Ben's gold standard. The match was January 11.
-diff ../../data/sent_eval/auto-self2/2009-02-10/Fernando_Verdasco.sentences ../../data/sent_eval/auto-recent/2009-02-10/Fernando_Verdasco.sentences
-1c1
-< 78 Fernando started his 2009 season at the Brisbane International where he entered the tournament as the number 3 seed.
----
-> 117 Statistics correct as of February 2, 2009.
-# Ben's gold standard.
-$ cat ../../data/sent_eval/ben/2009-02-10/Fernando_Verdasco.sentences
--1 -
-87 He then went on to beat Jo-Wilfried Tsonga, a finalist in the 2008 Australian Open, 7-6(7-2), 3-6, 6-3, 6-2 in the quarterfinals, taking him through to his first Grand Slam semifinal.
-# For the below article, SELF found a secondary sentence. I think "the film" was a mention of the same entity, SERIF failed to find that The Uninvited and the film was same.
-diff ../../data/sent_eval/auto-self2/2009-02-10/The_Uninvited_(2009_film).sentences ../../data/sent_eval/auto-recent/2009-02-10/The_Uninvited_(2009_film).sentences
-1c1
-< 1 The Uninvited is a 2009 American remake of the 2003 South Korean horror film A Tale of Two Sisters.
----
-> 85 The film was released to theaters on January 30, 2009.
-# For the following article, I think my script might have an error that makes the script unable to find the closest date:
-diff ../../data/sent_eval/auto-self2/2009-04-19/Easter.sentences ../../data/sent_eval/auto-recent/2009-04-19/Easter.sentences
-1c1
-< 149 In applying the ecclesiastical rules, Christian Churches use March 21 as the starting point in determining the date of Easter, from which they find the next full moon, etc.
----
-> 165 It fell on March 23 in 2008, but will not do so again until 2160.
-# For the following article, FC Porto was the second entity. :(
-diff ../../data/sent_eval/auto-self2/2009-04-19/F.C._Porto.sentences ../../data/sent_eval/auto-recent/2009-04-19/F.C._Porto.sentences
-1c1
-< 99 Built as a replacement for Porto's old ground, Estadio das Antas, and as a venue for EURO 2004, Estádio do Dragão has an all-seated capacity of 50,948.
----
-> 106 The following players will join FC Porto as of 1st July,2009.
-# SERIF did not find the song as entity.
-diff ../../data/sent_eval/auto-self2/2009-04-19/Mad_World.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mad_World.sentences
-1c1
-< 110 British dubstep artist The Bug, with vocalist Warrior Queen, included the song "Insane" on the album London Zoo (2008).
----
-> 105 American Idol Season 8 contestant Adam Lambert performed the song on the show on April 7, 2009.
-# SELF did worse.
-diff ../../data/sent_eval/auto-self2/2009-04-19/Manchester_United_F.C..sentences ../../data/sent_eval/auto-recent/2009-04-19/Manchester_United_F.C..sentences
-1c1
-< 191 On 21 December 2008, United added more silverware to their trophy cabinet with a win in the 2008 FIFA Club World Cup Final, defeating the Ecuadorian side LDU Quito 1–0 in Japan, Wayne Rooney scoring the winning goal.
----
-> 238 As of match played 15 April 2009 and according to the official statistics website.
-# SERIF failed to mark MARK as a mention of Mark Steven. But the sentence SELF found is in the secondary sentences.
-diff ../../data/sent_eval/auto-self2/2009-04-19/Mark_Fidrych.sentences ../../data/sent_eval/auto-recent/2009-04-19/Mark_Fidrych.sentences
-1c1
-< 1 Mark Steven "The Bird" Fidrych (  (August 14, 1954 – April 13, 2009), was a Major League Baseball player for the Detroit Tigers from 1976-1980.
----
-> 181 "Former Tigers pitcher Mark 'The Bird' Fidrych dies at 54," The Detroit News, Tuesday, April 14, 2009.
-# SERIF thought that the Wilkins Ice Shelf and the Wilkins ice shelf are different. He thought the format is an commercial organization. Probably because of the capitalization.
-diff ../../data/sent_eval/auto-self2/2009-04-19/Wilkins_Sound.sentences ../../data/sent_eval/auto-recent/2009-04-19/Wilkins_Sound.sentences
-1c1
-< 19 On 25 March 2008 a   chunk of the Wilkins ice shelf disintegrated, putting an even larger portion of the glacial ice shelf at risk.
----
-> 8 On 5 April 2009 the thin bridge of ice to the Wilkins Ice Shelf off the coast of Antarctica splintered, and scientists expect it could cause the collapse of the Shelf.
-# The best sentence did not have the singer's name.
-diff ../../data/sent_eval/auto-self2/2009-05-12/Cassie_(singer).sentences ../../data/sent_eval/auto-recent/2009-05-12/Cassie_(singer).sentences
-1c1
-< 1 Cassandra Ventura (born August 26, 1986), known by her stage name Cassie, is an American model, hip hop singer-songwriter, dancer, actress and occasional music video actress.
----
-> 8 The album's official first single, "Must Be Love", featuring Diddy, was sent to radio in April 2009 with a digital release on April 14th, 2009.
-# Ben found nothing for this.
-diff ../../data/sent_eval/auto-self2/2009-05-12/The_Million_Dollar_Homepage.sentences ../../data/sent_eval/auto-recent/2009-05-12/The_Million_Dollar_Homepage.sentences
-1c1
-< 63 On 7 January 2006, three days before the auction of the final 1,000 pixels was due to end, Tew received an e-mail from an organisation called The Dark Group, and was told The Million Dollar Homepage would become the victim of a distributed denial-of-service attack (DDoS) if a ransom of $5,000 was not paid by 10 January.
----
-> 21 Tew promised customers that the site would remain online for five years – that is, until at least 26 August 2010.
-# Ben found nothing. But I think RECENT did well. SERIF thought X2 (also known...) and X2 are different.
-diff ../../data/sent_eval/auto-self2/2009-05-12/X2_(film).sentences ../../data/sent_eval/auto-recent/2009-05-12/X2_(film).sentences
-1c1
-< 1 X2 (also known as X2: X-Men United, X-Men 2: X-Men United and X-Men 2) is a 2003 superhero film based on the fictional characters the X-Men.
----
-> 207 In May 2007, Rotten Tomatoes listed X2 as the fifth greatest comic book film of all time.
-# SELF did well!
-diff ../../data/sent_eval/auto-self2/2009-10-12/2009_FIFA_U-20_World_Cup.sentences ../../data/sent_eval/auto-recent/2009-10-12/2009_FIFA_U-20_World_Cup.sentences
-1c1
-< 1 The 2009 FIFA U-20 World Cup, the 17th tournament to be contested, is being hosted by Egypt from September 24 to October 16, in the cities of Cairo, Alexandria, Port Said, Suez and Ismaïlia.
----
-> 59 The draw for the group stages was held  on April 5, 2009 at Luxor Temple .
-# Ben and SELF agreed. But is it not that RECENT was right?
-diff ../../data/sent_eval/auto-self2/2009-10-12/2010_FIFA_World_Cup_qualification.sentences ../../data/sent_eval/auto-recent/2009-10-12/2010_FIFA_World_Cup_qualification.sentences
-1c1
-< 1 A total of 197 teams entered the qualification process for the 2010 FIFA World Cup, competing for a total of 32 spots in the final tournament.
----
-> 75 The group stage will be completed on 14 October 2009.
-# SELF failed. It was Lisbon that was the first entity. RECENT disagreed with Ben, but aren't the sentences RECENT found still good?
-diff ../../data/sent_eval/auto-self2/2009-10-12/Treaty_of_Lisbon.sentences ../../data/sent_eval/auto-recent/2009-10-12/Treaty_of_Lisbon.sentences
-1c1
-< 233 A draft decision fixing the apportionment of MEPs was annexed to the treaty itself and had Lisbon been in force at the time of 2009 European Parliament elections the apportionment would have been:
----
-> 130 The President signed Poland's instrument of ratification of the Lisbon Treaty on 10 October 2009, after the Irish electorate had approved the treaty in the second referendum.
-# Ben and SELF agreed. But is it not that RECENT was right?
-diff ../../data/sent_eval/auto-self2/2009-10-12/Zombieland.sentences ../../data/sent_eval/auto-recent/2009-10-12/Zombieland.sentences
-1c1
-< 3 Distributed by Columbia Pictures, Zombieland  was released on October 2, 2009 in the US and Canada, with an R rating for horror violence/gore and language in the US.
----
-> 141 As of October 11, 2009, the film has grossed $47,801,000.
-
-More comparison:
-$ cat >> a
-2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
-2009-02-10/Fernando_Verdasco.sentences
-2009-02-10/The_Uninvited_(2009_film).sentences
-2009-04-19/Easter.sentences
-2009-04-19/F.C._Porto.sentences
-2009-04-19/Mad_World.sentences
-2009-04-19/Manchester_United_F.C..sentences
-2009-04-19/Mark_Fidrych.sentences
-2009-04-19/Wilkins_Sound.sentences
-2009-05-12/Cassie_(singer).sentences
-2009-05-12/The_Million_Dollar_Homepage.sentences
-2009-05-12/X2_(film).sentences
-2009-10-12/2009_FIFA_U-20_World_Cup.sentences
-2009-10-12/2010_FIFA_World_Cup_qualification.sentences
-2009-10-12/Treaty_of_Lisbon.sentences
-2009-10-12/Zombieland.sentences
-
-$ cat a | perl -lane 'print $_; s/\(/\\\(/; s/\)/\\\)/; system("echo RECENT; cat ../../data/sent_eval/auto-recent/$_; echo SELF; cat ../../data/sent_eval/auto-self/$_; echo BEN; cat ../../data/sent_eval/ben/$_; echo");' | less
-
-SELF was better than RECENT: 1, 13, 14, 16
-RECENT was better than SELF: 3, 6, 9, 10
-If Serif had done well, SELF would have been better at: 3, 6, 9.
-
-Future Work
-===========
-* Find Ben's other gold standard files
-* Add features and combinations of features:
-  - Edit history
-  - topic of the article
-  - link structure
-
+For the qualitative analysis of the difference between SELF (back-off version) and RECENT:
+	The current working directory is the experiment directory: 
+		$ pwd
+		/Users/bahn/work/wikitopics/experiments/20101212_sent_eval
+	There are 18 files that are different between RECENT and SELF:
+		To list the file names:
+			$ for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff | perl -pe 's/diff //; s/.*\/([^\/]*\/[^\/]*)/\1/;' | less
+		To see the differences:
+			$ for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | perl -pe 's/diff .*\/([^\/]*\/[^\/]*)/-------------------------------------------------------------\n\1/; s/1c1//;' | less
+		To count the files:
+			$ for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/auto-self2/$DATE ../../data/sent_eval/auto-recent/$DATE; done | grep diff | wc -l
+		The list of the files:
+			2009-01-27/Inauguration_of_Barack_Obama.sentences
+			2009-01-27/Michelle_Obama.sentences
+			2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
+			2009-02-10/Fernando_Verdasco.sentences
+			2009-02-10/The_Uninvited_(2009_film).sentences
+			2009-04-19/Easter.sentences
+			2009-04-19/F.C._Porto.sentences
+			2009-04-19/Mad_World.sentences
+			2009-04-19/Manchester_United_F.C..sentences
+			2009-04-19/Mark_Fidrych.sentences
+			2009-04-19/Wilkins_Sound.sentences
+			2009-05-12/Cassie_(singer).sentences
+			2009-05-12/The_Million_Dollar_Homepage.sentences
+			2009-05-12/X2_(film).sentences
+			2009-10-12/2009_FIFA_U-20_World_Cup.sentences
+			2009-10-12/2010_FIFA_World_Cup_qualification.sentences
+			2009-10-12/Treaty_of_Lisbon.sentences
+			2009-10-12/Zombieland.sentences
+		Qualitative analysis one by one:
+			Overall:
+				SELF > RECENT: 3, 15, 16, 18
+				SELF < RECENT: 5, 8, 11, 12
+				SELF and RECENT failed: 1, 2, 4, 6
+				SERIF failed: 5, 8, 11
+				DATE comparison heuristic failed: 6
+				SELF reference heuristic failed: 7
+				Ben might have failed to find a good sentence: 4, 9, 14, 16, 17
+				No gold standard: 13, 14
+				No self reference in the best sentence: 12, 14
+			
+			Details:
+				comment (if any)
+				pagetitle
+				Self
+				Recent
+				Ben
+				
+				#1: Both SELF and RECENT failed.
+				2009-01-27/Inauguration_of_Barack_Obama.sentences		
+				249 On January 21, 2009, President Obama, First Lady Michelle Obama, Vice President Biden and Dr. Jill Biden attended an inaugural prayer service at the Washington National Cathedral.
+				171 On January 22, 2009, a spokesperson for the Joint Committee on Inaugural Ceremonies also announced that holders of blue, purple and silver tickets who were unable to enter the Capitol grounds to view the inaugural ceremony would receive commemorative items.
+				1 The inauguration of Barack Obama as the forty-fourth President of the United States took place on January 20, 2009.
+				2 The inauguration, with a record attendance for any event held in Washington, D.C., marked the commencement of the four-year term of Barack Obama as President and Joseph Biden as Vice President.
+				3 With his inauguration as President of the United States, Obama became the first African American to hold the office and the first President born in Hawaii.
+				6 Official events were held in Washington, D.C. from January 18 to 21, 2009, including the We Are One: The Obama Inaugural Celebration at the Lincoln Memorial, a day of service on the federal observance of the Martin Luther King, Jr. Day, a "Kids' Inaugural: We Are the Future" concert event at the Verizon Center, the inaugural ceremony at the U.S. Capitol, an inaugural luncheon at National Statuary Hall, a parade along Pennsylvania Avenue, a series of inaugural balls at the Washington Convention Center and other locations, a private White House gala and an inaugural prayer service at the Washington National Cathedral.
+				
+				#2: Both failed.
+				2009-01-27/Michelle_Obama.sentences
+				27 In July 2008, Obama accepted the invitation to become an honorary member of the 100-year-old black sorority Alpha Kappa Alpha, which had no active undergraduate chapter at Princeton when she attended.
+				152 In December 2008, she worked with the USO in procuring care packages for soldiers.
+				-1 -
+				1 Michelle LaVaughn Robinson Obama (born January 17, 1964) is the current First Lady of the United States, and the wife of the forty-fourth President of the United States Barack Obama.
+				2 She is the first African American First Lady.
+				
+				#3: SELF > RECENT
+				2009-02-10/February_2009_Great_Britain_and_Ireland_snowfall.sentences
+				1 The snowfall across Great Britain and Ireland in February 2009 is a prolonged period of snowfall that began on 1 February 2009.
+				133 BBC regional summary - 4 February 2009
+				1 The snowfall across Great Britain and Ireland in February 2009 is a prolonged period of snowfall that began on 1 February 2009.
+				
+				#4: Both failed. SELF was quite good. The match was January 11.
+				2009-02-10/Fernando_Verdasco.sentences
+				78 Fernando started his 2009 season at the Brisbane International where he entered the tournament as the number 3 seed.
+				117 Statistics correct as of February 2, 2009.
+				-1 -
+				87 He then went on to beat Jo-Wilfried Tsonga, a finalist in the 2008 Australian Open, 7-6(7-2), 3-6, 6-3, 6-2 in the quarterfinals, taking him through to his first Grand Slam semifinal.
+				
+				#5: SELF < RECENT. SELF found a second best sentence. SERIF failed to find that The Uninvited and the film was same.
+				2009-02-10/The_Uninvited_(2009_film).sentences
+				1 The Uninvited is a 2009 American remake of the 2003 South Korean horror film A Tale of Two Sisters.
+				85 The film was released to theaters on January 30, 2009.
+				85 The film was released to theaters on January 30, 2009.
+				1 The Uninvited is a 2009 American remake of the 2003 South Korean horror film A Tale of Two Sisters.
+				138 As of February, 09 it holds a 6.5/10 rating at the Internet Movie Database, based on 1,287 votes votes from film fans.
+				140 On its opening day the film grossed $4,335,000 ranked #2 in the box office..However, it finally got $10,512,000 for its opening weekend, set on the third place, opened in 2,344 theatres with an average $4,485 per theatre.
+				141 As of Febuary 9th the movie has grossed $18,379,000
+				-1 
+				
+				#6: Both failed. Both failed to find the closest date. A bug?
+				2009-04-19/Easter.sentences
+				149 In applying the ecclesiastical rules, Christian Churches use March 21 as the starting point in determining the date of Easter, from which they find the next full moon, etc.
+				165 It fell on March 23 in 2008, but will not do so again until 2160.
+				11 After several centuries of disagreement, all churches accepted the computation of the Alexandrian Church (now the Coptic Church) that Easter is the first Sunday after the Paschal Full Moon, which is the first moon whose 14th day (the ecclesiastic "full moon") is on or after March 21 (the ecclesiastic "vernal equinox").
+				10 Easter falls each year on a Sunday between March 22 and April 25 inclusive (April 4 and May 8 in Eastern Christianity), following the cycle of the Moon.
+				124 In Western Christianity, using the Gregorian calendar, Easter always falls on a Sunday between March 22 and April 25 inclusively.
+				163 Accordingly, Gregorian Easter can fall on 35 possible dates - between March 22 and April 25 inclusive.
+				
+				#7: SELF < RECENT. SELF heuristic failed. FC Porto was the second entity. :(
+				2009-04-19/F.C._Porto.sentences
+				99 Built as a replacement for Porto's old ground, Estadio das Antas, and as a venue for EURO 2004, Estádio do Dragão has an all-seated capacity of 50,948.
+				106 The following players will join FC Porto as of 1st July,2009.
+				-1 -
+				106 The following players will join FC Porto as of 1st July,2009.
+				
+				#8: SELF < RECENT. SERIF failed to recognize "the song" as entity.
+				2009-04-19/Mad_World.sentences
+				110 British dubstep artist The Bug, with vocalist Warrior Queen, included the song "Insane" on the album London Zoo (2008).
+				105 American Idol Season 8 contestant Adam Lambert performed the song on the show on April 7, 2009.
+				105 American Idol Season 8 contestant Adam Lambert performed the song on the show on April 7, 2009.
+				
+				#9: Both failed. RECENT was quite good. 
+				2009-04-19/Manchester_United_F.C..sentences
+				191 On 21 December 2008, United added more silverware to their trophy cabinet with a win in the 2008 FIFA Club World Cup Final, defeating the Ecuadorian side LDU Quito 1–0 in Japan, Wayne Rooney scoring the winning goal.
+				238 As of match played 15 April 2009 and according to the official statistics website.
+				-1 -
+				228 As of 5 April 2009, according to combined sources on the official website.
+				368 On 21 January 2009, it was announced that AIG would not be renewing their sponsorship of the club at the end of the deal in May 2010.
+				
+				#10: SELF == RECENT. SERIF failed to tag MARK as a mention of Mark Steven.
+				2009-04-19/Mark_Fidrych.sentences
+				1 Mark Steven "The Bird" Fidrych (  (August 14, 1954 – April 13, 2009), was a Major League Baseball player for the Detroit Tigers from 1976-1980.
+				181 "Former Tigers pitcher Mark 'The Bird' Fidrych dies at 54," The Detroit News, Tuesday, April 14, 2009.
+				2 He died at the age of 54 of suffocation at his home in Massachusetts on Monday, April 13, 2009, in an accident while working on his 10-wheel dump truck, after his clothes became tangled with a spinning power take-off shaft.
+				1 Mark Steven "The Bird" Fidrych (  (August 14, 1954 – April 13, 2009), was a Major League Baseball player for the Detroit Tigers from 1976-1980.
+				126 Fidrych, age 54, was found dead on April 13, 2009, according to the Worcester District Attorney's office.
+				128 's office said Fidrych was found by a family friend beneath his 10 Wheeler dump truck at his Northborough home around 2:30 p.m.
+				181 "Former Tigers pitcher Mark 'The Bird' Fidrych dies at 54," The Detroit News, Tuesday, April 14, 2009.
+				
+				#11: SELF < RECENT: SERIF thought "the Wilkins Ice Shelf" and "the Wilkins ice shelf" are different and that the former is an commercial organization, probably because of the capitalization.
+				2009-04-19/Wilkins_Sound.sentences
+				19 On 25 March 2008 a   chunk of the Wilkins ice shelf disintegrated, putting an even larger portion of the glacial ice shelf at risk.
+				8 On 5 April 2009 the thin bridge of ice to the Wilkins Ice Shelf off the coast of Antarctica splintered, and scientists expect it could cause the collapse of the Shelf.
+				8 On 5 April 2009 the thin bridge of ice to the Wilkins Ice Shelf off the coast of Antarctica splintered, and scientists expect it could cause the collapse of the Shelf.
+				9 There are reports the shelf has exploded into hundreds of small ice bergs.
+				35 On 5 April 2009, the ice bridge connecting part of the ice shelf to Charcot Island collapsed.
+				
+				#12: SELF < RECENT. The best sentence did not have the singer's name.
+				2009-05-12/Cassie_(singer).sentences
+				1 Cassandra Ventura (born August 26, 1986), known by her stage name Cassie, is an American model, hip hop singer-songwriter, dancer, actress and occasional music video actress.
+				8 The album's official first single, "Must Be Love", featuring Diddy, was sent to radio in April 2009 with a digital release on April 14th, 2009.
+				8 The album's official first single, "Must Be Love", featuring Diddy, was sent to radio in April 2009 with a digital release on April 14th, 2009.
+				6 Cassie's second studio album, tentatively titled Electro Love, is scheduled to be released in 2009.
+				41 This was denied, and Cassie has stated that she is still working on her sophomore album to be released in spring or summer of 2009.
+				-1 
+				-1 
+				
+				#13: No gold standard
+				2009-05-12/The_Million_Dollar_Homepage.sentences
+				63 On 7 January 2006, three days before the auction of the final 1,000 pixels was due to end, Tew received an e-mail from an organisation called The Dark Group, and was told The Million Dollar Homepage would become the victim of a distributed denial-of-service attack (DDoS) if a ransom of $5,000 was not paid by 10 January.
+				21 Tew promised customers that the site would remain online for five years – that is, until at least 26 August 2010.
+				
+				#14: No gold standard. RECENT was quite good.
+				2009-05-12/X2_(film).sentences
+				1 X2 (also known as X2: X-Men United, X-Men 2: X-Men United and X-Men 2) is a 2003 superhero film based on the fictional characters the X-Men.
+				207 In May 2007, Rotten Tomatoes listed X2 as the fifth greatest comic book film of all time.
+				
+				#15: SELF > RECENT
+				2009-10-12/2009_FIFA_U-20_World_Cup.sentences
+				1 The 2009 FIFA U-20 World Cup, the 17th tournament to be contested, is being hosted by Egypt from September 24 to October 16, in the cities of Cairo, Alexandria, Port Said, Suez and Ismaïlia.
+				59 The draw for the group stages was held  on April 5, 2009 at Luxor Temple .
+				1 The 2009 FIFA U-20 World Cup, the 17th tournament to be contested, is being hosted by Egypt from September 24 to October 16, in the cities of Cairo, Alexandria, Port Said, Suez and Ismaïlia.
+				191 FIFA.com: FIFA U-20 World Cup Egypt 2009
+				-1 
+				
+				#16: SELF > RECENT. RECENT was quite good.
+				2009-10-12/2010_FIFA_World_Cup_qualification.sentences
+				1 A total of 197 teams entered the qualification process for the 2010 FIFA World Cup, competing for a total of 32 spots in the final tournament.
+				75 The group stage will be completed on 14 October 2009.
+				1 A total of 197 teams entered the qualification process for the 2010 FIFA World Cup, competing for a total of 32 spots in the final tournament.
+				77 Next match day: 14 October (24 matches, with a total of 24 matches left ending on 14 October).
+				104 The top 4 teams will qualify to the World Cup finals, the 5th-place team will go to a playoff against the 4th-place CONCACAF team, which will be played on November 14 and 18, 2009.
+				
+				#17. Both failed. RECENT looks really good.
+				2009-10-12/Treaty_of_Lisbon.sentences
+				233 A draft decision fixing the apportionment of MEPs was annexed to the treaty itself and had Lisbon been in force at the time of 2009 European Parliament elections the apportionment would have been:
+				130 The President signed Poland's instrument of ratification of the Lisbon Treaty on 10 October 2009, after the Irish electorate had approved the treaty in the second referendum.
+				11 In the event, this timetable failed, primarily due to the rejection of the Treaty in 2008 by the Irish electorate, a decision which was reversed in a second referendum in 2009.
+				99 While a referendum held in June 2008 rejected the treaty, a second referendum held on 2 October 2009 approved it.
+				113 The second referendum on the treaty took place on October 2, 2009.
+				
+				#18: SELF > RECENT.
+				2009-10-12/Zombieland.sentences
+				3 Distributed by Columbia Pictures, Zombieland  was released on October 2, 2009 in the US and Canada, with an R rating for horror violence/gore and language in the US.
+				141 As of October 11, 2009, the film has grossed $47,801,000.
+				3 Distributed by Columbia Pictures, Zombieland  was released on October 2, 2009 in the US and Canada, with an R rating for horror violence/gore and language in the US.
+				141 As of October 11, 2009, the film has grossed $47,801,000.

@@ -11,11 +11,32 @@ The Logs section has the full logs that I did.
 
 Scripts
 =======
+For more information, see src/cluster/README.
 	src/cluster/cluster_onehop.pl
+		The script to cluster articles using the link structure.
+		It needs the title file and the links file to be in the same directory.
+		You need to make soft links to the files if you do not have them.
+		If you do not have the files, try something like this:
+			$ ln -s ../../data/wikilinks/links-simple-sorted.txt
+			$ ln -s ../../data/wikilinks/titles-sorted.txt
+		
+		Usage: cluster_using_links.pl article_list
+			article_list
+				the file that includes the list of articles.
 
 	src/cluster/cluster_onehop_greedy.pl
-		At each round, find the article that have the maximum links
-		that are not yet added to a cluster.
+		At each round, find the article that has the maximum links
+		and is not yet added to a cluster.
+
+	src/cluster/cluster_onehop_min.pl
+		Clusters articles only one hop away,
+		from the articles that have least neighbors.
+
+	cluster_onehop_max.pl
+		Same as above except in the opposite order.
+
+	cluster_onehop_for_all.pl
+		Make every article a cluster with all its neighbors.
 
 Commands
 ========
@@ -165,22 +186,22 @@ bahn	kmeans	1012	0.5006	0.6235	0.5553
 Logs
 ====
 how many lines do these data files have?
-$ wc -l *.txt
- 5706070 links-simple-sorted.txt
- 5716808 titles-sorted.txt
-
-preliminary test to see how long it will take
-- to read the whole file using wc
-$ time wc -l titles-sorted.txt
-real	0m4.458s
-user	0m0.385s
-sys	0m0.230s
-
-$ time wc -l links-simple-sorted.txt
-real	0m48.679s
-user	0m3.587s
-sys	0m2.014s
-
+	$ wc -l *.txt
+	 5706070 links-simple-sorted.txt
+	 5716808 titles-sorted.txt
+	
+	preliminary test to see how long it will take
+	- to read the whole file using wc
+	$ time wc -l titles-sorted.txt
+	real	0m4.458s
+	user	0m0.385s
+	sys	0m0.230s
+	
+	$ time wc -l links-simple-sorted.txt
+	real	0m48.679s
+	user	0m3.587s
+	sys	0m2.014s
+	
 - to read the whole file using Python.
 I wrote a script as follows and run it on the data set:
 
