@@ -35,6 +35,10 @@ Dr_Kutner_(House) Lawrence_Kutner_(House)
 Lawrence_Kutner_(House,_M.D._character) Lawrence_Kutner_(House)
 Lawrence_Kuttner Lawrence_Kutner
 
+To summarize, Lawrence Kutner and Lawrence Kutner (House) are both end links of
+different sets of pages. The former is the disambiguation page, and the latter is
+the page about the TV series's character.
+
 $ grep -C 5 2004_Indian_Ocean_earthquake_and_tsunami redirects.txt
 2004_Indian_Ocean_earthquake,_Norway Effect_of_the_2004_Indian_Ocean_earthquake_on_Norway
 2004_Indian_Ocean_earthquake. 2004_Indian_Ocean_earthquake
@@ -47,6 +51,8 @@ $ grep -C 5 2004_Indian_Ocean_earthquake_and_tsunami redirects.txt
 2004_Indian_Ocean_tsunami 2004_Indian_Ocean_earthquake
 2004_Indian_Ocean_tsunami_disaster 2004_Indian_Ocean_earthquake
 2004_Indian_Ocean_tsunami_time_line Timeline_of_the_2004_Indian_Ocean_earthquake
+
+This is clear that the 2004 Indian Ocean earthquake page is the end link of all related pages.
 
 Trial
 =====
@@ -77,6 +83,10 @@ Lawrence_Kutner_(House,_M.D._character)
 
 Conclusion
 ==========
+The Lawrence Kutner page was renamed later after it was selected in April, 2009 and its
+title was changed later. The 2004 Indian Ocean eearthquake and tsunami page was also
+moved later after it was selected in October, 2009.
+
 The both articlecs exist as of the selected date for each, but their names were changed later.
 However, when trying to fetch those articles, the text are not fetched and instead the text 'REDIRECT [another page]' is fetched.
 But the redirect data in the database remains the same as before their names were changed.

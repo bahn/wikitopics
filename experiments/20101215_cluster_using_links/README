@@ -4,8 +4,11 @@ To know which language among Python, Java, and Perl, will work fastest,
 I did a performance test for these langauges. To my surprise, the fastest
 was Perl.
 
-The link data was created on Janurary 28, 2010. So it might not have
+The link data was created on Janurary 28, 2009. So it might not have
 the title of a page that is included in the data we are trying to test.
+The days included in our data set are January 27, February 10, April 19,
+May 12, and October 12, and only one of the days are before the day on
+which the link data were generated.
 
 The Logs section has the full logs that I did.
 

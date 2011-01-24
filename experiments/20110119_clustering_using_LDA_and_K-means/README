@@ -6,5 +6,88 @@ This experiment is meant to
 	measure such as cosine distance, KL divergence, weighted sum,
 	and language models.
 
+
 I. LDA.
 
+I chose the Mallet software to run LDA on our data set. It was used before
+to run the K-means clustering on our data set, so it seems to be a natural
+selection to me.
+
+The JAVA source files used to run K-means are located at: src/mallet.
+I will add a new module to run LDA on our data set.
+
+First, I looked at the official website of the software:
+http://mallet.cs.umass.edu/
+
+The algorithms and stuff Mallet supports are various:
+	For document classification: Naïve Bayes, Max-ent, Decision Tress.
+	For sequence tagging: HMMs, Max-ent MMs, CRFs
+	For topic modeling: LDA, Pachinko Allocation, Hierarchical LDA.
+	For numerical optimizations: Limited Memory BFGS
+
+It seemed all too complicated. So I decided to run a thing as simplest as
+possible first. The next thing is the one I decided to run:
+	The goal is to cluster the articles selected on January 27, 2009.
+	The source articles: data/articles/2009-01-27
+	The number of clusters: 50
+
+	The commands:
+		Importing documents:
+			$MALLET/bin/mallet import-dir --input data/articles/2009-01-27 --output data/mallet/input/2009-01-27.articles.mallet --keep-sequence --remove-stopwords
+		Building a model:
+			$MALLET/bin/mallet train-topics --input data/mallet/input/2009-01-27.articles.mallet --num-topics 50 --output-state data/mallet/output/2009-01-27.topic-state.gz --output-model data/mallet/output/2009-01-27.model --output-doc-topics data/mallet/output/2009-01-27.doc-topics --output-topic-keys data/mallet/output/2009-01-27.topic-keys --inferencer-filename 2009-01-27.inferencer
+			
+			Total time: 3 minutes 57 seconds
+		The doc-topics file is the one I wanted. It has the topic number in the third column. I wrote a script to convert the format of the output into mine:
+			src/cluster/lda/extract_cluster.sh
+			
+		Generating clustering for January 27, 2009:
+			./extract_cluster.sh 50 ../../../data/mallet/output/2009-01-27.doc-topics > ../../../data/clusters/lda/2009-01-27.cluster
+			
+		Evaluating the result:
+			cd src/cluster/eval
+			./eval.py ../../../data/clusters/bahn/cluster0127.txt ../../../data/clusters/lda/2009-01-27.cluster
+		
+			Evaluation result:
+				gold standard: ../../../data/clusters/bahn/cluster0127.txt
+				clustering: ../../../data/clusters/lda/2009-01-27.cluster
+				clusters of gold standard: 43
+				clusters of test set: 44
+				Multiplicity BCubed precision: 0.3753
+				Multiplicity BCubed recall:    0.3206
+				Multiplicity BCubed F-score:   0.3458
+				
+		Batch running:
+			Importing documents:
+				(cd $WIKITOPICS)
+				for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do $MALLET/bin/mallet import-dir --input data/articles/$DATE --output data/mallet/input/$DATE.articles.mallet --keep-sequence --remove-stopwords; done
+			Running LDA:
+				for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do $MALLET/bin/mallet train-topics --input data/mallet/input/$DATE.articles.mallet --num-topics 50 --output-state data/mallet/output/$DATE.topic-state.gz --output-model data/mallet/output/$DATE.model --output-doc-topics data/mallet/output/$DATE.doc-topics --output-topic-keys data/mallet/output/$DATE.topic-keys --inferencer-filename data/mallet/output/$DATE.inferencer; done
+				
+				Wrong: I run LDA on the whole data of the five days. This took a lot of time. Probably the time running lda takes varies according to how long it takes until it converges.
+					2009-01-27: Total time: 14 minutes 24 seconds
+					2009-02-10: Total time: 17 minutes 14 seconds
+					2009-04-19: Total time: 14 minutes 10 seconds
+					2009-05-12: Total time: 16 minutes 53 seconds
+					2009-10-12: Total time: 2 hours 18 seconds
+			Generating clusters:
+				for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do src/cluster/lda/extract_cluster.sh 50 data/mallet/output/$DATE.doc-topics > data/clusters/lda/$DATE.clusters; done
+			Evaluation:
+				cd src/cluster/eval; ./eval_lda.sh | ./tabularize.pl
+		
+			I found an error while running evaluation. I re-run everything again:
+				ccb	lda	0127	38	44	0.5152	0.3484	0.4157
+				ccb	lda	0210	52	46	0.4512	0.3913	0.4191
+				ccb	lda	0419	51	44	0.5397	0.5730	0.5559
+				ccb	lda	0512	44	44	0.5036	0.2247	0.3108
+				ccb	lda	1012	58	46	0.4793	0.4311	0.4540
+				ben	lda	0127	34	44	0.6061	0.2451	0.3490
+				ben	lda	0210	58	46	0.4350	0.4911	0.4613
+				ben	lda	0419	59	44	0.4663	0.5956	0.5230
+				ben	lda	0512	34	44	0.6506	0.2115	0.3192
+				ben	lda	1012	65	46	0.3608	0.5687	0.4415
+				bahn	lda	0127	43	44	0.4432	0.3330	0.3802
+				bahn	lda	0210	63	46	0.3659	0.5070	0.4250
+				bahn	lda	0419	63	44	0.4504	0.7088	0.5508
+				bahn	lda	0512	37	44	0.6024	0.2196	0.3219
+				bahn	lda	1012	63	46	0.3937	0.5682	0.4651

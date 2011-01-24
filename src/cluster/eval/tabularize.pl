@@ -19,6 +19,9 @@ while (<>) {
         if (/clusters-([^\/]+)\/.+(\d{4})/) {
 			$gold = $1;
 			$date = $2;
+		} elsif (/clusters\/([^\/]+)\/.+(\d{4})/) {
+			$gold = $1;
+			$date = $2;
 		}
     }
     if (/^clustering/) {
@@ -42,6 +45,13 @@ while (<>) {
             $algo = $algo . $1;
         }
     }
+	if (/clusters of/) {
+		if (/gold standard: (\d*)/) {
+			$gold_num = $1;
+		} elsif (/test set: (\d*)/) {
+			$test_num = $1;
+		}
+	}
     if (/BCubed/) {
         if (/precision/) {
             /([\.0-9]+)/;
@@ -52,7 +62,7 @@ while (<>) {
         } elsif (/F-score/) {
             /([\.0-9]+)/;
             $fscore = $1;
-            print "$gold\t$algo\t$date\t";
+            print "$gold\t$algo\t$date\t$gold_num\t$test_num\t";
             print "$prec\t$rec\t$fscore\n";
         }
     }
