@@ -1,0 +1,77 @@
+ACL Planning
+
+Timeline
+------------------------------------------------------
+Week 13  Dec 17 submission
+Week 11  Dec 3  draft of paper complete (7-10 pages)
+
+Working title:
+What's popular on wikipedia and why.
+Wikipedia: What's up, hon/yo/world?
+
+* Introduction (0.5-1 page)
+* System overview describing each module, and including a diagram of how they connect (1.5 pages)
+ - include description of hour-by-hour wikipedia page view stats
+   + show example graphs that highlight trnding topics
+     - 
+* Related work (.75-1 page)
+ - description of Trending Topics baseline
+ - lots of citations to related work
+   + NewsBlaster: McKeown + Barzilay
+   + Snippet Selection: + Lapata
+   + A list of *ACL/EMNLP* papers that study wikipedia - AAAI + SIGIR + CHI + CIKM + *WWW*
+* Experimental design
+ 0) Selection of articles for a given day (TT)
+    <- How well does the TT algo capture wikipedia current events
+       WP current events seem to be non-interesting events.
+       -> This could be part of the motivation
+ 1) Clustering
+    - gold standard clusters
+      describe how created, give examples (touch on the running example), measure inter annotator agreement
+    - evaluation metric citation to Amigo paper
+    - baseline
+ 2) textual description of events
+    - of a cluster or of one article in the cluster
+    - simplified to selecting 1 sentence
+    - complex: selecting multiple
+    - future work sentence fusion
+    - Baselines/contrastive selction methods
+
+    Clustering
+    ---------------------------------------------
+    - choose centroid doc, then do ->
+    - concat into one pseudo doc then ->
+    - sentence with most links to other articles in the cluster
+    - consider pages that are one link away from all articles in the cluster
+    - Turker synthesized sentence for cluster
+
+    Articles
+    ---------------------------------------------
+    - sentence w/ most recent temporal expression
+    - choose most recently added sentence
+      alt: choose from diff of current version v. 1 week ago
+      tie breakers:
+          date
+          name/article title
+
+ 3) Evaluation
+    * manually select sentences that best describe why the article or cluster was interesting on this date
+      <- important to measure inter annotator agreement
+    * accuracy of automatic selection, MRR (mean reciprocal rank)
+
+* Future work
+ - what NLP challenges remain
+   (what BG's thesis will be about)
+ - relate to Twitter stuff
+ - news outside of wikipedia
+ - relate to Google news
+
+Next to do items
+-------------------------------------------
+1) Download raw text of the 100 articles on the 5 days.
+2) Split them into sentences
+3) Tag sentences with temporal expressions
+  Look for regex package for dates
+4) All of us:
+  - for random selection of 10 articles, pick sentence that best describes why it is popular on the date or say no such sentence
+5) All of us: write a sentence or short paragraph saying why the article/cluster is popular

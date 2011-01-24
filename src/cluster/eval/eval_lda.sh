@@ -1,0 +1,15 @@
+./eval.py ../../../data/clusters/ccb/pick0127.clusters-ccb ../../../data/clusters/lda/2009-01-27.clusters
+./eval.py ../../../data/clusters/ccb/pick0210.clusters-ccb ../../../data/clusters/lda/2009-02-10.clusters
+./eval.py ../../../data/clusters/ccb/pick0419.clusters-ccb ../../../data/clusters/lda/2009-04-19.clusters
+./eval.py ../../../data/clusters/ccb/pick0512.clusters-ccb ../../../data/clusters/lda/2009-05-12.clusters
+./eval.py ../../../data/clusters/ccb/pick1012.clusters-ccb ../../../data/clusters/lda/2009-10-12.clusters
+./eval.py ../../../data/clusters/ben/pick0127 ../../../data/clusters/lda/2009-01-27.clusters
+./eval.py ../../../data/clusters/ben/pick0210 ../../../data/clusters/lda/2009-02-10.clusters
+./eval.py ../../../data/clusters/ben/pick0419 ../../../data/clusters/lda/2009-04-19.clusters
+./eval.py ../../../data/clusters/ben/pick0512 ../../../data/clusters/lda/2009-05-12.clusters
+./eval.py ../../../data/clusters/ben/pick1012 ../../../data/clusters/lda/2009-10-12.clusters
+./eval.py ../../../data/clusters/bahn/cluster0127.txt ../../../data/clusters/lda/2009-01-27.clusters
+./eval.py ../../../data/clusters/bahn/cluster0210.txt ../../../data/clusters/lda/2009-02-10.clusters
+./eval.py ../../../data/clusters/bahn/cluster0419.txt ../../../data/clusters/lda/2009-04-19.clusters
+./eval.py ../../../data/clusters/bahn/cluster0512.txt ../../../data/clusters/lda/2009-05-12.clusters
+./eval.py ../../../data/clusters/bahn/cluster1012.txt ../../../data/clusters/lda/2009-10-12.clusters

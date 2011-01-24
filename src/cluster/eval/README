@@ -1,0 +1,86 @@
+Overview
+========
+
+These are the scripts to evaluate various clusters against a different cluster.
+You may evaluate one test set and gold standard pair at a time.
+
+Input
+=====
+The cluster files are in the same format:
+The title of an article is listed per line, and each cluster is divided by a blank line.
+The first article of each cluster may be the centroid article of the cluster.
+Comments followed by a hash (#) sign are allowed either at the beginning or end of a line.
+
+An example cluster file follows:
+# Excitement about the upcoming superbowl.  Played on February 1, 2009.
+Super_Bowl_XLIII
+Super_Bowl
+Arizona_Cardinals
+Kurt_Warner
+
+# The US airways flight that ditched into the Hudson, with no casualties 
+US_Airways_Flight_1549
+Chesley_Sullenberger
+Hudson_River
+Airbus_A320_family
+
+Usage
+=====
+./batch_eval.sh | ./tabularize.perl
+./batch_eval_mturk.sh | ./tabularize.perl
+./eval_mturk_mallet.sh | ./tabularize.perl
+
+Scripts
+=======
+eval.py
+-------
+	the evaluation script that use multiplicity B-cubed for overlapping clusters.
+
+Usage:
+	./eval.py gold_standard test_set
+		gold_standard and test_set are both cluster files.
+		The B-cubed scores are evaluated for test_set against gold_standard.
+		The scores are commutative, which means you will get the same scores
+		if you exchange the test set and the gold standard.
+
+Input:
+	cluster files has the following format.
+
+	The title of an article is listed per line, and each cluster is divided by a blank line.
+	The first article of each cluster may be the centroid article of the cluster.
+	Comments followed by a hash (#) sign are allowed either at the beginning or end of a line.
+
+	An example cluster file follows:
+	# Excitement about the upcoming superbowl.  Played on February 1, 2009.
+	Super_Bowl_XLIII
+	Super_Bowl
+	Arizona_Cardinals
+	Kurt_Warner
+
+	# The US airways flight that ditched into the Hudson, with no casualties 
+	US_Airways_Flight_1549
+	Chesley_Sullenberger
+	Hudson_River
+	Airbus_A320_family
+
+nonoverlapeval.py
+-----------------
+	the previous version of the eval.py script for non-overlapping clusters.
+
+tabularize.perl
+---------------
+	the script to tabularize the results of the eval.py script.
+
+Batch evaluation scripts
+------------------------
+batch_eval.sh
+	the scripts for evaluation of manual clusters against each other.
+
+batch_eval_mturk.sh
+	the scripts for evaluation of mechanical turk clusters against manual clusters.
+
+eval_mturk_mallet.sh
+	the script for evaluation of reprocessed mechanical turk clusters.
+	The mechanical turk reponses are reprocessed using Mallet to form a new clusters.
+	We reprocessed the reponses since the clusters based on the relatedness of artcile pairs did not work well.
+

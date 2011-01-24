@@ -1,0 +1,25 @@
+Friday, October 8th, 2010
+==================================================================================
+Choose sentences to describe a whole cluster
+(1) Pick the main article from the cluster
+    => K-means centroid
+    => most viewed during that period
+    => the article that is most linked to by the other page
+(2) Choose the best sentence from the main article
+    => Using our closest date heuristic, resolving pronouns
+    => Make sure that the sentence includes the entity that the article describes.
+(3) Choose sentences that describe pairs of articles:
+	< Main article, other article in the cluster >
+	=> sentence should mention both entities
+	=> sentence can be taken from either page
+	=> date may not be important
+
+Wednesday, October 20th, 2010
+==================================================================================
+Just met with Chris. We talked about technical details about how to tackle the issues of doing things written above (for Oct 8).
+1. Make a separate file that has meta information about links for each article sentences file.
+2. Regard any instance of the string that is part of a link as a link to the corresponding linked article.
+3. For each sentence in any output that has a reference to sentences, attach the sentence index.
+
+Make the draft for the paper more polished and bring the printout to the next meeting.
+
