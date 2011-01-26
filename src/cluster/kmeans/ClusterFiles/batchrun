@@ -1,0 +1,5 @@
+./run --input /Users/bahn/work/wikitopics/data/articles/2009-01-27 --k 50 $* > kmeans_0127
+./run --input /Users/bahn/work/wikitopics/data/articles/2009-02-10 --k 50 $* > kmeans_0210
+./run --input /Users/bahn/work/wikitopics/data/articles/2009-04-19 --k 50 $* > kmeans_0419
+./run --input /Users/bahn/work/wikitopics/data/articles/2009-05-12 --k 50 $* > kmeans_0512
+./run --input /Users/bahn/work/wikitopics/data/articles/2009-10-12 --k 50 $* > kmeans_1012

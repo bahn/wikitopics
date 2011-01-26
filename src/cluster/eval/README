@@ -76,7 +76,10 @@ Batch evaluation scripts
 batch_eval.sh
 	the scripts for evaluation of manual clusters against each other.
 
-batch_eval_mturk.sh
+eval_lda.sh
+	evaluates the results of clustering using lda.
+
+eval_mturk.sh
 	the scripts for evaluation of mechanical turk clusters against manual clusters.
 
 eval_mturk_mallet.sh
@@ -84,3 +87,15 @@ eval_mturk_mallet.sh
 	The mechanical turk reponses are reprocessed using Mallet to form a new clusters.
 	We reprocessed the reponses since the clusters based on the relatedness of artcile pairs did not work well.
 
+eval_onehop.sh
+	evaluates the results of clustering using links.
+	you can test various subsets using a command-line argument as below:
+		./eval_onehop.sh | ./tabularize.perl
+		./eval_onehop.sh -for-all | ./tabularize.perl
+		./eval_onehop.sh -min | ./tabularize.perl
+		./eval_onehop.sh -max | ./tabularize.perl
+		
+eval_kmeans.sh
+	evaluates the results of K-means clustering.
+	You can use various settings using a command-line argument as below:
+	

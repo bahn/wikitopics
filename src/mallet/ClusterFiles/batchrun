@@ -1,5 +1,0 @@
-java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterFiles /Users/bahn/work/wikitopics/data/clustering/articles/2009-01-27 > kmeans_0127
-java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterFiles /Users/bahn/work/wikitopics/data/clustering/articles/2009-02-10 > kmeans_0210
-java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterFiles /Users/bahn/work/wikitopics/data/clustering/articles/2009-04-19 > kmeans_0419
-java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterFiles /Users/bahn/work/wikitopics/data/clustering/articles/2009-05-12 > kmeans_0512
-java -cp .:$MALLET/class:$MALLET/lib/trove-2.0.2.jar ClusterFiles /Users/bahn/work/wikitopics/data/clustering/articles/2009-10-12 > kmeans_1012

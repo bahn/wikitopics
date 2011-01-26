@@ -36,6 +36,9 @@ while (<>) {
 			$algo = $1;
 			$confirm_date = $2;
 			$confirm_date =~ s/[0-9]{4}-([0-9]{2})-([0-9]{2})/\1\2/;
+		} elsif (/clusters\/([^\/]+)\/.+(\d{4})/) {
+			$algo = $1;
+			$confirm_date = $2;
 		} else {
 			print "$_\n";
 		}

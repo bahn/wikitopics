@@ -1,0 +1,11 @@
+Overview
+========
+
+These projects are for running Mallet for clustering articles.
+
+The projects are mistitled in my current opinion
+because the title does not reflect what they do well.
+What they do:
+	ClusterFiles: cluster documents each of which is stored in a separate text file using K-means.
+	ClusterRow: cluster documents the list of which is stored in a CSV file that
+		contains the reponses of MTurkers about the relevance of the documents.

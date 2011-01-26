@@ -1,0 +1,15 @@
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ccb/pick0127.clusters-ccb /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0127
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ccb/pick0210.clusters-ccb /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0210
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ccb/pick0419.clusters-ccb /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0419
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ccb/pick0512.clusters-ccb /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0512
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ccb/pick1012.clusters-ccb /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_1012
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ben/pick0127 /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0127
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ben/pick0210 /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0210
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ben/pick0419 /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0419
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ben/pick0512 /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0512
+./eval.py /Users/bahn/work/wikitopics/data/clusters/ben/pick1012 /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_1012
+./eval.py /Users/bahn/work/wikitopics/data/clusters/bahn/cluster0127.txt /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0127
+./eval.py /Users/bahn/work/wikitopics/data/clusters/bahn/cluster0210.txt /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0210
+./eval.py /Users/bahn/work/wikitopics/data/clusters/bahn/cluster0419.txt /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0419
+./eval.py /Users/bahn/work/wikitopics/data/clusters/bahn/cluster0512.txt /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_0512
+./eval.py /Users/bahn/work/wikitopics/data/clusters/bahn/cluster1012.txt /Users/bahn/work/wikitopics/data/clusters/kmeans$1/kmeans_1012

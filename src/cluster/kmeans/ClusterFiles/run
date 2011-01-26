@@ -1,0 +1,1 @@
+java -cp .:$MALLET/class:$MALLET/lib/mallet-deps.jar ClusterFiles $*

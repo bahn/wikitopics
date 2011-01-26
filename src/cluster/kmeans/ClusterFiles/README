@@ -1,0 +1,17 @@
+ClusterFiles
+
+groups articles into groups of articles.
+
+Usage:
+	./run --input DIR --k 50 --weighting tf --metric
+		--input
+			The directories containing text files to be classified, one directory per class
+			
+		--k
+			The number of clusters into which articles are grouped.
+		
+		--weighting
+			The term weighting function: tf, idf, or tfidf.
+		
+		--metric
+			The distance metric: cosine, kl divergence, etc.
