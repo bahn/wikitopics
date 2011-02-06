@@ -21,9 +21,11 @@ ben:
 bahn:
 	The manual sentence selection done by me. Only the data for the first day are available.
 manual:
-	This is actually misnamed. This is the original articles on which the manual sentence selection is based on.
+	This is actually misnamed. This is the original articles on which the manual 
+	sentence selection is based on.
 	The data in data/articles/ are re-extracted using the revised Wikipydia module,
 	resulting in more text with less errors, but the text extraction was done after
 	the revision of the Wikipydia module.
-	You need this set of original articles to perform sentence selection evaluation because
-	you need to identify which sentence you chose as best in the original articles.
+	You need this set of original articles to perform sentence selection evaluation 
+	because you need to identify which sentence you chose as best in the original 
+	articles.

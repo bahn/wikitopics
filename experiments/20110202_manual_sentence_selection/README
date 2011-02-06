@@ -1,0 +1,174 @@
+Manually select best sentences for the articles of the rest four days.
+
+Steps
+-----
+1. First, make sure which articles that Ben's selection came from.
+   They are from data/sent/manual.
+   
+2. Copy the data for the rest four days from data/sent/manual into
+   data/sent/bahn.
+   
+3. Choose the best sentence and second-best sentences for each article.
+
+Delivarables
+============
+data/sent/bahn
+    *
+        My manual selection of sentences.
+    
+data/sent_eval/bahn
+    *
+        Preprocessed data for evaluation.
+
+src/sent_eval
+    eval_sents.py
+        Script to evaluate the results.
+        Changes: fixed to print only first three decimals for p and r.
+
+Commands
+--------
+1. Preprocess: put the line number.
+    Bahn:
+        cd src/sent_eval
+        for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./number_sents.py ../../data/sent/bahn/$DATE ../../data/sent/manual/$DATE ../../data/sent_eval/bahn/$DATE; done
+
+2. Evaluate.
+    Bahn against Ben:
+        cd src/sent_eval
+        ./eval_sents.py ../../data/sent_eval/bahn ../../data/sent_eval/ben
+        
+    Ben against Bahn:
+        cd src/sent_eval
+        ./eval_sents.py ../../data/sent_eval/ben ../../data/sent_eval/bahn
+        
+3. To see the differences:
+    for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do diff ../../data/sent_eval/bahn/$DATE ../../data/sent_eval/ben/$DATE; done | perl -pe 's/diff .*\/([^\/]*\/[^\/]*)/-------------------------------------------------------------\n\1/; s/1c1//;' | less
+        
+Results
+-------
+./eval_sents.py ../../data/sent_eval/bahn ../../data/sent_eval/ben
+    bahn evaluated against ben
+    
+    item_counts: 50
+    a best_tp: 18
+    b test_best: 36
+    c gold_best: 33
+    p = a/b = 0.5
+    r = a/c = 0.545454545455
+    f = 2pr / (p+r) = 0.521739130435
+    
+    a second_tp: 33
+    b test_second: 39
+    c gold_second: 44
+    p = a/b = 0.846153846154
+    r = a/c = 0.75
+    f = 2pr / (p+r) = 0.795180722892
+
+./eval_sents.py ../../data/sent_eval/auto-first ../../data/sent_eval/ben
+    auto-first evaluated against ben
+    
+    item_counts: 50
+    a best_tp: 7
+    b test_best: 50
+    c gold_best: 33
+    p = a/b = 0.14
+    r = a/c = 0.212121212121
+    f = 2pr / (p+r) = 0.168674698795
+    
+    a second_tp: 17
+    b test_second: 50
+    c gold_second: 44
+    p = a/b = 0.34
+    r = a/c = 0.386363636364
+    f = 2pr / (p+r) = 0.36170212766
+./eval_sents.py ../../data/sent_eval/auto-first ../../data/sent_eval/bahn
+    auto-first evaluated against bahn
+    
+    item_counts: 50
+    a best_tp: 7
+    b test_best: 50
+    c gold_best: 36
+    p = a/b = 0.14
+    r = a/c = 0.194444444444
+    f = 2pr / (p+r) = 0.162790697674
+    
+    a second_tp: 16
+    b test_second: 50
+    c gold_second: 39
+    p = a/b = 0.32
+    r = a/c = 0.410256410256
+    f = 2pr / (p+r) = 0.359550561798
+./eval_sents.py ../../data/sent_eval/auto-recent ../../data/sent_eval/ben
+    auto-recent evaluated against ben
+    
+    item_counts: 50
+    a best_tp: 16
+    b test_best: 49
+    c gold_best: 33
+    p = a/b = 0.326530612245
+    r = a/c = 0.484848484848
+    f = 2pr / (p+r) = 0.390243902439
+    
+    a second_tp: 27
+    b test_second: 49
+    c gold_second: 44
+    p = a/b = 0.551020408163
+    r = a/c = 0.613636363636
+    f = 2pr / (p+r) = 0.58064516129
+./eval_sents.py ../../data/sent_eval/auto-recent ../../data/sent_eval/bahn
+    auto-recent evaluated against bahn
+    
+    item_counts: 50
+    a best_tp: 14
+    b test_best: 49
+    c gold_best: 36
+    p = a/b = 0.285714285714
+    r = a/c = 0.388888888889
+    f = 2pr / (p+r) = 0.329411764706
+    
+    a second_tp: 23
+    b test_second: 49
+    c gold_second: 39
+    p = a/b = 0.469387755102
+    r = a/c = 0.589743589744
+    f = 2pr / (p+r) = 0.522727272727
+./eval_sents.py ../../data/sent_eval/auto-self ../../data/sent_eval/ben
+    auto-self evaluated against ben
+    
+    item_counts: 50
+    a best_tp: 12
+    b test_best: 41
+    c gold_best: 33
+    p = a/b = 0.292682926829
+    r = a/c = 0.363636363636
+    f = 2pr / (p+r) = 0.324324324324
+    
+    a second_tp: 20
+    b test_second: 41
+    c gold_second: 44
+    p = a/b = 0.487804878049
+    r = a/c = 0.454545454545
+    f = 2pr / (p+r) = 0.470588235294
+./eval_sents.py ../../data/sent_eval/auto-self ../../data/sent_eval/bahn
+    auto-self evaluated against bahn
+    
+    item_counts: 50
+    a best_tp: 13
+    b test_best: 41
+    c gold_best: 36
+    p = a/b = 0.317073170732
+    r = a/c = 0.361111111111
+    f = 2pr / (p+r) = 0.337662337662
+    
+    a second_tp: 20
+    b test_second: 41
+    c gold_second: 39
+    p = a/b = 0.487804878049
+    r = a/c = 0.512820512821
+    f = 2pr / (p+r) = 0.5
+
+Some anomalies found
+--------------------
+* In the February 2009 Great Britain and Ireland snowfall article, the label {{convert|30|cm|0}}, shown as 30 centimetres (12 in) in text, was not shown.
+
+* Lawrence Kutner of April 19, 2009 is a redirected page.
