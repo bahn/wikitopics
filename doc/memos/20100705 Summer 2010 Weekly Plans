@@ -1,0 +1,70 @@
+May 31-June 4
+=============
+
+June 7-June 11
+==============
+Done:
+- went to see Chris Dyer's dissertation defense
+- participated in the UMD Crowdsourcing and Translation Workshop
+
+June 14-June 18
+===============
+Done:
+- retrieved the gold standard current events
+- meeting with James to take over the wikitrans project
+- ran through the Django tutorial
+
+June 21-June 25
+===============
+Done:
+- fixed the unicode issue on importing turk sources
+
+June 28-July 2
+==============
+Plan:
+- import turk results
+- deal with page redirects
+
+Done:
+- summarized twitter paper
+- evaluated recall of the suggested current events
+- read TDT 2004 Annotation Manual
+
+July 5-July 9
+=============
+Plan:
+- summarize TDT 2004 Annotation Manual
+- import turk results
+- deal with page redirects
+- generate the year-long page views for the list of the internal links in the gold standard data set
+- Download the LaTeX template for ACL 2010 and write two paragraphs about evaluation and related work.
+- Write a script to cut off the current events that have low frequency.
+- Write a script to analyze how page view counts changed as designated as current events.
+Better to visualize it using the jQuery sparklines.
+
+July 12 - July 16
+=================
+Plan:
+- reprocess data using redirects
+- download the wikistats for June 2010 from Mituzas and compile them into daily statistics
+
+Done:
+- downloaded the wikistats for June 2010 from Mituzas
+
+July 19-23
+==========
+Plan:
+- finish processing redirects
+- finish turk results importing
+
+Done:
+- reprocessed data using redirects
+  - got new page_views for events
+  - got new trending topics
+
+July 26-30
+==========
+Done:
+- Drew wikisparks for each link
+- Draw Precision/Recall graph for link and bullets
+

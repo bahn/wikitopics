@@ -1,0 +1,82 @@
+?
+=
+- put the number of clusters into the tables in my paper (until Feb. 8)
+
+Done
+====
+Sentence selection:
+- show the output of different sentence selection schemes (Feb. 8)
+- do manual sentence selection for the rest of the five days. (until Feb. 3)
+- show inter-annotator agreement for manual sentence selection
+
+Citation:
+- put double curly braces around the title: NLTK, Twitter
+- remove page information from conference papers
+- abbreviate all the conference names
+- delete see and the trailing period
+- check if the page limit includes citation: checked. YES.
+
+Style:
+- spellcheck: showed->shown, sentencess->sentences
+
+
+To Do
+=====
+Citation:
+- look for research papers about wikipedia esp in aaai and write a short paragraph about them (until Feb. 3 or Feb. 8?)
+- have a full page of citations
+    - cite IR textbook, topic modeling paper, LDA, vector space model, TDT
+    - cite Wikipedia papers
+- cite papers about wsd, tdt, coref resolution, sentence fusion
+- other tiny bits about citations
+
+Description:
+- mention the example of bruce springsteen clustered with grammy's award (until Feb. 8)
+
+Figures:
+- make sparkline graphs for super bowl and the captain sulley to possibly replace the current graph (until Feb. 8 deadline)
+
+Major things:
+- use edit histories for sentence selection
+- write into the future work how to summarize a whole cluster or how a pair of things is related and discuss why it is difficult (until Feb. 3)
+- revise the paragraph about Piracy with USS Bainbridge (DDG-96) and MV Maersk Alabama (until Feb. 8)
+- remove trailing words by rewriting a paragraph to get extra space
+- count the percentage of country names
+- draw histogram of the increase in page views
+- randomize order of Figure 1
+- reduce the paragraph about Wikipedia current events
+
+Minor things:
+- do ensemble clustering (until Feb. 3)
+- using Wikipedia categories to do the clustering (until Feb. 3)
+- clustering with newswire data
+- replace the example figure with 2011's events.
+- ask Courtney about typesetting
+- generate sentences for different selection algorithms
+
+Introduction:
+- maybe change figure 2
+- revise the correlation between spikes and the day on which events are selected
+
+Article Selection:
+- add equation or pseudo code for article selection
+- put histogram: better argument for why we should not use the current events from Wikipedia editors as gold standard
+
+Clustering:
+- give both relative and absolute #s for clustering performance results
+- explain why some clustering methods fail (Piracy and Moldova)
+- plot distribution of cluster size.
+- average results across gold standard datasets
+
+Sentence Selection:
+- average results across gold standard datasets
+- put error analysis that there are easy ones and hard ones
+- improve date:
+- put another feature: salience score based on tf-idf, sentence length
+
+Style:
+- summarize dataset and preprocess for article selection and clustering
+    - remove technical details more appropriate for project report: preprocessing steps - redirects and casing, file format.
+    
+Related work:
+- say how ours is different (relatively) static set of articles instead of constant stream of newswire

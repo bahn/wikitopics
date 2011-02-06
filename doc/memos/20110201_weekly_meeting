@@ -1,0 +1,41 @@
+- have a full page of citations
+    - cite IR textbook, topic modeling paper, LDA, vector space model, TDT
+    - cite Wikipedia papers
+- other tiny bits about citations
+    - check if the page limit includes citation
+    - put double curly braces around the title: NLTK, Twitter
+    - remove page information from conference papers
+    - abbreviate all the conference names
+    - delete see and the trailing period
+- replace the example figure with 2011's events.
+- ask Courtney about typesetting
+- make sure
+- remove trailing words by rewriting a paragraph to get extra space
+- spellcheck: showed->shown, sentencess->sentences
+
+- count the percentage of country names
+- draw histogram of the increase in page views
+- generate sentences for different selection algorithms
+
+General comments:
+    Style:
+        too many technical details more appropriate for project report:
+            preprocessing steps - redirects and casing, file format.
+        what is trending topics algorithms.
+            equation or pseudo-code
+
+
+- randomize order of Figure 1
+- edit histories
+- move this paragraph to where?
+- change figure 2
+- remove what of motivation?
+- revise the correlation between spikes and the day on which events are selected
+- summarize dataset and preprocess for article selection and clustering
+- add equation or pseudo code for article selection
+- cite papers about wsd, tdt, coref resolution, sentence fusion
+- give both relative and absolute #s for clustering performance results
+- why do some clustering methods fail? (Piracy and Moldova)
+- show inter-annotator agreement for manual sentence selection
+- say how ours is different (relatively) static set of articles instead of constant stream of newswire
+- put histogram: better argument for why we should not use the current events from Wikipedia editors as gold standard
