@@ -19,15 +19,15 @@ my $article_file;
 my $title_file;
 my $link_file;
 
-my %pagetitle;
-my %pageno;
+my %pagetitle; # no to title
+my %pageno; # title to no
 
 my %new_articles;
 my %new_pagenos;
-my %edges;
+my %edges; # nos -> maps of nos
 my %next_new_pagenos;
 
-my %mark;
+my %mark; # title already visited?
 
 # Print all the nodes in a node's connected component.
 # Only count the directly connected articles.
@@ -35,6 +35,8 @@ my %mark;
 # an article that are not in cluster, they are not printed.
 # They are counted as two hops.
 
+# print the connected component of the given article
+# this is a recursive subroutine
 sub visit {
 	my ($v) = @_;
 	#our %pagetitle;
@@ -52,6 +54,9 @@ sub visit {
 	}
 }
 
+# return the number of articles
+# that are one hop away from the given article
+# and not visited yet
 sub get_local {
 	my ($v) = @_;
 	my ($no) = 0;
@@ -61,25 +66,27 @@ sub get_local {
 
 	my $u;
 	for $u (keys %{ $edges{$v} }) {
-		if ($v != $u && !exists $mark{$u}) {
+		if ($v != $u && exists $pagetitle{$u} && !exists $mark{$u}) {
 			$no++;
 		}
 	}
 	return $no;
 }
 
+# print the articles that are one hop away
+# from the given article
 sub visit_local {
 	my ($v) = @_;
-	$mark{$v} = 1;
-	print "$pagetitle{$v}\n";
+    $mark{$v} = 1;
+    print "$pagetitle{$v}\n";
 
 	my $u;
 	for $u (keys %{ $edges{$v} }) {
 		if ($v==$u || !exists $pagetitle{$u}) {
 			next;
 		}
-		$mark{$u} = 1;
-		print "$pagetitle{$u}\n";
+        $mark{$u} = 1;
+        print "$pagetitle{$u}\n";
 	}
 }
 
@@ -93,8 +100,8 @@ $link_file = 'links-simple-sorted.txt';
 %pageno = (); # map title to no
 
 %new_articles = (); # all the articles to cluster. the variable name is misleading.
-%new_pagenos = ();
-%next_new_pagenos = ();
+%new_pagenos = (); # page numbers that needs to get the links from.
+%next_new_pagenos = (); # new page numbers possible for next iteration.
 %edges = ();
 
 open ARTICLE, $article_file or die "failed to open $article_file";
@@ -120,7 +127,7 @@ while (<LINK>) {
 	my @f = split/:/;
 	if (exists $new_pagenos{ $f[0] }) {
 		delete $new_pagenos{ $f[0] };
-		$edges{ $f[0] } = {};
+		$edges{ $f[0] } = {}; # hash reference
 		$_ = $f[1];
 		chop;
 		my @nos = split;
@@ -134,6 +141,8 @@ while (<LINK>) {
 }
 close LINK;
 
+# make all edges two-way
+# (make the graph undirected)
 my $v;
 my $u;
 foreach $v (keys %edges) {
@@ -142,7 +151,7 @@ foreach $v (keys %edges) {
 	}
 }
 
-%mark = ();
+%mark = (); # no is visited
 my %tried;
 %tried = ();
 
