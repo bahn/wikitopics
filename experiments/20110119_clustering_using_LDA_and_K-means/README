@@ -64,7 +64,7 @@ possible first. The next thing is the one I decided to run:
 			Running LDA:
 				for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do $MALLET/bin/mallet train-topics --input data/mallet/input/$DATE.articles.mallet --num-topics 50 --output-state data/mallet/output/$DATE.topic-state.gz --output-model data/mallet/output/$DATE.model --output-doc-topics data/mallet/output/$DATE.doc-topics --output-topic-keys data/mallet/output/$DATE.topic-keys --inferencer-filename data/mallet/output/$DATE.inferencer; done
 				
-				Wrong: I run LDA on the whole data of the five days. This took a lot of time. Probably the time running lda takes varies according to how long it takes until it converges.
+				Fail: I ran LDA on the whole data of the five days. This took a lot of time. Probably the time running lda takes varies according to how long it takes until it converges.
 					2009-01-27: Total time: 14 minutes 24 seconds
 					2009-02-10: Total time: 17 minutes 14 seconds
 					2009-04-19: Total time: 14 minutes 10 seconds
@@ -73,7 +73,7 @@ possible first. The next thing is the one I decided to run:
 			Generating clusters:
 				for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do src/cluster/lda/extract_cluster.sh 50 data/mallet/output/$DATE.doc-topics > data/clusters/lda/$DATE.clusters; done
 			Evaluation:
-				cd src/cluster/eval; ./eval_lda.sh | ./tabularize.pl
+				cd src/cluster/eval; ./eval.sh lda | ./tabularize.pl
 		
 			I found an error while running evaluation. I re-run everything again:
 				ccb	lda	0127	38	44	0.5152	0.3484	0.4157
@@ -91,6 +91,7 @@ possible first. The next thing is the one I decided to run:
 				bahn	lda	0419	63	44	0.4504	0.7088	0.5508
 				bahn	lda	0512	37	44	0.6024	0.2196	0.3219
 				bahn	lda	1012	63	46	0.3937	0.5682	0.4651
+			
 
 II. K-means.
 

@@ -53,10 +53,10 @@ To cluster:
 
 To evaluate:
 	$ cd src/cluster
-	$ ./eval_onehop.sh | ./tabularize.perl
-	$ ./eval_onehop.sh -for-all | ./tabularize.perl
-	$ ./eval_onehop.sh -min | ./tabularize.perl
-	$ ./eval_onehop.sh -max | ./tabularize.perl
+	$ ./eval_onehop.sh | ./tabularize.pl
+	$ ./eval_onehop.sh -for-all | ./tabularize.pl
+	$ ./eval_onehop.sh -min | ./tabularize.pl
+	$ ./eval_onehop.sh -max | ./tabularize.pl
 
 To find files that are missing in the link structures.
 $ grep -A 100 "new and not found" * | grep -v "new and not found" | grep -v 'clusters-$' | grep -v '^--$' | wc -l
@@ -82,7 +82,7 @@ bahn	auto-onehop	0512	0.3397	0.7248	0.4626
 bahn	auto-onehop	1012	0.2236	0.4559	0.3000
 
 ALL:
-$ ./eval_onehop.sh -for-all | ./tabularize.perl
+$ ./eval_onehop.sh -for-all | ./tabularize.pl
 ccb	auto-onehop-for-all	0127	0.0349	0.7228	0.0665
 ccb	auto-onehop-for-all	0210	0.2571	0.3720	0.3040
 ccb	auto-onehop-for-all	0419	0.2402	0.4466	0.3124
@@ -100,7 +100,7 @@ bahn	auto-onehop-for-all	0512	0.1562	0.6987	0.2554
 bahn	auto-onehop-for-all	1012	0.1738	0.3993	0.2422
 
 MIN:
-$ ./eval_onehop.sh -min | ./tabularize.perl 
+$ ./eval_onehop.sh -min | ./tabularize.pl 
 ccb	auto-onehop-min	0127	0.3912	0.5263	0.4488
 ccb	auto-onehop-min	0210	0.6242	0.3182	0.4216
 ccb	auto-onehop-min	0419	0.7887	0.4319	0.5581
@@ -118,7 +118,7 @@ bahn	auto-onehop-min	0512	0.7329	0.4681	0.5713
 bahn	auto-onehop-min	1012	0.5044	0.3818	0.4346
 
 MAX:
-$ ./eval_onehop.sh -max | ./tabularize.perl 
+$ ./eval_onehop.sh -max | ./tabularize.pl 
 ccb	auto-onehop-max	0127	0.1576	0.6467	0.2534
 ccb	auto-onehop-max	0210	0.5075	0.3190	0.3918
 ccb	auto-onehop-max	0419	0.6925	0.4319	0.5320
@@ -330,7 +330,7 @@ Then I ran the following command to do clustering.
 $ mkdir -p ../../data/clusters/auto-onehop; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do ./cluster_onehop.pl ../../data/list/$DATE.articles > ../../data/clusters/auto-onehop/$DATE.clusters; done
 
 Then I tried to evaluate the clusters only to find they have duplicate articles and some articles are missing:
-$ ./eval_onehop.sh | ./tabularize.perl
+$ ./eval_onehop.sh | ./tabularize.pl
 I talked to Ben, and decided to manually put the missing articles as their own clusters.
 
 How many articles are missing and how many articles are dups?
