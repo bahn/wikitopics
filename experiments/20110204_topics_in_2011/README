@@ -1,0 +1,54 @@
+Aggregate statsitics for 2011, and generate topics and sparkline graph.
+
+Directories: a05:/mnt/data/wikipedia_page_views
+
+Deliverables
+============
+
+data/events/
+    
+
+Steps
+=====
+1. Downloaded the wikistats for January, 2011 and Febraury, 2011.
+    at data/wikistats/downloading:
+        nohup wget -r -w 5 -l 0 --no-parent -nH -o wikistats.log http://dammit.lt/wikistats/ &
+        
+        nohup wget -r -w 5 -l 0 -nH --cut-dirs=1 --no-parent -o archive.log http://dammit.lt/wikistats/archive/2011/01/ &
+
+2. Process redirect pages for hourly data. This step also filters out non-English articles.
+    at data/wikistats:
+        nohup ./redirectfiles.sh &
+
+3. Aggregate hourly data into daily data.
+
+4. Find trending topics and current events.
+    cd src/wiki; ./retrieve_year_events.py 2011-01-01 2011-02-05
+    mv output json
+
+5. Generate pageviews for the topics and events..
+
+6. Draw sparkline graphs using wikipyspark.
+
+7. Use them as examples for the Figure 1 and 2.
+
+Anomalies
+=========
+The last one: archive/2011/01/pagecounts-20110120-110000.gz
+* Magway_Football_Club has a circular redirection: It's true.
+    archive/2011/01/pagecounts-20110105-190000.gz
+    archive/2011/01/pagecounts-20110109-040000.gz
+    archive/2011/01/pagecounts-20110117-110000.gz
+    archive/2011/01/pagecounts-20110118-140000.gz
+    archive/2011/01/pagecounts-20110119-190000.gz
+    
+* Crashed:
+    archive/2011/01/pagecounts-20110119-170000.gz
+    Traceback (most recent call last):
+      File "./redirectstats.py", line 109, in <module>
+        read_wikistats(sys.argv[3])
+      File "./redirectstats.py", line 85, in read_wikistats
+        page = unicode(field[1], 'utf8')
+      File "/usr/lib/python2.6/encodings/utf_8.py", line 16, in decode
+        return codecs.utf_8_decode(input, errors, True)
+        UnicodeDecodeError: 'utf8' codec can't decode byte 0xa9 in position 4: invalid start byte

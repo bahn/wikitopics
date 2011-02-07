@@ -1,0 +1,72 @@
+Generate histogram of the Wikipedia current events and the topics.
+
+Input
+=====
+data/topics
+    topics_raw_2009
+data/events
+    events_links_2009
+
+Deliverables
+============
+data/topics
+    topics_2009
+data/events
+    events_links_2009_redirected
+    
+data/pageviews
+    topics_2009.pageviews
+    events_2009.pageviews
+
+src/topics
+    convert_topics.pl
+    
+src/pageviews
+    get_pop_scores.py
+        ./get_pop_scores.py article_list pageviews 
+
+Steps
+=====
+
+Convert the topics format:
+    cd src/topics
+    ./convert_topics.pl < ../../data/topics/topics_raw_2009 > ../../data/topics/topics_2009
+
+Redirect event links:
+    ./redirectevents.py ../../data/wikidump/enwiki-20100622/non_redirects.txt ../../data/wikidump/enwiki-20100622/redirects.txt ../../data/events/events_links_2009 > events_links_2009_redirected
+    Errors found:
+        invalid title:   5/17253   0.03%
+        missing title: 115/17253   0.67%
+    
+Extract pageviews:
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/topics/topics_2009 ../../../data/wikistats/aggregate/en_redir_daily &
+
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/events/events_links_2009_redirected ../../../data/wikistats/aggregate/en_redir_daily &
+
+Determine the difference of sum of pageviews of two consecutive fifteen-day windows.
+    ./get_pop_scores.py ../../data/topics/topics_2009 ../../data/pageviews/topics_2009.pageviews > topics_2009.popularity
+    ./get_pop_scores.py ../../data/events/events_links_2009_redirected ../../data/pageviews/events_2009.pageviews > events_2009.popularity
+
+Looking at the data, I thought it is probably unfair to events to apply the same period as topics.
+So I made another script with the name get_pop_scores2.py.
+    ./get_pop_scores2.py ../../data/events/events_links_2009_redirected ../../data/pageviews/events_2009.pageviews > events_2009.popularity.2
+
+Then determine the ratios:
+    cat topics_2009.popularity | awk '$4!=0 { print $3/$4 }' > topics.ratio
+    cat events_2009.popularity | awk '$4!=0 { print $3/$4 }' > events.ratio
+    cat events_2009.popularity.2 | awk '$4!=0 { print $3/$4 }' > events.ratio.2
+    sort -g topics.ratio > topics.ratio.sorted
+    sort -g events.ratio > events.ratio.sorted
+    sort -g events.ratio.2 > events.ratio.sorted.2
+
+Then gnuplotted the sorted ones.
+
+Then I thought, log of the ratio would be better!
+
+Bugs
+====
+* Fixed some titles have double quotes that cannot escape. Replaced them with \".
+* Fixed a Unicode problem. File access is by default using ascii, so decoded with utf-8.
+* Fixed misclassifying non-image titles: Mexico.
+* Another problem with events: events_links are not normalized: the first character should be capitalized and redirect pages should be processed appropriately.
+    Example: 2008_SLA_Northern_offensive 2009-01-02. This is included in the event links, but it is a redirect page.
