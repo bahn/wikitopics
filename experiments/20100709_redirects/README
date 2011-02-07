@@ -1,0 +1,30 @@
+There are many redirection pages in Wikipedia. In Wikistats files, each record has pagetitle as it was input by the user whether there is a typo or a redirection.
+
+To correctly get the page views for each Wikipedia article, one needs to adjust the wikistats using the redirects data. Redirects page in Wikipedia are the pages that automatically redirect users to another Wikipedia page. There could be more than one-step redirects: one redirect page links to another redirect page, which in turn links to another redirect page, and repeat so until a redirect page links to a non-redirect page.
+
+Wikimedia dumps the whole Wikipedia database periodically, and the database includes information about the title pages, and the redirect pages. The goal is to process this database in SQL formrat to produce the list of redirect pages and non-redirect pages in plain text.
+
+Scripts
+=======
+sql2txt.py
+    the main script to produce database dumps to generate redirect data.
+cut.py
+    a tentative script to cut the database dump files easy to see.
+
+Usage
+=====
+sql2txt.py [page db dump] [redirect db dump]
+
+Output files
+============
+redirects.txt
+    contains the redirect pages one in a line, followed by the target page.
+non_redirects.txt
+    contains the list of non-redirect pages one in a line.
+
+These files were put at the same place as the input files. (data/wikidump/enwiki-20100622)
+
+Notes
+=====
+Note that the Wikipedia database dumps are now available in gzipped sql format. The script are feeded with ungzipped plain text files in SQL. Later, the script was changed to deal with gzipped files on December 1st, 2010. However, it was not test on the real gzipped input files yet. It is expected that the script takes much more time to process the gzipped files than it would take to process ungzipped files.
+

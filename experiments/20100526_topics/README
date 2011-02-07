@@ -1,0 +1,23 @@
+Extracted the 100 most viewed Wikipedia articles for each day in 2009.
+
+Commands
+========
+nohup java -cp wikitrends.jar -Xmx100g wikitrends.Trends ../en_daily &
+
+Note that we assigned 100g for the virtual machine memory. If the memory assigned is too small, it crashes.
+
+Input
+=====
+The daily statistics for English was used. They are located at data/wikistats/aggregate/en_daily.
+To print the list of the most viewed pages, the data from December 2008 were processed.
+
+Output
+======
+The output is written to the standard output and was redirected to nohup.out.
+
+Algorithm
+=========
+All the non-namespace-0 pages are filtered out.
+
+The page view counts are accumulated in a map that has page titles as keys and page views as values.
+When each pagecounts file is processed, the page views in the file are added to the map appropriately, and the page views in the oldest file within the period are subtracted from the map appropriately.

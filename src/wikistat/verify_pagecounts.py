@@ -1,56 +1,40 @@
 #!/usr/bin/env python
-# verify_pagecounts.py
-#      (originally from aggregate_pagecounts.py)
-#
-# open a gzipped wikistats file,
-# store all wikiview pagecounts for all languages separately.
-# supports specifying multiple input files on the command line
-#
-# this script performs an additional check to see if every line has four fields each.
+"""
+check if the page title is correctly encoded in utf8
+and if every line has four fields each.
+
+you can specify multiple input files in the command line.
+"""
 
 import sys
 import gzip
 
-#language = 'en'
+def read_wikistats(filename):
+    file = gzip.open(filename, 'rb')
+    unicodeerror = 0
+    try:
+        for i, line in enumerate(file):
+            field = line.split()
+            try:
+                page = unicode(field[1], 'utf8')
+            except UnicodeDecodeError, error:
+                unicodeerror += 1
+                if unicodeerror <= 1:
+                    print 'UnicodeDecodeError:', error
+                    print '%s:%d: %s' % (filename, i+1, line.strip())
+            if len(field) != 4:
+                print 'Error: ' + filename + " has a line with less than four fields"
+                print '%s:%d: %s' % (filename, i+1, line.strip())
+    except IOError, error:
+        print 'IOError:', error
+        print 'file:', filename
+    if unicodeerror > 1:
+        print 'UnicodeDecodeError: ' + filename + ' has ' + str(unicodeerror - 1) + ' more UnicodeDecodeErrors'
 
-if len(sys.argv) == 1:
-    print "try %s filename" % sys.argv[0]
-    exit(0)
-
-lang_counts = {}
-counts = {}
-prev_lang = '';
+if len(sys.argv) < 2:
+    print "Usage: %s pagecounts_0 [pagecounts_1 ...]" % sys.argv[0]
+    exit(-1)
 
 files = sys.argv[1:]
 for filename in files:
-    f = gzip.open(filename)
-    content = f.read()
-    lines = content.splitlines()
-    for line in lines:
-	fields = line.split()
-	l = fields[0]
-	if l != prev_lang:
-	    if l in lang_counts:
-		counts = lang_counts[l]
-	    else:
-		counts = {}
-		lang_counts[l] = counts
-	    prev_lang = l
-
-	if len(fields) != 4:
-	    print filename
-	    print line
-	    print fields
-
-	k = fields[1]
-	v = int(fields[2])
-	if k in counts:
-	    counts[k] += v
-	else:
-	    counts[k] = v
-    f.close()
-
-for lang in sorted(lang_counts.keys()):
-    counts = lang_counts[lang]
-    for k in sorted(counts.keys()):
-	print '%s %s %s' % (lang, k, counts[k])
+    read_wikistats(filename)
