@@ -10,24 +10,40 @@
 import wikipydia
 import sys
 import simplejson
+import time
+import datetime
+import os
+from exceptions import ValueError
 
-num_days = [31,28,31,30,31,30,31,31,30,31,30,31]
-year = 2009
-leap_year = False
+if len(sys.argv) != 3:
+    print "Usage: %s start_date end_date" % sys.argv[0]
+    sys.exit(-1)
 
-if year % 4 == 0:
-    if year % 100 == 0:
-        if year % 400 == 0:
-            leap_year = True
-    else:
-        leap_year = True
-if leap_year:
-    num_days[1] = 29
+def convert_date(date):
+    formats = ["%Y%m%d", "%Y-%m-%d", "%m/%d/%Y"]
+    for i, format in enumerate(formats):
+        try:
+            date = datetime.date(*time.strptime(date, format)[0:3])
+            return date
+        except:
+            pass
+    raise ValueError("time data '%s' does not match any of the time formats" % date)
 
-for month in range(1, 13):
-    for day in range(1, num_days[month-1]+1):
-        events = wikipydia.query_current_events(year, month, day)
-        filename = 'current_events_for_%04d%02d%02d' % (year, month, day)
-        print filename
+start_date = convert_date(sys.argv[1])
+end_date = convert_date(sys.argv[2])
+
+try:
+    os.makedirs('output')
+except:
+    pass
+
+date = start_date
+while True:
+    events = wikipydia.query_current_events(date)
+    if events:
+        filename = 'current_events_for_' + date.strftime("%Y%m%d")
         with open ('output/' + filename, 'w') as file:
             file.write(simplejson.dumps(events) + '\n')
+    if date == end_date:
+        break
+    date += datetime.timedelta(days=1)
