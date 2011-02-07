@@ -18,6 +18,7 @@ Steps
 
 2. Process redirect pages for hourly data. This step also filters out non-English articles.
     at data/wikistats:
+        (/mnt/data/wikitopics/data/wikistats)
         nohup ./redirectfiles.sh &
 
 3. Aggregate hourly data into daily data.

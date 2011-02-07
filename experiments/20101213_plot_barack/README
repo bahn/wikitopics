@@ -7,27 +7,27 @@ src/wikipyspark/gen_plot_events.py
 Commands
 ========
 Run the following command at src/wikipyspark.
-$ ./gen_plot_events.py 20090120 5 12/1/2008 2/9/2009 ../../data/events/events_text_2009 ../../data/events/events_links_2009 ../../data/events/events_page_views_by_date_2009
+    $ ./gen_plot_events.py 20090120 5 12/1/2008 2/9/2009 ../../data/events/events_text_2009 ../../data/events/events_links_2009 ../../data/events/events_page_views_by_date_2009
 
 Generates the gnuplot script to plot the sparkline graph.
 The files generated are as follows:
 
-African_American.dat
-Barack_Obama.dat
-List_of_African-American_firsts.dat
-List_of_Presidents_of_the_United_States.dat
-President_of_the_United_States.dat
-United_States.dat
-plot_barack_obama.gp
+    African_American.dat
+    Barack_Obama.dat
+    List_of_African-American_firsts.dat
+    List_of_Presidents_of_the_United_States.dat
+    President_of_the_United_States.dat
+    United_States.dat
+    plot_barack_obama.gp
 
 The files are now moved to data/plot.
 The plot_barack_obama.gp script was modified to output the plot to the eps file.
 
-$ gnuplot plot_barack_obama.gp
+    gnuplot plot_barack_obama.gp
 
 Generate the obama.eps file.
 
-$ epstopdf obama.eps
+    epstopdf obama.eps
 
 Convert the eps file into pdf.
 A pdf file is required to run pdflatex on the .tex including the graphics.
