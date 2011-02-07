@@ -70,3 +70,20 @@ Bugs
 * Fixed misclassifying non-image titles: Mexico.
 * Another problem with events: events_links are not normalized: the first character should be capitalized and redirect pages should be processed appropriately.
     Example: 2008_SLA_Northern_offensive 2009-01-02. This is included in the event links, but it is a redirect page.
+
+Extract pageviews
+=================
+01_topics
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/topics/topics_2009 ../../../data/wikistats/aggregate/en_daily &
+
+02_events
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/events/events_links_2009 ../../../data/wikistats/aggregate/en_daily &
+
+03_topics
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/topics/topics_2009 ../../../data/wikistats/aggregate/en_redir_daily &
+
+04_events
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/events/events_links_2009 ../../../data/wikistats/aggregate/en_redir_daily &
+
+05_events
+    nohup java -cp ../wikitopics.jar -Xmx100g Convert ../../../data/events/events_links_2009_redirected ../../../data/wikistats/aggregate/en_redir_daily &
