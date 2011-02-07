@@ -1,0 +1,44 @@
+Overview
+========
+
+Taking as input the list of the Wikipedia current events, print the page views of each link.
+
+Command
+=======
+nohup java -cp wikitrends.jar -Xmx100g wikitrends.Convert /home/bahn/for_ccb/events_2009 ../en_daily &
+
+Input
+=====
+events_2009
+    currently /data/events/events_links_2009.
+    The list of the links in the Wikipedia current events.
+    The format is as follows:
+
+    date event_serial_no link
+
+    Each line contains the date of the event, the index of the event, and a link from the event, separated by a space.
+    The examples are below:
+
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+20090101 1 Israel
+20090101 1 Jabalia
+20090101 1 Gaza_Strip
+20090101 1 Hamas
+20090101 1 Nizar_Rayan
+20090101 1 2008%E2%80%932009_Israel%E2%80%93Gaza_conflict
+...
+
+../en_daily
+    the directory in which the daily page view statistics reside.
+    These statistics are not processed according to redirect pages.
+
+Output
+======
+The output is written in the standard output.
+Each line contains a link (Wikipedia page title) followed by a colon, and the page views for each day of which the pagecounts statistics are available in the given directory, separated by a space.
+The example is as follows.
+
+UEFA_Cup_2008%E2%80%9309: 899 960 3012 5032 2931 916 863 706 1184 2115 2282 1101 829 919 795 1130 2999 5956 6893 1719 938 958 748 564 439 475 529 485 488 464 458 300 483 573 429 460 451 448 383 353 361 473 481 440 431 557 372 462 536 503 537 501 494 441 529 530 484 414 514 644 549 502 437 629 548 554 620 427 433 647 574 537 421 489 476 532 729 920 1132 2724 3103 1818 855 849 959 1147 1420 8991 6395 1748 1177 1070 816 711 727 736 608 733 773 1244 2056 4019 2547 1119 1079 969 986 1884 5084 6375 1451 889 818 636 512 463 366 374 423 399 367 358 318 307 408 444 515 852 1024 2348 1715 769 668 775 952 1444 4934 3366 894 823 749 674 619 586 515 476 670 679 683 783 1620 1079 642 678 715 908 1456 3285 2494 1045 915 1171 881 726 872 602 672 797 1029 1200 3904 3238 1003 874 843 873 817 1254 1099 492 512 538 487 361 342 282 247 263 240 251 226 257 277 260 227 253 229 234 268 240 227 224 252 507 290 226 237 248 206 220 364 343 384 502 340 287 418 287 367 341 550 410 256 260 347 408 502 707 629 401 310 355 404 618 650 437 301 331 211 242 253 279 127 85 61 70 87 124 142 183 67 77 77 55 65 58 55 51 61 67 93 100 111 64 73 69 61 78 85 261 272 114 74 62 89 62 93 58 40 38 39 67 29 40 29 33 37 40 75 89 80 69 30 43 36 41 39 30 25 28 34 25 58 52 69 48 40 48 41 33 34 31 20 27 27 18 19 28 13 28 38 40 43 66 56 47 38 37 37 27 35 47 26 33 22 27 65 53 71 85 54 31 32 24 27 37 19 16 21 17 12 16 19 11 20 10 16 30 62 37 30 26 19 15 41 42 29 52 23 20 18 30 54 40 28 36 40 32 20 29 50 74 37 25 30 35 36 31 26 35 34 42 20 33 31

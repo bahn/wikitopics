@@ -1,0 +1,57 @@
+Overview
+========
+Taking as input the list of the Wikipedia current events, print the page views of each link.
+Most of the description are copied from the README file of the 20100705_pageviews experiments.
+
+Note that the following points are different from the previous experiments.
+1. Two different output formats are tested. The details are explained at the output section.
+2. The daily statistics used are the ones preprocessed with the redirect pages data.
+
+Command
+=======
+nohup time java -cp wikitrends.jar -Xmx100g wikitrends.Convert /home/bahn/for_ccb/events_link_2009 ../en_redir_daily &
+
+Input
+=====
+events_link_2009
+    currently /data/events/events_links_2009.
+    The list of the links in the Wikipedia current events.
+    The format is as follows:
+
+    date event_serial_no link
+
+    Each line contains the date of the event, the index of the event, and a link from the event, separated by a space.
+    The examples are below:
+
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+20090101 1 Israel
+20090101 1 Jabalia
+20090101 1 Gaza_Strip
+20090101 1 Hamas
+20090101 1 Nizar_Rayan
+20090101 1 2008%E2%80%932009_Israel%E2%80%93Gaza_conflict
+...
+
+../en_redir_daily
+    the directory in which the daily page view statistics reside.
+    Note that statistics are processed according to redirect pages.
+
+Output
+======
+Two different output formats were tested. Basically, both the two formats are JSON-compatible, and contain the date-pageviews pairs. Only the difference between the two are in the date format used.
+The output is written in the standard output. The example is as follows.
+
+1.
+["14th_Dalai_Lama", [["20081201", 2112], ..., ["20091231", 1811]]]
+
+2.
+["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+
+Scripts
+=======
+cut
+
+For each line in the output is too long, it cuts each line at the column 80 to show it more handily.
