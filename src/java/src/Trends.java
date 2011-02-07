@@ -10,8 +10,6 @@
 // Wednesday, May 26, 2010 -- Clean anchors and check if the page title is valid
 // May 25th -- Ignore the pages that has less than 1000 views.
 
-package wikitrends;
-
 import java.io.*;
 import java.util.*;
 import java.util.zip.*;

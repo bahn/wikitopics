@@ -46,9 +46,6 @@
 //
 // Jun 30, 2010 -- made this file.
 
-
-package wikitrends;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -100,7 +97,8 @@ public class Convert {
 			    "Talk", "User", "User_talk", "Project", "Project_talk", "File",
     		    "File_talk", "MediaWiki", "MediaWiki_talk", "Template",
     		    "Template_talk", "Help", "Help_talk", "Category",
-    		    "Category_talk", "Portal", "Wikipedia", "Wikipedia_talk"};
+    		    "Category_talk", "Portal", "Wikipedia", "Wikipedia_talk",
+                    "P", "N"};
 		
 		for (String title : namespace_titles) {
 			if (pagetitle.startsWith(title + ":")) {
@@ -109,10 +107,6 @@ public class Convert {
 		}
 		
 		if (pagetitle.length() == 0) {
-			return false;
-		}
-		char first_letter = pagetitle.charAt(0);
-		if (first_letter >= 'a' && first_letter <= 'z') {
 			return false;
 		}
 		
@@ -228,6 +222,7 @@ public class Convert {
 					// skip the link
 					continue;
 				}
+                link.replaceAll("\"", "\\\"");
 				System.out.print("[\"" + link + "\", [");
 				boolean firstPrint = true;
 				for (String date : dates) {
