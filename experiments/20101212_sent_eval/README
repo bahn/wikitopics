@@ -28,12 +28,12 @@ Note that Ben did not select any sentence for the
 data/manual/2009-02-10/Jessica_Simpson.sentences file.
 
 There are some files that the corresponding APF files do not exist.
-# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
-# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
-# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
-# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
-# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
-# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
+		# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
+		# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
 
 There are some APF files that Python's XML module cannot parse. These are probably caused by the files' being terminated in an immature fashion.
 
@@ -52,50 +52,51 @@ These scripts generate test data according to the schemes.
 The generated data are located in the data/clustering/sent directory.
 
 First:
-src/serif/batch_pick_first.sh ../../data/sent/manual/2009-01-27 ../../data/sent/auto-first/2009-01-27
+		src/serif/batch_pick_first.sh ../../data/sent/manual/2009-01-27 ../../data/sent/auto-first/2009-01-27
 
 Recent:
 I ran the command line below to generate the test data for the first date.
-cd src/serif; ./batch_pick_recent_dates.sh ../../data/serif/2009-01-27 2009-01-27 ../../data/sent/auto-recent/2009-01-27
+		cd src/serif; ./batch_pick_recent_dates.sh ../../data/serif/2009-01-27 2009-01-27 ../../data/sent/auto-recent/2009-01-27
 
 The following command line is for the remaining four dates.
 The error & warning messages occurred. I have to find for which file the error occurred.
-cd src/serif; for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent/$DATE; done
+		cd src/serif; for DATE in 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent/$DATE; done
 
-These are the list of what there were not.
-# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
-# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
-# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
-# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
-# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
-# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
+These are the list of the files that did not exist.
+		# ../../data/serif/2009-02-10/E_Street_Band.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-02-10/Heroes_(TV_series).sentences.sgm.apf does not exist
+		# ../../data/serif/2009-02-10/Lily_Allen.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-04-19/Deadpool.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-05-12/Deadpool.sentences.sgm.apf does not exist
+		# ../../data/serif/2009-05-12/Scrubs_(TV_series).sentences.sgm.apf does not exist
 
 This file was not parsable with Python's xml.dom.minidom.parse module:
-data/serif/2009-04-19/Fast_&_Furious.sentences.sgm.apf
+		data/serif/2009-04-19/Fast_&_Furious.sentences.sgm.apf
 
 For the data in data/sent/auto-recent, coreference resolution did not work. So I fixed the script and rerun again.
-cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent2/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent2/$DATE; done
+		cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-recent2/$DATE; ./batch_pick_recent_dates.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-recent2/$DATE; done
 
-The following results are the difference between coreference resolution and one without it.
-$ cd data/sent/auto-recent; for DIR in *; do diff $DIR ../auto-recent2/$DIR; done | less
+The following script are the difference between coreference resolution and one without it.
+		(data/sent/auto-recent)
+		for DIR in *; do diff $DIR ../auto-recent2/$DIR; done | less
 
 I changed coreference resolution and the data are in data/sent/auto-recent3.
 
 Found that the following files are missing in data/sent/auto-recent and copied them from auto-recent3.
-Only in ../auto-recent3/2009-01-27: Bill_Clinton.sentences
-Only in ../auto-recent3/2009-01-27: Franklin_D._Roosevelt.sentences
-Only in ../auto-recent3/2009-01-27: Theodore_Roosevelt.sentences
+		Only in ../auto-recent3/2009-01-27: Bill_Clinton.sentences
+		Only in ../auto-recent3/2009-01-27: Franklin_D._Roosevelt.sentences
+		Only in ../auto-recent3/2009-01-27: Theodore_Roosevelt.sentences
 
 Later, deleted auto-recent2 and renamed auto-recent3 to auto-recent2.
-$ rm -rf auto-recent2
-$ git mv auto-recent3 auto-recent2
+		$ rm -rf auto-recent2
+		$ git mv auto-recent3 auto-recent2
 
 Self:
 The script was to select the sentence with both the most recent date and a self reference.
-cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self/$DATE; done
+		cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self/$DATE; done
 
 But it did not perform well, so I changed the script so that if there is no such sentence, it backs off to RECENT.
-cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self2/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self2/$DATE; done
+		cd src/serif; for DATE in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; do mkdir -p ../../data/sent/auto-self2/$DATE; ./batch_pick_self.sh ../../data/serif/$DATE $DATE ../../data/sent/auto-self2/$DATE; done
 
 Preprocess
 ----------

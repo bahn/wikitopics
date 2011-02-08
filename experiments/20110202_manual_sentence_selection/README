@@ -46,6 +46,18 @@ Commands
         
 Results
 -------
+Tables:
+    ./batch_eval.sh | ./tabularize.pl 
+        bahn	ben	0.500	0.545	0.522	0.846	0.750	0.795
+        auto-first	ben	0.140	0.212	0.169	0.340	0.386	0.362
+        auto-first	bahn	0.140	0.194	0.163	0.320	0.410	0.360
+        auto-recent	ben	0.327	0.485	0.390	0.551	0.614	0.581
+        auto-recent	bahn	0.286	0.389	0.329	0.469	0.590	0.523
+        auto-self	ben	0.293	0.364	0.324	0.488	0.455	0.471
+        auto-self	bahn	0.317	0.361	0.338	0.488	0.513	0.500
+        auto-self2	ben	0.327	0.485	0.390	0.531	0.591	0.559
+        auto-self2	bahn	0.327	0.444	0.376	0.510	0.641	0.568
+
 ./eval_sents.py ../../data/sent_eval/bahn ../../data/sent_eval/ben
     bahn evaluated against ben
     
