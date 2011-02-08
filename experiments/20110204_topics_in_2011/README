@@ -5,9 +5,17 @@ Directories: a05:/mnt/data/wikipedia_page_views
 Deliverables
 ============
 
-data/events/
+data/events
+    json2011
+        
+data/wikistats
+    en_redir
+        data for 2011
+    en_redir2
+        data for 2010
     
-
+* further trying to process data for 2010...
+    
 Steps
 =====
 1. Downloaded the wikistats for January, 2011 and Febraury, 2011.
@@ -22,10 +30,21 @@ Steps
         nohup ./redirectfiles.sh &
 
 3. Aggregate hourly data into daily data.
+    done!
 
 4. Find trending topics and current events.
     cd src/wiki; ./retrieve_year_events.py 2011-01-01 2011-02-05
-    mv output json
+    mv output json2011
+    mv json2011 ../../data/events
+    cd ../events
+    ./extract_links.py ../../data/events/json2011 > ../../data/events/events_links_2011
+    
+    cd experiments/20110204_topics_in_2011
+    mkdir 01_topics; cd 01_topics
+    nohup java -cp ../../../src/java/wikitopics.jar -Xmx100g Trends ../../../data/wikistats/en_redir/daily &
+    sed -n 31,99999p nohup.out > ../../../data/topics/topics_raw_2011
+    cd ../../../src/topics
+    ./convert_topics.pl ../../data/topics/topics_raw_2011 > ../../data/topics/topics_2011
 
 5. Generate pageviews for the topics and events..
 
