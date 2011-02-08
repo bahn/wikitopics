@@ -23,7 +23,12 @@ src/topics
     
 src/pageviews
     get_pop_scores.py
-        ./get_pop_scores.py article_list pageviews 
+        ./get_pop_scores.py article_list pageviews
+            trends = d[-15:] - d[-30:-15]
+        ./get_pop_scores2.py article_list pageviews
+            trends = d[1:16] - d[-15:]
+        ./get_pop_scores3.py article_list pageviews
+            trends = d[:15] - d[-16:1]
 
 Steps
 =====
@@ -50,14 +55,13 @@ Determine the difference of sum of pageviews of two consecutive fifteen-day wind
 Looking at the data, I thought it is probably unfair to events to apply the same period as topics.
 So I made another script with the name get_pop_scores2.py.
     ./get_pop_scores2.py ../../data/events/events_links_2009_redirected ../../data/pageviews/events_2009.pageviews > events_2009.popularity.2
+    ./get_pop_scores3.py ../../data/events/events_links_2009_redirected ../../data/pageviews/events_2009.pageviews > events_2009.popularity.3
 
 Then determine the ratios:
-    cat topics_2009.popularity | awk '$4!=0 { print $3/$4 }' > topics.ratio
-    cat events_2009.popularity | awk '$4!=0 { print $3/$4 }' > events.ratio
-    cat events_2009.popularity.2 | awk '$4!=0 { print $3/$4 }' > events.ratio.2
-    sort -g topics.ratio > topics.ratio.sorted
-    sort -g events.ratio > events.ratio.sorted
-    sort -g events.ratio.2 > events.ratio.sorted.2
+    cat topics_2009.popularity | awk '$4!=0 { print log($5/$4), $1 }' | sort -g | awk '{ print $2, NR/35620, $1 }' > topics.ratio
+    cat events_2009.popularity | awk '$4!=0 { print log($5/$4), $1 }' | sort -g | awk '{ print $2, NR/16467, $1 }' > events.ratio
+    cat events_2009.popularity.2 | awk '$4!=0 { print log($5/$4), $1 }' | sort -g | awk '{ print $2, NR/16960, $1 }' > events.ratio.2
+    cat events_2009.popularity.3 | awk '$4!=0 { print log($5/$4), $1 }' | sort -g | awk '{ print $2, NR/16714, $1 }' > events.ratio.3
 
 Then gnuplotted the sorted ones.
 

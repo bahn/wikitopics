@@ -15,6 +15,7 @@ data/wikistats
         data for 2010
     
 * further trying to process data for 2010...
+Argh! Redirect pages are old for 2010 and 2011 data...
     
 Steps
 =====
@@ -47,6 +48,21 @@ Steps
     ./convert_topics.pl ../../data/topics/topics_raw_2011 > ../../data/topics/topics_2011
 
 5. Generate pageviews for the topics and events..
+    cd src/events
+    ./redirectevents.py ../../data/wikidump/enwiki-20100622/non_redirects.txt ../../data/wikidump/enwiki-20100622/redirects.txt ../../data/events/events_links_2011 > events_links_2011_redirected
+    Errors found:
+        invalid title:   0/3185   0.00%
+        missing title: 306/3185   9.61%
+    There are two many missing titles! T_T
+
+    cd ../../experiments/20110204_topics_in_2011
+    cd 02_topicspv
+    nohup java -cp ../../../src/java/wikitopics.jar -Xmx100g Convert ../../../data/topics/topics_2011 ../../../data/wikistats/en_redir/daily &
+    sed -n 35,99999p nohup.out > ../../../data/pageviews/topics_2011.pageviews
+
+    cd ../03_eventspv
+    nohup java -cp ../../../src/java/wikitopics.jar -Xmx100g Convert ../../../data/events/events_links_2011_redirected ../../../data/wikistats/en_redir/daily &
+    sed -n 35,99999p nohup.out > ../../../data/pageviews/events_2011.pageviews
 
 6. Draw sparkline graphs using wikipyspark.
 

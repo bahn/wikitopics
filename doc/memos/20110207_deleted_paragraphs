@@ -1,0 +1,30 @@
+%%% Many other possible experiments in introduction.
+%a whole host of other features like inter-page links, edit histories mentions in contemporaneous news stories
+%, and dependency parsers to identify subjects of sentences.
+%category information from Wikipedia and potentially external information like newspaper articles published before the date.
+
+%% argument why hand-curated events are bad
+More often than not, they do not generate much traffic, and refer to articles that are too general like ``United States'' or ``Israel''.  
+
+%%% For clustering.
+On any given day, there are many articles whose popularity is spiking: while some of the articles are related to each other, many of them are a coincidence.
+
+%%% have event description mentions all the related articles!
+
+%%% technical detail about Wikipedia page view statistics.
+%\paragraph{Dataset}
+% The Wikipedia Traffic Statistics dataset is originally made available\footnote{http://dammit.lt/wikistats} by a Wikipedian Domas Mituzas. This data is only kept up to a several months that the space allows. For the previous statistics, two sets of the statistics are published at Amazon Public Datasets\footnote{http://aws.amazon.com/datasets/2596 http://aws.amazon.com/datasets/4182}. This dataset consists of the files that each has hourly page view statistics for every article in every language. Each line of the files contains the language or the project name, the title, the hourly page views, and the numbers of bytes of the text of an Wikipedia article. We limited the work only to the English Wikipedia.
+
+%\paragraph{Preprocess}
+%These statistics are collected from the Wikipedia cache server as requested by users, and it includes many wrongful or malicious requests. Also, many requested pages are redirect pages that automatically refer the requester into another page. The redirect pages are usually the ones that are different names of an entity. To address these difficulties, we downloaded the English Wikipedia dump on June 22nd, 2010 from Wikimedia dump\footnote{http://download.wikipedia.org} and from the database dump extracted the list of the titles of all articles and the redirect articles. Using these data, we filtered out the request for non-existing articles and merged the page views for the redirect pages into the main articles. Also the title of the Wikipedia articles has to be normalized according to a specific format, that is, the first letter of each title are capitalized and a space in it has to be replaced with an underscore, and so on.
+
+%%% clustering
+%\paragraph{Dataset} For each day of the five selected dates in 2009, we downloaded the text of the 100 automatically selected articles from Wikipedia. The downloaded texts are the latest texts as of the date on which the article is selected. We use the Wikipydia module, which is a python module to make use of the Wikipedia API. As preprocessing, we stripped out all HTML tags from the article text, and replaced the Wikipedia-specific tags as the corresponding text using the mwlib\footnote{http://code.pediapress.com/wiki/wiki/mwlib} library, and finally split sentences using NLTK \cite{Loper02NLTK}.
+
+%%% Advantages of Wikipedia over Twitter
+%Wikipedia has some relative advantage over Twitter as a source of topics, in that (1) it has a full description about the topic, (2) it has inter-article links that imply the relations between articles, and (3) the page view statistics are open to the public.
+
+%\cite{ldc04} describes the definition of topics and events used in the TDT dataset. 
+
+%%% Related work
+are probably the most famous efforts that applies techniques in topic detection and tracking along with various techniques of natural language processing into a big pipeline. Google News "group news articles into clusters of articles about related events and categorize each event into predetermined top-level categories, finally selecting a single representative article for each cluster." (copied from Lydia paper. Need paraphrasing.) Newsblaster "goes further in providing computer-generated summaries of the day's news from the articles in a given cluster." (copied from Lydia paper. Need paraphrasing.) NewsInEssence from University of Michigan follows the same line of news summarization but allows users to provide an example news and keywords to make a customized cluster of news articles. Lydia project analyzes entities such as people, places, and things that appear in news articles as well as news sources to find relationships between entities and between entities and news sources.
