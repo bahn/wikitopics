@@ -7,8 +7,6 @@
 
 # Longer entries suitable for thesis
 
-@String{IA-2005 = {Proceedings of First International Conference on Intelligence Analysis}}
-
 @String{ACL-1989 = "27th Annual Meeting of the Association for Computational Linguistics (ACL-1989)"}
 @String{ACL-1993 = "33rd Annual Meeting of the Association for Computational Linguistics (ACL-1995)"}
 @String{ACL-1997 = "35th Annual Meeting of the Association for Computational Linguistics (ACL-1997)"}
@@ -58,14 +56,16 @@
 
 @String{EAMT-2005 = "Proceedings of the 10th Annual Conference of the European Association for Machine Translation (EAMT-2005)"}
 
-
+@String{IA-2005 = {Proceedings of First International Conference on Intelligence Analysis}}
 @String{IWSLT = "Proceedings of the International Workshop on Spoken Language Technology"}
 @String{IWPT = "Proceedings of the International Workshop on Parsing Technologies"}
 @String{WMT = "Proceedings of the Workshop on Statistical Machine Translation"}
 @String{KDD = "Proceeding of the ACM SIGKDD international conference on Knowledge discovery and data mining"}
 @String{CoNLL-2009 = "Thirteenth Conference On Computational Natural Language Learning (CoNLL-2009)"}
-
-
+@String{ICWSM = "Proceedings of the International Conference on Weblogs and Social Media"}
+@String{ICWSM-2010 = "Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media"}
+@String{WWW-06 = "Proceedings of the 15th international conference on World Wide Web"}
+@String{WSDM-2009 = "Proceedings of the Second ACM International Conference on Web Search and Data Mining"}
 
 @String{ACL-1989-address = "Vancouver, British Columbia, Canada"}
 @String{ACL-1995-address = "Cambridge, Massachusetts"}
@@ -154,6 +154,7 @@
 @String{EMNLP-2007 = "Proceedings of EMNLP-CoLing"}
 @String{EMNLP-2008 = "Proceedings of EMNLP"}
 @String{EMNLP-2009 = "Proceedings of EMNLP"}
+@String{EMNLP-2010 = "Proceedings of EMNLP"}
 
 
 @String{HLT-2002 = "Proceedings of HLT"}
@@ -174,8 +175,24 @@
 @String{AMTA-2004 = "Proceedings of AMTA"}
 @String{AMTA-2006 = "Proceedings of AMTA"}
 @String{AMTA-2008 = "Proceedings of AMTA"}
+@String{AMTA-2010 = "Proceedings of AMTA"}
 
+@String{AAAI-2006 = "Proceedings of AAAI"}
+@String{AAAI-2007 = "Proceedings of AAAI"}
+@String{AAAI-2008 = "Proceedings of AAAI"}
+
+@String{AAAI-WS-08 = "Proceedings of AAAI Workshops"}
+@String{AAAI-WS-10 = "Proceedings of AAAI Workshops"}
+
+
+@String{IA-2005 = {Proceedings of IA}}
 @String{IWSLT = "Proceedings of IWSLT"}
+@String{IJHCS = "International Journal of Human-Computer Studies"}
+@String{IJCAI-2007 = "International Joint Conference on Artificial Intelligence"}
+@String{ICWSM-2008 = "Proceedings of ICWSM"}
+@String{ICWSM-2010 = "Proceedings of ICWSM"}
+@String{SIGIR-2000 = "Proceedings of SIGIR"}
+@String{WSDM-2009 = "Proceedings of WSDM"}
 
 @String{ACL-1989-address = ""}
 @String{ACL-1995-address = ""}
@@ -220,10 +237,6 @@
 @String{KDD-2008-address = ""}
 @String{EACL-2009-address =  ""}
 
-
-
-
-
 ######################################################
 ######################################################
 ######################################################
@@ -245,7 +258,7 @@
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{petrovic10,
+@inproceedings{Petrovic:10,
   author    = {Sa\v{s}a Petrovi\'{c} and
              Miles Osborne and Victor Lavrenko},
   title     = {Streaming First Story Dectection with application to {Twitter}},
@@ -259,7 +272,7 @@
   organization = {Linguistic Data Consortium},
 }
 
-@inproceedings{dgillick09sbd,
+@inproceedings{Gillick:09,
   title = {Sentence Boundary Detection and the Problem with the {U.S.}},
   author = {Dan Gillick},
   booktitle = HLT-NAACL-2009,
@@ -289,22 +302,12 @@
 } 
 @comment{pages = {63--70},}
 
-@inproceedings{Ramage09,
- author = {Ramage, Daniel and Heymann, Paul and Manning, Christopher D. and Garcia-Molina, Hector},
+@inproceedings{Ramage:09,
+ author = {Ramage, Daniel and Heymann, Paul and Manning, Christopher D. and
+           Garcia-Molina, Hector},
  title = {Clustering the tagged web},
- booktitle = {Proceedings of the Second ACM International Conference on Web Search and Data Mining},
- series = {WSDM '09},
- year = {2009},
- isbn = {978-1-60558-390-7},
- location = {Barcelona, Spain},
- pages = {54--63},
- numpages = {10},
- url = {http://doi.acm.org/10.1145/1498759.1498809},
- doi = {http://doi.acm.org/10.1145/1498759.1498809},
- acmid = {1498809},
- publisher = {ACM},
- address = {New York, NY, USA},
-} 
+ booktitle = WSDM-2009,
+ year = {2009}}
 
 @inproceedings{McKeown02,
   author = {Kathleen R. McKeown and Regina Barzilay and David Evans and Vasileios Hatzivassiloglou and Judith L. Klavans and Ani Nenkova and Carl Sable and Barry Schiffman and Sergey Sigelman},
@@ -313,12 +316,17 @@
   booktitle = HLT-2002,
 }
 
-@inproceedings{Woodsend10,
+@inproceedings{Woodsend:10:ACL,
   author    = {Kristian Woodsend and Mirella Lapata},
   title     = {Automatic Generation of Story Highlights},
   booktitle = ACL-2010,
-  year      = {2010},
-}
+  year      = {2010}}
+
+@inproceedings{Woodsend:10:EMNLP,
+    author = {Kristian Woodsend and Yansong Feng and Mirella Lapata},
+    title = {Title Generation with Quasi-Synchronous Grammar},
+    booktitle = EMNLP-2010,
+    year = {2010}}
 
 @book{manning08ir,
        Author = {C. Manning and P. Raghavan and H. Sch\"{u}tze},
@@ -327,13 +335,227 @@
        Year = {2008}}
 
 @article{blei03lda,
-       Author = {D.M. Blei and A.Y. Ng and and M.I. Jordan},
+       Author = {D.M. Blei and A.Y. Ng and M.I. Jordan},
        Journal = {Journal of Machine Learning Research},
        Title = {Latent {Dirichlet} allocation},
        Year = {2003}}
 
-@inproceedings{Allan00,
-        author = {James Allan and Victor Lavrenko and Daniella Malin and and Russell Swan},
+@inproceedings{Allan:00,
+        author = {James Allan and Victor Lavrenko and Daniella Malin and
+                  Russell Swan},
         title = {Detections, bounds, and timelines: {UMass} and {TDT-3}},
         booktitle = {Proceedings of Topic Detection and Tracking Workshop},
         year = {2000}}
+
+@inbook{Allan:2002:ITDT,
+ author = {Allan, James},
+ title = {Introduction to topic detection and tracking},
+ book = {Topic detection and tracking},
+ year = {2002},
+ isbn = {0-7923-7664-1},
+ pages = {1--16},
+ numpages = {16},
+ url = {http://portal.acm.org/citation.cfm?id=772260.772262},
+ acmid = {772262},
+ publisher = {Kluwer Academic Publishers},
+ address = {Norwell, MA, USA},
+} 
+
+@inproceedings{Allan:98,
+    author = {James Allan and Jaime Carbonell and George Doddington and Jonathan Yamron and Yiming Yang},
+    title = {{Topic Detection and Tracking Pilot Study Final Report}},
+    booktitle = {Proceedings of the DARPA Broadcast News Transcription and Understanding Workshop},
+    keywords = {text-mining, topic-detection-and-tracking},
+    year = {1998}
+}
+
+@book{Allan:02:TDT,
+ editor = {Allan, James},
+ title = {Topic detection and tracking: event-based information organization},
+ year = {2002},
+ isbn = {0-7923-7664-1},
+ publisher = {Kluwer Academic Publishers},
+ address = {Norwell, MA, USA},
+} 
+
+@inproceedings{Cucerzan:07,
+    author = {Silviu Cucerzan},
+    title = {Large-Scale Named Entity Disambiguation Based on Wikipedia Data},
+    booktitle = EMNLP-2007,
+    year = {2007}}
+    
+@inproceedings{Bunescu:06,
+    author = {Razvan Bunescu and Marius Pa\c{s}ca},
+    title = {Using Encyclopedic Knowledge for Named Entity Disambiguation},
+    year = {2006},
+    booktitle = EACL-2006}
+    
+@inproceedings{Hatzivassiloglou:00,
+    author = {Vasileios Hatzivassiloglou and Luis Gravano and Ankineedu Maganti},
+    title = {An Investigation of Linguistic Features and Clustering Algorithms 
+             for Topical Document Clustering},
+    booktitle = SIGIR-2000,
+    year = {2000}}
+
+@inproceedings{Strube:06,
+    author = {Michael Strube and Simone Paolo Ponzetto},
+    title = {{WikiRelate}! Computing Semantic Relatedness Using Wikipedia},
+    booktitle = AAAI-2006,
+    year = {2006}}
+    
+@article{Medelyan:09,
+    author = {Olena Medelyan and David Milne and Catherine Legg and Ian H. Witten},
+    title = {Mining meaning from {Wikipedia}},
+    booktitle = IJHCS,
+    year = {2009}}
+    
+@inproceedings{Volkel:06,
+ author = {V\"{o}lkel, Max and Kr\"{o}tzsch, Markus and Vrandecic, Denny and 
+           Haller, Heiko and Studer, Rudi},
+ title = {Semantic Wikipedia},
+ booktitle = WWW-06,
+ series = {WWW '06},
+ year = {2006},
+ location = {Edinburgh, Scotland},
+ pages = {585--594},
+ numpages = {10},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {RDF, Semantic Web, Wiki, Wikipedia},
+} 
+
+@inproceedings{Gabrilovich:07,
+    author = {Evgeniy Gabrilovich and Shaul Markovitch},
+    title = {Computing Semantic Relatedness using Wikipedia-based Explicit Semantic Analysis},
+    booktitle = IJCAI-2007,
+    year = {2007}}
+    
+@inproceedings{Irvine:10,
+    author = {Ann Irvine and Chris Callison-Burch and Alexandre Klementiev},
+    title = {Transliterating From All Languages},
+    booktitle = AMTA-2010,
+    year = {2010}}
+
+@article{Ponzetto:07,
+    author = {Simone Paolo Ponzetto and Michael Strube},
+    title = {Knowledge Derived From {Wikipedia} For Computing Semantic Relatedness},
+    journal = {Journal of Artificial Intelligence Research},
+    volume = {30},
+    number = {2007},
+    pages = {181-212},
+    year = {2007}}
+
+@inproceedings{Nguyen:07,
+    author = {Dat P.T. Nguyen and Yutaka Matsuo and Mitsuru Ishizuka},
+    title = {Relation Extraction from {Wikipedia} Using Subtree Mining},
+    booktitle = AAAI-2007,
+    year = {2007}}
+
+@inproceedings{Syed:08,
+    author = {Zareen Saba Syed and Tim Finin and Anupam Joshi},
+    title = {{Wikipedia} as an Ontology for Describing Documents},
+    booktitle = ICWSM-2008,
+    year = {2008}}
+    
+@inproceedings{Syed:10,
+    author = {Zareen Syed and Tim Finin},
+    title = {Approaches for Automatically Enriching Wikipedia},
+    booktitle = AAAI-WS-10,
+    year = {2010}}
+
+@inproceedings{Nastase:08,
+    author = {Vivi Nastase and Michael Strube},
+    title = {Decoding {Wikipedia} Categories for Knowledge Acquisition},
+    booktitle = AAAI-2008,
+    year = {2008}}
+
+@inproceedings{Blohm:08,
+    author = {Sebastian Blohm and Markus Kr\"{o}tzsch and Philipp Cimiano},
+    title = {The Fast and the Numerous ¡© Combining Machine and Community Intelligence for Semantic Annotation},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Druck:08,
+    title = {Learning to Predict the Quality of Contributions to Wikipedia},
+    author = {Gregory Druck and Gerome Miklau and Andrew McCallum},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Medelyan:08:Cyc,
+    title = {Integrating {Cyc} and Wikipedia: Folksonomy Meets Rigorously Defined Common-Sense},
+    author = {Olena Medelyan and Catherine Legg},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Medelyan:08:TI,
+    title = {Topic Indexing with Wikipedia},
+    author = {Olena Medelyan and Ian H. Witten and David Milne},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Milne:08,
+    title = {An Effective, Low-Cost Measure of Semantic Relatedness Obtained from {Wikipedia} Links},
+    author = {David Milne and Ian H. Witten},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Nelken:08,
+    title = {Mining {Wikipedia}¡¯s Article Revision History for Training Computational Linguistics Algorithms},
+    author = {Rani Nelken and Elif Yamangil},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Pedro:08,
+    author = {Vasco Calais Pedro and Radu Stefan Niculescu and Lucian Vlad Lita},
+    title = {Okinet: Automatic Extraction of a Medical Ontology From {Wikipedia}},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Smets:08,
+    author = {Koen Smets and Bart Goethals and Brigitte Verdonk},
+    title = {Automatic Vandalism Detection in Wikipedia: Towards a Machine Learning Approach},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Sorg:08,
+    author = {Philipp Sorg and Philipp Cimiano},
+    title = {Enriching the Crosslingual Link Structure of Wikipedia - A Classification-Based Approach -},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Wu:08,
+    author = {Fei Wu and Raphael Hoffmann and Daniel S. Weld},
+    title = {Augmenting Wikipedia-Extraction with Results from the Web},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Gabay:08,
+    title = {Using Wikipedia Links to Construct Word Segmentation Corpora},
+    author = {David Gabay and Ziv Ben-Eliahu and Michael Elhadad},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Yasuda:08,
+    title = {Method for Building Sentence-Aligned Corpus from Wikipedia},
+    author = {Keiji Yasuda and Eiichiro Sumita},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Converse:08,
+    title = {Powerset¡¯s Natural Language Wikipedia Search Engine},
+    author = {Tim Converse and Ronald M. Kaplan and Barney Pell and Scott Prevost and Lorenzo Thione and Chad Walters},
+    booktitle = AAAI-WS-08,
+    year = {2008}}
+    
+@inproceedings{Noda:10,
+    author = {Yohei Noda and Yoji Kiyota and Kiroshi Nakagawa},
+    title = {Discovering Serendipitous Information from {Wikipedia} by using its network structure},
+    booktitle = ICWSM-2010,
+    year = {2010}}
+
+@inproceedings{Kriegel:10,
+    author = {Hans-Peter Kriegel and Arthur Zimek},
+    title = {Subspace Clustering, Ensemble Clustering, Alternative Clustering, 
+             Multiview Clustering: What Can We Learn From Each Other?},
+    booktitle = {Proceedings of MultiClustKDD},
+    year = {2010}}

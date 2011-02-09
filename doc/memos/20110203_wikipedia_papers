@@ -1,16 +1,9 @@
-Semantic relatedness problem:
-Previous usage of Wikipedia articles was using it as data for specific problems: computing semantic relatedness(gabrilovich 2007): concepts based on Wikipedia
-
-Using Wikipedia as knowledge base or to extract a KB from:
-ponzetto 2007 uses it as knowledge base and compares it to wordnet. mentions Wikipedia improves coref resolution
+topic detection and tracking, and clustering
 
 Build ontologies with Wikipedia:
 Syed 2008 uses Wikipedia as a topic ontology for describing documents. It might be related to my clustering. Makes use of articles, cateogry and link graphs.
 Syed 2010 introduces Wikitology. augments it with RDF data from DBpedia. 
 
-Data mining using Wikipedia
-Ann 2010 extracted titles using inter-language to find out different expression of named entities
-Gabay, Ben-Eliahu and Elhadad use Wikipedia links to construct word segmentation corpora.
 Nguyen 2007 uses Wikipedia for entity allocation and identicication, uses alternatives of NER and coref tool, classifies relationships using SVM. But exactly what did they make use of?
 Blohm 2008 discusses their version of Semantic MediaWiki to automatically extract additional annotation and make it verified by the users.
 
@@ -18,83 +11,11 @@ To detect vandalism:
 Smets et al. 2008 used ML to detect vandalism attempts (compare it to Druck 2008). They say elementary features that current approaches are using are not sufficient and need to make use of the semantics of a revision. 
 Druck 2008 discusses how to adopt discriminative probabilistic models to predict the quality of recent edits.
 
-Not yet classified:
-Medelyan 2008 tried to align Wikipedia articles to the concepts of their ontology system Cyc.
-Another Madelyan 2008 uses Wikipedia as controlled vocabulary for identifying the main topics in documents. It seems to make use of the hyperlink structure of Wikipedia.
-Milne 2008 again explores semantic relatedness and claims to be unique as it uses the hyperlink structure rather than category hierarchy or textual content.
-Nelken and Yamangil 2008 uses revision history to correct lexical errors (eggcorns), training sentence compression, text summariation system.
+
 Pedro et al 2008 from CMU introduces Okinet, Wikipedia-based medical ontologies. They mined Wikipedia to automatically create medical ontologies.
 Sorg and Cimiano tried to automatically induce cross-language links applying classification.
 Wu, Hoffmann, and Weld 2008 augments low represented articles with sentences from Web pages. They try to create or complete infoboxes, building upon Kylin.
+
+Nelken and Yamangil 2008 uses revision history to correct lexical errors (eggcorns), training sentence compression, text summarization system.
 Yasuda and Sumida uses Wikipedia articles to build sentence-aligned corpora.
 Nastase and Strube decodes Wikipedia cateogries to extract semantic relations and evaluated the results against ResearchCyc.
-
-Evgeniy Gabrilovich and Shaul Markovitch
-Computing Semantic Relatedness using Wikipedia-based Explicit Semantic Analysis
-IJCAI/2007
-
-Ann Irvine
-
-Simone Paolo Ponzetto and Michael Strube
-Knowledge Derived From Wikipedia For Computing Semantic Relatedness
-Journal of Artificial Intelligence Research 30 (2007) 181-212
-
-AAAI/2007
-Relation Extraction from Wikipedia Using Subtree Mining
-Dat P.T. Nguyen and Yutaka Matsuo and Mitsuru Ishizuka
-
-Approaches for Automatically Enriching Wikipedia
-Zareen Syed and Tim Finin
-WS/AAAIW10/paper/
-
-ICWSM/2008
-Wikipedia as an Ontology for Describing Documents
-Zareen Saba Syed, Tim Finin and Anupam Joshi
-
-AAAI/2008
-Decoding Wikipedia Categories for Knowledge Acquisition
-Vivi Nastase and Michael Strube
-
-AAAI Workshop 2008
-==================
-http://www.aaai.org/Library/Workshops/ws08-15.php
-Wikipedia and Artificial Intelligence: An Evolving Synergy
-
-The Fast and the Numerous – Combining Machine and Community Intelligence for Semantic Annotation
-Sebastian Blohm and Markus Kr\"{o}̈tzsch and Philipp Cimiano
-
-Learning to Predict the Quality of Contributions to Wikipedia
-Gregory Druck and Gerome Miklau and Andrew McCallum
-
-Integrating Cyc and Wikipedia: Folksonomy Meets Rigorously Defined Common-Sense
-Olena Medelyan and Catherine Legg
-
-Topic Indexing with Wikipedia
-Olena Medelyan and Ian H. Witten and David Milne
-
-An Effective, Low-Cost Measure of Semantic Relatedness Obtained from Wikipedia Links
-David Milne	and Ian H. Witten
-
-Mining Wikipedia’s Article Revision History for Training Computational Linguistics Algorithms
-Rani Nelken and Elif Yamangil
-
-Okinet: Automatic Extraction of a Medical Ontology From Wikipedia
-Vasco Calais Pedro and Radu Stefan Niculescu and Lucian Vlad Lita
-
-Automatic Vandalism Detection in Wikipedia: Towards a Machine Learning Approach
-Koen Smets and Bart Goethals and Brigitte Verdonk
-
-Enriching the Crosslingual Link Structure of Wikipedia - A Classification-Based Approach -
-Philipp Sorg and Philipp Cimiano
-
-Augmenting Wikipedia-Extraction with Results from the Web
-Fei Wu and Raphael Hoffmann and Daniel S. Weld
-
-Using Wikipedia Links to Construct Word Segmentation Corpora
-David Gabay and Ziv Ben-Eliahu and Michael Elhadad
-
-Method for Building Sentence-Aligned Corpus from Wikipedia
-Keiji Yasuda†,‡ and Eiichiro Sumita†,‡
-
-Powerset’s Natural Language Wikipedia Search Engine
-Tim Converse, Ronald M. Kaplan, Barney Pell, Scott Prevost, Lorenzo Thione, Chad Walters
