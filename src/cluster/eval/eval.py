@@ -99,7 +99,7 @@ for i, e in enumerate(keys):
     nomulprec = 0
     nomulrec = 0
     for i2, e2 in enumerate(keys):
-        if i == i2:
+        if e == e2:
             continue
         labelintersection = len(label[e] & label[e2])
         clusterintersection = len(cluster[e] & cluster[e2])
@@ -120,8 +120,11 @@ if noprecision > 0:
     precision /= float(noprecision)
 if norecall > 0:
     recall /= float(norecall)
+#print nomulprec, nomulrec, noprecision, norecall
 
-fscore = 2*precision*recall / (precision + recall)
+fscore = 0.0
+if precision + recall > 0.0:
+    fscore = 2*precision*recall / (precision + recall)
 print "Multiplicity BCubed precision: %.4f" % (precision)
 print "Multiplicity BCubed recall:    %.4f" % (recall)
 print "Multiplicity BCubed F-score:   %.4f" % (fscore)

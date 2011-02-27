@@ -19,7 +19,7 @@ public class ClusterFiles {
 	 "The number of clusters into which articles are grouped.", null);
 
     static CommandOption.String weighting = new CommandOption.String
-	(ClusterFiles.class, "weighting", "[tf|idf|tfidf]", false, "tf",
+	(ClusterFiles.class, "weighting", "[tf|idf|tfidf]", false, "idf",
 	 "The term weighting function: tf, idf, or tfidf.", null);
     
     static CommandOption.String metricOption = new CommandOption.String
@@ -131,6 +131,12 @@ public class ClusterFiles {
 		Object[] tokens = alphabet.toArray();
 		System.out.println("# Number of dimensions: " + tokens.length);
 		
+                if (instances.size() == 0) {
+                    System.out.println();
+                    System.out.println("# No instances are found. Quitting...");
+                    return;
+                }
+
 		// determine document frequency for each term
 		int[] df = new int[tokens.length];
 		for (Instance instance : instances) {
@@ -189,7 +195,6 @@ public class ClusterFiles {
 		}
 		
 		KMeans kmeans = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP);
-		
 		Clustering clustering = kmeans.cluster(instances);
 		InstanceList[] clusters = clustering.getClusters();
 		
