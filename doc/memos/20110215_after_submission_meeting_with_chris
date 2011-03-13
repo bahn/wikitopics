@@ -1,0 +1,60 @@
+Next agenda: improve experiments so that we could re-submit the paper if it gets rejected.
+    Important dates:
+        AAAI 2011:
+            April 15, 2011: Notification of acceptance or rejection
+            May 3, 2011: Camera-ready copy due at AAAI office
+        
+        EMNLP 2011:
+            * Paper submission deadline: March 23, 2011
+            * Author response period: May 7-10, 2011
+            * Acceptance notification: May 25, 2011
+            * Camera-ready copy due: June 20, 2011
+            * Papers available on-line: July 23, 2011
+            * Conference meeting: July 27-31, 2011
+    Things to do until next week:
+        Additional Experiments on WikiTopics:
+            * Clustering with news articlces.
+            * Sentence selection using edit history (manually)
+
+Talked about these things:
+    Additional experiments on WikiTopics:
+        Website setup for WP current events: can wait
+        
+        Article selection:
+            - use 2010/2011 data
+            - make it scalable: mapreduce, randomized algorithms, etc.
+            - variation of selection algorithms: which are interesting? Use MTurk to find out. need to define evaulation metrics or criteria
+            - automatize it. set up a website.
+            - make lists of popular pages across languages available for wikitrans
+            - use WP categories: might be good for TT selection
+        Clustering:
+            - with news articles: definitely a thing to do. use news articles within a window of varying days. Get the news articles from Alex.
+            - ensemble clustering
+            - similarity thresholds?
+            - figure out how to exploit MTurk data for clustering or design a better survey for annotation
+            - categorize - what happened in science/politics/etc.
+        Sentence Selection
+            - edit history: definitely! This is unique to WP that need exploiting.
+            - determine p and r using temporal expressions within a window of varying days
+            - different summarization: using centroid articles
+            - Twitter data: a separate topic.
+            - exploit MTurk to get more annotations
+    More about WikiTopics:
+        Multilingual trending topics across all languages
+            - translation/transliteration component
+            - make MT better
+        Use of WP categories and inter-language links
+        CHI paper: demo data
+            - drawing a UI: look at other CHI papers
+            - user interface: centroid articles and secondary articels (e.g. Justin Bieber's performance in Grammy Awards.)
+            - use of WP categories?
+    About my thesis.
+        One possible topic: how to exploit WP (Chris will be excited about it.) Potential contents are:
+            - how WP articles are different from other types of source: changes over time, etc.
+            - different uses of WP: topic detection and tracking, machine translation
+            - making of something like end of year Google video
+            - MT using inter-language links
+            - Given a news article, pick WP pages about it.
+        The thesis should have 3 or 4 content chapter and transliteration cannot be a chapter (probably.)
+    Things I'll do next:
+        - improve the current paper doing additional experiments
