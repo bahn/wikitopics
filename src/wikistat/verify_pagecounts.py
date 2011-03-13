@@ -11,30 +11,32 @@ import gzip
 
 def read_wikistats(filename):
     file = gzip.open(filename, 'rb')
-    unicodeerror = 0
+    #unicodeerror = 0
     try:
         for i, line in enumerate(file):
             field = line.split()
             try:
                 page = unicode(field[1], 'utf8')
             except UnicodeDecodeError, error:
-                unicodeerror += 1
-                if unicodeerror <= 1:
+                #unicodeerror += 1
+                #if unicodeerror <= 1:
                     print 'UnicodeDecodeError:', error
                     print '%s:%d: %s' % (filename, i+1, line.strip())
+                    sys.exit(1)
             if len(field) != 4:
                 print 'Error: ' + filename + " has a line with less than four fields"
                 print '%s:%d: %s' % (filename, i+1, line.strip())
+                sys.exit(1)
     except IOError, error:
         print 'IOError:', error
         print 'file:', filename
-    if unicodeerror > 1:
-        print 'UnicodeDecodeError: ' + filename + ' has ' + str(unicodeerror - 1) + ' more UnicodeDecodeErrors'
+        sys.exit(1)
+    #if unicodeerror > 1:
+        #print 'UnicodeDecodeError: ' + filename + ' has ' + str(unicodeerror - 1) + ' more UnicodeDecodeErrors'
+        #sys.exit(1)
 
-if len(sys.argv) < 2:
-    print "Usage: %s pagecounts_0 [pagecounts_1 ...]" % sys.argv[0]
-    exit(-1)
+if len(sys.argv) != 2:
+    print "Usage: %s pagecounts_file" % sys.argv[0]
+    exit(1)
 
-files = sys.argv[1:]
-for filename in files:
-    read_wikistats(filename)
+read_wikistats(sys.argv[1])

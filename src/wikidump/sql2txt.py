@@ -51,7 +51,7 @@ def read_tuples(line):
 
 if len(sys.argv) < 3:
     print "usage: sql2txt [page_file] [redirect_file]"
-    sys.exit(0)
+    sys.exit(1)
 
 page_filename = sys.argv[1]
 if page_filename.endswith('.gz'):
