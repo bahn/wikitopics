@@ -2,5 +2,63 @@ Clustering with news articles
 
 Overview:
     Run K-means on a set of news articles along with Wikipedia pages to see if it helps improve the clustering quality.
+    
+Note:
+    * The number of news articles on each day is significantly different, so I used different number of K to run K-means for each day.
 
+Rationale:
+    The news articles will help clustering by bridging articles over the same event but has a little bit different set of vocabulary.
 
+Deliverables:
+    src/news/
+        splitnews.py
+            split a text file containing many news stories into separate files each containing one news story.
+
+@ Only at a05:
+    data/news/2009/
+        original news articles
+    
+    data/news/2009-01-27 ... 2009-10-12
+        split news articlces
+        
+    data/mix/2009-01-27 ... 2009-10-12
+        split news articles along with WP articles
+
+Did:
+    Split news articles
+        ./splitnews.py 2009-1-27.txt ../2009-01-27/
+    
+    The number of news articles along with WP articles:
+        2009-01-27: 1028
+        2009-02-10: 1141
+        2009-04-19: 295
+        2009-05-12: 1051
+        2009-10-12: 1293
+    
+    Run K-means
+        cd src/cluster/kmeans/ClusterFiles
+        ./run --input /mnt/data/wikitopics/data/mix/2009-01-27 --k 514 > kmeans_0127
+        ./run --input /mnt/data/wikitopics/data/mix/2009-02-10 --k 570 > kmeans_0210
+        ./run --input /mnt/data/wikitopics/data/mix/2009-04-19 --k 147 > kmeans_0419
+        ./run --input /mnt/data/wikitopics/data/mix/2009-05-12 --k 525 > kmeans_0512
+        ./run --input /mnt/data/wikitopics/data/mix/2009-10-12 --k 646 > kmeans_1012
+        
+        Note that it took a little more time to run K-means: K is significantly larger than 50 (the value of K used before.) Maybe time to do dimensionality reduction.
+        
+        Made a batch script:
+            nohup run_news_articles.sh &
+
+        Filter out news articles:
+            cd kmeans-news-1; mkdir raw; mv kmeans* raw
+            cd raw; for file in *; do grep -v 2009- $file > ../$file; done; cd ..
+        
+        Evaluate the results:
+            cd ../../../src/cluster/eval
+
+    Run K-means with a much smaller value of K.
+
+Anomaly:
+    Ricardo_Montalbán:
+        The original title is "Ricardo_Montalb\xc3\xa1n\n", but the results of K-means include "Ricardo_Montalba\xcc\x81n\n" instead. I think it is the problem of Mac OS X's file system that is using decomposition unicode.
+    B^3 score:
+        When every data point is in its own cluster, the B^3 precision and recall is not well defined. Perhaps I don't understand B^3 properly?

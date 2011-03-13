@@ -1,0 +1,71 @@
+A try to process as recent data as possible. :)
+
+Downloaded enwiki data as of 20110115:
+    http://dumps.wikimedia.org/enwiki/20110115/
+
+Last dump before it is 2011-10-11's dump.
+
+Downloaded:
+    List of page titles: all-titles-in-ns0.gz
+    Redirect list: redirect.sql.gz
+    page links: pagelinks.sql.gz
+    protected titles: protected_titles.sql.gz
+    base per-page data: page.sql.gz
+
+for file in archive/2011/01/*; do base=`basename $file`; gunzip -c $file | awk '$1 == "en" && $3 >= 10' | gzip -c - > 2011/1_en_over10/$base.gz
+
+1. Downloading the most recent Wikipedia page view statistics.
+
+    writing a script at:
+        /mnt/data/wikitopics/data/wikistats/downloading/get_daily_stats.sh
+        
+
+categories:
+
+Paul_Cézanne
+    Categories: 1839 births | 1906 deaths | Aix-Marseille University alumni | Deaths from pneumonia | French painters | French people of Italian descent | French Roman Catholics | Infectious disease deaths in France | People from Aix-en-Provence | Post-impressionist painters | Still life painters
+    
+Bane_(comics)
+    Categories: DC Comics supervillains | Comics characters introduced in 1993 | DC Comics characters with accelerated healing | DC Comics characters with superhuman strength | DC Comics martial artists | Fictional assassins | Fictional bounty hunters | Fictional henchmen | Fictional linguists | Fictional mercenaries | Fictional drug dealers | Film characters
+    
+Steven_Tyler
+    Categories: 1948 births | 1960s singers | 1970s singers | 1980s singers | 1990s singers | 2000s singers | 2010s singers | Aerosmith members | American musicians of Italian descent | American musicians of German descent | American musicians of Polish descent | American musicians of Russian descent | American musicians of English descent | American male singers | American rock singers | American tenors | Berklee College of Music alumni | English-language singers | Idol series judges | Living people | Musicians from New York | People from Yonkers, New York | People self-identifying as substance abusers
+    
+Skins_(TV_series)
+    Categories: 2007 British television programme debuts | 2000s British television series | 2010s British television series | Bisexuality-related television series | British drama television series | Channel 4 television programmes | Teen dramas | Television shows set in Bristol | Television programmes shot in Bristol | Youth culture in the United Kingdom | British LGBT-related television programmes
+    
+Egypt
+    Categories: Egypt | African countries | African Union member states | Arab League member states | Arab republics | Arabic-speaking countries | Bicontinental countries | Countries bordering the Red Sea | Countries of the Mediterranean Sea | Developing 8 Countries member states | G15 nations | Member states of La Francophonie | Member states of the Union for the Mediterranean | Middle Eastern countries | North Africa | Organisation of the Islamic Conference members | States and territories established in 1922 | Western Asia
+    
+Hosni_Mubarak
+    Categories: 1928 births | Living people | Attempted assassination survivors | Egyptian Air Force air marshals | Egyptian Military Academy alumni | Egyptian Muslims | Egyptian people of the Yom Kippur War | Egyptian presidential candidates, 2005 | Knights Grand Cross of the Order of St Michael and St George | National Democratic Party (Egypt) politicians | People from Monufia Governorate | People of the 2011 Egyptian Revolution | Presidents of Egypt | Survivors of stabbing | Vice Presidents of Egypt
+    
+Sulfonamide_(medicine)
+    Categories: Sulfonamide antibiotics | Sulfonamides
+    
+2011_Egyptian_protests
+    Categories: 2010–2011 Arab world protests | 2011 in Egypt | 2011 riots | 21st-century revolutions | Egyptian Revolution of 2011 | Labor disputes in Egypt | Politics of Egypt | Protests in Egypt | Riots in Egypt | Nonviolent revolutions
+    
+Royal_Rumble_(2011)
+    Categories: 2011 in professional wrestling | Royal Rumble | Sports in Boston, Massachusetts | 21st century in Boston, Massachusetts
+    
+Jack_LaLanne
+    Categories: 1914 births | 2011 deaths | American bodybuilders | American chiropractors | American exercise and fitness writers | American exercise instructors | American health and wellness writers | American nutritionists | American people of French descent | American television personalities | People from San Francisco, California | People in alternative medicine | Writers from California
+    
+Toilet_paper_orientation
+    Categories: Toilet paper | Orientation | Symmetry | Interpersonal conflict | Social psychology
+    
+Super_Bowl_XLV
+    Categories: 2010 National Football League season | 2011 in American football | Green Bay Packers championship games | Pittsburgh Steelers postseason | Super Bowl | Sports in Arlington, Texas | 2011 in American sports | 2011 in American television
+    
+The_King's_Speech
+    Categories: 2010 films | British films | English-language films | Edward VIII abdication crisis | 2010s drama films | Biographical films | British drama films | British monarchs in popular culture | Best Picture Academy Award winners | Films whose director won the Best Director Academy Award | Films whose writer won the Best Original Screenplay Academy Award | Films featuring a Best Actor Academy Award winning performance | Buddy films | Cultural depictions of Winston Churchill | Epic films | Films set in London | Films set in Scotland | Films set in 1925 | Films set in 1934 | Films set in 1936 | Films set in 1937 | Films set in 1939 | Films shot in London | Speech impediments | The Weinstein Company films
+    
+George_VI_of_the_United_Kingdom
+    Categories: Edward VIII abdication crisis | 1895 births | 1952 deaths | Monarchs of the United Kingdom | Monarchs of Australia | Heads of state of Canada | Heads of state of India | Heads of state of New Zealand | Heads of state of Pakistan | Monarchs of South Africa | Monarchs of Ceylon | Heads of the Commonwealth | House of Windsor | Dukes of York | Princes of the United Kingdom | Royal Navy admirals of the fleet | British Field Marshals | Marshals of the Royal Air Force | Royal Air Force personnel of World War I | Royal Navy officers of World War I | World War II political leaders | People of the Victorian era | People of the Edwardian era | Knights of the Garter | Knights of the Thistle | Knights of St Patrick | Knights Grand Cross of the Order of St Michael and St George | Knights Grand Cross of the Royal Victorian Order | Recipients of the Royal Victorian Chain | Recipients of the Order of St. Vladimir | Grand Croix of the Légion d'honneur | Recipients of the Order of the White Eagle (Serbia) | Grand Crosses of the Order of Leopold (Belgium) | Recipients of the Order of Carol I | Grand Crosses of the Order of the Redeemer | Recipients of the Order of the Seraphim | Recipients of the Order of the Chrysanthemum | Knights of Christ | Recipients of the Order of Aviz | Recipients of the Order of Saint James of the Sword | Chief Commanders of the Legion of Merit | Knights Grand Cross of the Military William Order | Grand Commanders of the Order of the Dannebrog | Knights of the Order of the Royal House of Chakri | Knights of the Military Order of Savoy | Recipients of the Neshan-e Aqdas | Order of the Star of Ethiopia | Recipients of the Order of Muhammad 'Ali | Recipients of the Order of the Supreme Sun | Recipients of the Order of the Two Rivers | Grand Crosses of the Order of the Phoenix (Greece) | Members of the Order of Rajanya | Grand Crosses of the Order of Saint-Charles | Recipients of the Order of St Cyril and St Methodius | Collars of the Order of Saints George and Constantine | Recipients of the Order of the Star of Karageorge | Recipients of the Order of the Hashimites | Recipients of the Order of Hussein ibn 'Ali | Recipients of the Order of Pahlavi | Companions of the Liberation | Royal Fellows of the Royal Society | Alumni of Trinity College, Cambridge | People from King's Lynn and West Norfolk (district) | Lords High Commissioner to the General Assembly of the Church of Scotland | Cancer deaths in England | Cardiovascular disease deaths in England | Deaths from lung cancer | Deaths from thrombosis
+    
+There is a hiearchical structure laid upon categories.
+http://en.wikipedia.org/wiki/Category:People
+http://en.wikipedia.org/wiki/Category:Countries
+http://en.wikipedia.org/wiki/Category:Sports_events
+http://en.wikipedia.org/wiki/Category:Competitions

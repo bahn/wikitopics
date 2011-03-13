@@ -1,2 +1,39 @@
 Select sentences with edit history.
 
+
+Filter sentences and leave only sentences recently added or changed. Compare the revision with the one fifteen days earlier.
+    2009-01-27 and 2009-01-12.
+
+Deliverables:
+    data/sent/edit
+        The sentences that are recently added or edited within fifteen days
+    data/list
+        *.manual.articles
+            the list of articles that are manually annotated.
+    
+    src/wiki
+        2009-*
+            articles recently fetched
+        
+Revisions:
+    Fetch February 10's articles.
+        ./fetch_articles.py ../../data/list/2009-02-10.manual.articles 2009-02-10
+        
+    Fetch February 10's articles as of fifteen days back.
+        ./fetch_articles.py ../../data/list/2009-02-10.manual.articles 2009-01-26
+    
+    Save the sentences that are recently added or changed.
+        mkdir new; for file in 2009-02-10/*; do b=`basename $file`; diff $file 2009-01-26/$b | grep '^< ' | sed -e 's/^< //' > new/$b; done
+
+    Rename the directories.
+        mv 2009-01-26 2009-02-10-15days-back; mv new 2009-02-10-new
+        
+    Put all the directories at data/sent/diff/source.
+    
+    Tarball the files into:
+        /home/bahn/wikitopics.sent.diff.source.tar.gz
+    Sent it to Ben to run Serif on the data (2/24).
+        
+    Pick first sentences:
+        (src/
+        for date in 2009-01-27 2009-02-10 2009-04-19 2009-05-12 2009-10-12; 

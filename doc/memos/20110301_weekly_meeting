@@ -1,0 +1,38 @@
+OBJECTS
+* check the temporal gap in topics of newswire and WP articles.
+* check which features contribute to find newsworthy articles.
+* use mechanical turk to figure out 
+    * what topics are interesting
+    * and get more annotation (more development and evaluation (test) data set.
+        * mapping WP articles <-> news articles. <-: Chris ->: Ben
+            ->: Given the WP articles, which are the corresponding news articles? Or vice versa.
+    * extract the first few sentences from each WP article, and 
+* Draw better UIs for WikiTopics.
+    * Chris's idea about it is more textual like McKeown's Newsblaster. I should draw a variety of possible UIs. We should write a CHI paper and we might consider hiring a company to develop a website for us (which is what Panos is doing.)
+
+TO DOS
+* Read Techo papers and send a question to Courtney
+
+* Generate new 1000 popular articles for a new day in 2011, and annotate features, and see why they are popular: 
+    * what are features?(binary) features: categories, # of edits, # increase in recent years, # edits in recent histories
+    * Reprocess Wikistats
+    * See which redirect table I can use.
+    * Process data available.
+    * Make a list of popular pages with features.
+    * Use Korean language too.
+?????* use links of WP articles as feature...
+
+* Reprocess MTurk reponses about pair-wise relatedness of WP articles.
+    
+* SRILM
+    * Learn how to build a LM and measure perplexity/entropy and KL-divergence.
+    * measure the gap of the LMs between the newswire events and WT articles.
+        * try my idea that the first day on which each topic appear must be important.
+
+* stripping out news-specific words like BBC and so on.
+    * find out words with high document frequency and feed them as stop words.
+    * might not be worthwhile because we already use idf.
+
+* sentence aligner
+
+* WikiTrans

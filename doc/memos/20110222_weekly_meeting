@@ -1,0 +1,13 @@
+Things to do:
+    * Improve the current one: plot precision and recall with different values of K and different sizes of window.
+    * Measure the day gaps between news and WP articles: learn how to build a LM and determine cross-entropy (KL-divergence) of two LMs using SRILM. Ask Damianos and Courtney about SRILM.
+    * Draw a UI on paper for a website toward a CHI paper. Include Korean/English articles in the website toward a ACL paper about multilingual topic detection and tracking.
+    * Get more annotated data using MTurk for use of development data. They will be used to set parameters like K. Redefine and find a better way to utilize the previous answers from Turkers.
+    * Explore alternatives to TT algorithms using external source like newswire and Twitter. Evaluate using MTurk.
+    * Send Ben to the directory under which the articles to run Serif on are located and run Bob Moore's sentence aligner
+    * Potential second qualifying projects:
+        with Ben: Sasa-style Twitter analysis
+        with probably Sanjeev: predict and classify regularly occurring (weekly, monthly, yearly) events applying time series analysis on the temporal data like historical pageviews.
+        with Chris: improve TT using pageviews, historical pageviews, newswire, prior probability according to categories (people/jobs/countries), and so on.
+        with Yarowsky or Teresa: sentiment analysis.
+        
