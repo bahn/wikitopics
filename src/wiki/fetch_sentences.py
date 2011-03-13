@@ -16,12 +16,13 @@
 # in the manage.py file under the specified directory.
 # The manage module in turn sets all necessary environment variables.
 
-import manage
+#import manage
 import sys
 import datetime
 import wikipydia
 import wpTextExtractor
-from wt_articles.splitting import determine_splitter
+#from wt_articles.splitting import determine_splitter
+from splitting import determine_splitter
 import codecs
 import re
 import os
@@ -49,12 +50,17 @@ def write_lines_to_file(output_filename, lines):
     return lines
 
 def fetch_articles_on_date(topics, date, lang, dir):
+    try:
+        os.makedirs(dir)
+    except OSError:
+        pass
     for article in topics:
+        title = article
         while True:
-            revid = wikipydia.query_revid_by_date(article, lang, date)
+            revid = wikipydia.query_revid_by_date(title, lang, date)
             wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
             if wikimarkup.lower().startswith('#redirect [['):
-                article = wikimarkup[12:-2]
+                title = wikimarkup[12:-2].replace(' ','_')
             else:
                 break
         sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
@@ -72,9 +78,6 @@ if __name__=='__main__':
     m = re.match(r'(\d{4})-(\d{2})-(\d{2})', sys.argv[2])
     date = datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
     lang = 'en'
-    try:
-        os.makedirs(sys.argv[3])
-    except OSError:
-        pass
-    fetch_articles_on_date(topics, date, lang, sys.argv[3])
+    dir = sys.argv[3]
+    fetch_articles_on_date(topics, date, lang, dir)
 

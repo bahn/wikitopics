@@ -9,13 +9,14 @@
 import fetch_sentences
 import datetime
 import sys
+import re
 
-lang = 'en'
+#lang = 'en'
 #fetch_sentences.fetch_articles_on_date(['Lawrence_Kutner'], datetime.date(2010,12,11), lang, '2010-12-11')
 #fetch_sentences.fetch_articles_on_date(['2004_Indian_Ocean_earthquake'], datetime.date(2010,12,11), lang, '2010-12-11')
-fetch_sentences.fetch_articles_on_date(['Lawrence_Kutner'], datetime.date(2010,6,22), lang, '2010-06-22')
-fetch_sentences.fetch_articles_on_date(['2004_Indian_Ocean_earthquake'], datetime.date(2010,6,22), lang, '2010-06-22')
-sys.exit(0)
+#fetch_sentences.fetch_articles_on_date(['Lawrence_Kutner'], datetime.date(2010,6,22), lang, '2010-06-22')
+#fetch_sentences.fetch_articles_on_date(['2004_Indian_Ocean_earthquake'], datetime.date(2010,6,22), lang, '2010-06-22')
+#sys.exit(0)
 
 if len(sys.argv) < 2:
 	print "Usage: fetch_article article_title [YYYY-MM-DD]"
