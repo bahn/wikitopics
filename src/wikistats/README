@@ -1,0 +1,22 @@
+Scripts
+=======
+
+To sum the pagecounts:
+    add_stats.py
+	aggregate pagecounts.
+
+    verify_stats.py
+	verify pagecounts file
+
+To process redirection:
+    redirect_stats.py
+    Process redirect pages and/or filter out non-existing pages.
+    
+To generate the top viewed lists:
+    list_top_pages.py
+
+foo: filter
+bar: filter, then redirect
+qux: filter+redirect all at once
+quxx: redirect
+quxxx: redirect, then filter

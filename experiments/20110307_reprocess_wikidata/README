@@ -69,3 +69,15 @@ http://en.wikipedia.org/wiki/Category:People
 http://en.wikipedia.org/wiki/Category:Countries
 http://en.wikipedia.org/wiki/Category:Sports_events
 http://en.wikipedia.org/wiki/Category:Competitions
+Genereate TT topics with different parametrization.
+
+nohup java -cp ../../../src/java/wikitopics.jar -Xmx100g Trends ../../../data/wikistats/2011/2_daily
+
+01:
+    15 days.
+02:
+    1 day.
+03:
+    5 days.
+04:
+    not run yet.
