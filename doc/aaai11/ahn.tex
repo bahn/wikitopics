@@ -272,7 +272,7 @@ In our initial scheme, we picked the first sentence of each article because the 
 
 We also picked the sentence with the most recent date to the day on which the article was selected.  Dates in the near future are considered in the same way as the recent dates. Dates may vary in their formats, so we put precedence over the formats so that more specific date i.e. ``February 20, 2009'' is selected over vaguer dates such as ``February 2009'' or ``2009''.  We call this scheme \textbf{Recent}.
 
-As the third scheme, we picked the sentence with the most recent date among those with a reference to the article's topic.  The reasoning behind this is if the sentence refers to the topic of the article, it is more likely to be relevant to the current event. We call this sceme \textbf{Self}.
+As the third scheme, we picked the sentence with the most recent date among those with a reference to the article's topic.  The reasoning behind this is if the sentence refers to the topic of the article, it is more likely to be relevant to the current event. We call this scheme \textbf{Self}.
 
 %%% pronoun replacement
 After selecting a sentence for each cluster, we substitute personal pronouns in the sentence with their proper names.  This step enhances readability of the sentence, which often refers to people by a pronoun such as ``he'', ``his'', ``she'', or ``her'.  The examples of substituted proper names appear in Figure~\ref{fig:sentence-selection} in bold face. The Serif system classifies which entity mention are proper names, but choosing the best reference for a person is not a trivial task: proper names may vary from \textit{John} to \textit{John Kennedy} to \textit{John Fitzgerald ``Jack'' Kennedy}.  We choose the most frequent proper name.
