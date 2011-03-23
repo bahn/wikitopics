@@ -10,6 +10,8 @@ import sys
 import re
 import urllib
 import unicodedata
+import time
+import datetime
 
 from htmlentitydefs import name2codepoint
 name2codepoint['#39'] = 39
@@ -18,6 +20,17 @@ def unescape(s):
     "unescape HTML code refs; c.f. http://wiki.python.org/moin/EscapingHtml"
     return re.sub('&(%s);' % '|'.join(name2codepoint),
                   lambda m: unichr(name2codepoint[m.group(1)]), s)
+
+def convert_date(date):
+    "Convert date into date.datetime"
+    formats = ["%Y%m%d", "%Y-%m-%d", "%m/%d/%Y"]
+    for i, format in enumerate(formats):
+        try:
+            date = datetime.date(*time.strptime(date, format)[0:3])
+            return date
+        except:
+            pass
+    raise ValueError("time data '%s' does not match any of the time formats" % date)
 
 # Extract titles
 wikistats_regex = re.compile('(.*) (.*) ([0-9].*)')
@@ -74,13 +87,19 @@ def normalize_title(title):
     """
     Get a title and return its normalized form
     """
+    title = title.replace(' ', '_').strip('_')
     if not is_valid_title(title):
         return title
-    title = urllib.unquote(title).strip().replace(' ','_').strip('_')
-    title = clean_anchors(title)
+    title = urllib.unquote(title).replace(' ','_').strip('_')
     # cleaning achors should be placed after unquoting,
     # because #s (anchor) are sometimes quoted as %23.
-    title = title.decode('utf8')
+    title = clean_anchors(title)
+    if not title:
+        return title
+    try:
+        title = title.decode('utf8')
+    except UnicodeError:
+        title = title.decode('latin-1')
     title = unicodedata.normalize("NFC", title)
     title = title[0].upper() + title[1:]
     title = title.encode('utf8')
@@ -103,7 +122,7 @@ def is_title_in_ns0(title):
     """
     if not all_titles:
         return is_valid_title(title)
-    title = urllib.quote(get_nfc(title))
+    title = get_nfc(title)
     return title in all_titles
 
 non_redirects = {}
@@ -111,25 +130,26 @@ redirects = {}
 all_titles = {}
 
 def get_nfc(string):
-    return unicodedata.normalize("NFC",string.decode('utf8')).encode('utf8')
+    return urllib.quote(unicodedata.normalize("NFC",string.decode('utf8')).encode('utf8'))
 
 def read_non_redirects(filename):
     f = open(filename, 'r')
     for line in f:
-        title = urllib.quote(get_nfc(line.strip()))
+        title = get_nfc(line.strip())
         non_redirects[title] = True
 
 def read_redirects(filename):
     f = open(filename, 'r')
     for line in f:
-        fields = line.strip().split()
-        redirect_from = urllib.quote(get_nfc(fields[0]))
-        redirect_to = urllib.quote(get_nfc(fields[1]))
+        line = line.strip()
+        pos = line.find(' ')
+        redirect_from = get_nfc(line[:pos])
+        redirect_to = get_nfc(line[pos+1:])
         if redirect_from != redirect_to and redirects.get(redirect_to, '') != redirect_from:
             redirects[redirect_from] = redirect_to
 
 def read_all_titles_in_ns0(filename):
     f = open(filename, 'r')
     for line in f:
-        title = urllib.quote(get_nfc(line.strip()))
+        title = get_nfc(line.strip())
         all_titles[title] = True
