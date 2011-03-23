@@ -31,68 +31,40 @@
 # 	Airbus_A320_family
 
 import sys
+from clusters import read_clusters
 
-gold_file = "/Users/bahn/work/wikitopics/data/clustering/clusters-ccb/pick0127.clusters-ccb"
-clustering = "/Users/bahn/work/wikitopics/data/clustering/clusters-bahn/cluster0127.txt"
+if len(sys.argv) != 3:
+    print "Usage: %s GOLD TEST" % sys.argv[0]
+    print "Given:", ' '.join(sys.argv)
+    sys.exit(1)
 
-if sys.argv > 1:
-    if len(sys.argv) == 3:
-        gold_file = sys.argv[1]
-        clustering = sys.argv[2]
-    else:
-        print 'Invalid arguments:', sys.argv
-        sys.exit(1)
+gold_file = sys.argv[1]
+clustering = sys.argv[2]
 
 label = {}
 cluster = {}
 
-def read_clusters(filename, bag):
-    f = open(filename, 'r')
-    numClusters = 0
-    numInstances = 0
-    for line in f:
-        if (line.find('#') != -1): # eliminates comments
-            line = line[:line.find('#')].strip()
-        tokens = line.split(None, 1)
-        if len(tokens) == 0:
-            if numInstances:
-                numClusters += 1
-                numInstances = 0
-        else:
-            topic = tokens[0].strip()
-            if not topic in bag:
-                bag[topic] = set()
-            bag[topic].add(numClusters)
-            numInstances += 1
-    if numInstances:
-        numClusters += 1
-        numInstances = 0
-    return numClusters
-    
 print "gold standard:", gold_file
 print "clustering:", clustering
-ret = read_clusters(gold_file, label)
-print "clusters of gold standard:", ret
-ret = read_clusters(clustering, cluster)
-print "clusters of test set:", ret
-del ret
+print "clusters of gold standard:", read_clusters(gold_file, label)
+print "clusters of test set:", read_clusters(clustering, cluster)
 
-keys = label.keys()
-for key in keys:
+for key in label.keys():
     if not key in cluster:
         print key, 'is missing in cluster'
-        sys.exit(0)
+        sys.exit(1)
 
 for key in cluster.keys():
     if not key in label:
         print key, 'is missing in label'
-        sys.exit(0)
+        sys.exit(1)
 
 precision = 0.0
 recall = 0.0
 noprecision = 0
 norecall = 0
 
+keys = cluster.keys()
 for i, e in enumerate(keys):
     mulprec = 0.0
     mulrec = 0.0

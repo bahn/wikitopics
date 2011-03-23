@@ -28,12 +28,12 @@
 
 import sys
 
-if len(sys.argv) == 2:
-	clustering = sys.argv[1]
-else:
-	print 'Invalid arguments:', sys.argv
-	sys.exit(1)
+if len(sys.argv) != 2:
+    print "Usage: %s CLUSTERING" % sys.argv[0]
+    print "Given:", ' '.join(sys.argv)
+    sys.exit(1)
 
+clustering = sys.argv[1]
 cluster = {}
 
 def read_clusters(filename, bag):
@@ -60,6 +60,4 @@ def read_clusters(filename, bag):
     return numClusters
     
 print "clustering:", clustering
-ret = read_clusters(clustering, cluster)
-print "# of clusters:", ret
-del ret
+print "# of clusters:", read_clusters(clustering, cluster)
