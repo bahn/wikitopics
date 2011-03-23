@@ -1,38 +1,39 @@
 #!/usr/bin/env python
-#
-# gen_plot_events.py
-# ------------------
-# Generate a plot for an event.
-# 
-# Usage:
-# 	gen_plot_events.py bullet_date bullet_index date_from date_until dates links page_views
-# 	e.g. ./gen_plot_events.py 20090120 5 12/1/2008 2/9/2009 data/events/events_date_2009 events_links_2009 events_page_views_by_date_2009
-# 
-# Input:
-# 	bullet_date bullet_index
-# 		The date and bullet index of the event to print.
-# 		In the same format as the text and links file: e.g. 20090101 0.
-# 
-# 	date_from
-# 	date_until
-# 		the date period for which print the plots.
-# 		The format is the same as the dates in the dates file: e.g. 1/1/2009 12/31/2009.
-# 
-# 	links
-# 		the links from the Wikipedia current events. e.g. data/events/events_links_2009
-# 		Each line contains the date and the index of the event (which is reset every day),
-# 		and the title of an article linked from the event.
-# 		e.g.)
-# 20090101 0 BART_Police_shooting_of_Oscar_Grant
-# 20090101 0 California
-# 20090101 0 Bay_Area_Rapid_Transit
-# 20090101 0 Fruitvale_%28BART_station%29
-# ...
-# 
-# 	page_views
-# 		this files has the daily page views for all articles in the current events.
-# 		e.g.)
-# 		["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+"""
+gen_plot_events.py
+------------------
+Generate a plot for an event.
+
+Usage:
+	gen_plot_events.py bullet_date bullet_index date_from date_until dates links page_views
+	e.g. ./gen_plot_events.py 20090120 5 12/1/2008 2/9/2009 data/events/events_date_2009 events_links_2009 events_page_views_by_date_2009
+
+Input:
+	bullet_date bullet_index
+		The date and bullet index of the event to print.
+		In the same format as the text and links file: e.g. 20090101 0.
+
+	date_from
+	date_until
+		the date period for which print the plots.
+		The format is the same as the dates in the dates file: e.g. 1/1/2009 12/31/2009.
+
+	links
+		the links from the Wikipedia current events. e.g. data/events/events_links_2009
+		Each line contains the date and the index of the event (which is reset every day),
+		and the title of an article linked from the event.
+		e.g.)
+20090101 0 BART_Police_shooting_of_Oscar_Grant
+20090101 0 California
+20090101 0 Bay_Area_Rapid_Transit
+20090101 0 Fruitvale_%28BART_station%29
+...
+
+	page_views
+		this files has the daily page views for all articles in the current events.
+		e.g.)
+		["14th_Dalai_Lama", [["12/1/2008", 2112], ..., ["12/31/2009", 1811]]]
+"""
 	
 import sys
 import json
@@ -41,6 +42,8 @@ import os
 import datetime
 import time
 import urllib
+sys.path.append("/mnt/data/wikitopics/src")
+import wiki.utils
 
 class Bullet():
 	def __init__(self, text, date):

@@ -6,7 +6,7 @@ Read events list and process redirects.
 """
 
 import sys
-sys.path.append('..')
+sys.path.append('/mnt/data/wikitopics/src')
 import wiki.utils
 
 if len(sys.argv) != 3:
