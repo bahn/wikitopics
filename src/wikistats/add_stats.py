@@ -12,8 +12,14 @@ import os
 import sys
 import gzip
 
-sys.path.append("..")
-import wiki.utils
+LANG = ''
+if len(sys.argv) > 1 and sys.argv[1].startswith('-'):
+    if sys.argv[1] == '-l' and len(sys.argv) > 2:
+        LANG = sys.argv[2]
+        sys.argv[1:3] = []
+    else:
+        sys.stderr.write("Unknown switch: " + sys.argv[1] + "\n")
+        sys.exit(1)
 
 if len(sys.argv) == 1:
     print "Usage: %s pagecount_0 [pagecount_1 ...]" % sys.argv[0]
@@ -33,6 +39,8 @@ for filename in files:
             f = gzip.open(filename)
             for line in f:
                 try:
+                    if LANG and not line.startswith(LANG + ' '):
+                        continue
                     fields = line.split()
                     lang = fields[0]
                     if lang != prev_lang:

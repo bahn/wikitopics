@@ -14,9 +14,3 @@ To process redirection:
     
 To generate the top viewed lists:
     list_top_pages.py
-
-foo: filter
-bar: filter, then redirect
-qux: filter+redirect all at once
-quxx: redirect
-quxxx: redirect, then filter

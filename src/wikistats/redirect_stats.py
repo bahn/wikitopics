@@ -12,11 +12,10 @@ import sys
 import urllib
 import gzip
 
-sys.path.append("..")
+sys.path.append("/mnt/data/wikitopics/src")
 import wiki.utils
 
 pagecounts = {}
-pagebytes = {}
 
 def read_wikistats(lang, f):
     """
@@ -35,13 +34,12 @@ def read_wikistats(lang, f):
                             title = wiki.utils.normalize_title(page)
                             if title:
                                 pagecounts[title] = pagecounts.get(title, 0) + int(field[2])
-                                pagebytes[title] = int(field[3])
-            except IndexError:
-                pass
             except UnicodeError:
-                pass
+                sys.stderr.write("UnicodeError: %s" % line)
+            except IndexError:
+                sys.stderr.write("IndexError: %s" % line)
     except IOError:
-        pass
+        sys.stderr.write("IOError")
     finally:
         if f:
             f.close()
@@ -82,4 +80,4 @@ if __name__=="__main__":
 
     if REDIRECTS:
         for page in sorted(pagecounts.keys()):
-            print LANG, page, pagecounts[page], pagebytes[page]
+            print LANG, page, pagecounts[page]

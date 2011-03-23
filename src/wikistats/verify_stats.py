@@ -8,6 +8,7 @@ you can specify multiple input files in the command line.
 
 import sys
 import gzip
+import datetime
 
 def read_wikistats(filename):
     file = gzip.open(filename, 'rb')
