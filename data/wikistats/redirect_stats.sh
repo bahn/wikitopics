@@ -5,7 +5,7 @@ if [ "$1" == "--dry-run" ]; then
     shift
 fi
 if [ $# -ne 6 ]; then
-    echo "Usage: $0 LANG REDIRECTS SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
+    echo "Usage: $0 [--dry-run] LANG REDIRECTS SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
     echo "Given: $0 $*" >&2
     exit 1
 fi
@@ -23,7 +23,7 @@ UNTIL_DATE=`date --date "$6" +"%Y%m%d"`
 
 # get full path for directories
 cd `dirname $0`/../../src/wikistats; REDIR_SCRIPT=`pwd`"/redirect_stats.py"
-cd $SRC_DIR; SRC_DIR=`pwd`
+cd $CWD; cd $SRC_DIR; SRC_DIR=`pwd`
 cd $CWD; mkdir -p $TRG_DIR; cd $TRG_DIR; TRG_DIR=`pwd`
 cd $CWD
 
@@ -57,7 +57,7 @@ while [ ! $DATE \> $UNTIL_DATE ]; do
             echo "$REDIR_SCRIPT $FILE > $TRG_DIR/$FILE"
         else
             mkdir -p `dirname $TRG_DIR/$FILE`
-            $REDIR_SCRIPT -l $LANG -r $REDIRECTS $FILE > $TRG_DIR/$FILE 
+            $REDIR_SCRIPT -l $LANG -r $REDIRECTS $FILE | gzip -c > $TRG_DIR/$FILE 
         fi
     done
     DATE=`date --date "$DATE 1 day" +"%Y%m%d"`

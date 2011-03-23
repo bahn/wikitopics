@@ -43,7 +43,7 @@ rm -f index.html
 COUNT=0
 if [ $DRYRUN ]; then
     for FILE in $FILES; do
-        echo $FILE
+        echo http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
     done
     cd ..
     rmdir working_$YEAR$MONTH
@@ -53,6 +53,10 @@ fi
 rm -f SUCCESS
 for FILE in $FILES; do
     BASENAME=`basename $FILE`
+    if [ -e .././archive/$YEAR/$MONTH/$BASENAME ]; then
+        echo "$BASENAME already exists; cancel downloading..." >&2
+        continue
+    fi
     mkdir -p ../../archive/$YEAR/$MONTH
     rm -f $BASENAME
     wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
@@ -118,7 +122,7 @@ fi
 for FILE in $FILES; do
     BASENAME=`basename $FILE`
     if [ -e ../archive/$YEAR/$MONTH/$BASENAME ]; then
-        ../../../src/wikistat/verify_stats.py ../archive/$YEAR/$MONTH/$BASENAME > /dev/null
+        /mnt/data/wikitopics/src/wikistats/verify_stats.py ../archive/$YEAR/$MONTH/$BASENAME > /dev/null
         if [ $? -ne 0 ]; then
             echo "$LOGPREFIX $FILE failed verification." >&2
         fi

@@ -4,8 +4,12 @@ if [ "$1" == "--dry-run" ]; then
     DRYRUN=1
     shift
 fi
+if [ "$1" == "-l" ]; then
+    LANG="$1 $2"
+    shift; shift
+fi
 if [ $# -ne 4 ]; then
-    echo "Usage: $0 [--dry-run] SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
+    echo "Usage: $0 [--dry-run] [-l LANG] SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
     echo "Given: $0 $*" >&2
     exit 1
 fi
@@ -78,7 +82,7 @@ while [ ! $DATE \> $UNTIL_DATE ]; do
         if [ $DRYRUN ]; then
             echo "${TRG_PREFIX}pagecounts-$DATE.gz"
         else
-            $ADD_SCRIPT $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
+            $ADD_SCRIPT $LANG $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
         fi
     fi
  

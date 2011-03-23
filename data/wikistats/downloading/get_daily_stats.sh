@@ -50,6 +50,10 @@ else
     for FILE in $FILES
     do
         BASENAME=`basename $FILE`
+        if [ -e ../../latest/$YEAR/$MONTH/$BASENAME ]; then
+            echo "$BASENAME already exists; cancel downloading" >&2
+            continue
+        fi
         mkdir -p ../../latest/$YEAR/$MONTH
         rm -f $BASENAME
         wget -nv -o wget.log http://dammit.lt/wikistats/$FILE
@@ -94,6 +98,10 @@ fi
 
 for FILE in $FILES2; do
     BASENAME=`basename $FILE`
+    if [ -e ../../archive/$YEAR/$MONTH/$BASENAME ]; then
+        echo "$BASENAME already exists; cancel downloading" >&2
+        continue
+    fi
     mkdir -p ../../archive/$YEAR/$MONTH
     rm -f $BASENAME
     wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
@@ -139,7 +147,7 @@ fi
 for FILE in FILES; do
     BASENAME=`basename $FILE`
     if [ -e ../latest/$YEAR/$MONTH/$BASENAME ]; then
-        ../../../src/wikistat/verify_stats.py ../latest/$YEAR/$MONTH/$BASENAME > /dev/null
+        ../../../src/wikistats/verify_stats.py ../latest/$YEAR/$MONTH/$BASENAME > /dev/null
         if [ $? -ne 0 ]; then
             echo "$LOGPREFIX $FILE failed verification." >&2
         fi
@@ -149,7 +157,7 @@ done
 for FILE in FILES2; do
     BASENAME=`basename $FILE`
     if [ -e ../archive/$YEAR/$MONTH/$BASENAME ]; then
-        ../../../src/wikistat/verify_stats.py ../archive/$YEAR/$MONTH/$BASENAME > /dev/null
+        ../../../src/wikistats/verify_stats.py ../archive/$YEAR/$MONTH/$BASENAME > /dev/null
         if [ $? -ne 0 ]; then
             echo "$LOGPREFIX $FILE failed verification." >&2
         fi
