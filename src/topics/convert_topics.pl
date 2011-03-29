@@ -1,13 +1,12 @@
 #!/usr/bin/env perl
-
+print "<table>\n";
+print "<tr><th>Rank</th><th>Titles and links</th><th>Trending score</th></tr>\n";
 while (<>) {
-    chomp;
-    if (/^pagecounts-([0-9]*)\.gz/) {
-        $date = $1;
-        $num = 0;
-    } elsif (/^(.*)\t[0-9]*$/) {
-        $topic = $1;
-        print "$date $num $topic\n";
-        $num += 1;
-    }
+    /^([^ ]*) /;
+    $title = $1;
+    s| | <a href="http://en.wikipedia.org/wiki/$title" target="view">[now]</a></td><td>|;
+    s|^|<tr><td>$.</td><td>|;
+    s|$|</td></tr>|;
+    print;
 }
+print "</table>\n";

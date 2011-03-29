@@ -26,6 +26,7 @@ from splitting import determine_splitter
 import codecs
 import re
 import os
+import utils
 
 def read_lines_from_file(filename, encoding='utf8'):
     """                                                                                                                       
@@ -49,11 +50,14 @@ def write_lines_to_file(output_filename, lines):
     output_file.close()
     return lines
 
-def fetch_articles_on_date(topics, date, lang, dir):
-    try:
-        os.makedirs(dir)
-    except OSError:
-        pass
+def fetch_articles_on_date(topics, date, lang, output_dir):
+    if os.path.exists(output_dir):
+        if not os.path.isdir(output_dir):
+            sys.stderr.write(output_dir + " is not a directory\n")
+            sys.exit(1)
+    else:
+        os.makedirs(output_dir)
+
     for article in topics:
         title = article
         while True:
@@ -70,14 +74,28 @@ def fetch_articles_on_date(topics, date, lang, dir):
         output = write_lines_to_file(output_filename, sentences)
 
 if __name__=='__main__':
-    if len(sys.argv) < 4:
-        print "Usage: fetch_sentences [path/to/file/containing/list/of/articles] [YYYY-MM-DD] [/path/to/store/sentences/files/]"
-        #fetch_articles_on_date(['Barack_Obama'], datetime.date(2009, 1, 27), 'en', '.')
-        sys.exit(1)
-    topics = read_lines_from_file(sys.argv[1])
-    m = re.match(r'(\d{4})-(\d{2})-(\d{2})', sys.argv[2])
-    date = datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
     lang = 'en'
-    dir = sys.argv[3]
-    fetch_articles_on_date(topics, date, lang, dir)
-
+    date = datetime.date.today()
+    output_dir = '.'
+    while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
+        if len(sys.argv) > 2 and sys.argv[1] == '-l':
+            lang = sys.argv[2]
+            sys.argv[1:3] = []
+        elif len(sys.argv) > 2 and sys.argv[1] == '-d':
+            date = sys.argv[2]
+            sys.argv[1:3] = []
+        elif len(sys.argv) > 2 and sys.argv[1] == '-o':
+            output_dir = sys.argv[2]
+            sys.argv[1:3] = []
+        else:
+            sys.stderr.write("Unknown option: %s\n" % (sys.argv[1]))
+            sys.exit(1)
+    if len(sys.argv) > 1 and sys.argv[1] != '-':
+        topics = read_lines_from_file(sys.argv[1])
+    else
+        topics = read_lines_from_file(sys.stdin)
+    for i, topic in enumerate(topics):
+        pos = topic.find(' ')
+        if pos != -1:
+            topic = topic[:pos]
+    fetch_articles_on_date(topics, date, lang, output_dir)
