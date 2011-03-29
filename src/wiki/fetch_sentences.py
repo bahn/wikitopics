@@ -29,73 +29,82 @@ import os
 import utils
 
 def read_lines_from_file(filename, encoding='utf8'):
-    """                                                                                                                       
-    Reads a file in utf8 encoding into an array                                                                               
-    """
-    lines = []
-    input_file = codecs.open(filename, encoding=encoding)
-    for line in input_file:
-        lines.append(line.rstrip('\n'))
-    input_file.close()
-    return lines
+	"""																													   
+	Reads a file in utf8 encoding into an array																			   
+	"""
+	lines = []
+	input_file = codecs.open(filename, encoding=encoding)
+	for line in input_file:
+		lines.append(line.rstrip('\n'))
+	input_file.close()
+	return lines
 
 def write_lines_to_file(output_filename, lines):
-    """                                                                                                                     \
-    Writes a list of lines to file.                                                                                       \
-    """
-    output_file = open(output_filename, 'w')
-    for line in lines:
-        output_file.write(line.encode('UTF-8'))
-        output_file.write('\n'.encode('UTF-8'))
-    output_file.close()
-    return lines
+	"""																													 \
+	Writes a list of lines to file.																					   \
+	"""
+	output_file = open(output_filename, 'w')
+	for line in lines:
+		output_file.write(line.encode('UTF-8'))
+		output_file.write('\n'.encode('UTF-8'))
+	output_file.close()
+	return lines
 
 def fetch_articles_on_date(topics, date, lang, output_dir):
-    if os.path.exists(output_dir):
-        if not os.path.isdir(output_dir):
-            sys.stderr.write(output_dir + " is not a directory\n")
-            sys.exit(1)
-    else:
-        os.makedirs(output_dir)
+	if os.path.exists(output_dir):
+		if not os.path.isdir(output_dir):
+			sys.stderr.write(output_dir + " is not a directory\n")
+			sys.exit(1)
+	else:
+		os.makedirs(output_dir)
 
-    for article in topics:
-        title = article
-        while True:
-            revid = wikipydia.query_revid_by_date(title, lang, date)
-            wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
-            if wikimarkup.lower().startswith('#redirect [['):
-                title = wikimarkup[12:-2].replace(' ','_')
-            else:
-                break
-        sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
-        # substitute angle brackets with html-like character encodings
-        sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
-        output_filename = os.path.join(dir, article + '.sentences')
-        output = write_lines_to_file(output_filename, sentences)
+	for article in topics:
+		title = article
+		while True:
+			revid = wikipydia.query_revid_by_date(title, lang, date)
+			wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
+			if wikimarkup.lower().startswith('#redirect [['):
+				title = wikimarkup[12:-2].replace(' ','_')
+			else:
+				break
+		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
+		# substitute angle brackets with html-like character encodings
+		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
+		output_filename = os.path.join(output_dir, article + '.sentences')
+		output = write_lines_to_file(output_filename, sentences)
 
 if __name__=='__main__':
-    lang = 'en'
-    date = datetime.date.today()
-    output_dir = '.'
-    while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
-        if len(sys.argv) > 2 and sys.argv[1] == '-l':
-            lang = sys.argv[2]
-            sys.argv[1:3] = []
-        elif len(sys.argv) > 2 and sys.argv[1] == '-d':
-            date = sys.argv[2]
-            sys.argv[1:3] = []
-        elif len(sys.argv) > 2 and sys.argv[1] == '-o':
-            output_dir = sys.argv[2]
-            sys.argv[1:3] = []
-        else:
-            sys.stderr.write("Unknown option: %s\n" % (sys.argv[1]))
-            sys.exit(1)
-    if len(sys.argv) > 1 and sys.argv[1] != '-':
-        topics = read_lines_from_file(sys.argv[1])
-    else
-        topics = read_lines_from_file(sys.stdin)
-    for i, topic in enumerate(topics):
-        pos = topic.find(' ')
-        if pos != -1:
-            topic = topic[:pos]
-    fetch_articles_on_date(topics, date, lang, output_dir)
+	lang = 'en'
+	date = datetime.date.today()
+	output_dir = '.'
+	while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
+		if len(sys.argv) > 2 and sys.argv[1] == '-l':
+			lang = sys.argv[2]
+			sys.argv[1:3] = []
+		elif len(sys.argv) > 2 and sys.argv[1] == '-d':
+			date = sys.argv[2]
+			sys.argv[1:3] = []
+		elif len(sys.argv) > 2 and sys.argv[1] == '-o':
+			output_dir = sys.argv[2]
+			sys.argv[1:3] = []
+		else:
+			sys.stderr.write("Unknown option: %s\n" % (sys.argv[1]))
+			sys.exit(1)
+	if len(sys.argv) < 2:
+		sys.stderr.write('Usage: %s [-l language] [-d date] [-o output_dir] article_list\n')
+		sys.exit(1)
+
+	if os.path.isfile(sys.argv[1]):
+		topics = read_lines_from_file(sys.argv[1])
+	else:
+		topics = [sys.argv[1]]
+	for i, topic in enumerate(topics):
+		pos = topic.find(' ')
+		if pos == -1:
+			pos = topic.find('\t')
+		if pos != -1:
+			topics[i] = topic[:pos]
+	for topic in topics:
+		print topic
+	sys.exit(0)
+	fetch_articles_on_date(topics, date, lang, output_dir)
