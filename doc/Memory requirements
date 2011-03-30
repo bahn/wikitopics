@@ -1,0 +1,41 @@
+add_hourly_stats.sh*
+    hourly statistics 90M * 24 = 2.160G
+    daily statistics 120M
+    mem_free=6G
+convert_topics.sh*
+    topics 20K
+    html 150K
+    mem_free=1M
+filter_stats.sh*
+    hourly statistics 90M
+    filtered hourly statistics < 90M
+    mem_free=1G
+get_daily_stats.sh*
+    hourly statistics 90M * 2 = 180M
+    mem_free=1G
+get_monthly_stats.sh*
+    hourly statistics 90M * 2 = 180M
+    mem_free=1G
+list_topics.sh*
+    redirected daily statistics 50M * 30 = 1.5G
+    the sum total ~200M (estimated)
+    topics 20K
+    mem_free=6G
+    
+process_daily_stats.sh*
+    get_daily_stats.sh
+    process_stats.sh
+    list_topics.sh
+    convert_topics.sh
+    mem_free=6G
+process_stats.sh*
+    filter_stats.sh
+    add_hourly_stats.sh
+    redirect_stats.sh
+    mem_free=6G
+redirect_stats.sh*
+    daily statistics 120M
+    redirected daily statistics 50M
+    redirects data 200M
+    mem_free=1G
+run_news_clustering.sh*
