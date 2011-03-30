@@ -27,6 +27,7 @@ import codecs
 import re
 import os
 import utils
+import urllib
 
 def read_lines_from_file(filename, encoding='utf8'):
 	"""																													   
@@ -74,8 +75,8 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
 		# substitute angle brackets with html-like character encodings
 		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
-		article = urllib.quote(article.encode('utf8'))
-		output_filename = os.path.join(output_dir, article + '.sentences')
+		title = urllib.quote(title.replace(' ','_').encode('utf8'))
+		output_filename = os.path.join(output_dir, title + '.sentences')
 		output = write_lines_to_file(output_filename, sentences)
 
 if __name__=='__main__':
