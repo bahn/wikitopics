@@ -19,14 +19,20 @@
 #import manage
 import sys
 import datetime
-import wikipydia
-import wpTextExtractor
 #from wt_articles.splitting import determine_splitter
 from splitting import determine_splitter
 import codecs
 import re
 import os
 import utils
+try:
+	import wikipydia
+	import wpTextExtractor
+except:
+	sys.path.append('/home/bahn/work/wikipydia')
+	sys.path.append('/home/bahn/work/wpTextExtractor')
+	import wikipydia
+	import wpTextExtractor
 
 def read_lines_from_file(filename, encoding='utf8'):
 	"""																													   
