@@ -1,0 +1,44 @@
+From: Benjamin Van Durme <vandurme@cs.jhu.edu>
+Date: March 10, 2011 10:00:58 PM EST
+To: Chris Callison-Burch <ccb@cs.jhu.edu>, Byung Gyu <byunggyu.ahn@gmail.com>
+Subject: linked in today
+
+http://www.linkedin.com/today/
+
+A friend of mine from the IR lab at CMU LTI is now researcher at LinkedIn.
+
+They rolled out the above service today, which is a sort of TDT
+application focussed on tech news based on Twitter and LinkedIn
+updates.
+
+- ben
+
+
+From: Benjamin Van Durme <vandurme@cs.jhu.edu>
+Date: August 31, 2010 11:29:42 AM EDT
+To: Byung Gyu <byunggyu.ahn@gmail.com>, Chris Callison-Burch <ccb@cs.jhu.edu>
+Subject: Wiki extractor
+
+The following post comes from a recent Corpus mailing list discussion
+(along with many other suggestions that devolved into "use Perl"):
+
+
+Message: 13
+Date: Fri, 27 Aug 2010 19:28:09 -0600
+From: Cyrus Shaoul <cyrus.shaoul@ualberta.ca>
+Subject: Re: [Corpora-List] Extracting text from Wikipedia articles
+To: "corpora@uib.no" <corpora@uib.no>
+
+Irina,
+
+I am not sure if this helps you, but I have extracted the text for the
+English version of Wikipedia (in April of this year)
+using the WikiExtractor
+<http://medialab.di.unipi.it/wiki/Wikipedia_Extractor> toolset and
+created a 990 million word corpus that is freely available on my web site:
+
+http://www.psych.ualberta.ca/~westburylab/downloads/westburylab.wikicorp.download.html
+
+Yours,
+
+Cyrus
