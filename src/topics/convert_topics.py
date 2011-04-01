@@ -19,7 +19,6 @@ def convert_topics(filename, lang):
 
 	lineno = 0
 	with open(filename, 'r') as f:
-		topics = read_lines_from_file(sys.argv[1])
 		topic_line_re1 = re.compile("^(.+) ([0-9]+)$")
 		topic_line_re2 = re.compile("^([^\t]+)\t([0-9]+)$")
 		print "<table>";
@@ -30,12 +29,12 @@ def convert_topics(filename, lang):
 			m = topic_line_re1.match(line)
 			if m:
 				title = m.group(1)
-				pageviews = m.group(2)
+				pageviews = int(m.group(2))
 			else:
 				m = topic_line_re2.match(line)
 				if m:
 					title = m.group(1)
-					pageviews = m.group(2)
+					pageviews = int(m.group(2))
 				else:
 					title = line
 					pageviews = None
