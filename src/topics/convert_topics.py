@@ -19,19 +19,26 @@ def convert_topics(filename, lang):
 
 	lineno = 0
 	with open(filename, 'r') as f:
+		topics = read_lines_from_file(sys.argv[1])
+		topic_line_re1 = re.compile("^(.+) ([0-9]+)$")
+		topic_line_re2 = re.compile("^([^\t]+)\t([0-9]+)$")
 		print "<table>";
 		print "<tr><th>Rank</th><th>Titles and links</th><th>Trending score</th></tr>";
 		for line in f:
 			lineno += 1
-			i = line.find(' ')
-			if i == -1:
-				i = line.find('\t')
-			if i == -1:
-				title = line.strip()
-				pageviews = None
+			line = line.rstrip('\n')
+			m = topic_line_re1.match(line)
+			if m:
+				title = m.group(1)
+				pageviews = m.group(2)
 			else:
-				title = line[:i]
-				pageviews = int(line[i+1:])
+				m = topic_line_re2.match(line)
+				if m:
+					title = m.group(1)
+					pageviews = m.group(2)
+				else:
+					title = line
+					pageviews = None
 			title = title.decode('utf8')
 			if not wikipydia.query_exists(title, lang):
 				continue
