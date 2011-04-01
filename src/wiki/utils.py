@@ -103,7 +103,7 @@ def normalize_title(title):
     title = unicodedata.normalize("NFC", title)
     title = title[0].upper() + title[1:]
     title = title.encode('utf8')
-    title = urllib.quote(title)
+    title = urllib.quote(title, safe="") # force / to be quoted
     # title is converted into url-quoted NFC form
     if not redirects:
         return title
@@ -130,7 +130,7 @@ redirects = {}
 all_titles = {}
 
 def get_nfc(string):
-    return urllib.quote(unicodedata.normalize("NFC",string.decode('utf8')).encode('utf8'))
+    return urllib.quote(unicodedata.normalize("NFC",string.decode('utf8')).encode('utf8'), safe="") # force / to be quoted
 
 def read_non_redirects(filename):
     f = open(filename, 'r')

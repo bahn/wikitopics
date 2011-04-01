@@ -67,22 +67,28 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 
 	for article in topics:
 		title = article
-		if not wikipydia.query_exists(title):
+		if not wikipydia.query_exists(title, lang):
 			continue
-		title = wikipydia.query_redirects(title)
-		while True:
-			revid = wikipydia.query_revid_by_date(title, lang, date)
-			wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
-			# legacy code. redirects should have been processed by wikipydia.query_redirects.
-			if wikimarkup.lower().startswith('#redirect [['):
-				title = wikimarkup[12:-2]
-			else:
+		title = wikipydia.query_redirects(title, lang)
+		org_title = title
+		revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction="older")
+		while not revid:
+			# the page was moved later
+			revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction='newer')
+			redirects = wikipydia.query_text_raw_by_revid(revid, lang)['text']
+			if not redirects.lower().startswith('#redirect [[') or not redirects.endswith(']]'):
+				sys.stderr.write(org_title.encode('utf8') + ' did not exist on ' + date.isoformat() + '\n')
 				break
+			title = redirects[12:-2]
+			sys.stderr.write('falling back to ' + title.encode('utf8') + '...\n')
+			revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction="older")
+		wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
 		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
 		# substitute angle brackets with html-like character encodings
 		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
-		title = urllib.quote(title.replace(' ','_').encode('utf8'))
-		output_filename = os.path.join(output_dir, title + '.sentences')
+		sentences.insert(0, org_title)
+		org_title = urllib.quote(org_title.replace(' ','_').encode('utf8'), safe="") # force / to be quoted
+		output_filename = os.path.join(output_dir, org_title + '.sentences')
 		output = write_lines_to_file(output_filename, sentences)
 
 if __name__=='__main__':
@@ -103,17 +109,22 @@ if __name__=='__main__':
 			sys.stderr.write("Unknown option: %s\n" % (sys.argv[1]))
 			sys.exit(1)
 	if len(sys.argv) < 2:
-		sys.stderr.write('Usage: %s [-l language] [-d date] [-o output_dir] article_list\n')
+		sys.stderr.write('Usage: ' + sys.argv[0] + ' [-l language] [-d date] [-o output_dir] article_list\n')
 		sys.exit(1)
 
 	if os.path.isfile(sys.argv[1]):
 		topics = read_lines_from_file(sys.argv[1])
+		topic_line_re1 = re.compile("^([^ ]+) [0-9]+$")
+		topic_line_re2 = re.compile("^([^\t]+)\t[0-9]+$")
+		for i, topic in enumerate(topics):
+			m = topic_line_re1.match(topic)
+			if m:
+				topics[i] = m.group(1)
+			else:
+				m = topic_line_re2.match(topic)
+				if m:
+					topics[i] = m.group(1)
 	else:
+		sys.stderr.write(sys.argv[1] + ' file not found. looking for Wikipedia page named ' + sys.argv[1] + '...\n')
 		topics = [sys.argv[1]]
-	for i, topic in enumerate(topics):
-		pos = topic.find(' ')
-		if pos == -1:
-			pos = topic.find('\t')
-		if pos != -1:
-			topics[i] = topic[:pos]
 	fetch_articles_on_date(topics, date, lang, output_dir)
