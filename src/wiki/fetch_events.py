@@ -21,12 +21,19 @@ import wikipydia
 DRYRUN = False
 OUTPUT_DIR = '.'
 
-if len(sys.argv) > 1 and sys.argv[1] == "--dry-run":
-    DRYRUN = True
-    sys.argv[1:2] = []
+while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
+	if len(sys.argv) > 1 and sys.argv[1] == "--dry-run":
+		DRYRUN = True
+		del sys.argv[1]
+	elif len(sys.argv) > 2 and sys.argv[1] == '-o':
+		OUTPUT_DIR = sys.argv[2]
+		sys.argv[1:3] = []
+	else:
+		sys.stderr.write('Unknown switch: ' + sys.argv[1] + '\n')
+		sys.exit(1)
 
 if len(sys.argv) != 3:
-    sys.stderr.write("Usage: %s [--dry-run] [--output-dir DIR] START_DATE END_DATE\n" % sys.argv[0])
+    sys.stderr.write("Usage: %s [--dry-run] [-o OUTPUT_DIR] START_DATE END_DATE\n" % sys.argv[0])
     sys.exit(1)
 
 start_date = utils.convert_date(sys.argv[1])
@@ -46,7 +53,7 @@ date = start_date
 while date <= end_date:
     events = wikipydia.query_current_events(date)
     if events:
-        filename = date.isoformat() + ".current_events"
+        filename = date.isoformat() + ".events"
         if DRYRUN:
             print filename
             for event in events:
