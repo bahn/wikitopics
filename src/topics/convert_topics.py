@@ -43,20 +43,17 @@ def convert_topics(filename, lang):
 				continue
 			title = wikipydia.query_redirects(title, lang)
 			title = title.encode('utf8')
+			escaped_title = urllib.quote(title.replace(' ','_'), safe="") # force / to be quoted
+			print '<tr><td>%d</td><td>%s <a href="http://%s.wikipedia.org/wiki/%s" target="view">[now]</a>' % (lineno, title, lang, escaped_title),
+
 			if date:
 				oldid = str(wikipydia.query_revid_by_date(title, lang, date))
-			escaped_title = urllib.quote(title.encode('utf8').replace(' ','_'), safe="") # force / to be quoted
-			print '<tr><td>%d</td><td>%s <a href="http://%s.wikipedia.org/wiki/%s" target="view">[now]</a>' % (lineno, title, lang, escaped_title),
-			if date:
-				pass
 				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?title=' + escaped_title + '&oldid=' + oldid + '" target="viewthen">[then]</a>',
 			if lang != 'en':
 				print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fwiki%2F' + escaped_title + '" target="translate">[now:translate]</a>',
 				if date:
-					pass
 					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?title=' + escaped_title + '&oldid=' + oldid + '" target="translatethen">[then:translate]</a>',
 			if pageviews:
-				pass
 				print "</td><td>%d" % (pageviews),
 			print "</td></tr>";
 		print "</table>";
