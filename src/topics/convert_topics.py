@@ -49,6 +49,7 @@ def convert_topics(filename, lang):
 			if date:
 				oldid = str(wikipydia.query_revid_by_date(title, lang, date))
 				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?title=' + escaped_title + '&oldid=' + oldid + '" target="viewthen">[then]</a>',
+				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?title=' + escaped_title + '&diff=cur&oldid=' + oldid + '" target="viewdiff">[diff]</a>'
 			if lang != 'en':
 				print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fwiki%2F' + escaped_title + '" target="translate">[now:translate]</a>',
 				if date:
