@@ -74,7 +74,7 @@ def get_topics(old_sum, new_sum, limit, lang):
 			checked[title] = True
 			if wikipydia.query_exists(title.decode('utf8'), lang):
 				exists[title] = True
-				redirects[title] = wikipydia.query_redirects(title.decode('utf8'), lang).encode('utf8')
+				redirects[title] = wikipydia.query_redirects(title.decode('utf8'), lang).encode('utf8').replace(' ','_')
 		if title not in exists:
 			del result[i]
 		else:
