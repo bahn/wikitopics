@@ -17,12 +17,21 @@ fi
 
 YEAR=$1
 MONTH=`printf "%02d" $2`
-LOGPREFIX="$YEAR$MONTH:"
+LOGPREFIX="$YEAR-$MONTH"
+WORKING="working_$YEAR$MONTH"
+LOGFILE="log/monthly_stats_$YEAR$MONTH.log"
+
+if [ -e $WORKING ]; then
+	echo "$WORKING directory exists; cancelling downloading..." >&2
+	echo "delete it and try again." >&2
+	exit 1
+fi
 
 mkdir -p log
-rm -rf working_$YEAR$MONTH
-mkdir -p working_$YEAR$MONTH
-cd working_$YEAR$MONTH
+mkdir -p $WORKING
+cd $WORKING
+
+# download the directory listing
 wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/
 if [ -e wget.log ]
 then
@@ -40,91 +49,66 @@ fi
 FILES=`grep $YEAR$MONTH index.html | sed -e 's/^.*href="//' -e 's/".*$//'`
 rm -f index.html
 
-COUNT=0
 if [ $DRYRUN ]; then
     for FILE in $FILES; do
         echo http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
     done
     cd ..
-    rmdir working_$YEAR$MONTH
+    rmdir $WORKING
     exit 0
 fi
 
-rm -f SUCCESS
+COUNT=0
 for FILE in $FILES; do
     BASENAME=`basename $FILE`
-    if [ -e .././archive/$YEAR/$MONTH/$BASENAME ]; then
-        echo "$BASENAME already exists; cancel downloading..." >&2
-        continue
-    fi
-    mkdir -p ../../archive/$YEAR/$MONTH
     rm -f $BASENAME
     wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
-    if [ $? -ne 0 -o ! -e $BASENAME ]
-    then
+
+    if [ $? -ne 0 -o ! -e $BASENAME ]; then
         echo "$LOGPREFIX failed to download $FILE" >&2
-        if [ -e $BASENAME ]
-        then
+        if [ -e $BASENAME ]; then
             rm -f $BASENAME
         fi
     else
-        if [ -e ../../latest/$YEAR/$MONTH/$BASENAME ]
-        then
-            if diff -q $BASENAME ../../latest/$YEAR/$MONTH/$BASENAME > /dev/null; then
-                echo $BASENAME >> SUCCESS
-                #rm -f ../../latest/$YEAR/$MONTH/$BASENAME
-            else
-                echo "$LOGPREFIX previous downloaded $BASENAME does not match with the one just downloaded." >&2
-                echo $BASENAME >> ../../latest/$YEAR/$MONTH/FAILED
-            fi
-        fi
-        mv $BASENAME ../../archive/$YEAR/$MONTH
-        COUNT=$((COUNT+1))
+        COUNT=$[COUNT+1]
     fi
-    if [ -e wget.log ]
-    then
-        cat wget.log >> ../log/monthly_stats_$YEAR$MONTH.log
+
+    if [ -e wget.log ]; then
+        cat wget.log >> ../$LOGFILE
         rm -f wget.log
     fi
 done
 
-if [ -e SUCCESS ]; then
-    for FILE in `cat SUCCESS`; do
-        rm -f ../../latest/$YEAR/$MONTH/$FILE
-    done
-    rm -f SUCCESS
-fi
-cd ..
-rmdir working_$YEAR$MONTH
-
-if [ $[$COUNT % 48] -ne 0 ]
-then
-    echo "$LOGPREFIX some files are missing: only $COUNT files downloaded." >&2
+if [ $[COUNT % 48] -ne 0 ]; then
+    echo "$LOGPREFIX missing or redundant: $COUNT files are downloaded." >&2
 else
     echo "$LOGPREFIX downloading $COUNT files succeeded."
 fi
 
-if [ -e ../latest/$YEAR/$MONTH ]
-then
-    rmdir ../latest/$YEAR/$MONTH
-    if [ $? -ne 0 ]
-    then
-        echo "$LOGPREFIX the previous downloading folder is not empty." >&2
-    fi
-fi
-
-if [ -e ../latest/$YEAR ]
-then
-    rmdir ../latest/$YEAR
-    rmdir ../latest
-fi
-
 for FILE in $FILES; do
     BASENAME=`basename $FILE`
-    if [ -e ../archive/$YEAR/$MONTH/$BASENAME ]; then
-        /mnt/data/wikitopics/src/wikistats/verify_stats.py ../archive/$YEAR/$MONTH/$BASENAME > /dev/null
+	if [ ! -e ../../archive/$YEAR/$MONTH/$BASENAME ]; then
+        /mnt/data/wikitopics/src/wikistats/verify_stats.py $BASENAME > /dev/null
         if [ $? -ne 0 ]; then
-            echo "$LOGPREFIX $FILE failed verification." >&2
+            echo "$LOGPREFIX $BASENAME failed verification." >&2
         fi
-    fi
+		mkdir -p ../../archive/$YEAR/$MONTH
+		mv $BASENAME ../../archive/$YEAR/$MONTH
+	else
+		if diff -q $BASENAME ../../archive/$YEAR/$MONTH/$BASENAME > /dev/null; then
+			echo "$LOGPREFIX $BASENAME matched." >> ../$LOGFILE
+			rm -f $BASENAME
+		else
+			echo "$LOGPREFIX $BASENAME does not match." >&2
+			echo "$LOGPREFIX $BASENAME does not match." >> ../$LOGFILE
+			echo $BASENAME >> FAILED
+			/mnt/data/wikitopics/src/wikistats/verify_stats.py $BASENAME > /dev/null
+			if [ $? -ne 0 ]; then
+				echo "$LOGPREFIX $FILE failed verification." >&2
+			fi
+		fi
+	fi
 done
+
+cd ..
+rmdir $WORKING
