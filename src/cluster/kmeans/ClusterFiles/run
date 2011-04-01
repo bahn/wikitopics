@@ -1,1 +1,8 @@
-java -cp .:$MALLET/class:$MALLET/lib/mallet-deps.jar -Xmx100g ClusterFiles $*
+#!/bin/bash
+if [ $# -ne 3 ]; then
+	echo "Usage: $0 K INPUT_DIR OUTPUT_FILE" >&2
+	echo "Given: $0 $*"
+	exit 1
+fi
+
+java -cp .:$MALLET/class:$MALLET/lib/mallet-deps.jar -Xmx100g ClusterFiles --k $1 --input $2 > $3

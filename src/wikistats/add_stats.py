@@ -13,16 +13,20 @@ import sys
 import gzip
 
 LANG = ''
-if len(sys.argv) > 1 and sys.argv[1].startswith('-'):
+FILTER = 0
+while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
     if sys.argv[1] == '-l' and len(sys.argv) > 2:
         LANG = sys.argv[2]
+        sys.argv[1:3] = []
+    elif sys.argv[1] == '-f' and len(sys.argv) > 2:
+        FILTER = int(sys.argv[2])
         sys.argv[1:3] = []
     else:
         sys.stderr.write("Unknown switch: " + sys.argv[1] + "\n")
         sys.exit(1)
 
 if len(sys.argv) == 1:
-    print "Usage: %s pagecount_0 [pagecount_1 ...]" % sys.argv[0]
+    print "Usage: %s [-f FILTER] pagecount_0 [pagecount_1 ...]" % sys.argv[0]
     exit(1)
 
 lang_counts = {}
@@ -47,7 +51,9 @@ for filename in files:
                         counts = lang_counts.setdefault(lang, {})
                         prev_lang = lang
                     title = fields[1]
-                    counts[title] = counts.get(title, 0) + int(fields[2])
+                    pagecounts = int(fields[2])
+                    if pagecounts > FILTER:
+                        counts[title] = counts.get(title, 0) + int(fields[2])
                 except IndexError:
                     indexError = True
                 except UnicodeError:

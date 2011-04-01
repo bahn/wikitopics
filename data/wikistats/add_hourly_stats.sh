@@ -1,15 +1,20 @@
 #!/bin/bash
 # add_hourly_stats.sh
-if [ "$1" == "--dry-run" ]; then
-    DRYRUN=1
-    shift
-fi
-if [ "$1" == "-l" ]; then
-    LANG="$1 $2"
-    shift; shift
-fi
+
+while [ "$1" == "--dry-run" -o "$1" == "-l" -o "$1" == "-f" ]; do
+    if [ "$1" == "--dry-run" ]; then
+        DRYRUN=1
+        shift
+    elif [ "$1" == "-l" ]; then
+        LANG="$1 $2"
+        shift; shift
+    elif [ "$1" == "-f" ]; then
+        FILTER="$1 $2"
+        shift; shift
+    fi
+done
 if [ $# -ne 4 ]; then
-    echo "Usage: $0 [--dry-run] [-l LANG] SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
+    echo "Usage: $0 [--dry-run] [-l LANG] [-f FILTER] SRC_DIR TRG_DIR FROM_DATE UNTIL_DATE" >&2
     echo "Given: $0 $*" >&2
     exit 1
 fi
@@ -73,7 +78,7 @@ while [ ! $DATE \> $UNTIL_DATE ]; do
             FILES="$FILES $FILE"
         fi
     done
-    if [ $DRYRUN ]; then
+    if [ "$DRYRUN" -a "$FILES" != "" ]; then
         echo $ADD_SCRIPT
         echo $FILES | tr " " "\n"
     fi
@@ -82,7 +87,7 @@ while [ ! $DATE \> $UNTIL_DATE ]; do
         if [ $DRYRUN ]; then
             echo "${TRG_PREFIX}pagecounts-$DATE.gz"
         else
-            $ADD_SCRIPT $LANG $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
+            $ADD_SCRIPT $LANG $FILTER $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
         fi
     fi
  
