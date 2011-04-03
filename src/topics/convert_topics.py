@@ -44,16 +44,20 @@ def convert_topics(filename, lang):
 			title = wikipydia.query_redirects(title, lang)
 			title = title.encode('utf8')
 			escaped_title = urllib.quote(title.replace(' ','_'), safe="") # force / to be quoted
-			print '<tr><td>%d</td><td>%s <a href="http://%s.wikipedia.org/wiki/%s" target="view">[now]</a>' % (lineno, title, lang, escaped_title),
+			print '<tr><td>%d</td><td><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s</a>' % (lineno, lang, escaped_title, title),
 
 			if date:
-				oldid = str(wikipydia.query_revid_by_date(title, lang, date))
-				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?title=' + escaped_title + '&oldid=' + oldid + '" target="viewthen">[then]</a>',
-				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?title=' + escaped_title + '&diff=cur&oldid=' + oldid + '" target="viewdiff">[diff]</a>'
+				thenid = str(wikipydia.query_revid_by_date_fallback(title, lang, date))
+				priorid = str(wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15)))
+				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + thenid + '" target="viewthen">[then]</a>',
+				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + priorid + '" target="viewprior">[prior]</a>',
+				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?diff=' + thenid + '&oldid=' + priorid + '" target="viewdiff">[diff]</a>'
 			if lang != 'en':
 				print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fwiki%2F' + escaped_title + '" target="translate">[now:translate]</a>',
 				if date:
-					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?title=' + escaped_title + '&oldid=' + oldid + '" target="translatethen">[then:translate]</a>',
+					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + thenid + '" target="translatethen">[then:translate]</a>',
+					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + priorid + '" target="translateprior">[prior:translate]</a>',
+					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?diff=' + thenid + '&oldid=' + priorid + '" target="translatediff">[diff:translate]</a>',
 			if pageviews:
 				print "</td><td>%d" % (pageviews),
 			print "</td></tr>";

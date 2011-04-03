@@ -2,6 +2,11 @@ Overview
 ========
 Scripts for processing SERIF output files to describe events.
 
+temporary files:
+	foo: 2009-01-27 Barack Obama
+	bar: 2009-05-12 Eminem
+	baz: 2009-10-12 Brett Favre
+
 serif.py
 --------
 	The main module for processing SERIF output files.
