@@ -43,7 +43,7 @@ def convert_topics(filename, lang):
 				continue
 			title = wikipydia.query_redirects(title, lang)
 			title = title.encode('utf8')
-			escaped_title = urllib.quote(title.replace(' ','_'), safe="") # force / to be quoted
+			escaped_title = urllib.quote(title.replace(' ','_'), safe="%") # force / to be quoted and % not to be quoted
 			print '<tr><td>%d</td><td><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s</a>' % (lineno, lang, escaped_title, title),
 
 			if date:

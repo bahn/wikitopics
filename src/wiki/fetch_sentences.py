@@ -87,7 +87,7 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 		# substitute angle brackets with html-like character encodings
 		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
 		sentences.insert(0, org_title)
-		org_title = urllib.quote(org_title.replace(' ','_').encode('utf8'), safe="") # force / to be quoted
+		org_title = urllib.quote(org_title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
 		output_filename = os.path.join(output_dir, org_title + '.sentences')
 		output = write_lines_to_file(output_filename, sentences)
 
@@ -114,7 +114,7 @@ if __name__=='__main__':
 
 	if os.path.isfile(sys.argv[1]):
 		topics = read_lines_from_file(sys.argv[1])
-		topic_line_re1 = re.compile("^([^ ]+) [0-9]+$")
+		topic_line_re1 = re.compile("^(.+) [0-9]+$")
 		topic_line_re2 = re.compile("^([^\t]+)\t[0-9]+$")
 		for i, topic in enumerate(topics):
 			m = topic_line_re1.match(topic)
