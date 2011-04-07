@@ -1,12 +1,13 @@
 #!/usr/bin/env python
-#
-# retrieve_year_events.py
-# -----------------------
-# Retrieves all current events for a specific year.
-# The events are written into a file for each day of that year.
-#
-# You should manually edit the year into something.
-# Currently, the year is set to 2009 so that all the current events of year 2009 are retrieved by default.
+"""
+fetch_events.py
+
+Retrieves all current events for a specific year.
+The events are written into a file for each day of that year.
+
+You should manually edit the year into something.
+Currently, the year is set to 2009 so that all the current events of year 2009 are retrieved by default.
+"""
 import sys
 import simplejson
 import time
@@ -14,8 +15,6 @@ import datetime
 import os
 from exceptions import ValueError
 import utils
-
-sys.path.append('/home/bahn/work/wikipydia')
 import wikipydia
 
 DRYRUN = False

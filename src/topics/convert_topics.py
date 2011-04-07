@@ -4,11 +4,7 @@ import re
 import datetime
 import urllib
 import os
-try:
-	import wikipydia
-except ImportError:
-	sys.path.append('/home/bahn/work/wikipydia')
-	import wikipydia
+import wikipydia
 
 def convert_topics(filename, lang):
 	date = None
