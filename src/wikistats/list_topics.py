@@ -14,10 +14,9 @@ import gzip
 import urllib
 from collections import deque
 from operator import itemgetter
+import wikipydia
 sys.path.append("/mnt/data/wikitopics/src")
 import wiki.utils
-sys.path.append("/home/bahn/work/wikipydia")
-import wikipydia
 
 def read_wikistats(lang, filename):
 	pagecounts = {}

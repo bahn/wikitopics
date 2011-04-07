@@ -26,14 +26,8 @@ import re
 import os
 import utils
 import urllib
-try:
-	import wikipydia
-	import wpTextExtractor
-except:
-	sys.path.append('/home/bahn/work/wikipydia')
-	sys.path.append('/home/bahn/work/wpTextExtractor')
-	import wikipydia
-	import wpTextExtractor
+import wikipydia
+import wpTextExtractor
 
 def read_lines_from_file(filename, encoding='utf8'):
 	"""																													   
