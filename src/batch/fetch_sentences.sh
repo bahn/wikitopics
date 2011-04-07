@@ -1,5 +1,12 @@
 #!/bin/bash
+#$ -N fetch_sent
+#$ -S /bin/bash
+#$ -j y
+#$ -cwd
+#$ -V
 # Filter non-sentences
+
+echo "$0 $*" >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
@@ -61,7 +68,7 @@ for FILE in $TOPIC_DIR/$LLANG/*/*; do
 	fi
 
 	YEAR="${BASENAME:0:4}"
-	OUTPUT_DIR="$ARTICLE_DIR/$LLANG/$YEAR"
+	OUTPUT_DIR="$ARTICLE_DIR/$LLANG/$YEAR/$BASENAME"
 	mkdir -p "$OUTPUT_DIR"
 	if [ $DRYRUN ]; then
 		echo "$SCRIPT -l $LLANG -d $BASENAME -o $OUTPUT_DIR $FILE"

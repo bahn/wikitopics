@@ -1,5 +1,12 @@
 #!/bin/bash
+#$ -N filt_sent
+#$ -S /bin/bash
+#$ -j y
+#$ -cwd
+#$ -V
 # Filter non-sentences
+
+echo "$0 $*" >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
@@ -39,7 +46,7 @@ if [ ! -d "$ARTICLE_DIR/$LLANG" ]; then
 	exit 1
 fi
 
-for DIR in $ARTICLE_DIR/$LLANG/*; do
+for DIR in $ARTICLE_DIR/$LLANG/*/*; do
 	if [ ! -d "$DIR" ]; then # such directory not found
 		continue
 	fi
@@ -52,13 +59,14 @@ for DIR in $ARTICLE_DIR/$LLANG/*; do
 		continue
 	fi
 
+	YEAR=${BASEDIR:0:4}
 	for FILE in $DIR/*; do
 		if [ -f $FILE ]; then
 			BASENAME=`basename $FILE`
 			if [ $VERBOSE ]; then
 				echo "$FILE" >&2
 			fi
-			OUTPUT_DIR="$SENTENCE_DIR/$LLANG/$BASEDIR"
+			OUTPUT_DIR="$SENTENCE_DIR/$LLANG/$YEAR/$BASEDIR"
 			mkdir -p "$OUTPUT_DIR"
 			echo $BASENAME | sed -e 's/sentences$//' | sed -e 's/_/ /g' | perl -e 'use URI::Escape; print uri_unescape(<STDIN>);' > "$OUTPUT_DIR/$BASENAME"
 			cat $FILE | perl -ne "if (/[\.\,\'\"\!\?\:\;][\)]?$/) { print }" >> "$OUTPUT_DIR/$BASENAME"
