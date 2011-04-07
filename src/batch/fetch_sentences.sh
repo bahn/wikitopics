@@ -29,10 +29,19 @@ fi
 # to avoid using LANG, which is used by Perl
 LLANG=$1
 START_DATE=`date --date "$2" +"%Y-%m-%d"`
+if [ $? -ne 0 ]; then
+	echo "error using date... fallback to using plain text" >&2
+	START_DATE=$2
+fi
+
 if [ "$3" == "" ]; then
 	END_DATE="$START_DATE"
 else
-	END_DATE=`date --date "$3" +"%Y-%m-%d"`
+	END_DATE=`date --date "$3" +"%y-%m-%d"`
+	if [ $? -ne 0 ]; then
+		echo "error using date... fallback to using plain text" >&2
+		END_DATE=$3
+	fi
 fi
 
 TOPIC_DIR="$WIKITOPICS/data/topics"
