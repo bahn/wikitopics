@@ -37,7 +37,7 @@ def write_lines_to_file(output_filename, lines):
 	output_file.close()
 	return lines
 
-def fetch_articles_on_date(topics, date, lang, output_dir):
+def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun):
 	if os.path.exists(output_dir):
 		if not os.path.isdir(output_dir):
 			sys.stderr.write(output_dir + " is not a directory\n")
@@ -45,12 +45,23 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 	else:
 		os.makedirs(output_dir)
 
+	mark = {}
+	success = 0
 	for article in topics:
+		if success >= upperlimit:
+			break
 		title = article
 		if not wikipydia.query_exists(title, lang):
 			continue
 		title = wikipydia.query_redirects(title, lang)
-		org_title = title
+		org_title = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
+		if org_title in mark:
+			continue
+		mark[org_title] = True
+		if dryrun:
+			print org_title
+			success += 1
+			continue
 		revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction="older")
 		while not revid:
 			# the page was moved later
@@ -65,20 +76,22 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 		wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
 		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
 		# substitute angle brackets with html-like character encodings
-		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
-		#sentences.insert(0, org_title)
-		org_title = urllib.quote(org_title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
+		#sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
+		#sentences.insert(0, urllib.unquote(org_title.replace('_',' ')) + '.')
 		output_filename = os.path.join(output_dir, org_title + '.article')
 		output = write_lines_to_file(output_filename, sentences)
 		output_filename = os.path.join(output_dir, org_title + '.tags')
 		output = write_lines_to_file(output_filename, tags)
 		output_filename = os.path.join(output_dir, org_title + '.sentences')
 		output = write_lines_to_file(output_filename, [sent for sent, tag in zip(sentences, tags) if tag == 'Sentence' or tag == 'LastSentence'])
+		success += 1
 
 if __name__=='__main__':
 	lang = 'en'
 	date = datetime.date.today()
 	output_dir = '.'
+	upperlimit = 100
+	dryrun = False
 	while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
 		if len(sys.argv) > 2 and sys.argv[1] == '-l':
 			lang = sys.argv[2]
@@ -89,11 +102,17 @@ if __name__=='__main__':
 		elif len(sys.argv) > 2 and sys.argv[1] == '-o':
 			output_dir = sys.argv[2]
 			sys.argv[1:3] = []
+		elif len(sys.argv) > 2 and sys.argv[1] == '-u':
+			upperlimit = int(sys.argv[2])
+			sys.argv[1:3] = []
+		elif sys.argv[1] == '--dry-run':
+			dryrun = True
+			sys.argv[1:2] = []
 		else:
 			sys.stderr.write("Unknown option: %s\n" % (sys.argv[1]))
 			sys.exit(1)
 	if len(sys.argv) < 2:
-		sys.stderr.write('Usage: ' + sys.argv[0] + ' [-l language] [-d date] [-o output_dir] article_list\n')
+		sys.stderr.write('Usage: ' + sys.argv[0] + ' [--dry-run] [-u upper limit] [-l language] [-d date] [-o output_dir] article_list\n')
 		sys.exit(1)
 
 	if os.path.isfile(sys.argv[1]):
@@ -108,4 +127,4 @@ if __name__=='__main__':
 	else:
 		sys.stderr.write(sys.argv[1] + ' file not found. looking for Wikipedia page named ' + sys.argv[1] + '...\n')
 		topics = [sys.argv[1]]
-	fetch_articles_on_date(topics, date, lang, output_dir)
+	fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun)

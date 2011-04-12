@@ -24,7 +24,7 @@ if [ $# -lt 1 -o $# -gt 3 ]; then
 fi
 
 # to avoid using LANG, which is used by Perl
-LLANG=$1
+LANG_OPTION=$1
 if [ "$2" != "" ]; then
 	START_DATE=`date --date "$2" +"%Y-%m-%d"`
 	if [ $? -ne 0 ]; then
@@ -48,14 +48,14 @@ else
 fi
 
 ARTICLE_DIR="$WIKITOPICS/data/articles"
-SENTENCE_DIR="$WIKITOPICS/data/sentences"
+SENTENCE_DIR="$WIKITOPICS/data/serif/input"
 
-if [ ! -d "$ARTICLE_DIR/$LLANG" ]; then
-	echo "input directory not found: $ARTICLE_DIR/$LLANG" >&2
+if [ ! -d "$ARTICLE_DIR/$LANG_OPTION" ]; then
+	echo "input directory not found: $ARTICLE_DIR/$LANG_OPTION" >&2
 	exit 1
 fi
 
-for DIR in $ARTICLE_DIR/$LLANG/*/*; do
+for DIR in $ARTICLE_DIR/$LANG_OPTION/*/*; do
 	if [ ! -d "$DIR" ]; then # such directory not found
 		continue
 	fi
@@ -75,7 +75,7 @@ for DIR in $ARTICLE_DIR/$LLANG/*/*; do
 			if [ $VERBOSE ]; then
 				echo "$FILE" >&2
 			fi
-			OUTPUT_DIR="$SENTENCE_DIR/$LLANG/$YEAR/$BASEDIR"
+			OUTPUT_DIR="$SENTENCE_DIR/$LANG_OPTION/$YEAR/$BASEDIR"
 			mkdir -p "$OUTPUT_DIR"
 			echo $BASENAME | sed -e 's/sentences$//' | sed -e 's/_/ /g' | perl -e 'use URI::Escape; print uri_unescape(<STDIN>);' > "$OUTPUT_DIR/$BASENAME"
 			cat $FILE | perl -ne "if (/[\.\,\'\"\!\?\:\;][\)]?$/) { print }" >> "$OUTPUT_DIR/$BASENAME"

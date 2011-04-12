@@ -34,7 +34,7 @@ else
 	END_DATE="9999-99-99"
 fi
 
-SENTENCE_DIR="$WIKITOPICS/data/sentences"
+SENTENCE_DIR="$WIKITOPICS/data/serif/input"
 SERIF_DIR="$WIKITOPICS/data/serif"
 
 

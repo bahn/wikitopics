@@ -65,6 +65,7 @@ def get_topics(old_sum, new_sum, limit, lang):
 		if diff > 0:
 			stat[urllib.unquote(title)] = diff
 	result = sorted(stat.items(), key=itemgetter(1), reverse=True)
+	mark = {}
 	i = 0
 	while i < len(result) and i < limit:
 		title = result[i][0]
@@ -77,8 +78,11 @@ def get_topics(old_sum, new_sum, limit, lang):
 		if title not in exists:
 			del result[i]
 		else:
-			result[i] = (redirects[title], pageviews)
-			i += 1
+			title = redirects[title]
+			if title not in mark:
+				mark[title] = True
+				result[i] = (title, pageviews)
+				i += 1
 	if len(result) > limit:
 		result[limit:] = []
 	return result
