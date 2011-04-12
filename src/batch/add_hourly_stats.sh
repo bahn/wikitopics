@@ -4,7 +4,6 @@
 #$ -j y
 #$ -cwd
 #$ -V
-# memory requirements=6G
 echo add_hourly_stats.sh $* >&2
 
 # check environment variables

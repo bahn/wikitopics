@@ -12,6 +12,11 @@ if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1
 fi
+REDIR_SCRIPT="$WIKITOPICS/src/wikistats/redirect_stats.py"
+if [ ! -f "$REDIR_SCRIPT" ]; then
+	echo "$REDIR_SCRIPT not found" >&2
+	exit 1
+fi
 
 # check the command-line options
 if [ "$1" == "--dry-run" ]; then
@@ -46,7 +51,6 @@ fi
 CWD=`pwd`
 
 # get full path for directories
-REDIR_SCRIPT="$WIKITOPICS/src/wikistats/redirect_stats.py"
 if [ ! -e $SRC_DIR ]; then
     echo "$SRC_DIR not found" >&2
     exit 1
