@@ -4,10 +4,10 @@
 #$ -j y
 #$ -cwd
 #$ -V
-# Filter non-sentences
+# fetch_sentences.sh
+echo "fetch_sentences.sh $*" >&2
 
-echo "$0 $*" >&2
-
+# check environment variables
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1
