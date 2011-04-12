@@ -200,7 +200,7 @@ hand-curated articles \\
 
 Clustering plays a central role to identify current events; a group of coherently related articles corresponds to a current event. Clusters, in general, may have hierarchies and an element may be a member of multiple clusters. Whereas Wikipedia's current events are hierarchically compiled into different levels of events, we focus on flat clustering, leaving hierarchical clustering as future work, but allow multiple memberships. In addition to clustering using Wikipedia's inter-page hyperlink structure, we experimented with two families of clustering algorithms pertaining to topic models: K-means clustering in vector space model and latent Dirichlet allocation (LDA) probabilistic topic model. We used the Mallet software \cite{McCallumMALLET} to run the topic models. The latest revision of each article as of the day on which WikiTopics selected the article was retrieved, with unnecessary HTML tags and Wiki templates stripped with mwlib\footnote{http://code.pediapress.com/wiki/wiki/mwlib} and sentences split with NLTK \cite{Loper02NLTK}. Normalization, tokenization, and stop words removal were performed. The unigram (bag-of-words) model was used and the number of clusters/topics $k$ was set to $50$, which is half the number of articles. For K-means, the common settings were used: tf and tf-idf weighting and cosine similarity \cite{Allan:00}. For LDA, we chose the most probable topic for each article as the cluster ID.
 %%% clustering with link structure
-Two different clustering schemes make use of the inter-page hyperlink structure: ConnComp and OneHop.  In these schemes, the link structure is treated as a graph, in which each page corresponds to a vertice and each link to an undirected edge. ConnComp groups a set of articlces in each connected component together.  OneHop chooses an article and groups a set of articles within one hop away following links, where the number of resulting clusters depends on the order in which you choose an article.  To find the minimum or maximum number of such clusters would be computationally expensive.  Instead of attempting to find the optimal number of clusters, we take a greedy approach and iteratively create clusters that maximize the central node connectivity, stopping when all nodes are in at least one cluster.\footnote{This allows for singleton clusters.}
+Two different clustering schemes make use of the inter-page hyperlink structure: ConnComp and OneHop.  In these schemes, the link structure is treated as a graph, in which each page corresponds to a vertice and each link to an undirected edge. ConnComp groups a set of articles in each connected component together.  OneHop chooses an article and groups a set of articles within one hop away following links, where the number of resulting clusters depends on the order in which you choose an article.  To find the minimum or maximum number of such clusters would be computationally expensive.  Instead of attempting to find the optimal number of clusters, we take a greedy approach and iteratively create clusters that maximize the central node connectivity, stopping when all nodes are in at least one cluster.\footnote{This allows for singleton clusters.}
 
 %%% evaluation dataset and the metric
 Three annotators manually clustered WikiTopics articles for five randomly selected days.  The three manual clusters were evaluated against each other to measure inter-annotator agreement, using the multiplicity B$^3$ metric \cite{amigo09}.  Table~\ref{tab:clustering-results} shows the results.
@@ -322,7 +322,7 @@ As the third scheme, we picked the sentence with the most recent date among thos
 {\small With his inauguration as President of the United States, Obama became the first African American to hold the office and the first President born in Hawaii.:} \\
 {\small Official events were held in Washington, D.C. from January 18 to 21, 2009, including the We Are One: The Obama Inaugural Celebration at the Lincoln Memorial, a day of service on the federal observance of the Martin Luther King, Jr. Day, a "Kids' Inaugural: We Are the Future" concert event at the Verizon Center, the inaugural ceremony at the U.S. Capitol, an inaugural luncheon at National Statuary Hall, a parade along Pennsylvania Avenue, a series of inaugural balls at the Washington Convention Center and other locations, a private White House gala and an inaugural prayer service at the Washington National Cathedral.:} \\
 \textbf{\small First:} {\small The inauguration of Barack Obama as the forty-fourth President of the United States took place on January 20, 2009.} \\
-\textbf{\small Recent:} {\small On January 22, 2009, a spokesperson for the Joint Committee on Inaugural Ceremonies also announced that holders of blue, purple and silver tickets who were unable to enter the Cap itol grounds to view the inaugural ceremony would receive commemorative items.} \\
+\textbf{\small Recent:} {\small On January 22, 2009, a spokesperson for the Joint Committee on Inaugural Ceremonies also announced that holders of blue, purple and silver tickets who were unable to enter the Capitol grounds to view the inaugural ceremony would receive commemorative items.} \\
 \textbf{\small Self:} {\small On January 21, 2009, President Obama, First Lady Michelle Obama, Vice President Biden and Dr. Jill Biden attended an inaugural prayer service at the Washington National Cathedral.} \\
 
 \underline{2009-02-10: \war{February 2009 Great Britain and Ireland snowfall}}
@@ -358,25 +358,17 @@ As the third scheme, we picked the sentence with the most recent date among thos
 After selecting a sentence for each cluster, we substitute personal pronouns in the sentence with their proper names.  This step enhances readability of the sentence, which often refers to people by a pronoun such as ``he'', ``his'', ``she'', or ``her'.  The examples of substituted proper names appear in Figure~\ref{fig:pronoun-replacement} in bold face. The Serif system classifies which entity mentions are proper names, but choosing the best reference for a person is not a trivial task: proper names may vary from \textit{John} to \textit{John Kennedy} to \textit{John Fitzgerald ``Jack'' Kennedy}.  We choose the most frequent proper name.
 
 \begin{figure}
-\underline{2009-01-27: \war{Barack Obama}}
-\vspace{1pt}
-
+\underline{2009-01-27: \war{Barack Obama}} \\
 \textbf{\small Before:} {\small He was inaugurated as President on January 20, 2009.} \\
 \textbf{\small After:} {\small \underline{Obama} was inaugurated as President on January 20, 2009.} \\
 \textbf{\small Coref:} {\small \{Barack Obama, Obama, Barack Obama, Sr., Barack Obama as the forty-fourth President, Crain's Chicago Business naming Obama, Michelle Obama\}} \\
 
-\vspace{6pt}
-\underline{2009-05-12: \war{Eminem}}
-\vspace{1pt}
-
+\underline{2009-05-12: \war{Eminem}} \\
 \textbf{\small Before:} {\small He is planning on releasing his first album since 2004, Relapse, on May 15, 2009.} \\
 \textbf{\small After:} {\small \underline{Eminem} is planning on releasing his first album since 2004, Relapse, on May 15, 2009.} \\
 \textbf{\small Coref:} {\small \{Eminem\}} \\
 
-\vspace{6pt}
-\underline{2009-10-12: \war{Brett Favre}}
-\vspace{1pt}
-
+\underline{2009-10-12: \war{Brett Favre}} \\
 \textbf{\small Before:} {\small He came out of retirement for the second time and signed with the Minnesota Vikings on August 18, 2009.} \\
 \textbf{\small After:} {\small \underline{Favre} came out of retirement for the second time and signed with the Minnesota Vikings on August 18, 2009.} \\
 \textbf{\small Coref:} {\small \{Brett Favre, Favre, Bonita Favre, Brett's father Irvin Favre, Deanna Favre, Favre (ISBN 978-1590710364) which discusses their personal family and Green Bay Packers family\}} \\
@@ -448,7 +440,7 @@ in text generation, for improved readability. As future work,
 sentence compression, fusion, and paraphrasing could be
 applied to selected sentences with various strategies to more
 succinctly summarize the current events.  Our approach is language
-indepedent, and may be applied to multi-lingual current event
+independent, and may be applied to multi-lingual current event
 detection, exploiting further the online encyclopedia's
 cross-language references. Finally, we plan to leverage
 social media such as Twitter as an additional signal, especially in
@@ -459,7 +451,7 @@ Wikipedia article of interest.
 
 %The first author was supported by Samsung Scholarship.
 
-%We appreciate Wikipedians Domas Mituzas and Fr\'{e}d\'{e}ric Schu\"{u}tz for making the pageviews statistics avaialble and Peter Skomoroch for prividing Trending Topics and answering questions.
+%We appreciate Wikipedians Domas Mituzas and Fr\'{e}d\'{e}ric Schu\"{u}tz for making the pageviews statistics available and Peter Skomoroch for providing Trending Topics and answering questions.
 
 \bibliography{ahn}
 \bibliographystyle{acl}
