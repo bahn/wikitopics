@@ -14,8 +14,6 @@ from xml.dom.minidom import parse
 import serif
 import datetime
 
-
-
 def read_clusters(file):
 	clusters = []
 	cluster = []

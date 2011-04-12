@@ -29,7 +29,7 @@ import datetime
 
 if __name__=='__main__':
 	if len(sys.argv) != 4:
-		print "Usage: pick_self.py date sgm apf"
+		print "Usage: pick_self.py date text apf"
 		sys.exit(1)
 	date = serif.convert_to_date(sys.argv[1])
 	text = serif.read_sgm(sys.argv[2])
@@ -40,5 +40,5 @@ if __name__=='__main__':
 	if btimex:
 		start, end = text.expand(btimex.start, btimex.end)
 		line = serif.resolveCoref(text, data, start, end)
-		print line.encode('utf-8')
+		print text.find(start), line.encode('utf-8')
 
