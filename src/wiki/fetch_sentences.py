@@ -3,23 +3,9 @@
 # fetch_sentences.py
 # ------------------
 # Fetch wikipedia articles in plain text on a specified date.
-# It needs wiktrans to have been installed because it heavily uses
-# its sentence splitting module.
-#
-# After you activate the virtual environments for wikitrans (e.g. by workon wt.dev)
-# you need to set the environment variable PYTHONPATH to the root directory
-# of the wikitrans project.
-# For example, the command for my environment is as below.
-# export PYTHONPATH=/Users/bahn/Desktop/wikitrans-system/wikitrans/wt-app/
-#
-# The above path is for this module to import the manage module that resides
-# in the manage.py file under the specified directory.
-# The manage module in turn sets all necessary environment variables.
 
-#import manage
 import sys
 import datetime
-#from wt_articles.splitting import determine_splitter
 from splitting import determine_splitter
 import codecs
 import re
@@ -82,8 +68,12 @@ def fetch_articles_on_date(topics, date, lang, output_dir):
 		sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
 		#sentences.insert(0, org_title)
 		org_title = urllib.quote(org_title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
-		output_filename = os.path.join(output_dir, org_title + '.sentences')
+		output_filename = os.path.join(output_dir, org_title + '.article')
 		output = write_lines_to_file(output_filename, sentences)
+		output_filename = os.path.join(output_dir, org_title + '.tags')
+		output = write_lines_to_file(output_filename, tags)
+		output_filename = os.path.join(output_dir, org_title + '.sentences')
+		output = write_lines_to_file(output_filename, [sent for sent, tag in zip(sentences, tags) if tag == 'Sentence' or tag == 'LastSentence'])
 
 if __name__=='__main__':
 	lang = 'en'

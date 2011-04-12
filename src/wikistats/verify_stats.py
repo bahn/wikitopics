@@ -11,7 +11,10 @@ import gzip
 import datetime
 
 def read_wikistats(filename):
-    file = gzip.open(filename, 'rb')
+	if filename.endswith(".gz"):
+		file = gzip.open(filename, 'rb')
+	else
+		file = open(filename, 'rb')
     #unicodeerror = 0
     try:
         for i, line in enumerate(file):
