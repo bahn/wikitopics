@@ -69,7 +69,7 @@ for DIR in $ARTICLE_DIR/$LLANG/*/*; do
 	fi
 
 	YEAR=${BASEDIR:0:4}
-	for FILE in $DIR/*; do
+	for FILE in $DIR/*.sentences; do
 		if [ -f $FILE ]; then
 			BASENAME=`basename $FILE`
 			if [ $VERBOSE ]; then
