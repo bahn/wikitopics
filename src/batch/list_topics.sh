@@ -16,8 +16,12 @@ if [ "$WIKISTATS" == "" ]; then
 	echo "Set the WIKISTATS environment variable first." >&2
 	exit 1
 fi
-if [ ! -f "$WIKITOPICS/src/topics/convert_topics.py" ]; then
-	echo "The $WIKITOPICS/src/topics/convert_topics.py script not found" >&2
+if [ ! -f "$WIKITOPICS/src/wiki/list_topics.py" ]; then
+	echo "The $WIKITOPICS/src/wiki/list_topics.py script not found" >&2
+	exit 1
+fi
+if [ ! -f "$WIKITOPICS/src/batch/convert_topics.sh" ]; then
+	echo "The $WIKITOPICS/src/batch/convert_topics.sh script not found" >&2
 	exit 1
 fi
 
@@ -52,8 +56,8 @@ fi
 
 # don't use LANG or LANGUAGE -- they are used by Perl
 LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
-OUTPUT_DIR="/mnt/data/wikitopics/data/wikistats/process/$DATA_SET/redir/daily"
-TOPIC_DIR="/mnt/data/wikitopics/data/topics/$DATA_SET"
+OUTPUT_DIR="$WIKISTATS/process/$DATA_SET/redir/daily"
+TOPIC_DIR="$WIKITOPICS/data/topics/$DATA_SET"
 
-$WIKITOPICS/src/wikistats/list_topics.py $WINDOW_SIZE $LIST_SIZE $CUT_OFF $LANG_OPTION $OUTPUT_DIR $TOPIC_DIR $START_DATE $END_DATE
+$WIKITOPICS/src/wiki/list_topics.py $WINDOW_SIZE $LIST_SIZE $CUT_OFF $LANG_OPTION $OUTPUT_DIR $TOPIC_DIR $START_DATE $END_DATE
 $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE

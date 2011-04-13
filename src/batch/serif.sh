@@ -3,8 +3,7 @@
 #$ -j y
 #$ -cwd
 #$ -V
-
-echo "$0 $*" >&2
+echo serif.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2

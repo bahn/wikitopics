@@ -12,7 +12,7 @@ if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1
 fi
-REDIR_SCRIPT="$WIKITOPICS/src/wikistats/redirect_stats.py"
+REDIR_SCRIPT="$WIKITOPICS/src/wiki/redirect_stats.py"
 if [ ! -f "$REDIR_SCRIPT" ]; then
 	echo "$REDIR_SCRIPT not found" >&2
 	exit 1

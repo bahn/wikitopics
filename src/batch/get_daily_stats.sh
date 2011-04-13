@@ -91,7 +91,7 @@ else
 				echo "failed to download $FILE" >&2
 			else
 				COUNT=$((COUNT+1))
-				$WIKITOPICS/src/wikistats/verify_stats.py $BASENAME > /dev/null
+				$WIKITOPICS/src/wiki/verify_stats.py $BASENAME > /dev/null
 				if [ $? -ne 0 ]; then
 					echo "$FILE failed verification." >&2
 				fi
@@ -136,7 +136,7 @@ else
 				echo "failed to download $FILE" >&2
 			else
 				COUNT=$((COUNT+1))
-				$WIKITOPICS/src/wikistats/verify_stats.py $BASENAME > /dev/null
+				$WIKITOPICS/src/wiki/verify_stats.py $BASENAME > /dev/null
 				if [ $? -ne 0 ]; then
 					echo "$FILE failed verification." >&2
 				fi

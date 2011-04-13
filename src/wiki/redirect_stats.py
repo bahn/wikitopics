@@ -11,9 +11,7 @@ Print only existing pages
 import sys
 import urllib
 import gzip
-
-sys.path.append("/mnt/data/wikitopics/src")
-import wiki.utils
+import utils
 
 pagecounts = {}
 
@@ -27,11 +25,11 @@ def read_wikistats(lang, f):
                 field = line.split()
                 if lang == field[0]:
                     page = field[1]
-                    if wiki.utils.is_valid_title(page) and wiki.utils.is_title_in_ns0(page):
+                    if utils.is_valid_title(page) and wiki.utils.is_title_in_ns0(page):
                         if not REDIRECTS:
                             print line,
                         else:
-                            title = wiki.utils.normalize_title(page)
+                            title = utils.normalize_title(page)
                             if title:
                                 pagecounts[title] = pagecounts.get(title, 0) + int(field[2])
             except UnicodeError:
@@ -67,9 +65,9 @@ if __name__=="__main__":
         sys.exit(1)
 
     if REDIRECTS:
-        wiki.utils.read_redirects(REDIRECTS)
+        utils.read_redirects(REDIRECTS)
     if ALL_TITLES:
-        wiki.utils.read_all_titles_in_ns0(ALL_TITLES)
+        utils.read_all_titles_in_ns0(ALL_TITLES)
 
     if len(sys.argv) == 1:
         read_wikistats(LANG, sys.stdin)

@@ -100,7 +100,7 @@ while [ ! $DATE \> $END_DATE ]; do
             echo "> ${TRG_PREFIX}pagecounts-$DATE.gz"
         else
 			mkdir -p $TRG_PREFIX
-			$WIKITOPICS/src/wikistats/add_stats.py $LANG_OPTION $FILTER $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
+			$WIKITOPICS/src/wiki/add_stats.py $LANG_OPTION $FILTER $FILES | gzip -c - > "${TRG_PREFIX}pagecounts-$DATE.gz"
         fi
     fi
     DATE=`date --date "$DATE 1 day" +"%Y%m%d"`

@@ -15,8 +15,7 @@ import urllib
 from collections import deque
 from operator import itemgetter
 import wikipydia
-sys.path.append("/mnt/data/wikitopics/src")
-import wiki.utils
+import utils
 
 def read_wikistats(lang, filename):
 	pagecounts = {}
@@ -32,8 +31,8 @@ def read_wikistats(lang, filename):
 				fields = line.strip().split()
 				if lang == fields[0]:
 					page = fields[1]
-					if wiki.utils.is_valid_title(page):
-						title = wiki.utils.normalize_title(page)
+					if utils.is_valid_title(page):
+						title = utils.normalize_title(page)
 						if int(fields[2]) > CUT_OFF:
 							pagecounts[title] = int(fields[2])
 			except (UnicodeError, IndexError):
@@ -169,6 +168,6 @@ if __name__ == '__main__':
 	LANG = sys.argv[1]
 	SRC_DIR = sys.argv[2]
 	TRG_DIR = sys.argv[3]
-	DATE_FROM = wiki.utils.convert_date(sys.argv[4])
-	DATE_UNTIL = wiki.utils.convert_date(sys.argv[5])
+	DATE_FROM = utils.convert_date(sys.argv[4])
+	DATE_UNTIL = utils.convert_date(sys.argv[5])
 	list_topics(LANG, WINDOW_SIZE, SRC_DIR, TRG_DIR, DATE_FROM, DATE_UNTIL)

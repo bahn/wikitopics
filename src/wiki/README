@@ -1,3 +1,20 @@
+Scripts
+=======
+
+To sum the pagecounts:
+    add_stats.py
+	aggregate pagecounts.
+
+    verify_stats.py
+	verify pagecounts file
+
+To process redirection:
+    redirect_stats.py
+    Process redirect pages and/or filter out non-existing pages.
+    
+To generate the top viewed lists:
+    list_top_pages.py
+
 batch_fetch_sentences.sh
 ------------------------
 Call the fetch_sentences.py script repeatedly to retrieve all the 100 articles for all the five days.
