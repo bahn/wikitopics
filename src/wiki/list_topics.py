@@ -66,17 +66,19 @@ def get_topics(old_sum, new_sum, limit, lang):
 	result = sorted(stat.items(), key=itemgetter(1), reverse=True)
 	mark = {}
 	i = 0
+	use_wikipydia = False
 	while i < len(result) and i < limit:
 		title = result[i][0]
 		pageviews = result[i][1]
-		if title not in checked: # if the title is not checked, try to check
-			try:
-				if wikipydia.query_exists(title.decode('utf8'), lang):
-					exists[title] = True
-					redirects[title] = wikipydia.query_redirects(title.decode('utf8'), lang).encode('utf8').replace(' ','_')
-				checked[title] = True
-			except IOError:
-				pass # if wikipydia cannot acccess to Wikipedia, just pass
+		if use_wikipydia:
+			if title not in checked: # if the title is not checked, try to check
+				try:
+					if wikipydia.query_exists(title.decode('utf8'), lang):
+						exists[title] = True
+						redirects[title] = wikipydia.query_redirects(title.decode('utf8'), lang).encode('utf8').replace(' ','_')
+					checked[title] = True
+				except IOError:
+					pass # if wikipydia cannot acccess to Wikipedia, just pass
 		if title in checked and title not in exists:
 			del result[i]
 		else: # either title is not checked or title exists
