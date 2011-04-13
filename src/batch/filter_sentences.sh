@@ -4,22 +4,21 @@
 #$ -j y
 #$ -cwd
 #$ -V
-# Filter non-sentences
-
-echo "$0 $*" >&2
+echo filter_sentences.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1
 fi
 
+# check command-line options
 if [ "$1" == "-v" ]; then
 	VERBOSE=1
 	shift
 fi
 
 if [ $# -lt 1 -o $# -gt 3 ]; then
-	echo "USAGE: $0 LANGUAGE [START_DATE [END_DATE]]" >&2
+	echo "USAGE: $0 [-v] LANGUAGE [START_DATE [END_DATE]]" >&2
 	exit 1
 fi
 
@@ -35,7 +34,7 @@ if [ "$2" != "" ]; then
 	if [ "$3" == "" ]; then
 		END_DATE="$START_DATE"
 	else
-		END_DATE=`date --date "$3" +"%y-%m-%d"`
+		END_DATE=`date --date "$3" +"%Y-%m-%d"`
 		if [ $? -ne 0 ]; then
 			echo "error using date... fallback to using plain text" >&2
 			END_DATE=$3
