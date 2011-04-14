@@ -13,30 +13,21 @@ if [ "$WIKITOPICS" == "" ]; then
 fi
 
 # check the command-line options
-while [ "$1" == "--dry-run" -o "$1" == "-l" -o "$1" == "-f" ]; do
-    if [ "$1" == "--dry-run" ]; then
-        DRYRUN=1
-        shift
-    elif [ "$1" == "-l" ]; then
-        LANG_OPTION="$1 $2" # don't use LANG or LANGUAGE, which are used by Perl
-        shift; shift
-    elif [ "$1" == "-f" ]; then
-        FILTER="$1 $2"
-        shift; shift
-    fi
-done
-if [ $# -lt 3 -o $# -gt 4 ]; then
-    echo "Usage: $0 [--dry-run] [-l LANG] [-f FILTER] SRC_DIR TRG_DIR START_DATE [END_DATE]" >&2
+if [ "$1" == "--dry-run" ]; then
+	DRYRUN=1
+	shift
+fi
+if [ $# -lt 2 -o $# -gt 3 ]; then
+    echo "Usage: $0 [--dry-run] DATA_SET START_DATE [END_DATE]" >&2
     echo "Given: $0 $*" >&2
     exit 1
 fi
-SRC_DIR=$1
-TRG_DIR=$2
-START_DATE=`date --date "$3" +"%Y%m%d"`
-if [ "$4" == "" ]; then
+DATA_SET="$1"
+START_DATE=`date --date "$2" +"%Y%m%d"`
+if [ "$3" == "" ]; then
 	END_DATE=$START_DATE
 else
-	END_DATE=`date --date "$4" +"%Y%m%d"`
+	END_DATE=`date --date "$3" +"%Y%m%d"`
 fi
 if [ $START_DATE \> $END_DATE ]; then
     echo "$START_DATE > $END_DATE" >&2
@@ -46,6 +37,17 @@ fi
 if [ $DRYRUN ]; then
     echo "Running a dry run..."
 fi
+
+# don't use LANG or LANGUAGE -- they are used by Perl.
+LANG_OPTION="-l `echo $DATA_SET | sed -e 's/-.\+$//'`"
+if echo $DATA_SET | grep - > /dev/null; then
+	FILTER="-f `echo $DATA_SET | sed -e 's/^.\+-//'`"
+fi
+
+INPUT_DIR="$WIKISTATS/archive"
+OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
+SRC_DIR="$INPUT_DIR"
+TRG_DIR="$OUTPUT_DIR/daily"
 
 # save the current working directory
 CWD=`pwd`
