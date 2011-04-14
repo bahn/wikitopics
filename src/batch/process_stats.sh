@@ -49,8 +49,8 @@ fi
 INPUT_DIR="$WIKISTATS/archive"
 OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
 
-time $WIKITOPICS/src/batch/add_hourly_stats.sh -l $LANG_OPTION $FILTER $INPUT_DIR $OUTPUT_DIR/daily $START_DATE $END_DATE
+time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
 
 if [ "$REDIRECTS" != "" ]; then
-    time $WIKITOPICS/src/batch/redirect_stats.sh $LANG_OPTION $REDIRECTS $OUTPUT_DIR/daily $OUTPUT_DIR/redir/daily $START_DATE $END_DATE
+    time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
 fi
