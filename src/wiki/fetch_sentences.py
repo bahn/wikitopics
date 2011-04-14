@@ -83,7 +83,7 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun):
 		output_filename = os.path.join(output_dir, org_title + '.tags')
 		output = write_lines_to_file(output_filename, tags)
 		output_filename = os.path.join(output_dir, org_title + '.sentences')
-		output = write_lines_to_file(output_filename, [sent for sent, tag in zip(sentences, tags) if tag == 'Sentence' or tag == 'LastSentence'])
+		output = write_lines_to_file(output_filename, [sent for sent, tag in zip(sentences, tags) if tag != 'Section'])
 		success += 1
 
 if __name__=='__main__':

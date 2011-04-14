@@ -19,7 +19,7 @@ if [ $# -lt 1 ]; then
 	exit 1
 fi
 # to avoid using LANG, which is used by Perl
-LLANG=$1
+LANG_OPTION=$1
 if [ "$2" != "" ]; then
 	START_DATE=`date --date "$2" +"%Y-%m-%d"`
 	if [ "$3" == "" ]; then
@@ -37,12 +37,12 @@ SENTENCE_DIR="$WIKITOPICS/data/serif/input"
 SERIF_DIR="$WIKITOPICS/data/serif"
 
 
-if [ ! -d "$SENTENCE_DIR/$LLANG" ]; then
-	echo "input directory not found: $SENTENCE_DIR/$LLANG" >&2
+if [ ! -d "$SENTENCE_DIR/$LANG_OPTION" ]; then
+	echo "input directory not found: $SENTENCE_DIR/$LANG_OPTION" >&2
 	exit 1
 fi
 
-for DIR in $SENTENCE_DIR/$LLANG/*/*; do
+for DIR in $SENTENCE_DIR/$LANG_OPTION/*/*; do
 	if [ ! -d "$DIR" ]; then # such directory not found
 		continue
 	fi
@@ -56,7 +56,7 @@ for DIR in $SENTENCE_DIR/$LLANG/*/*; do
 	fi
 
 	YEAR=${BASEDIR:0:4}
-	OUTPUT_DIR="$SERIF_DIR/$LLANG/$YEAR/$BASEDIR"
+	OUTPUT_DIR="$SERIF_DIR/$LANG_OPTION/$YEAR/$BASEDIR"
 	mkdir -p "$OUTPUT_DIR"
 
 ### list the input files
