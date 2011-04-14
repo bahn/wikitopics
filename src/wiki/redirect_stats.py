@@ -25,7 +25,7 @@ def read_wikistats(lang, f):
                 field = line.split()
                 if lang == field[0]:
                     page = field[1]
-                    if utils.is_valid_title(page) and wiki.utils.is_title_in_ns0(page):
+                    if utils.is_valid_title(page) and utils.is_title_in_ns0(page):
                         if not REDIRECTS:
                             print line,
                         else:
