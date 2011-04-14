@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
+import java.net.URLDecoder;
 
 import cc.mallet.types.*;
 import cc.mallet.util.*;
@@ -49,6 +50,12 @@ public class ClusterFiles {
 			Matcher matcher = pattern.matcher(name);
 			if (matcher.find() && matcher.groupCount() == 1) {
 				name = matcher.group(1);
+			}
+			name = name.replaceAll("%25", "%");
+			try {
+				name = URLDecoder.decode(name, "UTF8");
+			} catch (java.io.UnsupportedEncodingException ex) {
+				System.err.println("java.io.UnsupportedEncodingException while decoding the file name " + name);
 			}
 		}
 
