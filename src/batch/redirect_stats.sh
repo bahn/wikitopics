@@ -23,7 +23,7 @@ if [ "$1" == "--dry-run" ]; then
     DRYRUN=1
     shift
 fi
-if [ $# -lt 2 -o $# -gt 3 ]; then
+if [ $# -lt 3 -o $# -gt 4 ]; then
     echo "Usage: $0 [--dry-run] DATA_SET REDIRECTS START_DATE [END_DATE]" >&2
     echo "Given: $0 $*" >&2
     exit 1
