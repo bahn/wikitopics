@@ -12,7 +12,7 @@ if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1
 fi
-REDIR_SCRIPT="$WIKITOPICS/src/wikistats/redirect_stats.py"
+REDIR_SCRIPT="$WIKITOPICS/src/wiki/redirect_stats.py"
 if [ ! -f "$REDIR_SCRIPT" ]; then
 	echo "$REDIR_SCRIPT not found" >&2
 	exit 1
@@ -23,8 +23,8 @@ if [ "$1" == "--dry-run" ]; then
     DRYRUN=1
     shift
 fi
-if [ $# -lt 5 -o $# -gt 6 ]; then
-    echo "Usage: $0 [--dry-run] LANG REDIRECTS SRC_DIR TRG_DIR START_DATE END_DATE" >&2
+if [ $# -lt 2 -o $# -gt 3 ]; then
+    echo "Usage: $0 [--dry-run] DATA_SET REDIRECTS START_DATE [END_DATE]" >&2
     echo "Given: $0 $*" >&2
     exit 1
 fi
@@ -32,20 +32,25 @@ if [ $DRYRUN ]; then
     echo "Running a dry run..."
 fi
 
-LANG_OPTION=$1 # don't use LANG or LANGUAGE, which are used by Perl
+DATA_SET="$1"
 REDIRECTS=$2
-SRC_DIR=$3
-TRG_DIR=$4
-START_DATE=`date --date "$5" +"%Y%m%d"`
-if [ "$6" == "" ]; then
+START_DATE=`date --date "$3" +"%Y%m%d"`
+if [ "$4" == "" ]; then
 	END_DATE=$START_DATE
 else
-	END_DATE=`date --date "$6" +"%Y%m%d"`
+	END_DATE=`date --date "$4" +"%Y%m%d"`
 fi
 if [ $START_DATE \> $END_DATE ]; then
     echo "$START_DATE > $END_DATE" >&2
     exit 1
 fi
+
+# don't use LANG or LANGUAGE -- they are used by Perl.
+LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
+INPUT_DIR="$WIKISTATS/archive"
+OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
+SRC_DIR="$OUTPUT_DIR/daily"
+TRG_DIR="$OUTPUT_DIR/redir/daily"
 
 # save the current working directory
 CWD=`pwd`

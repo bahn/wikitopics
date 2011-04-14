@@ -90,13 +90,14 @@ for INPUT_DIR in $INPUT_ROOT/*/*; do
 	for FILE in $INPUT_DIR/*.sentences; do
 		if [ -f $FILE ]; then
 			BASE_NAME=`basename $FILE`
-			OUTPUT_DIR="$OUTPUT_ROOT/$YEAR/$BASE_DIR"
+			APF_FILE="$APF_ROOT/$YEAR/$BASE_DIR/output/$BASE_NAME.apf"
+			OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$BASE_DIR/$BASE_NAME"
 			if [ $VERBOSE ]; then
-				echo "$SCRIPT $BASE_DIR $FILE $APF_ROOT/$YEAR/$BASE_DIR/$BASE_NAME > $OUTPUT_DIR/$BASE_NAME" >&2
+				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE" >&2
 			fi
-			mkdir -p "$OUTPUT_DIR"
+			mkdir -p `dirname $OUTPUT_FILE`
 			# here BASE_DIR is the date
-			$SCRIPT $BASE_DIR $FILE "$APF_ROOT/$YEAR/$BASE_DIR/$BASE_NAME" > $OUTPUT_DIR/$BASE_NAME
+			$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE
 		fi
 	done
 done

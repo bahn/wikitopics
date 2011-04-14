@@ -84,7 +84,7 @@ else
 				if [ ! -e "$ARCHIVE/$YEAR/$MONTH/$BASENAME" ]; then
 					mv $BASENAME $ARCHIVE/$YEAR/$MONTH
 				else
-					$WIKITOPICS/src/wikistats/verify_stats.py $BASENAME > /dev/null
+					$WIKITOPICS/src/wiki/verify_stats.py $BASENAME > /dev/null
 					if [ $? -ne 0 ]; then
 						echo "$FILE failed verification." >&2
 					fi

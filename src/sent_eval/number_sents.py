@@ -56,7 +56,7 @@ for file in sent_files:
 		line = sent.strip()
 		try:
 			i = lines.index(line)
-			lines_output.append('%d %s' % (i+1, sent))
+			lines_output.append('%d %s' % (i, sent))
 		except:
 			lines_output.append('-1 %s' % (sent))
 	f.close()
