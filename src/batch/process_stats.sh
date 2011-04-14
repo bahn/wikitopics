@@ -60,10 +60,15 @@ elif [ "$DATA_SET" == "en-10" ]; then
 	REDIRECTS="$WIKIDUMP/enwiki-20110115/redirects.txt"
 fi
 
+date >&2
 time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
 
 if [ "$REDIRECTS" != "" ]; then
+	date >&2
     time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
 fi
 
+date >&2
 time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
+
+date >&2

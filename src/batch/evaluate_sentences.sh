@@ -6,6 +6,7 @@
 #$ -V
 echo evaluate_sentence.sh $* >&2
 
+# check environment variables
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
 	exit 1

@@ -73,6 +73,10 @@ if [ ! -d "$INPUT_ROOT" ]; then
 	exit 1
 fi
 
+if [ $VERBOSE ]; then
+	echo "Script: $SCRIPT" >&2
+fi
+
 for INPUT_DIR in $INPUT_ROOT/*/*; do
 	if [ ! -d "$INPUT_DIR" ]; then # such directory not found
 		continue
@@ -93,7 +97,10 @@ for INPUT_DIR in $INPUT_ROOT/*/*; do
 			APF_FILE="$APF_ROOT/$YEAR/$BASE_DIR/output/$BASE_NAME.apf"
 			OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$BASE_DIR/$BASE_NAME"
 			if [ $VERBOSE ]; then
-				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE" >&2
+				echo "Date: $BASE_DIR" >&2
+				echo "Source: $FILE" >&2
+				echo "Serif: $APF_FILE" >&2
+				echo "Output: $OUTPUT_FILE" >&2
 			fi
 			mkdir -p `dirname $OUTPUT_FILE`
 			# here BASE_DIR is the date

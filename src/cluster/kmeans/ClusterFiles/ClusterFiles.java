@@ -10,7 +10,14 @@ import cc.mallet.cluster.Clustering;
 import cc.mallet.cluster.KMeans;
 import cc.mallet.pipe.iterator.FileIterator;
 
-public class ClusterFiles {
+class ArticleFileFilter implements FileFilter {
+	public boolean accept(File pathname) {
+		return (pathname.getName().endsWith(".article"));
+	}
+}
+
+public class ClusterFiles
+{
     static CommandOption.SpacedStrings classDirs =	new CommandOption.SpacedStrings
 	(ClusterFiles.class, "input", "DIR...", true, null,
 	 "The directories containing text files to be classified, one directory per class", null);
@@ -27,35 +34,25 @@ public class ClusterFiles {
 	(ClusterFiles.class, "metric", "[cosine|wsum|lm|kl]", false, "cosine",
 	 "The distance metric: cosine, weighted sum, language model, kl divergence, etc.", null);
 
-	static public String getPlainName(Instance instance) {
-		Pattern pattern = Pattern.compile("\\d+_\\d+_\\d+_\\d+_(.+)");
+	static public String decodeFilename(Instance instance) {
+		File file = (File)instance.getSource();
+		String name = file.getName();
 
-		String name = instance.getName().toString();
-		if (name.startsWith("file:")) {
-			// trim the beginning substring "file:"
-			File file = new File(name.substring(5));
-			
-			// take only the name part. remove the path.
-			name = file.getName();
-			
-			// trim the trailing extension
-			if (name.endsWith(".txt")) {
-				name = name.substring(0, name.length() - 4);
-			}
-			if (name.endsWith(".sentences")) {
-				name = name.substring(0, name.length() - 10);
-			}
-			
-			// trim the starting date and revid
-			Matcher matcher = pattern.matcher(name);
-			if (matcher.find() && matcher.groupCount() == 1) {
-				name = matcher.group(1);
-			}
-			name = name.replaceAll("%25", "%");
+		Pattern extension = Pattern.compile("(.*)\\.(txt|article)");
+		Matcher m = extension.matcher(name);
+		if (m.matches()) {
+			name = m.group(1);
+		}
+		
+		try {
+			name = URLDecoder.decode(name, "UTF8");
+		} catch (UnsupportedEncodingException ex) {
+			//System.err.println("UnsupportedEncodingException while decoding the file name " + name);
 			try {
-				name = URLDecoder.decode(name, "UTF8");
-			} catch (java.io.UnsupportedEncodingException ex) {
-				System.err.println("java.io.UnsupportedEncodingException while decoding the file name " + name);
+				name = URLDecoder.decode(name, "latin-1");
+			} catch (UnsupportedEncodingException e) {
+				// do nothing
+				//System.err.println("File " + name + " failed to decode using latin-1");
 			}
 		}
 
@@ -122,9 +119,13 @@ public class ClusterFiles {
 			}));
 
 		//instances.addThruPipe(new FileIterator("/Users/bahn/work/mallet/sample-data/web/en"));
-		for (String path: classDirs.value) {
-			instances.addThruPipe(new FileIterator(path, null, true)); // remove common prefix
+		File[] files = new File[classDirs.value.length];
+		for (int i = 0; i < classDirs.value.length; i++) {
+		//for (String path: classDirs.value) {
+			files[i] = new File(classDirs.value[i]);
 		}
+		instances.addThruPipe(new FileIterator(classDirs.value, new ArticleFileFilter()));
+		//, Pattern.compile("(.*)\\.article"), true)); // remove common prefix
 		System.out.println("# The number of instances: " + instances.size());
 		System.out.println("# The number of clusters: " + numClusters.value);
 		System.out.println("# Source directory: " + classDirs.value[0]);
@@ -221,12 +222,12 @@ public class ClusterFiles {
 		  		}
 		  	}
 			if (center != null) {
-				System.out.println(getPlainName(center));
+				System.out.println(decodeFilename(center));
 			}
 		  	
 			for (Instance instance: cluster) {
 				if (instance != center) {
-					System.out.println(getPlainName(instance));
+					System.out.println(decodeFilename(instance));
 				}
 			}
 

@@ -55,12 +55,14 @@ for DIR in $INPUT_ROOT/*/*; do
 	if [ $? -ne 0 ]; then # the directory's name is not a date
 		continue
 	fi
-	if [ "$START_DATE" \> "$BASEDIR" -o "$END_DATE" \< "$BASEDIR" ]; then # if the date falls out of the range
+	if [ "$START_DATE" \> "$DATE" -o "$END_DATE" \< "$DATE" ]; then # if the date falls out of the range
 		continue
 	fi
 
-	YEAR=${BASEDIR:0:4}
+	YEAR=${DATE:0:4}
 	OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$DATE.clusters"
-	mkdir -p `dirname OUTPUT_FILE`
+	echo "Input: $DIR" >&2
+	echo "Output: $OUTPUT_FILE" >&2
+	mkdir -p `dirname $OUTPUT_FILE`
 	java -cp $WIKITOPICS/src/cluster/kmeans/ClusterFiles:$MALLET/class:$MALLET/lib/mallet-deps.jar -Xmx2g ClusterFiles --k 50 --input $DIR > "$OUTPUT_FILE"
 done
