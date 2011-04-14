@@ -76,17 +76,12 @@ for INPUT_DIR in $INPUT_ROOT/*; do
 	fi
 
 	YEAR=${BASE_DIR:0:4}
-	for FILE in $INPUT_DIR/*.sentences; do
-		if [ -f $FILE ]; then
-			BASE_NAME=`basename $FILE`
-			SOURCE_FILE="$SOURCE_ROOT/$YEAR/$BASE_DIR/$BASE_NAME"
-			OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$BASE_DIR/$BASE_NAME"
-			if [ $VERBOSE ]; then
-				echo "`basename $SCRIPT` $FILE $SOURCE_FILE $OUTPUT_FILE" >&2
-			fi
-			mkdir -p `dirname $OUTPUT_FILE`
-			# here BASE_DIR is the date
-			$SCRIPT $FILE $SOURCE_FILE $OUTPUT_FILE
-		fi
-	done
+	SOURCE_DIR="$SOURCE_ROOT/$YEAR/$BASE_DIR"
+	OUTPUT_DIR="$OUTPUT_ROOT/$YEAR/$BASE_DIR"
+	if [ $VERBOSE ]; then
+		echo "`basename $SCRIPT` $INPUT_DIR $SOURCE_DIR $OUTPUT_DIR" >&2
+	fi
+	mkdir -p $OUTPUT_DIR
+	# here BASE_DIR is the date
+	$SCRIPT $INPUT_DIR $SOURCE_DIR $OUTPUT_DIR
 done
