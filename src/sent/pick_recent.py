@@ -39,4 +39,4 @@ if __name__=='__main__':
 	if btimex:
 		start, end = text.expand(btimex.start, btimex.end)
 		line = serif.resolveCoref(text, data, start, end)
-		print text.find(start), line.encode('utf-8')
+		print text.find(start)-1, line.encode('utf-8')
