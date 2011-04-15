@@ -33,6 +33,7 @@
 
 import os
 import sys
+import re
 
 if len(sys.argv) < 3:
     print "Usage: eval_sents.py test_dir gold_dir"
@@ -103,7 +104,15 @@ for dirpath, dirnames, filenames in os.walk(test_dir):
 #            print os.path.basename(gold_dir), ':', line_gold.strip()
 #            print
 
-print os.path.basename(test_dir), 'evaluated against', os.path.basename(gold_dir)
+def get_data_set(dirname):
+	regexes = [ r'([^/]+)/[a-z]+/[0-9]+$', r'([^/]+)/[0-9]+$', r'([^/]+)$' ]
+	for regex in regexes:
+		m = re.search(regex, dirname)
+		if m:
+			return m.group(1)
+	return os.path.basename(dirname)
+
+print get_data_set(test_dir), 'evaluated against', get_data_set(gold_dir)
 print
 if item_counts == 0:
     print 'no item evaluated'
