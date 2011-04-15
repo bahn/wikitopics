@@ -19,6 +19,8 @@ def check_apf(text, data):
 		out = line[:timex.start - start] + '[' + substr + ']' + line[timex.end - start + 1:]
 		#print (u"VAL=%s STR=%s LINE=%s" % (timex.val, substr, line)).encode('utf-8')
 		#print substr.encode('utf-8') + '\t"' + line.encode('utf-8') + '"'
+		substr = substr.replace('\n', ' ')
+		out = out.replace('\n', ' ')
 		print ('  - %s "%s" : %s' % (str(timex), substr, out)).encode('utf8')
 
 

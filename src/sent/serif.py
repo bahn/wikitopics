@@ -20,7 +20,7 @@ class Text:
 		self.offsets = [0]
 	def __init__(self, file):
 		self.text = unicode(file.read(), 'utf-8')
-		self.text = re.sub("<[^>]*?>", '', self.text)
+		#self.text = re.sub("<[^>]*?>", '', self.text)
 		self.offsets = [0]
 		offset = 0
 		for line in self.text.split('\n'):
@@ -196,7 +196,10 @@ def delta_date_timex(date, timex):
 		month = m.group(2)
 		day = m.group(3)
 		if year == 'XXXX':
-			return abs(date - datetime.date(date.year, int(month), int(day))) + datetime.timedelta(days=366 + 3660)
+			try:
+				return abs(date - datetime.date(date.year, int(month), int(day))) + datetime.timedelta(days=366 + 3660)
+			except ValueError: # it's February 29
+				return abs(date - datetime.date(date.year, int(month), int(day-1))) + datetime.timedelta(days=366 + 3660)
 		else:
 			return abs(date - datetime.date(int(year), int(month), int(day)))
 	elif re2.match(timex.val):
@@ -355,5 +358,5 @@ def resolveCoref(text, data, start, end):
 					break
 			else:
 				s += text.substr(start, end-1)
-	return s
+	return s.replace('\n', ' ')
 

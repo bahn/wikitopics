@@ -19,6 +19,8 @@ def check_apf(text, data):
 			start, end = text.expand(mention.start, mention.end)
 			line = text.substr(start, end)
 			out = line[:mention.start - start] + "[" + substr + "]" + line[mention.end - start + 1:]
+			substr = substr.replace('\n', ' ')
+			out = out.replace('\n', ' ')
 			print '  -', mention.type, substr.encode('utf8'), ':', out.encode('utf8')
 #			line = text.expandstr(mention.start, mention.end)
 #			print (substr + " in " + line).encode('utf-8')
