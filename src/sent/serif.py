@@ -199,7 +199,7 @@ def delta_date_timex(date, timex):
 			try:
 				return abs(date - datetime.date(date.year, int(month), int(day))) + datetime.timedelta(days=366 + 3660)
 			except ValueError: # it's February 29
-				return abs(date - datetime.date(date.year, int(month), int(day-1))) + datetime.timedelta(days=366 + 3660)
+				return abs(date - datetime.date(date.year, int(month), int(day)-1)) + datetime.timedelta(days=366 + 3660)
 		else:
 			return abs(date - datetime.date(int(year), int(month), int(day)))
 	elif re2.match(timex.val):
