@@ -23,7 +23,7 @@ sub summary {
         $sum_p /= $num_rows;
         $sum_r /= $num_rows;
         $sum_f /= $num_rows;
-        printf "\t$old_algo\t\t%.1f\t%.1f\t%.4f\t%.4f\t%.4f\n", $sum_g, $sum_t, $sum_p, $sum_r, $sum_f;
+        printf "\t\t          \t%.1f\t%.1f\t%.4f\t%.4f\t%.4f\n", $sum_g, $sum_t, $sum_p, $sum_r, $sum_f;
         $sum_g = $sum_t = $sum_p = $sum_r = $sum_f = 0;
         $num_rows = 0;
     }
@@ -33,31 +33,41 @@ while (<>) {
     chomp;
     $line = $_;
     if (/^gold standard/) {
-        # e.g. clusters-bahn/cluster0127.txt
-        # clusters-ben/pick0127
-        # clusters-ccb/pick0127.clusters-ccb
         if (/clusters-([^\/]+)\/.+(\d{4})/) {
+			# e.g. clusters-bahn/cluster0127.txt
+			# clusters-ben/pick0127
+			# clusters-ccb/pick0127.clusters-ccb
+            $gold = $1;
+            $date = $2;
+        } elsif (/clusters\/([^\/]+)\/.+\d{4}\/(\d{4}-\d{2}-\d{2})/) {
+			# e.g. clusters/ben/en/2009/2009-01-27.clusters
             $gold = $1;
             $date = $2;
         } elsif (/clusters\/([^\/]+)\/.+(\d{4})/) {
+			# clusters/kmeans-idf/kmeans0127
             $gold = $1;
             $date = $2;
         }
     }
     if (/^clustering/) {
-        # e.g. clusters-bahn/cluster0127.txt
-        # clusters-ben/pick0127
-        # clusters-ccb/pick0127.clusters-ccb
         $old_algo = $algo;
         if (/clusters-([^\/]+)\/.+(\d{4})/) {
+			# e.g. clusters-bahn/cluster0127.txt
+			# clusters-ben/pick0127
+			# clusters-ccb/pick0127.clusters-ccb
             $algo = $1;
             $confirm_date = $2;
+        } elsif (/clusters\/([^\/]+)\/.+\d{4}\/(\d{4}-\d{2}-\d{2})/) {
+			# e.g. clusters/kmeans/en/2009/2009-01-27.clusters
+			$algo = $1;
+			$confirm_date = $2;
         } elsif (/clusters\/([^\/]+)\/([-0-9]+).clusters/) {
             # e.g. clusters/auto-onehop/2009-01-27.clusters
             $algo = $1;
             $confirm_date = $2;
-            $confirm_date =~ s/[0-9]{4}-([0-9]{2})-([0-9]{2})/\1\2/;
+            #$confirm_date =~ s/[0-9]{4}-([0-9]{2})-([0-9]{2})/\1\2/; # obsolete
         } elsif (/clusters\/([^\/]+)\/.+(\d{4})/) {
+			# e.g. clusters/kmeans-idf/kmeans0127
             $algo = $1;
             $confirm_date = $2;
         } else {
@@ -89,7 +99,7 @@ while (<>) {
         } elsif (/F-score/) {
             /([\.0-9]+)/;
             $fscore = $1;
-            print "$gold\t$algo\t$date\t$gold_num\t$test_num\t";
+            print "$algo\t$gold\t$date\t$gold_num\t$test_num\t";
             print "$prec\t$rec\t$fscore\n";
             $sum_g += $gold_num;
             $sum_t += $test_num;

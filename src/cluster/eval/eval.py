@@ -32,6 +32,7 @@
 
 import sys
 from clusters import read_clusters
+import wikipydia
 
 if len(sys.argv) != 3:
     print "Usage: %s GOLD TEST" % sys.argv[0]
@@ -49,54 +50,65 @@ print "clustering:", clustering
 print "clusters of gold standard:", read_clusters(gold_file, label)
 print "clusters of test set:", read_clusters(clustering, cluster)
 
-for key in label.keys():
-    if not key in cluster:
-        print key, 'is missing in cluster'
-        sys.exit(1)
+redirects = {}
+assumed_same = set(label.keys()) & set(cluster.keys())
+to_lookup = set(label.keys()) ^ set(cluster.keys())
 
-for key in cluster.keys():
-    if not key in label:
-        print key, 'is missing in label'
-        sys.exit(1)
+while to_lookup: # if there are missing keys, try to find redirects
+	key = to_lookup.pop()
+	title = wikipydia.query_redirects(key).replace(' ','_')
+	redirects[key] = title
+	if title in assumed_same:
+		assumed_same.remove(title)
+		to_lookup.add(title)
 
+# update the data with the redirects
+redirects.update(dict([(key, key) for key in assumed_same]))
+label = dict([(redirects[key], values) for key, values in label.items()])
+cluster = dict([(redirects[key], values) for key, values in cluster.items()])
+
+# check there are still missing keys
+missing = set(label.keys()) ^ set(cluster.keys())
+if missing:
+	sys.stderr.write('Following keys are missing:\n')
+	for key in missing:
+		sys.stderr.write(key + '\n')
+	sys.exit(1)
+	
 precision = 0.0
 recall = 0.0
 noprecision = 0
 norecall = 0
 
-keys = cluster.keys()
-for i, e in enumerate(keys):
-    mulprec = 0.0
-    mulrec = 0.0
-    nomulprec = 0
-    nomulrec = 0
-    for i2, e2 in enumerate(keys):
-        if e == e2:
-            continue
-        labelintersection = len(label[e] & label[e2])
-        clusterintersection = len(cluster[e] & cluster[e2])
-        less = min(labelintersection, clusterintersection)
-        if clusterintersection > 0:
-            mulprec += float(less) / float(clusterintersection)
-            nomulprec += 1
-        if labelintersection > 0:
-            mulrec += float(less) / float(labelintersection)
-            nomulrec += 1
-    if nomulprec > 0:
-        precision += mulprec / float(nomulprec)
-        noprecision += 1
-    if nomulrec > 0:
-        recall += mulrec / float(nomulrec)
-        norecall += 1
-if noprecision > 0:
-    precision /= float(noprecision)
-if norecall > 0:
-    recall /= float(norecall)
-#print nomulprec, nomulrec, noprecision, norecall
+# one version
+pairs = [(key1, key2) for key1 in label.keys() for key2 in cluster.keys() if key1 != key2]
+li = [len(label[key1] & label[key2]) for key1, key2 in pairs] # label intersections
+ci = [len(cluster[key1] & cluster[key2]) for key1, key2 in pairs] #cluster intersections
+pair_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
+pair_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
+precision = sum(pair_precision) / len(pair_precision) if pair_precision else 1.0
+recall = sum(pair_recall) / len(pair_recall) if pair_recall else 1.0
 
-fscore = 0.0
-if precision + recall > 0.0:
-    fscore = 2*precision*recall / (precision + recall)
+# another version
+#keys = label.keys()
+#row_precision = []
+#row_recall = []
+#for key1 in keys:
+#	cols = [key2 for key2 in keys if key2 != key1]
+#	li = [len(label[key1] & label[key2]) for key2 in cols]
+#	ci = [len(cluster[key1] & cluster[key2]) for key2 in cols]
+#	col_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
+#	col_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
+#	if col_precision:
+#		row_precision.append( sum(col_precision) / len(col_precision) )
+#	if col_recall:
+#		row_recall.append( sum(col_recall) / len(col_recall) )
+#precision = sum(row_precision) / len(row_precision) if row_precision else 1.0
+#recall = sum(row_recall) / len(row_recall) if row_recall else 1.0
+
+# determine f-score
+fscore = 2*precision*recall / (precision + recall) if precision + recall else 1.0
+
 print "Multiplicity BCubed precision: %.4f" % (precision)
 print "Multiplicity BCubed recall:    %.4f" % (recall)
 print "Multiplicity BCubed F-score:   %.4f" % (fscore)

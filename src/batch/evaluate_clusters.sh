@@ -13,28 +13,35 @@ if [ "$WIKITOPICS" == "" ]; then
 fi
 
 # check command-line options
-if [ $# -gt 2 ]; then
-	echo "USAGE: $0 [-v] [START_DATE [END_DATE]]" >&2
+if [ "$1" == "-g" ]; then
+	GOLD_DATA_SETS="$2"
+	shift; shift
+else
+	GOLD_DATA_SETS="bahn ben ccb"
+fi
+
+if [ $# -lt 1 -o $# -gt 3 ]; then
+	echo "USAGE: $0 [-g GOLD_DATA_SET] DATA_SET [START_DATE [END_DATE]]" >&2
 	exit 1
 fi
 
 # to avoid using LANG, which is used by Perl
 LANG_OPTION="en" # for now
-DATA_SET="kmeans" # for now
-if [ "$1" != "" ]; then
-	START_DATE=`date --date "$1" +"%Y-%m-%d"`
+DATA_SET="$1" # for now
+if [ "$2" != "" ]; then
+	START_DATE=`date --date "$2" +"%Y-%m-%d"`
 	if [ $? -ne 0 ]; then
 		echo "error using date... fallback to using plain text" >&2
-		START_DATE=$1
+		START_DATE="$2"
 	fi
 
-	if [ "$2" == "" ]; then
+	if [ "$3" == "" ]; then
 		END_DATE="$START_DATE"
 	else
-		END_DATE=`date --date "$2" +"%Y-%m-%d"`
+		END_DATE=`date --date "$3" +"%Y-%m-%d"`
 		if [ $? -ne 0 ]; then
 			echo "error using date... fallback to using plain text" >&2
-			END_DATE=$2
+			END_DATE="$3"
 		fi
 	fi
 else
@@ -50,11 +57,14 @@ fi
 
 CLUSTER_ROOT="$WIKITOPICS/data/clusters"
 
-for FILE in $CLUSTER_ROOT/$DATA_SET/$LANG_OPTION/*/*.clusters; do
-	YEAR=`dirname $FILE`; YEAR=`basename $YEAR`
-	BASE_NAME=`basename $FILE`
+perl -e 'print "test\tgold\tdate      \tgold\ttest\tprec\trec\tfscore\n";'
+for FILE in $CLUSTER_ROOT/$DATA_SET/*.clusters $CLUSTER_ROOT/$DATA_SET/$LANG_OPTION/*/*.clusters; do
+	if [ ! -f $FILE ]; then
+		continue
+	fi
+	BASE_NAME=`basename $FILE` # cluster file
 	DATE=${BASE_NAME:0:10}
-	echo $YEAR $BASE_NAME $DATE $FILE
+	YEAR=${DATE:0:4}
 
 	echo $DATE | grep "^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]$" > /dev/null
 	if [ $? -ne 0 ]; then # the file name is not a date
@@ -65,11 +75,13 @@ for FILE in $CLUSTER_ROOT/$DATA_SET/$LANG_OPTION/*/*.clusters; do
 		continue
 	fi
 
-	for GOLD_DATA_SET in ben bahn ccb; do
+	for GOLD_DATA_SET in $GOLD_DATA_SETS; do
+		if [ "$GOLD_DATA_SET" == "$DATA_SET" ]; then
+			continue
+		fi
 		GOLD_FILE="$CLUSTER_ROOT/$GOLD_DATA_SET/$LANG_OPTION/$YEAR/$BASE_NAME"
 		if [ -f $GOLD_FILE ]; then
 			$SCRIPT $GOLD_FILE $FILE
 		fi
 	done
-done
-#| $WIKITOPICS/src/cluster/eval/tabularize.pl
+done | $WIKITOPICS/src/cluster/eval/tabularize.pl
