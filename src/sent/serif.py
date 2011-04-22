@@ -250,6 +250,8 @@ def find_best_timex(date, text, data, btimex = None):
 		btdelta = delta_date_timex(date, btimex)
 
 	for timex in data.timexList:
+		if text.find(timex.start) == 1: # for now, ignore line 1 (article title)
+			continue
 		#print timex.val
 		tdelta = delta_date_timex(date, timex)
 		# tdelta could be zero, which means the best date possible
@@ -276,6 +278,10 @@ def pick_self(date, text, data, btimex = None):
 	for mention in self_entity.mentions:
 		line = text.find(mention.start)
 		line_self[line] = True
+	
+	# for now, exclue line 1 (article title)
+	if 1 in line_self:
+		del line_self[1]
 
 	# the best one
 	if not btimex:
@@ -286,7 +292,7 @@ def pick_self(date, text, data, btimex = None):
 	for timex in data.timexList:
 		# ignore if the date is from a line without a self reference.
 		line = text.find(timex.start)
-		if not line in line_self:
+		if line not in line_self:
 			continue
 
 		#print timex.val

@@ -34,7 +34,7 @@ if [ $# -lt 2 -o $# -gt 3 ]; then
 fi
 
 # to avoid using LANG, which is used by Perl
-LLANG=$1
+LANG_OPTION=$1
 START_DATE=`date --date "$2" +"%Y-%m-%d"`
 if [ $? -ne 0 ]; then
 	echo "error using date... fallback to using plain text" >&2
@@ -44,7 +44,7 @@ fi
 if [ "$3" == "" ]; then
 	END_DATE="$START_DATE"
 else
-	END_DATE=`date --date "$3" +"%y-%m-%d"`
+	END_DATE=`date --date "$3" +"%Y-%m-%d"`
 	if [ $? -ne 0 ]; then
 		echo "error using date... fallback to using plain text" >&2
 		END_DATE=$3
@@ -54,12 +54,12 @@ fi
 TOPIC_DIR="$WIKITOPICS/data/topics"
 ARTICLE_DIR="$WIKITOPICS/data/articles"
 
-if [ ! -d "$TOPIC_DIR/$LLANG" ]; then
-	echo "input directory not found: $TOPIC_DIR/$LLANG" >&2
+if [ ! -d "$TOPIC_DIR/$LANG_OPTION" ]; then
+	echo "input directory not found: $TOPIC_DIR/$LANG_OPTION" >&2
 	exit 1
 fi
 
-for FILE in $TOPIC_DIR/$LLANG/*/*; do
+for FILE in $TOPIC_DIR/$LANG_OPTION/*/*; do
 	if [ ! -f "$FILE" ]; then # such a file not found
 		continue
 	fi
@@ -72,16 +72,16 @@ for FILE in $TOPIC_DIR/$LLANG/*/*; do
 		continue
 	fi
 
+	YEAR="${BASENAME:0:4}"
+	OUTPUT_DIR="$ARTICLE_DIR/$LANG_OPTION/$YEAR/$BASENAME"
 	if [ $VERBOSE ]; then
-		echo "$FILE" >&2
+		echo "$SCRIPT -l $LANG_OPTION -d $BASENAME -o $OUTPUT_DIR $FILE" >&2
 	fi
 
-	YEAR="${BASENAME:0:4}"
-	OUTPUT_DIR="$ARTICLE_DIR/$LLANG/$YEAR/$BASENAME"
 	mkdir -p "$OUTPUT_DIR"
 	if [ $DRYRUN ]; then
-		echo "$SCRIPT -l $LLANG -d $BASENAME -o $OUTPUT_DIR $FILE"
+		echo "$SCRIPT -l $LANG_OPTION -d $BASENAME -o $OUTPUT_DIR $FILE"
 	else
-		$SCRIPT -l $LLANG -d $BASENAME -o $OUTPUT_DIR $FILE
+		$SCRIPT -l $LANG_OPTION -d $BASENAME -o $OUTPUT_DIR $FILE
 	fi
 done

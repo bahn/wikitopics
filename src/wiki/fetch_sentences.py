@@ -55,6 +55,8 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun):
 			continue
 		title = wikipydia.query_redirects(title, lang)
 		org_title = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
+		if org_title.startswith('.'):
+			org_title = "%2E" + org_title[1:]
 		if org_title in mark:
 			continue
 		mark[org_title] = True
