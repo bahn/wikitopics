@@ -91,10 +91,16 @@ foreach $FILENAME (@FILES) {
 			$hour = $min/60;
 			$min %= 60;
 			if ($defined_step) {
-				printf "$start_date\t$end_date\t$lang\t$printing_step\t%d:%02d:%02d\n", $hour, $min, $second;
+				if ($cant_export and ($printing_step eq "Resolve RevId")) {
+					printf "$start_date\t$end_date\t$lang\t$printing_step\tN/A\n";
+				} else {
+					printf "$start_date\t$end_date\t$lang\t$printing_step\t%d:%02d:%02d\n", $hour, $min, $second;
+				}
 			} else {
 				printf "$start_date\t$end_date\t$lang\t%dth printed time from $step\t%02d:%02d:%02d\n", $no_time, $hour, $min, $second;
 			}
+		} elsif (/\/export\/people\/bahn\/wikitopics not found/) {
+			$cant_export = 1;
 		} else {
 			unless (/\w+ \w+ \d+ [:\d]+ \w+ \d+/ || # date and time
 				/(real|user|sys)\s+\d+m\d+\.\d+s/ || # elapsed time
