@@ -29,6 +29,6 @@ if [ ! -d "$TEST_ROOT" ]; then
 	exit 1
 fi
 
-YEAR=2009 # for now
-cd $TEST_ROOT/$YEAR
-grep '^-1 .*[A-Za-z].*' */*.sentences
+cd $TEST_ROOT
+grep '^-1 .*[A-Za-z].*' */*/*.sentences
+grep '^0 .*[A-Za-z].*' */*/*.sentences
