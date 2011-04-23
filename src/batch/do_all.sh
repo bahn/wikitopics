@@ -32,11 +32,11 @@ fi
 LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 
 date +"%Y-%m-%d %H:%M:%S" >&2
+time $WIKITOPICS/src/batch/fetch_sentences.sh $LANG_OPTION $START_DATE $END_DATE
 time $WIKITOPICS/src/batch/kmeans.sh $LANG_OPTION $START_DATE $END_DATE
 
 # check SERIF
 if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-#time $WIKITOPICS/src/batch/fetch_sentences.sh $LANG_OPTION $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/filter_sentences.sh $LANG_OPTION $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/serif.sh $LANG_OPTION $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $LANG_OPTION first $START_DATE $END_DATE
