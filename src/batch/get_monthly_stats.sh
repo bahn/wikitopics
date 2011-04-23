@@ -77,12 +77,13 @@ else
 				cat wget.log >> download-log.txt
 				rm -f wget.log
 			fi
-			if [ -e $BASENAME ]; then
+			if [ ! -e $BASENAME ]; then
 				echo "failed to download $FILE" >&2
 			else
 				COUNT=$((COUNT+1))
 				if [ ! -e "$ARCHIVE/$YEAR/$MONTH/$BASENAME" ]; then
 					mv $BASENAME $ARCHIVE/$YEAR/$MONTH
+					echo "$BASENAME, previously missing, downloaded." >&2
 				else
 					$WIKITOPICS/src/wiki/verify_stats.py $BASENAME > /dev/null
 					if [ $? -ne 0 ]; then
@@ -113,7 +114,7 @@ fi
 
 # remove the working directory
 mkdir -p $WIKISTATS/downloading/log
-mv donwload-log.txt $WIKISTATS/downloading/log/download-log-$YEAR-$MONTH.txt
+mv download-log.txt $WIKISTATS/downloading/log/download-log-$YEAR-$MONTH.txt
 cd ..
 rmdir $WORKING
 
