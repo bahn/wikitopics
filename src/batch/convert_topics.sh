@@ -79,7 +79,7 @@ while [ ! $END_DATE \< $DATE ]; do
     TOPICFILE="$YEAR-$MONTH-$DAY.topics"
     HTMLFILE="$YEAR-$MONTH-$DAY.html"
     if [ -e "$TOPIC_DIR/$YEAR/$TOPICFILE" ]; then
-        echo "convert_topics.py $TOPIC_DIR/$YEAR/$TOPICFILE > $HTML_DIR/$YEAR/$HTMLFILE" >&2
+        echo "convert_topics.py -l $LANG_OPTION $TOPIC_DIR/$YEAR/$TOPICFILE > $HTML_DIR/$YEAR/$HTMLFILE" >&2
         mkdir -p $HTML_DIR/$YEAR
         $WIKITOPICS/src/topics/convert_topics.py -l $LANG_OPTION "$TOPIC_DIR/$YEAR/$TOPICFILE" > "$HTML_DIR/$YEAR/$HTMLFILE"
     fi
