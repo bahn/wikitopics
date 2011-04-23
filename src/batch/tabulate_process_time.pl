@@ -31,19 +31,37 @@ foreach $FILENAME (@FILES) {
 			} elsif ($step eq "convert_topics") {
 				$printing_step = "Resolve RevId";
 				$defined_step = 1;
+			} elsif ($step eq "kmeans") {
+				$printing_step = "K-Means";
+				$defined_step = 1;
+			} elsif ($step eq "fetch_sentences") {
+				$printing_step = "Fetch sents";
+				$defined_step = 1;
+			} elsif ($step eq "filter_sentences") {
+				$printing_step = "Filter sents";
+				$defined_step = 1;
+			} elsif ($step eq "serif") {
+				$printing_step = "SERIF";
+				$defined_step = 1;
+			} elsif ($step eq "pick_sentence") {
+				$printing_step = $step;
+				$defined_step = 1;
 			} else {
 				$defined_step = 0;
 			}
 			if ($defined_step) {
-				if (/^(\w+)\.(sh|py|pl)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?$/) {
+				if (/^(\w+)\.(sh|py|pl)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?$/) { # ko 2011-04-18
 					$lang = $3;
 					$start_date = $4;
 					$end_date = $6;
-				} elsif (/^(\w+)\.(sh|py|pl)\s+(\-\S+\s+\S+\s+)(\S+)\s+([\-\d]+)(\s+([\-\d]+))?$/) {
+				} elsif (/^(\w+)\.(sh|py|pl)\s+(\-\S+\s+\S+\s+)(\S+)\s+([\-\d]+)(\s+([\-\d]+))?$/) { # -c 100 ko 2011-04-18
 					$lang = $4;
 					$start_date = $5;
 					$end_date = $7;
-				} elsif (/^(\w+)\.(sh|py|pl)\s+(\S+\s+)([\-\d]+)(\s+([\-\d]+))?$/) {
+				} elsif (/^(\w+)\.(sh|py|pl)\s+(\S+)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?$/) { # ko redirects_file 2011-04-18
+					if ($printing_step eq "pick_sentence") {
+						$printing_step = ucfirst $4;
+					}
 					$lang = $3;
 					$start_date = $5;
 					$end_date = $7;

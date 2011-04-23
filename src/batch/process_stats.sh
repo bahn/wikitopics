@@ -60,15 +60,22 @@ elif [ "$DATA_SET" == "en-10" ]; then
 	REDIRECTS="$WIKIDUMP/enwiki-20110115/redirects.txt"
 fi
 
-date >&2
+date +"%Y-%m-%d %H:%M:%S" >&2
 time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
 
 if [ "$REDIRECTS" != "" ]; then
-	date >&2
     time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
 fi
 
-date >&2
 time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
 
-date >&2
+time $WIKITOPICS/src/batch/kmeans.sh $LANG_OPTION $START_DATE $END_DATE
+if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+	time $WIKITOPICS/src/batch/fetch_sentences.sh $LANG_OPTION $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/filter_sentences.sh $LANG_OPTION $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/serif.sh $LANG_OPTION $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/pick_sentence.sh $LANG_OPTION first $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/pick_sentence.sh $LANG_OPTION recent $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/pick_sentence.sh $LANG_OPTION self $START_DATE $END_DATE
+fi
+date +"%Y-%m-%d %H:%M:%S" >&2

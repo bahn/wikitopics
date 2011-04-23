@@ -59,8 +59,5 @@ LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 OUTPUT_DIR="$WIKISTATS/process/$DATA_SET/redir/daily"
 TOPIC_DIR="$WIKITOPICS/data/topics/$DATA_SET"
 
-date >&2
 time $WIKITOPICS/src/wiki/list_topics.py $WINDOW_SIZE $LIST_SIZE $CUT_OFF $LANG_OPTION $OUTPUT_DIR $TOPIC_DIR $START_DATE $END_DATE
-date >&2
 time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
-date >&2
