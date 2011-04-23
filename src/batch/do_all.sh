@@ -30,6 +30,10 @@ fi
 
 # don't use LANG or LANGUAGE -- they are used by Perl.
 LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
+if [ "$LANG_OPTION" != "en" ]; then
+	echo "Only en is supported for now." >&2
+	exit 1
+fi
 
 date +"%Y-%m-%d %H:%M:%S" >&2
 time $WIKITOPICS/src/batch/fetch_sentences.sh $LANG_OPTION $START_DATE $END_DATE
