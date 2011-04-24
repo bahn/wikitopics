@@ -11,7 +11,7 @@ unless (-d $DIR) {
 	$DIR = $1;
 }
 
-@FILES = glob("$DIR/proc_stats.*");
+@FILES = glob("$DIR/proc_stats.* $DIR/do_all.*");
 print "START DATE\tEND DATE  \tLANG\tSTEP\tTIME\n";
 foreach $FILENAME (@FILES) {
 	open FILE, $FILENAME;
@@ -85,7 +85,7 @@ foreach $FILENAME (@FILES) {
 				}
 			}
 			unless ($defined_step) {
-				unless ($step =~ /process_stats/) {
+				unless ($step =~ /process_stats/ || $step =~ /do_all/) {
 					print STDERR;
 				}
 			}
