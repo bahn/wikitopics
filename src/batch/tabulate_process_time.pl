@@ -99,7 +99,7 @@ foreach $FILENAME (@FILES) {
 				} elsif ($no_time > 3) { # if $no_time != 1
 					$defined_step = 0;
 				}
-			} elsif ($step eq "pick_sentence") {
+			} elsif ($step eq "pick_sentence" || $step eq "kmeans") {
 				if ($no_time == 2) {
 					$printing_step = "Total";
 				} elsif ($no_time > 2) {
@@ -131,6 +131,11 @@ foreach $FILENAME (@FILES) {
 				/(real|user|sys)\s+\d+m\d+\.\d+s/ || # elapsed time
 				/pagecounts-\d+\.gz/ || # pagecounts file name output by list_topics.py
 				/convert_topics\.py \S+ \> \S+/ || # commands output by convert_topics.sh
+				/convert_topics\.py \S+ \S+ \S+ \> \S+/ || # new output format of commands output by convert_topics.sh
+				/Input: \S+/ || # kmeans output
+				/Output: \S+/ ||
+				/Entering KMeans iteration/ ||
+				/KMeans converged with deltaMeans = \S+/ ||
 				/^$/) # empty line
 			{
 				if ($first_error) {
