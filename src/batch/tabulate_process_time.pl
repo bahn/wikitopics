@@ -99,6 +99,12 @@ foreach $FILENAME (@FILES) {
 				} elsif ($no_time > 3) { # if $no_time != 1
 					$defined_step = 0;
 				}
+			} elsif ($step eq "pick_sentence") {
+				if ($no_time == 2) {
+					$printing_step = "Total";
+				} elsif ($no_time > 2) {
+					$defined_step = 0;
+				}
 			} else {
 				if ($no_time > 1) {
 					$defined_step = 0;
@@ -115,12 +121,13 @@ foreach $FILENAME (@FILES) {
 					printf "$start_date\t$end_date\t$lang\t$printing_step\t%d:%02d:%02d\n", $hour, $min, $second;
 				}
 			} else {
-				printf "$start_date\t$end_date\t$lang\t%dth printed time from $step\t%02d:%02d:%02d\n", $no_time, $hour, $min, $second;
+				printf "$start_date\t$end_date\t$lang\t%dth printed time from $step\t%02d:%02d:%02d\t$FILENAME\n", $no_time, $hour, $min, $second;
 			}
 		} elsif (/\/export\/people\/bahn\/wikitopics not found/) {
 			$cant_export = 1;
 		} else {
 			unless (/\w+ \w+ \d+ [:\d]+ \w+ \d+/ || # date and time
+				/[\d\-]+ [\d\:]+/ || # date and time in a different format
 				/(real|user|sys)\s+\d+m\d+\.\d+s/ || # elapsed time
 				/pagecounts-\d+\.gz/ || # pagecounts file name output by list_topics.py
 				/convert_topics\.py \S+ \> \S+/ || # commands output by convert_topics.sh

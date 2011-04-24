@@ -33,14 +33,14 @@ if [ $# -lt 2 -o $# -gt 3 ]; then
 	exit 1
 fi
 
+DATA_SET="$1"
 # to avoid using LANG, which is used by Perl
-LANG_OPTION=$1
+LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 START_DATE=`date --date "$2" +"%Y-%m-%d"`
 if [ $? -ne 0 ]; then
 	echo "error using date... fallback to using plain text" >&2
 	START_DATE=$2
 fi
-
 if [ "$3" == "" ]; then
 	END_DATE="$START_DATE"
 else
@@ -54,12 +54,12 @@ fi
 TOPIC_DIR="$WIKITOPICS/data/topics"
 ARTICLE_DIR="$WIKITOPICS/data/articles"
 
-if [ ! -d "$TOPIC_DIR/$LANG_OPTION" ]; then
-	echo "input directory not found: $TOPIC_DIR/$LANG_OPTION" >&2
+if [ ! -d "$TOPIC_DIR/$DATA_SET" ]; then
+	echo "input directory not found: $TOPIC_DIR/$DATA_SET" >&2
 	exit 1
 fi
 
-for FILE in $TOPIC_DIR/$LANG_OPTION/*/*; do
+for FILE in $TOPIC_DIR/$DATA_SET/*/*; do
 	if [ ! -f "$FILE" ]; then # such a file not found
 		continue
 	fi
@@ -73,7 +73,7 @@ for FILE in $TOPIC_DIR/$LANG_OPTION/*/*; do
 	fi
 
 	YEAR="${BASENAME:0:4}"
-	OUTPUT_DIR="$ARTICLE_DIR/$LANG_OPTION/$YEAR/$BASENAME"
+	OUTPUT_DIR="$ARTICLE_DIR/$DATA_SET/$YEAR/$BASENAME"
 	if [ $VERBOSE ]; then
 		echo "$SCRIPT -l $LANG_OPTION -d $BASENAME -o $OUTPUT_DIR $FILE" >&2
 	fi

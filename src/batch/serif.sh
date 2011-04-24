@@ -18,8 +18,10 @@ if [ $# -lt 1 ]; then
 	echo "Usage: $0 [--dry-run] LANG START_DATE [END_DATE]" >&2
 	exit 1
 fi
+
+DATA_SET="$1"
 # to avoid using LANG, which is used by Perl
-LANG_OPTION=$1
+LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 if [ "$2" != "" ]; then
 	START_DATE=`date --date "$2" +"%Y-%m-%d"`
 	if [ "$3" == "" ]; then
@@ -37,12 +39,12 @@ SENTENCE_DIR="$WIKITOPICS/data/serif/input"
 SERIF_DIR="$WIKITOPICS/data/serif"
 
 
-if [ ! -d "$SENTENCE_DIR/$LANG_OPTION" ]; then
-	echo "input directory not found: $SENTENCE_DIR/$LANG_OPTION" >&2
+if [ ! -d "$SENTENCE_DIR/$DATA_SET" ]; then
+	echo "input directory not found: $SENTENCE_DIR/$DATA_SET" >&2
 	exit 1
 fi
 
-for DIR in $SENTENCE_DIR/$LANG_OPTION/*/*; do
+for DIR in $SENTENCE_DIR/$DATA_SET/*/*; do
 	if [ ! -d "$DIR" ]; then # such directory not found
 		continue
 	fi
@@ -56,7 +58,7 @@ for DIR in $SENTENCE_DIR/$LANG_OPTION/*/*; do
 	fi
 
 	YEAR=${BASEDIR:0:4}
-	OUTPUT_DIR="$SERIF_DIR/$LANG_OPTION/$YEAR/$BASEDIR"
+	OUTPUT_DIR="$SERIF_DIR/$DATA_SET/$YEAR/$BASEDIR"
 	mkdir -p "$OUTPUT_DIR"
 
 ### list the input files

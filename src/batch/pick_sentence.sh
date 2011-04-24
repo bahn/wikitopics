@@ -64,9 +64,9 @@ else
 	END_DATE="9999-99-99"
 fi
 
-INPUT_ROOT="$WIKITOPICS/data/serif/input/$LANG_OPTION"
-APF_ROOT="$WIKITOPICS/data/serif/$LANG_OPTION"
-OUTPUT_ROOT="$WIKITOPICS/data/sentences/$SCHEME_ID/$LANG_OPTION"
+INPUT_ROOT="$WIKITOPICS/data/serif/input/$DATA_SET"
+APF_ROOT="$WIKITOPICS/data/serif/$DATA_SET"
+OUTPUT_ROOT="$WIKITOPICS/data/sentences/$SCHEME_ID/$DATA_SET"
 
 if [ ! -d "$INPUT_ROOT" ]; then
 	echo "input directory not found: $INPUT_ROOT" >&2

@@ -21,7 +21,9 @@ if [ $# -lt 1 -o $# -gt 3 ]; then
 	exit 1
 fi
 
-LANG_OPTION=$1
+DATA_SET="$1"
+# to avoid using LANG, which is used by Perl
+LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 if [ "$2" != "" ]; then
 	START_DATE=`date --date "$2" +"%Y-%m-%d"`
 	if [ $? -ne 0 ]; then
@@ -44,8 +46,8 @@ else
 	END_DATE="9999-99-99"
 fi
 
-INPUT_ROOT="$WIKITOPICS/data/articles/$LANG_OPTION"
-OUTPUT_ROOT="$WIKITOPICS/data/clusters/kmeans/$LANG_OPTION"
+INPUT_ROOT="$WIKITOPICS/data/articles/$DATA_SET"
+OUTPUT_ROOT="$WIKITOPICS/data/clusters/kmeans/$DATA_SET"
 for DIR in $INPUT_ROOT/*/*; do
 	if [ ! -d "$DIR" ]; then # such directory not found
 		continue
