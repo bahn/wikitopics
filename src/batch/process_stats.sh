@@ -79,5 +79,6 @@ if [ "$LANG_OPTION" == "en" ]; then
 		time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
 		time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
 	fi
+	time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
 fi
 date +"%Y-%m-%d %H:%M:%S" >&2
