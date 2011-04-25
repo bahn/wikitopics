@@ -136,6 +136,21 @@ foreach $FILENAME (@FILES) {
 				/Output: \S+/ ||
 				/Entering KMeans iteration/ ||
 				/KMeans converged with deltaMeans = \S+/ ||
+				/This is UNIX English Serif for the ACE task/ || # Serif
+				/Serif\/generic library version:/ ||
+				/Serif\/English library version:/ ||
+				/Copyright 2010 by BBN Technologies Corp\./ ||
+				/All Rights Reserved\./ ||
+				/Initializing Stage \d+/ ||
+				/Warning Initializing WordNet from the backup location/ ||
+				/Preloading \d+ entries into prob cache/ ||
+				/Initializing document-level / ||
+				/Processing #\d+: \d+-\d+/ ||
+				/Session completed with \d+ warning(s)\./ ||
+				/Check session log for warning messages\./ ||
+				/Session log is in:/ ||
+				/(\/)?([^\/]+\/)+session-log\.txt/ ||
+				/All documents processed\./ ||
 				/^$/) # empty line
 			{
 				if ($first_error) {
