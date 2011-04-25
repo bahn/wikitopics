@@ -70,7 +70,7 @@ for DIR in $SENTENCE_DIR/$DATA_SET/*/*; do
 		cat "$OUTPUT_DIR/input_list.txt" >&2
 	else
 ### run SERIF
-		time /export/common/tools/serif/bin/SerifEnglish \
+		/export/common/tools/serif/bin/SerifEnglish \
 		/export/common/tools/serif/par/english.par \
 		-p input_type=rawtext \
 		-p output_format=apf8 \

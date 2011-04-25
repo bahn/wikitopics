@@ -41,7 +41,7 @@ foreach $FILENAME (@FILES) {
 				$printing_step = "Filter sents";
 				$defined_step = 1;
 			} elsif ($step eq "serif") {
-				$printing_step = "SERIF";
+				$printing_step = "Serif";
 				$defined_step = 1;
 			} elsif ($step eq "pick_sentence") {
 				$printing_step = $step;
@@ -99,6 +99,11 @@ foreach $FILENAME (@FILES) {
 				} elsif ($no_time > 3) { # if $no_time != 1
 					$defined_step = 0;
 				}
+			} elsif ($step eq "serif") {
+				if ($no_time == 2) {
+					$printing_step = "Serif Subtotal";
+					$defined_step = 1;
+				}
 			} elsif ($step eq "pick_sentence" || $step eq "kmeans") {
 				if ($no_time == 2) {
 					$printing_step = "Total";
@@ -146,7 +151,7 @@ foreach $FILENAME (@FILES) {
 				/Preloading \d+ entries into prob cache/ ||
 				/Initializing document-level / ||
 				/Processing #\d+: \d+-\d+/ ||
-				/Session completed with \d+ warning(s)\./ ||
+				/Session completed with \d+ warning\(s\)\./ ||
 				/Check session log for warning messages\./ ||
 				/Session log is in:/ ||
 				/(\/)?([^\/]+\/)+session-log\.txt/ ||
