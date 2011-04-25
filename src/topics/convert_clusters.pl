@@ -20,31 +20,44 @@ sub print_cluster {
 		return;
 	}
 
-	print "<h1>Cluster</h1>\n";
-
-	print "<p>\n";
 	foreach $page (@CLUSTER) {
-		print "$page<br>\n";
+		$page =~ s/_/ /g;
 	}
-	print "</p>\n";
+	$cluster_title = join(", ", @CLUSTER);
+	print '<h3><a href="#">' . $cluster_title . '</a></h3>' . "\n";
 
+	print "<div>\n";
+	print "\t<table>\n";
+	print "\t\t<tr><th>Article</th>";
 	foreach $dir (@SENTENCE_DIRS) {
 		$dir =~ /\/sentences\/([^\/]+)\//;
-		print "<h2>" . ucfirst $1 . "</h2>\n";
-		print "<p>\n";
-		foreach $page (@CLUSTER) {
-			$filename = uri_escape($page, "^A-Za-z0-9\-\._~\%");
-			$filename =~ s/^\./\%2E/;
+		print "<th>" . ucfirst $1 . "</th>";
+	}
+	print "</tr>\n";
+	foreach $page (@CLUSTER) {
+		$filename = uri_escape($page, "^A-Za-z0-9\-\. _~\%");
+		$filename =~ s/ /_/g;
+		$filename =~ s/^\./\%2E/;
+		print "\t\t<tr><td>";
+		print '<a href="http://en.wikipedia.org/wiki/' . $filename . '" target="view">';
+		print "$page</a></td>\n";
+		foreach $dir (@SENTENCE_DIRS) {
+			$dir =~ /\/sentences\/([^\/]+)\//;
+			print "\t\t\t<td><!--" . ucfirst $1 . "-->";
+
 			open SENT_FILE, "<$dir/$filename.sentences";
 			while (<SENT_FILE>) {
 				chomp;
 				s/^\d+ //;
-				print "$_<br>\n";
+				print "\n\t\t\t$_<br>";
 			}
 			close SENT_FILE;
+			print "</td>\n";
 		}
-		print "</p>\n";
+		print "\t\t</tr>\n";
 	}
+	print "\t</table>\n";
+	print "</div>\n";
 
 	@CLUSTER=();
 	return;
