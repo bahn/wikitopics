@@ -12,6 +12,11 @@ if [ "$WIKITOPICS" == "" ]; then
 fi
 
 # check command-line options
+if [ "$1" == "--dry-run" ]; then
+	DRYRUN=1
+	shift
+fi
+
 if [ "$1" == "-v" ]; then
 	VERBOSE=1
 	shift
@@ -22,8 +27,9 @@ if [ $# -lt 2 ]; then
 	exit 1
 fi
 
+DATA_SET="$1"
 # to avoid using LANG, which is used by Perl
-LANG_OPTION=$1
+LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 SCHEME_ID=$2
 if [ "$SCHEME_ID" == "first" ]; then
 	SCHEME_SCRIPT="pick_first.sh"
@@ -104,7 +110,11 @@ for INPUT_DIR in $INPUT_ROOT/*/*; do
 			fi
 			mkdir -p `dirname $OUTPUT_FILE`
 			# here BASE_DIR is the date
-			$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE
+			if [ $DRYRUN ]; then
+				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE"
+			else
+				$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE
+			fi
 		fi
 	done
 done

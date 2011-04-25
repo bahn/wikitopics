@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -N conv_topic
+#$ -N conv_clust
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
 #$ -V
-echo convert_topics.sh $* >&2
+echo convert_clusters.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -15,8 +15,8 @@ if [ "$WIKISTATS" == "" ]; then
 	echo "Set the WIKISTATS environment variable first." >&2
 	exit 1
 fi
-if [ ! -f "$WIKITOPICS/src/topics/convert_topics.py" ]; then
-	echo "The $WIKITOPICS/src/topics/convert_topics.py script not found" >&2
+if [ ! -f "$WIKITOPICS/src/topics/convert_clusters.pl" ]; then
+	echo "The $WIKITOPICS/src/topics/convert_clusters.pl script not found" >&2
 	exit 1
 fi
 
@@ -54,7 +54,7 @@ fi
 LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 
 # set working directories
-TOPIC_DIR="$WIKITOPICS/data/topics/$DATA_SET"
+CLUSTERS_DIR="$WIKITOPICS/data/clusters/kmeans/$DATA_SET"
 HTML_DIR="$WIKITOPICS/data/html/$DATA_SET"
 HTML_EX_ROOT="/export/people/bahn/wikitopics"
 if [ "$DATA_SET" == "en" ]; then
@@ -63,8 +63,8 @@ else
     HTML_EX_DIR="$HTML_EX_ROOT/$DATA_SET"
 fi
 
-if [ ! -d "$TOPIC_DIR" ]; then
-	echo "$TOPIC_DIR not found" >&2
+if [ ! -d "$CLUSTERS_DIR" ]; then
+	echo "$CLUSTERS_DIR not found" >&2
 	exit 1
 fi
 #if [ ! -d "$HTML_ROOT" ]; then
@@ -77,17 +77,18 @@ while [ ! $END_DATE \< $DATE ]; do
     YEAR=${DATE:0:4}
     MONTH=${DATE:5:2}
     DAY=${DATE:8:2}
-    TOPICFILE="$DATE.topics"
-    HTML_FILE="$DATE.html"
-    if [ -e "$TOPIC_DIR/$YEAR/$TOPICFILE" ]; then
-        echo "convert_topics.py -l $LANG_OPTION $TOPIC_DIR/$YEAR/$TOPICFILE > $HTML_DIR/$YEAR/$HTML_FILE" >&2
+    CLUSTERS_FILE="$YEAR-$MONTH-$DAY.clusters"
+	SENTENCE_DIRS="$WIKITOPICS/data/sentences/*/$DATA_SET/$YEAR/$DATE"
+    HTML_FILE="$YEAR-$MONTH-$DAY.clusters.html"
+    if [ -e "$CLUSTERS_DIR/$YEAR/$TOPICFILE" ]; then
+        echo "convert_clusters.pl $CLUSTERS_FILE $SENTENCE_DIRS > $HTML_FILE" >&2
         mkdir -p $HTML_DIR/$YEAR
-        $WIKITOPICS/src/topics/convert_topics.py -l $LANG_OPTION "$TOPIC_DIR/$YEAR/$TOPICFILE" > "$HTML_DIR/$YEAR/$HTML_FILE"
+        $WIKITOPICS/src/topics/convert_clusters.pl "$CLUSTERS_DIR/$YEAR/$CLUSTERS_FILE" $SENTENCE_DIRS > $HTML_DIR/$YEAR/$HTML_FILE
 		if [ -d "$HTML_EX_ROOT" ]; then
 			mkdir -p $HTML_EX_DIR/$YEAR
-			cp "$HTML_DIR/$YEAR/$HTML_FILE" "$HTML_EX_DIR/$YEAR"
+			cp $HTML_DIR/$YEAR/$HTML_FILE $HTML_EX_DIR/$YEAR
 		else
-			scp "$HTML_DIR/$YEAR/$HTML_FILE" login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR/$HTML_FILE
+			scp $HTML_DIR/$YEAR/$HTML_FILE login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR
 		fi
     fi
     DATE=`date --date "$DATE 1 day" +"%Y-%m-%d"`
