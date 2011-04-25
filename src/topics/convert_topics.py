@@ -14,7 +14,8 @@ def convert_topics(filename, lang):
 		date = datetime.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
 
 	lineno = 0
-	with open(filename, 'r') as f:
+	try:
+		f = open(filename, 'r')
 		topic_line_re1 = re.compile("^(.+) ([0-9]+)$")
 		topic_line_re2 = re.compile("^([^\t]+)\t([0-9]+)$")
 		print "<table>";
@@ -66,6 +67,9 @@ def convert_topics(filename, lang):
 				print "</td><td>%d" % (pageviews),
 			print "</td></tr>";
 		print "</table>";
+	finally:
+		if f:
+			f.close()
 
 if __name__=='__main__':
 	lang = 'en'
