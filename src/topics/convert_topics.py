@@ -46,8 +46,8 @@ def convert_topics(filename, lang):
 				print '<span class="score">%d</span>' % (pageviews),
 			print '</a></td>' 
 
-			print '<td><ul class="subnav">'
-			print '\t<li><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s</a></li>' % (lang, escaped_title, title)
+			print '<td><span class="more">more</span><ul class="subnav">'
+			print '\t<li><a href="http://%s.wikipedia.org/wiki/%s" target="view">View Now</a></li>' % (lang, escaped_title)
 			if date:
 				thenid = str(wikipydia.query_revid_by_date_fallback(title, lang, date))
 				priorid = str(wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15)))
