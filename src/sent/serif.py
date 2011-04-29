@@ -196,10 +196,10 @@ def delta_date_timex(date, timex):
 		month = m.group(2)
 		day = m.group(3)
 		if year == 'XXXX':
-			if int(month) == 2 and int(day) == 29:
-				return abs(date - datetime.date(date.year, 2, 28)) + datetime.timedelta(days=367 + 3660)
-			else:
+			try:
 				return abs(date - datetime.date(date.year, int(month), int(day))) + datetime.timedelta(days=366 + 3660)
+			except ValueError:
+				return abs(date - datetime.date(date.year, int(month), 28)) + datetime.timedelta(days=int(day) - 28 + 366 + 3660)
 		else:
 			return abs(date - datetime.date(int(year), int(month), int(day)))
 	elif re2.match(timex.val):
@@ -217,10 +217,10 @@ def delta_date_timex(date, timex):
 				return min(max(abs(date - datetime.date(date.year, 12, 21)), abs(date - datetime.date(date.year+1, 3, 21))) + datetime.timedelta(days=18+366+3660),
 						 max(abs(date - datetime.date(date.year-1, 12, 21)), abs(date - datetime.date(date.year, 3, 21))) + datetime.timedelta(days=18+366+3660))
 			else:
-				if int(month) == 2 and date.day == 29:
-					return abs(date - datetime.date(date.year, 2, 28)) + datetime.timedelta(days=32+366+3660)
-				else:
+				try:
 					return abs(date - datetime.date(date.year, int(month), date.day)) + datetime.timedelta(days=31+366+3660)
+				except ValueError:
+					return abs(date - datetime.date(date.year, int(month), 28)) + datetime.timedelta(days=date.day-28 + 31+366+3660)
 		else:
 			if month == 'SP':
 				return max(abs(date - datetime.date(int(year), 3, 20)), abs(date - datetime.date(int(year), 6, 21))) + datetime.timedelta(days=18)
@@ -232,10 +232,10 @@ def delta_date_timex(date, timex):
 				return min(max(abs(date - datetime.date(int(year), 12, 21)), abs(date - datetime.date(int(year)+1, 3, 21))) + datetime.timedelta(days=18),
 						 max(abs(date - datetime.date(int(year)-1, 12, 21)), abs(date - datetime.date(int(year), 3, 21))) + datetime.timedelta(days=18))
 			else:
-				if int(month) == 2 and date.day == 29:
-					return abs(date - datetime.date(int(year), 2, 28)) + datetime.timedelta(days=32)
-				else:
+				try:
 					return abs(date - datetime.date(int(year), int(month), date.day)) + datetime.timedelta(days=31)
+				except ValueError:
+					return abs(date - datetime.date(int(year), int(month), 28)) + datetime.timedelta(days=date.day-28 + 31)
 	elif re3.match(timex.val):
 		m = re3.match(timex.val)
 		year = m.group(1)

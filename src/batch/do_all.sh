@@ -35,12 +35,12 @@ if [ "$LANG_OPTION" != "en" ]; then
 fi
 
 date +"%Y-%m-%d %H:%M:%S" >&2
-#time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
-#time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
+time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
 
 # check SERIF
 if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-	#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE

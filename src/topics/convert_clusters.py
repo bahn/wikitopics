@@ -73,12 +73,14 @@ def print_cluster(cluster, sentence_dirs, trending_score, date, lang):
 			s = re.search(r'\/sentences\/([^\/]+)\/', folder)
 			scheme = s.group(1)
 			print '\t\t\t<td class="sent"><!--' + scheme[0].upper() + scheme[1:] + '-->'
-			f = codecs.open(os.path.join(folder, encoded + '.sentences'), 'rt', 'utf-8')
-			for line in f:
-				if line.find(' ') != -1:
-					line = line[line.find(' ') + 1:].strip()
-				print '\t\t\t\t' + line.encode('utf8') + '<br>'
-			f.close()
+			filepath = os.path.join(folder, encoded + '.sentences')
+			if os.path.isfile(filepath): # if the file exists
+				f = codecs.open(filepath, 'rt', 'utf-8')
+				for line in f:
+					if line.find(' ') != -1:
+						line = line[line.find(' ') + 1:].strip()
+					print '\t\t\t\t' + line.encode('utf8') + '<br>'
+				f.close()
 			print '\t\t\t</td>'
 		print '\t\t</tr>'
 	print '\t</table>'
