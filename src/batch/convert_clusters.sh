@@ -77,13 +77,14 @@ while [ ! $END_DATE \< $DATE ]; do
     YEAR=${DATE:0:4}
     MONTH=${DATE:5:2}
     DAY=${DATE:8:2}
+	TOPICS_FILE="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.topics"
     CLUSTERS_FILE="$YEAR-$MONTH-$DAY.clusters"
 	SENTENCE_DIRS="$WIKITOPICS/data/sentences/*/$DATA_SET/$YEAR/$DATE"
     HTML_FILE="$YEAR-$MONTH-$DAY.clusters.html"
     if [ -e "$CLUSTERS_DIR/$YEAR/$TOPICFILE" ]; then
-        echo "convert_clusters.pl $CLUSTERS_FILE $SENTENCE_DIRS > $HTML_FILE" >&2
+        echo "convert_clusters.py -t $TOPICS_FILE $CLUSTERS_FILE $SENTENCE_DIRS > $HTML_FILE" >&2
         mkdir -p $HTML_DIR/$YEAR
-        $WIKITOPICS/src/topics/convert_clusters.pl "$CLUSTERS_DIR/$YEAR/$CLUSTERS_FILE" $SENTENCE_DIRS > $HTML_DIR/$YEAR/$HTML_FILE
+        $WIKITOPICS/src/topics/convert_clusters.py -t $TOPICS_FILE "$CLUSTERS_DIR/$YEAR/$CLUSTERS_FILE" $SENTENCE_DIRS > $HTML_DIR/$YEAR/$HTML_FILE
 		if [ -d "$HTML_EX_ROOT" ]; then
 			mkdir -p $HTML_EX_DIR/$YEAR
 			cp $HTML_DIR/$YEAR/$HTML_FILE $HTML_EX_DIR/$YEAR

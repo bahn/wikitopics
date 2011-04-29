@@ -46,6 +46,9 @@ foreach $FILENAME (@FILES) {
 			} elsif ($step eq "pick_sentence") {
 				$printing_step = $step;
 				$defined_step = 1;
+			} elsif ($step eq "convert_clusters") {
+				$printing_step = "Gen HTML";
+				$defined_step = 1;
 			} else {
 				$defined_step = 0;
 			}
@@ -110,6 +113,12 @@ foreach $FILENAME (@FILES) {
 				} elsif ($no_time > 2) {
 					$defined_step = 0;
 				}
+			} elsif ($step eq "convert_clusters") {
+				if ($no_time == 2) {
+					$printing_step = "Total";
+				} elsif ($no_time >= 3) {
+					$defined_step = 0;
+				}
 			} else {
 				if ($no_time > 1) {
 					$defined_step = 0;
@@ -156,6 +165,7 @@ foreach $FILENAME (@FILES) {
 				/Session log is in:/ ||
 				/(\/)?([^\/]+\/)+session-log\.txt/ ||
 				/All documents processed\./ ||
+				/convert_clusters.pl \S+ (\S+ )*\> \S+/ || # convert_clusters.pl
 				/^$/) # empty line
 			{
 				if ($first_error) {
