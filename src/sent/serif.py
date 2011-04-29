@@ -196,10 +196,10 @@ def delta_date_timex(date, timex):
 		month = m.group(2)
 		day = m.group(3)
 		if year == 'XXXX':
-			try:
+			if int(month) == 2 and int(day) == 29:
+				return abs(date - datetime.date(date.year, 2, 28)) + datetime.timedelta(days=367 + 3660)
+			else:
 				return abs(date - datetime.date(date.year, int(month), int(day))) + datetime.timedelta(days=366 + 3660)
-			except ValueError: # it's February 29
-				return abs(date - datetime.date(date.year, int(month), int(day)-1)) + datetime.timedelta(days=366 + 3660)
 		else:
 			return abs(date - datetime.date(int(year), int(month), int(day)))
 	elif re2.match(timex.val):
@@ -217,7 +217,10 @@ def delta_date_timex(date, timex):
 				return min(max(abs(date - datetime.date(date.year, 12, 21)), abs(date - datetime.date(date.year+1, 3, 21))) + datetime.timedelta(days=18+366+3660),
 						 max(abs(date - datetime.date(date.year-1, 12, 21)), abs(date - datetime.date(date.year, 3, 21))) + datetime.timedelta(days=18+366+3660))
 			else:
-				return abs(date - datetime.date(date.year, int(month), date.day)) + datetime.timedelta(days=31+366+3660)
+				if int(month) == 2 and date.day == 29:
+					return abs(date - datetime.date(date.year, 2, 28)) + datetime.timedelta(days=32+366+3660)
+				else:
+					return abs(date - datetime.date(date.year, int(month), date.day)) + datetime.timedelta(days=31+366+3660)
 		else:
 			if month == 'SP':
 				return max(abs(date - datetime.date(int(year), 3, 20)), abs(date - datetime.date(int(year), 6, 21))) + datetime.timedelta(days=18)
@@ -229,7 +232,10 @@ def delta_date_timex(date, timex):
 				return min(max(abs(date - datetime.date(int(year), 12, 21)), abs(date - datetime.date(int(year)+1, 3, 21))) + datetime.timedelta(days=18),
 						 max(abs(date - datetime.date(int(year)-1, 12, 21)), abs(date - datetime.date(int(year), 3, 21))) + datetime.timedelta(days=18))
 			else:
-				return abs(date - datetime.date(int(year), int(month), date.day)) + datetime.timedelta(days=31)
+				if int(month) == 2 and date.day == 29:
+					return abs(date - datetime.date(int(year), 2, 28)) + datetime.timedelta(days=32)
+				else:
+					return abs(date - datetime.date(int(year), int(month), date.day)) + datetime.timedelta(days=31)
 	elif re3.match(timex.val):
 		m = re3.match(timex.val)
 		year = m.group(1)
@@ -352,7 +358,7 @@ def resolveCoref(text, data, start, end):
 			substs.extend(s)
 	# Substitute each pronoun by its proper name
 	boundaries.sort()
-	s = ''
+	s = u''
 	for i in range(len(boundaries)-1):
 		start = boundaries[i]
 		end = boundaries[i+1]
@@ -360,7 +366,7 @@ def resolveCoref(text, data, start, end):
 			for subst in substs:
 				a, b, c = subst
 				if start == a and end == b:
-					s += c
+					s += c.decode('utf8')
 					break
 			else:
 				s += text.substr(start, end-1)

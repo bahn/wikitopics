@@ -1,10 +1,10 @@
 #!/bin/bash
-#$ -N do_all
+#$ -N do_almost
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
 #$ -V
-echo "do_all.sh $*" >&2
+echo "do_almost.sh $*" >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -41,7 +41,7 @@ date +"%Y-%m-%d %H:%M:%S" >&2
 # check SERIF
 if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
 	#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
+	#time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE

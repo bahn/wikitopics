@@ -107,6 +107,7 @@ for INPUT_DIR in $INPUT_ROOT/*/*; do
 				echo "Source: $FILE" >&2
 				echo "Serif: $APF_FILE" >&2
 				echo "Output: $OUTPUT_FILE" >&2
+				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE"
 			fi
 			mkdir -p `dirname $OUTPUT_FILE`
 			# here BASE_DIR is the date

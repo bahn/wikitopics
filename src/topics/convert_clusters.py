@@ -43,8 +43,7 @@ def print_cluster(cluster, sentence_dirs, trending_score, date, lang):
 		encoded = urllib.quote(utf.replace(' ','_'), safe='%')
 		if encoded[0] == '.':
 			encoded = '%2E' + encoded[1:]
-		print '\t\t<tr><td><a href="http://' + lang + '.wikipedia.org/wiki/' + encoded + '" target="view">' + page.encode('utf8') + '<span class="score">' + str(trending_score.get(page, 0)) + '</span></a>',
-		print '\t\t\t<span class="more">more<span/>'
+		print '\t\t<tr><td><a href="http://' + lang + '.wikipedia.org/wiki/' + encoded + '" target="view">' + page.encode('utf8') + '<span class="score">' + str(trending_score.get(page, 0)) + '</span></a>'
 		print '\t\t\t<ul class="subnav">'
 		print '\t\t\t\t<li><a href="http://' + lang + '.wikipedia.org/wiki/' + encoded + '" target="view">View Now</a></li>'
 		if date:
@@ -67,7 +66,8 @@ def print_cluster(cluster, sentence_dirs, trending_score, date, lang):
 				else:
 					print '\t\t\t\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + priorid + '" target="translateprior">Translate Prior</a></li>'
 					print '\t\t\t\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?diff=' + thenid + '&oldid=' + priorid + '" target="translatediff">Translate Diff</a></li>'
-		print '\t\t\t</ul></td>'
+		print '\t\t\t</ul>'
+		print '\t\t\t<span class="more">more<span/></td>'
 
 		for folder in sentence_dirs:
 			s = re.search(r'\/sentences\/([^\/]+)\/', folder)
