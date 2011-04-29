@@ -19,7 +19,7 @@ def convert_topics(filename, lang):
 		topic_line_re1 = re.compile("^(.+) ([0-9]+)$")
 		topic_line_re2 = re.compile("^([^\t]+)\t([0-9]+)$")
 		print "<table>";
-		print "<tr><th>Rank</th><th>Titles and links</th><th>Trending score</th></tr>";
+		print "<tr><th>Rank</th><th>Titles</th><th>Actions</th></tr>";
 		for line in f:
 			lineno += 1
 			line = line.rstrip('\n')
@@ -41,31 +41,34 @@ def convert_topics(filename, lang):
 			title = wikipydia.query_redirects(title, lang)
 			title = title.encode('utf8')
 			escaped_title = urllib.quote(title.replace(' ','_'), safe="%") # force / to be quoted and % not to be quoted
-			print '<tr><td>%d</td><td><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s</a>' % (lineno, lang, escaped_title, title),
+			print '<tr><td>%d</td><td><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s' % (lineno, lang, escaped_title, title),
+			if pageviews:
+				print '<span class="score">%d</span>' % (pageviews),
+			print '</a></td>' 
 
+			print '<td><ul class="subnav">'
+			print '\t<li><a href="http://%s.wikipedia.org/wiki/%s" target="view">%s</a></li>' % (lang, escaped_title, title)
 			if date:
 				thenid = str(wikipydia.query_revid_by_date_fallback(title, lang, date))
 				priorid = str(wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15)))
-				print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + thenid + '" target="viewthen">[then]</a>',
+				print '\t<li><a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + thenid + '" target="viewthen">View Then</a></li>'
 				if priorid == "0":
-					print ' [prior]'
-					print ' [diff]',
+					print '\t<li>View Prior</li>'
+					print '\t<li>View Diff</li>'
 				else:
-					print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + priorid + '" target="viewprior">[prior]</a>',
-					print ' <a href="http://' + lang + '.wikipedia.org/w/index.php?diff=' + thenid + '&oldid=' + priorid + '" target="viewdiff">[diff]</a>'
+					print '\t<li><a href="http://' + lang + '.wikipedia.org/w/index.php?oldid=' + priorid + '" target="viewprior">View Prior</a></li>'
+					print '\t<li><a href="http://' + lang + '.wikipedia.org/w/index.php?diff=' + thenid + '&oldid=' + priorid + '" target="viewdiff">View Diff</a></li>'
 			if lang != 'en':
-				print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fwiki%2F' + escaped_title + '" target="translate">[now:translate]</a>',
+				print '\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fwiki%2F' + escaped_title + '" target="translate">Translate Now</a></li>'
 				if date:
-					print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + thenid + '" target="translatethen">[then:translate]</a>',
+					print '\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + thenid + '" target="translatethen">Translate Then</a></li>'
 					if priorid == "0":
-						print ' [prior:translate]'
-						print ' [diff:translate]'
+						print '\t<li>Translate Prior</li>'
+						print '\t<li>Translate Diff</li>'
 					else:
-						print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + priorid + '" target="translateprior">[prior:translate]</a>',
-						print ' <a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?diff=' + thenid + '&oldid=' + priorid + '" target="translatediff">[diff:translate]</a>',
-			if pageviews:
-				print "</td><td>%d" % (pageviews),
-			print "</td></tr>";
+						print '\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?oldid=' + priorid + '" target="translateprior">Translate Prior</a></li>'
+						print '\t<li><a href="http://translate.google.com/translate?hl=en&sl=' + lang + '&tl=en&u=http%3A%2F%2F' + lang + '.wikipedia.org%2Fw%2Findex.php?diff=' + thenid + '&oldid=' + priorid + '" target="translatediff">Translate Diff</a></li>'
+			print "</ul></td></tr>";
 		print "</table>";
 	finally:
 		if f:
