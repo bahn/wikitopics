@@ -10,7 +10,7 @@ print "<table>\n";
 print "<tr><th>Rank</th><th>Titles and links</th><th>Trending score</th></tr>\n";
 while (<>) {
     /^([^ ]*) /;
-    $title = uri_escape($1);
+    $title = uri_escape($1, "^A-Za-z0-9\-\. _~\%");
     if ($la eq "en") {
         s| | <a href="http://$la.wikipedia.org/wiki/$title" target="view">[now]</a></td><td>|;
     } else {
