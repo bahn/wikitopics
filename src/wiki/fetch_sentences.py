@@ -92,7 +92,7 @@ if __name__=='__main__':
 	lang = 'en'
 	date = datetime.date.today()
 	output_dir = '.'
-	upperlimit = 100
+	upperlimit = 1000
 	dryrun = False
 	while len(sys.argv) > 1 and sys.argv[1].startswith('-'):
 		if len(sys.argv) > 2 and sys.argv[1] == '-l':
