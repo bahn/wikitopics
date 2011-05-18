@@ -14,7 +14,6 @@ import gzip
 import urllib
 from collections import deque
 from operator import itemgetter
-import wikipydia
 import utils
 
 def read_wikistats(lang, filename):
@@ -52,41 +51,13 @@ def subtract_sum(sum_stats, stats):
 		if sum_stats[title] <= 0:
 			del sum_stats[title]
 
-checked = {}
-exists = {}
-redirects = {}
 def get_topics(old_sum, new_sum, limit, lang):
-	global checked
-	global exists
 	stat = {}
 	for title, count in new_sum.items():
 		diff = count - old_sum.get(title, 0)
 		if diff > 0:
 			stat[urllib.unquote(title)] = diff
 	result = sorted(stat.items(), key=itemgetter(1), reverse=True)
-	mark = {}
-	i = 0
-	use_wikipydia = False
-	while i < len(result) and i < limit:
-		title = result[i][0]
-		pageviews = result[i][1]
-		if use_wikipydia:
-			if title not in checked: # if the title is not checked, try to check
-				try:
-					if wikipydia.query_exists(title.decode('utf8'), lang):
-						exists[title] = True
-						redirects[title] = wikipydia.query_redirects(title.decode('utf8'), lang).encode('utf8').replace(' ','_')
-					checked[title] = True
-				except IOError:
-					pass # if wikipydia cannot acccess to Wikipedia, just pass
-		if title in checked and title not in exists:
-			del result[i]
-		else: # either title is not checked or title exists
-			title = redirects.get(title, title) # if redirects is not known, leave it as it is
-			if title not in mark:
-				mark[title] = True
-				result[i] = (title, pageviews)
-				i += 1
 	if len(result) > limit:
 		result[limit:] = []
 	return result

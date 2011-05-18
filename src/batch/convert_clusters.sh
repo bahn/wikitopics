@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=1G
+
 echo convert_clusters.sh $* >&2
 
 # check environment variables
@@ -15,8 +18,8 @@ if [ "$WIKISTATS" == "" ]; then
 	echo "Set the WIKISTATS environment variable first." >&2
 	exit 1
 fi
-if [ ! -f "$WIKITOPICS/src/topics/convert_clusters.pl" ]; then
-	echo "The $WIKITOPICS/src/topics/convert_clusters.pl script not found" >&2
+if [ ! -f "$WIKITOPICS/src/html/convert_clusters.pl" ]; then
+	echo "The $WIKITOPICS/src/html/convert_clusters.pl script not found" >&2
 	exit 1
 fi
 
@@ -55,7 +58,6 @@ LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 
 # set working directories
 CLUSTERS_DIR="$WIKITOPICS/data/clusters/kmeans/$DATA_SET"
-HTML_DIR="$WIKITOPICS/data/html/$DATA_SET"
 HTML_EX_ROOT="/export/people/bahn/wikitopics"
 if [ "$DATA_SET" == "en" ]; then
     HTML_EX_DIR="$HTML_EX_ROOT"
@@ -77,20 +79,29 @@ while [ ! $END_DATE \< $DATE ]; do
     YEAR=${DATE:0:4}
     MONTH=${DATE:5:2}
     DAY=${DATE:8:2}
-	TOPICS_FILE="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.topics"
-    CLUSTERS_FILE="$YEAR-$MONTH-$DAY.clusters"
+	ARTICLES_LIST="$WIKITOPICS/data/articles/$DATA_SET/$YEAR/$DATE/$DATE.articles.list"
+    CLUSTERS_FILE="$CLUSTERS_DIR/$YEAR/$YEAR-$MONTH-$DAY.clusters"
 	SENTENCE_DIRS="$WIKITOPICS/data/sentences/*/$DATA_SET/$YEAR/$DATE"
-    HTML_FILE="$YEAR-$MONTH-$DAY.clusters.html"
-    if [ -e "$CLUSTERS_DIR/$YEAR/$TOPICFILE" ]; then
-        echo "convert_clusters.py -t $TOPICS_FILE $CLUSTERS_FILE $SENTENCE_DIRS > $HTML_FILE" >&2
-        mkdir -p $HTML_DIR/$YEAR
-        $WIKITOPICS/src/topics/convert_clusters.py -t $TOPICS_FILE "$CLUSTERS_DIR/$YEAR/$CLUSTERS_FILE" $SENTENCE_DIRS > $HTML_DIR/$YEAR/$HTML_FILE
-		if [ -d "$HTML_EX_ROOT" ]; then
-			mkdir -p $HTML_EX_DIR/$YEAR
-			cp $HTML_DIR/$YEAR/$HTML_FILE $HTML_EX_DIR/$YEAR
-		else
-			scp $HTML_DIR/$YEAR/$HTML_FILE login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR
+	TEMP_FILE="$WIKITOPICS/src/html/$DATA_SET-$DATE-$RANDOM.html"
+    HTML_FILE="$WIKITOPICS/data/html/$DATA_SET/$YEAR/$YEAR-$MONTH-$DAY.clusters.html"
+    if [ -e "$ARTICLES_LIST" -a -e "$CLUSTERS_FILE" ]; then
+        echo "convert_clusters.py -t `basename $ARTICLES_LIST` `basename $CLUSTERS_FILE` $SENTENCE_DIRS > `basename $HTML_FILE`" >&2
+        mkdir -p `dirname $HTML_FILE`
+        if $WIKITOPICS/src/html/convert_clusters.py -t $ARTICLES_LIST -l $LANG_OPTION $CLUSTERS_FILE $SENTENCE_DIRS > $TEMP_FILE; then
+			mv $TEMP_FILE $HTML_FILE
+			if [ -d "$HTML_EX_ROOT" ]; then
+				echo # do nothing
+				#mkdir -p $HTML_EX_DIR/$YEAR
+				#cp $HTML_FILE $HTML_EX_DIR/$YEAR
+			else
+				scp $HTML_FILE login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR
+			fi
+		else # don't remove the temporary file so that it can be referred to later
+			echo > /dev/null # do nothing
+			#rm -f $TEMP_FILE # remove the temporary file if converting failed
 		fi
+	else
+		echo "$DATE: file not found. $ARTICLES_LIST or $CLUSTERS_FILE" >&2
     fi
     DATE=`date --date "$DATE 1 day" +"%Y-%m-%d"`
 done

@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -N do_almost
+#$ -N do_another
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=6G
 
-echo "do_almost.sh $*" >&2
+echo "do_another.sh $*" >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -38,10 +38,14 @@ if [ "$LANG_OPTION" != "en" ]; then
 fi
 
 date +"%Y-%m-%d %H:%M:%S" >&2
+time $WIKITOPICS/src/batch/extract_redirects.sh $DATA_SET $START_DATE $END_DATE
 
-if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" ]; then
-	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-		$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
-	fi
+if [ "$LANG_OPTION" == "en" ]; then
+	#time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+	#if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+		#$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+	#fi
+	time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
 fi
 date +"%Y-%m-%d %H:%M:%S" >&2

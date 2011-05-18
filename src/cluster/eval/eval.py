@@ -81,30 +81,30 @@ noprecision = 0
 norecall = 0
 
 # one version
-pairs = [(key1, key2) for key1 in label.keys() for key2 in cluster.keys() if key1 != key2]
-li = [len(label[key1] & label[key2]) for key1, key2 in pairs] # label intersections
-ci = [len(cluster[key1] & cluster[key2]) for key1, key2 in pairs] #cluster intersections
-pair_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
-pair_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
-precision = sum(pair_precision) / len(pair_precision) if pair_precision else 1.0
-recall = sum(pair_recall) / len(pair_recall) if pair_recall else 1.0
+#pairs = [(key1, key2) for key1 in label.keys() for key2 in cluster.keys() if key1 != key2]
+#li = [len(label[key1] & label[key2]) for key1, key2 in pairs] # label intersections
+#ci = [len(cluster[key1] & cluster[key2]) for key1, key2 in pairs] #cluster intersections
+#pair_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
+#pair_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
+#precision = sum(pair_precision) / len(pair_precision) if pair_precision else 1.0
+#recall = sum(pair_recall) / len(pair_recall) if pair_recall else 1.0
 
 # another version
-#keys = label.keys()
-#row_precision = []
-#row_recall = []
-#for key1 in keys:
-#	cols = [key2 for key2 in keys if key2 != key1]
-#	li = [len(label[key1] & label[key2]) for key2 in cols]
-#	ci = [len(cluster[key1] & cluster[key2]) for key2 in cols]
-#	col_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
-#	col_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
-#	if col_precision:
-#		row_precision.append( sum(col_precision) / len(col_precision) )
-#	if col_recall:
-#		row_recall.append( sum(col_recall) / len(col_recall) )
-#precision = sum(row_precision) / len(row_precision) if row_precision else 1.0
-#recall = sum(row_recall) / len(row_recall) if row_recall else 1.0
+keys = label.keys()
+row_precision = []
+row_recall = []
+for key1 in keys:
+	cols = [key2 for key2 in keys if key2 != key1]
+	li = [len(label[key1] & label[key2]) for key2 in cols]
+	ci = [len(cluster[key1] & cluster[key2]) for key2 in cols]
+	col_precision = [min(nl, nc) / float(nc) for nl, nc in zip(li, ci) if nc != 0]
+	col_recall = [min(nl, nc) / float(nl) for nl, nc in zip(li, ci) if nl != 0]
+	if col_precision:
+		row_precision.append( sum(col_precision) / len(col_precision) )
+	if col_recall:
+		row_recall.append( sum(col_recall) / len(col_recall) )
+precision = sum(row_precision) / len(row_precision) if row_precision else 1.0
+recall = sum(row_recall) / len(row_recall) if row_recall else 1.0
 
 # determine f-score
 fscore = 2*precision*recall / (precision + recall) if precision + recall else 1.0

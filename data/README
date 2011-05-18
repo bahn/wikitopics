@@ -45,3 +45,11 @@ sent-eval/
 	The sentences files to evaluate
 sent-eval/ben/
 	The preprocessed file that Ben manually selected for selected ten articles.
+
+clusters/
+	Some folders are the same as those in backup/clusters.old
+	
+	ben/, bahn/, ccb/ same as the folders in the same name
+	concomp/ same as new-conncomp
+	onehop/ same as new-onehop-max
+

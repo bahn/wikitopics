@@ -4,6 +4,8 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+
 echo filter_sentences.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
@@ -77,8 +79,12 @@ for DIR in $ARTICLE_DIR/$DATA_SET/*/*; do
 			fi
 			OUTPUT_DIR="$SENTENCE_DIR/$DATA_SET/$YEAR/$BASEDIR"
 			mkdir -p "$OUTPUT_DIR"
-			echo $BASENAME | sed -e 's/sentences$//' | sed -e 's/_/ /g' | perl -e 'use URI::Escape; print uri_unescape(<STDIN>);' > "$OUTPUT_DIR/$BASENAME"
-			cat $FILE | perl -ne "if (/[\.\,\'\"\!\?\:\;][\)]?$/) { print }" >> "$OUTPUT_DIR/$BASENAME"
+			# page title
+			echo $BASENAME | sed -e 's/\.sentences$//' | sed -e 's/_/ /g' | perl -e 'use URI::Escape; print uri_unescape(<STDIN>);' > "$OUTPUT_DIR/$BASENAME"
+			#cat $FILE | perl -ne "if (/[\.\,\'\"\!\?\:\;][\)]?$/) { print }" >> "$OUTPUT_DIR/$BASENAME"
+			cat $FILE >> "$OUTPUT_DIR/$BASENAME"
+			SERIFXML=`echo $BASENAME | sed -e 's/\.sentences$/\.xml/'`
+			$WIKITOPICS/src/sent/generate_serifxml.py $OUTPUT_DIR/$BASENAME > $OUTPUT_DIR/$SERIFXML
 		fi
 	done
 done

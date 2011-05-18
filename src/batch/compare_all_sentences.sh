@@ -58,6 +58,14 @@ for DIR in $TEST_ROOT/*/*; do
 			if [ -f "$FILE" ]; then
 				echo "--------$DATA_SET--------"
 				cat $FILE
+#				LINES=`cat $FILE | sed -e 's/ .*$//'`
+#				if [ -e "$WIKITOPICS/data/serif/input/$LANG_OPTION/$YEAR/$BASE_DIR/$BASE_NAME" ]; then
+#					for LINE in $LINES; do
+#						if [ $LINE -ne -1 -a $LINE -ne 0 ]; then
+#							echo $LINE `sed -n $[$LINE+1]p "$WIKITOPICS/data/serif/input/$LANG_OPTION/$YEAR/$BASE_DIR/$BASE_NAME"`
+#						fi
+#					done
+#				fi
 			fi
 		done
 	done

@@ -26,8 +26,8 @@ sub escape_for_csv {
 	chomp;
 	s/,/&#44;/g;
 	s/&/&amp;/g;
-	s/^>/&gt;/g;
-	s/^</&lt;/g;
+	s/>/&gt;/g;
+	s/</&lt;/g;
 	s/"/&quot;/g;
 	s/'/&#39;/g;
 	return $_;

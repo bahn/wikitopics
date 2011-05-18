@@ -12,6 +12,7 @@ import re
 import os
 import utils
 import urllib
+import time
 import wikipydia
 import wpTextExtractor
 
@@ -37,7 +38,7 @@ def write_lines_to_file(output_filename, lines):
 	output_file.close()
 	return lines
 
-def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun):
+def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun, retry=5, wait=5):
 	if os.path.exists(output_dir):
 		if not os.path.isdir(output_dir):
 			sys.stderr.write(output_dir + " is not a directory\n")
@@ -47,46 +48,76 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun):
 
 	mark = {}
 	success = 0
-	for article in topics:
+	articles = {}
+	mark = {}
+	for article, values in topics.items():
 		if success >= upperlimit:
 			break
 		title = article
+
+		# the file prefix for output files
+		file_prefix = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
+		if file_prefix.startswith('.'):
+			file_prefix = "%2E" + file_prefix[1:]
+
+		# resolve redirects
 		if not wikipydia.query_exists(title, lang):
 			continue
-		title = wikipydia.query_redirects(title, lang)
-		org_title = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
-		if org_title.startswith('.'):
-			org_title = "%2E" + org_title[1:]
-		if org_title in mark:
+		title = wikipydia.query_redirects(title, lang).replace(' ','_')
+
+		if title in mark:
 			continue
-		mark[org_title] = True
+		mark[title] = True
+
 		if dryrun:
-			print org_title
+			print file_prefix
 			success += 1
 			continue
-		revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction="older")
-		while not revid:
-			# the page was moved later
-			revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction='newer')
-			redirects = wikipydia.query_text_raw_by_revid(revid, lang)['text']
-			if not redirects.lower().startswith('#redirect [[') or not redirects.endswith(']]'):
-				sys.stderr.write(org_title.encode('utf8') + ' did not exist on ' + date.isoformat() + '\n')
-				break
-			title = redirects[12:-2]
-			sys.stderr.write('falling back to ' + title.encode('utf8') + '...\n')
-			revid = wikipydia.query_revid_by_date(title, lang, date, time="235959", direction="older")
-		wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
+
+		done = False
+		no_retry = 0
+		while not done and no_retry < retry:
+			try:
+				revid = values['thenid']
+				if revid == 0:
+					revid = wikipydia.query_revid_by_date_fallback(title, lang, date)
+				wikimarkup = wikipydia.query_text_raw_by_revid(revid, lang)['text']
+				done = True
+			except:
+				no_retry += 1
+				time.sleep(wait)
+
 		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
 		# substitute angle brackets with html-like character encodings
 		#sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
-		#sentences.insert(0, urllib.unquote(org_title.replace('_',' ')) + '.')
-		output_filename = os.path.join(output_dir, org_title + '.article')
+		#sentences.insert(0, urllib.unquote(file_prefix.replace('_',' ')) + '.')
+		output_filename = os.path.join(output_dir, file_prefix + '.sentences')
 		output = write_lines_to_file(output_filename, sentences)
-		output_filename = os.path.join(output_dir, org_title + '.tags')
+		output_filename = os.path.join(output_dir, file_prefix + '.tags')
 		output = write_lines_to_file(output_filename, tags)
-		output_filename = os.path.join(output_dir, org_title + '.sentences')
-		output = write_lines_to_file(output_filename, [sent for sent, tag in zip(sentences, tags) if tag != 'Section'])
 		success += 1
+
+		priorid = values['priorid']
+		if priorid == 0:
+			priorid = wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15))
+		articles[title] = {'score': values['score'], 'thenid': revid, 'priorid': priorid}
+		sys.stderr.write('.')
+	sys.stderr.write('\n')
+
+	if not dryrun:
+		if len(articles) > 1 or (len(articles) == 1 and output_dir != '.'):
+			write_articles(articles, topics, os.path.join(output_dir, date.strftime('%Y-%m-%d') + '.articles.list'))
+
+# TODO This method is copied from redirects/extract_redirects.py
+# Need to merge
+def write_articles(articles, topics, filename):
+	if not articles:
+		return
+	f = open(filename, 'w')
+	for a in sorted(articles.keys(), key=lambda t: articles[t]['score'], reverse=True):
+		v = articles[a]
+		f.write(a.encode('utf8') + ' ' + str(v['score']) + ' ' + str(v['thenid']) + ' ' + str(v['priorid']) + '\n')
+	f.close()
 
 if __name__=='__main__':
 	lang = 'en'
@@ -117,16 +148,14 @@ if __name__=='__main__':
 		sys.stderr.write('Usage: ' + sys.argv[0] + ' [--dry-run] [-u upper limit] [-l language] [-d date] [-o output_dir] article_list\n')
 		sys.exit(1)
 
-	if os.path.isfile(sys.argv[1]):
-		topics = read_lines_from_file(sys.argv[1])
-		topic_line_re = [re.compile(pattern) for pattern in ["^(.+) [0-9]+$", "^([^\t]+)\t[0-9]+$", "^[0-9]+ [0-9]+ (.+)$"]]
-		for i, topic in enumerate(topics):
-			for regex in topic_line_re:
-				m = regex.match(topic)
-				if m:
-					topics[i] = m.group(1)
-					break
-	else:
-		sys.stderr.write(sys.argv[1] + ' file not found. looking for Wikipedia page named ' + sys.argv[1] + '...\n')
-		topics = [sys.argv[1]]
+	topics = {}
+	for argv in sys.argv[1:]:
+		if os.path.isfile(argv):
+			lines = read_lines_from_file(argv)
+			for line in lines:
+				field = dict([(i, f) for i, f in enumerate(line.split())])
+				topics[field[0]] = {'score': int(field.get(1, '0')), 'thenid': int(field.get(2, '0')), 'priorid': int(field.get(3, '0'))}
+		else:
+			sys.stderr.write(argv + ' file not found. looking for Wikipedia page named ' + argv + '...\n')
+			topics[argv] = {'score': 0, 'thenid': 0, 'priorid': 0}
 	fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun)

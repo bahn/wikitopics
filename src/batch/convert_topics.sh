@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=1G
+
 echo convert_topics.sh $* >&2
 
 # check environment variables
@@ -15,8 +18,8 @@ if [ "$WIKISTATS" == "" ]; then
 	echo "Set the WIKISTATS environment variable first." >&2
 	exit 1
 fi
-if [ ! -f "$WIKITOPICS/src/topics/convert_topics.py" ]; then
-	echo "The $WIKITOPICS/src/topics/convert_topics.py script not found" >&2
+if [ ! -f "$WIKITOPICS/src/html/convert_topics.py" ]; then
+	echo "The $WIKITOPICS/src/html/convert_topics.py script not found" >&2
 	exit 1
 fi
 
@@ -82,12 +85,14 @@ while [ ! $END_DATE \< $DATE ]; do
     if [ -e "$TOPIC_DIR/$YEAR/$TOPICFILE" ]; then
         echo "convert_topics.py -l $LANG_OPTION $TOPIC_DIR/$YEAR/$TOPICFILE > $HTML_DIR/$YEAR/$HTML_FILE" >&2
         mkdir -p $HTML_DIR/$YEAR
-        $WIKITOPICS/src/topics/convert_topics.py -l $LANG_OPTION "$TOPIC_DIR/$YEAR/$TOPICFILE" > "$HTML_DIR/$YEAR/$HTML_FILE"
-		if [ -d "$HTML_EX_ROOT" ]; then
-			mkdir -p $HTML_EX_DIR/$YEAR
-			cp "$HTML_DIR/$YEAR/$HTML_FILE" "$HTML_EX_DIR/$YEAR"
-		else
-			scp "$HTML_DIR/$YEAR/$HTML_FILE" login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR/$HTML_FILE
+        if $WIKITOPICS/src/html/convert_topics.py -l $LANG_OPTION "$TOPIC_DIR/$YEAR/$TOPICFILE" > "$HTML_DIR/$YEAR/$HTML_FILE"; then
+			if [ -d "$HTML_EX_ROOT" ]; then
+				echo # do nothing
+				#mkdir -p $HTML_EX_DIR/$YEAR
+				#cp "$HTML_DIR/$YEAR/$HTML_FILE" "$HTML_EX_DIR/$YEAR"
+			else
+				scp "$HTML_DIR/$YEAR/$HTML_FILE" login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR/$HTML_FILE
+			fi
 		fi
     fi
     DATE=`date --date "$DATE 1 day" +"%Y-%m-%d"`

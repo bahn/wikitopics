@@ -4,7 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
-# memory requirements: 6G
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=6G
+
 echo list_topics.sh $* >&2
 
 # check environment variables
@@ -60,4 +62,4 @@ OUTPUT_DIR="$WIKISTATS/process/$DATA_SET/redir/daily"
 TOPIC_DIR="$WIKITOPICS/data/topics/$DATA_SET"
 
 time $WIKITOPICS/src/wiki/list_topics.py $WINDOW_SIZE $LIST_SIZE $CUT_OFF $LANG_OPTION $OUTPUT_DIR $TOPIC_DIR $START_DATE $END_DATE
-time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
+#time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE

@@ -26,4 +26,4 @@ if [ $# -ne 3 ]; then
 	exit 1
 fi
 
-echo 1 `head -2 $2 | tail -1`
+echo 1 `sed -n 2p $2`

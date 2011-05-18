@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=1G
+
 # fetch_sentences.sh
 echo "fetch_sentences.sh $*" >&2
 
@@ -63,7 +66,7 @@ for FILE in $TOPIC_DIR/$DATA_SET/*/*; do
 	if [ ! -f "$FILE" ]; then # such a file not found
 		continue
 	fi
-	BASENAME=`basename $FILE | sed -e 's/\.topics$//'`
+	BASENAME=`basename $FILE | sed -e 's/\.articles\.list$//'`
 	echo $BASENAME | grep "^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]$" > /dev/null
 	if [ $? -ne 0 ]; then # the directory's name is not a date
 		continue

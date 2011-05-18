@@ -49,6 +49,12 @@ foreach $FILENAME (@FILES) {
 			} elsif ($step eq "convert_clusters") {
 				$printing_step = "Gen HTML";
 				$defined_step = 1;
+			} elsif ($step eq "check_revisions") {
+				$printing_step = "Check RevId";
+				$defined_step = 1;
+			} elsif ($step eq "parallelize_serif") {
+				$printing_step = "Parallelize";
+				$defined_step = 1;
 			} else {
 				$defined_step = 0;
 			}
@@ -107,20 +113,17 @@ foreach $FILENAME (@FILES) {
 					$printing_step = "Serif Subtotal";
 					$defined_step = 1;
 				}
-			} elsif ($step eq "pick_sentence" || $step eq "kmeans") {
-				if ($no_time == 2) {
+			} elsif ($step eq "do_all") {
+				if ($no_time == 1) {
 					$printing_step = "Total";
-				} elsif ($no_time > 2) {
-					$defined_step = 0;
-				}
-			} elsif ($step eq "convert_clusters") {
-				if ($no_time == 2) {
-					$printing_step = "Total";
-				} elsif ($no_time >= 3) {
+					$defined_step = 1;
+				} elsif ($no_time >= 2) {
 					$defined_step = 0;
 				}
 			} else {
-				if ($no_time > 1) {
+				if ($no_time == 2) {
+					$printing_step = "Total";
+				} elsif ($no_time >= 3) {
 					$defined_step = 0;
 				}
 			}
@@ -150,6 +153,7 @@ foreach $FILENAME (@FILES) {
 				/Output: \S+/ ||
 				/Entering KMeans iteration/ ||
 				/KMeans converged with deltaMeans = \S+/ ||
+				/moved in last iteration. Saying converged./ ||
 				/This is UNIX English Serif for the ACE task/ || # Serif
 				/Serif\/generic library version:/ ||
 				/Serif\/English library version:/ ||
@@ -160,12 +164,20 @@ foreach $FILENAME (@FILES) {
 				/Preloading \d+ entries into prob cache/ ||
 				/Initializing document-level / ||
 				/Processing #\d+: \d+-\d+/ ||
+				/Flattening parse for very deep, long sentence./ ||
+				/Flattening parse for long sentence with mostly punctuation./ ||
+				/Processing #\d+:/ ||
+				/\d+-\d\d\d\.\.\./ ||
+				/Sognu/ && /Madness of Love/ && /I Can/ && /Taken by a Stranger/ && /Que me quiten lo/ ||
+				/style=/ && /text-align : center ;/ ||
 				/Session completed with \d+ warning\(s\)\./ ||
 				/Check session log for warning messages\./ ||
 				/Session log is in:/ ||
 				/(\/)?([^\/]+\/)+session-log\.txt/ ||
 				/All documents processed\./ ||
-				/convert_clusters.pl \S+ (\S+ )*\> \S+/ || # convert_clusters.pl
+				/convert_clusters\.p[yl] / || # convert_clusters.pl
+				/check_revisions\.py/ || # check_revisions.sh
+				/^\.+$/ || # progress bar
 				/^$/) # empty line
 			{
 				if ($first_error) {

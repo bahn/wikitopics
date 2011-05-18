@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid/
+#$ -l h_vmem=1G
+
 echo get_daily_stats.sh $* >&2
 # Download Wikipedia page view statistics for a specific day.
 

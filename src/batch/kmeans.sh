@@ -3,6 +3,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=3G
+
 echo kmeans.sh $* >&2
 
 # check environment variables
@@ -62,9 +65,11 @@ for DIR in $INPUT_ROOT/*/*; do
 	fi
 
 	YEAR=${DATE:0:4}
+	INPUT_FILE="$DIR/$DATE.articles.list"
 	OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$DATE.clusters"
 	echo "Input: $DIR" >&2
 	echo "Output: $OUTPUT_FILE" >&2
 	mkdir -p `dirname $OUTPUT_FILE`
-	java -cp $WIKITOPICS/src/cluster/kmeans/ClusterFiles:$MALLET/class:$MALLET/lib/mallet-deps.jar -Xmx2g ClusterFiles --k 50 --input $DIR > "$OUTPUT_FILE"
+# ClusterFiles reads the input file names from the input file if it exists, otherwise reads all files in the input directory.
+	java -cp $WIKITOPICS/src/cluster/kmeans/ClusterFiles:$MALLET/class:$MALLET/lib/mallet-deps.jar -Xmx2g ClusterFiles --k 50 --limit 100 --input-file $INPUT_FILE --input-dir $DIR > "$OUTPUT_FILE"
 done

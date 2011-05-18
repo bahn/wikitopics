@@ -1,9 +1,12 @@
 #!/bin/bash
-#$ -N proc_stat
+#$ -N proc_stats
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=6G
+
 # process_stats.sh
 echo "process_stats.sh $*" >&2
 
@@ -50,6 +53,12 @@ INPUT_DIR="$WIKISTATS/archive"
 OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
 if [ "$DATA_SET" == "ko" ]; then
 	REDIRECTS="$WIKIDUMP/kowiki-20110303/redirects.txt"
+elif [ "$DATA_SET" == "zh" ]; then
+	REDIRECTS="$WIKIDUMP/zhwiki-20110502/redirects.txt"
+	CUT_OFF="-c 25"
+elif [ "$DATA_SET" == "ar" ]; then
+	REDIRECTS="$WIKIDUMP/arwiki-20110504/redirects.txt"
+	CUT_OFF="-c 25"
 elif [ "$DATA_SET" == "ja" ]; then
 	REDIRECTS="$WIKIDUMP/jawiki-20110308/redirects.txt"
 	CUT_OFF="-c 100"
@@ -58,6 +67,8 @@ elif [ "$DATA_SET" == "en" ]; then
 	CUT_OFF="-c 100"
 elif [ "$DATA_SET" == "en-10" ]; then
 	REDIRECTS="$WIKIDUMP/enwiki-20110115/redirects.txt"
+else
+	CUT_OFF="-c 50"
 fi
 
 date +"%Y-%m-%d %H:%M:%S" >&2
@@ -68,17 +79,29 @@ if [ "$REDIRECTS" != "" ]; then
 fi
 
 time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
+time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
 
-if [ "$LANG_OPTION" == "en" ]; then
+if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" -o "$LANG_OPTION" == "ur" -o "$LANG_OPTION" == "hi" -o "$LANG_OPTION" == "es" -o "$LANG_OPTION" == "de" -o "$LANG_OPTION" == "fr" -o "$LANG_OPTION" == "cs" -o "$LANG_OPTION" == "ko" -o "$LANG_OPTION" == "ja" ]; then
 	time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
 	time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
 	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-		time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
-		time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
-		time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
-		time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
-		time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
+		if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" ]; then # parallelize
+			$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+
+			# serial version
+			#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
+			#time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
+			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
+			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
+			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
+			#time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+		else
+			time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+		fi
+	else
+		time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
 	fi
-	time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+else
+	time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
 fi
 date +"%Y-%m-%d %H:%M:%S" >&2

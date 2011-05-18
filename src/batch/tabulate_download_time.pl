@@ -35,6 +35,8 @@ foreach $FILENAME (@FILES) {
 			unless (/process_daily_stats.sh *[0-9]+/ || # header
 				/[A-Za-z]+ [A-Za-z]+ [0-9]+ [:0-9]+ [A-Z]+ [0-9]+/ || # date and time
 				/(real|user|sys)\s+[0-9]+m[0-9]+\.[0-9]+s/ || # elapsed time
+				/^\S+ \S+\s+\d+ \d\d:\d\d:\d\d EDT 20\d\d$/ || # timestamp
+				/^\.+$/ || # progress bar
 				/^$/ || # empty line
 				/Your job [0-9]+ \([^)]+\) has been submitted/ || # qsub result
 				/processing finished./)

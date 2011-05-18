@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=6G
+
 echo "do_all.sh $*" >&2
 
 # check environment variables
@@ -35,16 +38,15 @@ if [ "$LANG_OPTION" != "en" ]; then
 fi
 
 date +"%Y-%m-%d %H:%M:%S" >&2
-time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
-time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
 
-# check SERIF
-if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-	time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
+if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" -o "$LANG_OPTION" == "ur" -o "$LANG_OPTION" == "hi" -o "$LANG_OPTION" == "es" -o "$LANG_OPTION" == "de" -o "$LANG_OPTION" == "fr" -o "$LANG_OPTION" == "cs" -o "$LANG_OPTION" == "ko" -o "$LANG_OPTION" == "ja" ]; then
+	time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+		if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" ]; then
+			$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+		fi
+	fi
 fi
-time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
 date +"%Y-%m-%d %H:%M:%S" >&2

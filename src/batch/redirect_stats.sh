@@ -4,7 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
-# memory requirements: 6G
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=2G
+
 echo redirect_stats.sh $* >&2
 
 # check environment variables

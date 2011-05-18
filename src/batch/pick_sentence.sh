@@ -4,6 +4,9 @@
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=1G
+
 echo pick_sentence.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
@@ -23,7 +26,7 @@ if [ "$1" == "-v" ]; then
 fi
 
 if [ $# -lt 2 ]; then
-	echo "USAGE: $0 [-v] LANGUAGE SCHEME_ID [START_DATE [END_DATE]]" >&2
+	echo "USAGE: $0 [-v] [-x EXT] LANGUAGE SCHEME_ID [START_DATE [END_DATE]]" >&2
 	exit 1
 fi
 
@@ -32,19 +35,22 @@ DATA_SET="$1"
 LANG_OPTION=`echo $DATA_SET | sed -e 's/-.\+$//'`
 SCHEME_ID=$2
 if [ "$SCHEME_ID" == "first" ]; then
-	SCHEME_SCRIPT="pick_first.sh"
+	SCHEME_SCRIPT_APF="pick_first.sh"
+	SCHEME_SCRIPT_XML="pick_first.sh"
 elif [ "$SCHEME_ID" == "recent" ]; then
-	SCHEME_SCRIPT="pick_recent.py"
+	SCHEME_SCRIPT_APF="pick_recent_apf.py"
+	SCHEME_SCRIPT_XML="pick_recent_xml.py"
 elif [ "$SCHEME_ID" == "self" ]; then
-	SCHEME_SCRIPT="pick_self.py"
+	SCHEME_SCRIPT_APF="pick_self_apf.py"
+	SCHEME_SCRIPT_XML="pick_self_xml.py"
 fi
-if [ "$SCHEME_SCRIPT" == "" ]; then
+if [ "$SCHEME_SCRIPT_APF" == "" -o "$SCHEME_SCRIPT_XML" == "" ]; then
 	echo "$SCHEME_ID not defined" >&2
 	exit 1
 fi
-SCRIPT="$WIKITOPICS/src/sent/$SCHEME_SCRIPT"
-if [ ! -f "$SCRIPT" ]; then
-	echo "$SCRIPT not found" >&2
+
+if [ ! -f "$WIKITOPICS/src/sent/$SCHEME_SCRIPT_APF" -o ! -f "$WIKITOPICS/src/sent/$SCHEME_SCRIPT_XML" ]; then
+	echo "$SCHEME_SCRIPT_APF or $SCHEME_SCRIPT_XML not found" >&2
 	exit 1
 fi
 
@@ -71,7 +77,6 @@ else
 fi
 
 INPUT_ROOT="$WIKITOPICS/data/serif/input/$DATA_SET"
-APF_ROOT="$WIKITOPICS/data/serif/$DATA_SET"
 OUTPUT_ROOT="$WIKITOPICS/data/sentences/$SCHEME_ID/$DATA_SET"
 
 if [ ! -d "$INPUT_ROOT" ]; then
@@ -100,21 +105,31 @@ for INPUT_DIR in $INPUT_ROOT/*/*; do
 	for FILE in $INPUT_DIR/*.sentences; do
 		if [ -f $FILE ]; then
 			BASE_NAME=`basename $FILE`
-			APF_FILE="$APF_ROOT/$YEAR/$BASE_DIR/output/$BASE_NAME.apf"
+			SENTENCES=$FILE
+			SERIF_FILE_APF=`echo $$WIKITOPICS/data/serif/$DATA_SET/$YEAR/$BASE_DIR/output/$BASE_NAME | sed -e "s/$/.apf/"`
+			SERIF_FILE_XML=`echo $$WIKITOPICS/data/serif/$DATA_SET/$YEAR/$BASE_DIR/output/$BASE_NAME | sed -e "s/\.sentences$/.xml.xml/"`
+			if [ -e $SERIF_FILE_XML ]; then
+				SERIF_FILE=$SERIF_FILE_XML
+				SCRIPT=$SCHEME_SCRIPT_XML
+			elif [ -e $SERIF_FILE_APF ]; then
+				SERIF_FILE=$SERIF_FILE_APF
+				SCRIPT=$SCHEME_SCRIPT_APF
+			fi
 			OUTPUT_FILE="$OUTPUT_ROOT/$YEAR/$BASE_DIR/$BASE_NAME"
 			if [ $VERBOSE ]; then
 				echo "Date: $BASE_DIR" >&2
+				echo "Sentences: $SENTENCES" >&2
 				echo "Source: $FILE" >&2
-				echo "Serif: $APF_FILE" >&2
+				echo "Serif: $SERIF_FILE" >&2
 				echo "Output: $OUTPUT_FILE" >&2
-				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE"
+				echo "$SCRIPT $BASE_DIR $SENTENCES $SERIF_FILE > $OUTPUT_FILE"
 			fi
 			mkdir -p `dirname $OUTPUT_FILE`
 			# here BASE_DIR is the date
 			if [ $DRYRUN ]; then
-				echo "$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE"
+				echo "$SCRIPT $BASE_DIR $SENTENCES $SERIF_FILE > $OUTPUT_FILE"
 			else
-				$SCRIPT $BASE_DIR $FILE $APF_FILE > $OUTPUT_FILE
+				$SCRIPT $BASE_DIR $SENTENCES $SERIF_FILE > $OUTPUT_FILE
 			fi
 		fi
 	done

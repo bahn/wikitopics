@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
-import java.net.URLDecoder;
+import java.net.*;
 
 import cc.mallet.types.*;
 import cc.mallet.util.*;
@@ -11,16 +11,39 @@ import cc.mallet.cluster.KMeans;
 import cc.mallet.pipe.iterator.FileIterator;
 
 class ArticleFileFilter implements FileFilter {
+	protected int limit;
+	protected int numFiles;
+
+	ArticleFileFilter(int limit) {
+		this.limit = limit;
+		this.numFiles = 0;
+	}
+
 	public boolean accept(File pathname) {
-		return (pathname.getName().endsWith(".article"));
+		if (this.numFiles >= this.limit)
+			return false;
+		this.numFiles++;
+		return (pathname.getName().endsWith(".sentences"));
 	}
 }
 
 public class ClusterFiles
 {
-    static CommandOption.SpacedStrings classDirs =	new CommandOption.SpacedStrings
-	(ClusterFiles.class, "input", "DIR...", true, null,
-	 "The directories containing text files to be classified, one directory per class", null);
+//    static CommandOption.SpacedStrings classDirs =	new CommandOption.SpacedStrings
+//	(ClusterFiles.class, "input", "DIR...", true, null,
+//	 "The directories containing text files to be classified, one directory per class", null);
+
+    static CommandOption.String inputDir = new CommandOption.String
+	(ClusterFiles.class, "input-dir", "INPUT_DIR", true, null,
+	 "The directory containing text files", null);
+
+    static CommandOption.String inputFile = new CommandOption.String
+	(ClusterFiles.class, "input-file", "INPUT_FILE", true, null,
+	 "The text file containing the list of input files", null);
+
+	static CommandOption.Integer instanceLimit = new CommandOption.Integer
+	(ClusterFiles.class, "limit", "maximum number of input files", false, 1000,
+	 "The maximum number of articles to cluster.", null);
 
     static CommandOption.Integer numClusters = new CommandOption.Integer
 	(ClusterFiles.class, "k", "[# of clusters]", true, 50,
@@ -38,7 +61,7 @@ public class ClusterFiles
 		File file = (File)instance.getSource();
 		String name = file.getName();
 
-		Pattern extension = Pattern.compile("(.*)\\.(txt|article)");
+		Pattern extension = Pattern.compile("(.*)\\.(txt|sentences)");
 		Matcher m = extension.matcher(name);
 		if (m.matches()) {
 			name = m.group(1);
@@ -59,13 +82,10 @@ public class ClusterFiles
 		return name;
 	}
 
-	static public void main(String[] args) {
+	static public void main(String[] args) throws Exception {
 		// set print stream as utf-8
 		// to make the output correctly encoded in utf-8.
-		try {
-			System.setOut(new PrintStream(System.out, false, "UTF8"));
-		} catch (UnsupportedEncodingException e) {
-		}
+		System.setOut(new PrintStream(System.out, false, "UTF8"));
 
 		CommandOption.setSummary (ClusterFiles.class,
 						  "A tool for clustering with various term weighting and distance metrics\n");
@@ -76,11 +96,11 @@ public class ClusterFiles
 			CommandOption.getList(ClusterFiles.class).printUsage(false);
 			System.exit (-1);
 		}
-		if (classDirs.value == null || classDirs.value.length == 0) {
-			System.err.println ("You must include --input DIR1 DIR2 ...' in order to specify a "+
-					"list of directories containing the documents for each class.");
-			System.exit (-1);
-		}
+//		if (classDirs.value == null || classDirs.value.length == 0) {
+//			System.err.println ("You must include --input DIR1 DIR2 ...' in order to specify a "+
+//					"list of directories containing the documents for each class.");
+//			System.exit (1);
+//		}
 		
 		if (weighting.value.equalsIgnoreCase("tf") ||
 			weighting.value.equalsIgnoreCase("idf") ||
@@ -89,7 +109,7 @@ public class ClusterFiles
 			// implemented methods of term weighting. do nothing.
 		} else {
 			System.err.println("The given weighting is not recognizable!");
-			System.exit(-1);
+			System.exit(1);
 		}
 		
 		Metric metric = new NormalizedDotProductMetric(); // cosine similarity
@@ -100,10 +120,10 @@ public class ClusterFiles
 			metricOption.value.equalsIgnoreCase("kl"))
 		{
 			System.err.println("The given metric is valid but not implemented yet. Sorry!");
-			System.exit(-1);
+			System.exit(1);
 		} else {
 			System.err.println("The given metric is not recognizable!");
-			System.exit(-1);
+			System.exit(1);
 		}
 
 		// the pipes through which the input instances are coming.
@@ -118,20 +138,29 @@ public class ClusterFiles
 			new FeatureSequence2FeatureVector()
 			}));
 
-		//instances.addThruPipe(new FileIterator("/Users/bahn/work/mallet/sample-data/web/en"));
-		File[] files = new File[classDirs.value.length];
-		for (int i = 0; i < classDirs.value.length; i++) {
-		//for (String path: classDirs.value) {
-			files[i] = new File(classDirs.value[i]);
+		if (inputFile.value == null) {
+			instances.addThruPipe(new FileIterator(inputDir.value, new ArticleFileFilter(instanceLimit.value)));
+		} else {
+			BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(inputFile.value), "UTF-8"));
+			int numFiles = 0;
+			String line;
+			while ( (line = in.readLine()) != null ) {
+				if (numFiles > instanceLimit.value) {
+					break;
+				}
+				String[] fields = line.split("\\s");
+				String title = fields[0];
+				String filename = URLEncoder.encode(title, "UTF-8").replace("%25", "%") + ".sentences";
+				File file = new File(inputDir.value, filename);
+				Instance instance = new Instance(file, title, file.toURI(), null);
+				instances.addThruPipe(instance);
+				numFiles++;
+			}
 		}
-		instances.addThruPipe(new FileIterator(classDirs.value, new ArticleFileFilter()));
-		//, Pattern.compile("(.*)\\.article"), true)); // remove common prefix
+		System.out.println("# Input file list: " + inputFile.value);
 		System.out.println("# The number of instances: " + instances.size());
 		System.out.println("# The number of clusters: " + numClusters.value);
-		System.out.println("# Source directory: " + classDirs.value[0]);
-		for (int i = 1; i < classDirs.value.length; i++) {
-			System.out.println("#                   " + classDirs.value[i]);
-		}
+		System.out.println("# Source directory: " + inputDir.value);
 		System.out.println("# Term weighting: " + weighting.value);
 		System.out.println("# Metric: " + metricOption.value);
 		
@@ -139,11 +168,11 @@ public class ClusterFiles
 		Object[] tokens = alphabet.toArray();
 		System.out.println("# Number of dimensions: " + tokens.length);
 		
-                if (instances.size() == 0) {
-                    System.out.println();
-                    System.out.println("# No instances are found. Quitting...");
-                    return;
-                }
+		if (instances.size() == 0) {
+			System.out.println();
+			System.out.println("# No instances are found. Quitting...");
+			return;
+		}
 
 		// determine document frequency for each term
 		int[] df = new int[tokens.length];
@@ -206,11 +235,7 @@ public class ClusterFiles
 		Clustering clustering = kmeans.cluster(instances);
 		InstanceList[] clusters = clustering.getClusters();
 		
-		//int clusterIndex = 0;
 		for (InstanceList cluster: clusters) {
-			//clusterIndex++;
-			//System.out.println(clusterIndex + ": " + cluster.size());
-			
 		  	SparseVector clusterMean = VectorStats.mean(cluster);
 		  	Instance center = null;
 		  	double minDist = Double.MAX_VALUE;

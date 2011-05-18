@@ -7,6 +7,10 @@ SPANISH = 'es'
 GERMAN = 'de'
 FRENCH = 'fr'
 CZECH = 'cs'
+ARABIC = 'ar'
+CHINESE = 'zh'
+KOREAN = 'ko'
+JAPANESE = 'ja'
 LANGUAGE_CHOICES = (
     (ENGLISH, 'English'),
     (URDU, 'Urdu'),
@@ -15,6 +19,10 @@ LANGUAGE_CHOICES = (
     (GERMAN, 'German'),
     (FRENCH, 'French'),
     (CZECH, 'Czech'),
+	(ARABIC, 'Arabic'),
+	(CHINESE, 'Chinese'),
+	(KOREAN, 'Korean'),
+	(JAPANESE, 'Japanese'),
 )
 
 import sys

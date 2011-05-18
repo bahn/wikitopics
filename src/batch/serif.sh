@@ -1,8 +1,11 @@
-#$ -N wt_serif
+#$ -N serif
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
 #$ -V
+#$ -o /home/hltcoe/bahn/log/grid
+#$ -l h_vmem=4G
+
 echo serif.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
@@ -62,7 +65,7 @@ for DIR in $SENTENCE_DIR/$DATA_SET/*/*; do
 	mkdir -p "$OUTPUT_DIR"
 
 ### list the input files
-	find "$DIR" -type f -name *.sentences \
+	find "$DIR" -type f -name *.xml \
 	> "$OUTPUT_DIR/input_list.txt"
 
 
@@ -70,11 +73,24 @@ for DIR in $SENTENCE_DIR/$DATA_SET/*/*; do
 		cat "$OUTPUT_DIR/input_list.txt" >&2
 	else
 ### run SERIF
-		/export/common/tools/serif/bin/SerifEnglish \
-		/export/common/tools/serif/par/english.par \
-		-p input_type=rawtext \
-		-p output_format=apf8 \
-		-p batch_file="$OUTPUT_DIR/input_list.txt" \
-		-o "$OUTPUT_DIR"
+		if [ "$LANG_OPTION" == "en" ]; then
+			/export/common/tools/serif/bin/SerifEnglish \
+			/export/common/tools/serif/par/english.par \
+			-p start_stage=tokens \
+			-p source_format=serifxml \
+			-p output_format=serifxml \
+			-p batch_file="$OUTPUT_DIR/input_list.txt" \
+			-o "$OUTPUT_DIR"
+		elif [ "$LANG_OPTION" == "ar" ]; then
+			 /export/common/tools/serif/bin/SerifArabic \
+			 /export/common/tools/serif/par/arabic.par \
+			 -p start_stage=tokens \
+			 -p source_format=serifxml \
+			 -p output_format=serifxml \
+			 -p batch_file="$OUTPUT_DIR/input_list.txt" \
+			 -o "$OUTPUT_DIR"
+		else
+			echo "no serif version for the language $LANG_OPTION" >&2
+		fi
 	fi
 done
