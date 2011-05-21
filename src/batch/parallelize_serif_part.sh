@@ -80,6 +80,14 @@ elif [ "$LANG_OPTION" == "ar" ]; then
 		-p output_format=serifxml \
 		-p batch_file=$BATCH_FILE \
 		-o $OUTPUT_XML_DIR
+elif [ "$LANG_OPTION" == "zh" ]; then
+	time /export/common/tools/serif/bin/SerifChinese \
+		/export/common/tools/serif/par/chinese.par \
+		-p start_stage=tokens \
+		-p source_format=serifxml \
+		-p output_format=serifxml \
+		-p batch_file=$BATCH_FILE \
+		-o $OUTPUT_XML_DIR
 fi
 
 # sentence selection

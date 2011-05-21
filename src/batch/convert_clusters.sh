@@ -79,11 +79,23 @@ while [ ! $END_DATE \< $DATE ]; do
     YEAR=${DATE:0:4}
     MONTH=${DATE:5:2}
     DAY=${DATE:8:2}
+
+
+	TOPIC_FILE="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.topics"
+	REDIRECTS_FILE="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.redirects"
+	ARTICLES_RESOLVED="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.articles.list"
+	FAILED_FILE="$WIKITOPICS/data/topics/$DATA_SET/$YEAR/$DATE.topics.failed"
+    if [ -e "$TOPIC_FILE" ]; then
+		echo check_revisions.py $LANG_OPTION $DATE $TOPIC_FILE $REDIRECTS_FILE $ARTICLES_RESOLVED $FAILED_FILE >&2
+		$WIKITOPICS/src/wiki/check_revisions.py $LANG_OPTION $DATE $TOPIC_FILE $REDIRECTS_FILE $ARTICLES_RESOLVED $FAILED_FILE
+    fi
+
 	ARTICLES_LIST="$WIKITOPICS/data/articles/$DATA_SET/$YEAR/$DATE/$DATE.articles.list"
     CLUSTERS_FILE="$CLUSTERS_DIR/$YEAR/$YEAR-$MONTH-$DAY.clusters"
 	SENTENCE_DIRS="$WIKITOPICS/data/sentences/*/$DATA_SET/$YEAR/$DATE"
 	TEMP_FILE="$WIKITOPICS/src/html/$DATA_SET-$DATE-$RANDOM.html"
     HTML_FILE="$WIKITOPICS/data/html/$DATA_SET/$YEAR/$YEAR-$MONTH-$DAY.clusters.html"
+
     if [ -e "$ARTICLES_LIST" -a -e "$CLUSTERS_FILE" ]; then
         echo "convert_clusters.py -t `basename $ARTICLES_LIST` `basename $CLUSTERS_FILE` $SENTENCE_DIRS > `basename $HTML_FILE`" >&2
         mkdir -p `dirname $HTML_FILE`

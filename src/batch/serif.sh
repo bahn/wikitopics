@@ -82,13 +82,21 @@ for DIR in $SENTENCE_DIR/$DATA_SET/*/*; do
 			-p batch_file="$OUTPUT_DIR/input_list.txt" \
 			-o "$OUTPUT_DIR"
 		elif [ "$LANG_OPTION" == "ar" ]; then
-			 /export/common/tools/serif/bin/SerifArabic \
-			 /export/common/tools/serif/par/arabic.par \
-			 -p start_stage=tokens \
-			 -p source_format=serifxml \
-			 -p output_format=serifxml \
-			 -p batch_file="$OUTPUT_DIR/input_list.txt" \
-			 -o "$OUTPUT_DIR"
+			/export/common/tools/serif/bin/SerifArabic \
+			/export/common/tools/serif/par/arabic.par \
+			-p start_stage=tokens \
+			-p source_format=serifxml \
+			-p output_format=serifxml \
+			-p batch_file="$OUTPUT_DIR/input_list.txt" \
+			-o "$OUTPUT_DIR"
+		elif [ "$LANG_OPTION" == "zh" ]; then
+			/export/common/tools/serif/bin/SerifChinese \
+			/export/common/tools/serif/par/chinese.par \
+			-p start_stage=tokens \
+			-p source_format=serifxml \
+			-p output_format=serifxml \
+			-p batch_file="$OUTPUT_DIR/input_list.txt" \
+			-o "$OUTPUT_DIR"
 		else
 			echo "no serif version for the language $LANG_OPTION" >&2
 		fi
