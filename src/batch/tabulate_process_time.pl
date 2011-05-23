@@ -2,16 +2,22 @@
 
 use Env qw(HOME);
 
-print $1;
-$DIR="$HOME/log/grid";
-unless (-d $DIR) {
-	die "$0 INPUT_DIR" unless (-d $1);
-	$DIR = $1;
-} elsif (-d $1) {
-	$DIR = $1;
+$DELETE=0;
+if ($ARGV[0] eq "--delete") {
+	shift @ARGV;
+	print "delete log files without an error...\n";
+	$DELETE=1;
 }
 
-@FILES = glob("$DIR/proc_stats.* $DIR/do_all.*");
+$DIR="$HOME/log/grid";
+unless (-d $DIR) {
+	die "$0 INPUT_DIR" unless (-d $ARGV[0]);
+	$DIR = $ARGV[0];
+} elsif (-d $ARGV[0]) {
+	$DIR = $ARGV[0];
+}
+
+@FILES = glob("$DIR/proc_stats.* $DIR/do_all.* $DIR/proc_stat.* $DIR/do_almost.* $DIR/do_another.*");
 print "START DATE\tEND DATE  \tLANG\tSTEP\tTIME\n";
 foreach $FILENAME (@FILES) {
 	open FILE, $FILENAME;
@@ -54,7 +60,7 @@ foreach $FILENAME (@FILES) {
 				$defined_step = 1;
 			} elsif ($step eq "parallelize_serif") {
 				$printing_step = "Parallelize";
-				$defined_step = 1;
+				$defined_step = 0;
 			} else {
 				$defined_step = 0;
 			}
@@ -100,7 +106,7 @@ foreach $FILENAME (@FILES) {
 			}
 		} elsif (/real\s+(\d+)m(\d+)\.(\d+)s/) {
 			$no_time++;
-			if ($step eq "convert_topics") {
+			if ($step eq "convert_topics" || $step eq "list_topics") {
 				if ($no_time == 2) {
 					$printing_step = "Subtotal (above 2)";
 				} elsif ($no_time == 3) {
@@ -120,6 +126,9 @@ foreach $FILENAME (@FILES) {
 				} elsif ($no_time >= 2) {
 					$defined_step = 0;
 				}
+			} elsif ($step eq "parallelize_serif") {
+				$printing_step = "Total";
+				$defined_step = 1;
 			} else {
 				if ($no_time == 2) {
 					$printing_step = "Total";
@@ -178,11 +187,15 @@ foreach $FILENAME (@FILES) {
 				/convert_clusters\.p[yl] / || # convert_clusters.pl
 				/check_revisions\.py/ || # check_revisions.sh
 				/^\.+$/ || # progress bar
+				/Your job \d+ \(\"\w+\"\) has been submitted/ || # qsub
 				/^$/) # empty line
 			{
 				if ($first_error) {
-					print STDERR "In the $FILENAME file:\n";
+					print STDERR "Log file: $FILENAME\n";
 					$first_error = 0;
+				}
+				if (/^\.+Traceback/) { # delete progress bar
+					s/^\.+//;
 				}
 				print STDERR;
 			}

@@ -8,7 +8,7 @@
 #$ -l h_vmem=1G
 
 # fetch_sentences.sh
-echo "fetch_sentences.sh $*" >&2
+echo $HOSTNAME "fetch_sentences.sh $*" >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

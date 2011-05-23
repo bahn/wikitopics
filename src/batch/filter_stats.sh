@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=1G
 
-echo filter_stats.sh $* >&2
+echo $HOSTNAME filter_stats.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

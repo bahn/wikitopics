@@ -4,7 +4,8 @@
 #$ -j y
 #$ -cwd
 #$ -V
-echo nonmatch_sentence.sh $* >&2
+
+echo $HOSTNAME nonmatch_sentence.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

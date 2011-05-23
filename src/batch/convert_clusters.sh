@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=1G
 
-echo convert_clusters.sh $* >&2
+echo $HOSTNAME convert_clusters.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -109,8 +109,7 @@ while [ ! $END_DATE \< $DATE ]; do
 				scp $HTML_FILE login.clsp.jhu.edu:$HTML_EX_DIR/$YEAR
 			fi
 		else # don't remove the temporary file so that it can be referred to later
-			echo > /dev/null # do nothing
-			#rm -f $TEMP_FILE # remove the temporary file if converting failed
+			rm -f $TEMP_FILE # remove the temporary file if converting failed
 		fi
 	else
 		echo "$DATE: file not found. $ARTICLES_LIST or $CLUSTERS_FILE" >&2

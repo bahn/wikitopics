@@ -5,7 +5,7 @@
 #$ -cwd
 #$ -V
 #$ -o /home/hltcoe/bahn/log/grid
-echo parallelize_serif.sh $* >&2
+echo $HOSTNAME parallelize_serif.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
@@ -53,7 +53,7 @@ if [ "$LANG_OPTION" != "en" -a "$LANG_OPTION" != "ar" ]; then
 	exit 1
 fi
 
-BLOCK=20
+BLOCK=50
 for DIRPATH in $WIKITOPICS/data/articles/$DATA_SET/*/*; do
 	if [ ! -d "$DIRPATH" ]; then # such directory not found
 		continue

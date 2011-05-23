@@ -5,8 +5,8 @@
 #$ -cwd
 #$ -V
 #$ -o /home/hltcoe/bahn/log/grid
-#$ -l h_vmem=4G
-echo parallelize_serif_part.sh $* >&2
+#$ -l h_vmem=6G
+echo $HOSTNAME parallelize_serif_part.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2
@@ -29,7 +29,8 @@ DATASET=$1
 LANG_OPTION=`echo $DATASET | sed -e 's/-.\+$//'`
 DATE=$2
 YEAR=${DATE:0:4}
-FILES=`cat $3`
+FILELIST=$3
+FILES=`cat $FILELIST`
 
 if [ $VERBOSE ]; then
 	echo $FILES
@@ -43,7 +44,7 @@ fi
 
 OUTPUT_XML_DIR=$WIKITOPICS/data/serif/$DATASET/$YEAR/$DATE
 
-BATCH_FILE=$OUTPUT_XML_DIR/filelist_xml_`echo $FILES | sed -e 's/ .*$//'`.txt
+BATCH_FILE=$OUTPUT_XML_DIR/`basename $FILELIST`.txt
 mkdir -p `dirname $BATCH_FILE`
 rm -f $BATCH_FILE
 
@@ -59,7 +60,7 @@ time for FILENAME in $FILES; do
 	echo $BASENAME | sed -e 's/\.sentences$//' | sed -e 's/_/ /g' | perl -e 'use URI::Escape; print uri_unescape(<STDIN>);' > $INPUT_SENTENCES
 #cat $FILE | perl -ne "if (/[\.\,\'\"\!\?\:\;][\)]?$/) { print }" >> "$OUTPUT_DIR/$BASENAME"
 	cat $SENTENCES >> $INPUT_SENTENCES
-	$WIKITOPICS/src/sent/generate_serifxml.py $INPUT_SENTENCES > $INPUT_XML
+	$WIKITOPICS/src/sent/generate_serifxml.py $LANG_OPTION $INPUT_SENTENCES > $INPUT_XML
 	echo $INPUT_XML >> $BATCH_FILE
 done
 

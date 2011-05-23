@@ -1,6 +1,13 @@
 #!/bin/bash
-# get_monthly_stats.sh
+#$ -N get_month
+#$ -S /bin/bash
+#$ -j y
+#$ -cwd
+#$ -V
+#$ -l h_vmem=1G
 # Download archived Wikipedia page view statistics for a specific month.
+
+echo $HOSTNAME get_monthly_stats.sh $*
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

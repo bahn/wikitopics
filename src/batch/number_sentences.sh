@@ -4,7 +4,8 @@
 #$ -j y
 #$ -cwd
 #$ -V
-echo number_sentences.sh $* >&2
+
+echo $HOSTNAME number_sentences.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2

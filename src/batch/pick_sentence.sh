@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=1G
 
-echo pick_sentence.sh $* >&2
+echo $HOSTNAME pick_sentence.sh $* >&2
 
 if [ "$WIKITOPICS" == "" ]; then
 	echo "Set the WIKITOPICS environment variable first." >&2

@@ -8,7 +8,7 @@
 #$ -l h_vmem=1G
 
 # memory requirements: 6G
-echo extract_redirects.sh $* >&2
+echo $HOSTNAME extract_redirects.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

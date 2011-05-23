@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=6G
 
-echo add_hourly_stats.sh $* >&2
+echo $HOSTNAME add_hourly_stats.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

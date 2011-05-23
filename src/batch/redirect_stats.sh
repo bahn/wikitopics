@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=2G
 
-echo redirect_stats.sh $* >&2
+echo $HOSTNAME redirect_stats.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

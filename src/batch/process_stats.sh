@@ -8,7 +8,7 @@
 #$ -l h_vmem=6G
 
 # process_stats.sh
-echo "process_stats.sh $*" >&2
+echo $HOSTNAME "process_stats.sh $*" >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -49,6 +49,14 @@ if echo $DATA_SET | grep - > /dev/null; then
 	FILTER="-f `echo $DATA_SET | sed -e 's/^.\+-//'`"
 fi
 
+if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" -o "$LANG_OPTION" == "ur" -o "$LANG_OPTION" == "hi" -o "$LANG_OPTION" == "es" -o "$LANG_OPTION" == "de" -o "$LANG_OPTION" == "fr" -o "$LANG_OPTION" == "cs" -o "$LANG_OPTION" == "ko" -o "$LANG_OPTION" == "ja" ]; then
+	SENTENCE_SPLIT=1
+fi
+
+if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" ]; then
+	SERIFABLE=1
+fi
+
 INPUT_DIR="$WIKISTATS/archive"
 OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
 if [ "$DATA_SET" == "ko" ]; then
@@ -71,37 +79,52 @@ else
 	CUT_OFF="-c 50"
 fi
 
-date +"%Y-%m-%d %H:%M:%S" >&2
-time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
-
-if [ "$REDIRECTS" != "" ]; then
-    time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
+if [ "$HOSTNAME" == "a05" -o "$HOSTNAME" == "a05.clsp.jhu.edu" ]; then
+	HLTCOE=0
+else
+	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+		#HLTCOE=1
+		echo # pass
+	fi
 fi
 
-time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
-time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
+if [ $HLTCOE ]; then
+# parallel version
+	$WIKITOPICS/src/batch/parallelize_stats.sh $DATA_SET $START_DATE $END_DATE "$REDIRECTS" "$CUT_OFF" # just in case redirects is null
+else
+# serial version
+	date +"%Y-%m-%d %H:%M:%S" >&2
+	time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
 
-if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" -o "$LANG_OPTION" == "ur" -o "$LANG_OPTION" == "hi" -o "$LANG_OPTION" == "es" -o "$LANG_OPTION" == "de" -o "$LANG_OPTION" == "fr" -o "$LANG_OPTION" == "cs" -o "$LANG_OPTION" == "ko" -o "$LANG_OPTION" == "ja" ]; then
-	time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
-	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-		if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" ]; then # parallelize
-			$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+	if [ "$REDIRECTS" != "" ]; then
+		time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
+	fi
 
-			# serial version
-			#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
-			#time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
-			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
-			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
-			#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
-			#time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
+	time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
+
+	if [ $SENTENCE_SPLIT ]; then
+		time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
+		time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+		if [ $HLTCOE ]; then
+			if [ $SERIFABLE ]; then # parallelize
+				$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+
+				# serial version
+				#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
+				#time $WIKITOPICS/src/batch/serif.sh $DATA_SET $START_DATE $END_DATE
+				#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET first $START_DATE $END_DATE
+				#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET recent $START_DATE $END_DATE
+				#time $WIKITOPICS/src/batch/pick_sentence.sh $DATA_SET self $START_DATE $END_DATE
+				#time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+			else
+				time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+			fi
 		else
 			time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
 		fi
 	else
-		time $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $START_DATE $END_DATE
+		time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
 	fi
-else
-	time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
+	date +"%Y-%m-%d %H:%M:%S" >&2
 fi
-date +"%Y-%m-%d %H:%M:%S" >&2

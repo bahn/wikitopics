@@ -2,13 +2,19 @@
 
 use Env qw(HOME);
 
-print $1;
+$DELETE=0;
+if ($ARGV[0] eq "--delete") {
+	shift @ARGV;
+	print "delete log files without an error...\n";
+	$DELETE=1;
+}
+
 $DIR="$HOME/log/grid";
 unless (-d $DIR) {
-	die "$0 INPUT_DIR" unless (-d $1);
-	$DIR = $1;
-} elsif (-d $1) {
-	$DIR = $1;
+	die "$0 INPUT_DIR" unless (-d $ARGV[0]);
+	$DIR = $ARGV[0];
+} elsif (-d $ARGV[0]) {
+	$DIR = $ARGV[0];
 }
 
 @FILES = glob("$DIR/proc_daily.* $DIR/get_daily.*");

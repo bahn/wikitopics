@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=6G
 
-echo list_topics.sh $* >&2
+echo $HOSTNAME list_topics.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

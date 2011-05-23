@@ -7,7 +7,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=1G
 
-echo convert_topics.sh $* >&2
+echo $HOSTNAME convert_topics.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then

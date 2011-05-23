@@ -6,7 +6,7 @@
 #$ -o /home/hltcoe/bahn/log/grid
 #$ -l h_vmem=3G
 
-echo kmeans.sh $* >&2
+echo $HOSTNAME kmeans.sh $* >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
