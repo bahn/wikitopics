@@ -6,8 +6,14 @@ Generate a Serif-style xml file from a raw input text
 import os
 import sys
 
-def write_serifxml(filename):
+def write_serifxml(language, filename):
 	try:
+		if language == 'en':
+			language = "English"
+		elif language == 'zh':
+			language = "Chinese"
+		elif language == 'ar':
+			language = "Arabic"
 		sentences = []
 		f = open(filename, 'r')
 		offset = 0
@@ -17,7 +23,7 @@ def write_serifxml(filename):
 			offset += length
 		print '<?xml version="1.0" encoding="UTF-8" ?>'
 		print '<SerifXML version="1">'
-		print '<Document docid="doc-0" language="English">'
+		print '<Document docid="doc-0" language="' + language + '">'
 		print '<OriginalText href="file://' + os.path.abspath(filename) + '"/>'
 		print '<Regions>'
 		print '  <Region char_offsets="0:' + str(offset - 1) + '" tag="TEXT" id="the-only-region"/>'
@@ -34,8 +40,8 @@ def write_serifxml(filename):
 	
 
 if __name__=="__main__":
-	if len(sys.argv) != 2:
-		sys.stderr.write("generate_serifxml.py raw_text.file\n");
+	if len(sys.argv) != 3:
+		sys.stderr.write("generate_serifxml.py language, raw_text.file\n");
 		sys.exit(1)
 	
-	write_serifxml(sys.argv[1])
+	write_serifxml(sys.argv[1], sys.argv[2])

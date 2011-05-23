@@ -3,8 +3,12 @@
 use List::Util 'shuffle';
 use URI::Escape;
 
-$date = "2011-05-02";
-$lang = "en";
+if (scalar @ARGV != 2) {
+	die "Usage: $0 language date";
+}
+
+$lang = $ARGV[0];
+$date = $ARGV[1];
 $year = substr $date, 0, 4;
 $wikitopics_path = $ENV{'WIKITOPICS'};
 $topic_path = "$wikitopics_path/data/topics/$lang/$year/$date.topics";
@@ -40,15 +44,15 @@ sub print_articles {
 			$_ = shift @articles;
 			/([^ ]+) .+/;
 			$file = uri_escape($1, "^A-Za-z0-9\-\. _~\%");
-			$article_path = "$articles_path/$file.article";
+			$sentences_path = "$articles_path/$file.sentences";
 			$tags_path = "$articles_path/$file.tags";
 			$title = escape_for_csv($_);
 			$title =~ s/ /,/;
 			$title =~ s/_/ /g;
 			print "$title,";
 			
-			if ((-f "$article_path") && (-f "$tags_path")) {
-				open ARTICLE_FILE, "<$article_path";
+			if ((-f "$sentences_path") && (-f "$tags_path")) { # print the first paragraph
+				open ARTICLE_FILE, "<$sentences_path";
 				open TAG_FILE, "<$tags_path";
 				while (<ARTICLE_FILE>) {
 					chomp;
@@ -58,7 +62,7 @@ sub print_articles {
 					if ($tag eq "Sentence" || $tag eq "LastSentence") {
 						print "$sentence";
 						if ($tag eq "LastSentence") {
-							break;
+							last;
 						} else {
 							print " ";
 						}

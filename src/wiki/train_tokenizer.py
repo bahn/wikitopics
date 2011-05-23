@@ -23,6 +23,7 @@ def main():
 		if len(sys.argv) > 3:
 			train_data_size = len(sys.argv[3])
 		collect_wiki_corpus(language, lang_id, train_data_size)
+		train_sentence_splitter(language)
 	
 
 def collect_wiki_corpus(language, lang, num_items):

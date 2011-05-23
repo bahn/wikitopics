@@ -157,5 +157,5 @@ if __name__=='__main__':
 				topics[field[0]] = {'score': int(field.get(1, '0')), 'thenid': int(field.get(2, '0')), 'priorid': int(field.get(3, '0'))}
 		else:
 			sys.stderr.write(argv + ' file not found. looking for Wikipedia page named ' + argv + '...\n')
-			topics[argv] = {'score': 0, 'thenid': 0, 'priorid': 0}
+			topics[argv.decode('utf8')] = {'score': 0, 'thenid': 0, 'priorid': 0}
 	fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun)
