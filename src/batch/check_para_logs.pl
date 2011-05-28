@@ -17,7 +17,7 @@ unless (-d $DIR) {
 	$DIR = $1;
 }
 
-@FILES = glob("$DIR/para_serif.* $DIR/para_proc.*");
+@FILES = glob("$DIR/para_serif.* $DIR/para_proc.* $DIR/ext_redir.* $DIR/conv_clust.*");
 foreach $FILENAME (@FILES) {
 	open FILE, $FILENAME;
 	$first_error = 1;

@@ -138,9 +138,7 @@ public class ClusterFiles
 			new FeatureSequence2FeatureVector()
 			}));
 
-		if (inputFile.value == null) {
-			instances.addThruPipe(new FileIterator(inputDir.value, new ArticleFileFilter(instanceLimit.value)));
-		} else {
+		if (inputFile.value != null) {
 			BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(inputFile.value), "UTF-8"));
 			int numFiles = 0;
 			String line;
@@ -151,11 +149,16 @@ public class ClusterFiles
 				String[] fields = line.split("\\s");
 				String title = fields[0];
 				String filename = URLEncoder.encode(title, "UTF-8").replace("%25", "%") + ".sentences";
+				if (filename.startsWith(".")) {
+					filename = "%2E" + filename.substring(1);
+				}
 				File file = new File(inputDir.value, filename);
 				Instance instance = new Instance(file, title, file.toURI(), null);
 				instances.addThruPipe(instance);
 				numFiles++;
 			}
+		} else if (inputDir.value != null) {
+			instances.addThruPipe(new FileIterator(inputDir.value, new ArticleFileFilter(instanceLimit.value)));
 		}
 		System.out.println("# Input file list: " + inputFile.value);
 		System.out.println("# The number of instances: " + instances.size());

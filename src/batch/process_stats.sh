@@ -17,7 +17,7 @@ if [ "$WIKITOPICS" == "" ]; then
 fi
 
 # check command-line options
-while [ "$1" == "-r" ]; do
+while [ "$1" == "-r" -o "$1" == "-s" ]; do
     if [ "$1" == "-r" ]; then
         REDIRECTS="$2"
         shift; shift
@@ -25,13 +25,16 @@ while [ "$1" == "-r" ]; do
             echo "Redirect file $REDIRECTS not found" >&2
             exit 1
         fi
+	elif [ "$1" == "-s" ]; then
+		STARTING_STEP="$2"
+		shift; shift
     fi
 done
 
 if [ $# -lt 2 -o $# -gt 3 ]
 then
-    echo "Usage: $0 DATA_SET START_DATE [END_DATE]" >&2
-    echo "Given command-line options: $*" >&2
+    echo "Usage: $0 [-s STARTING_STEP] DATA_SET START_DATE [END_DATE]" >&2
+	echo "steps: 1) articles, 2) clusters, 3) sentences" >&2
     exit 1
 fi
 
@@ -79,36 +82,57 @@ else
 	CUT_OFF="-c 50"
 fi
 
-if [ "$HOSTNAME" == "a05" -o "$HOSTNAME" == "a05.clsp.jhu.edu" ]; then
-	HLTCOE=0
-else
-	if [ -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-		#HLTCOE=1
-		echo # pass
-	fi
+if [ "$HOSTNAME" != "a05" -a "$HOSTNAME" != "a05.clsp.jhu.edu" -a -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+	HLTCOE=1
 fi
 
-if [ $HLTCOE ]; then
+if [ "$STARTING_STEP" == "" ]; then
+	WORKING=1
+fi
+
+#if [ $HLTCOE ]; then
 # parallel version
-	$WIKITOPICS/src/batch/parallelize_stats.sh $DATA_SET $START_DATE $END_DATE "$REDIRECTS" "$CUT_OFF" # just in case redirects is null
-else
+	#$WIKITOPICS/src/batch/parallelize_stats.sh $DATA_SET $START_DATE $END_DATE "$REDIRECTS" "$CUT_OFF" # just in case redirects is null
+#else
 # serial version
 	date +"%Y-%m-%d %H:%M:%S" >&2
-	time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
+	
+	if [ $WORKING ]; then
+		time $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $START_DATE $END_DATE
 
-	if [ "$REDIRECTS" != "" ]; then
-		time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
+		if [ "$REDIRECTS" != "" ]; then
+			time $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $START_DATE $END_DATE
+		fi
 	fi
 
-	time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
-	time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
+	if [ "$STARTING_STEP" == "1" -o "$STARTING_STEP" == "articles" -o "$STARTING_STEP" == "article_selection" ]; then
+		WORKING=1
+	fi
+
+	if [ $WORKING ]; then
+		time $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
+		time $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $START_DATE $END_DATE
+	fi
+
+	if [ "$STARTING_STEP" == "2" -o "$STARTING_STEP" == "clusters" -o "$STARTING_STEP" == "clustering" ]; then
+		WORKING=1
+	fi
 
 	if [ $SENTENCE_SPLIT ]; then
-		time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
-		time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+		if [ $WORKING ]; then
+			time $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $START_DATE $END_DATE
+			time $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $START_DATE $END_DATE
+		fi
+
+		if [ "$STARTING_STEP" == "3" -o "$STARTING_STEP" == "sentences" -o "$STARTING_STEP" == "sentence_selection" ]; then
+			WORKING=1
+		fi
+
 		if [ $HLTCOE ]; then
 			if [ $SERIFABLE ]; then # parallelize
-				$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+				if [ $WORKING ]; then
+					$WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $START_DATE $END_DATE
+				fi
 
 				# serial version
 				#time $WIKITOPICS/src/batch/filter_sentences.sh $DATA_SET $START_DATE $END_DATE
@@ -127,4 +151,4 @@ else
 		time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
 	fi
 	date +"%Y-%m-%d %H:%M:%S" >&2
-fi
+#fi

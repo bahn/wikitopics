@@ -53,7 +53,7 @@ if [ "$LANG_OPTION" != "en" -a "$LANG_OPTION" != "ar" ]; then
 	exit 1
 fi
 
-BLOCK=50
+BLOCK=100
 for DIRPATH in $WIKITOPICS/data/articles/$DATA_SET/*/*; do
 	if [ ! -d "$DIRPATH" ]; then # such directory not found
 		continue
