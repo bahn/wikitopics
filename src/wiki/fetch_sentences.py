@@ -87,7 +87,7 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun, r
 				no_retry += 1
 				time.sleep(wait)
 
-		sentences, tags = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True)
+		sentences, tags, citations = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True, True)
 		# substitute angle brackets with html-like character encodings
 		#sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
 		#sentences.insert(0, urllib.unquote(file_prefix.replace('_',' ')) + '.')

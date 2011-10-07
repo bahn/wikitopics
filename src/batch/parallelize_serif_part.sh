@@ -37,7 +37,7 @@ if [ $VERBOSE ]; then
 	exit
 fi
 
-if [ "$LANG_OPTION" != "en" -a "$LANG_OPTION" != "ar" ]; then
+if [ "$LANG_OPTION" != "en" ]; then
 	echo "serif does not support the language $LANG_OPTION" >&2
 	exit 1
 fi

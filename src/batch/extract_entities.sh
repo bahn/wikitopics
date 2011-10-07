@@ -16,9 +16,13 @@ ARTICLE="$3"
 YEAR=${DATE:0:4}
 
 INPUT_FILE="$WIKITOPICS/data/serif/input/$LANG_OPTION/$YEAR/$DATE/$ARTICLE.sentences"
-APF_FILE="$WIKITOPICS/data/serif/$LANG_OPTION/$YEAR/$DATE/output/$ARTICLE.sentences.apf"
-if [ -f "$INPUT_FILE" -a -f "$APF_FILE" ]; then
+#APF_FILE="$WIKITOPICS/data/serif/$LANG_OPTION/$YEAR/$DATE/output/$ARTICLE.sentences.apf"
+XML_FILE="$WIKITOPICS/data/serif/$LANG_OPTION/$YEAR/$DATE/output/$ARTICLE.xml.xml"
+#if [ -f "$INPUT_FILE" -a -f "$APF_FILE" ]; then
+if [ -f "$INPUT_FILE" -a -f "$XML_FILE" ]; then
 	echo "Input: $INPUT_FILE" >&2
-	echo "Serif: $APF_FILE" >&2
-	$WIKITOPICS/src/sent/extract_entities.py $INPUT_FILE $APF_FILE
+	echo "XML: $XML_FILE" >&2
+	#echo "Serif: $APF_FILE" >&2
+	#$WIKITOPICS/src/sent/extract_entities_apf.py $INPUT_FILE $APF_FILE
+	$WIKITOPICS/src/sent/extract_entities_xml.py $INPUT_FILE $XML_FILE
 fi

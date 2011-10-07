@@ -25,6 +25,7 @@ while [ "$1" == "-r" -o "$1" == "-s" ]; do
             echo "Redirect file $REDIRECTS not found" >&2
             exit 1
         fi
+		# Redirects will be ignored
 	elif [ "$1" == "-s" ]; then
 		STARTING_STEP="$2"
 		shift; shift
@@ -35,6 +36,10 @@ if [ $# -lt 2 -o $# -gt 3 ]
 then
     echo "Usage: $0 [-s STARTING_STEP] DATA_SET START_DATE [END_DATE]" >&2
 	echo "steps: 1) articles, 2) clusters, 3) sentences" >&2
+	echo "no starting step: starts from aggregating statistics and processing redirects"
+	echo "1) articles: starts from articles selection and checking Wikipedia revision IDs"
+	echo "2) clusters: starts from fetching the article text and clustering"
+	echo "3) sentences: starts from running Serif"
     exit 1
 fi
 
@@ -56,12 +61,11 @@ if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" 
 	SENTENCE_SPLIT=1
 fi
 
-if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" ]; then
+if [ "$LANG_OPTION" == "en" ]; then
+	# process only English. Serif is available for Arabic and Chinese, but SerifArabic crashed quite often - once a few days. - 9/29/2011 bahn.
 	SERIFABLE=1
 fi
 
-INPUT_DIR="$WIKISTATS/archive"
-OUTPUT_DIR="$WIKISTATS/process/$DATA_SET"
 if [ "$DATA_SET" == "ko" ]; then
 	REDIRECTS="$WIKIDUMP/kowiki-20110303/redirects.txt"
 elif [ "$DATA_SET" == "zh" ]; then
@@ -90,11 +94,14 @@ if [ "$STARTING_STEP" == "" ]; then
 	WORKING=1
 fi
 
-#if [ $HLTCOE ]; then
-# parallel version
-	#$WIKITOPICS/src/batch/parallelize_stats.sh $DATA_SET $START_DATE $END_DATE "$REDIRECTS" "$CUT_OFF" # just in case redirects is null
-#else
-# serial version
+if [ $HLTCOE -a $START_DATE != $END_DATE ]; then
+	if [ "$STARTING_STEP" != "" ]; then
+		STARTING_STEP="-s $STARTING_STEP"
+	fi
+	# parallel version
+	$WIKITOPICS/src/batch/parallelize_stats.sh $STARTING_STEP $DATA_SET $START_DATE $END_DATE "$REDIRECTS" "$CUT_OFF" # just in case redirects is null
+else
+	# serial version
 	date +"%Y-%m-%d %H:%M:%S" >&2
 	
 	if [ $WORKING ]; then
@@ -151,4 +158,4 @@ fi
 		time $WIKITOPICS/src/batch/convert_topics.sh $DATA_SET $START_DATE $END_DATE
 	fi
 	date +"%Y-%m-%d %H:%M:%S" >&2
-#fi
+fi

@@ -19,7 +19,14 @@ unless (-d $DIR) {
 
 @FILES = glob("$DIR/proc_daily.* $DIR/get_daily.*");
 print "DATE      \tTIME\n";
+
+$first_error = 1;
 foreach $FILENAME (@FILES) {
+	if (!$first_error) {
+		# There have been an error or more in the previous file.
+		print STDERR "\n";
+	}
+
 	open FILE, $FILENAME;
 	$first_time = 1;
 	$first_error = 1;
@@ -48,7 +55,7 @@ foreach $FILENAME (@FILES) {
 				/processing finished./)
 			{
 				if ($first_error) {
-					print STDERR "In the $FILENAME file:\n";
+					print STDERR "Log file name: $FILENAME\n";
 					$first_error = 0;
 				}
 				print STDERR;

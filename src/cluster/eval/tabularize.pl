@@ -71,9 +71,9 @@ while (<>) {
             $algo = $1;
             $confirm_date = $2;
         } else {
-            print "$_\n";
+            #print "$_\n";
         }
-        die "Dates don't match: $date and $confirm_date" if ($date ne $confirm_date);
+        #die "Dates don't match: $date and $confirm_date" if ($date ne $confirm_date);
         # for cluster threshold: e.g. cluster-mturk.1
         if (/clusters-mturk.(\d)/) {
             $algo = $algo . $1;

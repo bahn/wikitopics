@@ -59,6 +59,8 @@ cd $WORKING
 # reset the count of downloaded files
 COUNT=0
 
+rm -f index.html
+rm -f wget.log
 wget -nv -o wget.log http://dammit.lt/wikistats/
 if [ -e wget.log ]; then
     cat wget.log >> download-log.txt
@@ -68,7 +70,7 @@ fi
 if [ ! -e index.html ]; then
     echo "fail to download the directory listing" >&2
 else
-	FILES=`grep $DATE index.html | sed -e 's/^.*href="//' -e 's/".*$//'`
+	FILES=`grep $DATE index.html | sed -e 's/^.*href="//' -e 's/".*$//' | grep -v "^\."`
 	rm -f index.html
 
 	if [ $DRYRUN ]; then
@@ -85,7 +87,8 @@ else
 			fi
 			mkdir -p $ARCHIVE/$YEAR/$MONTH
 			rm -f $BASENAME # delete if any previous downloaded file exists; otherwise it will interfere with downloading
-			wget -nv -o wget.log http://dammit.lt/wikistats/$FILE
+			rm -f wget.log
+			wget -nv -o wget.log http://dammit.lt/wikistats/$BASENAME
 			if [ -e wget.log ]; then
 				cat wget.log >> download-log.txt
 				rm -f wget.log
@@ -104,6 +107,8 @@ else
 	fi
 fi
 
+rm -f index.html
+rm -f wget.log
 wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/
 if [ -e wget.log ]; then
     cat wget.log >> download-log.txt
@@ -113,7 +118,7 @@ fi
 if [ ! -e index.html ]; then
     echo "fail to download the directory listing http://dammit.lt/wikistats/archive/$YEAR/$MONTH/" >&2
 else
-	FILES=`grep $DATE index.html | sed -e 's/^.*href="//' -e 's/".*$//'`
+	FILES=`grep $DATE index.html | sed -e 's/^.*href="//' -e 's/".*$//' | grep -v "^\."`
 	rm -f index.html
 
 	if [ $DRYRUN ]; then
@@ -130,6 +135,7 @@ else
 			fi
 			mkdir -p $ARCHIVE/$YEAR/$MONTH
 			rm -f $BASENAME # delete if any previous downloaded file exists; otherwise it will interfere with downloading
+			rm -f wget.log
 			wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
 			if [ -e wget.log ]; then
 				cat wget.log >> download-log.txt
@@ -157,6 +163,8 @@ fi
 # remove the working directory
 mkdir -p $WIKISTATS/downloading/log
 mv download-log.txt $WIKISTATS/downloading/log/download-log-$DATE.txt
+rm -f wget.log
+rm -f index.html
 cd ..
 rmdir $WORKING
 

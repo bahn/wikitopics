@@ -36,7 +36,7 @@ if [ $DRYRUN ]; then
 fi
 
 YEAR=$1
-MONTH=`printf "%02d" $2`
+MONTH=$2
 
 # save current working directory
 CWD=`pwd`

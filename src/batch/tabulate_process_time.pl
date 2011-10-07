@@ -17,12 +17,18 @@ unless (-d $DIR) {
 	$DIR = $ARGV[0];
 }
 
-@FILES = glob("$DIR/proc_stats.* $DIR/do_all.* $DIR/proc_stat.* $DIR/do_almost.* $DIR/do_another.*");
+@FILES = glob("$DIR/proc_stats.* $DIR/do_all.* $DIR/do_almost.* $DIR/do_another.*");
 print "START DATE\tEND DATE  \tLANG\tSTEP\tTIME\n";
 foreach $FILENAME (@FILES) {
 	open FILE, $FILENAME;
 	$first_error = 1;
+	$any_error = 0;
 	while (<FILE>) {
+		$node = "";
+		if (/^(ch\d+n\d+) /) {
+			$node = $1;
+			s/^\S+ //;
+		}
 		if (/^(\w+)\.(sh|py|pl)\s+(\-\S+\s+\S+\s+)?(\S+)\s+(\S+\s+)?([\-\d]+)(\s+([\-\d]+))?$/) {
 			$step = $1;
 			if ($step eq "add_hourly_stats") {
@@ -190,6 +196,7 @@ foreach $FILENAME (@FILES) {
 				/Your job \d+ \(\"\w+\"\) has been submitted/ || # qsub
 				/^$/) # empty line
 			{
+				$any_error = 1;
 				if ($first_error) {
 					print STDERR "Log file: $FILENAME\n";
 					$first_error = 0;
@@ -202,4 +209,9 @@ foreach $FILENAME (@FILES) {
 		}
 	}
 	close FILE;
+	if ($DELETE) {
+		if (!$any_error) {
+			unlink $FILENAME;
+		}
+	}
 }

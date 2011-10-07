@@ -6,8 +6,8 @@
 #$ -V
 #$ -o /home/hltcoe/bahn/log/grid
 
-# process_stats.sh
-echo $HOSTNAME "process_stats.sh $*" >&2
+# parallelize_stats.sh
+echo $HOSTNAME "parallelize_stats.sh $*" >&2
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
@@ -15,10 +15,16 @@ if [ "$WIKITOPICS" == "" ]; then
 	exit 1
 fi
 
+# check command-line options
+if [ "$1" == "-s" ]; then
+	STARTING_STEP="$2"
+	shift; shift
+fi
+
 if [ $# -lt 3 -o $# -gt 5 ]
 then
 	echo "Parallelize all jobs. Divide jobs into daily parts." >&2
-    echo "Usage: $0 DATA_SET START_DATE END_DATE [REDIRECTS [CUT_OFF]]" >&2
+    echo "Usage: $0 [-s STARTING_STEP] DATA_SET START_DATE END_DATE" >&2
     exit 1
 fi
 
@@ -38,27 +44,31 @@ if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" 
 	SENTENCE_SPLIT=1
 fi
 
-if [ "$LANG_OPTION" == "en" -o "$LANG_OPTION" == "ar" -o "$LANG_OPTION" == "zh" ]; then
+if [ "$LANG_OPTION" == "en" ]; then
+	# process only English. Serif is available for Arabic and Chinese, but SerifArabic crashed quite often - once a few days. - 9/29/2011 bahn.
 	SERIFABLE=1
 fi
 
-if [ "$HOSTNAME" == "a05" -o "$HOSTNAME" == "a05.clsp.jhu.edu" -o ! -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
-	echo "This script only runs on COE grid." >&2
-	exit 1
-fi
+#if [ "$HOSTNAME" == "a05" -o "$HOSTNAME" == "a05.clsp.jhu.edu" -o ! -f "/export/common/tools/serif/bin/SerifEnglish" ]; then
+#	echo "This script only runs on COE grid." >&2
+#	exit 1
+#fi
 
 init_qsub()
 {
 	JOBIDS=""
 	JOBIDS_TO_MERGE=""
 	PREV_STEP_JOBID=""
+	PREV_STEP_SET=
 }
 
 qsub_run()
 {
 	if [ "$JOBIDS" == "" ]; then
+		echo qsub $*
 		JID=`qsub $*`
 	else
+		echo qsub -hold_jid $JOBIDS $*
 		JID=`qsub -hold_jid $JOBIDS $*`
 	fi
 	JOBIDS=`echo $JID | sed -e 's/Your job \([0-9]\+\) (\"[^\"]\+\") has been submitted/\1/'`
@@ -66,7 +76,8 @@ qsub_run()
 
 qsub_branch()
 {
-	if [ "$PREV_STEP_JOBID" == "" ]; then
+	if [ ! $PREV_STEP_SET ]; then
+		PREV_STEP_SET=1
 		PREV_STEP_JOBID="$JOBIDS"
 	else
 		JOBIDS_TO_MERGE=`echo $JOBIDS_TO_MERGE,$JOBIDS | sed -e 's/^,//'`
@@ -76,35 +87,64 @@ qsub_branch()
 
 qsub_merge()
 {
-	JOBIDS=`echo $JOBIDS,$JOBIDS_TO_MERGE | sed -e 's/^,//'`
+	JOBIDS=`echo $JOBIDS_TO_MERGE,$JOBIDS | sed -e 's/,$//'`
 	JOBIDS_TO_MERGE=""
 	PREV_STEP_JOBID=""
+	PREV_STEP_SET=
 }
 
+if [ "$STARTING_STEP" == "" ]; then
+	WORKING=1
+fi
+
 init_qsub
+
+if [ $WORKING ]; then
+	DATE=$START_DATE
+	while [ ! $DATE \> $END_DATE ]; do
+		qsub_branch
+		qsub_run $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $DATE $DATE
+		if [ "$REDIRECTS" != "" ]; then
+			qsub_run $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $DATE $DATE
+		fi
+		DATE=`date --date "$DATE 1 day" +"%Y%m%d"`
+	done
+	qsub_merge
+fi
+
+if [ "$STARTING_STEP" == "1" -o "$STARTING_STEP" == "articles" -o "$STARTING_STEP" == "article_selection" ]; then
+	WORKING=1
+fi
+
+if [ $WORKING ]; then
+	qsub_run $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $START_DATE $END_DATE
+fi
+WORKING_SAVE=$WORKING
+
 DATE=$START_DATE
 while [ ! $DATE \> $END_DATE ]; do
+	WORKING=$WORKING_SAVE
 	qsub_branch
-	qsub_run $WIKITOPICS/src/batch/add_hourly_stats.sh $DATA_SET $DATE $DATE
-	if [ "$REDIRECTS" != "" ]; then
-		qsub_run $WIKITOPICS/src/batch/redirect_stats.sh $DATA_SET $REDIRECTS $DATE $DATE
+	
+	if [ $WORKING ]; then
+		qsub_run $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $DATE $DATE
 	fi
-    DATE=`date --date "$DATE 1 day" +"%Y%m%d"`
-done
 
-qsub_merge
-qsub_run $WIKITOPICS/src/batch/list_topics.sh $CUT_OFF $DATA_SET $DATE $DATE
-
-DATE=$START_DATE
-while [ ! $DATE \> $END_DATE ]; do
-	qsub_branch
-	qsub_run $WIKITOPICS/src/batch/check_revisions.sh $DATA_SET $DATE $DATE
+	if [ "$STARTING_STEP" == "2" -o "$STARTING_STEP" == "clusters" -o "$STARTING_STEP" == "clustering" ]; then
+		WORKING=1
+	fi
 
 	if [ $SENTENCE_SPLIT ]; then
-		qsub_run $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $DATE $DATE
-		qsub_run $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $DATE $DATE
+		if [ $WORKING ]; then
+			qsub_run $WIKITOPICS/src/batch/fetch_sentences.sh $DATA_SET $DATE $DATE
+			qsub_run $WIKITOPICS/src/batch/kmeans.sh $DATA_SET $DATE $DATE
+		fi
 
-		if [ $SERIFABLE ]; then # parallelize
+		if [ "$STARTING_STEP" == "3" -o "$STARTING_STEP" == "sentences" -o "$STARTING_STEP" == "sentence_selection" ]; then
+			WORKING=1
+		fi
+
+		if [ $SERIFABLE -a $WORKING ]; then # parallelize
 			qsub_run $WIKITOPICS/src/batch/parallelize_serif.sh $DATA_SET $DATE $DATE
 		else
 			qsub_run $WIKITOPICS/src/batch/convert_clusters.sh $DATA_SET $DATE $DATE
