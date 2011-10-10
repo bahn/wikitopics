@@ -15,6 +15,7 @@ import urllib
 import time
 import wikipydia
 import wpTextExtractor
+import traceback
 
 def read_lines_from_file(filename, encoding='utf8'):
 	"""																													   
@@ -87,7 +88,20 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun, r
 				no_retry += 1
 				time.sleep(wait)
 
-		sentences, tags, citations = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True, True)
+		if not wikimarkup:
+			print 'Retrieving', title, 'failed'
+			print 'RevID:', revid
+			print 'Date:', date.isoformat()
+			continue
+		try:
+			sentences, tags, citations = wpTextExtractor.wiki2sentences(wikimarkup, determine_splitter(lang), True, True)
+		except:
+			sys.stdout.flush()
+			sys.stdout.write('Failed retrieving the text from ' + title + '\n')
+			traceback.print_exc()
+			sys.stdout.flush()
+			continue
+
 		# substitute angle brackets with html-like character encodings
 		#sentences = [re.sub('<', '&lt;', re.sub('>', '&gt;', s)) for s in sentences]
 		#sentences.insert(0, urllib.unquote(file_prefix.replace('_',' ')) + '.')

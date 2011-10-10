@@ -25,7 +25,7 @@ today = date.today()
 
 lang = 'en'
 day = firstday
-while day <= today:
+while day < today:
 	datestr = day.isoformat()
 
 	articles_list_filename = os.path.join(wikitopics, 'data', 'articles', lang, str(day.year), datestr, datestr + ".articles.list")

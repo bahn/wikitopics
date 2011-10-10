@@ -17,7 +17,7 @@ unless (-d $DIR) {
 	$DIR = $1;
 }
 
-@FILES = glob("$DIR/para_serif.* $DIR/para_proc.* $DIR/ext_redir.* $DIR/conv_clust.*");
+@FILES = glob("$DIR/para_serif.* $DIR/para_proc.* $DIR/ext_redir.* $DIR/conv_clust.* $DIR/add_stats.* $DIR/redir_stat.* $DIR/list_topic.* $DIR/check_rev.* $DIR/fetch_sent.* $DIR/kmeans.*");
 foreach $FILENAME (@FILES) {
 	open FILE, $FILENAME;
 	$first_error = 1;
@@ -27,21 +27,21 @@ foreach $FILENAME (@FILES) {
 		if (!$first_line) {
 			$first_line = $_;
 		}
-		if (/^(\w+)\.(sh|py|pl)\s+/) {
+		if (/(\w+)\.(sh|py|pl)\s+/) {
 			$step = $1;
 			$lang = "";
 			$start_date = "";
 			$end_date = "";
 
-			if (/^(\w+)\.(sh|py|pl)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # ko 2011-04-18
+			if (/(\w+)\.(sh|py|pl)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # ko 2011-04-18
 				$lang = $3;
 				$start_date = $4;
 				$end_date = $6;
-			} elsif (/^(\w+)\.(sh|py|pl)\s+(\-\S+\s+\S+\s+)(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # -c 100 ko 2011-04-18
+			} elsif (/(\w+)\.(sh|py|pl)\s+(\-\S+\s+\S+\s+)(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # -c 100 ko 2011-04-18
 				$lang = $4;
 				$start_date = $5;
 				$end_date = $7;
-			} elsif (/^(\w+)\.(sh|py|pl)\s+(\S+)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # ko redirects_file 2011-04-18
+			} elsif (/(\w+)\.(sh|py|pl)\s+(\S+)\s+(\S+)\s+([\-\d]+)(\s+([\-\d]+))?/) { # ko redirects_file 2011-04-18
 				$lang = $3;
 				$start_date = $5;
 				$end_date = $7;
