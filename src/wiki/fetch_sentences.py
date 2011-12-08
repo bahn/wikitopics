@@ -56,11 +56,6 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun, r
 			break
 		title = article
 
-		# the file prefix for output files
-		file_prefix = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
-		if file_prefix.startswith('.'):
-			file_prefix = "%2E" + file_prefix[1:]
-
 		# resolve redirects
 		if not wikipydia.query_exists(title, lang):
 			continue
@@ -69,6 +64,11 @@ def fetch_articles_on_date(topics, date, lang, output_dir, upperlimit, dryrun, r
 		if title in mark:
 			continue
 		mark[title] = True
+
+		# the file prefix for output files
+		file_prefix = urllib.quote(title.replace(' ','_').encode('utf8'), safe="%") # force / to be quoted and % not to be quoted
+		if file_prefix.startswith('.'):
+			file_prefix = "%2E" + file_prefix[1:]
 
 		if dryrun:
 			print file_prefix

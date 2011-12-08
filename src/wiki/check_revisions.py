@@ -6,6 +6,7 @@ import urllib
 import os
 import wikipydia
 import utils
+import traceback
 
 def read_topics(filename, lang, date, topics, articles, redirects, failed):
 	try:
@@ -21,24 +22,27 @@ def read_topics(filename, lang, date, topics, articles, redirects, failed):
 				failed.append(title)
 				continue
 
-			# set redirects
-			r = wikipydia.query_redirects(title, lang).replace(' ','_')
-			if title != r:
-				redirects[title] = r
-				title = r
+			try:
+				# set redirects
+				r = wikipydia.query_redirects(title, lang).replace(' ','_')
+				if title != r:
+					title = r
+				thenid = wikipydia.query_revid_by_date_fallback(title, lang, date)
+				priorid = wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15))
 
-			# set articles
-			if title not in articles:
-				articles[title] = {'score': 0}
-			articles[title]['score'] += pageviews
-			thenid = wikipydia.query_revid_by_date_fallback(title, lang, date)
-			articles[title]['thenid'] = thenid
-			priorid = wikipydia.query_revid_by_date_fallback(title, lang, date - datetime.timedelta(days=15))
-			articles[title]['priorid'] = priorid
-
-			# progress bar
-			sys.stderr.write('.')
-		sys.stderr.write('\n')
+				if title != r:
+					redirects[title] = r
+				# set articles
+				if title not in articles:
+					articles[title] = {'score': 0}
+				articles[title]['score'] += pageviews
+				articles[title]['thenid'] = thenid
+				articles[title]['priorid'] = priorid
+			except:
+				sys.stderr.write('Failed while checking the title: ' + title + '\n')
+				sys.stderr.flush()
+				traceback.print_exc(file=sys.stderr)
+				sys.stderr.flush()
 	finally:
 		if f:
 			f.close()
