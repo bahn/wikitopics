@@ -5,14 +5,15 @@
 #$ -V
 #$ -l mem_free=1G
 #$ -l h_rt=20:00:00
-# Download archived Wikipedia page view statistics for a specific month.
 echo "$HOSTNAME\$ $0 $*"
+# Download Wikipedia page view statistics for a specific day.
 
 # check environment variables
 if [ "$WIKITOPICS" == "" ]; then
 	echo "the WIKITOPICS environment variable not set" >&2
 	exit 1
 fi
+
 if [ "$WIKISTATS" == "" ]; then
 	echo "the WIKISTATS environment variable not set" >&2
 	exit 1
@@ -23,9 +24,8 @@ if [ "$1" == "--dry-run" ]; then
     DRYRUN=1
     shift
 fi
-if [ $# -ne 2 ]
-then
-    echo "Usage: `basename $0` [--dry-run] YEAR MONTH" >&2
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 [--dry-run] DATE"
     exit 1
 fi
 
@@ -33,31 +33,21 @@ if [ $DRYRUN ]; then
     echo "Running a dry run..."
 fi
 
-YEAR=$1
-MONTH=$2
-
-#check the arguments
-if [ $YEAR -lt 2007 -o $YEAR -gt 2100 ]; then
-	echo Year $YEAR seems wrong. quitting...
-	exit 1
-fi
-
-if [ $MONTH -lt 1 -o $MONTH -gt 12 ]; then
-	echo Month $MONTH seems wrong. quitting...
-	exit 1
-fi
-
-MONTH=`printf "%02d" $MONTH`
+DATE=`date --date $1 +"%Y%m%d"`
+YEAR=${DATE:0:4}
+MONTH=${DATE:4:2}
+DAY=${DATE:6:2}
 
 # save current working directory
 CWD=`pwd`
 
 # set working directory
-WORKING="$WIKISTATS/downloading/$YEAR-$MONTH-$RANDOM"
+WORKING="$WIKISTATS/downloading/$YEAR-$MONTH-$DAY-$RANDOM"
 ARCHIVE="$WIKISTATS/archive/$YEAR/$MONTH"
 LOCATION="http://dumps.wikimedia.org/other/pagecounts-raw/$YEAR/$YEAR-$MONTH"
 SCRIPT="$WIKITOPICS/src/downloading/check_md5sum.py"
 
+# set working directory
 if [ -e "$WORKING" ]; then
 	echo "$WORKING already exists. cancel downloading..." >&2
 	cd $CWD
@@ -94,7 +84,7 @@ if [ ! -e index.html ]; then
 fi
 
 # extract the file listing
-FILES=`grep $YEAR$MONTH index.html | sed -e 's/^.*href="//' -e 's/".*$//' | grep -v "^\."`
+FILES=`grep $DATE index.html | sed -e 's/^.*href="//' -e 's/".*$//' | grep -v "^\."`
 rm -f index.html
 
 # get the md5 sums
