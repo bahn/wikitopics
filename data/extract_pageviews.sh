@@ -40,18 +40,14 @@ fi
 
 mkdir -p pageviews
 
-for YEAR in 2007; do
-#for YEAR in `seq 2007 2011`; do
-	for MONTH in 12; do
-	#for MONTH in 01 02 03 04 05 06 07 08 09 10 11 12; do
-		if [ ! -e "archive/$YEAR/$MONTH" ]; then
+THISYEAR=`date "+$Y"`
+for YEAR in `seq 2007 $THISYEAR`; do
+	for MONTH in 01 02 03 04 05 06 07 08 09 10 11 12; do
+		if [ ! -e "wikistats/archive/$YEAR/$MONTH" ]; then
 			continue
 		fi
-		if [ "$YEAR" == "2011" -a "$MONTH" \> "07" ]; then
-			break
-		fi
 		echo "processing $YEAR $MONTH" 1>&2
-		for FILE in archive/$YEAR/$MONTH/pagecounts-20071209*.gz; do
+		for FILE in wikistats/archive/$YEAR/$MONTH/pagecounts-*.gz; do
 			DATETIME=`echo $FILE | sed -e 's/.*pagecounts-//' -e 's/\.gz$//'`
 			#gunzip -c $FILE | awk "$CONDITIONS"' { print '\"${DATE:0:4}-${DATE:4:2}-${DATE:6:2}\"' " " $2 " " $3 } $2 > "'$LAST_LINE'" { exit }'
 			echo "processing   $FILE" 1>&2
@@ -60,7 +56,7 @@ for YEAR in 2007; do
 	done
 done
 
-TEMPFILE=foo$RANDOM.txt
+TEMPFILE=foo_$RANDOM.txt
 for FILE in pageviews/*_pageviews.txt; do
 	head -1 $FILE > $TEMPFILE
 	cat $FILE | grep -v '^date' | sort >> $TEMPFILE
