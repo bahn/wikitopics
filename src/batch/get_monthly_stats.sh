@@ -1,12 +1,11 @@
 #!/bin/bash
-#$ -N get_month
 #$ -S /bin/bash
 #$ -j y
 #$ -cwd
 #$ -V
-#$ -l h_vmem=1G
+#$ -l mem_free=1G
+#$ -l h_rt=20:00:00
 # Download archived Wikipedia page view statistics for a specific month.
-
 echo $HOSTNAME get_monthly_stats.sh $*
 
 # check environment variables
@@ -38,14 +37,26 @@ fi
 YEAR=$1
 MONTH=$2
 
+#check the arguments
+if [ $YEAR -lt 2007 -o $YEAR -gt 2100 ]; then
+	echo Year $YEAR seems wrong. quitting...
+	exit 1
+fi
+
+if [ $MONTH -lt 1 -o $MONTH -gt 12 ]; then
+	echo Month $MONTH seems wrong. quitting...
+	exit 1
+fi
+
 # save current working directory
 CWD=`pwd`
 
 # set working directory
-WORKING="$YEAR-$MONTH-$RANDOM"
-ARCHIVE="$WIKISTATS/archive"
+WORKING="$WIKISTATS/downloading/$YEAR-$MONTH-$RANDOM"
+ARCHIVE="$WIKISTATS/archive/$YEAR/$MONTH"
+LOCATION="http://dumps.wikimedia.org/other/pagecounts-raw/$YEAR/$YEAR-$MONTH"
+SCRIPT="$WIKITOPICS/src/downloading/check_md5sum.py"
 
-cd $WIKISTATS/downloading
 if [ -e "$WORKING" ]; then
 	echo "$WORKING already exists. cancel downloading..." >&2
 	cd $CWD
@@ -57,73 +68,112 @@ cd $WORKING
 
 # reset the count of downloaded files
 COUNT=0
+CHECKSUM_FAILURE=0
+VERIFAIL=0
 
-wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/
+# download the file listing
+wget -nv -o wget.log $LOCATION
+
+# print the log
 if [ -e wget.log ]; then
-    cat wget.log >> download-log.txt
+    cat wget.log
     rm -f wget.log
 fi
 
 if [ ! -e index.html ]; then
-    echo "fail to download the directory listing" >&2
-else
-	FILES=`grep $YEAR$MONTH index.html | sed -e 's/^.*href="//' -e 's/".*$//'`
-	rm -f index.html
-
-	if [ $DRYRUN ]; then
-		for FILE in $FILES; do
-			echo http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
-		done
-	else
-		for FILE in $FILES; do
-			BASENAME=`basename $FILE`
-			mkdir -p $ARCHIVE/$YEAR/$MONTH
-			rm -f $BASENAME # delete if any previous downloaded file exists; otherwise it will interfere with downloading
-			wget -nv -o wget.log http://dammit.lt/wikistats/archive/$YEAR/$MONTH/$FILE
-			if [ -e wget.log ]; then
-				cat wget.log >> download-log.txt
-				rm -f wget.log
-			fi
-			if [ ! -e $BASENAME ]; then
-				echo "failed to download $FILE" >&2
-			else
-				COUNT=$((COUNT+1))
-				if [ ! -e "$ARCHIVE/$YEAR/$MONTH/$BASENAME" ]; then
-					mv $BASENAME $ARCHIVE/$YEAR/$MONTH
-					echo "$BASENAME, previously missing, has been downloaded." >&2
-				else
-					$WIKITOPICS/src/wiki/verify_stats.py $BASENAME > /dev/null
-					if [ $? -ne 0 ]; then
-						echo "$FILE failed verification." >&2
-					fi
-					if diff -q $BASENAME $ARCHIVE/$YEAR/$MONTH/$BASENAME > /dev/null; then
-						rm -f $BASENAME
-					else
-						echo "previous downloaded $BASENAME does not match with the one just downloaded." >&2
-					fi
-				fi
-			fi
-			if [ -e wget.log ]; then
-				cat wget.log >> download-log.txt
-				rm -f wget.log
-			fi
-		done
-	fi
+    echo "failed while downloading the directory listing" >&2
+	cd $CWD
+	rm -rf $WORKING
 fi
 
+# extract the file listing
+FILES=`grep $YEAR$MONTH index.html | sed -e 's/^.*href="//' -e 's/".*$//' | grep -v "^\."`
+rm -f index.html
+
+# get the md5 sums
+wget -nv -o wget.log $LOCATION/md5sums.txt
+if [ -e wget.log ]; then
+	cat wget.log
+	rm -f wget.log
+fi
+
+if [ ! -e md5sums.txt ]; then
+	echo "failed downloading md5 sums. continuing to download..."
+fi
+
+for FILE in $FILES; do
+	BASENAME=`basename $FILE`
+	if [ $DRYRUN ]; then
+		echo "download $FILE from $LOCATION/$BASENAME"
+		COUNT=$[COUNT+1]
+		continue
+	fi
+
+	mkdir -p $ARCHIVE
+	if [ -e $ARCHIVE/$BASENAME ]; then
+		if $SCRIPT md5sums.txt $BASENAME $ARCHIVE/$BASENAME; then
+			COUNT=$[COUNT+1]
+			continue
+		else
+			echo "$BASENAME exists but it has a wrong md5 sum. redownloading..."
+		fi
+	fi
+
+	# download the pagecounts
+	rm -f $BASENAME # delete if any previous downloaded file exists; otherwise it will interfere with downloading
+	wget -nv -o wget.log $LOCATION/$BASENAME
+
+	# print the log
+	if [ -e wget.log ]; then
+		cat wget.log
+		rm -f wget.log
+	fi
+
+	if [ ! -e $BASENAME ]; then
+		echo "failed to download $FILE" >&2
+	else
+		if [ $COUNT -gt 0 ]; then
+			sleep 0.5
+		fi
+		COUNT=$[COUNT+1]
+		if $SCRIPT md5sums.txt $BASENAME $BASENAME; then
+			echo "$BASENAME successfully downloaded."
+#			$WIKITOPICS/src/wiki/verify_stats.py $BASENAME
+#			if [ $? -ne 0 ]; then
+#				VERIFAIL=$[VERIFAIL+1]
+#				echo "$BASENAME failed verification." >&2
+#			fi
+			mv $BASENAME $ARCHIVE
+		else
+			CHECKSUM_FAILURE=$[CHECKSUM_FAILURE+1]
+			if [ ! -e "$ARCHIVE/$BASENAME" ]; then
+				mv $BASENAME $ARCHIVE
+				echo "$BASENAME downloaded but the checksum failed. the file was saved though."
+			else
+				rm $BASENAME
+				echo "$BASENAME downloaded but the checksum failed. the file was discarded."
+			fi
+		fi
+	fi
+done
+
 # check the number of downloaded files
-if [ $[$COUNT % 48] -ne 0 ]
-then
+if [ $[$COUNT % 48] -ne 0 ]; then
     echo "missing or redundant: $COUNT files downloaded." >&2
 else
     echo "downloading $COUNT files succeeded."
 fi
 
-# remove the working directory
-mkdir -p $WIKISTATS/downloading/log
-mv download-log.txt $WIKISTATS/downloading/log/download-log-$YEAR-$MONTH.txt
-cd ..
-rmdir $WORKING
+if [ $CHECKSUM_FAILURE -ne 0 ]; then
+	echo "$CHECKSUM_FAILURE files failed the checksum test."
+fi
+
+if [ $VERIFAIL -ne 0 ]; then
+	echo "$VERIFAIL files failed verification."
+fi
 
 # cd back to the previous working directory
 cd $CWD
+
+# remove the working directory
+rm -rf $WORKING

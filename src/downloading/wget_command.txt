@@ -1,0 +1,16 @@
+The directory for downloading the archived wikistats.
+
+Script
+======
+
+To get the files in the uppermost directory:
+    nohup wget -r -w 5 -l 1 --no-parent -nH -o wikistats.log http://dammit.lt/wikistats/ &
+
+To get files in the archive:
+    nohup wget -r -w 5 -l 1 -nH --cut-dirs=1 --no-parent -o archive.log http://dammit.lt/wikistats/archive/2011/01/ &
+
+Cautions
+========
+Some files in /wikistats/ were wrong.
+The projectcounts files from 20110123-020000 to 20110124-010000 were all wrong. I had to manually remove them.
+
