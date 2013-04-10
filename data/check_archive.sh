@@ -1,10 +1,14 @@
 #!/bin/bash
-for M in 2007 2008 2009 2010 2011 2012; do
+for M in `seq 2007 2013`; do
 	for MM in 01 02 03 04 05 06 07 08 09 10 11 12; do
-		if [ ! -e archive/$M/$MM ]; then
+		if [ ! -e wikistats/archive/$M/$MM ]; then
 			continue
 		fi
-		NUM=`ls archive/$M/$MM | wc -l`
-		echo "$M $MM $NUM $[NUM/48] $[NUM/24]"
+		NUM=`ls wikistats/archive/$M/$MM | wc -l`
+		DAYS=$[NUM/24]
+		if [ "$DAYS" -ge 32 ]; then
+			DAYS=$[NUM/48]
+		fi
+		echo "$M $MM $DAYS $NUM"
 	done
 done
