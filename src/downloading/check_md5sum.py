@@ -18,7 +18,7 @@ for line in open(md5sum_filename):
 	md5sums[fields[1]] = fields[0]
 
 if filename not in md5sums:
-	print filename, 'is not in the file list; exiting successfully...'
+	print filename, 'does not know the correct md5 sum. exiting successfully...'
 	sys.exit(0)
 
 contents = open(filepath, 'rb').read()
