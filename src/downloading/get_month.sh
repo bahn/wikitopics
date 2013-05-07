@@ -47,7 +47,11 @@ if [ $MONTH -lt 1 -o $MONTH -gt 12 ]; then
 	exit 1
 fi
 
-MONTH=`printf "%02d" $MONTH`
+for i in `seq 9`; do
+	if [ $MONTH -eq $i ]; then
+		MONTH="0$i"
+	fi
+done
 
 # save current working directory
 CWD=`pwd`
